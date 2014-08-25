@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: merchium\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-08-22 08:00-0400\n"
+
+msgctxt "Addons::name::saas"
+msgid "SaaS mode"
+msgstr "SaaS mode"
+
+msgctxt "Addons::description::saas"
+msgid "SaaS mode"
+msgstr "SaaS mode"
+
+msgctxt "Languages::saas.new_domain"
+msgid "New domain"
+msgstr "Добавить домен"
+
+msgctxt "Languages::saas.domain"
+msgid "Domain"
+msgstr "Домен"
+
+msgctxt "Languages::saas.error_domain_exists"
+msgid "The domain is already assigned to one of our stores. Please choose another one."
+msgstr "Этот домен уже назначен на один из наших магазинов. Пожалуйста, выберите другой."
+
+msgctxt "Languages::saas.text_domains_dns"
+msgid "You'll need to login to your Domain Registrar and point the domain to Merchium’s ip address <b>[ip_address]</b><p>After adding domain, please assign it to storefront on the <a href=\"[stores_url]\">Stores</a> page</p>"
+msgstr "<p>Чтобы привязать к витрине собственный домен, перейдите в свою учетную запись на сайте регистратора доменов и добавьте в настройках домена новую <strong>A-запись</strong> с этим IP-адресом: <strong>[ip_address]</strong>.</p><p>После того, как вы добавите новый домен на этой странице, перейдите на страницу <a href=\"[stores_url]\">Магазины</a> и выберите нужный магазин. Затем введите новый домен в поле «URL витрины» и нажмите на кнопку «Сохранить».</p>"
+
+msgctxt "Languages::saas.unlimited"
+msgid "Unlimited"
+msgstr "Безлимитный|Безлимитные"
+
+msgctxt "Languages::saas.without_limitation"
+msgid "Unlimited"
+msgstr "Без ограничений"
+
+msgctxt "Languages::saas.your_current_plan"
+msgid "Your current plan"
+msgstr "Ваш текущий тариф"
+
+msgctxt "Languages::saas.current_plan"
+msgid "Current plan"
+msgstr "Текущий тариф"
+
+msgctxt "Languages::saas.days"
+msgid "day|days"
+msgstr "день|дня|дней"
+
+msgctxt "Languages::saas.trial_days_left"
+msgid "[num] Free trial [days] left"
+msgstr "Осталось [num] [days] пробного периода"
+
+msgctxt "Languages::saas.trial_time_expired"
+msgid "trial time expired"
+msgstr "Пробный период истек"
+
+msgctxt "Languages::saas.current_usage"
+msgid "Current Usage"
+msgstr "Текущее использование"
+
+msgctxt "Languages::saas.plan_name"
+msgid "Plan name"
+msgstr "Название тарифа"
+
+msgctxt "Languages::saas.upgrade_required"
+msgid "Upgrade required"
+msgstr "Необходимо обновление"
+
+msgctxt "Languages::saas.products"
+msgid "Products"
+msgstr "Товар|Товара|Товаров"
+
+msgctxt "Languages::saas.products_usage"
+msgid "Products"
+msgstr "Товары"
+
+msgctxt "Languages::saas.companie"
+msgid "Storefront"
+msgstr "Витрина"
+
+msgctxt "Languages::saas.companies"
+msgid "Storefronts"
+msgstr "Витрины"
+
+msgctxt "Languages::saas.storage"
+msgid "Storage"
+msgstr "Хранилище"
+
+msgctxt "Languages::saas.file_storage"
+msgid "file storage"
+msgstr "На диске"
+
+msgctxt "Languages::saas.custom_domain_name"
+msgid "Custom domain name"
+msgstr "Собственное доменное имя"
+
+msgctxt "Languages::saas.facebook_store"
+msgid "Facebook store"
+msgstr "Магазин на Facebook"
+
+msgctxt "Languages::saas.complete_mobile_store"
+msgid "Complete mobile store"
+msgstr "Мобильный магазин"
+
+msgctxt "Languages::saas.by_twigmo"
+msgid "by Twigmo"
+msgstr "Twigmo"
+
+msgctxt "Languages::saas.mobile_catalog"
+msgid "Mobile catalog (no checkout)"
+msgstr "Мобильный каталог (не включает страницу оплаты)"
+
+msgctxt "Languages::saas.fast_search"
+msgid "Fast search"
+msgstr "Мгновенный поиск"
+
+msgctxt "Languages::saas.by_searchanise"
+msgid "by Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Languages::saas.admin_app_for_ios"
+msgid "Admin app for iOS"
+msgstr "Приложение Панель администратора для iOS"
+
+msgctxt "Languages::saas.ebay_synchronisation"
+msgid "eBay synchronization"
+msgstr "Синхронизация с eBay"
+
+msgctxt "Languages::saas.price_comparison_feeds"
+msgid "Price comparison feeds"
+msgstr "Интеграция с онлайн-сервисами сравнения цен"
+
+msgctxt "Languages::saas.more_mobile_storefront_skins"
+msgid "More mobile storefront skins"
+msgstr "Больше визуальных тем для мобильной витрины"
+
+msgctxt "Languages::saas.personal_store_app_for_ios_android"
+msgid "Personal store app for iOS &amp; Android"
+msgstr "Персональное приложение вашего магазина для iOS и Android"
+
+msgctxt "Languages::saas.traffic"
+msgid "Traffic"
+msgstr "Трафик"
+
+msgctxt "Languages::saas.orders"
+msgid "Orders"
+msgstr "Заказ|Заказы|Заказов"
+
+msgctxt "Languages::saas.transactions"
+msgid "Orders"
+msgstr "Заказы"
+
+msgctxt "Languages::saas.set_domain"
+msgid "Set domain"
+msgstr "Установка домена"
+
+msgctxt "Languages::saas.see_all_options"
+msgid "See all options"
+msgstr "Посмотреть все варианты"
+
+msgctxt "Languages::saas.subscribe"
+msgid "Subscribe"
+msgstr "Оформить подписку"
+
+msgctxt "Languages::saas.compare_features"
+msgid "Compare features"
+msgstr "Сравнить параметры"
+
+msgctxt "Languages::saas.registered_on"
+msgid "Registered on"
+msgstr "Создан"
+
+msgctxt "Languages::saas.valid_until"
+msgid "Valid until"
+msgstr "Действительно до"
+
+msgctxt "Languages::saas.select_plan"
+msgid "Select plan"
+msgstr "Выберите тариф"
+
+msgctxt "Languages::saas.downgrade"
+msgid "Downgrade"
+msgstr "Сменить"
+
+msgctxt "Languages::saas.close_store"
+msgid "Close store"
+msgstr "Закрыть магазин"
+
+msgctxt "Languages::saas.close_your_store"
+msgid "Close your store"
+msgstr "Закрытие вашего магазина"
+
+msgctxt "Languages::saas.confirm_store_deletion"
+msgid "Confirm store closing"
+msgstr "Подтвердить закрытие магазина"
+
+msgctxt "Languages::saas.your_comment"
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+msgctxt "Languages::saas.text_delete_store_1"
+msgid "Sorry to see you leave! We'll keep your store safely suspended in case you decide to reactivate it."
+msgstr "Жаль, что вы решили закрыть свой магазин! Мы заморозим его в нынешнем состоянии на случай, если вы снова захотите восстановить его позже."
+
+msgctxt "Languages::saas.text_delete_store_2"
+msgid "We would appreciate if you took a moment to tell us why you have decided to close your store."
+msgstr "Мы будем признательны, если вы расскажете нам, почему вы решили закрыть свой магазин."
+
+msgctxt "Languages::saas.delete_select_reason"
+msgid "Select a reason..."
+msgstr "Укажите причину..."
+
+msgctxt "Languages::saas.delete_reason_quality"
+msgid "I'm not satisfied with the product quality"
+msgstr "Я не доволен качеством сервиса"
+
+msgctxt "Languages::saas.delete_reason_need_standalone"
+msgid "I need a standalone version"
+msgstr "Мне нужна коробочная версия"
+
+msgctxt "Languages::saas.delete_reason_other"
+msgid "Other"
+msgstr "Другая причина"
+
+msgctxt "Languages::saas.error_plan_products"
+msgid "Your current plan allows to create up to [n] product. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] products. To continue, please <a href=\"[href]\">upgrade</a> it."
+msgstr "Ваш текущий план не позволяет создать больше [n] продукта. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план.|Ваш текущий план не позволяет создать больше [n] продуктов. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план."
+
+msgctxt "Languages::saas.error_plan_companies"
+msgid "Your current plan allows you to create up to [n] storefront. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] storefronts. To continue, please <a href=\"[href]\">upgrade</a> it."
+msgstr "Ваш текущий план не позволяет создать больше [n] витрины. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план.|Ваш текущий план не позволяет создать больше [n] витрин. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план."
+
+msgctxt "Languages::saas.error_plan_storage"
+msgid "Your current plan allows you to store up to [n]. To continue, please <a href=\"[href]\">upgrade</a> it"
+msgstr "Ваш текущий план позволяет хранить до [n] данных. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план"
+
+msgctxt "Languages::saas.error_plan_transactions"
+msgid "Your current allows you to process up to [n] order. Please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to process up to [n] orders. Please <a href=\"[href]\">upgrade</a> it."
+msgstr "Ваш текущий план не позволяет создать больше [n] заказа. Перейдите на <a href=\"[href]\">новый</a> план.|Ваш текущий план не позволяет создать больше [n] заказов. Перейдите на <a href=\"[href]\">новый</a> план"
+
+msgctxt "Languages::saas.promo_title"
+msgid "Plan upgrade is required"
+msgstr "Функция недоступна"
+
+msgctxt "Languages::saas.promo_text"
+msgid "Please upgrade your plan to use this feature"
+msgstr "Такой функции в Мерчиуме сейчас нет :-(<br/><br/>Если вы хотите, чтобы мы ее добавили, <a href=\"http://help.merchium.ru/support/discussions/forums/1000191250\" target=\"_blank\">напишите нам</a>."
+
+msgctxt "Languages::saas.account"
+msgid "Merchium account"
+msgstr "Учетная запись"
+
+msgctxt "Languages::saas.sync_users_error.1"
+msgid "Oops, something went wrong with the connection. Please try again later."
+msgstr "Произошла ошибка соединения. Пожалуйста, повторите попытку позже."
+
+msgctxt "Languages::saas.sync_users_error.2"
+msgid "This e-mail is already taken. Please try another one."
+msgstr "Этот email уже занят, попробуйте другой."
+
+msgctxt "Languages::saas.suspended"
+msgid "Suspended"
+msgstr "Приостановлен"
+
+msgctxt "Languages::saas.reactivate"
+msgid "Reactivate"
+msgstr "Восстановить"
+
+msgctxt "Languages::saas.new_style"
+msgid "New style"
+msgstr "Новый стиль"
+
+msgctxt "Languages::saas.create_style"
+msgid "Create style"
+msgstr "Создать стиль"
+
+msgctxt "Languages::saas.style_base"
+msgid "Style is based on"
+msgstr "Стиль основан на"
+
+msgctxt "Languages::saas.default_styles"
+msgid "Default styles"
+msgstr "Стандартные стили"
+
+msgctxt "Languages::saas.preview_compiled_title"
+msgid "Base CSS styles"
+msgstr "Базовые CSS-стили (нередактируемые)"
+
+msgctxt "Languages::saas.store_has_been_removed"
+msgid "Your store has been removed. You can re-open it at any time, just click the <strong>Reactivate</strong> button."
+msgstr "Ваш магазин был закрыт. Вы можете снова открыть его в любое время, нажав на кнопку <strong>Восстановить</strong>."
+
+msgctxt "Languages::saas.banner_details_notes"
+msgid "After you create a banner here, you should use the <strong>Layout editor</strong> to add it to the storefront.<br /><br />Go to <a href=\"[layouts_href]\" target=\"_blank\">Design → Layouts</a>, switch to the location where you want the banner to appear, and add a new block with type <strong>Banners</strong>.<br /><br />In this block settings, go to the <strong>Content</strong> tab, pick the <strong>Manual</strong> filling, and click on the <strong>Add banners</strong> button.<br /><br />You will see the list of all the banners in your store. Pick the one(s) you need and click on the <strong>Add banners and close</strong> button.<br /><br />Finally, click on the <strong>Create</strong> button to save your changes."
+msgstr "После того, как вы создадите баннер, добавить его на витрину вы сможете через <strong>Редактор макетов</strong>.<br /><br />Пожалуйста, обратись к интерактивной подсказке <strong>Добавить баннер на витрину</strong>."
+
+msgctxt "Languages::saas.select_style"
+msgid "Select style"
+msgstr "Выберите стиль"
+
+msgctxt "Languages::saas.custom_css_title"
+msgid "Custom CSS styles"
+msgstr "Пользовательские CSS-стили"
+
+msgctxt "Languages::saas.user_styles"
+msgid "User styles"
+msgstr "Пользовательские стили"
+
+msgctxt "Languages::saas.style_editor"
+msgid "Styles"
+msgstr "Стили"
+
+msgctxt "Languages::saas.select_style_or_create_new"
+msgid "Select a style or create a new one to get started"
+msgstr "Выберите стиль или создайте новый"
+

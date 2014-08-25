@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-08-21 10:00-0400\n"
+
+msgctxt "Addons::name::hybrid_auth"
+msgid "Social login"
+msgstr "Accesso social"
+
+msgctxt "Addons::description::hybrid_auth"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Aggiunge la funzionalità di Accesso Social; permette ai clienti di utilizzare Facebook, Twitter, ecc. per accedere al negozio"
+
+msgctxt "Languages::hybrid_auth_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "Il campo \"Password\" e altri campi obbligatori sono vuoti al momento. Ti preghiamo di aggiornare il tuo profilo."
+
+msgctxt "Languages::hybrid_auth_social_login"
+msgid "Or sign-in with another identity provider"
+msgstr "O accedi con un altro fornitore di identità"
+
+msgctxt "Languages::hybrid_auth_unspecified_error"
+msgid "Unspecified error"
+msgstr "Errore non specificato"
+
+msgctxt "Languages::hybrid_auth_configuration_error"
+msgid "Social login configuration error"
+msgstr "Errore di configurazione accesso social"
+
+msgctxt "Languages::hybrid_auth_provider_error_configuration"
+msgid "Provider not properly configured"
+msgstr "Fornitore non correttamente configurato"
+
+msgctxt "Languages::hybrid_auth_wrong_provider"
+msgid "Unknown or disabled provider"
+msgstr "Fornitore sconosciuto o disabilitato"
+
+msgctxt "Languages::hybrid_auth_missing_credentials"
+msgid "Missing provider application credentials"
+msgstr "Credenziali per il fornitore dell'applicazione mancanti"
+
+msgctxt "Languages::hybrid_auth_failed_auth"
+msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
+msgstr "Autenticazione non riuscita. L'utente ha annullato l'autenticazione o il fornitore ha rifiutato la connessione"
+
+msgctxt "Languages::hybrid_auth_connecting_provider"
+msgid "Contacting <b>[provider]</b>. Please wait..."
+msgstr "Sto contattando <b>[provider]</b>. Attendere prego..."
+
+msgctxt "Languages::hybrid_auth_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Sfortunatamente, non siamo riusciti a creare un accesso cliente al negozio a causa di una delle seguenti ragioni:<br />- Hai effettuato l'accesso al nostro negozio in precedenza, usando qualche fornitore di OpenID con cui è stata utilizzata la stessa e-mail.<br />- Ti sei già registrato nel nostro negozio usando la stessa e-mail.<br />Ti preghiamo di contattare il proprietario del negozio e risolvere i problemi."
+
+msgctxt "Languages::google_callback_url"
+msgid "Google callback URL"
+msgstr "URL di Callback Google"
+
+msgctxt "SettingsSections::hybrid_auth::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::hybrid_auth::header_openid"
+msgid "OpenID"
+msgstr "OpenID"
+
+msgctxt "SettingsOptions::hybrid_auth::openid_status"
+msgid "Enable OpenID"
+msgstr "Abilita OpenID"
+
+msgctxt "SettingsOptions::hybrid_auth::header_yahoo"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+msgctxt "SettingsOptions::hybrid_auth::yahoo_status"
+msgid "Enable Yahoo"
+msgstr "Attiva Yahoo"
+
+msgctxt "SettingsOptions::hybrid_auth::yahoo_key"
+msgid "Yahoo ID"
+msgstr "ID Yahoo"
+
+msgctxt "SettingsOptions::hybrid_auth::yahoo_secret"
+msgid "Yahoo Secret key"
+msgstr "Chiave segreta di Yahoo"
+
+msgctxt "SettingsOptions::hybrid_auth::header_google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsOptions::hybrid_auth::google_status"
+msgid "Enable Google"
+msgstr "Attiva Google"
+
+msgctxt "SettingsOptions::hybrid_auth::google_id"
+msgid "Google ID"
+msgstr "ID di Google"
+
+msgctxt "SettingsOptions::hybrid_auth::google_secret"
+msgid "Google Secret key"
+msgstr "Chiave segreta di Google"
+
+msgctxt "SettingsOptions::hybrid_auth::google_callback_url"
+msgid "Google callback url"
+msgstr "URL Callback di Google"
+
+msgctxt "SettingsOptions::hybrid_auth::header_facebook"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "SettingsOptions::hybrid_auth::facebook_status"
+msgid "Enable Facebook"
+msgstr "Abilita Facebook"
+
+msgctxt "SettingsOptions::hybrid_auth::facebook_id"
+msgid "Facebook ID"
+msgstr "Facebook ID"
+
+msgctxt "SettingsOptions::hybrid_auth::facebook_secret"
+msgid "Facebook Secret key"
+msgstr "Chiave segreta di Facebook"
+
+msgctxt "SettingsOptions::hybrid_auth::header_twitter"
+msgid "Twitter"
+msgstr "Twitter"
+
+msgctxt "SettingsOptions::hybrid_auth::twitter_status"
+msgid "Enable Twitter"
+msgstr "Abilita Twitter"
+
+msgctxt "SettingsOptions::hybrid_auth::twitter_key"
+msgid "Twitter API key"
+msgstr "Chiave API di Twitter"
+
+msgctxt "SettingsOptions::hybrid_auth::twitter_secret"
+msgid "Twitter Secret key"
+msgstr "Chiave segreta di Twitter"
+
+msgctxt "SettingsOptions::hybrid_auth::header_myspace"
+msgid "MySpace"
+msgstr "MySpace"
+
+msgctxt "SettingsOptions::hybrid_auth::myspace_status"
+msgid "Enable MySpace"
+msgstr "Abilita MySpace"
+
+msgctxt "SettingsOptions::hybrid_auth::myspace_key"
+msgid "MySpace API key"
+msgstr "Chiave API di MySpace"
+
+msgctxt "SettingsOptions::hybrid_auth::myspace_secret"
+msgid "MySpace Secret key"
+msgstr "Chiave segreta di MySpace"
+
+msgctxt "SettingsOptions::hybrid_auth::header_linkedin"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgctxt "SettingsOptions::hybrid_auth::linkedin_status"
+msgid "Enable LinkedIn"
+msgstr "Abilita LinkedIn"
+
+msgctxt "SettingsOptions::hybrid_auth::linkedin_key"
+msgid "LinkedIn API key"
+msgstr "Chiave API LinkedIn"
+
+msgctxt "SettingsOptions::hybrid_auth::linkedin_secret"
+msgid "LinkedIn Secret key"
+msgstr "Chiave segreta di LinkedIn"
+

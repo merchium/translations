@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.net\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-07-31 11:00-0400\n"
+
+msgctxt "Addons::name::rus_unisender"
+msgid "Russian localization — Unisender"
+msgstr "Unisender"
+
+msgctxt "Addons::description::rus_unisender"
+msgid "Email and SMS"
+msgstr "Рассылки e-mail и SMS. Возможность импорта контактов покупателей в сервис Unisender"
+
+msgctxt "Languages::unisender"
+msgid "Unisender"
+msgstr "Unisender"
+
+msgctxt "Languages::field_unisender"
+msgid "Field Unisender"
+msgstr "Поля Unisender"
+
+msgctxt "Languages::users_not_added_key"
+msgid "Invalid API Key in \"Unisender\" add-on options."
+msgstr "Некорректный ключ доступа к API в настройках аддона \"Unisender\"."
+
+msgctxt "Languages::users_not_added_list"
+msgid "Not selected list name in \"Unisender\" add-on options."
+msgstr "Не выбран список в настройках аддона \"Unisender\"."
+
+msgctxt "Languages::add_selected_to_unisender"
+msgid "Add to Unisender selected users"
+msgstr "Добавить в Unisender отмеченных пользователей"
+
+msgctxt "Languages::add_message_to_unisender"
+msgid "Send a SMS message selected by the user"
+msgstr "Отправить SMS сообщение пользователю"
+
+msgctxt "Languages::sms_message"
+msgid "SMS message"
+msgstr "SMS сообщение"
+
+msgctxt "Languages::notify_unisender_users"
+msgid "Send an SMS to the buyer"
+msgstr "Отправлять SMS покупателю"
+
+msgctxt "Languages::users_added"
+msgid "Selected users were added to Unisender."
+msgstr "Выбранные пользователи добавлены в Unisender."
+
+msgctxt "Languages::enter_api_key"
+msgid "Enter and save the API key first"
+msgstr "Сначала введите и сохраните ключ доступа к API"
+
+msgctxt "Languages::invalid_api_key"
+msgid "Invalid API Key."
+msgstr "Неверный ключ доступа к API."
+
+msgctxt "Languages::no_response"
+msgid "No response from server."
+msgstr "Нет ответа от сервера."
+
+msgctxt "Languages::send_sms_user"
+msgid "Notify customer order status"
+msgstr "Уведомлять покупателя о статусе заказа"
+
+msgctxt "Languages::send_sms_user_text"
+msgid "Text SMS"
+msgstr "Текст SMS"
+
+msgctxt "Languages::not_enough_money"
+msgid "The funds are not enough to send sms, fill balance"
+msgstr "Не достаточно средст для отправки смс, пополните баланс"
+
+msgctxt "Languages::text_unisender_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "Подпишитесь на нашу рассылку!"
+
+msgctxt "Languages::tt_addons_rus_unisender_settings_connect_send_sms_user_text"
+msgid "Text SMS user: [order_id] - number order, [status] - status order"
+msgstr "Текст сообщения покупателя: [order_id] - номер заказа, [status] - статус заказа"
+
+msgctxt "Languages::tt_addons_rus_unisender_settings_connect_twgadmin_stores"
+msgid "Select stores that are to be connected to the Twigmo service."
+msgstr "Выберите магазины, которые требуется подключить к сервису Твигмо."
+
+msgctxt "SettingsSections::rus_unisender::main"
+msgid "Settings"
+msgstr "Настройки"
+
+msgctxt "SettingsOptions::rus_unisender::api_key"
+msgid "API key"
+msgstr "Ключ доступа к API"
+
+msgctxt "SettingsOptions::rus_unisender::list_name"
+msgid "List name"
+msgstr "Имя списка"
+
+msgctxt "SettingsOptions::rus_unisender::unisender_show_at_checkout"
+msgid "Show at checkout"
+msgstr "Показывать при оформлении заказа"
+
+msgctxt "SettingsTooltips::rus_unisender::unisender_show_at_checkout"
+msgid "Shows the mailing (list name) selected from the list at checkout and allows to subscribe to this mailing"
+msgstr "При оформлении заказа отображает рассылку (имя списка) выбранную в списке и позволяет подписаться на данную рассылку"
+
+msgctxt "SettingsOptions::rus_unisender::unisender_show_on_registration"
+msgid "Show on registration"
+msgstr "Показывать при регистрации"
+
+msgctxt "SettingsTooltips::rus_unisender::unisender_show_on_registration"
+msgid "Shows the mailing (list name) selected from the list at checkout and allows to subscribe to this mailing"
+msgstr "При оформлении заказа отображает рассылку (имя списка) выбранную в списке и позволяет подписаться на данную рассылку"
+
+msgctxt "SettingsSections::rus_unisender::sms"
+msgid "SMS"
+msgstr "SMS"
+
+msgctxt "SettingsOptions::rus_unisender::user_settings"
+msgid "Settings"
+msgstr "Настройки пользователя"
+
+msgctxt "SettingsOptions::rus_unisender::send_sms_user"
+msgid "Notify the customer about the order status"
+msgstr "Уведомлять покупателя о статусе заказа"
+
+msgctxt "SettingsOptions::rus_unisender::sender"
+msgid "Sender's name"
+msgstr "Имя отправителя"
+
+msgctxt "SettingsTooltips::rus_unisender::sender"
+msgid "Maximum name length is 11 characters"
+msgstr "Максимальная длина имени 11 символов"
+
+msgctxt "SettingsOptions::rus_unisender::send_sms_user_text"
+msgid "SMS body"
+msgstr "Текс SMS"
+
+msgctxt "SettingsTooltips::rus_unisender::send_sms_user_text"
+msgid "User's message body: №[order_id] - order ID, [status] - order status"
+msgstr "Текст сообщения пользователя: №[order_id] - код заказа, [status] - статус заказа"
+
+msgctxt "SettingsOptions::rus_unisender::admin_settings"
+msgid "Settings admin"
+msgstr "Настройки администратора"
+
+msgctxt "SettingsOptions::rus_unisender::send_sms_admin"
+msgid "Notify the administrator about a new order"
+msgstr "Уведомлять администратора о новом заказе"
+
+msgctxt "SettingsOptions::rus_unisender::admin_sender"
+msgid "Sender's name"
+msgstr "Имя отправителя"
+
+msgctxt "SettingsTooltips::rus_unisender::admin_sender"
+msgid "Maximum name length is 11 characters"
+msgstr "Максимальная длина имени 11 символов"
+
+msgctxt "SettingsOptions::rus_unisender::admin_phone"
+msgid "Administrator's phone number"
+msgstr "Телефон администратора"
+
+msgctxt "SettingsTooltips::rus_unisender::admin_phone"
+msgid "Administrator's phone number in international format (\"+\" can be omitted): +70000000000. Several numbers can be specified, divided by a comma."
+msgstr "Телефон администратора в международном формате (\"+\" можно опускать): +70000000000. Можно указывать несколько номеров адресатов через запятую."
+
+msgctxt "SettingsOptions::rus_unisender::send_sms_admin_text"
+msgid "SMS body"
+msgstr "Текс SMS"
+
+msgctxt "SettingsTooltips::rus_unisender::send_sms_admin_text"
+msgid "Administrator's message body: [storefront] – store name, №[order_id] – order ID"
+msgstr "Текст сообщения администратора: [storefront] - название магазина, №[order_id] - код заказа"
+
+msgctxt "SettingsOptions::rus_unisender::order"
+msgid "Order"
+msgstr "Заказы"
+
+msgctxt "SettingsOptions::rus_unisender::order_status_sms"
+msgid "When these order statuses are changed, the user will be notified"
+msgstr "Статусы заказов, об изменении которых будет сообщаться пользователю"
+

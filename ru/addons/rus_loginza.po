@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-08-13 06:00-0400\n"
+
+msgctxt "Addons::name::rus_loginza"
+msgid "Russian localization — Loginza"
+msgstr "Loginza"
+
+msgctxt "Addons::description::rus_loginza"
+msgid "Loginza plug-ins allow users to log in to your website using their accounts with popular web portails such as Yandex, Google, Rambler, Mail.ru and LiveJournal, social networks including VKontakte and Facebook."
+msgstr "Возможность авторизации покупателей в через социальные сети (VK, Facebook, Twitter и т.д.) c помощью сервиса Loginza"
+
+msgctxt "Languages::loginza_yandex"
+msgid "Yandex"
+msgstr "Яндекс"
+
+msgctxt "Languages::loginza_mailruapi"
+msgid "Mail.ru API"
+msgstr "Mail.ru API"
+
+msgctxt "Languages::loginza_mailru"
+msgid "Mail.ru"
+msgstr "Mail.ru"
+
+msgctxt "Languages::loginza_vkontakte"
+msgid "VKontakte"
+msgstr "ВКонтакте"
+
+msgctxt "Languages::loginza_facebook"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "Languages::loginza_odnoklassniki"
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+msgctxt "Languages::loginza_livejournal"
+msgid "LiveJournal"
+msgstr "LiveJournal"
+
+msgctxt "Languages::loginza_twitter"
+msgid "Twitter"
+msgstr "Twitter"
+
+msgctxt "Languages::loginza_linkedin"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgctxt "Languages::loginza_loginza"
+msgid "Loginza"
+msgstr "Loginza"
+
+msgctxt "Languages::loginza_myopenid"
+msgid "myOpenId"
+msgstr "myOpenId"
+
+msgctxt "Languages::loginza_webmoney"
+msgid "WebMoney"
+msgstr "WebMoney"
+
+msgctxt "Languages::loginza_rambler"
+msgid "Rambler"
+msgstr "Rambler"
+
+msgctxt "Languages::loginza_flickr"
+msgid "Flickr"
+msgstr "Flickr"
+
+msgctxt "Languages::loginza_lastfm"
+msgid "Last.fm"
+msgstr "Last.fm"
+
+msgctxt "Languages::loginza_verisign"
+msgid "VeriSign"
+msgstr "VeriSign"
+
+msgctxt "Languages::loginza_aol"
+msgid "AOL"
+msgstr "AOL"
+
+msgctxt "Languages::loginza_steam"
+msgid "Steam"
+msgstr "Steam"
+
+msgctxt "Languages::loginza_openid"
+msgid "OpenId"
+msgstr "OpenId"
+
+msgctxt "Languages::promotion_cond_social_users"
+msgid "Social user"
+msgstr "Пользователь соц. сети"
+
+msgctxt "Languages::loginza_social_login.small_buttons_text"
+msgid "You can also log in using:"
+msgstr "Также Вы можете войти используя:"
+
+msgctxt "Languages::loginza_social_login"
+msgid "Social login"
+msgstr "Авторизация через социальную сеть с помощью Loginza"
+
+msgctxt "Languages::loginza_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "Поле \"Пароль\" и некоторые другие обязательные для заполнения поля пустые. Пожалуйста, обновите Ваш профиль."
+
+msgctxt "Languages::server_not_respond"
+msgid "Server of the \\'Loginza\\' service does not respond."
+msgstr "Нет ответа от сервера сервиса \\'Loginza\\'."
+
+msgctxt "Languages::loginza_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "К сожалению, не удалось создать пользователя и авторизоваться в магазине по одной из следующих причин:<br />- Вы ранее авторизовались в магазине, используя другой сервис OpenID, в котором используется тот же email адрес.<br />- Вы уже зарегистрированы в нашем магазине с использованием этого email адреса.<br />Пожалуйста, свяжитесь с владельцем магазина для разрешения данной проблемы."
+
+msgctxt "Languages::request_validation_error"
+msgid "Unfortunately, we have failed to create a user and authorize in the store due to the authorization request validity check-up error.<br />Please contact the owner of the store to resolve this problem."
+msgstr "К сожалению, не удалось создать пользователя и авторизоваться в магазине из-за ошибки проверки достоверности запроса авторизации.<br />Пожалуйста, свяжитесь с владельцем магазина для разрешения данной проблемы."
+
+msgctxt "Languages::social_login"
+msgid "Social login"
+msgstr "Авторизация через социальную сеть"
+
+msgctxt "Languages::loginza_password_generated"
+msgid "We are glad to inform you that you have been successfully registered in the store. The password has been generated for you"
+msgstr "Рады сообщить Вам, что Вы были успешно зарегистрированы в магазине. Для Вас был сгененирован пароль"
+
+msgctxt "Languages::loginza_change_password"
+msgid "You can change the password at"
+msgstr "Сменить пароль Вы можете по ссылке"
+
+msgctxt "Languages::loginza_password_send"
+msgid "The generated password was sent to e-mail"
+msgstr "Сгенерированый пароль был отправлен на почту"
+
+msgctxt "Languages::loginza_google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::rus_loginza::general"
+msgid "Settings"
+msgstr "Настройки"
+
+msgctxt "SettingsOptions::rus_loginza::meta_content"
+msgid "Meta content"
+msgstr "Meta content"
+
+msgctxt "SettingsOptions::rus_loginza::widget_id"
+msgid "Widget ID"
+msgstr "ID виджета"
+
+msgctxt "SettingsOptions::rus_loginza::secret_key"
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+msgctxt "SettingsOptions::rus_loginza::buttons_type"
+msgid "Button type"
+msgstr "Тип кнопок"
+
+msgctxt "SettingsVariants::rus_loginza::buttons_type::text_link"
+msgid "Text link"
+msgstr "Текстовая ссылка"
+
+msgctxt "SettingsVariants::rus_loginza::buttons_type::one_button"
+msgid "The Loginza widget button"
+msgstr "Кнопка виджета Loginza"
+
+msgctxt "SettingsVariants::rus_loginza::buttons_type::buttons"
+msgid "Set of provider icons"
+msgstr "Набор иконок провайдеров"
+
+msgctxt "SettingsOptions::rus_loginza::socials_box"
+msgid "Selectable box"
+msgstr "Двухпанельный список мультивыбора"
+
