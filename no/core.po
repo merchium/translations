@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-15 03:01-0400\n"
+"PO-Revision-Date: 2014-08-25 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -139,11 +139,11 @@ msgstr "lagt til"
 
 msgctxt "Languages::adding_block_to_grid"
 msgid "Adding block to grid"
-msgstr "Legg til blokk til grid"
+msgstr "Legg til blokk til rutenett"
 
 msgctxt "Languages::adding_grid"
 msgid "Adding grid"
-msgstr "Legg til grid"
+msgstr "Legg til rutenett"
 
 msgctxt "Languages::additional_data"
 msgid "Additional data"
@@ -311,7 +311,7 @@ msgstr "Legg til globalt Alternativ"
 
 msgctxt "Languages::add_grid_block"
 msgid "Add grid or block"
-msgstr "Legg til grid eller blokk"
+msgstr "Legg til rutenett eller blokk"
 
 msgctxt "Languages::add_group"
 msgid "Add group"
@@ -1103,7 +1103,7 @@ msgstr "Valutaer"
 
 msgctxt "Languages::block_currencies_description"
 msgid "Currency selector"
-msgstr "Valutavelger"
+msgstr "Valuta velger"
 
 msgctxt "Languages::block_disabled"
 msgid "Block was disabled for this location"
@@ -1167,7 +1167,7 @@ msgstr "Full bredde"
 
 msgctxt "Languages::block_manager.grid_columns"
 msgid "Grid columns"
-msgstr "Grid kolonner"
+msgstr "Rutenett kolonner"
 
 msgctxt "Languages::block_manager.layout_width"
 msgid "Layout width"
@@ -2107,7 +2107,7 @@ msgstr "Kontakt oss for pris"
 
 msgctxt "Languages::container_options"
 msgid "Container options"
-msgstr "Container valg"
+msgstr "Beholder valg"
 
 msgctxt "Languages::content"
 msgid "Content"
@@ -2863,7 +2863,7 @@ msgstr "Er du sikker på at du vil slette de valgte elementene?"
 
 msgctxt "Languages::delete_grid"
 msgid "Delete grid"
-msgstr "Slett grid"
+msgstr "Slett rutenett"
 
 msgctxt "Languages::delete_image"
 msgid "Delete image"
@@ -3247,7 +3247,7 @@ msgstr "Redigerer diagram"
 
 msgctxt "Languages::editing_container"
 msgid "Editing container"
-msgstr "Rediger container"
+msgstr "Rediger beholder"
 
 msgctxt "Languages::editing_currency"
 msgid "Editing currency"
@@ -3271,7 +3271,7 @@ msgstr "Rediger mappe"
 
 msgctxt "Languages::editing_grid"
 msgid "Editing grid"
-msgstr "Rediger grid"
+msgstr "Rediger rutenett"
 
 msgctxt "Languages::editing_group"
 msgid "Editing group"
@@ -3475,11 +3475,11 @@ msgstr "Aktiver/Deaktiver blokk"
 
 msgctxt "Languages::enable_or_disable_container"
 msgid "Activate/Deactivate Container"
-msgstr "Aktiver/Deaktiver Container"
+msgstr "Aktiver/Deaktiver Beholder"
 
 msgctxt "Languages::enable_or_disable_grid"
 msgid "Activate/Deactivate Grid"
-msgstr "Aktiver/Deaktiver Grid"
+msgstr "Aktiver/Deaktiver Rutenett"
 
 msgctxt "Languages::enable_quick_view"
 msgid "Enable quick view"
@@ -3803,7 +3803,7 @@ msgstr "Firmaet med e-posten du har valgt eksisterer allerede, vennligst prøv e
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC er for kort."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4147,7 +4147,7 @@ msgstr "Footer"
 
 msgctxt "Languages::footer_container_not_used"
 msgid "This container is NOT used. Footer container from the default location will be used instead. Set this location as default to use this container as footer for all locations."
-msgstr "Denne containeren er IKKE i bruk. Footer containeren fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne containeren som footer for alle plasseringer."
+msgstr "Denne beholderen er IKKE i bruk. Footer beholderen fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne beholderen som footer for alle plasseringer."
 
 msgctxt "Languages::for"
 msgid "for"
@@ -4379,7 +4379,7 @@ msgstr "Rutenett2"
 
 msgctxt "Languages::grid_options"
 msgid "Grid options"
-msgstr "Grid alternativer"
+msgstr "Rutenett alternativer"
 
 msgctxt "Languages::gross_total"
 msgid "Gross total"
@@ -4411,7 +4411,7 @@ msgstr "Header"
 
 msgctxt "Languages::header_container_not_used"
 msgid "This container is NOT used. Header container from the default location will be used instead. Set this location as default to use this container as header for all locations."
-msgstr "Denne containeren er IKKE i bruk. Header containeren fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne containeren som header for alle plasseringer."
+msgstr "Denne beholderen er IKKE i bruk. Header beholder fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne beholderen som header for alle plasseringer."
 
 msgctxt "Languages::header_image"
 msgid "Header image"
@@ -4635,7 +4635,7 @@ msgstr "Legg til blokk"
 
 msgctxt "Languages::insert_grid"
 msgid "Add grid"
-msgstr "Legg til grid"
+msgstr "Legg til rutenett"
 
 msgctxt "Languages::install"
 msgid "Install"
@@ -9139,11 +9139,11 @@ msgstr "Luftfartsenter"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
-msgstr "Container"
+msgstr "Beholder"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
-msgstr "Container (Express)"
+msgstr "Beholder (Express)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
@@ -11931,7 +11931,7 @@ msgstr "Verktøytips"
 
 msgctxt "Languages::top_container_not_used"
 msgid "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
-msgstr "Denne containeren er IKKE i bruk. Toppanel containeren fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne containeren som toppanel for alle plassringer."
+msgstr "Denne containeren er IKKE i bruk. Toppanel beholderen fra Standard vil bli brukt i stedet. Sett denne plasseringen som standard for å bruke denne beholderen som toppanel for alle plassringer."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12147,7 +12147,7 @@ msgstr "Blokkbredde virker for blokker som ligger i gruppen som har horisontal r
 
 msgctxt "Languages::tt_views_block_manager_update_location_default"
 msgid "One location must be picked as default. Its Top and Bottom containers will be used in all locations."
-msgstr "En plassering må velges som standard. Topp-og bunn containere vil bli brukt på alle plasseringer."
+msgstr "En plassering må velges som standard. Topp-og bunn beholdere vil bli brukt på alle plasseringer."
 
 msgctxt "Languages::tt_views_cart_components_carts_search_form_online_only"
 msgid "If enabled, search results include only users who are online at the moment."
@@ -13875,11 +13875,11 @@ msgstr "Vis \"side info\" seksjonen"
 
 msgctxt "SettingsOptions::lines_number"
 msgid "Number of grid lines"
-msgstr "Antall grid-linjer"
+msgstr "Antall rutenett-linjer"
 
 msgctxt "SettingsOptions::grid_color"
 msgid "Grid color (hexadecimal code)"
-msgstr "Grid farge (hexadecimal kode)"
+msgstr "Rutenett farge (hexadecimal kode)"
 
 msgctxt "SettingsOptions::ftp_username"
 msgid "Username"
@@ -15367,9 +15367,9 @@ msgstr "I fjor"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "Butikken er stengt"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "Butikk<br/>stengt"
 
