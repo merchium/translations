@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-26 03:00-0400\n"
+"PO-Revision-Date: 2014-08-26 04:00-0400\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -112,27 +112,27 @@ msgstr "The newsletter(s) have been sent successfully."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail cannot be empty"
+msgstr "דואר אלקטרוני אינו יכול להשאר ריק"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
-msgstr "Sending email to [email]..."
+msgstr "שליחת דואר אל [email]..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
-msgstr "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "הדואר האלקטרוני שלך נוספה בהצלחה לרשימת העדכונים שלנו"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
-msgstr "Your e-mail is already subscribed."
+msgstr "הדואר האלקטרוני שלך כבר רשום כמנוי."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
-msgstr "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "הדואר האלקטרוני שלך הוסר בהצלחה מרשימת העדכונים שלנו"
 
 msgctxt "Languages::text_subscriber_activated"
 msgid "Your email has been successfully activated"
-msgstr "Your email has been successfully activated"
+msgstr "הדואל שלך הופעל בהצלחה"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
@@ -140,11 +140,11 @@ msgstr "The link will be displayed in a live newsletter"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
-msgstr "Newsletters"
+msgstr "ידיעונים"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "תבניות"
 
 msgctxt "Languages::autoresponders"
 msgid "Autoresponders"
@@ -152,67 +152,67 @@ msgstr "Autoresponders"
 
 msgctxt "Languages::campaigns"
 msgid "Campaigns"
-msgstr "Campaigns"
+msgstr "קמפיינים"
 
 msgctxt "Languages::sent"
 msgid "Sent"
-msgstr "Sent"
+msgstr "שלח"
 
 msgctxt "Languages::add_news"
 msgid "Add news"
-msgstr "Add news"
+msgstr "הוסף חדשות"
 
 msgctxt "Languages::add_news_and_close"
 msgid "Add news and close"
-msgstr "Add news and close"
+msgstr "הוסף חדשות וסגור"
 
 msgctxt "Languages::subscribers_num"
 msgid "Number of subscribers"
-msgstr "Number of subscribers"
+msgstr "מספר מנויים"
 
 msgctxt "Languages::editing_mailing_list"
 msgid "Editing mailing list"
-msgstr "Editing mailing list"
+msgstr "עריכת רשימת דיוור"
 
 msgctxt "Languages::from_name"
 msgid "From name"
-msgstr "From name"
+msgstr "שם"
 
 msgctxt "Languages::from_email"
 msgid "From email"
-msgstr "From email"
+msgstr "דואל"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr "Reply to"
+msgstr "השב ל"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
-msgstr "Confirmation email"
+msgstr "מייל לאישור"
 
 msgctxt "Languages::no_autoresponder"
 msgid "No autoresponder"
-msgstr "No autoresponder"
+msgstr "ללא מענה אוטומתי"
 
 msgctxt "Languages::show_on_checkout"
 msgid "Show at checkout"
-msgstr "Show at checkout"
+msgstr "הצג בקופה"
 
 msgctxt "Languages::show_on_registration"
 msgid "Show on registration"
-msgstr "Show on registration"
+msgstr "הצג בעת הרישום"
 
 msgctxt "Languages::show_on_separate_page"
 msgid "Show on separate page"
-msgstr "Show on separate page"
+msgstr "הצג בדף נפרד"
 
 msgctxt "Languages::editing_news"
 msgid "Editing news"
-msgstr "Editing news"
+msgstr "עריכת חדשות"
 
 msgctxt "Languages::new_news"
 msgid "New news"
-msgstr "New news"
+msgstr "חדשות חדשות"
 
 msgctxt "Languages::campaign_stats"
 msgid "Campaign statistics"
@@ -396,31 +396,31 @@ msgstr "Advanced mailing server options"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_send_method"
 msgid "Method of sending e-mails"
-msgstr "Method of sending e-mails"
+msgstr "השיטה של שליחת הודעות דואר אלקטרוני"
 
 msgctxt "SettingsOptions::news_and_emails::elm_smtp_server_settings"
 msgid "SMTP server settings"
-msgstr "SMTP server settings"
+msgstr "הגדרות שרת ה-SMTP"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_host"
 msgid "SMTP host"
-msgstr "SMTP host"
+msgstr "מארח ה-SMTP"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_username"
 msgid "SMTP username"
-msgstr "SMTP username"
+msgstr "שם משתמש ה-SMTP"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_password"
 msgid "SMTP password"
-msgstr "SMTP password"
+msgstr "הסיסמה ל-SMTP"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_auth"
 msgid "Use SMTP authentication"
-msgstr "Use SMTP authentication"
+msgstr "השתמש באימות SMTP"
 
 msgctxt "SettingsOptions::news_and_emails::elm_sendmail_settings"
 msgid "Sendmail settings"
-msgstr "Sendmail settings"
+msgstr "הגדרות שליחת מייל"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_sendmail_path"
 msgid "Path to sendmail program"
@@ -428,17 +428,17 @@ msgstr "Path to sendmail program"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::smtp"
 msgid "via SMTP server"
-msgstr "via SMTP server"
+msgstr "באמצעות שרת ה-SMTP"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "באמצעות פונקציית mail php"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "באמצעות תוכנית sendmail"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::default"
 msgid "use default settings"
-msgstr "use default settings"
+msgstr "השתמש בהגדרות ברירת המחדל"
 
