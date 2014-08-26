@@ -7,219 +7,219 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-22 03:00-0400\n"
+"PO-Revision-Date: 2014-08-26 07:00-0400\n"
 
 msgctxt "Addons::name::rus_sdek"
 msgid "Russian localization — shipping service SDEK ( cdek.ru )"
-msgstr "Служба доставки — SDEK"
+msgstr "Служба доставки — СДЭК"
 
 msgctxt "Addons::description::rus_sdek"
 msgid "Shipping service SDEK"
-msgstr "Shipping service SDEK"
+msgstr "Калькулятор стоимости доставки."
 
 msgctxt "Languages::shippings_sdek.header_shipping_office"
 msgid "Shipping service office:"
-msgstr "Shipping service office:"
+msgstr "Офис службы доставки:"
 
 msgctxt "Languages::shippings_sdek.header_shipping_office_map"
 msgid "Shipping service office on map:"
-msgstr "Shipping service office on map:"
+msgstr "Офис СДЭК на карте"
 
 msgctxt "Languages::shippings.sdek.call_courier"
 msgid "Call courier"
-msgstr "Call courier"
+msgstr "Вызов курьера"
 
 msgctxt "Languages::shippings.sdek.city_error"
 msgid "Invalid city entered"
-msgstr "Invalid city entered"
+msgstr "Город введен не корректно"
 
 msgctxt "Languages::shipping.sdek.get_city_data"
 msgid "Get city ID"
-msgstr "Get city ID"
+msgstr "Получить ID города"
 
 msgctxt "Languages::shipping.sdek.get_city_data.tooltip"
 msgid "A request to get the city ID will be sent to SDEK"
-msgstr "A request to get the city ID will be sent to SDEK"
+msgstr "Будет отправлен запрос в СДЭК для получения ID города"
 
 msgctxt "Languages::shipping.sdek.city_id.tooltip"
 msgid "Technical info necessary for the shipping cost calculator. To get the ID, enter the city name in the City from field and click the Get city ID link. Save the received settings."
-msgstr "Technical info necessary for the shipping cost calculator. To get the ID, enter the city name in the City from field and click the Get city ID link. Save the received settings."
+msgstr "Техническая информация, необходима для калькулятора стоимости доставки. Для получения ID введите название города в поле \"Город отправления\" и нажмите ссылку \"Получить ID города\". Сохраните полученные настройки."
 
 msgctxt "Languages::sdek_tariff_sklad"
 msgid "Stock-Stock"
-msgstr "Stock-Stock"
+msgstr "Склад — Склад"
 
 msgctxt "Languages::sdek_tariff_dver"
 msgid "Stock-Door"
-msgstr "Stock-Door"
+msgstr "Склад — Дверь"
 
 msgctxt "Languages::shippings.sdek.lang_error"
 msgid "Switch language to Russian"
-msgstr "Switch language to Russian"
+msgstr "Переключите язык на русский"
 
 msgctxt "Languages::sdek.lang_call_recipient"
 msgid "Calling the recepient is possible if the cargo is in their city"
-msgstr "Calling the recepient is possible if the cargo is in their city"
+msgstr "Прозвон получателя возможен, если груз находится в городе получателя"
 
 msgctxt "Languages::sdek.lang_first_data_courier"
 msgid "Set the expected courier delivery date"
-msgstr "Set the expected courier delivery date"
+msgstr "Задайте дату ожидания курьера"
 
 msgctxt "Languages::sdek.lang_end_data_courier"
 msgid "Set the expected courier delivery time"
-msgstr "Set the expected courier delivery time"
+msgstr "Задайте время ожидания курьера"
 
 msgctxt "Languages::sdek.lang_first_lunch_time"
 msgid "The expected courier delivery timeframe is invalid, it must incude no less than 3 consecutive hours."
-msgstr "The expected courier delivery timeframe is invalid, it must incude no less than 3 consecutive hours."
+msgstr "Временной диапазон ожидания приезда курьера указан некорректно, интервал ожидания курьера должен составлять не менее 3 непрерывных часов"
 
 msgctxt "Languages::sdek.lang_end_lunch_time"
 msgid "Lunch timeframe is invalid"
-msgstr "Lunch timeframe is invalid"
+msgstr "Временной диапазон обеденного перерыва указан некорректно"
 
 msgctxt "Languages::sdek.lang_call_address"
 msgid "Impossible to assign more the one courier deliveries on one day and address"
-msgstr "Impossible to assign more the one courier deliveries on one day and address"
+msgstr "На один день и адрес возможно не более одного вызова курьера"
 
 msgctxt "Languages::sdek.lang_call_courier"
 msgid "Courier call has been scheduled"
-msgstr "Courier call has been scheduled"
+msgstr "Вызов курьера оформлен"
 
 msgctxt "Languages::sdek.lang_price_delivery"
 msgid "Shipping cost has been changed"
-msgstr "Shipping cost has been changed"
+msgstr "Стоимость доставки изменилась"
 
 msgctxt "Languages::sdek.lang_tariff"
 msgid "SDEK plan:"
-msgstr "SDEK plan:"
+msgstr "Тариф СДЭК"
 
 msgctxt "Languages::sdek.lang_pvz"
 msgid "Self-pickup points:"
-msgstr "Self-pickup points:"
+msgstr "Пункт получения заказов"
 
 msgctxt "Languages::sdek.lang_notes"
 msgid "Notes:"
-msgstr "Notes:"
+msgstr "Особые отметки:"
 
 msgctxt "Languages::sdek.lang_status_code"
 msgid "Status code:"
-msgstr "Status code:"
+msgstr "Код статуса:"
 
 msgctxt "Languages::sdek.lang_status_order"
 msgid "Order status"
-msgstr "Order status"
+msgstr "Статус заказа"
 
 msgctxt "Languages::sdek.lang_new_delivery"
 msgid "New delivery address"
-msgstr "New delivery address"
+msgstr "Новый адрес доставки"
 
 msgctxt "Languages::sdek.lang_phone_recipient"
 msgid "Recepient\\'s phone number"
-msgstr "Recepient\\'s phone number"
+msgstr "Телефон получателя"
 
 msgctxt "Languages::sdek.lang_kvartira"
 msgid "Apartment/Office"
-msgstr "Apartment/Office"
+msgstr "Квартира/Офис"
 
 msgctxt "Languages::sdek.lang_first_time"
 msgid "Start time"
-msgstr "Start time"
+msgstr "Время начала"
 
 msgctxt "Languages::sdek.lang_end_time"
 msgid "End time"
-msgstr "End time"
+msgstr "Время окончания"
 
 msgctxt "Languages::sdek.lang_recipient_cost"
 msgid "Surcharge"
-msgstr "Surcharge"
+msgstr "Дополнительный сбор"
 
 msgctxt "Languages::sdek.lang_data_call_courier"
 msgid "Courier call data"
-msgstr "Courier call data"
+msgstr "Данные для вызова курьера"
 
 msgctxt "Languages::sdek.lang_data_courier"
 msgid "Expected courier arrival date"
-msgstr "Expected courier arrival date"
+msgstr "Дата ожидания курьера"
 
 msgctxt "Languages::sdek.lang_first_lanch"
 msgid "Lunch start time"
-msgstr "Lunch start time"
+msgstr "Время начала обеда"
 
 msgctxt "Languages::sdek.lang_end_lanch"
 msgid "Lunch end time"
-msgstr "Lunch end time"
+msgstr "Время окончания обеда"
 
 msgctxt "Languages::shippings_sdek.authlogin"
 msgid "Access login to calculations server"
-msgstr "Access login to calculations server"
+msgstr "Логин для доступа к серверу расчетов"
 
 msgctxt "Languages::shippings_sdek.authpassword"
 msgid "Password login to calculations server"
-msgstr "Password login to calculations server"
+msgstr "Пароль для доступа к серверу расчетов"
 
 msgctxt "Languages::shippings.sdek.dateexecute"
 msgid "The number of days in which the order is planned to be shipped"
-msgstr "The number of days in which the order is planned to be shipped"
+msgstr "Количество дней, через сколько будет произведена планируемая отправка заказа"
 
 msgctxt "Languages::shippings.sdek.sendercityid"
 msgid "Sender city name. Start entering the city name, then select the needed one from the options suggested"
-msgstr "Sender city name. Start entering the city name, then select the needed one from the options suggested"
+msgstr "Город-отправитель. Начинайте вводить название города, затем выберите из предложенных вариантов нужный город"
 
 msgctxt "Languages::shippings.sdek.sendercitypostcode"
 msgid "Zip code of the sender city. (Not required if the sender city is selected)"
-msgstr "Zip code of the sender city. (Not required if the sender city is selected)"
+msgstr "Почтовый индекс города-отправителя. (Необязательно, если выбран город-отправитель)"
 
 msgctxt "Languages::shippings.sdek.tariffid"
 msgid "Selecting available plans. The higher a plan is in the list, the higher its priority is"
-msgstr "Selecting available plans. The higher a plan is in the list, the higher its priority is"
+msgstr "Выбор доступных тарифов"
 
 msgctxt "Languages::shippings.sdek.package_ss"
 msgid "Shipping from warehouse to warehouse"
-msgstr "Shipping from warehouse to warehouse"
+msgstr "Посылка склад—склад"
 
 msgctxt "Languages::shippings.sdek.sdek_menu"
 msgid "SDEK"
-msgstr "SDEK"
+msgstr "СДЭК"
 
 msgctxt "Languages::sdek.lang_city"
 msgid "City"
-msgstr "City"
+msgstr "Город"
 
 msgctxt "Languages::sdek.lang_ulica"
 msgid "Street"
-msgstr "Street"
+msgstr "Улица"
 
 msgctxt "Languages::sdek.lang_home"
 msgid "House"
-msgstr "House"
+msgstr "Дом"
 
 msgctxt "Languages::sdek.lang_comment"
 msgid "Comment"
-msgstr "Comment"
+msgstr "Комментарий"
 
 msgctxt "Languages::parametr"
 msgid "Parameter"
-msgstr "Parameter"
+msgstr "Параметр"
 
 msgctxt "Languages::shipping.sdek.city_id"
 msgid "City ID"
-msgstr "City ID"
+msgstr "ID города"
 
 msgctxt "Languages::shippings.sdek.status.all"
 msgid "All orders"
-msgstr "All orders"
+msgstr "Все заказы"
 
 msgctxt "Languages::shippings.sdek.status_title"
 msgid "Status orders SDEK"
-msgstr "Status orders SDEK"
+msgstr "Статусы заказов СДЭК"
 
 msgctxt "Languages::shippings.sdek.status.p"
 msgid "Orders for the period"
-msgstr "Orders for the period"
+msgstr "Заказы за период"
 
 msgctxt "Languages::shippings.sdek.package_sd"
 msgid "Shipping from warehouse to customer"
-msgstr "Shipping from warehouse to customer"
+msgstr "Посылка склад — дверь"
 
 msgctxt "Languages::shippings.sdek.package_v_ss"
 msgid "Return from warehouse to warehouse"
@@ -235,145 +235,145 @@ msgstr "Return from customer to warehouse"
 
 msgctxt "Languages::shippings.sdek.activation_error"
 msgid "To activate the SDEK shipping processor, the Russian rouble currency (RUB) must be active and defined as base."
-msgstr "To activate the SDEK shipping processor, the Russian rouble currency (RUB) must be active and defined as base."
+msgstr "Для активации службы доставки СДЭК валюта Российский Рубль (RUB) должна быть активна и назначена основной."
 
 msgctxt "Languages::shippings.sdek.country_error"
 msgid "The SDEK shipping method is available for the Russian Federation only. You can change settings of countries (Settings -> Company)."
-msgstr "The SDEK shipping method is available for the Russian Federation only. You can change settings of countries (Settings -> Company)."
+msgstr "Способ доставки СДЭК доступен только для Российской Федерации. Вы можете изменить настройки стран (Настройки -> Компания)"
 
 msgctxt "Languages::shippings.sdek.code_error"
 msgid "There is a mistake in the city zip code. Please check the correctness of the data entered"
-msgstr "There is a mistake in the city zip code. Please check the correctness of the data entered"
+msgstr "Ошибка в коде города. Проверьте правильность заполнения"
 
 msgctxt "Languages::shippings.sdek.sender_code_error"
 msgid "There is a mistake in the sender city. Please check the correctness of the data entered"
-msgstr "There is a mistake in the sender city. Please check the correctness of the data entered"
+msgstr "Ошибка в коде города-отправителя. Проверьте правильность заполнения"
 
 msgctxt "Languages::shippings.sdek.account_password_error"
 msgid "Add name account and password in addon SDEK"
-msgstr "Add name account and password in addon SDEK"
+msgstr "Введите имя учетной записи и пароль в настройки модуля СДЭК"
 
 msgctxt "Languages::shippings.sdek.tariff_error"
 msgid "Error. No plan is selected"
-msgstr "Error. No plan is selected"
+msgstr "Ошибка. Не выбран тариф"
 
 msgctxt "Languages::shippings.sdek.ticket_order"
 msgid "Ticket to order"
-msgstr "Ticket to order"
+msgstr "Квитанция к заказу"
 
 msgctxt "Languages::shippings.sdek.payment_info"
 msgid "Payment Information"
-msgstr "Payment Information"
+msgstr "Информация об оплате"
 
 msgctxt "Languages::shippings.sdek.fio"
 msgid "FIO"
-msgstr "FIO"
+msgstr "ФИО"
 
 msgctxt "Languages::shippings.sdek.information_order"
 msgid "Information on ordering"
-msgstr "Information on ordering"
+msgstr "Информация о посылке"
 
 msgctxt "Languages::shippings.sdek.special_notes"
 msgid "Special notes"
-msgstr "Special notes"
+msgstr "Особые отметки"
 
 msgctxt "Languages::shippings.sdek.buyer"
 msgid "Buyer"
-msgstr "Buyer"
+msgstr "Покупатель"
 
 msgctxt "Languages::shippings.sdek.seller"
 msgid "Seller"
-msgstr "Seller"
+msgstr "Продавец"
 
 msgctxt "Languages::carrier_sdek"
 msgid "SDEK"
-msgstr "SDEK"
+msgstr "СДЭК"
 
 msgctxt "Languages::shippings.sdek.tab_invoice"
 msgid "Ticked SDEK"
-msgstr "Ticked SDEK"
+msgstr "Квитанция СДЭК"
 
 msgctxt "Languages::shippings.sdek.name"
 msgid "Name"
-msgstr "Name"
+msgstr "Наименование"
 
 msgctxt "Languages::shippings.sdek.price"
 msgid "Price"
-msgstr "Price"
+msgstr "Стоимость за единицу"
 
 msgctxt "Languages::shippings.sdek.count"
 msgid "Count"
-msgstr "Count"
+msgstr "Количество"
 
 msgctxt "Languages::shippings.sdek.total"
 msgid "Total"
-msgstr "Total"
+msgstr "Стоимость"
 
 msgctxt "Languages::shippings.sdek.payable"
 msgid "Payable"
-msgstr "Payable"
+msgstr "К оплате"
 
 msgctxt "Languages::shippings.sdek.quantity_delivered"
 msgid "Quantity delivered"
-msgstr "Quantity delivered"
+msgstr "Количество вручен."
 
 msgctxt "Languages::shippings.sdek.all_total"
 msgid "All total"
-msgstr "All total"
+msgstr "Итого"
 
 msgctxt "Languages::shippings.sdek.price_delivery"
 msgid "Price delivery"
-msgstr "Price delivery"
+msgstr "Стоимость доставки"
 
 msgctxt "Languages::shippings.sdek.itogo_delivery"
 msgid "Total delivery"
-msgstr "Total delivery"
+msgstr "Итого к оплате при вручении с учетом доставки"
 
 msgctxt "Languages::shippings.sdek.itogo"
 msgid "Total received"
-msgstr "Total received"
+msgstr "Итого получено"
 
 msgctxt "Languages::shippings.sdek.handed"
 msgid "Handed"
-msgstr "Handed"
+msgstr "Вручено"
 
 msgctxt "Languages::shippings.sdek.date"
 msgid "Date"
-msgstr "Date"
+msgstr "Дата"
 
 msgctxt "Languages::shippings.sdek.time"
 msgid "Time"
-msgstr "Time"
+msgstr "Время"
 
 msgctxt "Languages::shippings.sdek.product_info"
 msgid "Goods received. Packaging is not damaged, not broken. Claims have not."
-msgstr "Goods received. Packaging is not damaged, not broken. Claims have not."
+msgstr "Товар получил. Упаковка не повреждена, не нарушена. Претензий не имею."
 
 msgctxt "Languages::shippings.sdek.failure"
 msgid "Failure due to"
-msgstr "Failure due to"
+msgstr "Отказ по причине"
 
 msgctxt "Languages::shippings.sdek.sender"
 msgid "Sender"
-msgstr "Sender"
+msgstr "Отправитель"
 
 msgctxt "Languages::shippings.sdek.receiver"
 msgid "Receiver"
-msgstr "Receiver"
+msgstr "Получатель"
 
 msgctxt "Languages::shippings.sdek.link"
 msgid "Link receipts SDEK"
-msgstr "Link receipts SDEK"
+msgstr "Квитанция СДЭК"
 
 msgctxt "Languages::shippings.sdek.tab_status"
 msgid "Status order SDEK"
-msgstr "Status order SDEK"
+msgstr "Статусы заказов СДЭК"
 
 msgctxt "Languages::shippings.sdek.call_recipient"
 msgid "Call recipient"
-msgstr "Call recipient"
+msgstr "Прозвон получателя"
 
 msgctxt "Languages::shippings.sdek.buttons.sdek_create_invoice"
 msgid "Printed receipt form to order"
-msgstr "Printed receipt form to order"
+msgstr "Получить печатную форму квитанции к заказу"
 
