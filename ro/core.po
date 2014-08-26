@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-18 09:00-0400\n"
+"PO-Revision-Date: 2014-08-26 05:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1491,7 +1491,7 @@ msgstr "Nu exista metode de plata disponibile, astfel incat dvs. sa puteti cumpa
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
-msgstr "Cannot remove the active theme"
+msgstr "Nu se poate elimina tema activă"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
@@ -2471,7 +2471,7 @@ msgstr "Dolarul NeoZeelandez"
 
 msgctxt "Languages::currency_code_php"
 msgid "Philippine Peso"
-msgstr "Philippine Peso"
+msgstr "Peso filipinez"
 
 msgctxt "Languages::currency_code_pln"
 msgid "Polish Zlotych"
@@ -2599,7 +2599,7 @@ msgstr "Calea curenta"
 
 msgctxt "Languages::text_file_editor_notice"
 msgid "You can upload and download files via <a href=\"[href]\">File Editor</a>"
-msgstr "You can upload and download files via <a href=\"[href]\">File Editor</a>"
+msgstr "Puteţi încărca şi descărca fişiere prin intermediul <a href=\"[href]\"> Fişier Editor</a>"
 
 msgctxt "Languages::current_period"
 msgid "Current Period"
@@ -2791,7 +2791,7 @@ msgstr "Modul implicit"
 
 msgctxt "Languages::default_category_view"
 msgid "Default category view"
-msgstr "Default category view"
+msgstr "Vizualizare implicită categorie"
 
 msgctxt "Languages::default_language"
 msgid "Default language"
@@ -2807,7 +2807,7 @@ msgstr "Tema Default ( produse cu nume lung si optiuni )"
 
 msgctxt "Languages::default_product_details_view"
 msgid "Parent ([default])"
-msgstr "Parent ([default])"
+msgstr "Părinte ([default])"
 
 msgctxt "Languages::default_template"
 msgid "Default template"
@@ -2935,7 +2935,7 @@ msgstr "Refuzat"
 
 msgctxt "Languages::dependence"
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "Sortare după"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"
@@ -3039,7 +3039,7 @@ msgstr "Dezaprobati cele selectate"
 
 msgctxt "Languages::discount"
 msgid "Discount"
-msgstr "Discount"
+msgstr "Reducere"
 
 msgctxt "Languages::discounted_price"
 msgid "Discounted price"
@@ -3059,7 +3059,7 @@ msgstr "Reducere cod promotional"
 
 msgctxt "Languages::dispatch"
 msgid "Dispatch"
-msgstr "Dispatch"
+msgstr "Expediere"
 
 msgctxt "Languages::displayed_vendors"
 msgid "Displayed stores"
@@ -3335,7 +3335,7 @@ msgstr "Editare profil"
 
 msgctxt "Languages::editing_profile_field"
 msgid "Editing profile field"
-msgstr "Editing profile field"
+msgstr "Editare câmp profil"
 
 msgctxt "Languages::editing_promotion"
 msgid "Editing promotion"
@@ -3431,7 +3431,7 @@ msgstr "E-mail"
 
 msgctxt "Languages::emails"
 msgid "Emails"
-msgstr "Emails"
+msgstr "E-mailuri"
 
 msgctxt "Languages::email_address"
 msgid "E-mail address"
@@ -3803,7 +3803,7 @@ msgstr "Compania cu acesta adresa de e-mail exista,va rugam incercati alta."
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC este prea scurt."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3935,7 +3935,7 @@ msgstr "Extins"
 
 msgctxt "Languages::extra"
 msgid "Extra"
-msgstr "Extra"
+msgstr "Suplimentar"
 
 msgctxt "Languages::extra_services"
 msgid "Extra services"
@@ -4571,7 +4571,7 @@ msgstr "Optiunile importarii"
 
 msgctxt "Languages::in"
 msgid "In"
-msgstr "In"
+msgstr "În"
 
 msgctxt "Languages::included"
 msgid "included"
@@ -4675,7 +4675,7 @@ msgstr "Mergeti la Setari wizard pentru configurarile de baza a magazinului."
 
 msgctxt "Languages::welcome_screen.knowledge_base"
 msgid "Knowledge base"
-msgstr "Knowledge base"
+msgstr "Baza de cunoştinţe"
 
 msgctxt "Languages::welcome_screen.run_settings_wizard"
 msgid "Run Settings wizard"
@@ -4927,7 +4927,7 @@ msgstr "AWS acces public key"
 
 msgctxt "Languages::lbl_amazon_aws_access_secret_key"
 msgid "AWS access secret key"
-msgstr "AWS access secret key"
+msgstr "AWS acces la cheie secretă"
 
 msgctxt "Languages::lbl_amazon_background_color"
 msgid "Background color"
@@ -4967,7 +4967,7 @@ msgstr "Alb"
 
 msgctxt "Languages::lbl_amazon_process_order_on_failure"
 msgid "Process order on callback failure"
-msgstr "Process order on callback failure"
+msgstr "Procesul de comanda pe apel invers a așuat"
 
 msgctxt "Languages::lbl_amazon_size_large"
 msgid "Large"
@@ -4991,7 +4991,7 @@ msgstr "Lungime"
 
 msgctxt "Languages::less"
 msgid "less"
-msgstr "less"
+msgstr "mai puţin"
 
 msgctxt "Languages::letter"
 msgid "Letter"
@@ -9923,11 +9923,11 @@ msgstr "Bunch"
 
 msgctxt "Languages::temando_package_bundle"
 msgid "Bundle"
-msgstr "Bundle"
+msgstr "Pachet"
 
 msgctxt "Languages::temando_package_carton"
 msgid "Carton"
-msgstr "Carton"
+msgstr "Cutie de carton"
 
 msgctxt "Languages::temando_package_crate"
 msgid "Crate"
@@ -9979,7 +9979,7 @@ msgstr "Sac"
 
 msgctxt "Languages::temando_package_skid"
 msgid "Skid"
-msgstr "Skid"
+msgstr "Mini"
 
 msgctxt "Languages::temando_package_suitcase"
 msgid "Suitcase"
@@ -9991,7 +9991,7 @@ msgstr "Tub"
 
 msgctxt "Languages::temando_package_unpackaged"
 msgid "Unpackaged or N/A"
-msgstr "Unpackaged or N/A"
+msgstr "Neambalate sau N/A"
 
 msgctxt "Languages::temando_package_wheel"
 msgid "Wheel/Tyre"
@@ -10035,11 +10035,11 @@ msgstr "Livre"
 
 msgctxt "Languages::template"
 msgid "Template"
-msgstr "Template"
+msgstr "Şablon"
 
 msgctxt "Languages::templates_tree"
 msgid "Templates tree"
-msgstr "Templates tree"
+msgstr "Arbore de șabloane"
 
 msgctxt "Languages::file_editor"
 msgid "File editor"
@@ -10079,7 +10079,7 @@ msgstr "<b>Atentie</b>: in scopul urmaririi comenzilor 2Checkout ale dvs. prin a
 
 msgctxt "Languages::text_2co_ins"
 msgid "Instant Notification Service (INS)"
-msgstr "Instant Notification Service (INS)"
+msgstr "Serviciul de notificare instantanee (INS-SNI)"
 
 msgctxt "Languages::text_additional_detailed_image"
 msgid "(displayed in popup window)"
