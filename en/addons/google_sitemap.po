@@ -17,8 +17,8 @@ msgid "If products, categories, etc. were added or changed, please <a href=\"[cl
 msgstr "If products, categories, etc. were added or changed, please <a href=\"[clear_cache_url]\">clear the cache</a> to regenerate the XML sitemap.<br /><br /> [sitemap_available_in_customer]"
 
 msgctxt "Languages::sitemap_available_in_customer"
-msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
-msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a> if SEO addon is enabled. If it is disabled, you need to add the following code to the \".htaccess\" file to get this URL working:<br />RewriteRule ^sitemap\.xml$ [sitemap_url] [L]<br />Add this line after the \"RewriteBase\" line.<br /><br />"
+msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a> if SEO addon is enabled. If it is disabled, you need to add the following code to the \".htaccess\" file to get this URL working:<br />RewriteRule ^sitemap\.xml$ [sitemap_url] [L]<br />Add this line after the \"RewriteBase\" line.<br /><br />"
 
 msgctxt "Languages::always"
 msgid "Always"
