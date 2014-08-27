@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-23 14:00-0400\n"
+"PO-Revision-Date: 2014-08-27 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -5819,7 +5819,7 @@ msgstr "Nova localização"
 
 msgctxt "Languages::new_location"
 msgid "New location"
-msgstr "Novo local"
+msgstr "Novo destino"
 
 msgctxt "Languages::new_menu"
 msgid "New menu"
@@ -5843,7 +5843,7 @@ msgstr "Novo método de pagamento"
 
 msgctxt "Languages::new_payout"
 msgid "New payout"
-msgstr "Novo método de pagamento"
+msgstr "Novo pagamento"
 
 msgctxt "Languages::new_post"
 msgid "New post"
@@ -5851,7 +5851,7 @@ msgstr "Novo post"
 
 msgctxt "Languages::new_product"
 msgid "New product"
-msgstr "Produto novo"
+msgstr "Novo artigo"
 
 msgctxt "Languages::new_profile"
 msgid "New profile"
@@ -5871,11 +5871,11 @@ msgstr "Nova promoção"
 
 msgctxt "Languages::new_report"
 msgid "New report"
-msgstr "Relatório Novo"
+msgstr "Novo relatório"
 
 msgctxt "Languages::new_saved_search"
 msgid "New saved search"
-msgstr "Nova pesquisa gravada"
+msgstr "Nova pesquisa memorizada"
 
 msgctxt "Languages::new_section"
 msgid "New section"
@@ -5903,7 +5903,7 @@ msgstr "Estado novo (s) para o país seleccionado"
 
 msgctxt "Languages::new_status"
 msgid "New status"
-msgstr "Novo status"
+msgstr "Novo estado"
 
 msgctxt "Languages::new_tab"
 msgid "New tab"
@@ -5915,7 +5915,7 @@ msgstr "Novo imposto"
 
 msgctxt "Languages::new_usergroups"
 msgid "New user group(s)"
-msgstr "Novo grupo de utilizador (es)"
+msgstr "Novo grupo de utilizadores"
 
 msgctxt "Languages::new_user_profile"
 msgid "New user profile"
@@ -5931,11 +5931,11 @@ msgstr "Nova Zelândia"
 
 msgctxt "Languages::next"
 msgid "Next"
-msgstr "Próxima"
+msgstr "Seguinte"
 
 msgctxt "Languages::next_step"
 msgid "Next step"
-msgstr "Próximo passo"
+msgstr "Passo seguinte"
 
 msgctxt "Languages::no"
 msgid "No"
@@ -6179,11 +6179,11 @@ msgstr "Abrir em nova janela"
 
 msgctxt "Languages::open_store"
 msgid "Open storefront"
-msgstr "Loja aberta"
+msgstr "Abrir frente de loja"
 
 msgctxt "Languages::optimize_database"
 msgid "Optimize database"
-msgstr "Otimizar a base de dados"
+msgstr "Otimizar base de dados"
 
 msgctxt "Languages::optimizing_table"
 msgid "Optimizing table"
@@ -6199,7 +6199,7 @@ msgstr "Opções para"
 
 msgctxt "Languages::options_have_been_applied_to_products"
 msgid "Options have been successfully applied to the selected products"
-msgstr "Opções foram aplicadas com sucesso para os produtos selecionados"
+msgstr "Opções foram aplicadas com sucesso para os artigos selecionados"
 
 msgctxt "Languages::options_menu_description"
 msgid "Manage global product options and option variants in your store."
@@ -6215,7 +6215,7 @@ msgstr "Tipo de opções"
 
 msgctxt "Languages::option_combinations"
 msgid "Option combinations"
-msgstr "Combinações de opção"
+msgstr "Combinações da opção"
 
 msgctxt "Languages::option_name"
 msgid "Option name"
@@ -6223,27 +6223,27 @@ msgstr "Nome da opção"
 
 msgctxt "Languages::option_unlinked"
 msgid "Global option \"[option_name]\" has been deactivated for the product"
-msgstr "Opção global \"[option_name]\" foi desativada para o produto"
+msgstr "Opção global \"[option_name]\" foi desativada para o artigo"
 
 msgctxt "Languages::option_variants"
 msgid "Option variants"
-msgstr "Variantes de opção"
+msgstr "Variantes da opção"
 
 msgctxt "Languages::opt_currency_name"
 msgid "Show currency titles"
-msgstr "Mostrar os nomes dos câmbios"
+msgstr "Mostrar os nomes das moedas"
 
 msgctxt "Languages::opt_currency_symbol"
 msgid "Use currency symbols instead of titles"
-msgstr "Usar os simbolos do câmbio em vez de títulos"
+msgstr "Usar os simbolos das moedas em vez dos nomes"
 
 msgctxt "Languages::opt_language_icon"
 msgid "Use language icons instead of names"
-msgstr "Usar linguagem de ícones em vez de nomes"
+msgstr "Usar as bandeiras dos idiomas em vez de nomes"
 
 msgctxt "Languages::opt_language_name"
 msgid "Show language names"
-msgstr "Mostrar nomes de idiomas"
+msgstr "Mostrar nomes dos idiomas"
 
 msgctxt "Languages::or"
 msgid "or"
@@ -6255,7 +6255,7 @@ msgstr "Encomenda"
 
 msgctxt "Languages::ordered_products"
 msgid "Ordered products"
-msgstr "Produtos encomendados"
+msgstr "Artigos encomendados"
 
 msgctxt "Languages::orders"
 msgid "Orders"
@@ -6271,7 +6271,7 @@ msgstr "Use o botão \"Adicionar produtos\" acima para adicionar produtos a enco
 
 msgctxt "Languages::order_by_status"
 msgid "Order by status"
-msgstr "Ordenar por status"
+msgstr "Ordenar por estado"
 
 msgctxt "Languages::order_date"
 msgid "Order date"
@@ -6307,7 +6307,7 @@ msgstr "Gestão de encomendas"
 
 msgctxt "Languages::order_placed"
 msgid "Order placed"
-msgstr "Encomenda iniciada"
+msgstr "Encomenda validada"
 
 msgctxt "Languages::order_prefix"
 msgid "Order prefix"
@@ -6323,11 +6323,11 @@ msgstr "Estado da encomenda"
 
 msgctxt "Languages::order_statuses"
 msgid "Order statuses"
-msgstr "Estado da encomenda"
+msgstr "Estados da encomenda"
 
 msgctxt "Languages::order_statuses_menu_description"
 msgid "Add new or edit existing order statuses."
-msgstr "Adicionar novo ou editar o estado de uma encomenda existente."
+msgstr "Adicionar novo ou editar estados de encomendas."
 
 msgctxt "Languages::order_total"
 msgid "Order Total"
@@ -6339,7 +6339,7 @@ msgstr "O valor total pago não coincide com o total da encomenda"
 
 msgctxt "Languages::order_was_not_placed"
 msgid "Order was not placed"
-msgstr "Não foi feita a encomenda"
+msgstr "Encomenda não validada"
 
 msgctxt "Languages::original"
 msgid "Original"
@@ -6347,11 +6347,11 @@ msgstr "Original"
 
 msgctxt "Languages::origination"
 msgid "Origination"
-msgstr "Originação"
+msgstr "Origem"
 
 msgctxt "Languages::or_saved_search"
 msgid "or any item from the saved search"
-msgstr "ou qualquer outro item da pesquisa salva"
+msgstr "ou qualquer outro item da pesquisa memorizada"
 
 msgctxt "Languages::or_use"
 msgid "Or use"
@@ -6363,7 +6363,7 @@ msgstr "Outros"
 
 msgctxt "Languages::other_addons"
 msgid "Other add-ons"
-msgstr "Outros Complementos"
+msgstr "Outros módulos"
 
 msgctxt "Languages::output"
 msgid "Output"
@@ -6371,7 +6371,7 @@ msgstr "Saída"
 
 msgctxt "Languages::out_of_stock_actions"
 msgid "Out of stock actions"
-msgstr "Ações Fora de stock"
+msgstr "Ação em rutura de stock"
 
 msgctxt "Languages::out_of_stock_products"
 msgid "Out of stock"
@@ -6591,7 +6591,7 @@ msgstr "Cartão de crédito"
 
 msgctxt "Languages::payments_tab2"
 msgid "Internet Payments"
-msgstr "Pagamentos de Internet"
+msgstr "Pagamentos pela Internet"
 
 msgctxt "Languages::payments_tab3"
 msgid "Other Payment Options"
@@ -6611,7 +6611,7 @@ msgstr "Abas de categorias de pagamento NÃO serão exibidas se todos os pagamen
 
 msgctxt "Languages::payment_details"
 msgid "Payment details"
-msgstr "Detalhes de pagamento"
+msgstr "Detalhes do pagamento"
 
 msgctxt "Languages::payment_form_url"
 msgid "Payment Form URL"
@@ -6623,7 +6623,7 @@ msgstr "Tipo de pagamento"
 
 msgctxt "Languages::payment_information"
 msgid "Payment information"
-msgstr "Informações de pagamento"
+msgstr "Informações do pagamento"
 
 msgctxt "Languages::payment_instructions"
 msgid "Payment instructions"
@@ -6631,7 +6631,7 @@ msgstr "Instruções de pagamento"
 
 msgctxt "Languages::payment_method"
 msgid "Payment method"
-msgstr "Opções de pagamento"
+msgstr "Opção de pagamento"
 
 msgctxt "Languages::payment_methods"
 msgid "Payment methods"
@@ -6643,7 +6643,7 @@ msgstr "Senha de resposta de pagamento"
 
 msgctxt "Languages::payment_surcharge"
 msgid "Payment surcharge"
-msgstr "Sobretaxa de pagamento"
+msgstr "Sobretaxa do pagamento"
 
 msgctxt "Languages::payment_type"
 msgid "Payment type"
@@ -6655,11 +6655,11 @@ msgstr "Método de autenticação do PayPal"
 
 msgctxt "Languages::paypal_item_name"
 msgid "Name of the item (or a name for the Shopping Cart)"
-msgstr "Nome do item (ou um nome para o carrinho de compras)"
+msgstr "Nome do item (ou um nome para a loja)"
 
 msgctxt "Languages::paypal_security_error"
 msgid "Your order was not placed: the recipient PayPal account is wrong."
-msgstr "A sua encomenda não foi realizada: A conta Paypal está errada."
+msgstr "A sua encomenda foi invalidada: A conta Paypal está errada."
 
 msgctxt "Languages::pay_from_email"
 msgid "Customer email"
@@ -6707,7 +6707,7 @@ msgstr "Telefone"
 
 msgctxt "Languages::phone2_label"
 msgid "International"
-msgstr "International"
+msgstr "Internacional"
 
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
@@ -6747,11 +6747,11 @@ msgstr "Plataforma"
 
 msgctxt "Languages::please_be_patient"
 msgid "Please be patient"
-msgstr "Por favor, seja paciente"
+msgstr "Aguarde um momento"
 
 msgctxt "Languages::please_enter_license_here"
 msgid "Please enter license number here"
-msgstr "Por favor, digite o número de licença aqui"
+msgstr "Por favor, digite o número da licença aqui"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -6759,7 +6759,7 @@ msgstr "Por favor, selecione uma"
 
 msgctxt "Languages::please_sign_in"
 msgid "Please sign in"
-msgstr "Inscreva-se"
+msgstr "Registe-se"
 
 msgctxt "Languages::polish"
 msgid "Polish"
@@ -6939,7 +6939,7 @@ msgstr "Imprimir a nota de crédito (pdf)"
 
 msgctxt "Languages::print_pdf_invoice"
 msgid "Print invoice (pdf)"
-msgstr "Imprimir factura (pdf)"
+msgstr "Imprimir nota de encomenda (pdf)"
 
 msgctxt "Languages::print_pdf_order_details"
 msgid "Print order details (pdf)"
@@ -6959,7 +6959,7 @@ msgstr "Privada"
 
 msgctxt "Languages::private_customer_settings"
 msgid "Private customer settings"
-msgstr "Configurações privada do cliente"
+msgstr "Configurações privadas do cliente"
 
 msgctxt "Languages::privilege"
 msgid "Privilege"
@@ -7007,71 +7007,71 @@ msgstr "Importar e exportar dados"
 
 msgctxt "Languages::privileges.manage_catalog"
 msgid "Manage catalog"
-msgstr "Gerenciar catálogo"
+msgstr "Gerir catálogo"
 
 msgctxt "Languages::privileges.manage_currencies"
 msgid "Manage currencies"
-msgstr "Gerenciar moedas"
+msgstr "Gerir moedas"
 
 msgctxt "Languages::privileges.manage_design"
 msgid "Manage design"
-msgstr "Gerenciar design"
+msgstr "Gerir design"
 
 msgctxt "Languages::privileges.manage_languages"
 msgid "Manage languages"
-msgstr "Gerenciar idiomas"
+msgstr "Gerir idiomas"
 
 msgctxt "Languages::privileges.manage_locations"
 msgid "Manage locations"
-msgstr "Gerenciar locais"
+msgstr "Gerir locais"
 
 msgctxt "Languages::privileges.manage_order_statuses"
 msgid "Manage order statuses"
-msgstr "Gerenciar o estado da encomenda"
+msgstr "Gerir o estado da encomenda"
 
 msgctxt "Languages::privileges.manage_pages"
 msgid "Manage pages"
-msgstr "Gerencias páginas"
+msgstr "Gerir páginas"
 
 msgctxt "Languages::privileges.manage_payments"
 msgid "Manage payments"
-msgstr "Gerenciar pagamentos"
+msgstr "Gerir pagamentos"
 
 msgctxt "Languages::privileges.manage_promotions"
 msgid "Manage promotion system"
-msgstr "Gerenciar o sistema de promoção"
+msgstr "Gerir o sistema de promoção"
 
 msgctxt "Languages::privileges.manage_reports"
 msgid "Manage reports"
-msgstr "Gerenciar relatórios"
+msgstr "Gerir relatórios"
 
 msgctxt "Languages::privileges.manage_shipping"
 msgid "Manage shipping"
-msgstr "Gerenciar o transporte"
+msgstr "Gerir o transporte"
 
 msgctxt "Languages::privileges.manage_sitemap"
 msgid "Manage sitemap"
-msgstr "Gerenciar mapa do site"
+msgstr "Gerir mapa do site"
 
 msgctxt "Languages::privileges.manage_static_data"
 msgid "Manage static data"
-msgstr "Gerenciar dados estáticos"
+msgstr "Gerir dados estáticos"
 
 msgctxt "Languages::privileges.manage_storage"
 msgid "Manage storage"
-msgstr "Gerenciar o armazenamento"
+msgstr "Gerir o armazenamento"
 
 msgctxt "Languages::privileges.manage_stores"
 msgid "Manage stores"
-msgstr "Gerenciar lojas"
+msgstr "Gerir lojas"
 
 msgctxt "Languages::privileges.manage_taxes"
 msgid "Manage taxes"
-msgstr "Gerenciar impostos"
+msgstr "Gerir impostos"
 
 msgctxt "Languages::privileges.manage_themes"
 msgid "Manage themes"
-msgstr "Gerenciar temas"
+msgstr "Gerir temas"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site text editing"
@@ -7079,11 +7079,11 @@ msgstr "Edição de texto do site"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
-msgstr "Gerenciar grupos de utilizadores"
+msgstr "Gerir grupos de utilizadores"
 
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
-msgstr "Gerenciar utilizadores"
+msgstr "Gerir utilizadores"
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -7091,7 +7091,7 @@ msgstr "Actualizar definições"
 
 msgctxt "Languages::privileges.upgrade_store"
 msgid "Upgrade store"
-msgstr "Upgrade loja"
+msgstr "Atualizar loja"
 
 msgctxt "Languages::privileges.view_catalog"
 msgid "View catalog"
@@ -7107,7 +7107,7 @@ msgstr "Ver idiomas"
 
 msgctxt "Languages::privileges.view_locations"
 msgid "View locations"
-msgstr "Ver locais"
+msgstr "Ver destinos"
 
 msgctxt "Languages::privileges.view_logs"
 msgid "View logs"
