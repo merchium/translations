@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-25 05:00-0400\n"
+"PO-Revision-Date: 2014-08-27 18:00-0400\n"
 
 msgctxt "Addons::name::email_marketing"
 msgid "E-mail marketing"
@@ -51,7 +51,7 @@ msgstr "Subskrypcja zatwierdzona"
 
 msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
 msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
-msgstr "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "Subskrypcja newslettera została potwierdzona. Dziękujemy za zapisanie się na nasz newsletter !"
 
 msgctxt "Languages::email_marketing.email_subscribed"
 msgid "You were subscribed to our newsletter"
@@ -59,7 +59,7 @@ msgstr "Zapisałeś się na nasz newsletter"
 
 msgctxt "Languages::email_marketing.text_email_subscribed"
 msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Dziękujemy za zapisanie się do naszego newslettera. <p>W każdej chwili możesz zrezygnować z otrzymywania naszych e-maili, <a href=\"[href]\"> klikając w ten link</a>.</p>"
 
 msgctxt "Languages::email_marketing.email_subscribed_2optin"
 msgid "Subscription confirmed"
@@ -67,7 +67,7 @@ msgstr "Subskrypcja zatwierdzona"
 
 msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
 msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Subskrypcja newslettera została potwierdzona.<p>W każdej chwili możesz zrezygnować z otrzymywania naszych e-maili, <a href=\"[href]\"> klikając na ten link</a>.</p>"
 
 msgctxt "Languages::email_marketing.unsubscribe_successful"
 msgid "Unsubscribe successful"
@@ -103,15 +103,15 @@ msgstr "Zapisz się na nasz newsletter"
 
 msgctxt "Languages::email_marketing.tmpl_subscription"
 msgid "Email marketing: Newsletter subscription form"
-msgstr "Email marketing: Newsletter subscription form"
+msgstr "Marketing e-mail: formularz subskrypcji newslettera"
 
 msgctxt "Languages::privileges.manage_email_marketing"
 msgid "Manage email marketing addon"
-msgstr "Manage email marketing addon"
+msgstr "Zarządzanie dodatkiem marketingu e-mail"
 
 msgctxt "Languages::privileges.view_email_marketing"
 msgid "View email marketing addon"
-msgstr "View email marketing addon"
+msgstr "Przeglądaj dodatek marketing e-mail"
 
 msgctxt "SettingsSections::email_marketing::general"
 msgid "General"
@@ -131,7 +131,7 @@ msgstr "Newsletter checkbox on checkout"
 
 msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
 msgid "Tick off by default"
-msgstr "Tick off by default"
+msgstr "Domyślnie niezaznaczony"
 
 msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
 msgid "Double opt-in"
@@ -139,11 +139,11 @@ msgstr "Double opt-in"
 
 msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
 msgid "Send a welcome letter with the unsubscribe link"
-msgstr "Send a welcome letter with the unsubscribe link"
+msgstr "Wyślij powitalny list z linkiem do wypisania z newslettera"
 
 msgctxt "SettingsOptions::email_marketing::em_service"
 msgid "Email integration provider"
-msgstr "Email integration provider"
+msgstr "Dostawca integracja poczty e-mail"
 
 msgctxt "SettingsOptions::email_marketing::em_token"
 msgid ""
