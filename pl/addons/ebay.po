@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-28 06:00-0400\n"
+"PO-Revision-Date: 2014-08-28 07:00-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -223,11 +223,11 @@ msgstr "Używasz wersji testowej tego modułu, którego ważność zakończyła 
 
 msgctxt "Languages::list_product_on_tooltip"
 msgid "Choose the region of the ebay auction for which your site will work"
-msgstr "Choose the region of the ebay auction for which your site will work"
+msgstr "Wybierz region aukcji ebay, dla których Twój sklep będzie działać"
 
 msgctxt "Languages::use_as_default_tooltip"
 msgid "Choose the region of the ebay auction for which your site will work"
-msgstr "Choose the region of the ebay auction for which your site will work"
+msgstr "Wybierz region aukcji ebay, dla których Twój sklep będzie działać"
 
 msgctxt "Languages::ebay_root_category_tooltip"
 msgid "The product root category at eBay"
@@ -235,11 +235,11 @@ msgstr "Produkt w głównej kategorii w serwisie eBay"
 
 msgctxt "Languages::ebay_secondary_root_category_tooltip"
 msgid "The additional product root category at ebay"
-msgstr "The additional product root category at ebay"
+msgstr "Dodatkowa kategoria główna produktu w serwisie ebay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at ebay"
-msgstr "The additional product subcategory at ebay"
+msgstr "Podkategoria produktu w serwisie ebay"
 
 msgctxt "Languages::shipping_type_tooltip"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
@@ -247,19 +247,19 @@ msgstr "Choose whether to use calculated or flat shipping type. Calculated - shi
 
 msgctxt "Languages::domestic_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "Wybierz firmę wysyłkową, która będzie używana dla dostarczania produktów w Twoim kraju"
 
 msgctxt "Languages::international_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "Wybierz firmę wysyłkową, która będzie używana do dostarczania produktów na całym świecie"
 
 msgctxt "Languages::dispatch_days_tooltip"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr "The period of product delivery to a customer  (in days)"
+msgstr "Czas dostawy produktu do klienta (w dniach)"
 
 msgctxt "Languages::ebay_payment_method_tooltip"
 msgid "Payment method(s), available for a template"
-msgstr "Payment method(s), available for a template"
+msgstr "Metoda(y) płatności, dostępne dla szablonu"
 
 msgctxt "Languages::paypal_email_tooltip"
 msgid "Define login of the PayPal account"
@@ -271,11 +271,11 @@ msgstr "Zdefiniuj login do konta PayPal"
 
 msgctxt "Languages::free_shipping_tooltip"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr "Choose, if you want free shipping to be applied to products in a template"
+msgstr "Wybierz, jeśli chcesz żeby była dostępna dostawa gratis dla produktów w szablonie"
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
+msgstr "Stała cena wysyłki dla jednego przedmiotu (jeżeli przesyłka jest płaska). Wysyłka i obsługa ustawiane w serwisie eBay."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"

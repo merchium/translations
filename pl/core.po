@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-28 06:00-0400\n"
+"PO-Revision-Date: 2014-08-28 07:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10287,7 +10287,7 @@ msgstr "(pokazane na liście kategorii i stronach informacyjnych)"
 
 msgctxt "Languages::text_cc_processor_connection"
 msgid "Connecting to <b>[processor]</b>..."
-msgstr "Connecting to <b>[processor]</b>..."
+msgstr "Nawiązywanie połączenia <b>[processor]</b>..."
 
 msgctxt "Languages::text_cdn_check"
 msgid "<strong>Attention!</strong> Please test some static URL, e.g. <a href=\"[url]\">[url]</a>, to ensure it's working before enabling CDN (you can enable it after storage became active). It usually takes 10-15 minutes to activate storage (the \"Status\" field should display \"Active\", refresh page for updates)."
@@ -10367,7 +10367,7 @@ msgstr "Tabela warunków została wyczyszczona"
 
 msgctxt "Languages::text_confirmation_page_header"
 msgid "This is a confirmation page. You must confirm the operation before it is performed."
-msgstr "This is a confirmation page. You must confirm the operation before it is performed."
+msgstr "To jest strona z potwierdzeniem. Musisz potwierdzić operację zanim zostanie ona wykonywana."
 
 msgctxt "Languages::text_confirm_passwd_recovery"
 msgid "Please follow this link to confirm your password recovery procedure"
@@ -12007,7 +12007,7 @@ msgstr "Numer referencyjny (do śledzenia zamówienia)"
 
 msgctxt "Languages::tracks"
 msgid "Identifier"
-msgstr "Identifier"
+msgstr "Identyfikator"
 
 msgctxt "Languages::track_my_order"
 msgid "Track my order(s)"
@@ -12091,7 +12091,7 @@ msgstr "Wersja testowa"
 
 msgctxt "Languages::trial_mode_mve_disabled"
 msgid "Trial mode is not available anymore since you have a valid license activated for this installation"
-msgstr "Trial mode is not available anymore since you have a valid license activated for this installation"
+msgstr "Próbna wersja nie jest dostępna ponieważ masz ważną licencję aktywowaną dla tej instalacji sklepu"
 
 msgctxt "Languages::trial_mode_ult_disabled"
 msgid "Trial mode cannot be activated"
@@ -12135,7 +12135,7 @@ msgstr "Podmenu będzie zawierać elementy podrzędne wybranego obiektu."
 
 msgctxt "Languages::tts_link_text"
 msgid "Target URL. May be an external URL, an inner store URL or a dispatch."
-msgstr "Target URL. May be an external URL, an inner store URL or a dispatch."
+msgstr "Docelowy adres URL. Może być zewnętrzny adres URL, wewnętrzny adres URL sklepu lub wywołanie kontrolera."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12191,7 +12191,7 @@ msgstr "Dwuliterowy kod języka."
 
 msgctxt "Languages::tt_views_languages_update_country"
 msgid "The flag of this country will be used as language icon."
-msgstr "The flag of this country will be used as language icon."
+msgstr "Flaga kraju będzie używana jako ikona języka."
 
 msgctxt "Languages::tt_views_orders_components_orders_search_form_customer_files"
 msgid "If enabled, the search results will contain the orders for which customers loaded their own files."
@@ -12683,7 +12683,7 @@ msgstr "Skopiuj istniejącą konfigurację sklepu"
 
 msgctxt "Languages::use_negotiated_rates"
 msgid "Use negotiated rates"
-msgstr "Use negotiated rates"
+msgstr "Użyj wynegocjowanych stawek"
 
 msgctxt "Languages::use_new_sha_method"
 msgid "Use new SHA signature policy"
@@ -12787,7 +12787,7 @@ msgstr "Zweryfikuj tajne słowo"
 
 msgctxt "Languages::valid_thru"
 msgid "Valid thru (mm/yy)"
-msgstr "Valid thru (mm/yy)"
+msgstr "Ważny do (mm/rr)"
 
 msgctxt "Languages::value"
 msgid "Value"
@@ -12963,7 +12963,7 @@ msgstr "Domyślny język zdefiniowany w ustawieniach został wyłączony albo sk
 
 msgctxt "Languages::default_language_status"
 msgid "Status of the Default language cannot be changed"
-msgstr "Status of the Default language cannot be changed"
+msgstr "Nie można zmienić statusu domyślnego języka"
 
 msgctxt "Languages::default_currency_status"
 msgid "Status of the Primary currency cannot be changed"
@@ -13415,7 +13415,7 @@ msgstr "Tekst nagłówka"
 
 msgctxt "Languages::payments.futurepay.zipcode_combination_error"
 msgid "The Zip code does not match the state entered. Please re-enter and try your purchase again."
-msgstr "The Zip code does not match the state entered. Please re-enter and try your purchase again."
+msgstr "Wprowadzony kod pocztowy nie odpowiada stanowi. Proszę wprowadź ponownie i przeprowadzić zakup."
 
 msgctxt "Languages::payments.futurepay.amount_error"
 msgid "FuturePay can only be used on orders under $500"
