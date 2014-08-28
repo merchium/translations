@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-28 07:00-0400\n"
+"PO-Revision-Date: 2014-08-28 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -6791,7 +6791,7 @@ msgstr "Pos ID"
 
 msgctxt "Languages::position"
 msgid "Position"
-msgstr "Default"
+msgstr "Pozycja"
 
 msgctxt "Languages::positions_updated"
 msgid "Positions of items were updated"
@@ -12179,7 +12179,7 @@ msgstr "Jeśli opcja jest włączona, plik kopii zapasowej bazy danych zawiera a
 
 msgctxt "Languages::tt_views_database_manage_backup_schema"
 msgid "If enabled, the database backup file keeps the table structure."
-msgstr "Jeśli opcja jest włączona, plik kopii zapasowej bazy danych utrzymuje strukturę tabel."
+msgstr "Jeśli opcja jest włączona, plik kopii zapasowej bazy danych zawierają strukturę tabel."
 
 msgctxt "Languages::tt_views_exim_export_output"
 msgid "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screen\" - to display the file's contents, \"Server\" - to save the file on the server file system."
@@ -12219,7 +12219,7 @@ msgstr "Wybierz kategorie, które mają być wyświetlane w ścieżce nawigacyjn
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
-msgstr "Opcja Magazyn jest dostępna do edycji tylko wtedy, jeśli opcja \"Włącz śledzenie magazynu\" jest włączona"
+msgstr "Opcja Magazyn jest dostępna do edycji tylko wtedy, jeśli opcja \"Włącz śledzenie magazynu\" w karcie produktu jest włączona"
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12271,7 +12271,7 @@ msgstr "Uwaga, że wskazaną wartość należy wpisać."
 
 msgctxt "Languages::tt_views_product_options_update_inventory"
 msgid "If enabled, the option is taken into account when forming the product inventory."
-msgstr "Jeśli opcja jest włączona, opcję uwzględnia się przy tworzeniu wykazu produktów."
+msgstr "Jeśli opcja jest włączona, kontrolowane są stany magazynowe dla tej opcji."
 
 msgctxt "Languages::tt_views_product_options_update_regexp"
 msgid "Regular expression specifying a pattern to match."
@@ -12279,7 +12279,7 @@ msgstr "Wyrażenie regularne określające wzorzec do dopasowania."
 
 msgctxt "Languages::tt_views_product_options_update_required"
 msgid "If enabled, the option is mandatory to fill in."
-msgstr "Jeśli opcja jest włączona, opcja jest obowiązkowa do wypełnienia."
+msgstr "Jeśli opcja jest włączona, konieczne jest wybranie wariantu opcji."
 
 msgctxt "Languages::tt_views_promotions_update_stop_other_rules"
 msgid "If enabled, the other promotions are not applied."
@@ -12991,7 +12991,7 @@ msgstr "Nazwa zmiennej językowej zawiera złe znaki!"
 
 msgctxt "Languages::warning_not_deleted_default_language"
 msgid "The [lang_name] language cannot be deleted because it is the default store language"
-msgstr "The [lang_name] language cannot be deleted because it is the default store language"
+msgstr "Języka [lang_name] nie można usunąć, ponieważ jest to domyślny język w sklepie"
 
 msgctxt "Languages::warning_promotions_incorrect_condition"
 msgid "The \"[condition]\" condition can be used in groups with \"[set_value]\" conditions only."
