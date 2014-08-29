@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-28 10:00-0400\n"
+"PO-Revision-Date: 2014-08-29 04:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -13003,7 +13003,7 @@ msgstr "Автоматическая очистка кэша для измене
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
-msgstr "Автоматическая очистка кэша для измененных файлов отключена.<br /><br />После внесения изменений в файлы темы необходимо очистить скомпилированные файлы шаблонов, пройдя по <a href=\"?dispatch=template_editor.manage&ctpl\">ссылке</a>, чтобы изменения вступили в силу."
+msgstr "Автоматическая очистка кэша для измененных файлов отключена.<br /><br />После внесения изменений в файлы темы необходимо очистить скомпилированные файлы шаблонов, пройдя по <a href=\"[link]\">ссылке</a>, чтобы изменения вступили в силу."
 
 msgctxt "Languages::warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
