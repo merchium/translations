@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-01 06:07-0400\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -31,7 +31,7 @@ msgstr "If you want to specify a SEO-name for the URL, e.g. http://example.com/i
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
-msgstr "SEO name"
+msgstr "SEO დასახელება"
 
 msgctxt "Languages::warning_seo_urls_disabled"
 msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
@@ -39,7 +39,7 @@ msgstr "SEO-friendly URLs are disabled. Check your web server and URL manipulati
 
 msgctxt "Languages::dispatch_value"
 msgid "Dispatch value"
-msgstr "Dispatch value"
+msgstr "მნიშვენლობის ჩვენება"
 
 msgctxt "Languages::url_dispatch_part"
 msgid "The value of the \"dispatch\" parameter from the URL"
@@ -47,39 +47,39 @@ msgstr "The value of the \"dispatch\" parameter from the URL"
 
 msgctxt "Languages::new_rule"
 msgid "New rule"
-msgstr "New rule"
+msgstr "ახალი წესი"
 
 msgctxt "Languages::seo_rules"
 msgid "SEO rules"
-msgstr "SEO rules"
+msgstr "SEO-ს წესები"
 
 msgctxt "Languages::seo_page_title"
 msgid "page [n]"
-msgstr "page [n]"
+msgstr "გვერდი [n]"
 
 msgctxt "Languages::privileges.manage_seo_rules"
 msgid "Manage SEO rules and 301 redirects"
-msgstr "Manage SEO rules and 301 redirects"
+msgstr "SEO წესების მართვა და 301 გადამისამართება"
 
 msgctxt "Languages::privileges.view_seo_rules"
 msgid "View SEO rules and 301 redirects"
-msgstr "View SEO rules and 301 redirects"
+msgstr "SEO წესების ნახვა და 301 გადამისამართება"
 
 msgctxt "Languages::seo.redirects_manager"
 msgid "301 redirects"
-msgstr "301 redirects"
+msgstr "301 გადამისამართება"
 
 msgctxt "Languages::seo.old_url"
 msgid "Old URL"
-msgstr "Old URL"
+msgstr "ძველი URL"
 
 msgctxt "Languages::seo.new_url"
 msgid "New URL"
-msgstr "New URL"
+msgstr "ახალი URL"
 
 msgctxt "Languages::seo.new_redirect"
 msgid "New Redirect"
-msgstr "New Redirect"
+msgstr "ახალი გადამისამართება"
 
 msgctxt "Languages::seo.error_old_url_exists"
 msgid "The URL you're redirecting from is already exist"
@@ -91,7 +91,7 @@ msgstr "Google rich snippets preview"
 
 msgctxt "Languages::seo.rich_snippets_rating"
 msgid "Rating"
-msgstr "Rating"
+msgstr "რეიტინგი"
 
 msgctxt "Languages::seo.rich_snippets_reviews"
 msgid "[n] review|[n] reviews"
@@ -111,43 +111,43 @@ msgstr "For example, if your URL is <b>http://example.com/path/to/object</b>, yo
 
 msgctxt "SettingsSections::seo::general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::seo::seo_product_type"
 msgid "Product SEO URL format"
-msgstr "Product SEO URL format"
+msgstr "პროდუქტის SEO URL ფორმატი"
 
 msgctxt "SettingsOptions::seo::seo_category_type"
 msgid "Category SEO URL format"
-msgstr "Category SEO URL format"
+msgstr "კატეგორიის SEO URL ფორმატი"
 
 msgctxt "SettingsOptions::seo::seo_page_type"
 msgid "Page SEO URL format"
-msgstr "Page SEO URL format"
+msgstr "გვერდის SEO URL ფორმატი"
 
 msgctxt "SettingsOptions::seo::seo_other_type"
 msgid "Other SEO URL format"
-msgstr "Other SEO URL format"
+msgstr "სხვა SEO URL ფორმატი"
 
 msgctxt "SettingsOptions::seo::seo_language"
 msgid "Show language in the URL"
-msgstr "Show language in the URL"
+msgstr "ენის ჩვენება URL-ში"
 
 msgctxt "SettingsOptions::seo::single_url"
 msgid "Use single URL for all languages"
-msgstr "Use single URL for all languages"
+msgstr "ერთი URL-ის გამოყენება ყველა ენისთვის"
 
 msgctxt "SettingsOptions::seo::non_latin_symbols"
 msgid "Allow non-latin symbols in URL"
-msgstr "Allow non-latin symbols in URL"
+msgstr "არა ლათინური სიმბოლოების გამოყენება URL-ში"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
 msgid "/product-name"
-msgstr "/product-name"
+msgstr "/პროდუქტის-სახელი"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file"
 msgid "/product-name.html"
-msgstr "/product-name.html"
+msgstr "/პროდუქტის-სახელი.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
 msgid "/category-name/[subcategory-name/]product-name"
@@ -179,21 +179,21 @@ msgstr "/parent-page/page/"
 
 msgctxt "SettingsVariants::seo::seo_page_type::root_page"
 msgid "/page/"
-msgstr "/page/"
+msgstr "/გვერდი/"
 
 msgctxt "SettingsVariants::seo::seo_other_type::directory"
 msgid "/item"
-msgstr "/item"
+msgstr "/ნივთი"
 
 msgctxt "SettingsVariants::seo::seo_category_type::file"
 msgid "/category[-page2].html"
-msgstr "/category[-page2].html"
+msgstr "/კატეგორია[-page2].html"
 
 msgctxt "SettingsVariants::seo::seo_page_type::file"
 msgid "/page.html"
-msgstr "/page.html"
+msgstr "/გვერდი.html"
 
 msgctxt "SettingsVariants::seo::seo_other_type::file"
 msgid "/item.html"
-msgstr "/item.html"
+msgstr "/ნივთი.html"
 

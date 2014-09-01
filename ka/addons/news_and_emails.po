@@ -7,11 +7,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-01 06:07-0400\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
-msgstr "News & e-mails"
+msgstr "სიახლეები & ელ-ფოსტა"
 
 msgctxt "Addons::description::news_and_emails"
 msgid "Lets you manage site news and configure newsletter sending"
@@ -19,7 +19,7 @@ msgstr "Lets you manage site news and configure newsletter sending"
 
 msgctxt "Languages::news"
 msgid "News"
-msgstr "News"
+msgstr "სიახლეები"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
@@ -43,11 +43,11 @@ msgstr "News & emails: Newsletter subscription form"
 
 msgctxt "Languages::log_type_news"
 msgid "News"
-msgstr "News"
+msgstr "სიახლეები"
 
 msgctxt "Languages::news_and_emails"
 msgid "News & e-mails"
-msgstr "News & e-mails"
+msgstr "სიახლეები & ელ-ფოსტა"
 
 msgctxt "Languages::unsubscribe_link"
 msgid "Unsubscribe link"
@@ -83,7 +83,7 @@ msgstr "Newsletter subscription"
 
 msgctxt "Languages::block_news"
 msgid "News"
-msgstr "News"
+msgstr "სიახლეები"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
@@ -384,7 +384,7 @@ msgstr "New subscribers"
 
 msgctxt "SettingsSections::news_and_emails::general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::news_and_emails::newsletters_per_pass"
 msgid "Newsletters sent per step"
@@ -396,15 +396,15 @@ msgstr "Advanced mailing server options"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_send_method"
 msgid "Method of sending e-mails"
-msgstr "Method of sending e-mails"
+msgstr "წერილების გაგზავნის მეთოდი"
 
 msgctxt "SettingsOptions::news_and_emails::elm_smtp_server_settings"
 msgid "SMTP server settings"
-msgstr "SMTP server settings"
+msgstr "SMTP სერვერის პარამეტრები"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_host"
 msgid "SMTP host"
-msgstr "SMTP host"
+msgstr "SMTP ჰოსტი"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_username"
 msgid "SMTP username"
@@ -428,11 +428,11 @@ msgstr "Path to sendmail program"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::smtp"
 msgid "via SMTP server"
-msgstr "via SMTP server"
+msgstr "SMTP  სერვერით"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "php mail ფუნქციით"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::sendmail"
 msgid "via sendmail program"

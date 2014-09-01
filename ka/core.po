@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-08-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-01 06:07-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -27,7 +27,7 @@ msgstr "შეკვეთების სტატუსი, რომლებ
 
 msgctxt "Languages::3d_secure"
 msgid "3-D Secure"
-msgstr "3-D Secure"
+msgstr "3-D უსაფრთხოება"
 
 msgctxt "Languages::404"
 msgid "The 404 Not Found error message"
@@ -39,11 +39,11 @@ msgstr "აბსოლუტური"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed addons"
-msgstr "Installed addons"
+msgstr "დაინსტალირებული მოდულები"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available addons"
-msgstr "Browse all available addons"
+msgstr "ყველა ხელმისაწვომი მოდულების მოძიება"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -427,7 +427,7 @@ msgstr "პროდუქციის ფილტრის დამატე�
 
 msgctxt "Languages::add_promotions"
 msgid "Add promotions"
-msgstr "Add promotions"
+msgstr "აქციის დამატება"
 
 msgctxt "Languages::add_report"
 msgid "Add report"
@@ -695,7 +695,7 @@ msgstr "API წვდომა"
 
 msgctxt "Languages::api_key"
 msgid "API key"
-msgstr "API key"
+msgstr "API გასაღები"
 
 msgctxt "Languages::need_company_id"
 msgid "Company ID is required (the company_id param)"
@@ -719,7 +719,7 @@ msgstr "Store is required (the company_id param or entity stores)"
 
 msgctxt "Languages::api_not_need_id"
 msgid "ID must not be defined"
-msgstr "ID must not be defined"
+msgstr "ID შესაძლოა არ იყოს მითითებული"
 
 msgctxt "Languages::api_partner"
 msgid "API partner"
@@ -903,7 +903,7 @@ msgstr "Browse all available themes"
 
 msgctxt "Languages::currently_in_use"
 msgid "Currently in use"
-msgstr "Currently in use"
+msgstr "ამჟამად გამოყენებაშია"
 
 msgctxt "Languages::avail_from"
 msgid "Available from"
@@ -959,7 +959,7 @@ msgstr "სარეზერვო ფაილები"
 
 msgctxt "Languages::backup_options"
 msgid "Backup options"
-msgstr "Backup options"
+msgstr "დამარქაფების პარამეტრები"
 
 msgctxt "Languages::backup_schema"
 msgid "Backup database schema"
@@ -1067,7 +1067,7 @@ msgstr "Строка навигации"
 
 msgctxt "Languages::block_categories_description"
 msgid "Category trees"
-msgstr "Category trees"
+msgstr "კატეგორიის შტო"
 
 msgctxt "Languages::block_products_description"
 msgid "Product showcase"
@@ -1455,7 +1455,7 @@ msgstr "კალენდარი"
 
 msgctxt "Languages::canada_post"
 msgid "Canada Post"
-msgstr "Canada Post"
+msgstr "კანადის ფოსტა"
 
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
@@ -1491,7 +1491,7 @@ msgstr "თქვენ ვერ შეძლებთ შეკვეთის
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
-msgstr "Cannot remove the active theme"
+msgstr "შეუძლებელია აქტიური გარსის/თემის წაშლა"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
@@ -5295,7 +5295,7 @@ msgstr "რედაქტირება"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage Add-ons"
-msgstr "დანამატების მართვა"
+msgstr "მოდულების მართვა"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -6115,7 +6115,7 @@ msgstr "of"
 
 msgctxt "Languages::off"
 msgid "Off"
-msgstr "Off"
+msgstr "გამორთული"
 
 msgctxt "Languages::offline"
 msgid "Offline"
@@ -6375,7 +6375,7 @@ msgstr "მოქმედება პროდუქციის საწყ�
 
 msgctxt "Languages::out_of_stock_products"
 msgid "Out of stock"
-msgstr "Out of stock"
+msgstr "არ არის გაყიდვაში"
 
 msgctxt "Languages::override_by_dispatch"
 msgid "Override locations by dispatch"
@@ -6551,7 +6551,7 @@ msgstr "Button text color"
 
 msgctxt "Languages::payments.epdq.font_type"
 msgid "Font type"
-msgstr "Font type"
+msgstr "შრიფტის ტიპი"
 
 msgctxt "Languages::payments.epdq.hash_error"
 msgid "Sorry, the hash string does not match"
@@ -6571,15 +6571,15 @@ msgstr "Table background color"
 
 msgctxt "Languages::payments.epdq.tbl_textcolor"
 msgid "Table text color"
-msgstr "Table text color"
+msgstr "ცხრილის ტექსტის ფერი"
 
 msgctxt "Languages::payments.epdq.textcolor"
 msgid "Text color"
-msgstr "Text color"
+msgstr "შრიფტის ფერი"
 
 msgctxt "Languages::payments.epdq.title"
 msgid "Title"
-msgstr "Title"
+msgstr "სათაური"
 
 msgctxt "Languages::payments.signin_to_checkout"
 msgid "<a href=[url]>Sign in</a> to check out"
@@ -6999,7 +6999,7 @@ msgstr "შეკვეთის რედაქტირება"
 
 msgctxt "Languages::privileges.edit_files"
 msgid "Edit files"
-msgstr "Edit files"
+msgstr "ფაილების რედაქტირება"
 
 msgctxt "Languages::privileges.exim_access"
 msgid "Import and export data"
@@ -7039,7 +7039,7 @@ msgstr "გადახდების მართვა"
 
 msgctxt "Languages::privileges.manage_promotions"
 msgid "Manage promotion system"
-msgstr "Manage promotion system"
+msgstr "სასაჩუქრე სისტემის მართვა"
 
 msgctxt "Languages::privileges.manage_reports"
 msgid "Manage reports"
@@ -7575,7 +7575,7 @@ msgstr "Подитог заказа"
 
 msgctxt "Languages::promotion_cond_total"
 msgid "Order total"
-msgstr "Order total"
+msgstr "სრული თანხა"
 
 msgctxt "Languages::promotion_cond_total_weight"
 msgid "Total products weight in the cart"
@@ -8587,7 +8587,7 @@ msgstr "Settings wizard: Step [current_step] of [total_steps]"
 
 msgctxt "Languages::share"
 msgid "Share"
-msgstr "Share"
+msgstr "გაზიარება"
 
 msgctxt "Languages::share.congratulations_first_order"
 msgid "Congratulations on you first complete order."
@@ -8755,11 +8755,11 @@ msgstr "Registered Post International Parcels fee"
 
 msgctxt "Languages::ship_aup_use_delivery_confirmation"
 msgid "Use Delivery Confirmation"
-msgstr "მიტანის დადასტურების სერვისის გამოყენება"
+msgstr "მიტანის დადასტურების გამოყენება"
 
 msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
-msgstr "მომხმარებლის ID"
+msgstr "გამყიდველის ID"
 
 msgctxt "Languages::ship_dhl_additional_protection"
 msgid "Additional protection"
@@ -8783,19 +8783,19 @@ msgstr "ჩეკი ან ფულადი გადარიცხვა"
 
 msgctxt "Languages::ship_dhl_cod_method_p"
 msgid "Personal or Company Check"
-msgstr "სახელობითი ჩეკი ან კომპანიის ჩეკი"
+msgstr "პირადი ან კომპანიის ჩეკი"
 
 msgctxt "Languages::ship_dhl_cod_payment"
 msgid "Use COD payment"
-msgstr "გადახდის მეთოდ COD -ის გამოყენება"
+msgstr "COD-გადახდის ის გამოყენება"
 
 msgctxt "Languages::ship_dhl_cod_value"
 msgid "COD surcharge"
-msgstr "COD доплата"
+msgstr "COD საურავი"
 
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
-msgstr "ამანათის სიმაღლე"
+msgstr "ამანათის სიმაღლე (ინჩებში)"
 
 msgctxt "Languages::ship_dhl_intl_ship_key"
 msgid "Shipping key (international)"
@@ -8803,7 +8803,7 @@ msgstr "მიწოდების გასაღები (საერთა
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
-msgstr "ამანათის სიგრძე"
+msgstr "ამანათის სიგრძე (ინჩებში)"
 
 msgctxt "Languages::ship_dhl_shipment_type"
 msgid "Shipment type"
@@ -8823,7 +8823,7 @@ msgstr "სისტემური ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
-msgstr "ამანათის სიგანე"
+msgstr "ამანათის სიგანე  (ინჩებში)"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement"
 msgid "Ancillary Endorsements"
@@ -8871,7 +8871,7 @@ msgstr "Drop at station"
 
 msgctxt "Languages::ship_fedex_height"
 msgid "Height (inches)"
-msgstr "სიმაღლე (დიუმებში)"
+msgstr "სიმაღლე  (ინჩებში)"
 
 msgctxt "Languages::ship_fedex_hub_id"
 msgid "Hub ID"
@@ -8899,23 +8899,23 @@ msgstr "Standard Mail packages (Packages less than 1 lb)"
 
 msgctxt "Languages::ship_fedex_length"
 msgid "Length (inches)"
-msgstr "სიგრძე (დიუმებში)"
+msgstr "სიგრძე (ინჩებში)"
 
 msgctxt "Languages::ship_fedex_meter_number"
 msgid "Meter number"
-msgstr "Номер meter"
+msgstr "Meter number"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_10kg_box"
 msgid "FedEx 10kg Box"
-msgstr "FedEx 10kg Box"
+msgstr "FedEx 10კგ ყუთი"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_25kg_box"
 msgid "FedEx 25kg Box"
-msgstr "FedEx 25kg Box"
+msgstr "FedEx 25კგ ყუთი"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_box"
 msgid "FedEx Box"
-msgstr "FedEx Box"
+msgstr "FedEx-ის ყუთი"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_envelope"
 msgid "FedEx Envelope"
@@ -8943,15 +8943,15 @@ msgstr "Special service (delivery confirmation)"
 
 msgctxt "Languages::ship_fedex_width"
 msgid "Width (inches)"
-msgstr "სიგანე (დიუმებში)"
+msgstr "სიგანე (ინჩებში)"
 
 msgctxt "Languages::ship_height"
 msgid "Package height (cm)"
-msgstr "ამანათის სიმაღლე, სმ"
+msgstr "ამანათის სიმაღლე (სმ)"
 
 msgctxt "Languages::ship_length"
 msgid "Package length (cm)"
-msgstr "ამანათის სიგრძე, სმ"
+msgstr "ამანათის სიგრძე (სმ)"
 
 msgctxt "Languages::ship_sp_l_acknowledgement_of_delivery"
 msgid "Acknowledgement of delivery (for registered mail only)"
@@ -8963,7 +8963,7 @@ msgstr "ანგარიშსწორება ადგილზე (მხ
 
 msgctxt "Languages::ship_sp_l_personal_delivery"
 msgid "Personal delivery (for registered mail only)"
-msgstr "პერსონალური მიწოდება (მხოლოდ რეგისტრირებული ფოსტისთვის)"
+msgstr "პირადი მიწოდება (მხოლოდ რეგისტრირებული ფოსტისთვის)"
 
 msgctxt "Languages::ship_sp_l_registered_mail"
 msgid "Registered mail"
@@ -9011,7 +9011,7 @@ msgstr "ხელით დამუშავება"
 
 msgctxt "Languages::ship_sp_ur_additional_insurance"
 msgid "Additional insurance for URGENT goods  (up to CHF 3000.-)"
-msgstr "Дополнительная страховка для СРОЧНЫХ товаров (до 3000.- CHF)"
+msgstr "დამატებითი დაზღვევა სასწრაფო ამანათებისთვის (3000 CHF-მდე)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
@@ -9083,11 +9083,11 @@ msgstr "UPS Rates Access Key"
 
 msgctxt "Languages::ship_ups_package_type_01"
 msgid "UPS letter/ UPS Express Envelope"
-msgstr "UPS письмо/ UPS Express конверт"
+msgstr "UPS წერილი/ UPS Express კონვერტი"
 
 msgctxt "Languages::ship_ups_package_type_03"
 msgid "UPS Tube"
-msgstr "UPS футляр"
+msgstr "UPS Tube"
 
 msgctxt "Languages::ship_ups_package_type_04"
 msgid "UPS Pack"
@@ -9095,15 +9095,15 @@ msgstr "UPS შეფუთვა"
 
 msgctxt "Languages::ship_ups_package_type_21"
 msgid "UPS Express Box"
-msgstr "UPS Express коробка"
+msgstr "UPS Express ყუთი"
 
 msgctxt "Languages::ship_ups_package_type_24"
 msgid "UPS 25Kg Box"
-msgstr "UPS 25 კგ-იანი კოლოფი"
+msgstr "UPS 25 კგ-იანი ყუთი"
 
 msgctxt "Languages::ship_ups_package_type_25"
 msgid "UPS 10Kg Box"
-msgstr "UPS 10 კგ-იანი კოლოფი"
+msgstr "UPS 10 კგ-იანი ყუთი"
 
 msgctxt "Languages::ship_ups_pickup_type"
 msgid "Pickup type"
@@ -9127,7 +9127,7 @@ msgstr "On Call Air"
 
 msgctxt "Languages::ship_ups_pickup_type_11"
 msgid "Suggested Retail Rates"
-msgstr "Примерные розничные расценки"
+msgstr "შემოთავაზებული საცალო ტარიფები"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
@@ -9151,11 +9151,11 @@ msgstr "ფიქსირებული კონვერტი"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
-msgstr "კონტეინერი  (Priority Maill)"
+msgstr "კონტეინერი  (Priority Mail)"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
-msgstr "ფიქსირებული კოლოფი"
+msgstr "ფიქსირებული ყუთი"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_envelope"
 msgid "Flat Rate Letter"
@@ -9171,7 +9171,7 @@ msgstr "Medium Flat Rate Box"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
-msgstr "Не прямоугольный"
+msgstr "არა მართკუთხა"
 
 msgctxt "Languages::ship_usps_container_priority_rectangular"
 msgid "Rectangular"
@@ -9227,7 +9227,7 @@ msgstr "ამანათი"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
-msgstr "Обхват посылки"
+msgstr "Package girth"
 
 msgctxt "Languages::ship_usps_intl_package_height"
 msgid "Package height"
@@ -9247,11 +9247,11 @@ msgstr "ამანათის სიგანე"
 
 msgctxt "Languages::ship_usps_machinable"
 msgid "Machinable (First-Class Mail or Standard Post)"
-msgstr "Машинно-читаемый"
+msgstr "Machinable (First-Class Mail or Standard Post)"
 
 msgctxt "Languages::ship_usps_machinable_false"
 msgid "False"
-msgstr "არა"
+msgstr "მცდარი"
 
 msgctxt "Languages::ship_usps_machinable_true"
 msgid "True"
@@ -9267,11 +9267,11 @@ msgstr "უსინათლოთათვის"
 
 msgctxt "Languages::ship_usps_mailtype_postcards_or_aerogrammes"
 msgid "Postcards or Aerogrammes"
-msgstr "Открытка или авиаписьмо"
+msgstr "ღია წერილი ან ავიაწერილი"
 
 msgctxt "Languages::ship_usps_package_size"
 msgid "Package Size (length + girth, inches)"
-msgstr "ამანათის ზომა (სიგრძე+ სივრცე,დიუმებში)"
+msgstr "ამანათის ზომა (სიგრძე+ სივრცე, ინჩებში)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
@@ -9291,15 +9291,15 @@ msgstr "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
 
 msgctxt "Languages::ship_usps_priority_height"
 msgid "Priority Mail (Size:Large) Height (inches)"
-msgstr "Priority Mail (ზომა:დიდი) სიმაღლე"
+msgstr "Priority Mail (ზომა:დიდი) სიმაღლე (ინჩებში)"
 
 msgctxt "Languages::ship_usps_priority_length"
 msgid "Priority Mail (Size:Large) Length (inches)"
-msgstr "Priority Mail (ზომა:დიდი) სიგრძე"
+msgstr "Priority Mail (ზომა:დიდი) სიგრძე (ინჩებში)"
 
 msgctxt "Languages::ship_usps_priority_width"
 msgid "Priority Mail (Size:Large) Width (inches)"
-msgstr "Priority Mail (ზომა:დიდი) სიგანე"
+msgstr "Priority Mail (ზომა:დიდი) სიგანე (ინჩებში)"
 
 msgctxt "Languages::ship_usps_username"
 msgid "User ID"
@@ -9307,7 +9307,7 @@ msgstr "მომხმარებლის ID"
 
 msgctxt "Languages::ship_width"
 msgid "Package width (cm)"
-msgstr "ამანათის სიგანე, სმ"
+msgstr "ამანათის სიგანე (სმ)"
 
 msgctxt "Languages::short_description"
 msgid "Short description"
@@ -9331,7 +9331,7 @@ msgstr "ყველაფრის ჩვენება"
 
 msgctxt "Languages::show_items_in_line"
 msgid "Show items inline"
-msgstr "Показать встроенные элементы"
+msgstr "ინტეგრირებული ელემენტების ჩვენება"
 
 msgctxt "Languages::show_menu_on_mouse_over"
 msgid "Show menu on mouse over"
@@ -9407,11 +9407,11 @@ msgstr "ინფორმირება პროდუქტის დაბ�
 
 msgctxt "Languages::similar_only"
 msgid "Similar only"
-msgstr "მხოლოდ ერთნაირი"
+msgstr "მხოლოდ მსგავსები"
 
 msgctxt "Languages::simple_ultimate_companies_selector"
 msgid "Please contact the technical support"
-msgstr "გთხოვთ დაუკავშირდეთ ტექნიკურ ჯგუფს დახმარებისთვის"
+msgstr "გთხოვთ დაუკავშირდეთ ტექნიკურ მხარდაჭერას"
 
 msgctxt "Languages::simultaneous"
 msgid "Simultaneous"
@@ -9459,7 +9459,7 @@ msgstr "Skrill-ის მომხმარებლის ID"
 
 msgctxt "Languages::sku"
 msgid "CODE"
-msgstr "კოდი."
+msgstr "კოდი"
 
 msgctxt "Languages::slovak"
 msgid "Slovak"
@@ -9567,7 +9567,7 @@ msgstr "SSL სერთიფიკატი"
 
 msgctxt "Languages::staff_only_notes"
 msgid "Staff only notes"
-msgstr "ადმინისტრატორის კომენტარი"
+msgstr "პერსონალის კომენტარი"
 
 msgctxt "Languages::stage"
 msgid "Stage"
@@ -9607,7 +9607,7 @@ msgstr "იმ რეგიონების რედაქტირება 
 
 msgctxt "Languages::static_block"
 msgid "Static block"
-msgstr "Стационарный блок"
+msgstr "სტაციონალური ბლოკი"
 
 msgctxt "Languages::static_data"
 msgid "Static data"
@@ -9615,7 +9615,7 @@ msgstr "სტატიკური მონაცემები"
 
 msgctxt "Languages::static_data_use_item"
 msgid "Use the \"Link text\" and \"URL\" values from this item in the storefront"
-msgstr "Копировать значения полей \"Текст ссылки\" и \"URL\" из выбраных вариантов"
+msgstr "ამორჩეული ვარიანტებიდან \"ტექსტის ბმულის\" და \"URL\" ველების კოპირება"
 
 msgctxt "Languages::statistics"
 msgid "Statistics"
@@ -9659,7 +9659,7 @@ msgstr "ნაბიჯი 2"
 
 msgctxt "Languages::stop_other_rules"
 msgid "Stop other rules"
-msgstr "Не применять другие поощрения"
+msgstr "სხვა წესების შეჩერება"
 
 msgctxt "Languages::storage"
 msgid "Storage"
@@ -9667,7 +9667,7 @@ msgstr "საცავი"
 
 msgctxt "Languages::store"
 msgid "Store"
-msgstr "www.pcstore.ge-ს მაღაზია"
+msgstr "მაღაზია"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
@@ -9763,7 +9763,7 @@ msgstr "ღირებულება"
 
 msgctxt "Languages::subtotal_sum"
 msgid "Subtotal sum"
-msgstr "Подытог"
+msgstr "ჯამური ღირებულება"
 
 msgctxt "Languages::suburb"
 msgid "Suburb"
@@ -9783,7 +9783,7 @@ msgstr "თქვენ წარმატებით გაიარეთ ა
 
 msgctxt "Languages::success_registration_text"
 msgid "Congratulations! The registration was successful!<br/>Now, you have full access to all the store features. Click on \"My account\" to see them."
-msgstr "გილოცავთ! რეგისტრირება წარმატებით განხორციელდა!<br/>თქვენ ახლა უკვე გაქვთ წვდომა მაღაზიის ყველა ფუნქციებთან. დააჭირეთ \"ჩემი პროფილი\" რათა ნახოთ ის."
+msgstr "გილოცავთ! რეგისტრაციამ წარმატებით ჩაიარა!<br/>თქვენ ახლა უკვე გაქვთ წვდომა მაღაზიის ყველა ფუნქციებთან. დააჭირეთ \"ჩემს პროფილის\"."
 
 msgctxt "Languages::suffix"
 msgid "Suffix"
@@ -9807,7 +9807,7 @@ msgstr "მომწოდებელი"
 
 msgctxt "Languages::surcharge"
 msgid "Surcharge"
-msgstr "Доплата"
+msgstr "დამატებითი გადასახადი"
 
 msgctxt "Languages::surcharge_title"
 msgid "Surcharge title"
@@ -9839,7 +9839,7 @@ msgstr "ოპერაციული სისტემა"
 
 msgctxt "Languages::tab"
 msgid "Tab"
-msgstr "Табулятор"
+msgstr "ჩანართი"
 
 msgctxt "Languages::table"
 msgid "Table"
@@ -9875,7 +9875,7 @@ msgstr "გადასახადებისგან განთავი�
 
 msgctxt "Languages::tax_rates"
 msgid "Tax rates"
-msgstr "Ставки налога"
+msgstr "დამატებითი გადასახადები"
 
 msgctxt "Languages::temando"
 msgid "Temando"
@@ -9891,7 +9891,7 @@ msgstr "feet"
 
 msgctxt "Languages::temando_inches"
 msgid "inches"
-msgstr "inches"
+msgstr "ინჩები"
 
 msgctxt "Languages::temando_method_depottodepot"
 msgid "Depot to Depot"
@@ -10043,7 +10043,7 @@ msgstr "შაბლონების შტო"
 
 msgctxt "Languages::file_editor"
 msgid "File editor"
-msgstr "File editor"
+msgstr "ფაილის რედაქტორი"
 
 msgctxt "Languages::terminal"
 msgid "Terminal"
@@ -10075,7 +10075,7 @@ msgstr "ტექსტის მიდამო"
 
 msgctxt "Languages::text_2checkout_notice"
 msgid "<b>Note</b>: In order to track your 2Checkout orders with the shopping cart software you have to take these steps:<br /><br />-&nbsp;Log in to your 2Checkout account<br />-&nbsp;Click on <u>'Site management'</u> in the <u>'Account'</u> section.<br />-&nbsp;Select <b>'Given links back to my website'</b> option in the <u>'Direct Return'</u> subsection <br />-&nbsp;Set <u>'Approved URL'</u> and <u>'Pending URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret Word'</u>. The Secret Word is known only to the seller and 2CheckOut.<br />"
-msgstr "<b>Примечание</b>: Чтобы проследить Ваши заказы, сделанные через 2Checkout выполните следующее:<br /><br />-&nbsp;Зайдите в свою учетную запись 2Checkout<br>-&nbsp;Нажмите на <u>'Site management'</u> в секции <u>'Account'</u> .<br>-&nbsp;Выберите опцию <b>'Given links back to my website'</b> в подсекции <u>'Direct return'</u><br />-&nbsp;Установите значения <u>'Approved URL'</u> и <u>'Pending URL'</u> в:<br /><b>[return_url]</b><br />-&nbsp;Заполните поле <u>'Secret Word'</u>. Секретное слово известно только продавцу и 2CheckOut.<br />"
+msgstr "<b>ყურადღება</b>: იმისთვის რომ თვალი ადევნოთ თქვენს 2Checkout  შეკვეთებს გააკეთეთ შემდეგი:<br /><br />-&nbsp;შედით თქვენს 2Checkout-ის ანგარიშში <br>-&nbsp;დააჭირეთ <u>'Site management'</u> სექციაში <u>'Account'</u> .<br>-&nbsp;აირჩიეთ ოფცია <b>'Given links back to my website'</b> ქვესექციაში <u>'Direct return'</u><br />-&nbsp;დააყენეთ მნიშვნელობა <u>'Approved URL'</u> და <u>'Pending URL'</u> ში:<br /><b>[return_url]</b><br />-&nbsp;შეავსეთ ველი <u>'Secret Word'</u>. საიდუმლო სიტყვა ცნობილია მხოლოდ გამყიველისთვის და  2CheckOut.<br />"
 
 msgctxt "Languages::text_2co_ins"
 msgid "Instant Notification Service (INS)"
@@ -10083,11 +10083,11 @@ msgstr "მყისიერი შეტყობინების სერ�
 
 msgctxt "Languages::text_additional_detailed_image"
 msgid "(displayed in popup window)"
-msgstr "(показывается во всплывающем окне)"
+msgstr "(გაიხსნას დამატებით ფანჯარაში popup)"
 
 msgctxt "Languages::text_additional_thumbnail"
 msgid "(displayed on product details page in \"Additional images\")"
-msgstr "(показывается на странице подробного описания товара в \"Дополнительные изображения\")"
+msgstr "(გამოჩნდება პროდუქტის დეტალურ გვერდზე \"დამატებით სურათებში\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
@@ -10095,11 +10095,11 @@ msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [add
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "მოდული \"[addon_name]\" არათავსებადია მიმდინარე მოდულთან: [addons]. ეს მოდული გაითიშება ავტომატურად."
+msgstr "მოდული \"[addon_name]\" არათავსებადია მიმდინარე მოდულთან: [addons]. ეს მოდულები გაითიშება ავტომატურად."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons], that is why it will not be enabled automatically. To enable the add-on, enable it manually and the incompatible add-ons will be disabled automatically at that."
+msgstr "მოდული \"[addon_name]\" არათავსებადია მიმდინარე მოდულთან: [addons]. ეს არის მიზეზი იმისა თუ რატომ არ აქტიურება ავტომატურად. იმისთვის რომ გააქტიუროთ ეს მოდული, ჩართეთ ხელით და არათავსებადი მოულები გაითიშება ავტომატურად."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
@@ -10111,7 +10111,7 @@ msgstr "Данный модуль не может быть установлен 
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "მოდული<b>\"[addon]\"</b> წარმატებით იქნა წაშილი"
+msgstr "მოდული<b>\"[addon]\"</b> წარმატებით წაიშალა."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
@@ -10119,7 +10119,7 @@ msgstr "აღნიშნული მოდულის წაშლა შე
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
-msgstr "В этом поле Вы можете использовать подстановочные знаки:<br><b>'?'</b> - любой одиночный символ;<b>'*'</b> - любое количество символов.<br><br><u>Например:</u><br><b>улица *</b> &nbsp;&nbsp;(соответствия: улица Пушкина, улица Московская, и т.д.)"
+msgstr "ამ ველში თქვენ შეგიძლიათ გამოიყენოთ სხვადასხვა ნიშნები:<br><b>'?'</b> - ნებისმიერი (ერთი ცალი) სიმბოლო;<b>'*'</b> - ნებისმიერი რაოდენობის სიმბოლოები.<br><br><u>მაგალითად:</u><br><b>ქუჩა*</b> &nbsp;&nbsp;(შესაბამისად: ქუჩა, გამზირი და ა.შ)"
 
 msgctxt "Languages::text_admin_new_orders"
 msgid "This section shows the orders you have never viewed."
@@ -10127,11 +10127,11 @@ msgstr "ეს ჩანართი აჩვენებს იმ შეკ�
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>.[ext]</b>."
-msgstr "You can upload files only with the <b>.[ext]</b> extension here."
+msgstr "თქვენ შეგიძლიათ ატვირთოთ მხოლოდ:<b>.[ext]</b> გაფართოების ფაილები."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Внимание! Вы должны задать ссылку на Ваш магазин <b>[callback_url]</b> в поле Merchant URL на Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Иначе Вы не сможете принимать платежи через Amazon Checkout в Вашем магазине"
+msgstr "ყურადღება! თქვენ უნდა მიუთითოთ თქვენი მაღაზიის ბმული <b>[callback_url]</b> Merchant URL-ს ველშიна Amazon's Seller Central Website-ზე (Settings > Checkout Pipeline Settings). წინააღმდეგ შემთხვევაში თქვენ ვერ შეძლებთ Amazon Checkout-ით გადახდების მიღებას თქვენს მაღაზიაში"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
@@ -10231,7 +10231,7 @@ msgstr "ფაილის აღდგენა <b>[file]</b> საცავ�
 
 msgctxt "Languages::text_can_be_used_once"
 msgid "This coupon can be used only once. You have already applied it."
-msgstr "ამ კუპონის გამოყენება შესაძლებელია მხოლოდ ერთხელ, თქვენ ის უკვე გამოიყენეთ."
+msgstr "ამ კუპონის გამოყენება შესაძლებელია მხოლოდ ერთხელ, თქვენ ის უკვე გაქვთ გამოყენებული."
 
 msgctxt "Languages::text_cart_amount_changed"
 msgid "The quantity of the product <b>[product]</b> in your cart  has been changed to allowable."
@@ -11163,7 +11163,7 @@ msgstr "Возвращаемый URL: <b>[return_url]</b>"
 
 msgctxt "Languages::text_thumbnail_manual_loading"
 msgid "Thumbnails will be generated from detailed images automatically, but you can also <a id=\"[id]\" class=\"[class]\">upload them manually.</a>"
-msgstr "ხატულები შეიქმენებიან ავტომატურად სურათიდან, თუმცა თქვენ ასევე შეგიძლიათ"
+msgstr "ხატულები შეიქმენებიან სურათიდან ავტომატურად, თუმცა თქვენ ასევე შეგიძლიათ  <a id=\"[id]\" class=\"[class]\">ან ატვირთოთ ხელით.</a>"
 
 msgctxt "Languages::text_tinymce"
 msgid "TinyMCE"
@@ -11443,7 +11443,7 @@ msgstr "ღილაკები"
 
 msgctxt "Languages::theme_editor.close"
 msgid "Close theme editor"
-msgstr "Close theme editor"
+msgstr "თემის/გარსის რედაქტორის დახურვა"
 
 msgctxt "Languages::theme_editor.colors"
 msgid "Colors"
@@ -11459,7 +11459,7 @@ msgstr "Analogic"
 
 msgctxt "Languages::theme_editor.color_gen_base_color"
 msgid "Base color"
-msgstr "Base color"
+msgstr "ბაზისური ფერი"
 
 msgctxt "Languages::theme_editor.color_gen_contrast"
 msgid "Contrast"
@@ -11499,11 +11499,11 @@ msgstr "Triad"
 
 msgctxt "Languages::theme_editor.color_gen_variant"
 msgid "Variation"
-msgstr "Variation"
+msgstr "ვარიაცია"
 
 msgctxt "Languages::theme_editor.color_gen_vcontrast"
 msgid "Contrast"
-msgstr "Contrast"
+msgstr "კონტრასტი"
 
 msgctxt "Languages::theme_editor.content_bg"
 msgid "Content"
@@ -11567,15 +11567,15 @@ msgstr "Full width"
 
 msgctxt "Languages::theme_editor.general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "Languages::theme_editor.general_bg"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "Languages::theme_editor.gradient"
 msgid "Gradient"
-msgstr "Gradient"
+msgstr "გრადიენტი"
 
 msgctxt "Languages::theme_editor.header"
 msgid "Header"
@@ -12727,7 +12727,7 @@ msgstr "მიწოდების დამოწმება"
 
 msgctxt "Languages::usps_service_edelivery_confirmation"
 msgid "e-Delivery Confirmation"
-msgstr "e-Delivery Confirmation"
+msgstr "e-Delivery დამოწმება"
 
 msgctxt "Languages::usps_service_express_mail_insurance"
 msgid "Express mail insurance"
@@ -13299,7 +13299,7 @@ msgstr "დეველოპერები"
 
 msgctxt "Languages::check_po_file"
 msgid "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
-msgstr "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
+msgstr "PO ფაილი შეიცავს სინტაქსურ შეცდომებს ან არასწორ სტრუქტურას. გადაამოწმეთ და სცადეთ ხელახლა ატვირთვა."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13607,7 +13607,7 @@ msgstr "All products included"
 
 msgctxt "Languages::usergroup_registered"
 msgid "Registered users"
-msgstr "Registered users"
+msgstr "რეგისტრირებული მომხმარებლები"
 
 msgctxt "Languages::person_name"
 msgid "Name"
@@ -13647,7 +13647,7 @@ msgstr "ელ-ფოსტა"
 
 msgctxt "SettingsSections::General"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsSections::Image_verification"
 msgid "Image verification"
@@ -13655,7 +13655,7 @@ msgstr "Image verification"
 
 msgctxt "SettingsSections::Logging"
 msgid "Logging"
-msgstr "Logging"
+msgstr "მოვლენათა აღრიცხვა"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
@@ -13719,11 +13719,11 @@ msgstr "Shipping processors"
 
 msgctxt "SettingsOptions::log_type_news"
 msgid "News"
-msgstr "News"
+msgstr "სიახლეები"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
-msgstr "License number"
+msgstr "ლიცენზიის ნომერი"
 
 msgctxt "SettingsOptions::alternative_currency"
 msgid "Alternative currency display format"
@@ -13743,31 +13743,31 @@ msgstr "Method of sending e-mails"
 
 msgctxt "SettingsOptions::width"
 msgid "Image width"
-msgstr "Width,px"
+msgstr "სურათის სიგანე"
 
 msgctxt "SettingsOptions::log_type_orders"
 msgid "Orders"
-msgstr "Orders"
+msgstr "შეკვეთები"
 
 msgctxt "SettingsOptions::log_type_users"
 msgid "Users"
-msgstr "Users"
+msgstr "მომხმარებლები"
 
 msgctxt "SettingsOptions::log_type_products"
 msgid "Products"
-msgstr "Products"
+msgstr "პროდუქტები"
 
 msgctxt "SettingsOptions::log_type_categories"
 msgid "Categories"
-msgstr "Categories"
+msgstr "კატეგორიები"
 
 msgctxt "SettingsOptions::log_type_database"
 msgid "Database"
-msgstr "Database"
+msgstr "მონაცემთა ბაზები"
 
 msgctxt "SettingsOptions::log_type_requests"
 msgid "Requests"
-msgstr "Requests"
+msgstr "მოთხოვნები"
 
 msgctxt "SettingsOptions::min_admin_password_length"
 msgid "Minimum administrator password length"
@@ -13775,11 +13775,11 @@ msgstr "Minimum administrator password length"
 
 msgctxt "SettingsOptions::header_1"
 msgid "Administrator  settings"
-msgstr "Administrator  settings"
+msgstr "ადმინისტრატორის პარამეტრები"
 
 msgctxt "SettingsOptions::header_7010"
 msgid "Format of time intervals"
-msgstr "Format of time intervals"
+msgstr "დროის ინტერვალის ფორმატი"
 
 msgctxt "SettingsOptions::share_users"
 msgid "Share users among stores"
@@ -13787,7 +13787,7 @@ msgstr "Share users among stores"
 
 msgctxt "SettingsOptions::log_type_general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::backend_default_language"
 msgid "Backend default language"
@@ -13795,11 +13795,11 @@ msgstr "Backend default language"
 
 msgctxt "SettingsOptions::company_city"
 msgid "Company city"
-msgstr "Company city"
+msgstr "ორგანიზაციის ქალაქი"
 
 msgctxt "SettingsOptions::admin_orders_per_page"
 msgid "Orders per page"
-msgstr "Orders per page"
+msgstr "შეკვეთები თითო გვერდზე"
 
 msgctxt "SettingsOptions::day"
 msgid "Day"
@@ -13815,7 +13815,7 @@ msgstr "Show only root level categories links in the 'Categories' section"
 
 msgctxt "SettingsOptions::height"
 msgid "Image height"
-msgstr "Height,px"
+msgstr "სურათის სიმაღლე"
 
 msgctxt "SettingsOptions::admin_passwords_must_contain_mix"
 msgid "Administrator password must contain both letters and numbers"
@@ -13863,7 +13863,7 @@ msgstr "SMTP ჰოსტი"
 
 msgctxt "SettingsOptions::string_length"
 msgid "String length"
-msgstr "String length"
+msgstr "სტრინგის სიგრძე"
 
 msgctxt "SettingsOptions::change_admin_password_on_first_login"
 msgid "Force administrators to change password on the first login"
@@ -13883,15 +13883,15 @@ msgstr "Grid color (hexadecimal code)"
 
 msgctxt "SettingsOptions::ftp_username"
 msgid "Username"
-msgstr "Username"
+msgstr "ფსევდონიმი"
 
 msgctxt "SettingsOptions::company_state"
 msgid "Company state"
-msgstr "Company state"
+msgstr "ორგანიზაციის რაიონი"
 
 msgctxt "SettingsOptions::weight_symbol_grams"
 msgid "Grams in the unit of weight defined by the weight symbol"
-msgstr "Grams in the unit of weight defined by the weight symbol"
+msgstr "გრამები მითითებულ წონის ერთეულში"
 
 msgctxt "SettingsOptions::month"
 msgid "Month"
@@ -13903,11 +13903,11 @@ msgstr "USPS-ის ჩართვა"
 
 msgctxt "SettingsOptions::mailer_smtp_username"
 msgid "SMTP username"
-msgstr "SMTP username"
+msgstr "SMTP სახელი"
 
 msgctxt "SettingsOptions::min_font_size"
 msgid "Minimum font size"
-msgstr "Minimum font size"
+msgstr "მინიმალური შრიფტის ზომა"
 
 msgctxt "SettingsOptions::admin_password_expiration_period"
 msgid "Password validity period in days (0 - unlimited)"
@@ -13919,7 +13919,7 @@ msgstr "პაროლი"
 
 msgctxt "SettingsOptions::company_zipcode"
 msgid "Company zip code"
-msgstr "ორგანიზაციის zip კოდი"
+msgstr "ორგანიზაციის საფოსტო ინდექსი"
 
 msgctxt "SettingsOptions::admin_pages_per_page"
 msgid "CMS pages per page"
@@ -13943,11 +13943,11 @@ msgstr "შრიფტის მაქსიმალური ზომა"
 
 msgctxt "SettingsOptions::store_mode"
 msgid "Close storefront"
-msgstr "Close storefront"
+msgstr "მაღაზიის დახურვა"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
-msgstr "Cron password"
+msgstr "წვდომის გასაღები cron სკრიპტთან რომელიც აგზავნის შეტყობინებებს პაროლის ცვილებზე ელ ფოსტით. სკრიპტის გასააქტიურებლად გამოიყენეთ ეს ბმული: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
@@ -13963,7 +13963,7 @@ msgstr "Initial order ID value"
 
 msgctxt "SettingsOptions::use_shipments"
 msgid "Allow multiple shipments for a single order"
-msgstr "Allow users to create shipments"
+msgstr "შეკვეთის რამოდენიმე მისამართზე დაშიპვა"
 
 msgctxt "SettingsOptions::uk_cookies_law"
 msgid "Notify visitors about cookies use"
@@ -13975,7 +13975,7 @@ msgstr "Tax calculation method based on"
 
 msgctxt "SettingsOptions::feedback_type"
 msgid "Help us improve software"
-msgstr "Help us improve CS-Cart"
+msgstr "დაგვეხმარეთ პროგრამის გაუმჯობესებაში"
 
 msgctxt "SettingsOptions::auto_check_updates"
 msgid "Check for updates automatically"
@@ -13983,7 +13983,7 @@ msgstr "განახლებების ავტომატური შ�
 
 msgctxt "SettingsOptions::ftp_directory"
 msgid "Directory"
-msgstr "Directory"
+msgstr "საქაღალდე"
 
 msgctxt "SettingsOptions::admin_elements_per_page"
 msgid "Elements per page"
@@ -14007,7 +14007,7 @@ msgstr "Enable Australia Post"
 
 msgctxt "SettingsOptions::string_type"
 msgid "String type"
-msgstr "String type"
+msgstr "სტრინგის ტიპი"
 
 msgctxt "SettingsOptions::header_7003"
 msgid "Default location"
@@ -14031,15 +14031,15 @@ msgstr "Thumbnail background color"
 
 msgctxt "SettingsOptions::colour"
 msgid "Color"
-msgstr "Color"
+msgstr "ფერი"
 
 msgctxt "SettingsOptions::can_enabled"
 msgid "Enable Canada Post"
-msgstr "Enable Canada Post"
+msgstr "კანადური ფოსტის ჩართვა"
 
 msgctxt "SettingsOptions::swisspost_enabled"
 msgid "Enable Swiss Post"
-msgstr "Enable Swiss Post"
+msgstr "შვედური ფოსტის ჩართვა"
 
 msgctxt "SettingsOptions::header_2"
 msgid "Customer settings"
@@ -14047,15 +14047,15 @@ msgstr "Customer settings"
 
 msgctxt "SettingsOptions::header_10004"
 msgid "Sendmail settings"
-msgstr "Sendmail settings"
+msgstr "Sendmail-ის პარამეტრები"
 
 msgctxt "SettingsOptions::default_zipcode"
 msgid "Default zipcode"
-msgstr "Default zipcode"
+msgstr "ნაგულისხმევი საფოსტო ინდექსი"
 
 msgctxt "SettingsOptions::company_fax"
 msgid "Company fax"
-msgstr "Company fax"
+msgstr "ორგანიზაციის ფაქსი"
 
 msgctxt "SettingsOptions::frontend_default_language"
 msgid "Frontend default language"
@@ -14063,7 +14063,7 @@ msgstr "Frontend default language"
 
 msgctxt "SettingsOptions::convert_to"
 msgid "Thumbnail format"
-msgstr "Thumbnail format"
+msgstr "ხატულების ფორმატი"
 
 msgctxt "SettingsOptions::mailer_sendmail_path"
 msgid "Path to sendmail program"
@@ -14071,7 +14071,7 @@ msgstr "Path to sendmail program"
 
 msgctxt "SettingsOptions::background_image"
 msgid "Background image"
-msgstr "Path to background image (relative to CS-Cart root directory)"
+msgstr "ფონის სურათი"
 
 msgctxt "SettingsOptions::hide_if_logged"
 msgid "Do not use verification if user is logged in"
@@ -14083,7 +14083,7 @@ msgstr "Do not use verification after first valid answer"
 
 msgctxt "SettingsOptions::default_city"
 msgid "Default city"
-msgstr "Default city"
+msgstr "ნაგულისხმევი ქალაქი"
 
 msgctxt "SettingsOptions::company_website"
 msgid "Company website"
@@ -14091,11 +14091,11 @@ msgstr "ორგანიზაციის ვებ ვერდი"
 
 msgctxt "SettingsOptions::orders_per_page"
 msgid "Orders per page"
-msgstr "შეკვეთევი თითო გვერდზე"
+msgstr "შეკვეთები თითო გვერდზე"
 
 msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
-msgstr "JPEG format quality (0-100)"
+msgstr "JPEG ფორმატის ხარისხი (0-100)"
 
 msgctxt "SettingsOptions::header_8048"
 msgid "Use for"
@@ -14111,11 +14111,11 @@ msgstr "Temando-ს ჩართვა"
 
 msgctxt "SettingsOptions::default_country"
 msgid "Default country"
-msgstr "Default country"
+msgstr "ნაგულისხმევი ქვეყანა"
 
 msgctxt "SettingsOptions::products_per_page"
 msgid "Products per page"
-msgstr "Products per page"
+msgstr "პროდუქტები თითო გვერდზე"
 
 msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
@@ -14151,7 +14151,7 @@ msgstr "შეკვეთების დეპარტამენტის �
 
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
-msgstr "Default phone"
+msgstr "ნაგულისხმევი ტელეფონი"
 
 msgctxt "SettingsOptions::use_for_form_builder"
 msgid "Custom forms"
@@ -14295,7 +14295,7 @@ msgstr "Categories list thumbnail height"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Product detailed page layout"
+msgstr "პროდუქტის დეტალური გვერდის ხედი"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
@@ -14311,15 +14311,15 @@ msgstr "Products list layouts settings"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Available product list layouts"
+msgstr "ხელმისაწვდომი პროდუქტების ხედები"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Product list default layout"
+msgstr "პროდუქციის ნაგულისხმევი ხედი"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Use the selected layout for current category or search page only"
+msgstr "ამორჩეული ხედის გამოყენება მითითებულ კატეგორიებში და ძიების გვერდზე"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
@@ -14347,7 +14347,7 @@ msgstr "Category details page thumbnail width"
 
 msgctxt "SettingsOptions::time_format"
 msgid "Time format"
-msgstr "Time format"
+msgstr "დროის ფორმატი"
 
 msgctxt "SettingsOptions::category_details_thumbnail_height"
 msgid "Category details page thumbnail height"
@@ -14355,7 +14355,7 @@ msgstr "Category details page thumbnail height"
 
 msgctxt "SettingsOptions::header_7024"
 msgid "Promotions"
-msgstr "Promotions"
+msgstr "აქციები"
 
 msgctxt "SettingsOptions::timezone"
 msgid "Time zone"
@@ -14379,7 +14379,7 @@ msgstr "Detailed category image height"
 
 msgctxt "SettingsOptions::header_7005"
 msgid "Users/cart"
-msgstr "Users/cart"
+msgstr "მომხმარებლები/კალათა"
 
 msgctxt "SettingsOptions::user_multiple_profiles"
 msgid "Allow users to create multiple profiles for one account"
@@ -14387,11 +14387,11 @@ msgstr "Allow users to create multiple profiles for one account"
 
 msgctxt "SettingsOptions::calendar_week_format"
 msgid "Calendar week starts from"
-msgstr "Calendar week starts from"
+msgstr "კვირის დასაწყისი დღე"
 
 msgctxt "SettingsOptions::min_order_amount"
 msgid "Minimum order amount"
-msgstr "Minimum order amount"
+msgstr "მინიმალური შეკვეთის რაოდენობა"
 
 msgctxt "SettingsOptions::min_order_amount_type"
 msgid "Define minimum order amount by"
@@ -14415,7 +14415,7 @@ msgstr "Allow customer to signup for user group"
 
 msgctxt "SettingsOptions::approve_user_profiles"
 msgid "Administrator must activate new user accounts"
-msgstr "Administrator must activate new user accounts"
+msgstr "ადმინისტრატორმა უნდა გააქტიუროს ახალი მომხმარებლები"
 
 msgctxt "SettingsOptions::address_position"
 msgid "Profile address section order"
@@ -14427,7 +14427,7 @@ msgstr "Unsaved changes warning"
 
 msgctxt "SettingsOptions::show_menu_descriptions"
 msgid "Show menu description"
-msgstr "Show menu description"
+msgstr "მენიუს აღწერის ჩვენება"
 
 msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
@@ -14451,7 +14451,7 @@ msgstr "Allow customers to pay order again if transaction was declined"
 
 msgctxt "SettingsOptions::checkout_style"
 msgid "Checkout style"
-msgstr "Checkout style"
+msgstr "ანგარიშსწორების სტილი"
 
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
@@ -14543,7 +14543,7 @@ msgstr "Require only contact information on registration"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
-msgstr "Default"
+msgstr "ნაგულისხმევად"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
@@ -14555,7 +14555,7 @@ msgstr "Automatic feedback"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
-msgstr "29/09/2005 (day/month/year)"
+msgstr "29/09/2005 (დღე/თვე/წელი)"
 
 msgctxt "SettingsVariants::time_format::%H:%M"
 msgid "15:43"
@@ -14567,15 +14567,15 @@ msgstr "Allow"
 
 msgctxt "SettingsVariants::string_type::digits"
 msgid "Digits only"
-msgstr "Digits only"
+msgstr "მხოლოდ ციფრები"
 
 msgctxt "SettingsVariants::calendar_date_format::month_first"
 msgid "09/30/2008 (month/day/year)"
-msgstr "09/30/2008 (month/day/year)"
+msgstr "09/30/2008 (თვე/დღე/წელი)"
 
 msgctxt "SettingsVariants::calendar_week_format::sunday_first"
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "კვირა"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
@@ -14587,11 +14587,11 @@ msgstr "Runtime"
 
 msgctxt "SettingsVariants::default_state_update_for_all::not_active"
 msgid "Not Active"
-msgstr "Not Active"
+msgstr "არააქტიური"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
-msgstr "29-09-2005 (day-month-year)"
+msgstr "29-09-2005 (დღე-თვე-წელი)"
 
 msgctxt "SettingsVariants::time_format::%H.%M"
 msgid "15.43"
@@ -14607,15 +14607,15 @@ msgstr "Hide the \"Add to cart\" button"
 
 msgctxt "SettingsVariants::string_type::letters"
 msgid "Letters only"
-msgstr "Letters only"
+msgstr "მხოლოდ ასოები"
 
 msgctxt "SettingsVariants::calendar_date_format::day_first"
 msgid "30/09/2008 (day/month/year)"
-msgstr "30/09/2008 (day/month/year)"
+msgstr "30/09/2008 (დღე/თვე/წელი)"
 
 msgctxt "SettingsVariants::calendar_week_format::monday_first"
 msgid "Monday"
-msgstr "Monday"
+msgstr "ორშაბათი"
 
 msgctxt "SettingsVariants::address_position::shipping_first"
 msgid "Shipping first"
@@ -14627,11 +14627,11 @@ msgstr "Deprecated features"
 
 msgctxt "SettingsVariants::default_state_update_for_all::active"
 msgid "Active"
-msgstr "Active"
+msgstr "აქტიური"
 
 msgctxt "SettingsVariants::date_format::%d.%m.%Y"
 msgid "29.09.2005 (day.month.year)"
-msgstr "29.09.2005 (day.month.year)"
+msgstr "29.09.2005 (დღე.თვე.წელი)"
 
 msgctxt "SettingsVariants::time_format::%I:%M %p"
 msgid "3:43 PM"
@@ -14639,7 +14639,7 @@ msgstr "3:43 PM"
 
 msgctxt "SettingsVariants::min_order_amount_type::only_products"
 msgid "Products"
-msgstr "Products"
+msgstr "პროდუქტები"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
@@ -14647,11 +14647,11 @@ msgstr "Hide price and the \"Add to cart\" button"
 
 msgctxt "SettingsVariants::string_type::mixed"
 msgid "Mixed"
-msgstr "Mixed"
+msgstr "შერეული"
 
 msgctxt "SettingsVariants::date_format::%m/%d/%Y"
 msgid "09/29/2005 (month/day/year)"
-msgstr "09/29/2005 (month/day/year)"
+msgstr "09/29/2005 (თვე/დღე/წელი)"
 
 msgctxt "SettingsVariants::time_format::%I.%M %p"
 msgid "3.43 PM"
@@ -14659,67 +14659,67 @@ msgstr "3.43 PM"
 
 msgctxt "SettingsVariants::log_type_news::create"
 msgid "Create"
-msgstr "Create"
+msgstr "შექმნა"
 
 msgctxt "SettingsVariants::log_type_news::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "წაშლა"
 
 msgctxt "SettingsVariants::log_type_news::update"
 msgid "Update"
-msgstr "Update"
+msgstr "განახლება"
 
 msgctxt "SettingsVariants::log_type_orders::create"
 msgid "Create"
-msgstr "Create"
+msgstr "შექმნა"
 
 msgctxt "SettingsVariants::log_type_orders::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "წაშლა"
 
 msgctxt "SettingsVariants::log_type_orders::update"
 msgid "Update"
-msgstr "Update"
+msgstr "განახლება"
 
 msgctxt "SettingsVariants::log_type_products::create"
 msgid "Create"
-msgstr "Create"
+msgstr "შექმნა"
 
 msgctxt "SettingsVariants::log_type_products::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "წაშლა"
 
 msgctxt "SettingsVariants::log_type_products::update"
 msgid "Update"
-msgstr "Update"
+msgstr "განახლება"
 
 msgctxt "SettingsVariants::log_type_users::create"
 msgid "Create"
-msgstr "Create"
+msgstr "შექმნა"
 
 msgctxt "SettingsVariants::log_type_users::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "წაშლა"
 
 msgctxt "SettingsVariants::log_type_users::update"
 msgid "Update"
-msgstr "Update"
+msgstr "განახლება"
 
 msgctxt "SettingsVariants::log_type_categories::create"
 msgid "Create"
-msgstr "Create"
+msgstr "შექმნა"
 
 msgctxt "SettingsVariants::log_type_categories::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "წაშლა"
 
 msgctxt "SettingsVariants::log_type_categories::update"
 msgid "Update"
-msgstr "Update"
+msgstr "განახლება"
 
 msgctxt "SettingsVariants::date_format::%m-%d-%Y"
 msgid "09-29-2005 (month-day-year)"
-msgstr "09-29-2005 (month-day-year)"
+msgstr "09-29-2005 (თვე-დღე-წელი)"
 
 msgctxt "SettingsVariants::time_format::%H:%M:%S"
 msgid "15:43:55"
@@ -14727,19 +14727,19 @@ msgstr "15:43:55"
 
 msgctxt "SettingsVariants::month::%B, %Y"
 msgid "January, 2006"
-msgstr "January, 2006"
+msgstr "იანვარი, 2006"
 
 msgctxt "SettingsVariants::log_type_orders::status"
 msgid "Change"
-msgstr "Change"
+msgstr "შეცვლა"
 
 msgctxt "SettingsVariants::log_type_users::session"
 msgid "Session"
-msgstr "Session"
+msgstr "სესია"
 
 msgctxt "SettingsVariants::log_type_users::failed_login"
 msgid "Failed logins"
-msgstr "Failed logins"
+msgstr "უარყოფილი ავტორიზაციები"
 
 msgctxt "SettingsVariants::log_type_products::low_stock"
 msgid "Low stock"
@@ -14751,7 +14751,7 @@ msgstr "აღდგენა"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "დამარქაფება"
 
 msgctxt "SettingsVariants::log_type_database::optimize"
 msgid "Optimize"
@@ -14767,7 +14767,7 @@ msgstr "HTTP/HTTPS"
 
 msgctxt "SettingsVariants::date_format::%m.%d.%Y"
 msgid "09.29.2005 (month.day.year)"
-msgstr "09.29.2005 (month.day.year)"
+msgstr "09.29.2005 (თვე.დღე.წელი)"
 
 msgctxt "SettingsVariants::time_format::%H.%M.%S"
 msgid "15.43.55"
@@ -14775,7 +14775,7 @@ msgstr "15.43.55"
 
 msgctxt "SettingsVariants::date_format::%Y/%m/%d"
 msgid "2005/09/29 (year/month/day)"
-msgstr "2005/09/29 (year/month/day)"
+msgstr "2005/09/29 (წელი/თვე/დღე)"
 
 msgctxt "SettingsVariants::time_format::%I:%M:%S %p"
 msgid "3:43:55 PM"
@@ -14795,7 +14795,7 @@ msgstr "2005.09.29 (წელი.თვე.დღე)"
 
 msgctxt "SettingsVariants::exception_style::hide"
 msgid "Hide exception"
-msgstr "Hide exception"
+msgstr "გამონაკლისების დამალვა"
 
 msgctxt "SettingsVariants::alternative_currency::use_only_selected"
 msgid "Show prices in selected currency only"
@@ -14855,7 +14855,7 @@ msgstr "Thursday, 29 September 2005 (day of week, day month year)"
 
 msgctxt "SettingsVariants::day::%B %e, %Y"
 msgid "January 3, 2006"
-msgstr "January 3, 2006"
+msgstr "იანვარი 3, 2006"
 
 msgctxt "SettingsVariants::exception_style::warning"
 msgid "Show warning on exception"
@@ -14927,7 +14927,7 @@ msgstr "(GMT-10:00) Hawaii"
 
 msgctxt "SettingsVariants::day::%b %e"
 msgid "Jan 3"
-msgstr "Jan 3"
+msgstr "იან 3"
 
 msgctxt "SettingsVariants::month::%m-%Y"
 msgid "01-2006"
@@ -15335,7 +15335,7 @@ msgstr "მისამართის ტიპი"
 
 msgctxt "ProfileFields::b_vat_id"
 msgid "VAT ID"
-msgstr "VAT ID"
+msgstr "დღგ-ს ID"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
@@ -15372,4 +15372,16 @@ msgstr "მაღაზია დაკეტილია"
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
 msgstr "მაღაზია<br/>დაკეტილია"
+
+msgctxt "Languages::copy_to_other_locations"
+msgid "Copy to other locations"
+msgstr "Copy to other locations"
+
+msgctxt "Languages::head_custom_html"
+msgid "Custom HTML code"
+msgstr "Custom HTML code"
+
+msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
+msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
 
