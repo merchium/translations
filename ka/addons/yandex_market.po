@@ -45,8 +45,8 @@ msgid "If products, categories and etc... were added or changed, please <a href=
 msgstr "If products, categories and etc... were added or changed, please <a href=\"[clear_cache_url]\">clear the cache</a> to regenerate the xml yml.<br /><br /> [yml_available_in_customer]"
 
 msgctxt "Languages::yml_available_in_customer"
-msgid "Price list is available by this link: <a href=\"[yml_url]\">[yml_url]</a><br /><br />Price list can be reached by the URL <a href=\"[http_location]/yandex_market.yml\">[http_location]/yandex_market.yml</a> if SEO addon is enabled. If it is disabled, you need to add the following code to the \".htaccess\" file to get this URL working:<br />RewriteRule ^yandex_market\\.yml$ [yml_url] [L]<br />Add this line after the \"RewriteBase\" line.<br /><br />"
-msgstr "Price list is available by this link: <a href=\"[yml_url]\">[yml_url]</a><br /><br />Price list can be reached by the URL <a href=\"[http_location]/yandex_market.yml\">[http_location]/yandex_market.yml</a> if SEO addon is enabled. If it is disabled, you need to add the following code to the \".htaccess\" file to get this URL working:<br />RewriteRule ^yandex_market\\.yml$ [yml_url] [L]<br />Add this line after the \"RewriteBase\" line.<br /><br />"
+msgid "Price list is available by this link: <a href=\"[yml_url]\">[yml_url]</a><br /><br />"
+msgstr "Price list is available by this link: <a href=\"[yml_url]\">[yml_url]</a><br /><br />"
 
 msgctxt "Languages::yml_export_unsuccessfull_products_zero_price"
 msgid "The following products were not exported because of zero price:"
