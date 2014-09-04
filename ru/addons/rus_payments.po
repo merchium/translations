@@ -7,15 +7,15 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:04-0400\n"
+"PO-Revision-Date: 2014-09-04 08:00-0400\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
 msgstr " Российские способы оплаты"
 
 msgctxt "Addons::description::rus_payments"
-msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, YesCredit, Vsevcredit, EMS, Avangard"
-msgstr "Способы оплаты: Assist, Яндекс.Деньги, Webmoney, Сбербанк, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Всё в кредит, Avangard"
+msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
+msgstr "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
 
 msgctxt "Languages::russian_payments"
 msgid "Russian payments"
@@ -688,118 +688,6 @@ msgstr "Полученное значение режима в уведомлен
 msgctxt "Languages::text_wm_error_many_requests"
 msgid "Too mach SMS without payments found for specified phone"
 msgstr "Обнаружено слишком много отправленных СМС без совершения платежей для данного телефона"
-
-msgctxt "Languages::text_yc_transaction_accepted"
-msgid "The request has been accepted"
-msgstr "Заявка принята"
-
-msgctxt "Languages::text_yc_transaction_rejected"
-msgid "The request has been rejected :"
-msgstr "Отклонено :"
-
-msgctxt "Languages::text_yc_name_empty"
-msgid "The \"Name\" field has not been filled in"
-msgstr "Не заполнено поле ФИО"
-
-msgctxt "Languages::text_yc_phone_code_empty"
-msgid "The \"Phone code\" field has not been filled in"
-msgstr "Не заполнено поле Код номера для связи"
-
-msgctxt "Languages::text_yc_phone_code_invalid"
-msgid "The value of the \"Phone code\" field is invalid"
-msgstr "поле Код номера для связи заполнено некорректно"
-
-msgctxt "Languages::text_yc_phone_number_empty"
-msgid "The \"Phone number\" field has not been filled in"
-msgstr "Не заполнено поле Номер для связи"
-
-msgctxt "Languages::text_yc_phone_number_invalid"
-msgid "The value of the \"Phone number\" field is invalid"
-msgstr "поле Номер для связи заполнено некорректно"
-
-msgctxt "Languages::text_yc_not_approved"
-msgid "The conditions of the Agreement have not been accepted"
-msgstr "Вы должны согласиться с условиями Соглашения"
-
-msgctxt "Languages::yc_name"
-msgid "Name"
-msgstr "Фамилия Имя Отчество"
-
-msgctxt "Languages::yc_phone"
-msgid "Phone"
-msgstr "Контактный телефон"
-
-msgctxt "Languages::yc_phone_code"
-msgid "Phone code"
-msgstr "Код"
-
-msgctxt "Languages::yc_phone_number"
-msgid "Phone number"
-msgstr "Номер телефона"
-
-msgctxt "Languages::yc_time_credit"
-msgid "Time of credit, in months"
-msgstr "Срок, месяцев"
-
-msgctxt "Languages::yc_sum"
-msgid "Credit amount, in roubles"
-msgstr "Сумма, руб"
-
-msgctxt "Languages::yc_first_payment"
-msgid "First payment, %"
-msgstr "Первоначальный взнос, %"
-
-msgctxt "Languages::yc_district"
-msgid "City"
-msgstr "Регион регистрации"
-
-msgctxt "Languages::yc_agreed_with"
-msgid "I have accepted"
-msgstr "Согласен с"
-
-msgctxt "Languages::yc_agreed_cond"
-msgid "the Agreement conditions"
-msgstr "условиями Соглашения"
-
-msgctxt "Languages::yc_credit"
-msgid "Credit"
-msgstr "Кредит"
-
-msgctxt "Languages::yc_installment"
-msgid "Installment"
-msgstr "Рассрочка"
-
-msgctxt "Languages::yc_submit"
-msgid "Submit request"
-msgstr "Послать заявку"
-
-msgctxt "Languages::text_yc_faq"
-msgid "<li><i>I have chosen a product and want to buy it on credit.</i><br />        Please fill in the credit request and click the \"Submit request\" button.</li>        <li><i>I have filled in and submitted a credit request on the site of the online store. What is next?</i><br />      Your request will be precessed within an hour, then the credit manager will contact you.<br />        You will need to answer several typical questions and confirm your personal data.</li>        <li><i>The credit manager has called me.</i><br />        After the call your request will be considered by the bank.<br />        You will be informed of the decision within 2 hours.</li>        <li><i>I have been called and told that the bank has approved my application. What is next?</i><br />        The credit manager will call you and appoint the time when he/she will visit you to sign the payment documents.<br />        After signing the agreement you wait for the delivery of your purchase and make the first payment when receiving it.</li>"
-msgstr "<li><i>Я выбрал товар и хочу приобрести его в кредит.</i><br />        Заполните кредитную заявку и нажмите кнопку «Отправить заявку».</li>        <li><i>Я заполнил и отправил кредитную заявку на сайте интернет-магазина. Что дальше?</i><br />        В течение часа ваша заявка будет обработана, после чего с вами свяжется кредитный менеджер.<br />        Вам нужно будет ответить на несколько стандартных вопросов и подтвердить свои паспортные данные.</li>        <li><i>Кредитный менеджер позвонил мне.</i><br />        После звонка ваша заявка будет рассматриваться банком.<br />        Решение будет сообщено вам в течение 2-х часов.</li>        <li><i>Мне позвонили и сообщили, что банк одобрил мою заявку. Что дальше?</i><br />        Вам позвонит кредитный менеджер и договорится о времени приезда к вам для подписания платежных документов.<br />        После подписания договора Вы ожидаете доставки вашей покупки и при получении оплачиваете первоначальный взнос.</li>"
-
-msgctxt "Languages::text_yc_faq_note"
-msgid "Credit requests submitted after 7:00 p.m. (UTC+4) on a business day and on weekend are processed from 10:00 a.m. of the first working day."
-msgstr "Заявки, принятые после 19:00 рабочего дня и в выходные, обрабатываются с 10:00 первого рабочего дня."
-
-msgctxt "Languages::yc_dialog_title"
-msgid "Online credit request"
-msgstr "Заявка на кредит, не выходя из дома"
-
-msgctxt "Languages::yc_place_credit"
-msgid "Get a credit"
-msgstr "Оформить Кредит"
-
-msgctxt "Languages::yc_refuse"
-msgid "Refuse"
-msgstr "Отказаться"
-
-msgctxt "Languages::text_yes_credit_notice"
-msgid "In order that the Yes Credit system can work correctly, it is necessary to use the *Russian rouble* currency"
-msgstr "Для корректного функционирования системы Yes Credit необходимо использовать валюту *Российский рубль*"
-
-msgctxt "Languages::text_yc_commission"
-msgid "The amount covers a one-time commission for placing a credit &ndash; 5% of the product cost. In case installment is selected, the commission is not charged. NO HIDDEN COMMISSIONS AND APPLICATION FEES"
-msgstr "В сумму включена единоразовая комиссия за оформление кредита &ndash; 5% от стоимости товара. В случае выбора рассрочки комиссия не взимается. БЕЗ СКРЫТЫХ КОМИССИЙ И ПЛАТЫ ЗА ВЫДАЧУ."
 
 msgctxt "Languages::text_paymaster_notice"
 msgid "On the site Paymaster it is necessary to set in the site details in the `Callbacks`section: Payment notification - POST request, Success redirect - GET request, Failure redirect - GET request, Invoice confirmation - GET request and select the `Allow custom URLs` check box. Also it is necessary to enter the secret key in the `Technical parameters` section with selecting the MD5 signature type. This key should also be entered into the `Secret key` field in the store."
