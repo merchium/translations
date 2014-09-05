@@ -7,11 +7,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:07-0400\n"
+"PO-Revision-Date: 2014-09-05 03:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
-msgstr "Polish"
+msgstr "Zlokalizowana nazwa języka"
 
 msgctxt "Languages::2co_enable_fraud_verification"
 msgid "Enable support of fraud notification"
@@ -6815,7 +6815,7 @@ msgstr "Post URL"
 
 msgctxt "Languages::powered_by"
 msgid "Powered by"
-msgstr "Oparty na silniku"
+msgstr "Powered by"
 
 msgctxt "Languages::po_number"
 msgid "PO number"
@@ -7239,7 +7239,7 @@ msgstr "Proces wybrany"
 
 msgctxt "Languages::product"
 msgid "Product"
-msgstr "Product name"
+msgstr "Nazwa produktu"
 
 msgctxt "Languages::products"
 msgid "Products"
@@ -11177,10 +11177,6 @@ msgctxt "Languages::text_topmenu_view_more"
 msgid "View more <i class=\"text-arrow\">&rarr;</i>"
 msgstr "Więcej <i class=\"text-arrow\">&rarr;</i>"
 
-msgctxt "Languages::text_totalweb_notice"
-msgid "Total Web Solutions Pay Page Notice"
-msgstr "Total Web Solutions Pay Page Notice"
-
 msgctxt "Languages::text_track_instructions_sent"
 msgid "Access instructions were sent to your e-mail address."
 msgstr "Instrukcja dostępu została wysłana na adres e-mail."
@@ -12955,7 +12951,7 @@ msgstr "Voided"
 
 msgctxt "Languages::warning"
 msgid "Warning"
-msgstr "Pokaż ostrzeżenie jako wyjątki"
+msgstr "Ostrzeżenie:"
 
 msgctxt "Languages::warning_default_language_disabled"
 msgid "The default language defined in your settings has been disabled or deleted. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
@@ -13539,7 +13535,7 @@ msgstr "Modyfikacje CSS zostaną zarchiwizowane i nadpisane. Czy na pewno chcesz
 
 msgctxt "Languages::theme_editor.error_theme_converted_to_css"
 msgid "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
-msgstr "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
+msgstr "Skompilowane pliki CSS nie obsługują stylizacji. Przywróć LESS w <a target=\"_blank\" href=\"[url]\"> Edytor szablonów</a>, aby móc zmienić style."
 
 msgctxt "Languages::need_product_name"
 msgid "You have to specify product name"
@@ -13559,7 +13555,7 @@ msgstr "Kod języka w pliku PO nie zgadza się, że w aktualizowanym językiem"
 
 msgctxt "Languages::error_class_phar_data_not_found"
 msgid "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
-msgstr "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
+msgstr "Klasy PharData nie znaleziono. Więcej informacji: <a href=\"https://php.net/manual/en/class.phardata.php\"> https://php.net/manual/en/class.phardata.php</a>"
 
 msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
@@ -15375,13 +15371,13 @@ msgstr "Sklep <br/> zamknięty"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Skopiować do innych lokacji"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Niestandardowy kod HTML"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Ten kod HTML zostanie umieszczony pomiędzy tagami &lt;head&gt;&lt;/head&gt;"
 
