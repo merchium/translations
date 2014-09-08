@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-02 08:00-0400\n"
+"PO-Revision-Date: 2014-09-08 05:00-0400\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -325,4 +325,28 @@ msgstr "Стили"
 msgctxt "Languages::saas.select_style_or_create_new"
 msgid "Select a style or create a new one to get started"
 msgstr "Выберите стиль или создайте новый"
+
+msgctxt "Languages::saas.import_style"
+msgid "Import style"
+msgstr "Импорт стиля"
+
+msgctxt "Languages::saas.export_style"
+msgid "Export"
+msgstr "Экспорт"
+
+msgctxt "Languages::saas.text_style_imported"
+msgid "Style has been imported successfully"
+msgstr "Стиль успешно импортирован"
+
+msgctxt "Languages::saas.error_incorrect_style_package"
+msgid "The style package is incorrect. Export any of your custom styles to see the correct package contents."
+msgstr "Архив со стилем имеет некорректный формат. Сделайте экспорт любого из ваших стилей, чтобы увидеть корректное содержимое архива."
+
+msgctxt "Languages::saas.error_style_cant_be_deleted"
+msgid "This style can't be deleted because it is used now. You need to select another style on <a href=\"[href]\">Themes</a> page before deleting this one."
+msgstr "Этот стиль нельзя удалить, т.к. он используется сейчас. Вам нужно выбрать другой стиль на странице <a href=\"[href]\">Темы</a> перед удалением этого."
+
+msgctxt "Languages::saas.install_style_text"
+msgid "You can import a style by picking a [exts] format archive and clicking <strong>Import</strong>."
+msgstr "Вы можете импортировать стиль, выбирав архив формата [exts] и нажав <strong>Импорт</strong>."
 
