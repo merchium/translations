@@ -7,8 +7,15 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-08 05:00-0400\n"
-"\n"
+"PO-Revision-Date: 2014-09-08 08:00-0400\n"
+
+msgctxt "Addons::name::setup_wizard"
+msgid "Setup wizard"
+msgstr "Мастер настройки"
+
+msgctxt "Addons::description::setup_wizard"
+msgid "Allows basic store configuration in a user-friendly way"
+msgstr "Дружелюбная пошаговая настройка магазина"
 
 msgctxt "Languages::sw.store_setup_wizard"
 msgid "Store setup wizard"
@@ -328,11 +335,11 @@ msgstr "Телефон"
 
 msgctxt "Languages::sw.enclose_passport_page_1"
 msgid "Enclose passport scan (personal data page)"
-msgstr "Приложить копию паспорта руководителя(страница с персональными данными)"
+msgstr "Приложить скан с оригинала паспорта руководителя (страница с персональными данными)"
 
 msgctxt "Languages::sw.enclose_passport_page_2"
 msgid "Enclose passport scan (registration page)"
-msgstr "Приложить копию паспорта руководителя (страница регистрации)"
+msgstr "Приложить скан с оригинала паспорта руководителя (страница регистрации)"
 
 msgctxt "Languages::sw.send"
 msgid "Send"
@@ -413,4 +420,12 @@ msgstr "Удалить демо-данные"
 msgctxt "Languages::sw.keep_demo_data"
 msgid "Keep demo data"
 msgstr "Оставить демо-данные"
+
+msgctxt "Languages::sw.yandex_money_application_for_connection_text"
+msgid "Application for connection, agent Merchium [url]"
+msgstr "Заявка на подключение, агент Мерчиум [url]"
+
+msgctxt "Languages::sw.yandex_money_open_tech_docs_text"
+msgid "Open the technical documentation on how to connect Yandex.Money"
+msgstr "Открыть страницу с детальной технической информацией по подключению Яндекс.Денег"
 

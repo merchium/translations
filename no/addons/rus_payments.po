@@ -260,6 +260,10 @@ msgctxt "Languages::pd_declined"
 msgid "Payment declined during processing."
 msgstr "Payment declined during processing."
 
+msgctxt "Languages::rus_payments.qiwi_api_id"
+msgid "API ID"
+msgstr "API ID"
+
 msgctxt "Languages::qiwi"
 msgid "QIWI"
 msgstr "QIWI"
@@ -301,12 +305,12 @@ msgid "<b>Warning!</b> The module PHP-SOAP must be installed on the server for Q
 msgstr "<b>Warning!</b> The module PHP-SOAP must be installed on the server for QIWI Wallet to work correctly. Please consult with the server system administrator."
 
 msgctxt "Languages::qiwi_login_notice"
-msgid "Enter the QIWI Wallet (http://ishop.qiwi.ru) login and password in the fields \"Login\" and \"Password\" respectively"
-msgstr "Enter the QIWI Wallet (http://ishop.qiwi.ru) login and password in the fields \"Login\" and \"Password\" respectively"
+msgid "Use the data from the \"Authentication details for all protocols\" section of your ishop.qiwi.com account as the \"API ID\" and \"Password\" values."
+msgstr "Use the data from the \"Authentication details for all protocols\" section of your ishop.qiwi.com account as the \"API ID\" and \"Password\" values."
 
 msgctxt "Languages::qiwi_url_notice"
-msgid "Set in the following QIWI Wallet settings:<br />Successful transaction URL:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[success_url]</b><br />Failed transaction URL:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[fail_url]</b><br />URL defined in the QIWI Wallet account SOAP protocol section:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[qiwi_url]</b>"
-msgstr "Set in the following QIWI Wallet settings:<br />Successful transaction URL:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[success_url]</b><br />Failed transaction URL:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[fail_url]</b><br />URL defined in the QIWI Wallet account SOAP protocol section:<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>[qiwi_url]</b>"
+msgid "Use this value in the \"Notify URL\" field in the SOAP protocol settings of your QIWI account: <br /><b>[qiwi_url]</b>"
+msgstr "Use this value in the \"Notify URL\" field in the SOAP protocol settings of your QIWI account: <br /><b>[qiwi_url]</b>"
 
 msgctxt "Languages::qiwi_order_status_50"
 msgid "Open"
