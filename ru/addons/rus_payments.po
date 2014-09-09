@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-08 04:00-0400\n"
+"PO-Revision-Date: 2014-09-09 05:00-0400\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
@@ -15,7 +15,7 @@ msgstr " Российские способы оплаты"
 
 msgctxt "Addons::description::rus_payments"
 msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
-msgstr "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
+msgstr "Способ оплат: Assist, Яндекс.Деньги, Webmoney, Сбербанк, Qiwi, PayAnyWay, PayMaster, ПлатиДома, РБК, Robokassa, ВсеВкредит, Авангард"
 
 msgctxt "Languages::russian_payments"
 msgid "Russian payments"
@@ -311,11 +311,11 @@ msgstr "<b>Внимание!</b> Для корректной работы QIWI-�
 
 msgctxt "Languages::qiwi_login_notice"
 msgid "Use the data from the \"Authentication details for all protocols\" section of your ishop.qiwi.com account as the \"API ID\" and \"Password\" values."
-msgstr "Use the data from the \"Authentication details for all protocols\" section of your ishop.qiwi.com account as the \"API ID\" and \"Password\" values."
+msgstr "В полях «API ID» и «Пароль» используйте данные из раздела «Аутентификационные данные для всех протоколов» в личном кабинете ishop.qiwi.com."
 
 msgctxt "Languages::qiwi_url_notice"
 msgid "Use this value in the \"Notify URL\" field in the SOAP protocol settings of your QIWI account: <br /><b>[qiwi_url]</b>"
-msgstr "Use this value in the \"Notify URL\" field in the SOAP protocol settings of your QIWI account: <br /><b>[qiwi_url]</b>"
+msgstr "В настройках личного кабинете QIWI для SOAP-протокола в поле \"URL для оповещения\" укажите:<br /><b>[qiwi_url]</b>"
 
 msgctxt "Languages::qiwi_order_status_50"
 msgid "Open"
@@ -463,7 +463,7 @@ msgstr "Неверная контрольная сумма"
 
 msgctxt "Languages::sbrf_qr_info"
 msgid "<p>Pay the invoice by scanning the code through a payment terminal</p>"
-msgstr "<ul><li>Оплатите счёт, отсканировав код через платёжный терминал</li><li>Двумерный штрих-код — содержит перечень всех реквизитов, необходимых для приема платежа.</li><li>Нулевая вероятность ошибки.</li><li>Сокращение времени оплаты до 10 раз.</li><li>Код быстро считывается при оплате в любой точке приема платежей.</li><li>Стандарт поддерживают: Сбербанк, ВТБ, Альфа-банк, КиберПлат, Почта России, 1С, Парус и другие.</li></ul>"
+msgstr "<p>Оплатите счет, отсканировав код через платежный терминал или через кассу в отделении Сбербанка. Двумерный штрих-код (он же QR-код) содержит перечень всех реквизитов, необходимых для приема платежа.</p><p>Стандарт поддерживают Сбербанк, ВТБ, Альфа-банк, КиберПлат, Почта России, 1С, Парус и другие.</p>"
 
 msgctxt "Languages::sbrf_qr_title"
 msgid "Quick payment QR code"

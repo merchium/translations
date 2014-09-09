@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-04 09:00-0400\n"
+"PO-Revision-Date: 2014-09-09 05:00-0400\n"
 
 msgctxt "Addons::name::yandex_market"
 msgid "Yandex.Market"
@@ -51,7 +51,7 @@ msgstr "Если были добавлены или изменены товар�
 
 msgctxt "Languages::yml_available_in_customer"
 msgid "Price list is available by this link: <a href=\"[yml_url]\">[yml_url]</a><br /><br />Price list can be reached by the URL <a href=\"[http_location]/yandex_market.yml\">[http_location]/yandex_market.yml</a> if SEO addon is enabled.<br /><br />"
-msgstr "Прайс-лист доступен по следующей ссылке (для доступа используйте email и пароль от панели администратора): <a href=\"[yml_url]\">[yml_url]</a><br /><br />Если включен модуль SEO, прайс-лист также может быть доступен по ссылке <a href=\"[http_location]/yandex_market.yml\">[http_location]/yandex_market.yml</a><br /><br />"
+msgstr "Прайс-лист доступен по следующей ссылке (для доступа используйте email и пароль от панели администратора): <a href=\"[yml_url]\">[yml_url]</a><br /><br />Если включен модуль SEO, прайс-лист также может быть доступен по ссылке <a target=\"_blank\" href=\"[http_location]/yandex_market.yml\">[http_location]/yandex_market.yml</a><br /><br />"
 
 msgctxt "Languages::yml_export_unsuccessfull_products_zero_price"
 msgid "The following products were not exported because of zero price:"
@@ -468,7 +468,7 @@ msgstr "Использовать поле «market_category»."
 
 msgctxt "SettingsTooltips::yandex_market::market_category"
 msgid "For a product offer, it is recommended to specify the category/section in which it should be placed on Yandex.Market. In this element, it is allowed to specify names of categories only from <a href=\"http://cards2.yandex.net/hlp-get/6213/xls/category_tree-.xls\"> the product categories tree of Yandex.Market</a>.<br/>The <market_category> element is not required"
-msgstr "Рекомендуется указывать категорию/секцию, в которой товарное предложение должно отображаться в Яндекс.Маркете. Здесь можно использовать только названия категорий из <a href=\"http://cards2.yandex.net/hlp-get/6213/xls/category_tree-.xls\">дерева категорий Яндекс.Маркет</a>. Элемент <market_category> необязателен."
+msgstr "Рекомендуется указывать категорию/секцию, в которой товарное предложение должно отображаться в Яндекс.Маркете. Здесь можно использовать только названия категорий из <a href=\"http://help.yandex.ru/partnermarket/docs/market_categories.xls\">дерева категорий Яндекс.Маркет</a>. Элемент <market_category> необязателен."
 
 msgctxt "SettingsOptions::yandex_market::market_category_object"
 msgid "Use the value for the \"market_category\" field from"
