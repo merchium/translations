@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-09 05:00-0400\n"
+"PO-Revision-Date: 2014-09-09 08:00-0400\n"
 
 msgctxt "Addons::name::rus_tovary_mailru"
 msgid "Russian localization — torg.mail.ru export"
@@ -59,15 +59,15 @@ msgstr "Файл будет сохранён в папку:"
 
 msgctxt "Languages::mailru_export_unsuccessfull_out_of_stock"
 msgid "The following products were not exported because the products are out of stock:"
-msgstr "Экспорт следующих товаров не удался изза отсутствия товара на складе:"
+msgstr "Экспорт следующих товаров не удался из-за отсутствия товара на складе:"
 
 msgctxt "Languages::mailru_export_unsuccessfull_empty_brand"
 msgid "The following products were not exported because the \"Brand\" field is empty:"
-msgstr "Экспорт следующих товаров не удался изза пустого поля бренд:"
+msgstr "Экспорт следующих товаров не удался из-за пустого поля бренд:"
 
 msgctxt "Languages::mailru_export_unsuccessfull_empty_model"
 msgid "The following products were not exported because the \"Model\" field is empty:"
-msgstr "Экспорт следующих товаров не удался изза пустого поля Модель:"
+msgstr "Экспорт следующих товаров не удался из-за пустого поля Модель:"
 
 msgctxt "Languages::mailru_export_unsuccessfull_disable_cat_list"
 msgid "The following products were not exported because of the excluded category:"
@@ -167,7 +167,7 @@ msgstr "Название товара используемое в прайс-л�
 
 msgctxt "SettingsTooltips::rus_tovary_mailru::mail_sttings"
 msgid "The fields used to form product name in the price list. The product name is formed according to the following formula: \"typePrefix\" + \"brand\" + \"model\" or \"name\" depending on the name type selected."
-msgstr "Используемые поля для формирования названия товара в прайс-листе. Название товара формируется по формуле: \\\"typePrefix\\\" + \\\"brand\\\" + \\\"model\\\" или \\\"name\\\", в зависимости от выбранного варианта названия."
+msgstr "Используемые поля для формирования названия товара в прайс-листе. Название товара формируется по формуле: \"typePrefix\" + \"brand\" + \"model\" или \"name\", в зависимости от выбранного варианта названия."
 
 msgctxt "SettingsVariants::rus_tovary_mailru::mail_sttings::type_name"
 msgid "Product name"
@@ -179,23 +179,23 @@ msgstr "Тип товара+Производитель+Модель"
 
 msgctxt "SettingsOptions::rus_tovary_mailru::feature_for_brand"
 msgid "Names of features to use in the \"vendor\" field"
-msgstr "Названия характеристик для использования в поле \\\"vendor\\\""
+msgstr "Названия характеристик для использования в поле \"vendor\""
 
 msgctxt "SettingsTooltips::rus_tovary_mailru::feature_for_brand"
 msgid "Select the name of the feature which value will be used for the \"vendor\" field. Only the feature of the \"Brand/Manufacturer\" type can be used"
-msgstr "Выберите название характеристики значение которой будет использовано для поля \\\"vendor\\\". Возможно использовать только характеристики типа \\\"Бренд/Производитель\\\""
+msgstr "Выберите название характеристики значение которой будет использовано для поля \"vendor\". Возможно использовать только характеристики типа \"Бренд/Производитель\""
 
 msgctxt "SettingsOptions::rus_tovary_mailru::type_prefix"
 msgid "Use the \"typePrefix\" field"
-msgstr "Использовать поле \\\"typePrefix\\\""
+msgstr "Использовать поле \"typePrefix\""
 
 msgctxt "SettingsTooltips::rus_tovary_mailru::type_prefix"
 msgid "Product name is formed according to the following formula: \"typePrefix\" + \"vendor\" + \"model\" . If no value is specified for the \"typePrefix\" field, the category name will be used."
-msgstr "Название товара формируется по формуле: \\\"typePrefix\\\" + \\\"vendor\\\" + \\\"model\\\" . Если у товара не задано значение поля \\\"typePrefix\\\" будет использовано название категории."
+msgstr "Название товара формируется по формуле: \"typePrefix\" + \"vendor\" + \"model\" . Если у товара не задано значение поля \"typePrefix\" будет использовано название категории."
 
 msgctxt "SettingsOptions::rus_tovary_mailru::local_delivery_cost"
 msgid "Use the \"TM Shipping cost in the home region\" field"
-msgstr "Использовать поле \\\"ТМ Стоимость доставки в домашнем регионе\\\""
+msgstr "Использовать поле \"ТМ Стоимость доставки в домашнем регионе\""
 
 msgctxt "SettingsTooltips::rus_tovary_mailru::local_delivery_cost"
 msgid "Used to display the shipping field for products in the home region."
@@ -203,7 +203,7 @@ msgstr "Используется для отображения поля дост
 
 msgctxt "SettingsOptions::rus_tovary_mailru::delivery_type"
 msgid "Zero shipping value of the \"TM Shipping cost in the home region\" field"
-msgstr "Значение нулевой доставки поля \\\"ТМ Стоимость доставки в домашнем регионе\\\""
+msgstr "Значение нулевой доставки поля \"ТМ Стоимость доставки в домашнем регионе\""
 
 msgctxt "SettingsTooltips::rus_tovary_mailru::delivery_type"
 msgid "If the shipping value equals 0, a parameter of displaying this value can be set: display zero value, display the Free shipping value or do not display the value"
