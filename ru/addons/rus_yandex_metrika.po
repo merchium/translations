@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-09 08:00-0400\n"
+"PO-Revision-Date: 2014-09-11 08:00-0400\n"
 
 msgctxt "Addons::name::rus_yandex_metrika"
 msgid "Russian localization — Yandex.Metrika"
@@ -63,31 +63,31 @@ msgstr "Отслеживание хеша в адресной строке бр�
 
 msgctxt "SettingsOptions::rus_yandex_metrika::yandex_api_access"
 msgid "Yandex API access"
-msgstr "Yandex API access"
+msgstr "Доступ к API Яндекса"
 
 msgctxt "SettingsOptions::rus_yandex_metrika::application_id"
 msgid "Application ID"
-msgstr "Application ID"
+msgstr "ID приложения"
 
 msgctxt "SettingsOptions::rus_yandex_metrika::application_password"
 msgid "Application password"
-msgstr "Application password"
+msgstr "Пароль приложения"
 
 msgctxt "SettingsOptions::rus_yandex_metrika::auth_token"
 msgid "Auth token"
-msgstr "Auth token"
+msgstr "Авторизационный токен"
 
 msgctxt "SettingsOptions::rus_yandex_metrika::goals"
 msgid "Goals"
-msgstr "Goals"
+msgstr "Цели"
 
 msgctxt "SettingsOptions::rus_yandex_metrika::collect_stats_for_goals"
 msgid "Collect statistics for these goals"
-msgstr "Collect statistics for these goals"
+msgstr "Собирать статистику по следующим целям"
 
 msgctxt "SettingsTooltips::rus_yandex_metrika::collect_stats_for_goals"
 msgid "Yandex API access settings are required to be configured properly"
-msgstr "Yandex API access settings are required to be configured properly"
+msgstr "Настройки API Яндекса должны быть указаны верно"
 
 msgctxt "Languages::yandex_metrika_oauth_info_part1"
 msgid "Need to <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register application</a>. On register process need to set <b>[callback_uri]</b> to the \"Callback URI\" field. After registration you need to set up \"Application ID\" and \"Application password\" fields."
@@ -95,7 +95,7 @@ msgstr "Need to <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\"
 
 msgctxt "Languages::yandex_metrika_oauth_info_part2"
 msgid "You need to <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
-msgstr "You need to <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
+msgstr "Теперь <a href=\"[auth_uri]\" target=\"_blank\">авторизуйте приложение</a>"
 
 msgctxt "Languages::yandex_metrika_engaged_visitor_text"
 msgid "Engaged visitor (A user who viewed many pages in a visit)"
