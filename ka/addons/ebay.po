@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-08 19:00-0400\n"
+"PO-Revision-Date: 2014-09-10 14:00-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -175,7 +175,7 @@ msgstr "eBay-ს შეკვეთები"
 
 msgctxt "Languages::get_ebay_orders"
 msgid "Get eBay orders"
-msgstr "Get eBay orders"
+msgstr "eBay-ის შეკვეთების მიღება"
 
 msgctxt "Languages::ebay"
 msgid "eBay"
@@ -283,7 +283,7 @@ msgstr "Shipping price for each additional item in an order (the Each additional
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Shipping cost additional"
-msgstr "Shipping cost additional"
+msgstr "დამატებითი გადასახადი გზავნილისთვის"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
@@ -295,7 +295,7 @@ msgstr "Shipping cost must be non-zero"
 
 msgctxt "Languages::ebay_title"
 msgid "eBay product title"
-msgstr "eBay product title"
+msgstr "პროდუქციის დასახელება eBay-ში"
 
 msgctxt "Languages::ebay_title_tooltip"
 msgid "eBay title the title of the product to be used at eBay"
@@ -319,7 +319,7 @@ msgstr "Choose, if you want the original product name and description to be repl
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
-msgstr "Return Policy"
+msgstr "დაბრუნების წესები"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
@@ -327,11 +327,11 @@ msgstr "Choose whether returns are allowed or not for products grouped under thi
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
-msgstr "Returns Accepted"
+msgstr "უკან დაბრუნება ნებადართულია"
 
 msgctxt "Languages::no_returns_accepted"
 msgid "No returns accepted"
-msgstr "No returns accepted"
+msgstr "უკან დაბრუნება მიუღებელია"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
@@ -351,7 +351,7 @@ msgstr "Choose the action that will replace the return, if it is not allowed"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
-msgstr "Money Back"
+msgstr "თანხის დაბრუნება"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
@@ -379,7 +379,7 @@ msgstr "მყიდველი"
 
 msgctxt "Languages::return_policy_descr"
 msgid "Policy description"
-msgstr "Policy description"
+msgstr "წესების აღწერა"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
@@ -387,11 +387,11 @@ msgstr "Write the detailed description of your return policy here"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
-msgstr "Large envelope"
+msgstr "დიდი კონვერტი"
 
 msgctxt "Languages::large_package"
 msgid "Large package"
-msgstr "Large package"
+msgstr "დიდი ამანათი"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
@@ -427,7 +427,7 @@ msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled.
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Activate add-on"
+msgstr "მოდულის გააქტიურება"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, you need to enter an add-on license number on the add-on settings page."
@@ -443,11 +443,11 @@ msgstr "eBay-ის შაბლონები ვერ მოიძებნ�
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::ebay::ebay_license_number"
 msgid "eBay license number"
-msgstr "eBay license number"
+msgstr "eBay-ის ლიცენზიის ნომერი"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -475,7 +475,7 @@ msgstr "Sandbox / Production"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "ნაგულისხმევი ვებ გვერდი"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
@@ -495,9 +495,9 @@ msgstr "Please wait, shipping information is loaded."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
-msgstr "License info"
+msgstr "ინფორმაცია ლიცენზიაზე"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "License notice"
-msgstr "License notice"
+msgstr "მითითება ლიცენზიაზე"
 

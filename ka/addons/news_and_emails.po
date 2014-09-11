@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-08 19:00-0400\n"
+"PO-Revision-Date: 2014-09-10 14:00-0400\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -144,7 +144,7 @@ msgstr "Newsletters"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "შაბლონები"
 
 msgctxt "Languages::autoresponders"
 msgid "Autoresponders"
@@ -244,7 +244,7 @@ msgstr "Add newsletter"
 
 msgctxt "Languages::add_template"
 msgid "Add template"
-msgstr "Add template"
+msgstr "ახალი შაბლონი"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
@@ -256,7 +256,7 @@ msgstr "Random subjects (one per line)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
-msgstr "HTML body"
+msgstr "HTML-ის შიგთავსი"
 
 msgctxt "Languages::no_template"
 msgid "No template"
@@ -284,7 +284,7 @@ msgstr "Customers with abandoned"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
-msgstr "Cart or Wishlist"
+msgstr "კალათა ან სასურველების სია"
 
 msgctxt "Languages::which_is"
 msgid "which is"
@@ -296,11 +296,11 @@ msgstr "days old"
 
 msgctxt "Languages::send_to_test_email"
 msgid "Send to test email"
-msgstr "Send to test email"
+msgstr "სატესტო შეტყობინების გაგზავნა"
 
 msgctxt "Languages::save_and_send"
 msgid "Save and send"
-msgstr "Save and send"
+msgstr "დამახსოვრება და გაგზავნა"
 
 msgctxt "Languages::newsletter"
 msgid "Newsletter"
@@ -320,7 +320,7 @@ msgstr "Mailing list"
 
 msgctxt "Languages::confirmed"
 msgid "Confirmed"
-msgstr "Confirmed"
+msgstr "დამოწმებული"
 
 msgctxt "Languages::subscribed_to"
 msgid "Subscribed to [num] lists"
@@ -328,7 +328,7 @@ msgstr "Subscribed to [num] lists"
 
 msgctxt "Languages::subscribed"
 msgid "Subscribed"
-msgstr "Subscribed"
+msgstr "ხელმოწერილი"
 
 msgctxt "Languages::text_success_subscription"
 msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
@@ -348,7 +348,7 @@ msgstr "Shared with:"
 
 msgctxt "Languages::tt_addons_news_and_emails_views_mailing_lists_update_from_email"
 msgid "Email of a sender."
-msgstr "Email of a sender."
+msgstr "გამომგზავნის ელ-ფოსტა."
 
 msgctxt "Languages::tt_addons_news_and_emails_views_mailing_lists_update_from_name"
 msgid "Name of a sender (e.g. company name)."
@@ -392,7 +392,7 @@ msgstr "Newsletters sent per step"
 
 msgctxt "SettingsOptions::news_and_emails::elm_advanced_mailing_server_options"
 msgid "Advanced mailing server options"
-msgstr "Advanced mailing server options"
+msgstr "საფოსტო სერვერის დამატებითი პარამეტრები"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_send_method"
 msgid "Method of sending e-mails"
@@ -408,23 +408,23 @@ msgstr "SMTP ჰოსტი"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_username"
 msgid "SMTP username"
-msgstr "SMTP username"
+msgstr "SMTP სახელი"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_password"
 msgid "SMTP password"
-msgstr "SMTP password"
+msgstr "SMTP პაროლი"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_auth"
 msgid "Use SMTP authentication"
-msgstr "Use SMTP authentication"
+msgstr "SMTP ავტორიზაციის გამოყენება"
 
 msgctxt "SettingsOptions::news_and_emails::elm_sendmail_settings"
 msgid "Sendmail settings"
-msgstr "Sendmail settings"
+msgstr "Sendmail-ის პარამეტრები"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_sendmail_path"
 msgid "Path to sendmail program"
-msgstr "Path to sendmail program"
+msgstr "sendmail-ის პროგრამის გეზი"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::smtp"
 msgid "via SMTP server"
@@ -436,9 +436,9 @@ msgstr "php mail ფუნქციით"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "sendmail-ის პროგრამით"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::default"
 msgid "use default settings"
-msgstr "use default settings"
+msgstr "ნაგულისხმევი პარამეტრების გამოყენება"
 
