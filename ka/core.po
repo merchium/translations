@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-10 14:00-0400\n"
+"PO-Revision-Date: 2014-09-11 16:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1035,7 +1035,7 @@ msgstr "საცხოვრებელი მისამართი"
 
 msgctxt "Languages::billing_options"
 msgid "Billing Options"
-msgstr "ანგარიშსწორება"
+msgstr "გადახდის მეთოდები"
 
 msgctxt "Languages::billing_shipping_address"
 msgid "Billing and Shipping Address"
@@ -1199,7 +1199,7 @@ msgstr "ჩემი ანგარიში"
 
 msgctxt "Languages::block_my_account_description"
 msgid "Customer profile access"
-msgstr "ანგარიშთან წვდომა"
+msgstr "წვდომა მომხმარებლის ანგარიშთან"
 
 msgctxt "Languages::block_name"
 msgid "Block name"
@@ -1739,7 +1739,7 @@ msgstr "ანგარიშის ნომერის შემოწმე�
 
 msgctxt "Languages::checkout"
 msgid "Checkout"
-msgstr "შეკვეთის განთავსება"
+msgstr "ყიდვის გაგრძელება"
 
 msgctxt "Languages::checkout_as_guest"
 msgid "Checkout as guest"
@@ -4151,7 +4151,7 @@ msgstr "This container is NOT used. Footer container from the default location w
 
 msgctxt "Languages::for"
 msgid "for"
-msgstr "ფასი:"
+msgstr "სულ:"
 
 msgctxt "Languages::forbidden"
 msgid "Forbidden"
@@ -4575,7 +4575,7 @@ msgstr "ში"
 
 msgctxt "Languages::included"
 msgid "included"
-msgstr "შეიცავდა"
+msgstr "შეიცავს"
 
 msgctxt "Languages::include_cvn"
 msgid "Include CVN"
@@ -5711,7 +5711,7 @@ msgstr "მულტიჩატვირთვა"
 
 msgctxt "Languages::my_account"
 msgid "My account"
-msgstr "ჩემი პროფილი"
+msgstr "ჩემი ანგარიში"
 
 msgctxt "Languages::my_account_links"
 msgid "My account links"
@@ -6331,7 +6331,7 @@ msgstr "ახლის დამატება ან არსებული
 
 msgctxt "Languages::order_total"
 msgid "Order Total"
-msgstr "სრული თანხა"
+msgstr "სულ ჯამი"
 
 msgctxt "Languages::order_total_not_correct"
 msgid "The paid total amount does not match the order total"
@@ -6627,7 +6627,7 @@ msgstr "გადამხდელის ინფორმაცია"
 
 msgctxt "Languages::payment_instructions"
 msgid "Payment instructions"
-msgstr "გადახდის მეთოდების ინსტუქციები"
+msgstr "გადახდის მეთოდის დეტალები"
 
 msgctxt "Languages::payment_method"
 msgid "Payment method"
@@ -7575,7 +7575,7 @@ msgstr "Подитог заказа"
 
 msgctxt "Languages::promotion_cond_total"
 msgid "Order total"
-msgstr "სრული თანხა"
+msgstr "სულ ჯამი"
 
 msgctxt "Languages::promotion_cond_total_weight"
 msgid "Total products weight in the cart"
@@ -7807,7 +7807,7 @@ msgstr "Перестроить комбинации"
 
 msgctxt "Languages::recalculate"
 msgid "Recalculate"
-msgstr "გადაანგარიშება"
+msgstr "გადათვლა"
 
 msgctxt "Languages::recalculate_rates"
 msgid "Recalculate rates"
@@ -7815,7 +7815,7 @@ msgstr "ფასის გადათვლა"
 
 msgctxt "Languages::recalculate_totals"
 msgid "Recalculate totals"
-msgstr "ხელახლა გადაანგარიშება"
+msgstr "ხელახლა გადათვლა"
 
 msgctxt "Languages::recent_activity"
 msgid "Recent activity"
@@ -8003,7 +8003,7 @@ msgstr "შეკვეთის მოცულობა"
 
 msgctxt "Languages::reports_parameter_10"
 msgid "Shipping costs"
-msgstr "მიწოდების საფასური"
+msgstr "მიწოდების ღირებულება"
 
 msgctxt "Languages::reports_parameter_11"
 msgid "Categories"
@@ -8411,7 +8411,7 @@ msgstr "დაცვის პარამეტრები"
 
 msgctxt "Languages::secure_checkout"
 msgid "Secure checkout"
-msgstr "შეკვეთის უსაფრთხო ანგარიშსწორება"
+msgstr "უსაფრთხო ანგარიშსწორება"
 
 msgctxt "Languages::secure_storefront_url"
 msgid "Secure storefront URL"
@@ -8687,7 +8687,7 @@ msgstr "ტრანსპორტირების ღირებულე�
 
 msgctxt "Languages::shipping_cost"
 msgid "Shipping cost"
-msgstr "მიწოდების საფასური"
+msgstr "მიწოდების ღირებულება"
 
 msgctxt "Languages::shipping_estimation"
 msgid "Shipping estimation"
@@ -8739,7 +8739,7 @@ msgstr "მიწოდების სამსახური"
 
 msgctxt "Languages::shipping_tips"
 msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>გთხოვთ პირადად შეამოწმოთ შეძენილი პროდუქცია, წუნის აღმოჩენის შემთხვევაში გთხოვთ დაგვიკავშირდეთ.</p><p>თუ გაქვთ კითხვები, გთხოვთ დაგვიკავშრდეთ: +995 577 188382</p>"
+msgstr "<p>გთხოვთ პირადად შეამოწმოთ შეძენილი პროდუქცია, წუნის აღმოჩენის შემთხვევაში გთხოვთ დაგვიკავშირდეთ.</p><p>თუ გაქვთ კითხვები, გთხოვთ დაგვიკავშრდეთ: 123-12-23</p>"
 
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
@@ -9519,19 +9519,19 @@ msgstr "სორტირება პოზიციების მიხე�
 
 msgctxt "Languages::sort_by_price_asc"
 msgid "Sort by Price: Low to High"
-msgstr "ფასი: კლებადობით"
+msgstr "ფასით დალაგება: კლებადობით"
 
 msgctxt "Languages::sort_by_price_desc"
 msgid "Sort by Price: High to Low"
-msgstr "ფასი: ზრდადობით"
+msgstr "ფასით დალაგება: ზრდადობით"
 
 msgctxt "Languages::sort_by_product_asc"
 msgid "Sort Alphabetically: A to Z"
-msgstr "ალფავიტით: ა - ჰ"
+msgstr "ალფავიტით დალაგება: A დან Z-მდე"
 
 msgctxt "Languages::sort_by_product_desc"
 msgid "Sort Alphabetically: Z to A"
-msgstr "ალფავიტით: ჰ - ა"
+msgstr "ალფავიტით დალაგება: Z დან A-მდე"
 
 msgctxt "Languages::sort_by_timestamp_asc"
 msgid "Oldest Items First"
@@ -9639,7 +9639,7 @@ msgstr "იყავით კავშირზე"
 
 msgctxt "Languages::stay_connected_notice"
 msgid "Enter your email address to receive special offers and promotions."
-msgstr "მიუთითეთ თქვენი ელ-ფოსტა რათა მიიღოთ სპეციალური წინადადებები და სიახლეები"
+msgstr "ჩაწერეთ თქვენი ელ-ფოსტა რათა მიიღოთ სპეციალური შემოთავაზებები და სიახლეები."
 
 msgctxt "Languages::step_four"
 msgid "Step 4"
@@ -10931,7 +10931,7 @@ msgstr "თქვენი პროფილი გააქტიურებ�
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
-msgstr "<h4>რეგისტრირებული მომხმარებლის უპირატესობები:</h4><ul><li>თვალყურის დევნება განთავსებულ შეკვეთებზე</li><li>გამარტივებული შოფინგი</li><li>სასურველი ნივთების დამახსოვრება</li></ul>"
+msgstr "<h4>რეგისტრირებული მომხმარებლის უპირატესობები:</h4><ul><li>თვალყურის დევნება განთავსებულ შეკვეთებზე</li><li>გამარტივებული შესყიდვები</li><li>სასურველი ნივთების დამახსოვრება</li></ul>"
 
 msgctxt "Languages::text_profile_details"
 msgid "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
@@ -10963,7 +10963,7 @@ msgstr "<p>Вам следует использовать \"test\" режим, �
 
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
-msgstr "ჩვენი ბრენდები"
+msgstr "ბრენდები"
 
 msgctxt "Languages::text_qty_discounts"
 msgid "Our quantity discounts"
@@ -12007,7 +12007,7 @@ msgstr "იდენთიფიკატორი"
 
 msgctxt "Languages::track_my_order"
 msgid "Track my order(s)"
-msgstr "შეკვეთების კონტროლი"
+msgstr "შეკვეთის სტატუსის შემოწმება"
 
 msgctxt "Languages::track_orders"
 msgid "Track orders"
@@ -12875,7 +12875,7 @@ msgstr "კატეგორიებსი ჩვენება"
 
 msgctxt "Languages::view_compare_list"
 msgid "Compare list"
-msgstr "სიის შედარება"
+msgstr "შედარების სია"
 
 msgctxt "Languages::view_details"
 msgid "View details"

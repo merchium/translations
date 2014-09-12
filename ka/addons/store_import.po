@@ -7,11 +7,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-10 14:00-0400\n"
+"PO-Revision-Date: 2014-09-11 16:00-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
-msgstr "Store Import"
+msgstr "მაღაზიის იმპორტი"
 
 msgctxt "Addons::description::store_import"
 msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
@@ -31,11 +31,11 @@ msgstr "მაღაზიის არჩევა"
 
 msgctxt "Languages::store_import.second_step"
 msgid "Validate and import"
-msgstr "Validate and import"
+msgstr "დამოწმება და იმპორტი"
 
 msgctxt "Languages::store_import.cannot_connect_to_database_server"
 msgid "Cannot connect to the database server"
-msgstr "Cannot connect to the database server"
+msgstr "შეუძლებელია მონაცემთა ბაზასთან დაკავშირება"
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
@@ -87,11 +87,11 @@ msgstr "Number of storefronts"
 
 msgctxt "Languages::store_import.store_import"
 msgid "Store import"
-msgstr "Store import"
+msgstr "მაღაზიის იმპორტი"
 
 msgctxt "Languages::store_import.local_store"
 msgid "Store path"
-msgstr "Store path"
+msgstr "მაღაზიის გეზი"
 
 msgctxt "Languages::store_import.select_store"
 msgid "Validate"
@@ -103,35 +103,35 @@ msgstr "Enter the full path to the installation root directory of the store you 
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
-msgstr "Configure your store"
+msgstr "მაღაზიის დაკონფიგურირება"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"
-msgstr "Finish store import"
+msgstr "მაღაზიის იმპორტის დასრულება"
 
 msgctxt "Languages::store_import.storefront_url"
 msgid "Storefront URL"
-msgstr "Storefront URL"
+msgstr "მაღაზიის URL-ი"
 
 msgctxt "Languages::store_import.secure_storefront_url"
 msgid "Secure storefront URL"
-msgstr "Secure storefront URL"
+msgstr "მაღაზიის დაცული URL"
 
 msgctxt "Languages::store_import.db_host"
 msgid "Database host"
-msgstr "Database host"
+msgstr "მონაცემთა ბაზის ჰოსტი"
 
 msgctxt "Languages::store_import.db_name"
 msgid "Database name"
-msgstr "Database name"
+msgstr "მონაცემთა ბაზის სახელი"
 
 msgctxt "Languages::store_import.db_user"
 msgid "Database user"
-msgstr "Database user"
+msgstr "მონაცემთა ბაზის მომხმარებელი"
 
 msgctxt "Languages::store_import.table_prefix"
 msgid "Table prefix"
-msgstr "Table prefix"
+msgstr "ცხრილის პრეფიქსი"
 
 msgctxt "Languages::store_import.fill_form"
 msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
@@ -151,7 +151,7 @@ msgstr "[product_name] [product_version] [product_edition]"
 
 msgctxt "Languages::store_import.from"
 msgid "From:"
-msgstr "From:"
+msgstr "ვისგან:"
 
 msgctxt "Languages::store_import.text_to"
 msgid "To: [product_edition] [product_version]"
@@ -163,7 +163,7 @@ msgstr "Import from this edition is not supported"
 
 msgctxt "Languages::store_import.configuration_test_failed"
 msgid "Configuration test failed"
-msgstr "Configuration test failed"
+msgstr "კონფიგურირების ტესტმა ვერ გაიარა"
 
 msgctxt "Languages::store_import.wrong_table_prefix"
 msgid "Store tables with the specified prefix are missing in the specified database."
@@ -295,11 +295,11 @@ msgstr "Cloning database"
 
 msgctxt "Languages::store_import.updating_languages"
 msgid "Updating languages"
-msgstr "Updating languages"
+msgstr "ენების განახლება"
 
 msgctxt "Languages::store_import.done"
 msgid "Done"
-msgstr "Done"
+msgstr "მზადაა"
 
 msgctxt "Languages::store_import.class_not_found"
 msgid "Import from this version is not supported"
@@ -307,7 +307,7 @@ msgstr "Import from this version is not supported"
 
 msgctxt "Languages::store_import.processing_addons"
 msgid "Updating addons"
-msgstr "Updating addons"
+msgstr "მოდულების განახლება"
 
 msgctxt "Languages::store_import.actualization_completed"
 msgid "Actualization completed"
@@ -331,9 +331,9 @@ msgstr "Store import has been canceled to prevent the loss of data. Could not co
 
 msgctxt "SettingsSections::store_import::general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"
-msgstr "Store import data"
+msgstr "მაღაზიაში მონაცემების იმპორტი"
 
