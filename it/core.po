@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-05 03:01-0400\n"
+"PO-Revision-Date: 2014-09-12 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11340,7 +11340,7 @@ msgstr "<p>Il tuo negozio è stato chiuso durante la procedura di aggiornamento.
 
 msgctxt "Languages::text_uc_upgrade_completed_with_errors"
 msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Si sono verificati errori durante l'aggiornamento.</p><p>Puoi contattare il nostro supporto tecnico al seguente e-mail: <a href=\"mailto:assistenza@cscart.it\">assistenza@cscart.it</a> e richiedere assistenza.</p><p>Puoi ripristinare il negozio alla versione precedente cliccando sul seguente collegamento <a href=\"[restore_link]\">Ripristina</a>.</p>"
+msgstr "<p>Si sono verificati errori durante l'aggiornamento.</p><p>Puoi contattare il nostro supporto tecnico al seguente e-mail: <a href=\"[href]\">team di supporto</a> e richiedere assistenza.</p><p>Puoi ripristinare il negozio alla versione precedente cliccando sul seguente collegamento <a href=\"[restore_link]\">Ripristina</a>.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -12096,7 +12096,7 @@ msgstr "La modalità PROVA non può essere attivata"
 
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Il tuo negozio è in modalità PROVA.<br /><br />Terminato il periodo di prova di 30 giorni, la modalità GRATUITA verrà attivata automaticamente.<br /><br />Al fine di mantenere il pieno accesso a tutte le funzionalità, dopo il periodo di prova è necessario <a href=\"http://www.cscart.it\">acquistare una licenza</a> e <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">attivare la modalità COMPLETA</a>."
+msgstr "Il tuo negozio è in modalità PROVA.<br /><br />Terminato il periodo di prova di 30 giorni, la modalità GRATUITA verrà attivata automaticamente.<br /><br />Al fine di mantenere il pieno accesso a tutte le funzionalità, dopo il periodo di prova è necessario acquistare una licenza e <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">attivare la modalità COMPLETA</a>."
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12460,7 +12460,7 @@ msgstr "Aggiorna gruppo"
 
 msgctxt "Languages::update_period_expired"
 msgid "<p class=\"text-error\">Your upgrade subscription has expired, so this software upgrade cannot be installed. You can prolongate your subscription in the <a href=\"[url]\">Customer Help Desk</a>.</p><p>Please note that it is not mandatory: you can continue using this software with no limitation even without an upgrade subscription.</p>"
-msgstr "<p class=\"text-error\">L'aggiornamento dell'abbonamento è scaduto, quindi non è possibile installare questo aggiornamento del software. Si può prorogare l'abbonamento rinnovandolo su <a href=\"http://www.cscart.it\">CS-Cart Help Desk</a>.</p><p>Si prega di notare che non è obbligatorio: si può continuare a usare questo software senza limitazioni anche senza un abbonamento per gli aggiornamenti. Semplicemente non potrai aggiornare il tuo CS-Cart.</p>"
+msgstr "<p class=\"text-error\">Questo abbonamento sugli aggiornamenti è scaduto, quindi non è possibile installare questo aggiornamento del software. Si può prorogare l'abbonamento su <a href=\"[url]\"> Customer Help Desk</a>.</p><p>Si prega di notare che non è obbligatorio: si può continuare a usare questo software senza limitazioni anche senza un abbonamento aggiornamenti.</p>"
 
 msgctxt "Languages::update_products"
 msgid "Update products"
@@ -12504,7 +12504,7 @@ msgstr "Centro aggiornamenti"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
-msgstr "L'aggiornamento non è possibile a causa di un errore di controllo integrità del file. Per favore contattare il <a href=\"mailto:assistenza@cscart.it\">supporto tecnico CS-Cart</a>."
+msgstr "L'aggiornamento non è possibile a causa di un errore di controllo integrità del file. Per favore contattare il supporto tecnico CS-Cart."
 
 msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
@@ -12516,7 +12516,7 @@ msgstr "È necessario aggiornare il tuo Flash Player"
 
 msgctxt "Languages::upgrade_is_not_avail"
 msgid "<p class=\"text-error\">This upgrade is not available for your [product] license. Please contact our <a href=\"[href]\">support team</a> to update your license status.</p>"
-msgstr "<p class=\"text-error\">Questo aggiornamento non è disponibile per la tua licenza. Per favore contatta il <a href=\"mailto:assistenza@cscart.it\">supporto CS-Cart</a> per aggiornare la tua licenza</p>"
+msgstr "<p class=\"text-error\">Questo aggiornamento non è disponibile per la tua licenza. Per favore contatta il <a href=\"[href]\">supporto CS-Cart</a> per aggiornare la tua licenza</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -15372,13 +15372,13 @@ msgstr "Negozio<br/>chiuso"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Copiare in altri percorsi"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Codice HTML personalizzato"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Questo codice HTML verrà messo tra i tag &lt;head&gt; e &lt;/head&gt;"
 
