@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-11 16:00-0400\n"
+"PO-Revision-Date: 2014-09-15 03:00-0400\n"
 
 msgctxt "Addons::name::gift_certificates"
 msgid "Gift certificates"
@@ -43,15 +43,15 @@ msgstr "Gift certificate code"
 
 msgctxt "Languages::gift_cert_debit"
 msgid "Debit balance"
-msgstr "Debit balance"
+msgstr "ბალანსი"
 
 msgctxt "Languages::gift_cert_from"
 msgid "From"
-msgstr "From"
+msgstr "ვისგან"
 
 msgctxt "Languages::gift_cert_to"
 msgid "To"
-msgstr "To"
+msgstr "ვის"
 
 msgctxt "Languages::promotion_bonus_gift_certificate"
 msgid "Gift certificate"
@@ -59,23 +59,23 @@ msgstr "სასაჩუქრე სერთიფიკატი"
 
 msgctxt "Languages::purchase_gift_certificate"
 msgid "Purchase Gift Certificate"
-msgstr "Purchase Gift Certificate"
+msgstr "სასაჩუქრე სერთიფიკატის შეძენა"
 
 msgctxt "Languages::text_gift_certificate_logo"
 msgid "Logo for <b>gift certificates</b>"
-msgstr "Logo for <b>gift certificates</b>"
+msgstr "<b>სასაჩუქრე სერთიფიკატი</b>-ის ლოგო"
 
 msgctxt "Languages::text_gift_cert_amount_alert"
 msgid "Amount should be between [min] and [max]"
-msgstr "Amount should be between [min] and [max]"
+msgstr "რაოდენობა უნდა იყოს  [min] და [max]"
 
 msgctxt "Languages::text_gift_cert_has_been_deleted"
 msgid "Gift certificate has been deleted successfully."
-msgstr "Gift certificate has been deleted successfully."
+msgstr "სასაჩუქრე სერთიფიკატი წაშლილია."
 
 msgctxt "Languages::error_gift_cert_code"
 msgid "The gift certificate code you entered is invalid. Please try again."
-msgstr "The gift certificate code you entered is invalid. Please try again."
+msgstr "სასაჩუქრე სერთიფიკატის კოდი რომელი თქვენ შეიყვანეთ არასწორია. გთხოვთ კიდევ სცადოთ."
 
 msgctxt "Languages::gift_add_products"
 msgid "Add products for a gift"
@@ -155,7 +155,7 @@ msgstr "სასაჩუქრე სერთიფიკატის სტ�
 
 msgctxt "Languages::current_amount"
 msgid "Current amount"
-msgstr "Current amount"
+msgstr "მიმდინარე რაოდენობა"
 
 msgctxt "Languages::mail"
 msgid "Mail"
@@ -203,19 +203,19 @@ msgstr "Gift certificate input and validation"
 
 msgctxt "Languages::recipients_name"
 msgid "To"
-msgstr "To"
+msgstr "ვის"
 
 msgctxt "Languages::purchasers_name"
 msgid "From"
-msgstr "From"
+msgstr "ვისგან"
 
 msgctxt "Languages::gift_cert_error_amount"
 msgid "Amount should not be higher than [max] and less than [min]"
-msgstr "Amount should not be higher than [max] and less than [min]"
+msgstr "რაოდენობა არ უნდა იყოს უფრო მაღალი ვიდრე [max] და [min]-ზე უფრო მცირე"
 
 msgctxt "Languages::privileges.manage_gift_certificates"
 msgid "Manage gift certificate system"
-msgstr "Manage gift certificate system"
+msgstr "სასაჩუქრე სერთიფიკატის სისტემის მართვა"
 
 msgctxt "Languages::change_gift_certificate_status"
 msgid "Change gift certificate status to"
@@ -227,27 +227,27 @@ msgstr "Purchasing products and gift certificates together is impossible. Please
 
 msgctxt "SettingsSections::gift_certificates::general"
 msgid "General"
-msgstr "General"
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::gift_certificates::min_amount"
 msgid "Minimal amount"
-msgstr "Minimal amount"
+msgstr "მინიმალური რაოდენობა"
 
 msgctxt "SettingsOptions::gift_certificates::max_amount"
 msgid "Maximal amount"
-msgstr "Maximal amount"
+msgstr "მაქსიმალური რაოდენობა"
 
 msgctxt "SettingsOptions::gift_certificates::code_prefix"
 msgid "GC Code prefix"
-msgstr "GC Code prefix"
+msgstr "GC კოდის პრეფიქსი"
 
 msgctxt "SettingsOptions::gift_certificates::cert_per_page"
 msgid "Gift certificates per page"
-msgstr "Gift certificates per page"
+msgstr "სასაჩუქრე სერთიფიკატები თითო გვერდზე"
 
 msgctxt "SettingsOptions::gift_certificates::free_products_allow"
 msgid "Allow to use free products"
-msgstr "Allow to use free products"
+msgstr "უფასო პროდუქტების გამოყენების საშუალება"
 
 msgctxt "SettingsOptions::gift_certificates::redeem_shipping_cost"
 msgid "Allow to redeem shipping cost with gift certificate"

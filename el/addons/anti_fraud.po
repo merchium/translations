@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:06-0400\n"
+"PO-Revision-Date: 2014-09-14 15:00-0400\n"
 
 msgctxt "Addons::name::anti_fraud"
 msgid "Anti fraud"
@@ -15,7 +15,7 @@ msgstr "Anti Fraud"
 
 msgctxt "Addons::description::anti_fraud"
 msgid "Adds configurable security order verification using the Maxmind service to prevent fraud"
-msgstr "Adds configurable security order verification using the Maxmind service to prevent fraud"
+msgstr "Προσθέτει τη δυνατοτητα διαμόρφωσης ασφάλειας με επαλήθευση παραγγελίας χρησιμοποιώντας την υπηρεσία Maxmind για την πρόληψη της απάτης"
 
 msgctxt "Languages::af_big_order_total"
 msgid "Order total exceeds the allowed maximum"
@@ -55,7 +55,7 @@ msgstr "Δεκτές οι παράγοντες κινδύνου"
 
 msgctxt "Languages::antifraud_failed_order"
 msgid "Your order was placed in the store. It is undergoing an additional check now. We will contact you as soon as the administrator finishes it"
-msgstr "Your order was placed in the store. It is undergoing an additional check now. We will contact you as soon as the administrator finishes it"
+msgstr "Παραλήφθηκε η παραγγελία σας από το κατάστημα. Αυτή τη στιγμή υποβάλλεται σε επιπλέον έλεγχο. Θα επικοινωνήσουμε μαζί σας μόλις τελειώσει αυτή η διαδικασία"
 
 msgctxt "Languages::risk_factor"
 msgid "Risk factor"
@@ -87,7 +87,7 @@ msgstr "Έλεγχος απάτης"
 
 msgctxt "SettingsSections::anti_fraud::general"
 msgid "General"
-msgstr "General"
+msgstr "Γενικά"
 
 msgctxt "SettingsOptions::anti_fraud::anti_fraud_key"
 msgid "Maxmind license key"
@@ -107,5 +107,5 @@ msgstr "Μέγιστος παράγοντας κινδύνου (1 .. 100)"
 
 msgctxt "SettingsOptions::anti_fraud::antifraud_order_status"
 msgid "Order status"
-msgstr "Order status"
+msgstr "Κατάσταση παραγγελίας"
 

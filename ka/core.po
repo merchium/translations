@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-11 16:00-0400\n"
+"PO-Revision-Date: 2014-09-15 03:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1167,7 +1167,7 @@ msgstr "სრული სიგანე"
 
 msgctxt "Languages::block_manager.grid_columns"
 msgid "Grid columns"
-msgstr "Grid columns"
+msgstr "ბადის სვეტები"
 
 msgctxt "Languages::block_manager.layout_width"
 msgid "Layout width"
@@ -1175,11 +1175,11 @@ msgstr "Layout width"
 
 msgctxt "Languages::block_manager.max_width"
 msgid "Maximal width"
-msgstr "Maximal width"
+msgstr "მაქსიმალური სიგანე"
 
 msgctxt "Languages::block_manager.min_width"
 msgid "Minimal width"
-msgstr "Minimal width"
+msgstr "მინიმალური სიგანე"
 
 msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
@@ -1375,7 +1375,7 @@ msgstr "კატეგორიის ჯგუფის დამატებ�
 
 msgctxt "Languages::bulk_print_invoice"
 msgid "Invoice bulk print"
-msgstr "Invoice bulk print"
+msgstr "ბევრი ინვოისის ერთდორული დაბეჭდვა"
 
 msgctxt "Languages::bulk_product_addition"
 msgid "Bulk product addition"
@@ -1383,11 +1383,11 @@ msgstr "პროდუქციის ჯგუფის დამატებ�
 
 msgctxt "Languages::button_bgcolor"
 msgid "Button background color"
-msgstr "Button background color"
+msgstr "ღილაკის ფონის ფერი"
 
 msgctxt "Languages::button_text_color"
 msgid "Button text color"
-msgstr "Button text color"
+msgstr "ღილაკის ტექსტის ფერი"
 
 msgctxt "Languages::but_change"
 msgid "Change"
@@ -2791,7 +2791,7 @@ msgstr "ნაგულისხმევად"
 
 msgctxt "Languages::default_category_view"
 msgid "Default category view"
-msgstr "Default category view"
+msgstr "ნაგულისხმევი კატეგორიების ხედი"
 
 msgctxt "Languages::default_language"
 msgid "Default language"
@@ -2935,7 +2935,7 @@ msgstr "უარყოფილი"
 
 msgctxt "Languages::dependence"
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "სორტირება"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"
@@ -3063,7 +3063,7 @@ msgstr "მმართველი"
 
 msgctxt "Languages::displayed_vendors"
 msgid "Displayed stores"
-msgstr "Displayed stores"
+msgstr "მაღაზიების ჩვენება"
 
 msgctxt "Languages::display_bottom_buttons"
 msgid "Display bottom buttons"
@@ -3803,7 +3803,7 @@ msgstr "The company with e-mail you have chosen already exists, please try anoth
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC-ის კოდი არის ძალიან პატარა."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3851,7 +3851,7 @@ msgstr "შეცდომა!<br>თქვენს მიერ მოთხ�
 
 msgctxt "Languages::exchange_rate"
 msgid "Live exchange rates"
-msgstr "Live exchange rates"
+msgstr "ვალუტის კურსი რეალურ დროში"
 
 msgctxt "Languages::exec"
 msgid "Execute"
@@ -3943,7 +3943,7 @@ msgstr "დამატებითი სერვისები"
 
 msgctxt "Languages::fail"
 msgid "Fail"
-msgstr "Fail"
+msgstr "შეცდომა"
 
 msgctxt "Languages::failed"
 msgid "Failed"
@@ -4139,7 +4139,7 @@ msgstr "საქაღალდე"
 
 msgctxt "Languages::folder_is_empty"
 msgid "Folder is empty"
-msgstr "Folder is empty"
+msgstr "საქაღალდე ცარიელია"
 
 msgctxt "Languages::footer"
 msgid "Footer"
@@ -4191,7 +4191,7 @@ msgstr "ამ გვერდის შეკვეთებისთვის"
 
 msgctxt "Languages::fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "მსხვრევადი"
 
 msgctxt "Languages::free"
 msgid "Free"
@@ -4279,7 +4279,7 @@ msgstr "ზოგადი სტატისტიკა"
 
 msgctxt "Languages::generate"
 msgid "Generate"
-msgstr "Generate"
+msgstr "გენერირება"
 
 msgctxt "Languages::generate_submenu"
 msgid "Generate submenu"
@@ -4375,7 +4375,7 @@ msgstr "ბადე"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
-msgstr "Grid2"
+msgstr "ბადე2"
 
 msgctxt "Languages::grid_options"
 msgid "Grid options"
@@ -4407,7 +4407,7 @@ msgstr "გააჩნია ინფორმაცია შეკვეთ�
 
 msgctxt "Languages::header"
 msgid "Header"
-msgstr "Header"
+msgstr "სათაური"
 
 msgctxt "Languages::header_container_not_used"
 msgid "This container is NOT used. Header container from the default location will be used instead. Set this location as default to use this container as header for all locations."
@@ -4823,7 +4823,7 @@ msgstr "Syntax error, malformed JSON"
 
 msgctxt "Languages::json_error_unknown"
 msgid "Unknown JSON error"
-msgstr "Unknown JSON error"
+msgstr "უცნობი JSON შეცდომა"
 
 msgctxt "Languages::json_error_utf8"
 msgid "Malformed UTF-8 characters, possibly incorrectly encoded"
@@ -5095,7 +5095,7 @@ msgstr "რეალური"
 
 msgctxt "Languages::live_preview"
 msgid "Live preview"
-msgstr "Live preview"
+msgstr "წინასწარი დათვალიერება"
 
 msgctxt "Languages::loading"
 msgid "Loading..."
@@ -6547,7 +6547,7 @@ msgstr "ქვედა ფონის ფერი"
 
 msgctxt "Languages::payments.epdq.btn_textcolor"
 msgid "Button text color"
-msgstr "Button text color"
+msgstr "ღილაკის ტექსტის ფერი"
 
 msgctxt "Languages::payments.epdq.font_type"
 msgid "Font type"
@@ -6555,7 +6555,7 @@ msgstr "შრიფტის ტიპი"
 
 msgctxt "Languages::payments.epdq.hash_error"
 msgid "Sorry, the hash string does not match"
-msgstr "Sorry, the hash string does not match"
+msgstr "სამწუხაროდ ჰეშეის სტრინგი არ ემთხვევა"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
@@ -7055,7 +7055,7 @@ msgstr "გვერდის რუკის მართვა"
 
 msgctxt "Languages::privileges.manage_static_data"
 msgid "Manage static data"
-msgstr "Manage static data"
+msgstr "სტატიკური ინფორმაციის მართვა"
 
 msgctxt "Languages::privileges.manage_storage"
 msgid "Manage storage"
@@ -7135,11 +7135,11 @@ msgstr "პარამეტრების ნახვა"
 
 msgctxt "Languages::privileges.view_shipping"
 msgid "View shipping"
-msgstr "View shipping"
+msgstr "მიწოდების საშუალებების ნახვა"
 
 msgctxt "Languages::privileges.view_static_data"
 msgid "View static data"
-msgstr "View static data"
+msgstr "სტატიკური მონაცემების ნახვა"
 
 msgctxt "Languages::privileges.view_stores"
 msgid "View stores"
@@ -7151,7 +7151,7 @@ msgstr "დღგ-ს ნახვა"
 
 msgctxt "Languages::privileges.view_usergroups"
 msgid "View user groups"
-msgstr "View user groups"
+msgstr "მომხმარებელთა ჯგუფების ნახვა"
 
 msgctxt "Languages::privileges.view_users"
 msgid "View users"
@@ -7595,7 +7595,7 @@ msgstr "მომხმარებლის საფოსტო ინდე�
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
-msgstr "amount"
+msgstr "რაოდენობა"
 
 msgctxt "Languages::promotion_op_cont"
 msgid "contains"
@@ -7671,7 +7671,7 @@ msgstr "შენაძენების რაოდ-ბა"
 
 msgctxt "Languages::purchasers_name"
 msgid "Purchaser`s Name"
-msgstr "Purchaser`s Name"
+msgstr "შემსყიდველის სახელი"
 
 msgctxt "Languages::qty"
 msgid "Qty"
@@ -7711,7 +7711,7 @@ msgstr "სწრაფი წვდომის მენიუ"
 
 msgctxt "Languages::quick_product_viewer"
 msgid "Quick product viewer"
-msgstr "Quick product viewer"
+msgstr "პროდუქტების სწრაფი დათვალიერება"
 
 msgctxt "Languages::quick_view"
 msgid "Quick view"
@@ -8295,7 +8295,7 @@ msgstr "ძიება შეკვეთის მიხედვით"
 
 msgctxt "Languages::search_by_owner"
 msgid "Search by owner"
-msgstr "Search by owner"
+msgstr "ძიება მაღაზიის მიხედვით"
 
 msgctxt "Languages::search_by_price"
 msgid "Search by price"
@@ -9055,7 +9055,7 @@ msgstr "Packaging"
 
 msgctxt "Languages::ship_temando_readydate"
 msgid "Ready date (days)"
-msgstr "Ready date (days)"
+msgstr "მზადყოფნის პერიოდი (დღეები)"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
@@ -9067,7 +9067,7 @@ msgstr "Weight measurement type"
 
 msgctxt "Languages::ship_temando_width"
 msgid "Package width"
-msgstr "Package width"
+msgstr "ამანათის სიგანე"
 
 msgctxt "Languages::ship_to"
 msgid "Ship to"
@@ -9135,7 +9135,7 @@ msgstr "წერილების ცენტრი"
 
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
-msgstr "Air Service Center"
+msgstr "საჰაერო გადაზიდვის სერვისი"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9219,7 +9219,7 @@ msgstr "First Class Mail Type"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_flat"
 msgid "Flat"
-msgstr "Flat"
+msgstr "დიდი კონვერტი"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_parcel"
 msgid "Parcel"
@@ -10827,7 +10827,7 @@ msgstr "ჩართ."
 
 msgctxt "Languages::text_paysitecash_mode_live"
 msgid "Live"
-msgstr "Live"
+msgstr "რეალური"
 
 msgctxt "Languages::text_paysitecash_mode_test"
 msgid "Test"
@@ -11423,7 +11423,7 @@ msgstr "ფონის ფერი"
 
 msgctxt "Languages::theme_editor.base_color"
 msgid "Base"
-msgstr "Base"
+msgstr "ძირითადი"
 
 msgctxt "Languages::theme_editor.body_font"
 msgid "Body"

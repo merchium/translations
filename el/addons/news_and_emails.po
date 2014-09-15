@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:06-0400\n"
+"PO-Revision-Date: 2014-09-14 15:00-0400\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -15,7 +15,7 @@ msgstr "Nέα & e-mails"
 
 msgctxt "Addons::description::news_and_emails"
 msgid "Lets you manage site news and configure newsletter sending"
-msgstr "Lets you manage site news and configure newsletter sending"
+msgstr "Σας επιτρέπει να διαχειριστείτε τη νέα του ιστότοπου και να ρυθμίσετε τα Newsletter"
 
 msgctxt "Languages::news"
 msgid "News"
@@ -39,7 +39,7 @@ msgstr "Εγγραφείτε για τα για ενημερωτικά δελτ�
 
 msgctxt "Languages::tmpl_subscription"
 msgid "News & emails: Newsletter subscription form"
-msgstr "News & emails: Newsletter subscription form"
+msgstr "Ειδήσεις &  email: φόρμα εγγραφής Newsletter"
 
 msgctxt "Languages::log_type_news"
 msgid "News"
@@ -63,31 +63,31 @@ msgstr "<b>[email]</b> βρίσκεται ήδη στην λίστα συνδρ�
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "Μερικές λίστες ηλεκτρονικού ταχυδρομείου από το αρχείο εισαγωγής δεν βρέθηκαν στη βάση δεδομένων. Ορισμένοι εισηγμένοι συνδρομητές θα μείνει χωρίς αντιστοίχιση."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
-msgstr "Subscribers"
+msgstr "Συνδρομητές"
 
 msgctxt "Languages::news_list_page"
 msgid "News list page"
-msgstr "News list page"
+msgstr "Σελίδα \"λίστα ειδήσεων\""
 
 msgctxt "Languages::view_news_page"
 msgid "News page"
-msgstr "News page"
+msgstr "Σελίδα Νέων"
 
 msgctxt "Languages::block_mailing_lists"
 msgid "Newsletter subscription"
-msgstr "Newsletter subscription"
+msgstr "Εγγραφή σε Newsletter"
 
 msgctxt "Languages::block_news"
 msgid "News"
-msgstr "News"
+msgstr "Νέα"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
-msgstr "Email field for newsletter subscription"
+msgstr "Πεδίο ηλεκτρονικού ταχυδρομείου για συνδρομή σε Newsletter"
 
 msgctxt "Languages::block_news_description"
 msgid ""
@@ -96,11 +96,11 @@ msgstr ""
 
 msgctxt "Languages::privileges.view_news"
 msgid "View news"
-msgstr "View news"
+msgstr "Προβολή Νέων"
 
 msgctxt "Languages::privileges.manage_news"
 msgid "Manage news"
-msgstr "Manage news"
+msgstr "Διαχείριση Νέων"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
@@ -112,7 +112,7 @@ msgstr "Το ενημερωτικό δελτίο(α) (newsletters), στάλθη
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail cannot be empty"
+msgstr "E-mail δεν μπορεί να είναι κενό"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
@@ -344,7 +344,7 @@ msgstr "Συνδρομή ενημερώσεων και προωθήσεων"
 
 msgctxt "Languages::ult_shared_with"
 msgid "Shared with:"
-msgstr "Shared with:"
+msgstr "Διαμοιραμό με:"
 
 msgctxt "Languages::tt_addons_news_and_emails_views_mailing_lists_update_from_email"
 msgid "Email of a sender."
@@ -376,7 +376,7 @@ msgstr "Προσθήκη συνδρομητών"
 
 msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
-msgstr "New mailing list"
+msgstr "Νέα λίστα mail"
 
 msgctxt "Languages::new_subscribers"
 msgid "New subscribers"
@@ -384,7 +384,7 @@ msgstr "Προσθήκη νέων συνδρομητών"
 
 msgctxt "SettingsSections::news_and_emails::general"
 msgid "General"
-msgstr "General"
+msgstr "Γενικά"
 
 msgctxt "SettingsOptions::news_and_emails::newsletters_per_pass"
 msgid "Newsletters sent per step"

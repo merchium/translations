@@ -7,43 +7,43 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:06-0400\n"
+"PO-Revision-Date: 2014-09-14 15:00-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
-msgstr "Store Import"
+msgstr "Εισαγωγή Καταστήματος"
 
 msgctxt "Addons::description::store_import"
 msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
-msgstr "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
+msgstr "Σας επιτρέπει να εισαγάγετε δεδομένα από οποιαδήποτε υπάρχουσα έκδοση του CS-Cart από 2.2.4 (εκτός από την έκδοση Community) στην τρέχουσα έκδοση."
 
 msgctxt "Languages::store_import.full_path_installation_directory"
 msgid "Full path to the store installation directory"
-msgstr "Full path to the store installation directory"
+msgstr "Πλήρης διαδρομή προς τον κατάλογο εγκατάστασης του καταστήματος"
 
 msgctxt "Languages::store_import.start_new_store_import"
 msgid "Start new store import"
-msgstr "Start new store import"
+msgstr "Έναρξη νέας εισαγωγής καταστήματος"
 
 msgctxt "Languages::store_import.first_step"
 msgid "Select store"
-msgstr "Select store"
+msgstr "Επιλέξτε κατάστημα"
 
 msgctxt "Languages::store_import.second_step"
 msgid "Validate and import"
-msgstr "Validate and import"
+msgstr "Επικύρωση και εισαγωγή"
 
 msgctxt "Languages::store_import.cannot_connect_to_database_server"
 msgid "Cannot connect to the database server"
-msgstr "Cannot connect to the database server"
+msgstr "Δεν μπορεί να συνδεθεί με το διακομιστή βάσης δεδομένων"
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
-msgstr "Cannot start actualizing data due to Storefront/Vendor changes"
+msgstr "Δεν μπορεί να ξεκινήσει ενημέρωση δεδομένων λόγω αλλαγών στη βιτρίνα/προμηθευτή"
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>The store import is complete!</p>"
+msgstr "<p>Η  εισαγωγή καταστήματος ολοκληρώθηκε!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
@@ -59,23 +59,23 @@ msgstr "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] 
 
 msgctxt "Languages::store_import.actualize_data"
 msgid "Actualize data"
-msgstr "Actualize data"
+msgstr "Ενημέρωση δεδομένων"
 
 msgctxt "Languages::store_import.import_from"
 msgid "Import from"
-msgstr "Import from"
+msgstr "Εισαγωγή από"
 
 msgctxt "Languages::store_import.complete_store_import"
 msgid "Complete Store import"
-msgstr "Complete Store import"
+msgstr "Ολοκήρωση εισαγωγής καταστήματος"
 
 msgctxt "Languages::store_import.import_data"
 msgid "Import data"
-msgstr "Import data"
+msgstr "Εισαγωγή δεδομένων"
 
 msgctxt "Languages::store_import.complete_configuration"
 msgid "Proceed to actualizing data"
-msgstr "Proceed to actualizing data"
+msgstr "Προχωρήστε σε ενημέρωση δεδομένων"
 
 msgctxt "Languages::store_import.admin_url"
 msgid "Admin panel URL"
@@ -83,55 +83,55 @@ msgstr "Admin panel URL"
 
 msgctxt "Languages::store_import.companies_count"
 msgid "Number of storefronts"
-msgstr "Number of storefronts"
+msgstr "Αριθμός βιτρινών (καταστημάτων)"
 
 msgctxt "Languages::store_import.store_import"
 msgid "Store import"
-msgstr "Store import"
+msgstr "Εισαγωγή Καταστήματος"
 
 msgctxt "Languages::store_import.local_store"
 msgid "Store path"
-msgstr "Store path"
+msgstr "Διαδρομή καταστήματος"
 
 msgctxt "Languages::store_import.select_store"
 msgid "Validate"
-msgstr "Validate"
+msgstr "Επικύρωση"
 
 msgctxt "Languages::store_import.local_store_tooltip"
 msgid "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
-msgstr "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
+msgstr "Πληκτρολογήστε την πλήρη διαδρομή στον ριζικό κατάλογο εγκατάστασης του καταστήματος από το οποίο θέλετε να εισαγάγετε τα δεδομένα. Για παράδειγμα '/ var/www/examplestore' ή 'home/user/public_html' για συστήματα που βασίζονται σε UNIX ή «C:\\examplestore» σε Windows"
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
-msgstr "Configure your store"
+msgstr "Ρύθμιση παραμέτρων του καταστάματός σας"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"
-msgstr "Finish store import"
+msgstr "Ολοκληρώσετε την εισαγωγή καταστήματος"
 
 msgctxt "Languages::store_import.storefront_url"
 msgid "Storefront URL"
-msgstr "Storefront URL"
+msgstr "URL Βιτρίνας"
 
 msgctxt "Languages::store_import.secure_storefront_url"
 msgid "Secure storefront URL"
-msgstr "Secure storefront URL"
+msgstr "Ασφαλές URL Βιτρίνας"
 
 msgctxt "Languages::store_import.db_host"
 msgid "Database host"
-msgstr "Database host"
+msgstr "Παροχός Βάσης δεδομένων"
 
 msgctxt "Languages::store_import.db_name"
 msgid "Database name"
-msgstr "Database name"
+msgstr "Όνομα βάσης δεδομένων"
 
 msgctxt "Languages::store_import.db_user"
 msgid "Database user"
-msgstr "Database user"
+msgstr "Χρήστης Βάση δεδομένων"
 
 msgctxt "Languages::store_import.table_prefix"
 msgid "Table prefix"
-msgstr "Table prefix"
+msgstr "Πρόθεμα πίνακα"
 
 msgctxt "Languages::store_import.fill_form"
 msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
@@ -151,31 +151,31 @@ msgstr "[product_name] [product_version] [product_edition]"
 
 msgctxt "Languages::store_import.from"
 msgid "From:"
-msgstr "From:"
+msgstr "Από:"
 
 msgctxt "Languages::store_import.text_to"
 msgid "To: [product_edition] [product_version]"
-msgstr "To: [product_edition] [product_version]"
+msgstr "Προς: [product_edition] [product_version]"
 
 msgctxt "Languages::store_import.edition_mapping_failed"
 msgid "Import from this edition is not supported"
-msgstr "Import from this edition is not supported"
+msgstr "Εισαγωγή από αυτή την έκδοση δεν υποστηρίζεται"
 
 msgctxt "Languages::store_import.configuration_test_failed"
 msgid "Configuration test failed"
-msgstr "Configuration test failed"
+msgstr "Η Δοκιμαστική Διαμόρφωση απέτυχε"
 
 msgctxt "Languages::store_import.wrong_table_prefix"
 msgid "Store tables with the specified prefix are missing in the specified database."
-msgstr "Store tables with the specified prefix are missing in the specified database."
+msgstr "Οι πίνακες του καταστήματος με το καθορισμένο πρόθεμα λείπουν στη συγκεκριμένη βάση δεδομένων."
 
 msgctxt "Languages::store_import.path_does_not_exist"
 msgid "The specified directory does not exist. Please check if the path you entered is correct."
-msgstr "The specified directory does not exist. Please check if the path you entered is correct."
+msgstr "Δεν υπάρχει ο καθορισμένος κατάλογος. Ελέγξτε εάν η διαδρομή που δώσατε είναι σωστή."
 
 msgctxt "Languages::store_import.this_is_not_cart_path"
 msgid "The specified directory is not a valid store installation root folder."
-msgstr "The specified directory is not a valid store installation root folder."
+msgstr "Ο καθορισμένος κατάλογος, δεν είναι μια έγκυρη εγκατάσταση ριζικού φακέλου καταστήματος"
 
 msgctxt "Languages::store_import.text_configuration"
 msgid "<p><h4>The data from the old store was successfully imported.</h4><br/>You are now free to leave the Store import tool and customize the settings and design of your store. First of all, do the following:</p>"
@@ -275,47 +275,47 @@ msgstr "<ul><li>Go to <a href=\"[manage_languages_link]\">Languages</a> language
 
 msgctxt "Languages::store_import.progress_title"
 msgid "Upgrading to [to]"
-msgstr "Upgrading to [to]"
+msgstr "Αναβάθμιση σε [to]"
 
 msgctxt "Languages::store_import.updating_data"
 msgid "Updating data"
-msgstr "Updating data"
+msgstr "Ενημέρωση δεδομένων"
 
 msgctxt "Languages::store_import.converting_orders"
 msgid "Converting orders"
-msgstr "Converting orders"
+msgstr "Μετατροπή παραγγελιων"
 
 msgctxt "Languages::store_import.import_failed"
 msgid "Store import failed"
-msgstr "Store import failed"
+msgstr "Η Εισαγωγή Καταστηματος  απέτυχε"
 
 msgctxt "Languages::store_import.cloning_database"
 msgid "Cloning database"
-msgstr "Cloning database"
+msgstr "Κλωνοποίηση βάσης δεδομένων"
 
 msgctxt "Languages::store_import.updating_languages"
 msgid "Updating languages"
-msgstr "Updating languages"
+msgstr "Ενημέρωση γλώσσων"
 
 msgctxt "Languages::store_import.done"
 msgid "Done"
-msgstr "Done"
+msgstr "Έγινε"
 
 msgctxt "Languages::store_import.class_not_found"
 msgid "Import from this version is not supported"
-msgstr "Import from this version is not supported"
+msgstr "Εισαγωγή από αυτή την έκδοση δεν υποστηρίζεται"
 
 msgctxt "Languages::store_import.processing_addons"
 msgid "Updating addons"
-msgstr "Updating addons"
+msgstr "Ενημέρωση addons"
 
 msgctxt "Languages::store_import.actualization_completed"
 msgid "Actualization completed"
-msgstr "Actualization completed"
+msgstr "Ενημέρωση ολοκληρώθηκε"
 
 msgctxt "Languages::store_import.actualization_failed"
 msgid "Actualization failed"
-msgstr "Actualization failed"
+msgstr "Ενημέρωση απέτυχε"
 
 msgctxt "Languages::store_import.invalid_license"
 msgid "Sorry, the data import is impossible: no valid upgrade subscription found (read more about the <a title=\"Store Import: License Requirements\" target=\"_blank\" href=\"http://kb.cs-cart.com/store-import#license-requirements\">license requirements</a> for a store import).<br /><br />Contact us at <a href=\"mailto:sales@cs-cart.com\">sales@cs-cart.com</a> if you have any questions."
@@ -331,9 +331,9 @@ msgstr "Store import has been canceled to prevent the loss of data. Could not co
 
 msgctxt "SettingsSections::store_import::general"
 msgid "General"
-msgstr "General"
+msgstr "Γενικά"
 
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"
-msgstr "Store import data"
+msgstr "Εισαγωγή δεδομένων Καταστήματος"
 
