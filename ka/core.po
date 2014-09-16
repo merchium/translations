@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-15 03:00-0400\n"
+"PO-Revision-Date: 2014-09-15 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -755,7 +755,7 @@ msgstr "პროგრამის ID"
 
 msgctxt "Languages::application_login"
 msgid "Application login"
-msgstr "Application login"
+msgstr "აპლიკაზიის ავტორიზაცია"
 
 msgctxt "Languages::apply"
 msgid "Apply"
@@ -1155,7 +1155,7 @@ msgstr "ბლოკების მართვა"
 
 msgctxt "Languages::block_manager.fixed_layout"
 msgid "Fixed width"
-msgstr "Fixed width"
+msgstr "ფიქსირებული სიგანე"
 
 msgctxt "Languages::block_manager.fluid_layout"
 msgid "Fluid"
@@ -1267,7 +1267,7 @@ msgstr "HTML block with Smarty support"
 
 msgctxt "Languages::block_smarty_block_description"
 msgid "Any HTML/Smarty content"
-msgstr "Any HTML/Smarty content"
+msgstr "ნებისმიერი HTML/Smarty შიგთავსი"
 
 msgctxt "Languages::block_template"
 msgid "Template"
@@ -1699,7 +1699,7 @@ msgstr "ინტერვალის შეცვლა"
 
 msgctxt "Languages::change_language_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "მაღაზია მუშაობს უფასო რეჟიმში. ამ რეჟიმში თქვენ შეგიძლიათ გამოიყენოთ მხოლოდ ერთი ენა. მონიშნეთ სასურველი ენა და აირჩიეთ სტატუსი \"ჩართული\" რათა გააქტიურდეს სასურველი ენა."
+msgstr "მაღაზია მუშაობს უფასო რეჟიმში. ამ რეჟიმში თქვენ შეგიძლიათ გამოიყენოთ მხოლოდ ერთი ენა. მონიშნეთ სასურველი ენა და აირჩიეთ სტატუსი \"ჩართული\" რათა გააქტიუროთ შერჩეული ენა."
 
 msgctxt "Languages::change_currency_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
@@ -2807,7 +2807,7 @@ msgstr "სტანდარტული შაბლონი (პროდუ
 
 msgctxt "Languages::default_product_details_view"
 msgid "Parent ([default])"
-msgstr "Parent ([default])"
+msgstr "მემკვიდრეობითი ([default])"
 
 msgctxt "Languages::default_template"
 msgid "Default template"
@@ -5691,11 +5691,11 @@ msgstr "Г-жа"
 
 msgctxt "Languages::tmpl_multicolumns_small"
 msgid "Multicolumns small"
-msgstr "Multicolumns small"
+msgstr "მრავალსვეტიანი პატარა"
 
 msgctxt "Languages::tmpl_multicolumn_list"
 msgid "Multi-column list"
-msgstr "Multi-column list"
+msgstr "მრავალსვეტიანი სია"
 
 msgctxt "Languages::multiple"
 msgid "Multiple"
@@ -7359,7 +7359,7 @@ msgstr "პროდუქტის ველი"
 
 msgctxt "Languages::product_filters_free_limit"
 msgid "The shop is running in the Free mode. Only the first 3 filters are shown in the customer area."
-msgstr "მაღაზია მუშაობს უფასო რეჟიმში, რის გამოც ხელმისაწვდომია მხოლოდ პირველი 3 ფილტრის რეჟიმი"
+msgstr "მაღაზია მუშაობს უფასო რეჟიმში, რის გამოც ხელმისაწვდომია მხოლოდ პირველი 3 ფილტრის რეჟიმი."
 
 msgctxt "Languages::product_groups"
 msgid "Product groups"
@@ -7404,6 +7404,10 @@ msgstr "პროდუქტი პარამეტრები"
 msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
 msgstr "У товара <strong>[product]</strong> выбраны опции из запрещенных комбинаций. Товар был удален из корзины"
+
+msgctxt "Languages::product_disabled_options"
+msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -11679,7 +11683,7 @@ msgstr "ფასის ტეგი"
 
 msgctxt "Languages::theme_editor.primary_button"
 msgid "Primary button"
-msgstr "Primary button"
+msgstr "ძირითადი ღილაკი"
 
 msgctxt "Languages::theme_editor.tertiary_button"
 msgid "Tertiary button"
@@ -11699,7 +11703,7 @@ msgstr "გამეორება y"
 
 msgctxt "Languages::theme_editor.reset_backgrounds"
 msgid "Reset backgrounds"
-msgstr "Reset backgrounds"
+msgstr "ფონის ანულირება"
 
 msgctxt "Languages::theme_editor.reset_colors"
 msgid "Reset colors"
@@ -11799,11 +11803,11 @@ msgstr "თემის რედაქტირების რეჟიმი"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
-msgstr "ეს ტრანზაქციაა სატესტოა"
+msgstr "ეს არის სატესტოა ტრანზაქცია"
 
 msgctxt "Languages::this_day"
 msgid "This day"
-msgstr "დღევანდელი"
+msgstr "დღეს"
 
 msgctxt "Languages::this_month"
 msgid "This month"
@@ -11899,7 +11903,7 @@ msgstr "დღეს"
 
 msgctxt "Languages::tools"
 msgid "Tools"
-msgstr "Инструментальные программные средства"
+msgstr "ხელსაწყოები"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Addons count"
@@ -11907,7 +11911,7 @@ msgstr "Addons count"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
-msgstr "Current state"
+msgstr "მიმდინარე მდგომარეობა"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No addons"
@@ -11927,7 +11931,7 @@ msgstr "კარნახი"
 
 msgctxt "Languages::top_container_not_used"
 msgid "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
-msgstr "Данный контейнер не используется. Вместо этого будет использован верхний контейнер из локации по умолчанию. Установите эту локацию как локацию по умолчанию, чтобы использовать этот контейнер для всех локаций."
+msgstr "ეს კონტეინერი არ გამოიყენება. მის ნაცვლად გამოყენებული იქნება ზედა კონტეინერი ნაგულისხმევი მდებარეობიდან. დააყენეთ ეს მდებარეობა როგორც ნაგულისხმევი რათა გამოიყენოთ ეს კონტეინერი ყველა მდებარეობისათვის."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -11983,7 +11987,7 @@ msgstr "გარკვეულ თანხამდე"
 
 msgctxt "Languages::to_percentage"
 msgid "to percentage of the original price"
-msgstr "არსებული ფასის გარკვეულ პროცენტამდე"
+msgstr "ფასის გარკვეულ პროცენტამდე"
 
 msgctxt "Languages::tpe"
 msgid "TPE"
@@ -11995,11 +11999,11 @@ msgstr "მიდევნება"
 
 msgctxt "Languages::tracking_num"
 msgid "tracking #"
-msgstr "# მიდევნება"
+msgstr "მიდევნება #"
 
 msgctxt "Languages::tracking_number"
 msgid "Tracking number"
-msgstr "tracking number"
+msgstr "მიდევნების კოდი"
 
 msgctxt "Languages::tracks"
 msgid "Identifier"
@@ -12019,11 +12023,11 @@ msgstr "თვალყურის მიდევნება"
 
 msgctxt "Languages::track_without_options"
 msgid "Track without options"
-msgstr "რაოდენობის კონტროლი პარამეტრების გარეშე"
+msgstr "თვალყურის მიდევნება პარამეტრების გარეშე"
 
 msgctxt "Languages::track_with_options"
 msgid "Track with options"
-msgstr "Контролировать количество товара с параметрами"
+msgstr "თვალყურის მიდევნება პარამეტრების გამოყენებით"
 
 msgctxt "Languages::TransactionDateTime"
 msgid "TransactionDateTime"
@@ -12039,7 +12043,7 @@ msgstr "ტრანზაქცია გაუქმებულია"
 
 msgctxt "Languages::transaction_declined"
 msgid "Transaction declined"
-msgstr "ტრანზაქცია გაუქმებულია გადახდის სისტემის ან მომხმარებლის მიერ"
+msgstr "ტრანზაქცია გაუქმებულია"
 
 msgctxt "Languages::transaction_id"
 msgid "Transaction ID"
@@ -12047,7 +12051,7 @@ msgstr "ტრანზაქციის ID"
 
 msgctxt "Languages::transaction_datetime"
 msgid "Transaction date"
-msgstr "ტრანზაქციის დრო"
+msgstr "ტრანზაქციის თარიღი"
 
 msgctxt "Languages::transaction_key"
 msgid "Transaction key"
@@ -12083,7 +12087,7 @@ msgstr "შტო"
 
 msgctxt "Languages::trial"
 msgid "Trial"
-msgstr "საცდელი ვერსია"
+msgstr "საცდელი"
 
 msgctxt "Languages::trial_mode_mve_disabled"
 msgid "Trial mode is not available anymore since you have a valid license activated for this installation"
@@ -12091,7 +12095,7 @@ msgstr "Trial mode is not available anymore since you have a valid license activ
 
 msgctxt "Languages::trial_mode_ult_disabled"
 msgid "Trial mode cannot be activated"
-msgstr "საცდელი ვერსიის გააქტიურება შეუძლებელია"
+msgstr "საცდელი რეჟიმის გააქტიურება შეუძლებელია"
 
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
@@ -12101,9 +12105,13 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "სწორია"
 
+msgctxt "Languages::ttc_delivery_time"
+msgid "Arbitrary text to be shown along with the shipping method title."
+msgstr "Arbitrary text to be shown along with the shipping method title."
+
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
-msgstr "ყველა არსებული ლოკაციის წაშლა ლოკაციის ფაილის დაიმპორტებამდე"
+msgstr "ყველა არსებული ლოკაციის წაშლა ლოკაციის ფაილის იმპორტირებამდე"
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12111,15 +12119,11 @@ msgstr "გვერდის დასახელება, რომელი
 
 msgctxt "Languages::ttc_popularity"
 msgid "Product popularity rating based on how many times the storefront has been viewed, number of additions to cart and number of purchases."
-msgstr "პროდუქციის რეიტინგი გამოითვლება მისი ნახვადობით, კალათაში დამატებულობით და ყიდვადობით."
+msgstr "პროდუქციის რეიტინგი გამოითვლება მისი ნახვადობით, კალათაში დამატებულობით და გაყიდვადობით."
 
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
-
-msgctxt "Languages::ttc_usergroups"
-msgid "At least one item should be selected"
-msgstr "ერთი ვარიანტი მაინც უნდა იყოს არჩეული"
 
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
@@ -12127,19 +12131,19 @@ msgstr "The menu item will be shown activated for the specified dispatch."
 
 msgctxt "Languages::tts_generate_submenu"
 msgid "The submenu will include child elements of the selected object."
-msgstr "Подменю будет включать дочерние элементы выбранного объекта."
+msgstr "ქვემენიუ მოიცავს მონიშნული ობიექტის შვილობილ ნივთებს."
 
 msgctxt "Languages::tts_link_text"
 msgid "Target URL. May be an external URL, an inner store URL or a dispatch."
-msgstr "Целевой URL. Может быть внешней ссылкой, ссылкой внутри магазина или диспетчером."
+msgstr "Target URL. May be an external URL, an inner store URL or a dispatch."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
-msgstr "Если сохранить блок с включенной данной настройкой, текущее содержимое блока перезапишет содержимое этого блока во всём магазине"
+msgstr "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
 
 msgctxt "Languages::tt_views_block_manager_update_block_width"
 msgid "Block width works for blocks located in the group having horizontal direction, for other cases this parameter does not work."
-msgstr "Ширина блока задается для блоков, которые расположены в группе, имеющей горизонтальное направление. В других случаях этот параметр не работает."
+msgstr "Block width works for blocks located in the group having horizontal direction, for other cases this parameter does not work."
 
 msgctxt "Languages::tt_views_block_manager_update_location_default"
 msgid "One location must be picked as default. Its Top and Bottom containers will be used in all locations."
@@ -12147,11 +12151,11 @@ msgstr "One location must be picked as default. Its Top and Bottom containers wi
 
 msgctxt "Languages::tt_views_cart_components_carts_search_form_online_only"
 msgid "If enabled, search results include only users who are online at the moment."
-msgstr "Если опция включена, результаты поиска будут содержать только пользователей в онлайне."
+msgstr "If enabled, search results include only users who are online at the moment."
 
 msgctxt "Languages::tt_views_categories_update_product_details_layout"
 msgid "By default, the template that is defined in the appearance settings of the storefront is used"
-msgstr "По умолчанию используется шаблон, заданный в настройках внешнего вида  клиентской части"
+msgstr "By default, the template that is defined in the appearance settings of the storefront is used"
 
 msgctxt "Languages::tt_views_currencies_update_after_sum"
 msgid "If enabled, the symbol of the currency is shown after the sum."
@@ -12171,15 +12175,15 @@ msgstr "Thousand separator."
 
 msgctxt "Languages::tt_views_database_manage_backup_data"
 msgid "If enabled, the database backup file includes the actual table data."
-msgstr "Если опция включена, резервная копия базы данных будет содержать фактичекие данные таблиц."
+msgstr "If enabled, the database backup file includes the actual table data."
 
 msgctxt "Languages::tt_views_database_manage_backup_schema"
 msgid "If enabled, the database backup file keeps the table structure."
-msgstr "Если опция включена, структура таблиц сохранится в резервной копии базы данных."
+msgstr "If enabled, the database backup file keeps the table structure."
 
 msgctxt "Languages::tt_views_exim_export_output"
 msgid "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screen\" - to display the file's contents, \"Server\" - to save the file on the server file system."
-msgstr "Выберите куда сохранить файл (Прямая загрузка - на ваш сервер, Экран - на рабочий стол, Сервер - напрямую на Google сервер)."
+msgstr "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screen\" - to display the file's contents, \"Server\" - to save the file on the server file system."
 
 msgctxt "Languages::tt_views_languages_manage_language_code"
 msgid "Two-letter code of the language."
@@ -12191,31 +12195,31 @@ msgstr "ამ ქვეყნის დროშა გამოყენებ
 
 msgctxt "Languages::tt_views_orders_components_orders_search_form_customer_files"
 msgid "If enabled, the search results will contain the orders for which customers loaded their own files."
-msgstr "Если опция включена, в результатах поиска будут представлены заказы, для которых покупатели загружали свои файлы."
+msgstr "If enabled, the search results will contain the orders for which customers loaded their own files."
 
 msgctxt "Languages::tt_views_payments_update_surcharge_title"
 msgid "Leave empty to use the 'Payment surcharge' as a title"
-msgstr "Оставьте пустым, чтобы использовать 'Доплата' в качестве названия"
+msgstr "Leave empty to use the 'Payment surcharge' as a title"
 
 msgctxt "Languages::tt_views_payments_update_template"
 msgid "Template responsible for displaying supplementary fields for the payment method."
-msgstr "Шаблон, отвечающий за отображение дополнительных полей для способов оплаты."
+msgstr "Template responsible for displaying supplementary fields for the payment method."
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_items_in_box"
 msgid "Use this field to define the minimum and maximum number of product items to be shipped in a separate box. Enter a non-zero value and specify the box dimensions below."
-msgstr "Используйте это поле, чтобы задать минимальное и максимальное количество штук товара, которое может быть доставлено в одной коробке. Введите ненулевое значение и задайте размеры коробки ниже."
+msgstr "Use this field to define the minimum and maximum number of product items to be shipped in a separate box. Enter a non-zero value and specify the box dimensions below."
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_weight"
 msgid "Non-downloadable products with zero weight are handled as having minimal possible non-zero weight"
 msgstr "Non-downloadable products with zero weight are handled as having minimal possible non-zero weight"
 
 msgctxt "Languages::tt_views_products_update_categories"
-msgid "Please select a category to be displayed in breadcrumbs."
-msgstr "გთხოვთ აირჩიოთ კატეგორია ნავიგაციის ველის ასახვისთვის."
+msgid "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Categories to be displayed in the navigation breadcrumbs."
 
 msgctxt "Languages::tt_views_products_update_inventory"
-msgid "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
-msgstr "Редактировать наличие товара на складе можно только в случае, если включена настройка 'Включить отслеживание количества товаров на складе'"
+msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12223,11 +12227,11 @@ msgstr "საცალო ფასი."
 
 msgctxt "Languages::tt_views_products_update_out_of_stock_actions"
 msgid "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
-msgstr "Внимание: для настройки 'Возможность купить товар заранее' необходимо положительное количество товара, а для настройки 'Подписаться на уведомления' не положительное количество. Также, настройка 'Подписаться на уведомления' не применяется к товарам, количество которых контролируется с учетом параметров."
+msgstr "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
 
 msgctxt "Languages::tt_views_products_update_product_details_layout"
 msgid "By default, the template that is defined in the settings of the main product category is used"
-msgstr "По умолчанию используется шаблон, заданный в настройках основной категории товара"
+msgstr "By default, the template that is defined in the settings of the main product category is used"
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "If enabled, the product feature is displayed on catalog pages (product list pages)"
@@ -12243,11 +12247,11 @@ msgstr "If enabled, the product feature is displayed on the product details page
 
 msgctxt "Languages::tt_views_product_features_update_prefix"
 msgid "An affix that precedes the product feature."
-msgstr "Дополнение (аффикс), располагающееся перед параметром товара."
+msgstr "An affix that precedes the product feature."
 
 msgctxt "Languages::tt_views_product_features_update_suffix"
 msgid "An affix that follows the product feature."
-msgstr "Дополнение (аффикс), располагающееся сразу за параметром товара."
+msgstr "An affix that follows the product feature."
 
 msgctxt "Languages::tt_views_product_filters_update_display_more_variants_count"
 msgid "The remaining variants will be displayed on the separate page."
@@ -12255,35 +12259,35 @@ msgstr "The remaining variants will be displayed on the separate page."
 
 msgctxt "Languages::tt_views_product_filters_update_display_variants_count"
 msgid "The remaining variants will be hidden behind the \"more\" link."
-msgstr "Оставшиеся варианты доступны по нажатию на ссылку \"ещё\"."
+msgstr "The remaining variants will be hidden behind the \"more\" link."
 
 msgctxt "Languages::tt_views_product_options_update_incorrect_filling_message"
 msgid "Message that is displayed if the entered data is incorrect."
-msgstr "Сообщение, отображаемое в случае неверно введенных данных."
+msgstr "შეტყობინება რომელიც იქნება ნაჩვენები თუ შეტანილი მონაცემები არასწორი იქნება."
 
 msgctxt "Languages::tt_views_product_options_update_inner_hint"
 msgid "A note that indicates the value to be entered."
-msgstr "Пояснение того, какое значение нужно вводить."
+msgstr "აღწერილობა თუ რა მნიშვნელობა უნდა შეიტანოთ."
 
 msgctxt "Languages::tt_views_product_options_update_inventory"
 msgid "If enabled, the option is taken into account when forming the product inventory."
-msgstr "Если опция включена, данный параметр учитывается при инвентаризации товара."
+msgstr "თუკი პარამეტრი გააქტიურებულია, ეს პარამეტრი გამოიყენება პროდუქციის ინვენტარიზაციის დროს."
 
 msgctxt "Languages::tt_views_product_options_update_regexp"
 msgid "Regular expression specifying a pattern to match."
-msgstr "Регулярное выражение, задающее формат значения поля."
+msgstr "Regular expression specifying a pattern to match."
 
 msgctxt "Languages::tt_views_product_options_update_required"
 msgid "If enabled, the option is mandatory to fill in."
-msgstr "Если отмечено, то поле обязательно для заполнения."
+msgstr "ჩართვის შემთხვევაში ველის შევსება აუცილებელი იქნება."
 
 msgctxt "Languages::tt_views_promotions_update_stop_other_rules"
 msgid "If enabled, the other promotions are not applied."
-msgstr "Если опция включена, другие поощрения не применяются."
+msgstr "If enabled, the other promotions are not applied."
 
 msgctxt "Languages::tt_views_sales_reports_table_time_interval"
 msgid "Periods to analyze (day, week, month, year)."
-msgstr "Анализируемые интервалы времени (дни, недели, месяцы, годы)."
+msgstr "განსაანალიზირებელი პერიოდი (დღე, კვირა, თვე, წელი)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
@@ -12295,7 +12299,7 @@ msgstr "Max number of chart components."
 
 msgctxt "Languages::tt_views_site_layout_logos_alt_text"
 msgid "Leave empty to use company name as alternative text."
-msgstr "Оставьте пустым, чтобы использовать название компании в качестве альтернативного текста."
+msgstr "დატოვეთ ცარიელი რათა გამოიყენოთ კომპანიის დასახელება ალტერნატიულ ტექსტად."
 
 msgctxt "Languages::tt_views_storage_cdn_cname"
 msgid "Domain name that you want to use instead of the CloudFront domain name for the URLs for your files. You also need to create a CNAME record with your DNS service to route queries to CloudFront host (it will be displayed on this page after you enter account information)."
@@ -12307,7 +12311,7 @@ msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blan
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
-msgstr "Регистрационный номер налога в вашем магазине."
+msgstr "შემსავლების გადამხდელის რეგისტრაციის ნომერი მაღაზიაში."
 
 msgctxt "Languages::turkish"
 msgid "Turkish"
@@ -12323,11 +12327,11 @@ msgstr "შეტყობინების დატოვება"
 
 msgctxt "Languages::uc_ok"
 msgid "OK"
-msgstr "[ОК]"
+msgstr "OK"
 
 msgctxt "Languages::uk_cookies_law"
 msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
-msgstr "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a href=\"[url]\">OK</a></span></span>"
+msgstr "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site. <span class=\"button button-wrap-left\"><span class=\"button button-wrap-right\"><a rel=\"nofollow\" href=\"[url]\">OK</a></span></span>"
 
 msgctxt "Languages::ult_share_users_setting_disabled"
 msgid "The setting value can not be changed as identical email addresses are registered in your store."
@@ -12339,19 +12343,19 @@ msgstr "Unable to delete this store because there are orders containing the prod
 
 msgctxt "Languages::unable_to_assign_usergroup"
 msgid "Unable to assign the usergroup. Please contact the shop administrator."
-msgstr "შეუძლებელია ჯგუფის გამოყენება. გთხოვთ მიმართოთ მაღაზიის ადმინისტრაციას."
+msgstr "შეუძლებელია მომხმარებელთა ჯგუფის გამოყენება. გთხოვთ მიმართოთ მაღაზიის ადმინისტრაციას."
 
 msgctxt "Languages::unable_to_check_license"
 msgid "Unable to check your license number"
-msgstr "შეუძლებელია თქვენი ლიცენზიის ნომერის შემოწმება"
+msgstr "შეუძლებელია თქვენი ლიცენზიის ნომრის შემოწმება"
 
 msgctxt "Languages::unable_to_delete_setting_description"
 msgid "Unable to delete setting description: [reason]"
-msgstr "Не удалось удалить описание настройки: [reason]"
+msgstr "შეუძლებელია პარამეტრების აღწერილობის წაშლა: [reason]"
 
 msgctxt "Languages::unable_to_delete_setting_variant"
 msgid "Unable to delete setting_variant: [reason]"
-msgstr "Не удалось удалить вариант вариант настройки: [reason]"
+msgstr "შეუძლებელია პარამეტრების ვარიანტის წაშლა: [reason]"
 
 msgctxt "Languages::unable_to_read_resource"
 msgid "Unable to read resource: [file]"
@@ -12363,7 +12367,7 @@ msgstr "შეუძლებელია აღწერის მინიჭ�
 
 msgctxt "Languages::unable_to_update_setting_value"
 msgid "Unable to set value: [reason]"
-msgstr "შეუძლებელია  პარამეტრების განახლება: [reason]"
+msgstr "შეუძლებელია  პარამეტრების მინიჭება: [reason]"
 
 msgctxt "Languages::unable_to_unpack_file"
 msgid "Unable to decompress file"
@@ -12371,7 +12375,7 @@ msgstr "შეუძლებელია ფაილის დეკომპ�
 
 msgctxt "Languages::ungroupped_features"
 msgid "Ungrouped features"
-msgstr "შეუჯგუფებელი მახასიათებლებით"
+msgstr "შეუჯგუფებელი მახასიათებლები"
 
 msgctxt "Languages::uninstall"
 msgid "Uninstall"
@@ -12435,7 +12439,7 @@ msgstr "კატეგორიების განახლება"
 
 msgctxt "Languages::update_customer_info"
 msgid "Update customer information"
-msgstr "მომხმარებელზე ინფორმაციის განახლება"
+msgstr "მომხმარებელის ინფორმაციის განახლება"
 
 msgctxt "Languages::update_for_all_act"
 msgid "New value will be saved for ALL stores which share this item. Click to save it only for the owner-store."
@@ -12459,7 +12463,7 @@ msgstr "ჯგუფის განახლება"
 
 msgctxt "Languages::update_period_expired"
 msgid "<p class=\"text-error\">Your upgrade subscription has expired, so this software upgrade cannot be installed. You can prolongate your subscription in the <a href=\"[url]\">Customer Help Desk</a>.</p><p>Please note that it is not mandatory: you can continue using this software with no limitation even without an upgrade subscription.</p>"
-msgstr "<p class=\"text-error\">თქვენთვის პროგრამული განახლებების მიღების პერიოდი ამოწურულია, თქვენ შეგიძლიათ შეიძინოთ განახლებების მიღების შესაძლებლობა. <a href=\"[url]\">Customer Help Desk</a>.</p><p>გთხოვთ გაითვალისწინოთ რომ ეს პროცედურა არ არის სავალდებულო: თქვენ შეგიძლიათ გააგრძელოთ აღნიშნული პროგრამული უზრუნველყოფის გამოყენება ყოველგვარი შეზღუდვების გარეშე, გარდა ახალი პროგრამული განახლებებისა.</p>"
+msgstr "<p class=\"text-error\">თქვენთვის პროგრამული განახლებების მიღების პერიოდი ამოწურულია, ამიტომ თქვენთვის ახალი განახლების ინსტალაცია ხელმიუწვდომელია. თქვენ შეგიძლიათ შეიძინოთ განახლებების მიღების შესაძლებლობა. <a href=\"[url]\">Customer Help Desk</a>.</p><p>გთხოვთ გაითვალისწინოთ რომ ეს პროცედურა არ არის სავალდებულო: თქვენ შეგიძლიათ გააგრძელოთ აღნიშნული პროგრამული უზრუნველყოფის გამოყენება ყოველგვარი შეზღუდვების გარეშე, ახალი პროგრამული განახლებების მიღების გარეშე.</p>"
 
 msgctxt "Languages::update_products"
 msgid "Update products"
@@ -12515,7 +12519,7 @@ msgstr "თქვენ გჭირდებათ Flash Player-ის გა�
 
 msgctxt "Languages::upgrade_is_not_avail"
 msgid "<p class=\"text-error\">This upgrade is not available for your [product] license. Please contact our <a href=\"[href]\">support team</a> to update your license status.</p>"
-msgstr "<p class=\"text-error\">ეს განახლება მიუწვომელია თქვენი [product] ლიცენიიზთვის. გთხოვთ დაუკავშირდეთ <a href=\"[href]\">ჩვენი დახმარების ჯუფს</a> რათა განაახლოთ ლიცენზია.</p>"
+msgstr "<p class=\"text-error\">ეს განახლება მიუწვომელია თქვენი [product] ლიცენზიითვის. გთხოვთ დაუკავშირდეთ <a href=\"[href]\">ჩვენი დახმარების ჯუფს</a> რათა განაახლოთ ლიცენზია.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12523,7 +12527,7 @@ msgstr "ატვირთვა"
 
 msgctxt "Languages::upload_install"
 msgid "Upload & install"
-msgstr "ატვირთვა & დაინსტალირება"
+msgstr "ატვირთვა & ინსტალაცია"
 
 msgctxt "Languages::upload_another_file"
 msgid "Upload another file"
@@ -12559,7 +12563,7 @@ msgstr "ჯგუფების დასახელებები რომ�
 
 msgctxt "Languages::usergroup_activated"
 msgid "User group has been activated"
-msgstr "ჯგუფი გააქტიურებულია"
+msgstr "მომხმარებელთა ჯგუფი გააქტიურებულია"
 
 msgctxt "Languages::usergroup_disactivated"
 msgid "User group has been deactivated"
@@ -12583,7 +12587,7 @@ msgstr "მომხმარებლები"
 
 msgctxt "Languages::users_carts"
 msgid "Abandoned / Live carts"
-msgstr "დაუსრულებელი შესყიდვები"
+msgstr "დასასრულებელი შესყიდვები"
 
 msgctxt "Languages::users_carts_menu_description"
 msgid "Lists of products that have not been purchased for some reason."
@@ -12603,7 +12607,7 @@ msgstr "ინფორმაცია მომხმარებელზე"
 
 msgctxt "Languages::user_account_information"
 msgid "User account information"
-msgstr "ინფორმაცია მომხმარებლის ანგარიშის შესახებ"
+msgstr "ინფორმაცია მომხმარებელზე"
 
 msgctxt "Languages::user_cannot_be_deleted"
 msgid "Sorry, user with id [user_id] can not be deleted."
@@ -12743,11 +12747,11 @@ msgstr "მოთხოვნილი წერილი"
 
 msgctxt "Languages::usps_service_registered_without_insurance"
 msgid "Registered without insurance"
-msgstr "დარეგისტრირებულია დაზღვევის გარეშე"
+msgstr "რეგისტრირებულია დაზღვევის გარეშე"
 
 msgctxt "Languages::usps_service_registered_with_insurance"
 msgid "Registered with insurance"
-msgstr "დარეგისტრირებული დაზღვევით"
+msgstr "რეგისტრირებულია დაზღვევით"
 
 msgctxt "Languages::usps_service_return_receipt"
 msgid "Return receipt"
@@ -12779,7 +12783,7 @@ msgstr "ელ-ფოსტის დადასტურება"
 
 msgctxt "Languages::validate_secret_word"
 msgid "Validate secret word"
-msgstr "საიდუმლო სიტყვის დადასტურება"
+msgstr "კოდური სიტყვის დადასტურება"
 
 msgctxt "Languages::valid_thru"
 msgid "Valid thru (mm/yy)"
@@ -12993,11 +12997,11 @@ msgstr "The [lang_name] language cannot be deleted because it is the default sto
 
 msgctxt "Languages::warning_promotions_incorrect_condition"
 msgid "The \"[condition]\" condition can be used in groups with \"[set_value]\" conditions only."
-msgstr "პირობა \"[condition]\" შეიძლება გამოყენებული იყოს მხოლოდ პირობების ჯგუფში\"[set_value]\"."
+msgstr "პირობა \"[condition]\" შეიძლება გამოყენებული იყოს ჯგუფებში\"[set_value]\" პირობებით."
 
 msgctxt "Languages::warning_store_optimization_dev"
 msgid "Auto cache update enabled.<br /><br />Modified files are tracked in real time (including the files modified directly on server) and re-cached.<br /><br />Store performance may be slightly affected. Recommended to disable on production in the <a href=\"[link]\">Themes</a>."
-msgstr "ჩართულია ავტომატური ქეშირება.<br /><br />Modified files are tracked in real time (including the files modified directly on server) and re-cached.<br /><br />Store performance may be slightly affected. რეკომენდირებულია რომ გათიშოთ წარმოებაში <a href=\"[link]\">შაბლონის რედაქტორი</a>."
+msgstr "ჩართულია ავტომატური ქეშირება.<br /><br />Modified files are tracked in real time (including the files modified directly on server) and re-cached.<br /><br />მაღაზიის წარმადობა შესაძლოა ოდნავ შემცირდეს. რეკომენდირებულია რომ გათიშოთ წარმოებაში <a href=\"[link]\">თემებიდან/გარსიდან</a>."
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
@@ -13005,7 +13009,7 @@ msgstr "ავტომატური ქეშირება გათიშ�
 
 msgctxt "Languages::warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "ასეთი ელ-ფოსტა <b>[email]</b> უკევ დამატებულია დაგზავნის სიებში."
+msgstr "ასეთი ელ-ფოსტა <b>[email]</b> უკევ არსებობს დაგზავნის სიებში"
 
 msgctxt "Languages::warning_theme_clone_dir_exists"
 msgid "Can not clone theme, because directory you entered is already exist. Please enter another one."
@@ -13021,7 +13025,7 @@ msgstr "მითითებული E-Mail/Order ID ვერ მოიძე
 
 msgctxt "Languages::warning_variants_removal"
 msgid "Clicking on Save will remove product feature values."
-msgstr "\"დამახსოვრებაზე\" დაჭერის შემდგომ პროდუქციის ვარიანტები წაიშლება."
+msgstr "\"შენახვა\"-ზე დაჭერის შემდგომ პროდუქციის მახასიათებლები წაიშლება."
 
 msgctxt "Languages::website"
 msgid "Website"
@@ -13317,7 +13321,7 @@ msgstr "გარსის ატვირთვა"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
-msgstr "ახალი გარსის ატვირთვა და დაინსტალირება არის შესანიშნავი საშუალება რათა თქვენი მაღაზია უფრო გამორჩეული გახადოთ. თქვენ შეგიძლიათ მონიშნოთ ასატვირთად ფაილები tgz, gz ან zip გაფართოებით და დააჭიროთ<strong>ატვირთვას</strong>."
+msgstr "ახალი გარსის ატვირთვა და დაინსტალირება არის შესანიშნავი საშუალება რათა თქვენი მაღაზია კიდევ უფრო გამორჩეული გახადოთ. თქვენ შეგიძლიათ მონიშნოთ ასატვირთად ფაილები [exts] და დააჭიროთ<strong>ატვირთვას</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13361,7 +13365,7 @@ msgstr "XML parse error"
 
 msgctxt "Languages::column"
 msgid "Column"
-msgstr "კოლონა"
+msgstr "სვეტი"
 
 msgctxt "Languages::checking_core_version_is_not_suitable"
 msgid "Version of your cart ([version]) is not supported. Minimal: [min]. Maximal: [max]."
@@ -13657,7 +13661,7 @@ msgstr "მოვლენათა აღრიცხვა"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
-msgstr "რეპორტები"
+msgstr "ანგარიშები"
 
 msgctxt "SettingsSections::Security"
 msgid "Security settings"
@@ -13869,7 +13873,7 @@ msgstr "პაროლის შეცვლის მოთხოვნა პ
 
 msgctxt "SettingsOptions::show_site_info"
 msgid "Show the 'Site info' section"
-msgstr "'საიტის ინფო'-ს ჩვენება"
+msgstr "ჩანართ 'საიტის ინფო'-ს ჩვენება"
 
 msgctxt "SettingsOptions::lines_number"
 msgid "Number of grid lines"
@@ -14121,7 +14125,7 @@ msgstr "მომხმარებელთა დეპარტამენ�
 
 msgctxt "SettingsOptions::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "ავტორიზაციის ფორმა"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14129,7 +14133,7 @@ msgstr "Products list (category, search, etc) thumbnail width"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
-msgstr "Default state"
+msgstr "ნაგულისხმევი რაიონი"
 
 msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
@@ -14137,7 +14141,7 @@ msgstr "საიტის ადმინისტრატორის ელ 
 
 msgctxt "SettingsOptions::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "პროფილის შექმნის და რედაქტირების ფორმა"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
@@ -14177,7 +14181,7 @@ msgstr "Enable inventory tracking"
 
 msgctxt "SettingsOptions::use_for_email_share"
 msgid "Send to friend form"
-msgstr "Send to friend form"
+msgstr "მეგობართან გაგზავნის ფორმა"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
@@ -14213,7 +14217,7 @@ msgstr "Low stock notification threshold"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
-msgstr "Number of columns in the product list"
+msgstr "სვეტების რაოდენობა პროდუქციის ნუსხაში"
 
 msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
@@ -14285,7 +14289,7 @@ msgstr "Display the 'Pagination section' on the top of the listed object"
 
 msgctxt "SettingsOptions::default_image_previewer"
 msgid "Default image previewer"
-msgstr "Default image previewer"
+msgstr "ნაგულისხმევი სურათების დამთვალიერებელი"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_height"
 msgid "Categories list thumbnail height"
@@ -14329,11 +14333,11 @@ msgstr "Product list default sorting"
 
 msgctxt "SettingsOptions::enable_quick_view"
 msgid "Enable quick view"
-msgstr "Enable quick view"
+msgstr "სწრაფი ჩვენების ჩართვა"
 
 msgctxt "SettingsOptions::header_10080"
 msgid "Common settings"
-msgstr "Common settings"
+msgstr "დამატებითი პარამეტრები"
 
 msgctxt "SettingsOptions::date_format"
 msgid "Date format"
@@ -14549,7 +14553,7 @@ msgstr "Manual feedback"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
-msgstr "Automatic feedback"
+msgstr "ავტომატური გამოხმაურება"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
@@ -14893,7 +14897,7 @@ msgstr "(GMT-11:00) Midway Island, Samoa"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
-msgstr "Subtotal"
+msgstr "ღირებულება"
 
 msgctxt "SettingsVariants::default_products_sorting::null"
 msgid "None"

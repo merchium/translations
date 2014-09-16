@@ -7,11 +7,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-15 03:00-0400\n"
+"PO-Revision-Date: 2014-09-15 09:00-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
-msgstr "სოციალური ღილაკები"
+msgstr "სოციალური ქსელის ღილაკები"
 
 msgctxt "Addons::description::social_buttons"
 msgid "Social media and e-mail share buttons (Twitter, Facebook, etc.)"
@@ -203,7 +203,7 @@ msgstr "ენა"
 
 msgctxt "SettingsOptions::social_buttons::facebook_action_font"
 msgid "Button font"
-msgstr "Button font"
+msgstr "ღილაკის შრიფტი"
 
 msgctxt "SettingsOptions::social_buttons::facebook_colorscheme"
 msgid "Color scheme"
@@ -231,19 +231,19 @@ msgstr "Button layout"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_height"
 msgid "Button height (px)"
-msgstr "Button height (px)"
+msgstr "ღილაკის სიმაღლე (px)"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_width"
 msgid "Button width (px)"
-msgstr "Button width (px)"
+msgstr "ღილაკის სიგანე (px)"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_buttons_name"
 msgid "Button name"
-msgstr "Button name"
+msgstr "ღილაკის დასახელება"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::email_header"
 msgid "E-mail settings"
@@ -251,11 +251,11 @@ msgstr "ელ-ფოსტის პარამეტრები"
 
 msgctxt "SettingsOptions::social_buttons::email_enable"
 msgid "Show E-mail button"
-msgstr "Show E-mail button"
+msgstr "ელ-ფოსტის ღილაკის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::email_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "ჩვენება"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
@@ -279,7 +279,7 @@ msgstr "Only for the button with text counter"
 
 msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
 msgid "Medium"
-msgstr "Medium"
+msgstr "საშუალო"
 
 msgctxt "SettingsVariants::social_buttons::twitter_size::large"
 msgid "Large"
@@ -335,11 +335,11 @@ msgstr "სტანდარტი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_layout::button_count"
 msgid "With count"
-msgstr "With count"
+msgstr "მრიცხველით"
 
 msgctxt "SettingsVariants::social_buttons::facebook_layout::box_count"
 msgid "With large count"
-msgstr "With large count"
+msgstr "დიდი მრიცხველით"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::like"
 msgid "Like"
@@ -375,7 +375,7 @@ msgstr "ბულგარული"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::bn_IN"
 msgid "Bengali"
-msgstr "Bengali"
+msgstr "ბენ­გა­ლი­უ­რი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::bs_BA"
 msgid "Bosnian"
@@ -383,7 +383,7 @@ msgstr "ბოსნიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ca_ES"
 msgid "Catalan"
-msgstr "Catalan"
+msgstr "კატალონიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::cs_CZ"
 msgid "Czech"
@@ -415,7 +415,7 @@ msgstr "ინგლისური (Pirate)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::en_UD"
 msgid "English (Upside Down)"
-msgstr "English (Upside Down)"
+msgstr "ინგლისური (Upside Down)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::en_US"
 msgid "English (US)"
@@ -439,11 +439,11 @@ msgstr "ესტონური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::eu_ES"
 msgid "Basque"
-msgstr "Basque"
+msgstr "ბასკი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fa_IR"
 msgid "Persian"
-msgstr "Persian"
+msgstr "სპარსული"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fb_LT"
 msgid "Leet Speak"
@@ -451,7 +451,7 @@ msgstr "Leet Speak"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fi_FI"
 msgid "Finnish"
-msgstr "Finnish"
+msgstr "ფინური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fo_FO"
 msgid "Faroese"
@@ -471,11 +471,11 @@ msgstr "Frisian"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ga_IE"
 msgid "Irish"
-msgstr "Irish"
+msgstr "ირლანდიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::gl_ES"
 msgid "Galician"
-msgstr "Galician"
+msgstr "გალისიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::he_IL"
 msgid "Hebrew"
@@ -559,7 +559,7 @@ msgstr "ნორვეგიული (bokmal)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ne_NP"
 msgid "Nepali"
-msgstr "Nepali"
+msgstr "ნეპალური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::nl_NL"
 msgid "Dutch"

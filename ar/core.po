@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-05 03:00-0400\n"
+"PO-Revision-Date: 2014-09-15 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7405,6 +7405,10 @@ msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
 msgstr "المنتج <strong>[product]</strong> يحتوي على تركيبة خيارات خيارات غير متاحة. تم حذف المنتج من السلّة"
 
+msgctxt "Languages::product_disabled_options"
+msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+
 msgctxt "Languages::product_s"
 msgid "Product(s)"
 msgstr "منتج"
@@ -12101,6 +12105,10 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "صحيح"
 
+msgctxt "Languages::ttc_delivery_time"
+msgid "Arbitrary text to be shown along with the shipping method title."
+msgstr "Arbitrary text to be shown along with the shipping method title."
+
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
 msgstr "حذف كل المناطق الحالية قبل استيراد الملف"
@@ -12116,10 +12124,6 @@ msgstr "شعبية المنتج تبنى على عدد إضافة المنتج �
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "كل اسماء دومينات واجهات الزوار يجب أن تكون موجهة لنفس عنوان الآي بي. ملاحظة: حول إلى \"كل المتاجر\" للتحرير"
-
-msgctxt "Languages::ttc_usergroups"
-msgid "At least one item should be selected"
-msgstr "يجب اختيار عنصر واحد على الأقل"
 
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
@@ -12210,12 +12214,12 @@ msgid "Non-downloadable products with zero weight are handled as having minimal 
 msgstr "المنتجات التي لا يتم تحميلها مع وزن صفر يتم التعامل معها كأنها لديها وزن محتمل غير صفري"
 
 msgctxt "Languages::tt_views_products_update_categories"
-msgid "Please select a category to be displayed in breadcrumbs."
-msgstr "يرجى اختيار فئة ليتم عرضها في المسار."
+msgid "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Categories to be displayed in the navigation breadcrumbs."
 
 msgctxt "Languages::tt_views_products_update_inventory"
-msgid "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
-msgstr "يمكن تحرير المخزون فقط إذا كان الخيار 'تفعيل تعقب المخزون' محدد"
+msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."

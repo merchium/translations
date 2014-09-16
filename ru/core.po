@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-11 07:00-0400\n"
+"PO-Revision-Date: 2014-09-15 09:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2739,7 +2739,7 @@ msgstr "день"
 
 msgctxt "Languages::days"
 msgid "days"
-msgstr "в днях"
+msgstr "дн."
 
 msgctxt "Languages::db_backup_restore"
 msgid "DB Backup/Restore"
@@ -7405,6 +7405,10 @@ msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
 msgstr "У товара <strong>[product]</strong> выбраны опции из запрещенных комбинаций. Товар был удален из корзины."
 
+msgctxt "Languages::product_disabled_options"
+msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "У товара <strong>[product]</strong> есть опции или их варианты, которые сейчас недоступны, поэтому товар был удален из корзины"
+
 msgctxt "Languages::product_s"
 msgid "Product(s)"
 msgstr "Товар(ы)"
@@ -7683,7 +7687,7 @@ msgstr "Оптовые скидки"
 
 msgctxt "Languages::qty_discount_type_tooltip"
 msgid "Fixed amount/Percentage to be taken off the price"
-msgstr "Фиксированная сумма/процент от цены товара"
+msgstr "Фиксированная сумма или процент от цены товара"
 
 msgctxt "Languages::quantity"
 msgid "Quantity"
@@ -12101,6 +12105,10 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "Истина"
 
+msgctxt "Languages::ttc_delivery_time"
+msgid "Arbitrary text to be shown along with the shipping method title."
+msgstr "Текст рядом с названием способа доставки."
+
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
 msgstr "Удалить текущие локации перед импортом локаций из файла"
@@ -12116,10 +12124,6 @@ msgstr "Рейтинг популярности товара, рассчитыв
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "Все доменные имена витрин магазинов должны быть связаны с одним и тем же IP-адресом. Примечание: Переключитесь на «Все магазины» для редактирования."
-
-msgctxt "Languages::ttc_usergroups"
-msgid "At least one item should be selected"
-msgstr "Хотя бы один вариант должен быть выбран"
 
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
@@ -12207,15 +12211,15 @@ msgstr "Используйте это поле, чтобы задать мини
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_weight"
 msgid "Non-downloadable products with zero weight are handled as having minimal possible non-zero weight"
-msgstr "Нецифровые товары с нулевым весом доставляются как товары, имеющие минимальный возможный ненулевой вес"
+msgstr "Для расчета стоимости доставки товару с нулевым весом (не цифровому) автоматически назначается минимальный ненулевой вес."
 
 msgctxt "Languages::tt_views_products_update_categories"
-msgid "Please select a category to be displayed in breadcrumbs."
-msgstr "Выберите категории для отображения в «хлебных крошках»."
+msgid "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Категории, которые будут отображаться в навигации («хлебных крошках»)."
 
 msgctxt "Languages::tt_views_products_update_inventory"
-msgid "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
-msgstr "Редактировать наличие товара на складе можно, только если включена настройка «Включить отслеживание количества товаров на складе» (Настройки → Общие)"
+msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Отслеживать количество товара в наличии с учетом или без учета опций. Включите настройку «Включить отслеживание количества товаров на складе» (Настройки → Общие), чтобы изменить значение."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12223,7 +12227,7 @@ msgstr "Рекомендованная производителем рознич
 
 msgctxt "Languages::tt_views_products_update_out_of_stock_actions"
 msgid "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
-msgstr "Для варианта «Предзаказ» товар должен быть в наличии, а для варианта «Подписаться на уведомления» ― отсутствовать. Также, настройка «Подписаться на уведомления» не применяется к товарам, количество которых отслеживается с учетом опций."
+msgstr "Для варианта «Предзаказ» товар должен быть в наличии, а для варианта «Подписаться на уведомления» ― отсутствовать. Также, вариант «Подписаться на уведомления» не применяется к товарам, количество которых отслеживается с учетом опций."
 
 msgctxt "Languages::tt_views_products_update_product_details_layout"
 msgid "By default, the template that is defined in the settings of the main product category is used"
@@ -12551,7 +12555,7 @@ msgstr "Группа"
 
 msgctxt "Languages::usergroups"
 msgid "User groups"
-msgstr "Группы"
+msgstr "Группы пользователей"
 
 msgctxt "Languages::usergroups_menu_description"
 msgid "List of user groups that exist in your store."
@@ -12571,7 +12575,7 @@ msgstr "Привилегии группы"
 
 msgctxt "Languages::usergroup_request_by_customer"
 msgid "User group request by customer"
-msgstr "Запрос группы покупателем"
+msgstr "Запрос на добавление в группу от покупателя"
 
 msgctxt "Languages::username"
 msgid "Username"

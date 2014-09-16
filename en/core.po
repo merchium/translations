@@ -7400,6 +7400,10 @@ msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
 msgstr "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
 
+msgctxt "Languages::product_disabled_options"
+msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+
 msgctxt "Languages::product_s"
 msgid "Product(s)"
 msgstr "Product(s)"
@@ -12096,6 +12100,10 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "True"
 
+msgctxt "Languages::ttc_delivery_time"
+msgid "Arbitrary text to be shown along with the shipping method title."
+msgstr "Arbitrary text to be shown along with the shipping method title."
+
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
 msgstr "Delete all existing locations before importing locations from the file"
@@ -12111,10 +12119,6 @@ msgstr "Product popularity rating based on how many times the storefront has bee
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
-
-msgctxt "Languages::ttc_usergroups"
-msgid "At least one item should be selected"
-msgstr "At least one item should be selected"
 
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
@@ -12205,12 +12209,12 @@ msgid "Non-downloadable products with zero weight are handled as having minimal 
 msgstr "Non-downloadable products with zero weight are handled as having minimal possible non-zero weight"
 
 msgctxt "Languages::tt_views_products_update_categories"
-msgid "Please select a category to be displayed in breadcrumbs."
-msgstr "Please select a category to be displayed in breadcrumbs."
+msgid "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Categories to be displayed in the navigation breadcrumbs."
 
 msgctxt "Languages::tt_views_products_update_inventory"
-msgid "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
-msgstr "Inventory is available for editing only when the 'Enable inventory tracking' option is enabled"
+msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
