@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-15 09:01-0400\n"
+"PO-Revision-Date: 2014-09-16 10:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3998,8 +3998,8 @@ msgid "Show in product list"
 msgstr "Mostrar na lista de artigos"
 
 msgctxt "Languages::feature_display_on_header"
-msgid "Show in product header"
-msgstr "Mostrar no cabeçalho do artigo"
+msgid "Show in header on the product details page"
+msgstr "Show in header on the product details page"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -12234,12 +12234,8 @@ msgid "By default, the template that is defined in the settings of the main prod
 msgstr "By default, the template that is defined in the settings of the main product category is used"
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
-msgid "If enabled, the product feature is displayed on catalog pages (product list pages)"
-msgstr "If enabled, the product feature is displayed on catalog pages (product list pages)"
-
-msgctxt "Languages::tt_views_product_features_update_feature_display_on_header"
-msgid "If enabled, the feature is shown under the product header"
-msgstr "If enabled, the feature is shown under the product header"
+msgid "Show this feature on product list pages along with product description."
+msgstr "Show this feature on product list pages along with product description."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12276,10 +12272,6 @@ msgstr "If enabled, the option is taken into account when forming the product in
 msgctxt "Languages::tt_views_product_options_update_regexp"
 msgid "Regular expression specifying a pattern to match."
 msgstr "Regular expression specifying a pattern to match."
-
-msgctxt "Languages::tt_views_product_options_update_required"
-msgid "If enabled, the option is mandatory to fill in."
-msgstr "If enabled, the option is mandatory to fill in."
 
 msgctxt "Languages::tt_views_promotions_update_stop_other_rules"
 msgid "If enabled, the other promotions are not applied."

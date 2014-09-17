@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-15 09:00-0400\n"
+"PO-Revision-Date: 2014-09-16 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3998,8 +3998,8 @@ msgid "Show in product list"
 msgstr "In Produktliste anzeigen"
 
 msgctxt "Languages::feature_display_on_header"
-msgid "Show in product header"
-msgstr "In Produkttitel anzeigen"
+msgid "Show in header on the product details page"
+msgstr "Show in header on the product details page"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -11343,7 +11343,7 @@ msgstr "<p>Ihr Store wurde während der Upgrade Prozedur geschlossen. Wir empfeh
 
 msgctxt "Languages::text_uc_upgrade_completed_with_errors"
 msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Es haben sich Fehler während des Upgrades ergeben.</p><p> Sie können unseren Technischen Support zur Hilfe unter folgenden E-mail Adresse kontaktieren <a href=\"mailto:info@cs-cart-deutsch.com\"</a>.</p><p> Sie können Ihren Store wieder auf die vorhergehende Version zurücksetzen indem Sie auf folgenden Link klicken <a href=\"[restore_link]\">restore</a> </p>"
+msgstr "<p>Es haben sich Fehler während des Upgrades ergeben.</p><p> Sie können unseren Technischen Support zur Hilfe unter folgenden E-mail Adresse kontaktieren <a href=\"[href]\">Support Team</a>.</p><p> Sie können Ihren Store wieder auf die vorhergehende Version zurücksetzen indem Sie auf folgenden Link klicken <a href=\"[restore_link]\">restore</a> </p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -12234,12 +12234,8 @@ msgid "By default, the template that is defined in the settings of the main prod
 msgstr "Als Default wird das Template benutzt, die in den Einstellungen der Haupt- Produktekategorie definiert ist"
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
-msgid "If enabled, the product feature is displayed on catalog pages (product list pages)"
-msgstr "Wenn aktiviert, wir die Produkteigenschaft in den Katalogseiten (Seiten Produktliste) angezeigt"
-
-msgctxt "Languages::tt_views_product_features_update_feature_display_on_header"
-msgid "If enabled, the feature is shown under the product header"
-msgstr "Wenn aktiviert, wir die Eigenschaft unter dem Produkttitel angezeigt"
+msgid "Show this feature on product list pages along with product description."
+msgstr "Show this feature on product list pages along with product description."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12276,10 +12272,6 @@ msgstr "Wenn aktiviert, wird die Option berücksichtigt wenn das Produkt Inventa
 msgctxt "Languages::tt_views_product_options_update_regexp"
 msgid "Regular expression specifying a pattern to match."
 msgstr "Befehl der ein \"Pattern\" definiert das überinstimmen muss"
-
-msgctxt "Languages::tt_views_product_options_update_required"
-msgid "If enabled, the option is mandatory to fill in."
-msgstr "Wenn aktiviert, ist das Ausfüllen der Option obligatorisch."
 
 msgctxt "Languages::tt_views_promotions_update_stop_other_rules"
 msgid "If enabled, the other promotions are not applied."
