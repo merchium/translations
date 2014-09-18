@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-08 10:00-0400\n"
+"PO-Revision-Date: 2014-09-18 10:00-0400\n"
 
 msgctxt "Addons::name::setup_wizard"
 msgid "Setup wizard"
@@ -391,7 +391,7 @@ msgstr "SCID"
 
 msgctxt "Languages::sw.remove_demo_data_text"
 msgid "Remove demo data"
-msgstr "Удалить демо данные - заказы, покупателей, каталог продуктов - из моего магазина"
+msgstr "Удалить заказы, товары, категории, профили пользователей и связанные данные"
 
 msgctxt "Languages::sw.remove"
 msgid "Remove"
@@ -399,7 +399,7 @@ msgstr "Удалить"
 
 msgctxt "Languages::sw.demo_data_removed"
 msgid "Demo data has been removed."
-msgstr "Демо данные удалены"
+msgstr "Данные удалены."
 
 msgctxt "Languages::sw.error_removing_demo_data"
 msgid "An error occurred while removing demo data"
@@ -407,7 +407,7 @@ msgstr "Ошибка удаления демо данных"
 
 msgctxt "Languages::sw.confirm_demo_data_removal_title"
 msgid "Remove demo data?"
-msgstr "Удалить демо данные?"
+msgstr "Удалить данные?"
 
 msgctxt "Languages::sw.text_confirm_demo_data_removal"
 msgid "All orders, products, product categories, customer profiles, and associated data (tags, comments, etc.) including the data added by you <b>will be permanently removed.</b> This operation cannot be undone. Are you sure you want to continue?"
@@ -415,11 +415,11 @@ msgstr "Заказы, товары, категории товаров, проф�
 
 msgctxt "Languages::sw.delete_demo_data"
 msgid "Delete demo data"
-msgstr "Удалить демо-данные"
+msgstr "Удалить данные"
 
 msgctxt "Languages::sw.keep_demo_data"
 msgid "Keep demo data"
-msgstr "Оставить демо-данные"
+msgstr "Оставить данные"
 
 msgctxt "Languages::sw.yandex_money_application_for_connection_text"
 msgid "Application for connection, agent Merchium [url]"
