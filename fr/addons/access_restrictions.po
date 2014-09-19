@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-01 08:05-0400\n"
+"PO-Revision-Date: 2014-09-18 20:00-0400\n"
 
 msgctxt "Addons::name::access_restrictions"
 msgid "Access restrictions"
@@ -15,7 +15,7 @@ msgstr "Restrictions d'accès"
 
 msgctxt "Addons::description::access_restrictions"
 msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
-msgstr "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "Vous permet de limiter la vitrine et l'espace administrateur d'accéder à certaines adresses IP avec différentes options"
 
 msgctxt "Languages::access_restrictions"
 msgid "Access restrictions"
@@ -27,7 +27,7 @@ msgstr "Ajouter des nouvelles adresses IP"
 
 msgctxt "Languages::new_ips"
 msgid "New IPs"
-msgstr "New IPs"
+msgstr "Nouvelles adresses IP"
 
 msgctxt "Languages::add_domains"
 msgid "Add domains"
@@ -35,11 +35,11 @@ msgstr "Ajouter des nouveaux domaines"
 
 msgctxt "Languages::new_domains"
 msgid "New domains"
-msgstr "New domains"
+msgstr "Nouveaux domaines"
 
 msgctxt "Languages::add_emails"
 msgid "Add e-mail addresses"
-msgstr "Add e-mail addresses"
+msgstr "Ajoutez les adresses e-mail"
 
 msgctxt "Languages::new_emails"
 msgid "New e-mail addresses"
@@ -47,15 +47,15 @@ msgstr "Ajouter des nouvelles adresses emails"
 
 msgctxt "Languages::new_credit_card"
 msgid "New credit card"
-msgstr "New credit card"
+msgstr "Nouvelle carte de crédit"
 
 msgctxt "Languages::add_credit_card"
 msgid "Add credit card"
-msgstr "Add credit card"
+msgstr "Ajouter carte de crédit"
 
 msgctxt "Languages::privileges.manage_access_restrictions"
 msgid "Manage access restrictions"
-msgstr "Manage access restrictions"
+msgstr "Gérer les restrictions d'accès"
 
 msgctxt "Languages::domain"
 msgid "Domain"
@@ -127,7 +127,7 @@ msgstr "Vous pouvez utiliser les caractères pour le \"Domaine\", \"E-mail\" et 
 
 msgctxt "Languages::ips"
 msgid "IPs"
-msgstr "IPs"
+msgstr "Adresses IP"
 
 msgctxt "Languages::make_permanent"
 msgid "Make permanent"
@@ -139,49 +139,49 @@ msgstr "Numéro de carte de crédit"
 
 msgctxt "SettingsSections::access_restrictions::general"
 msgid "General"
-msgstr "General"
+msgstr "Générale"
 
 msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
 msgid "Administrator area settings"
-msgstr "Administrator area settings"
+msgstr "Paramètres de la zone administrateur"
 
 msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
 msgid "Allow login to the admin area from specified IPs only"
-msgstr "Allow login to the admin area from specified IPs only"
+msgstr "Autoriser la connexion à la zone d'administration de certaines adresses IP uniquement"
 
 msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
 msgid "Block IP after a number of unsuccessful attempts"
-msgstr "Block IP after a number of unsuccessful attempts"
+msgstr "Bloquer l'IP après un nombre de tentatives infructueuses"
 
 msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
 msgid "Number of unsuccessful attempts"
-msgstr "Number of unsuccessful attempts"
+msgstr "Nombre de tentatives infructueuses"
 
 msgctxt "SettingsOptions::access_restrictions::login_intervals"
 msgid "Time between unsuccessful login attempts (seconds)"
-msgstr "Time between unsuccessful login attempts (seconds)"
+msgstr "Temps entre les tentatives de connexion infructueuses (secondes)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Time for which the IP should be blocked (hours)"
+msgstr "Le temps pour lequel l'IP doit être bloqué (heures)"
 
 msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
 msgid "Customer area settings"
-msgstr "Customer area settings"
+msgstr "Paramètres de la zone à la clientèle"
 
 msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
 msgid "Block IP after a number of unsuccessful attempts"
-msgstr "Block IP after a number of unsuccessful attempts"
+msgstr "Bloquer l'IP après un nombre de tentatives infructueuses"
 
 msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
 msgid "Number of unsuccessful attempts"
-msgstr "Number of unsuccessful attempts"
+msgstr "Nombre de tentatives infructueuses"
 
 msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
 msgid "Time between unsuccessful login attempts (seconds)"
-msgstr "Time between unsuccessful login attempts (seconds)"
+msgstr "Temps entre les tentatives de connexion infructueuses (secondes)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block_customer"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Time for which the IP should be blocked (hours)"
+msgstr "Le temps pour lequel l'IP doit être bloqué (heures)"
 
