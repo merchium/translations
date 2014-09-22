@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-19 04:00-0400\n"
+"PO-Revision-Date: 2014-09-22 08:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -15380,4 +15380,12 @@ msgstr "Пользовательский HTML код"
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
 msgstr "Этот HTML-код будет выведен между тэгами &lt;head&gt; и &lt;/head&gt;"
+
+msgctxt "Languages::category_deletion_side_effects"
+msgid "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+
+msgctxt "Languages::bulk_category_deletion_side_effects"
+msgid "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
 
