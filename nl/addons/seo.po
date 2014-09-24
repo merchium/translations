@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-23 08:00-0400\n"
+"PO-Revision-Date: 2014-09-23 17:00-0400\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -19,7 +19,7 @@ msgstr "Search zoekmachine-vriendelijke URLs instellingen aanzetten"
 
 msgctxt "Languages::seo_rules_menu_description"
 msgid "Use this section to define global rules for the URLs rewritten in your store."
-msgstr "Gebruik deze sectie om regels te definiëren, voor de URLs te herschrijven in uw webwinkel."
+msgstr "Gebruik dit gedeelte om regels te maken voor het herschrijven van URL's in uw webwinkel."
 
 msgctxt "Languages::seo.redirects_manager_menu_description"
 msgid "Manages redirect rules from old URLs"
@@ -27,7 +27,7 @@ msgstr "Beheert omleiding regels van oude URL 's"
 
 msgctxt "Languages::controller_description"
 msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
-msgstr "Als u wilt een SEO-naam wil opgeven voor de URL, bijvoorbeeld http://example.com/index.php?dispatch= <b>categories.catalog</b>, moet u de \"<b>categories.catalog</b>\" waarde invoeren in het veld \"<b>de waarde van de parameter\"dispatch\"van de URL</b>\" en de SEO-naam opgeven in het veld \"<b>SEO naam</b>\"."
+msgstr "Als u een SEO-naam wilt opgeven voor de URL, bijvoorbeeld http://example.com/index.php?dispatch= <b>categories.catalog</b>, moet u de \"<b>categories.catalog</b>\" waarde invoeren in het veld \"<b>de waarde van de  \"dispatch\"-parameter van de URL</b>\" en de SEO-naam invoeren in het veld \"<b>SEO naam</b>\"."
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
@@ -83,7 +83,7 @@ msgstr "Nieuwe redirect"
 
 msgctxt "Languages::seo.error_old_url_exists"
 msgid "The URL you're redirecting from is already exist"
-msgstr "De URL die u doorverwijst van is reeds bestaande"
+msgstr "De URL waarvan u doorverwijst bestaat al"
 
 msgctxt "Languages::seo.rich_snippets"
 msgid "Google rich snippets preview"
@@ -103,11 +103,11 @@ msgstr "Omleiding van oude URL maken"
 
 msgctxt "Languages::seo.error_incorrect_url"
 msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "Ongeldig formaat voor <b>[url]</b> URL. Bijvoorbeeld, als uw URL is <b>http://example.com/path/to/object</b>, moet u invoeren<b>/path/to/object</b>"
+msgstr "Ongeldig formaat voor de URL <b>[url]</b>. Als bijvoorbeeld uw URL <b>http://example.com/pad/naar/object</b> is, moet u <b>/pad/naar/object</b> invoeren"
 
 msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
 msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "Bijvoorbeeld, als uw URL is <b>http://example.com/path/to/object</b>, moet u invoeren <b>/path/to/object</b>"
+msgstr "Bijvoorbeeld, als uw URL <b>http://example.com/pad/naar/object</b> is, moet u  <b>/pad/naar/object</b> invoeren"
 
 msgctxt "SettingsSections::seo::general"
 msgid "General"

@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-23 08:00-0400\n"
+"PO-Revision-Date: 2014-09-23 17:00-0400\n"
 
 msgctxt "Addons::name::watermarks"
 msgid "Watermarks"
@@ -15,7 +15,7 @@ msgstr "Watermerken"
 
 msgctxt "Addons::description::watermarks"
 msgid "Allows you to add watermarks to product and category images"
-msgstr "Hiermee kunt u watermerken toevoegen aan het product en de categorie afbeeldingen"
+msgstr "Hiermee kunt u watermerken toevoegen aan product- en categorie afbeeldingen"
 
 msgctxt "Languages::wt_watermarks"
 msgid "Watermarks"
@@ -59,7 +59,7 @@ msgstr "Tekstkleur"
 
 msgctxt "Languages::wt_font_size_icon"
 msgid "Font size (thumbnail)"
-msgstr "Tekstgrootte (miniatuurafbeelding)"
+msgstr "Tekstgrootte (miniatuur)"
 
 msgctxt "Languages::wt_font_size_detailed"
 msgid "Font size (larger image)"
@@ -79,7 +79,7 @@ msgstr "Kan het watermerk niet toepassen op [image_type]. De watermerk afbeeldin
 
 msgctxt "Languages::wt_icons"
 msgid "thumbnails"
-msgstr "miniatuurafbeeldingen"
+msgstr "miniaturen"
 
 msgctxt "Languages::wt_detailed"
 msgid "popup larger images"
@@ -87,23 +87,23 @@ msgstr "popup grotere afbeeldingen"
 
 msgctxt "Languages::wt_images_access_description"
 msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
-msgstr "Om de toegang tot de oorspronkelijke afbeeldingen te weigeren, dienen de volgende instructies in het 'htaccess' bestand en in de 'images' folder van uw installatie te worden geplaatst. Het beschermd uw originele afbeeldingen. Zelfs als een origineel afbeelding wordt geopend, wordt het corresponderende watermerk in de plaats getoond."
+msgstr "Om toegang tot de oorspronkelijke afbeeldingen te weigeren, dienen de volgende instructies in het 'htaccess' bestand en in de 'images' map van uw installatie te worden geplaatst. Het beschermd uw originele afbeeldingen. Zelfs als een originele afbeelding wordt geopend, wordt het corresponderende watermerk getoond."
 
 msgctxt "Languages::wt_watermarks_access_description"
 msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
-msgstr "Om watermerk afbeeldingen automatisch te genereren, zelfs als ze niet worden aangevraagd van uw winkel pagina's, voeg het '.htaccess' bestand toe met de volgende instructies in de 'images / watermerk' directorie van uw installatie."
+msgstr "Voeg het '.htaccess' bestand toe met de volgende instructies in de 'images / watermerk' map van uw installatie, om afbeeldingen met een watermerk automatisch te genereren, ook als ze niet worden opgevraagd via de pagina's van uw webwinkel."
 
 msgctxt "Languages::wt_access_note"
 msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
-msgstr "Houdt u er rekening mee dat als je uitschakeld of verwijderd van de 'watermerken' add-on, moet je deze instructies handmatig verwijderen uit '.htaccess' bestanden. Anders zijn de categorie en product afbeeldingen niet beschikbaar."
+msgstr "Houdt er rekening mee dat als de watermerken add-on is uitgeschakeld of verwijderd, deze instructies handmatig verwijderd moeten worden uit het '.htaccess' bestand. Anders zijn de categorie- en product afbeeldingen niet beschikbaar."
 
 msgctxt "Languages::wt_access_warning"
 msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
-msgstr "Watermerk creëren is uitgeschakeld. Als er sprake is van \"Herschrijf watermerk regels\" instructies in de \"images / .htaccess\" bestand, moet je deze handmatig verwijderen. Anders zijn de categorie en product afbeeldingen niet beschikbaar."
+msgstr "Watermerk creëren is uitgeschakeld. Als er \"Herschrijf watermerk regels\" in het \"images / .htaccess\" bestand staan, moeten deze handmatig worden verwijderd. Anders zijn de categorie- en product afbeeldingen niet beschikbaar."
 
 msgctxt "Languages::wt_images_access_info"
 msgid "Images access"
-msgstr "Toegang afbeeldingen"
+msgstr "Afbeeldingen toegang"
 
 msgctxt "SettingsSections::watermarks::general"
 msgid "General"
@@ -124,7 +124,7 @@ msgstr "Product watermerken"
 
 msgctxt "SettingsOptions::watermarks::use_for_product_icons"
 msgid "Resized images"
-msgstr "Gewijzigde afbeeldingen"
+msgstr "Geschaalde afbeeldingen"
 
 msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
 msgid "Original size images"
@@ -136,7 +136,7 @@ msgstr "Categorie watermerken"
 
 msgctxt "SettingsOptions::watermarks::use_for_category_icons"
 msgid "Resized images"
-msgstr "Gewijzigde afbeeldingen"
+msgstr "Geschaalde afbeeldingen"
 
 msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
 msgid "Original size images"
@@ -144,5 +144,5 @@ msgstr "Originele grootte afbeeldingen"
 
 msgctxt "SettingsOptions::watermarks::images_access_info"
 msgid "Images access"
-msgstr "Toegang afbeeldingen"
+msgstr "Afbeeldingen toegang"
 

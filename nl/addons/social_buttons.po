@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-23 08:00-0400\n"
+"PO-Revision-Date: 2014-09-23 17:00-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -23,7 +23,7 @@ msgstr "Facebook"
 
 msgctxt "Languages::facebook_obj_type"
 msgid "Facebook object type"
-msgstr "Facebook objecttype"
+msgstr "Facebook object type"
 
 msgctxt "Languages::fb_activities"
 msgid "Activities"
@@ -131,7 +131,7 @@ msgstr "Weergeven op"
 
 msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
 msgid "Product details pages"
-msgstr "Product detailspagina's"
+msgstr "Product detailpagina's"
 
 msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
 msgid "Pages"
@@ -139,7 +139,7 @@ msgstr "Pagina's"
 
 msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
 msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
-msgstr "U kunt het blok te configureren en de code verkrijgen op <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr "U kunt het blok configureren en de code verkrijgen op <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
 
 msgctxt "SettingsOptions::social_buttons::twitter_enable"
 msgid "Show Twitter button"
@@ -179,23 +179,23 @@ msgstr "De URL van de pagina die u leuk vindt"
 
 msgctxt "SettingsOptions::social_buttons::facebook_send"
 msgid "Include a Send button with the Like button"
-msgstr "Zijn voorzien van een Verzend button met de Vind Ik Leuk button"
+msgstr "Zijn voorzien van een Verzend button met de Vind Ik Leuk knop"
 
 msgctxt "SettingsOptions::social_buttons::facebook_width"
 msgid "Width of the Like button (px)"
-msgstr "Breedte van de Vind ik leuk button (px)"
+msgstr "Breedte van de Vind ik leuk button (in pixels)"
 
 msgctxt "SettingsOptions::social_buttons::facebook_layout"
 msgid "Button layout"
-msgstr "Button lay-out"
+msgstr "Opmaak knop"
 
 msgctxt "SettingsOptions::social_buttons::facebook_show_faces"
 msgid "Display profile photos"
-msgstr "Weergave profielfoto's"
+msgstr "Profielfoto's weergeven"
 
 msgctxt "SettingsOptions::social_buttons::facebook_action"
 msgid "Button verb"
-msgstr "Button verb"
+msgstr "Werkwoord knop"
 
 msgctxt "SettingsOptions::social_buttons::facebook_lang"
 msgid "Language"
@@ -227,7 +227,7 @@ msgstr "VKontakte app ID"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_button_style"
 msgid "Button layout"
-msgstr "Button lay-out"
+msgstr "Knop opmaak"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_height"
 msgid "Button height (px)"
@@ -235,11 +235,11 @@ msgstr "Knop hoogte (in pixels)"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_width"
 msgid "Button width (px)"
-msgstr "Button breedte (px)"
+msgstr "Knop breedte (in pixels)"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_buttons_name"
 msgid "Button name"
-msgstr "Buttonnaam"
+msgstr "Naam knop"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_display_on"
 msgid "Display on"
@@ -251,7 +251,7 @@ msgstr "E-mailinstellingen"
 
 msgctxt "SettingsOptions::social_buttons::email_enable"
 msgid "Show E-mail button"
-msgstr "E-mail button weergeven"
+msgstr "E-mail knop weergeven"
 
 msgctxt "SettingsOptions::social_buttons::email_display_on"
 msgid "Display on"
@@ -259,11 +259,11 @@ msgstr "Weergeven op"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
-msgstr "Gebruikersnaam om de tweet te schrijven (bv: 'via @gebruikersnaam')"
+msgstr "Toegekende gebruikersnaam aan de tweet  (bv: 'via @gebruikersnaam')"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
 msgid "Specify any Facebook app ID, otherwise the button will not be shown"
-msgstr "Een Facebook app ID opgeven, anders zal de button niet worden getoond"
+msgstr "Geef een Facebook app ID op, anders zal de knop niet worden weergegeven"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_href"
 msgid "Leave empty to use an actual page URL"
@@ -271,11 +271,11 @@ msgstr "Laat leeg om een actuele pagina URL te gebruiken"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
 msgid "Enable to display profile photos below the button (standard layout only)"
-msgstr "Inschakelen om profiel foto's weer te geven onder de button (allen standard layout)"
+msgstr "Inschakelen om profielfoto's weer te geven onder de knop  (alleen standaard opmaak)"
 
 msgctxt "SettingsTooltips::social_buttons::vkontakte_width"
 msgid "Only for the button with text counter"
-msgstr "Alleen voor de button met tekst counter"
+msgstr "Alleen voor de knop met tekst teller"
 
 msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
 msgid "Medium"
@@ -295,11 +295,11 @@ msgstr "Horizontaal"
 
 msgctxt "SettingsVariants::social_buttons::twitter_display_count::vertical"
 msgid "vertical"
-msgstr "vertikaal"
+msgstr "verticaal"
 
 msgctxt "SettingsVariants::social_buttons::email_display_on::products"
 msgid "Product details pages"
-msgstr "Product detailspagina's"
+msgstr "Product detailpagina's"
 
 msgctxt "SettingsVariants::social_buttons::email_display_on::pages"
 msgid "Pages"
@@ -307,7 +307,7 @@ msgstr "Pagina 's"
 
 msgctxt "SettingsVariants::social_buttons::twitter_display_on::products"
 msgid "Product details pages"
-msgstr "Product detailspagina's"
+msgstr "Product detailpagina's"
 
 msgctxt "SettingsVariants::social_buttons::twitter_display_on::pages"
 msgid "Pages"
@@ -315,7 +315,7 @@ msgstr "Pagina 's"
 
 msgctxt "SettingsVariants::social_buttons::facebook_display_on::products"
 msgid "Product details pages"
-msgstr "Product detailspagina's"
+msgstr "Product detailpagina's"
 
 msgctxt "SettingsVariants::social_buttons::facebook_display_on::pages"
 msgid "Pages"
@@ -323,7 +323,7 @@ msgstr "Pagina 's"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::products"
 msgid "Product details pages"
-msgstr "Product detailspagina's"
+msgstr "Product detailpagina's"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::pages"
 msgid "Pages"
@@ -335,11 +335,11 @@ msgstr "Standaard"
 
 msgctxt "SettingsVariants::social_buttons::facebook_layout::button_count"
 msgid "With count"
-msgstr "Met count"
+msgstr "Met teller"
 
 msgctxt "SettingsVariants::social_buttons::facebook_layout::box_count"
 msgid "With large count"
-msgstr "Met grote count"
+msgstr "Met grote teller"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::like"
 msgid "Like"
@@ -415,7 +415,7 @@ msgstr "Engels (Pirate)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::en_UD"
 msgid "English (Upside Down)"
-msgstr "Engels (ondersteboven)"
+msgstr "Engels (Upside Down)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::en_US"
 msgid "English (US)"
@@ -531,7 +531,7 @@ msgstr "Koerdische"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::la_VA"
 msgid "Latin"
-msgstr "Latijn"
+msgstr "Latijns"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::lt_LT"
 msgid "Lithuanian"
@@ -543,7 +543,7 @@ msgstr "Lets"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::mk_MK"
 msgid "Macedonian"
-msgstr "Macedonische"
+msgstr "Macedonisch"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ml_IN"
 msgid "Malayalam"
@@ -695,7 +695,7 @@ msgstr "Donker"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::full"
 msgid "Button with a text counter"
-msgstr "Knop met een tekstteller"
+msgstr "Knop met een tekst teller"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::button"
 msgid "Button with a little counter"
@@ -707,7 +707,7 @@ msgstr "Mini knop"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::Vertical"
 msgid "Mini button, counter on top"
-msgstr "Mini knop, teller op de top"
+msgstr "Mini knop, teller boven"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::interesting"
 msgid "It's interesting"

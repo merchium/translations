@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-23 09:01-0400\n"
+"PO-Revision-Date: 2014-09-24 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -39,11 +39,11 @@ msgstr "Abszolút"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed addons"
-msgstr "Installed addons"
+msgstr "Telepített bővítmények"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available addons"
-msgstr "Browse all available addons"
+msgstr "Összes elérhető bővítmény megtekintése"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -895,11 +895,11 @@ msgstr "Mikortól legyen elérhető"
 
 msgctxt "Languages::installed_themes"
 msgid "Installed themes"
-msgstr "Installed themes"
+msgstr "Telepített arculatok"
 
 msgctxt "Languages::browse_all_available_themes"
 msgid "Browse all available themes"
-msgstr "Browse all available themes"
+msgstr "Összes elérhető arculat megtekintése"
 
 msgctxt "Languages::currently_in_use"
 msgid "Currently in use"
@@ -1491,7 +1491,7 @@ msgstr "Nincs elérhető fizetési kód, ezért nem folytathatja a rendelést."
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
-msgstr "Cannot remove the active theme"
+msgstr "Az aktív arculatot nem lehet eltávolítani"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
@@ -2935,7 +2935,7 @@ msgstr "Elutasítva"
 
 msgctxt "Languages::dependence"
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "Rendezés"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"
@@ -3383,7 +3383,7 @@ msgstr "Kiadás típusa"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "Tartalom szerkesztése a webáruházban"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -3807,7 +3807,7 @@ msgstr "A kiválasztott email címhez tartozó cég már létezik, kérjük vál
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC túl rövid."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -6163,7 +6163,7 @@ msgstr "Sablonok szerkesztése az éles oldalon"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Nyelvi elemek szerkesztése valós időben a webáruházban"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -7079,7 +7079,7 @@ msgstr "Arculatok kezelése"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Nyelvi elemek szerkesztése valós időben a webáruházban"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
@@ -11171,7 +11171,7 @@ msgstr "<p>Az alábbi értékeket állítsa be a Thaiepay kereskedői beállít�
 
 msgctxt "Languages::text_thumbnail_manual_loading"
 msgid "Thumbnails will be generated from detailed images automatically, but you can also <a id=\"[id]\" class=\"[class]\">upload them manually.</a>"
-msgstr "A kisebb méretű képek automatikusan kerülnek generálásra, de természetesen"
+msgstr "A kisebb méretű képek automatikusan kerülnek generálásra, de természetesen <a id=\"[id]\" class=\"[class]\">feltöltheti manuálisan is.</a>"
 
 msgctxt "Languages::text_tinymce"
 msgid "TinyMCE"
@@ -15331,7 +15331,7 @@ msgstr "Cím típusa"
 
 msgctxt "ProfileFields::b_vat_id"
 msgid "VAT ID"
-msgstr "VAT ID"
+msgstr "Adószám"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
@@ -15339,7 +15339,7 @@ msgstr "Product must belong to some category created by the owner company."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
-msgstr "None"
+msgstr "Nincs"
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::tls"
 msgid "TLS"
@@ -15359,15 +15359,15 @@ msgstr "Congratulations! This purchase is VAT-free for you."
 
 msgctxt "Languages::last_year"
 msgid "Last year"
-msgstr "Last year"
+msgstr "Tavaly"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "Áruház bezárva"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "Áruház<br/>bezárva"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
@@ -15375,7 +15375,7 @@ msgstr "Copy to other locations"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Egyedi HTML-kód"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
