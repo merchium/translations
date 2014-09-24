@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-24 08:00-0400\n"
+"PO-Revision-Date: 2014-09-24 09:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -291,7 +291,7 @@ msgstr "Pokaż tylko wymagane pola profilu użytkownika"
 
 msgctxt "Languages::twgadmin_reinstall"
 msgid "The version of Twigmo add-on files does not match the one in the database, so the mobile version of your store has been disabled. Please re-install Twigmo add-on (click Uninstall, then Install on the add-ons list) to enable it."
-msgstr "The version of Twigmo add-on files does not match the one in the database, so the mobile version of your store has been disabled. Please re-install Twigmo add-on (click Uninstall, then Install on the add-ons list) to enable it."
+msgstr "Wersja dodatku Twigmo nie jest zgodna z bazą danych, więc mobilna wersja sklepu została wyłączona. Należy ponownie zainstalować dodatek Twigmo (kliknij Odinstaluj, następnie zainstalować na liście Dodatki)."
 
 msgctxt "Languages::twg_view_cart_checkout"
 msgid "View cart & checkout"
@@ -347,7 +347,7 @@ msgstr "Zrobione.</br>Sprawdzanie uprawnienień..."
 
 msgctxt "Languages::twgadmin_no_files_permissions"
 msgid "Error: Cannot overwrite the existing Twigmo add-on files. Please check and correct the file permissions manually or [link]provide your FTP access details[/link] (if they are provided, please make sure this FTP user has enough permissions to modify files on the server)."
-msgstr "Error: Cannot overwrite the existing Twigmo add-on files. Please check and correct the file permissions manually or [link]provide your FTP access details[/link] (if they are provided, please make sure this FTP user has enough permissions to modify files on the server)."
+msgstr "Błąd: Nie można zastąpić istniejących plików dodatku Twigmo. Proszę sprawdzić i poprawić uprawnienia plików ręcznie lub [link] podaj dane dostępu do FTP [/link] (jeśli są one podane, upewnij się, że ten użytkownik FTP ma wystarczające uprawnienia do modyfikowania plików na serwerze)."
 
 msgctxt "Languages::twgadmin_backup_files"
 msgid "Backing up Twigmo files..."
@@ -423,7 +423,7 @@ msgstr "Podstawowa skórka"
 
 msgctxt "Languages::twgadmin_connect_notification"
 msgid "The <a href=\"[addon_link]\">Twigmo add-on</a> is not connected to the <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Set it up to enable a mobile version of your store for iOS and Android."
-msgstr "The <a href=\"[addon_link]\">Twigmo add-on</a> is not connected to the <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Set it up to enable a mobile version of your store for iOS and Android."
+msgstr "<a href=\"[addon_link]\"> Dodatek Twigmo</a> nie jest podłączony do <a href=\"http://www.twigmo.com\" target=\"_blank\"> serwisu Twigmo</a>. Podłącz się aby udostępnić mobilną wersję sklepu dla iOS i Android."
 
 msgctxt "Languages::twgadmin_phpmod_required"
 msgid "PHP extension module [php_module_name] is required for proper operation of the Twigmo add-on. Please install it."
