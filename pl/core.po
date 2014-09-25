@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-24 09:00-0400\n"
+"PO-Revision-Date: 2014-09-25 02:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3639,7 +3639,7 @@ msgstr "Separator w pliku CSV różni się od wybranego przez Ciebie"
 
 msgctxt "Languages::error_exim_invalid_count_langs"
 msgid "Multi-language line count mismatch: different number of lines for different languages provided."
-msgstr "Multi-language line count mismatch: different number of lines for different languages provided."
+msgstr "Niewłaściwa liczba linii dla języków: różna liczba wierszy dla różnych języków."
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
@@ -5059,7 +5059,7 @@ msgstr "Nazwa linku"
 
 msgctxt "Languages::link_to"
 msgid "Link to"
-msgstr "Link to"
+msgstr "Link do"
 
 msgctxt "Languages::list"
 msgid "List"
@@ -6827,11 +6827,11 @@ msgstr "PO number"
 
 msgctxt "Languages::preauth"
 msgid "Preauth"
-msgstr "Preauth"
+msgstr "Autoryzacja wstępna"
 
 msgctxt "Languages::preauthorization"
 msgid "Preauthorization"
-msgstr "Preauthorization"
+msgstr "Autoryzacja wstępna"
 
 msgctxt "Languages::prefix"
 msgid "Prefix"
@@ -8763,7 +8763,7 @@ msgstr "Registered Post International Parcels fee"
 
 msgctxt "Languages::ship_aup_use_delivery_confirmation"
 msgid "Use Delivery Confirmation"
-msgstr "Use Delivery Confirmation"
+msgstr "Użyj potwierdzenia dostawy"
 
 msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
@@ -8979,7 +8979,7 @@ msgstr "Zarejejestrowany e-mail"
 
 msgctxt "Languages::ship_sp_pc_assurance"
 msgid "Assurance"
-msgstr "Assurance"
+msgstr "Ubezpieczenie"
 
 msgctxt "Languages::ship_sp_pc_cash_on_delivery"
 msgid "Cash on delivery (COD)"
@@ -9071,7 +9071,7 @@ msgstr "Class of the item being sent"
 
 msgctxt "Languages::ship_temando_weight_measurement"
 msgid "Weight measurement type"
-msgstr "Weight measurement type"
+msgstr "Rodzaj mierzenia wagi"
 
 msgctxt "Languages::ship_temando_width"
 msgid "Package width"
@@ -9371,15 +9371,15 @@ msgstr "Pokaż zakładkę w otwieranym oknie"
 
 msgctxt "Languages::tmpl_sidebox_1_item"
 msgid "Side box first item"
-msgstr "Side box first item"
+msgstr "Pierwszy elementu pola strony"
 
 msgctxt "Languages::sidebox_general"
 msgid "Sidebox general"
-msgstr "Sidebox general"
+msgstr "Sidebox ogólna"
 
 msgctxt "Languages::sidebox_important"
 msgid "Sidebox important"
-msgstr "Sidebox important"
+msgstr "Sidebox ważna"
 
 msgctxt "Languages::signature"
 msgid "Signature"
@@ -9431,7 +9431,7 @@ msgstr "Pojedyncze"
 
 msgctxt "Languages::single_coupon_is_allowed"
 msgid "Single discount coupon is allowed only"
-msgstr "Single discount coupon is allowed only"
+msgstr "Tylko jeden kupon rabatowy jest dozwolony"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
@@ -9483,7 +9483,7 @@ msgstr "Małe przedmioty"
 
 msgctxt "Languages::smarty_block"
 msgid "HTML block with Smarty support"
-msgstr "HTML block with Smarty support"
+msgstr "Bloku kodu HTML z obsługą Smarty"
 
 msgctxt "Languages::sms_customer_registered"
 msgid "Customer [name] has been registered."
@@ -10019,11 +10019,11 @@ msgstr "Household Goods"
 
 msgctxt "Languages::temando_subclass_other"
 msgid "Other (etc.)"
-msgstr "Other (etc.)"
+msgstr "Inne (itp.)"
 
 msgctxt "Languages::temando_system"
 msgid "Temando system"
-msgstr "Temando system"
+msgstr "System Temando"
 
 msgctxt "Languages::temando_weight_grams"
 msgid "Grams"
@@ -10059,7 +10059,7 @@ msgstr "Terminal"
 
 msgctxt "Languages::terminal_id"
 msgid "Terminal ID"
-msgstr "Terminal ID"
+msgstr "Identyfikator terminala"
 
 msgctxt "Languages::test"
 msgid "Test"
@@ -10235,7 +10235,7 @@ msgstr "Nie można odzyskać katalogu <b>[directory]</b> z repozytorium.Sprawdź
 
 msgctxt "Languages::text_cannot_restore_file"
 msgid "Cannot restore file <b>[file]</b> from the repository. Please check if the repository exists."
-msgstr "Cannot restore file <b>[file]</b> from the repository. Please check if the repository exists."
+msgstr "Nie można przywrócić pliku <b>[file]</b> z repozytorium. Proszę sprawdzić, czy istnieje repozytorium."
 
 msgctxt "Languages::text_can_be_used_once"
 msgid "This coupon can be used only once. You have already applied it."
@@ -10335,7 +10335,7 @@ msgstr "Więcej informacji"
 
 msgctxt "Languages::text_cmcic_notice"
 msgid "Please set the following URL as the <b>CGI2</b>: <b>[postback_url]</b>"
-msgstr "Please set the following URL as the <b>CGI2</b>: <b>[postback_url]</b>"
+msgstr "Proszę ustawić następujący adres URL jako <b>CGI2</b>: <b>[postback_url]</b>"
 
 msgctxt "Languages::text_cmpi_frame_message"
 msgid "For your security, please fill out the form below to complete your order. Do not click the Refresh or Back button, or this transaction may be interrupted or canceled."
@@ -10567,7 +10567,7 @@ msgstr "Please complete your payment below.<br />This is a secure payment page, 
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
-msgstr "<strong>Full mode</strong> required."
+msgstr "Wymagany<strong>Tryb pełny sklepu</strong>."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10667,7 +10667,7 @@ msgstr "Przykro mi, ale nic nie pasuje do Twoich kryteriów wyszukiwania. Sprób
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension here."
+msgstr "Nie jest dozwolone przesyłanie plików z rozszerzeniem <b>. [ext]</b>."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
@@ -10811,7 +10811,7 @@ msgstr "Płatność nie może zostać usunięta."
 
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
-msgstr "Please wait while processing the payment details..."
+msgstr "Prosimy o cierpliwość, trwa przetwarzanie płatności..."
 
 msgctxt "Languages::text_paypal_status_map"
 msgid "PayPal order status convertion map"
@@ -12215,7 +12215,7 @@ msgstr "Produkty które nie są zaznaczone \"Do pobrania\" o zerowej masie są t
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Kategorie mają być wyświetlane w okruszkach."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
@@ -12723,7 +12723,7 @@ msgstr "e-Delivery Confirmation"
 
 msgctxt "Languages::usps_service_express_mail_insurance"
 msgid "Express mail insurance"
-msgstr "Express mail insurance"
+msgstr "Ubezpieczenie ekspresowej przesyłki"
 
 msgctxt "Languages::usps_service_insurance"
 msgid "Insurance"
@@ -12943,7 +12943,7 @@ msgstr "Odwiedzona strona"
 
 msgctxt "Languages::voided"
 msgid "Voided"
-msgstr "Voided"
+msgstr "Unieważniony"
 
 msgctxt "Languages::warning"
 msgid "Warning"
@@ -12975,7 +12975,7 @@ msgstr "Hasło nie może być nazwą użytkownika!<p><a href=\"[link]\" class=\"
 
 msgctxt "Languages::warning_insecure_password_email"
 msgid "The password must be different from the E-mail! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
-msgstr "The password must be different from the E-mail! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
+msgstr "Hasło nie może być nazwą użytkownika!<p><a href=\"[link]\" class=\"underlined\"><b>Zmień hasło</b></a></p>"
 
 msgctxt "Languages::warning_lanvar_incorrect_name"
 msgid "Language variable name contains unsupported characters!"
@@ -15383,9 +15383,9 @@ msgstr "Ten kod HTML zostanie umieszczony pomiędzy tagami &lt;head&gt;&lt;/head
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Spowoduje to usunięcie wszystkich produktów z wybranych kategorii, jak również ich podkategorii i produktów."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Spowoduje to usunięcie wszystkich produktów z wybranych kategorii, jak również ich podkategorii i produktów."
 
