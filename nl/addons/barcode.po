@@ -7,19 +7,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:00-0400\n"
 
 msgctxt "Addons::name::barcode"
 msgid "Order barcode"
-msgstr "Volgorde barcode"
+msgstr "Streepjescode bestelling"
 
 msgctxt "Addons::description::barcode"
 msgid "Makes it possible to configure and attach barcodes to orders"
-msgstr "Maakt het mogelijk om te configureren en barcodes te koppelen aan bestellingen"
+msgstr "Maakt het mogelijk om streepjescodes te configureren te koppelen aan bestellingen"
 
 msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
 msgid "Please enable the add-on to see a code example."
-msgstr "Schakel de add-on in voor een code voorbeeld te zien."
+msgstr "Schakel de plug-in in om een voorbeeld code te zien."
 
 msgctxt "SettingsSections::barcode::general"
 msgid "General"
@@ -35,7 +35,7 @@ msgstr "Voorbeeld afbeelding"
 
 msgctxt "SettingsOptions::barcode::elm_configs"
 msgid "Configs"
-msgstr "Configs"
+msgstr "Confuguraties"
 
 msgctxt "SettingsOptions::barcode::type"
 msgid "Type"
@@ -67,7 +67,7 @@ msgstr "Lettertype"
 
 msgctxt "SettingsOptions::barcode::prefix"
 msgid "Barcode prefix"
-msgstr "Barcode voorvoegsel"
+msgstr "Voorvoegsel streepjescode"
 
 msgctxt "SettingsOptions::barcode::elm_specification"
 msgid "Specification"
@@ -75,7 +75,7 @@ msgstr "Specificatie"
 
 msgctxt "SettingsOptions::barcode::elm_spec_descr"
 msgid "Spec Description"
-msgstr "Spec beschrijving"
+msgstr "Specificatie beschrijving"
 
 msgctxt "SettingsVariants::barcode::type::C128A"
 msgid "Code 128-A"
@@ -91,7 +91,7 @@ msgstr "Code 128-C"
 
 msgctxt "SettingsVariants::barcode::type::I25"
 msgid "Interleaved 2 of 5"
-msgstr "Interleaved 2 of 5"
+msgstr "Interleaved 2 van 5"
 
 msgctxt "SettingsVariants::barcode::type::C39"
 msgid "Code 39"

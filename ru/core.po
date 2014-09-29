@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 05:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -9519,7 +9519,7 @@ msgstr "Сортировать по популярности: менее поп�
 
 msgctxt "Languages::sort_by_popularity_desc"
 msgid "Sort by Popularity"
-msgstr "Сортировать по популярности: более популярные выше"
+msgstr "Сортировать по популярности: по убыванию"
 
 msgctxt "Languages::sort_by_position_asc"
 msgid "Sort by Position: Low to High"
@@ -15392,4 +15392,8 @@ msgstr "Будут удалены все товары выбранной кат�
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
 msgstr "Будут удалены все товары выбранный категорий, а также все их подкатегории и их товары."
+
+msgctxt "Languages::restore_original"
+msgid "Restore original"
+msgstr "Restore original"
 

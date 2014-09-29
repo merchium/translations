@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:00-0400\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -19,7 +19,7 @@ msgstr "Stelt u in staat nieuws om nieuws en nieuwsbrieven te beheren"
 
 msgctxt "Languages::news"
 msgid "News"
-msgstr "Winkelnieuws"
+msgstr "Nieuws"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
@@ -27,7 +27,7 @@ msgstr "Nieuwsbrieven aanmaken en versturen naar uw klanten."
 
 msgctxt "Languages::news_menu_description"
 msgid "Manage news that is published in News box on the storefront."
-msgstr "Beheer het gepubliceerde nieuws in uw webshop."
+msgstr "Het gepubliceerde nieuws in uw webshop beheren."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
@@ -39,7 +39,7 @@ msgstr "Schrijf u in voor onze nieuwsbrief!"
 
 msgctxt "Languages::tmpl_subscription"
 msgid "News & emails: Newsletter subscription form"
-msgstr "Nieuws & e-mails: nieuwsbrief inschrijvingsformulier"
+msgstr "Nieuws en e-mails: nieuwsbrief inschrijvingsformulier"
 
 msgctxt "Languages::log_type_news"
 msgid "News"
@@ -59,11 +59,11 @@ msgstr "Abonnees toevoegen van de lijst van gebruikers"
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "<b>[email]</b> is al aanwezig in de ontvangers lijst"
+msgstr "<b>[email]</b> is al aanwezig in de lijst met ontvangers"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr "Sommige mailinglijsten kunnen niet worden gevonden. Bepaalde geïmporteerde abonnees blijven niet toegewezen."
+msgstr "Sommige mailinglijsten kunnen niet worden gevonden. Bepaalde geïmporteerde abonnees zijn niet toegewezen."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
@@ -79,7 +79,7 @@ msgstr "Nieuws pagina"
 
 msgctxt "Languages::block_mailing_lists"
 msgid "Newsletter subscription"
-msgstr "Nieuwsbriefabonnement"
+msgstr "Nieuwsbrief inschrijving"
 
 msgctxt "Languages::block_news"
 msgid "News"
@@ -96,15 +96,15 @@ msgstr ""
 
 msgctxt "Languages::privileges.view_news"
 msgid "View news"
-msgstr "Bekijk nieuws"
+msgstr "Nieuws bekijken"
 
 msgctxt "Languages::privileges.manage_news"
 msgid "Manage news"
-msgstr "Beheren van nieuws"
+msgstr "Nieuws beheren"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
-msgstr "Nieuwsbrief is niet verzonden omdat het selectiecriterium geen ontvangers bevat."
+msgstr "De nieuwsbrief is niet verzonden omdat het selectiecriterium geen ontvangers bevat."
 
 msgctxt "Languages::text_newsletter_sent"
 msgid "The newsletter(s) have been sent successfully."
@@ -112,7 +112,7 @@ msgstr "De nieuwsbrieven zijn succesvol verzonden."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail mag niet leeg zijn"
+msgstr "E-mailadres mag niet leeg zijn"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
@@ -128,11 +128,11 @@ msgstr "Dit e-mailadres is al ingeschreven."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
-msgstr "Uw email is succesvol verwijderd van onze gratis nieuwsbrief."
+msgstr "Uw e-mailadres is succesvol verwijderd van onze gratis nieuwsbrief."
 
 msgctxt "Languages::text_subscriber_activated"
 msgid "Your email has been successfully activated"
-msgstr "Uw e-mail is geactiveerd"
+msgstr "Uw e-mailadres is geactiveerd"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
@@ -160,7 +160,7 @@ msgstr "Verstuur"
 
 msgctxt "Languages::add_news"
 msgid "Add news"
-msgstr "Toevoegen nieuws"
+msgstr "Nieuws toevoegen"
 
 msgctxt "Languages::add_news_and_close"
 msgid "Add news and close"
@@ -240,15 +240,15 @@ msgstr "Onderwerp"
 
 msgctxt "Languages::add_newsletter"
 msgid "Add newsletter"
-msgstr "Toevoegen nieuwsbrief"
+msgstr "Nieuwsbrief toevoegen"
 
 msgctxt "Languages::add_template"
 msgid "Add template"
-msgstr "Toevoegen sjabloon"
+msgstr "Sjabloon toevoegen"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
-msgstr "Toevoegen autobeantwoorder"
+msgstr "Auto-beantwoorder toevoegen"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
@@ -276,7 +276,7 @@ msgstr "Stuur naar"
 
 msgctxt "Languages::add_recipients_from_users"
 msgid "Add recipients from users"
-msgstr "Ontvangers van gebruikers toevoegen"
+msgstr "Ontvangers toevoegen van gebruikers"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
@@ -316,7 +316,7 @@ msgstr "Nieuwsbrief autobeantwoorder"
 
 msgctxt "Languages::mailing_list"
 msgid "Mailing list"
-msgstr "Mailing lijst"
+msgstr "Mailinglijst"
 
 msgctxt "Languages::confirmed"
 msgid "Confirmed"
@@ -332,11 +332,11 @@ msgstr "Geabonneerd"
 
 msgctxt "Languages::text_success_subscription"
 msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
-msgstr "U bent succesvol ingeschreven op onze gratis emaillijst met speciale aanbiedingen en promoties!"
+msgstr "U bent succesvol ingeschreven op onze gratis nieuwsbrief met speciale aanbiedingen!"
 
 msgctxt "Languages::text_unsubscribe_instructions"
 msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
-msgstr "Wij respecteren uw privacy enorm en willen absoluut geen ongewenste correspondentie versturen! U ontvangt deze email omdat u zich in onze webwinkel heeft ingeschreven voor het ontvangen van speciale aanbieden en/of informatie. <br><br> Indien u zich wilt hiervoor wilt uitschrijven kunt u klikken op onderstaande link:"
+msgstr "Wij respecteren uw privacy enorm en willen absoluut geen ongewenste correspondentie versturen! U ontvangt deze email omdat u zich via onze webwinkel heeft ingeschreven voor het ontvangen van speciale aanbieden en/of informatie. <br><br> Indien u zich wilt hiervoor wilt uitschrijven kunt u klikken op onderstaande link:"
 
 msgctxt "Languages::updates_subscription"
 msgid "updates and promotions subscription"
@@ -360,7 +360,7 @@ msgstr "Antwoord e-mailadres."
 
 msgctxt "Languages::tt_addons_news_and_emails_views_newsletters_update_more_subjects"
 msgid "If several subjects are specified, email subject is randomly picked from this list."
-msgstr "Als meerdere onderwerpen opgegeven zijn zal het systeem er steeds willekeurig een kiezen uit de lijst."
+msgstr "Als meerdere onderwerpen opgegeven zijn zal het systeem er steeds één willekeurig kiezen uit de lijst."
 
 msgctxt "Languages::tt_addons_news_and_emails_views_newsletters_update_users"
 msgid "If the message text contains the unsubscribe link, it will be empty for these users."

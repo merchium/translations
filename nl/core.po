@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -39,11 +39,11 @@ msgstr "Absoluut"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed addons"
-msgstr "Geïnstalleerde addons"
+msgstr "Geïnstalleerde plug-ins"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available addons"
-msgstr "Bladeren door beschikbare addons"
+msgstr "Door beschikbare plug-ins bladeren"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -175,15 +175,15 @@ msgstr "Extra miniatuur opties"
 
 msgctxt "Languages::addon"
 msgid "Add-on"
-msgstr "Addon"
+msgstr "Plug-in"
 
 msgctxt "Languages::addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Plug-ins"
 
 msgctxt "Languages::addon_sql_error"
 msgid "An error in an SQL query occurred during the add-on installation. The add-on will not be installed."
-msgstr "Tijdens de addon installatie is een fout in een SQL query opgetreden. De addon wordt niet geïnstalleerd."
+msgstr "Er is een fout opgetreden bij een SQL-query tijdens het installeren van een plug-in. De plug-in is niet geïnstalleerd."
 
 msgctxt "Languages::address"
 msgid "Address"
@@ -335,7 +335,7 @@ msgstr "Taal variabele toevoegen"
 
 msgctxt "Languages::add_layout"
 msgid "Add layout"
-msgstr "Layout toevoegen"
+msgstr "Opmaak toevoegen"
 
 msgctxt "Languages::add_link"
 msgid "Add link"
@@ -619,7 +619,7 @@ msgstr "Alle pagina's"
 
 msgctxt "Languages::all_products_have_been_updated"
 msgid "All products have been updated successfully."
-msgstr "Alle producten zijn succesvol geupdate."
+msgstr "Alle producten zijn bijgewerkt."
 
 msgctxt "Languages::all_vendors"
 msgid "All stores"
@@ -731,7 +731,7 @@ msgstr "API wachtwoord"
 
 msgctxt "Languages::api_shipments_not_allow_update"
 msgid "Only the tracking_number and carrier params can be updated with the setting 'Allow multiple shipments for a single order' set"
-msgstr "Alleen wanneer de instelling 'Gebruikers toestaan verzending aan te maken' aanstaat kunnen volgnummer en vervoerder parameters worden geüpdate"
+msgstr "Alleen de parameters 'tracking_number' en 'vervoerder' kunnen worden bijgewerkt met de optie 'Klanten toestaan verzendingen aan te maken'"
 
 msgctxt "Languages::api_user"
 msgid "API user"
@@ -1059,11 +1059,11 @@ msgstr "Dit blok bestaat al in het rooster"
 
 msgctxt "Languages::block_breadcrumbs"
 msgid "Breadcrumbs"
-msgstr "Kruimelpad"
+msgstr "Broodkruimelpad"
 
 msgctxt "Languages::block_breadcrumbs_description"
 msgid "Navigation breadcrumbs"
-msgstr "Navigatie kruimelpaden"
+msgstr "Navigatie broodkruimelpaden"
 
 msgctxt "Languages::block_categories_description"
 msgid "Category trees"
@@ -1151,7 +1151,7 @@ msgstr "Hoofd inhoud (geladen door controller)"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
-msgstr "Blok beheer"
+msgstr "Blokbeheer"
 
 msgctxt "Languages::block_manager.fixed_layout"
 msgid "Fixed width"
@@ -1171,7 +1171,7 @@ msgstr "Roosterkolommen"
 
 msgctxt "Languages::block_manager.layout_width"
 msgid "Layout width"
-msgstr "Breedte layout"
+msgstr "Breedte van de opmaak"
 
 msgctxt "Languages::block_manager.max_width"
 msgid "Maximal width"
@@ -1291,7 +1291,7 @@ msgstr "Blok breedte"
 
 msgctxt "Languages::block_wrapper_updated"
 msgid "Block wrapper was updated"
-msgstr "Blok wrapper is geüpdate"
+msgstr "Blokomslag is bijgewerkt"
 
 msgctxt "Languages::bm_confirm"
 msgid "Performing this action will [action] this block on all the [location_name] pages. Do you want to continue?"
@@ -1343,11 +1343,11 @@ msgstr "Merk/Fabrikant"
 
 msgctxt "Languages::breadcrumbs"
 msgid "Breadcrumbs"
-msgstr "Kruimelpaden"
+msgstr "Broodkruimelpaden"
 
 msgctxt "Languages::broken_addon_pack"
 msgid "Incorrect add-on structure. The uploaded pack cannot be installed."
-msgstr "Ongeldige add-on structuur. De geuploade pack kan niet worden geïnstalleerd."
+msgstr "Plug-in heeft niet de juiste opmaak. De geüploade plug-in kan niet worden gebruikt."
 
 msgctxt "Languages::broken_po_pack"
 msgid "Incorrect PO-pack structure. The uploaded pack cannot be installed."
@@ -1675,7 +1675,7 @@ msgstr "Het is aanbevolen om de toegangsrechten voor het bestand config.local.ph
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change addons initialization"
-msgstr "Wijzig addon initialisatie"
+msgstr "Plug-in-initialisatie wijzigen"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -2147,7 +2147,7 @@ msgstr "CS-Cart - webwinkelsoftware"
 
 msgctxt "Languages::copy_from_layout"
 msgid "Copy data from layout"
-msgstr "Kopieer gegevens van layout"
+msgstr "Gegevens van opmaak kopiëren"
 
 msgctxt "Languages::core"
 msgid "Core"
@@ -2567,7 +2567,7 @@ msgstr "Rand"
 
 msgctxt "Languages::currency_deleted"
 msgid "The currency has been deleted successfully."
-msgstr "De valuta is succesvol verwijderd."
+msgstr "De valuta is verwijderd."
 
 msgctxt "Languages::currency_rate"
 msgid "Rate"
@@ -2799,7 +2799,7 @@ msgstr "Standaard taal"
 
 msgctxt "Languages::default_layout"
 msgid "Default layout"
-msgstr "Standaard layout"
+msgstr "Standaard opmaak"
 
 msgctxt "Languages::default_long_options_template"
 msgid "Default template (long product option names)"
@@ -3287,7 +3287,7 @@ msgstr "Taal aanpassen"
 
 msgctxt "Languages::editing_layout"
 msgid "Editing layout"
-msgstr "Layout aanpassen"
+msgstr "Opmaak aanpassen"
 
 msgctxt "Languages::editing_link"
 msgid "Editing link"
@@ -3351,7 +3351,7 @@ msgstr "Gedeelte van snelkeuze-menu aanpassen"
 
 msgctxt "Languages::editing_report"
 msgid "Editing report"
-msgstr "Verslag aanpassen"
+msgstr "Rapport aanpassen"
 
 msgctxt "Languages::editing_shipping_method"
 msgid "Editing shipping method"
@@ -3391,7 +3391,7 @@ msgstr "Bestanden aanpassen"
 
 msgctxt "Languages::edit_layout"
 msgid "Edit layout"
-msgstr "Layout aanpassen"
+msgstr "Opmaak aanpassen"
 
 msgctxt "Languages::edit_order"
 msgid "Edit order"
@@ -3483,7 +3483,7 @@ msgstr "Activeer/Deactiveer Container"
 
 msgctxt "Languages::enable_or_disable_grid"
 msgid "Activate/Deactivate Grid"
-msgstr "Activeer/Deactiveer Grid"
+msgstr "Rooster activeren/deactiveren"
 
 msgctxt "Languages::enable_quick_view"
 msgid "Enable quick view"
@@ -3599,11 +3599,11 @@ msgstr "Valuta met code <b>[code]</b> bestaat reeds"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "Een van uw webwinkels maakt gebruik van dit thema. Stel een ander thema in voordat u het verwijdert."
+msgstr "Een van uw winkels maakt gebruik van dit thema. Stel een ander thema in voordat u het verwijdert."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
-msgstr "De layout die dit thema gebruikt is als standaard ingesteld. Stel een andere layout in als standaard."
+msgstr "De opmaak die dit thema gebruikt is als standaard ingesteld. Kies een andere standaardopmaak."
 
 msgctxt "Languages::error_demo_mode"
 msgid "The cart is working in the <b>DEMO</b> mode and this functionality is disabled."
@@ -3643,7 +3643,7 @@ msgstr "Fout in meertaligheid: de verschillende talen hebben een verschillend aa
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
-msgstr "De volgende velden zijn verplicht en kunnen niet worden verwijderd van de layout:"
+msgstr "De volgende velden zijn verplicht en kunnen niet uit de opmaak worden verwijderd:"
 
 msgctxt "Languages::error_exim_no_data_exported"
 msgid "No data exported"
@@ -3891,7 +3891,7 @@ msgstr "Verlopen"
 
 msgctxt "Languages::expirepreauth"
 msgid "Preauthorization"
-msgstr "Autorisatie"
+msgstr "Pre-authenticatie"
 
 msgctxt "Languages::expirepreauth_description"
 msgid "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
@@ -4015,7 +4015,7 @@ msgstr "FedEx"
 
 msgctxt "Languages::feedback_is_sent_successfully"
 msgid "The feedback has been sent successfully."
-msgstr "De feedback is succesvol verzonden."
+msgstr "De feedback is verzonden."
 
 msgctxt "Languages::feedback_values"
 msgid "Feedback values"
@@ -4347,7 +4347,7 @@ msgstr "<b>Opmerking:</b> U kunt btw tarieven en verzendkosten instellen op de <
 
 msgctxt "Languages::goto_theme_configuration"
 msgid "Browse themes"
-msgstr "Blader door thema's"
+msgstr "Door thema's bladeren"
 
 msgctxt "Languages::remove_theme"
 msgid "Remove theme"
@@ -4379,15 +4379,15 @@ msgstr "Grieks"
 
 msgctxt "Languages::grid"
 msgid "Grid"
-msgstr "Raster"
+msgstr "Rooster"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
-msgstr "Grid2"
+msgstr "Rooster2"
 
 msgctxt "Languages::grid_options"
 msgid "Grid options"
-msgstr "Grid opties"
+msgstr "Roosteropties"
 
 msgctxt "Languages::gross_total"
 msgid "Gross total"
@@ -4643,7 +4643,7 @@ msgstr "Blok toevoegen"
 
 msgctxt "Languages::insert_grid"
 msgid "Add grid"
-msgstr "Grid toevoegen"
+msgstr "Rooster toevoegen"
 
 msgctxt "Languages::install"
 msgid "Install"
@@ -4699,7 +4699,7 @@ msgstr "Bedankt voor uw keuze voor Cs-Cart. Veel plezier met uw verkopen!"
 
 msgctxt "Languages::installer_complete_title"
 msgid "Installation successfully finished"
-msgstr "Installatie succesvol afgerond"
+msgstr "De installatie is afgerond"
 
 msgctxt "Languages::international_settings"
 msgid "International settings"
@@ -5303,7 +5303,7 @@ msgstr "Beheer"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage Add-ons"
-msgstr "Beheer addons"
+msgstr "Plug-ins beheren"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -5311,35 +5311,35 @@ msgstr "Beheer blokken"
 
 msgctxt "Languages::manage_categories"
 msgid "Manage categories"
-msgstr "Beheren categorieen"
+msgstr "Categorieën beheren"
 
 msgctxt "Languages::manage_existing_block"
 msgid "Edit Existing Blocks"
-msgstr "Wijzig bestaande blokken"
+msgstr "Bestaande blokken wijzigen"
 
 msgctxt "Languages::manage_items"
 msgid "Manage items"
-msgstr "Beheer items"
+msgstr "Items beheren"
 
 msgctxt "Languages::manage_languages"
 msgid "Manage languages"
-msgstr "Beheren talen"
+msgstr "Talen beheren"
 
 msgctxt "Languages::manage_menus"
 msgid "Manage menus"
-msgstr "Beheer menu's"
+msgstr "Menu's beheren"
 
 msgctxt "Languages::manage_pages"
 msgid "Manage pages"
-msgstr "Beheren pagina's"
+msgstr "Pagina's beheren"
 
 msgctxt "Languages::manage_products"
 msgid "Manage products"
-msgstr "Beheren producten"
+msgstr "Producten beheren"
 
 msgctxt "Languages::manage_reports"
 msgid "Manage reports"
-msgstr "Beheren rapportages"
+msgstr "Rapportages beheren"
 
 msgctxt "Languages::manage_shippings"
 msgid "Shipping methods"
@@ -5347,11 +5347,11 @@ msgstr "Verzendmethoden"
 
 msgctxt "Languages::manage_sitemap"
 msgid "Manage sitemap"
-msgstr "Beheren sitemap"
+msgstr "Sitemap beheren"
 
 msgctxt "Languages::manage_stores"
 msgid "Manage stores"
-msgstr "Beheer winkels"
+msgstr "Winkels beheren"
 
 msgctxt "Languages::mandatory"
 msgid "Required"
@@ -5687,7 +5687,7 @@ msgstr "Meest populair"
 
 msgctxt "Languages::most_popular_addons"
 msgid "Most popular add-ons"
-msgstr "Meest populaire addons"
+msgstr "Meest populaire plug-ins"
 
 msgctxt "Languages::mr"
 msgid "Mr."
@@ -5815,7 +5815,7 @@ msgstr "Nieuw taal variabele"
 
 msgctxt "Languages::new_layout"
 msgid "New layout"
-msgstr "Nieuwe layout"
+msgstr "Nieuwe opmaak"
 
 msgctxt "Languages::new_link"
 msgid "New link"
@@ -5879,7 +5879,7 @@ msgstr "Nieuwe aanbieding"
 
 msgctxt "Languages::new_report"
 msgid "New report"
-msgstr "Toevoegen rapport"
+msgstr "Nieuw rapport"
 
 msgctxt "Languages::new_saved_search"
 msgid "New saved search"
@@ -5991,7 +5991,7 @@ msgstr "Niet leverbare producten zijn verwijderd uit je winkelwagen. U kunt verd
 
 msgctxt "Languages::notice_update_customer_details"
 msgid "The customer updated the email address in the profile. Select the check box to update the order details:"
-msgstr "Het E-mail adres was gewijzigd door de klant in zijn/haar profiel. Vink de checkbox uit om bestellingdetails te updaten:"
+msgstr "Het e-mailadres van deze klant is gewijzigd. Selecteer het selectievlakje om de details van de bestelling bij te werken:"
 
 msgctxt "Languages::notify_customer"
 msgid "Notify customer"
@@ -6207,7 +6207,7 @@ msgstr "Opties voor"
 
 msgctxt "Languages::options_have_been_applied_to_products"
 msgid "Options have been successfully applied to the selected products"
-msgstr "Opties zijn succesvol toegepast om de geselecteerde producten"
+msgstr "De opties zijn toegepast op de geselecteerde producten"
 
 msgctxt "Languages::options_menu_description"
 msgid "Manage global product options and option variants in your store."
@@ -6371,7 +6371,7 @@ msgstr "Anderen"
 
 msgctxt "Languages::other_addons"
 msgid "Other add-ons"
-msgstr "Andere addons"
+msgstr "Andere plug-ins"
 
 msgctxt "Languages::output"
 msgid "Output"
@@ -6407,7 +6407,7 @@ msgstr "Type a.u.b. \"AKKOORD\" of \"NIET AKKOORD\" in het daarvoor aangewezen v
 
 msgctxt "Languages::p21agree_tooltip"
 msgid "By typing AGREE in the below box I am providing my signature as authorization to Payment21&reg; to electronically debit my account for the amount I have entered. I also understand and expressly authorize the merchant, if my eCheck payment is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck payment plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this payment transaction."
-msgstr "Door AKKOORD te typen in het veld hieronder stuur ik mijn handtekening als machtiging voor Payment21&reg; om het door mij ingevoerde bedrag elektronisch van mijn account af te schrijven.  Ik begrijp ook, en geef uitdrukkelijk toestemming aan de merchant om electronisch het bedrag voor de eCheck betaling plus de NSF fee af te schrijven zonder de maximale legale limiet te overschrijven, indien  mijn eCheck betaling is onteerd of geretourneerd. Ik zal deze pagina adrukken of opslaan als rapport. Ik kan 1-888-770-0850 bellen voor 24/7 ondersteuning met elke vraag over deze transactie."
+msgstr "Door AGREE in te typen zet ik mijn handtekening als machtiging naar Payment21&reg; om mijn account elektronisch te debiteren voor het ingevoerde bedrag. Ik begrijp en geef uitdrukkelijk toestemming aan de verkoper, mocht mijn eCheck niet geaccepteerd of geretourneerd wordt om welke reden dan ook, het bedrag elektronisch van mijn rekening te schrijven plus een NSF-vergoeding. Ik zal deze pagina printen of opslaan voor mijn administratie. Ik kan 1-888-770-0850 bellen voor 24/7 ondersteuning en vragen over deze transactie."
 
 msgctxt "Languages::package"
 msgid "Package"
@@ -6443,7 +6443,7 @@ msgstr "Pagina's"
 
 msgctxt "Languages::page_cloned"
 msgid "The page <b>[page]</b> has been cloned successfully. Now you can edit the new page"
-msgstr "De pagina <b>[page]</b> is succesvol gekloond. Nu kunt u de nieuwe pagina aanpassen"
+msgstr "De pagina <b>[page]</b> is gekloond. Nu kunt u de nieuwe pagina aanpassen"
 
 msgctxt "Languages::page_id"
 msgid "Page ID"
@@ -6543,7 +6543,7 @@ msgstr "Betalingen"
 
 msgctxt "Languages::payments.cresecure.location_notice"
 msgid "<b>Please note:</b><br>1. This payment requires the https checkout option to be enabled!<br>2. By default, the Checkout location is shown to a user on payment placing. In order to show a different location, create a new location with the dispatch 'checkout.cresecure_template' in the <a href=\"[url]\" target=\"_blank\">Layout manager</a>."
-msgstr "<b>Let op:</b><br>1. Voor deze betaling dient de https checkout optie te zijn ingeschakeld!<br>2. De kassa locatie wordt standaard getoond bij het plaatsen van de betaling. Om een andere locatie te tonen dient u een nieuwe locatie aan te maken met de dispatch 'checkout.cresecure_template' in de <a href=\"[url]\" target=\"_blank\">Layout manager</a>."
+msgstr "<b>Let op:</b><br>1. Voor deze betaalmethode moet de https-afrekenoptie ingeschakeld zijn.<br>2. De standaard afreken-locatie wordt getoond op het moment dat er een betaling plaats vindt. Om een andere locatie weer te geven: maak een nieuwe locatie aan met de 'checkout.cresecure_template' in de <a href=\\\"[url]\\\" target=\\\"_blank\\\">Opmaakassistent</a>."
 
 msgctxt "Languages::payments.epdq.bgcolor"
 msgid "Background color"
@@ -6803,7 +6803,7 @@ msgstr "Positie"
 
 msgctxt "Languages::positions_updated"
 msgid "Positions of items were updated"
-msgstr "De posities van de items zijn ge-update"
+msgstr "Nieuwe posities opgeslagen"
 
 msgctxt "Languages::position_short"
 msgid "Pos."
@@ -7015,19 +7015,19 @@ msgstr "Importeer en exporteer gegevens"
 
 msgctxt "Languages::privileges.manage_catalog"
 msgid "Manage catalog"
-msgstr "Beheer catalogus"
+msgstr "Catalogus beheren"
 
 msgctxt "Languages::privileges.manage_currencies"
 msgid "Manage currencies"
-msgstr "Beheer valuta"
+msgstr "Valuta beheren"
 
 msgctxt "Languages::privileges.manage_design"
 msgid "Manage design"
-msgstr "Beheer design"
+msgstr "Opmaak beheren"
 
 msgctxt "Languages::privileges.manage_languages"
 msgid "Manage languages"
-msgstr "Beheer talen"
+msgstr "Talen beheren"
 
 msgctxt "Languages::privileges.manage_locations"
 msgid "Manage locations"
@@ -7035,51 +7035,51 @@ msgstr "Beheer lokaties"
 
 msgctxt "Languages::privileges.manage_order_statuses"
 msgid "Manage order statuses"
-msgstr "Beheer bestelstatussen"
+msgstr "Bestelstatussen beheren"
 
 msgctxt "Languages::privileges.manage_pages"
 msgid "Manage pages"
-msgstr "Beheer CMS"
+msgstr "Pagina's  beheren"
 
 msgctxt "Languages::privileges.manage_payments"
 msgid "Manage payments"
-msgstr "Beheer betalingen"
+msgstr "Betalingen beheren"
 
 msgctxt "Languages::privileges.manage_promotions"
 msgid "Manage promotion system"
-msgstr "Aanbiedingen Beheersysteem"
+msgstr "Aanbiedingensysteem beheren"
 
 msgctxt "Languages::privileges.manage_reports"
 msgid "Manage reports"
-msgstr "Beheer rapportages"
+msgstr "Rapportages beheren"
 
 msgctxt "Languages::privileges.manage_shipping"
 msgid "Manage shipping"
-msgstr "Beheer verzendwijzen"
+msgstr "Verzendmethoden beheren"
 
 msgctxt "Languages::privileges.manage_sitemap"
 msgid "Manage sitemap"
-msgstr "Beheer sitemap"
+msgstr "Sitemap beheren"
 
 msgctxt "Languages::privileges.manage_static_data"
 msgid "Manage static data"
-msgstr "Beheer statische data"
+msgstr "Statische data beheren"
 
 msgctxt "Languages::privileges.manage_storage"
 msgid "Manage storage"
-msgstr "Beheer verbruik"
+msgstr "Opslag beheren"
 
 msgctxt "Languages::privileges.manage_stores"
 msgid "Manage stores"
-msgstr "Beheer winkels"
+msgstr "Winkels beheren"
 
 msgctxt "Languages::privileges.manage_taxes"
 msgid "Manage taxes"
-msgstr "Beheer belastingen"
+msgstr "Belastingen beheren"
 
 msgctxt "Languages::privileges.manage_themes"
 msgid "Manage themes"
-msgstr "Beheer thema's"
+msgstr "Thema's beheren"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
@@ -7087,11 +7087,11 @@ msgstr "On-site live wijzigen"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
-msgstr "Beheer gebruikersgroepen"
+msgstr "Gebruikersgroepen beheren"
 
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
-msgstr "Beheer gebruikers"
+msgstr "Gebruikers beheren"
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -7103,19 +7103,19 @@ msgstr "Upgrade webwinkel"
 
 msgctxt "Languages::privileges.view_catalog"
 msgid "View catalog"
-msgstr "Bekijk catalogus"
+msgstr "Catalogus bekijken"
 
 msgctxt "Languages::privileges.view_currencies"
 msgid "View currencies"
-msgstr "Bekijk valuta"
+msgstr "Valuta bekijken"
 
 msgctxt "Languages::privileges.view_languages"
 msgid "View languages"
-msgstr "Bekijk talen"
+msgstr "Talen bekijken"
 
 msgctxt "Languages::privileges.view_locations"
 msgid "View locations"
-msgstr "Bekijk lokaties"
+msgstr "Locaties bekijken"
 
 msgctxt "Languages::privileges.view_logs"
 msgid "View logs"
@@ -7123,51 +7123,51 @@ msgstr "Bekijk logs"
 
 msgctxt "Languages::privileges.view_orders"
 msgid "View orders"
-msgstr "Bekijk bestellingen"
+msgstr "Bestellingen bekijken"
 
 msgctxt "Languages::privileges.view_pages"
 msgid "View pages"
-msgstr "Bekijk CMS"
+msgstr "Pagina's bekijken"
 
 msgctxt "Languages::privileges.view_payments"
 msgid "View payments"
-msgstr "Bekijk betalingen"
+msgstr "Betalingen bekijken"
 
 msgctxt "Languages::privileges.view_reports"
 msgid "View reports"
-msgstr "Bekijk rapportages"
+msgstr "Rapportages bekijken"
 
 msgctxt "Languages::privileges.view_settings"
 msgid "View settings"
-msgstr "Bekijk instellingen"
+msgstr "Instellingen bekijken"
 
 msgctxt "Languages::privileges.view_shipping"
 msgid "View shipping"
-msgstr "Bekijk verzendwijzen"
+msgstr "Verzendmethodes bekijken"
 
 msgctxt "Languages::privileges.view_static_data"
 msgid "View static data"
-msgstr "Bekijk statische data"
+msgstr "Statische data bekijken"
 
 msgctxt "Languages::privileges.view_stores"
 msgid "View stores"
-msgstr "Bekijk winkels"
+msgstr "Winkels bekijken"
 
 msgctxt "Languages::privileges.view_taxes"
 msgid "View taxes"
-msgstr "Bekijk belastingen"
+msgstr "Belastingen bekijken"
 
 msgctxt "Languages::privileges.view_usergroups"
 msgid "View user groups"
-msgstr "Bekijk gebruikersgroepen"
+msgstr "Gebruikersgroepen bekijken"
 
 msgctxt "Languages::privileges.view_users"
 msgid "View users"
-msgstr "Bekijk gebruikers"
+msgstr "Gebruikers bekijken"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Addons"
-msgstr "Addons"
+msgstr "Plug-ins"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7235,7 +7235,7 @@ msgstr "Merchant accounts aangeboden door Cardsave, <a href=\"http://www.cardsav
 
 msgctxt "Languages::processor_description_p21"
 msgid "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
-msgstr "<b>P21 Simple API</b> kunt u om selectievakje betalingen te accepteren. Het biedt de meest uitgebreide suite van de industrie van selectievakje beeldoplossingen creatie en verrekening. Met Check 21, zult u uw geld ontvangen binnen dezelfde dag per cheque of directe storting. <br/> <br/>De 21 controleren om optie te activeren, contacteer ons via e-mail op: <a href=\"mailto:support@payment21.com\"> support@payment21.com</a> of telefonisch op: 1-888-770-0850 (Amerikaanse Toll gratis) of 0041-71-740-1629 (International). <br/> <br/><a href=\"http://www.payment21.com\" target=\"_blank\"> www.payment21.com</a>"
+msgstr "<b>P21 Simple API</b> kunt u om check-betalingen te accepteren. Het biedt de industrie het meest uitgebreide pakket van het check-creatie en clearing-oplossingen. Met Check 21, zult u uw geld ontvangen binnen dezelfde dag per cheque of directe storting. <br/> <br/>Om Check-21 te activeren neemt u contact met ons op via e-mail: <a href=\"mailto:support@payment21.com\"> support@payment21.com</a> of telefonisch via: 1-888-770-0850 (Amerikaanse Toll gratis) of 0041-71-740-1629 (Internationaal). <br/> <br/><a href=\"http://www.payment21.com\" target=\"_blank\"> www.payment21.com</a>"
 
 msgctxt "Languages::processor_id"
 msgid "Processor ID"
@@ -7283,7 +7283,7 @@ msgstr "Producten gevonden"
 
 msgctxt "Languages::products_grid"
 msgid "Products grid"
-msgstr "Product grid"
+msgstr "Productrooster"
 
 msgctxt "Languages::products_information"
 msgid "Products information"
@@ -8007,7 +8007,7 @@ msgstr "Jaar"
 
 msgctxt "Languages::reports_list"
 msgid "Reports list"
-msgstr "Rapportageslijst"
+msgstr "Rapportagelijst"
 
 msgctxt "Languages::reports_parameter_1"
 msgid "Order totals"
@@ -8111,7 +8111,7 @@ msgstr "Antwoord"
 
 msgctxt "Languages::restore"
 msgid "Restore"
-msgstr "Herstel"
+msgstr "Herstellen"
 
 msgctxt "Languages::restore_default"
 msgid "Use default value"
@@ -8119,7 +8119,7 @@ msgstr "Gebruik standaard waarde"
 
 msgctxt "Languages::restore_from_repository"
 msgid "Restore from the repository"
-msgstr "Herstel van plaats"
+msgstr "Vanaf opslag herstellen"
 
 msgctxt "Languages::ResultCode"
 msgid "ResultCode"
@@ -8255,11 +8255,11 @@ msgstr "Besparing"
 
 msgctxt "Languages::save_layout"
 msgid "Save layout"
-msgstr "Layout opslaan"
+msgstr "Opmaak opslaan"
 
 msgctxt "Languages::save_layout_as"
 msgid "Save layout as"
-msgstr "Layout opslaan als"
+msgstr "Opmaak opslaan als"
 
 msgctxt "Languages::save_process_payment"
 msgid "Save and process payment"
@@ -9787,15 +9787,15 @@ msgstr "Succesvol"
 
 msgctxt "Languages::successfully_registered"
 msgid "Successfully registered"
-msgstr "Succesvol geregistreerd"
+msgstr "Registratie voltooid"
 
 msgctxt "Languages::successful_login"
 msgid "You have been successfully logged in."
-msgstr "U bent succesvol ingelogd."
+msgstr "U bent ingelogd."
 
 msgctxt "Languages::success_registration_text"
 msgid "Congratulations! The registration was successful!<br/>Now, you have full access to all the store features. Click on \"My account\" to see them."
-msgstr "Gefeliciteerd! De registratie was succesvol!<br />Nu heeft u volledige toegang tot alle mogelijkheden van onze webwinkel. Klik op \"Mijn account\" om deze te zien."
+msgstr "Gefeliciteerd! De registratie is afgerond!<br />Nu heeft u volledige toegang tot alle mogelijkheden van onze webwinkel. Klik op \"Mijn profiel\" om deze te zien."
 
 msgctxt "Languages::suffix"
 msgid "Suffix"
@@ -9839,7 +9839,7 @@ msgstr "Schommel"
 
 msgctxt "Languages::switch_layout"
 msgid "Switch layout"
-msgstr "Schakel layout"
+msgstr "Verander van opmaak"
 
 msgctxt "Languages::symbol"
 msgid "Symbol"
@@ -10103,31 +10103,31 @@ msgstr "(getoond op productdetails pagina bij 'extra afbeeldingen')"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
-msgstr "Add-on \"[addon_name]\" kan niet overweg met de volgende add-ons: [addons], en kan niet worden ingeschakeld"
+msgstr "De plug-in '[addon_name]' is niet compatible met de volgende plug-ins: [addons]. De plug-in is niet ingeschakeld"
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Add-on \"[addon_name]\" heeft een conflict met de volgende add-ons: [addons]. Deze add-ons worden automatisch uitgeschakeld."
+msgstr "De plug-in '[addon_name]' is niet compatible met de volgende plug-ins: [addons]. Deze plugins worden automatisch uitgeschakeld."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Add-on \"[addon_name]\" heeft een conflict met de volgende add-ons: [addons]. De add-on is niet ingeschakeld. Schakel de add-on handmatig in, en alle add-ons die conflicten geven worden automatisch uitgeschakeld."
+msgstr "De plug-in '[addon_name]' is niet compatibel met de volgende plug-ins: [addons]. De plug-in is niet ingeschakeld. Om de plug-in in te schakelen dienen de niet-compatibel plug-ins eerst handmatig uitgeschakeld te worden."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
-msgstr "De <b>\"[addon]\"</b> add-on is succesvol geïnstalleerd"
+msgstr "De plug-in <b>'[addon]'</b> is geïnstalleerd"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
-msgstr "De add-on kan niet worden geïnstalleerd omdat het afhankelijk is van de add-on [addon]. Installeer eerst de add-on [addon]."
+msgstr "De plug-in kon niet worden geïnstalleerd omdat deze afhankelijk is van de [addon] plug-in. Installeer eerst de plug-in: [addon]."
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "De <b>\"[addon]\"</b> add-on is gedeïnstalleerd."
+msgstr "De installatie van de plug-in <b>'[addon]'</b> is ongedaan gemaakt."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
-msgstr "De add-on kan niet gedeïnstalleerd worden vanwege de volgende add-ons hangen hier me samen: [addons]"
+msgstr "De plug-in kon niet worden verwijderd omdat de volgende plug-ins afhankelijk zijn van deze plug-in: [addons]"
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
@@ -10187,7 +10187,7 @@ msgstr "<b>Opmerking:</b><br />1. Kopieer uw certificaat dat u heeft ontvangen o
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
-msgstr "<span style=\"color:#FF2222\"> waarschuwing!</span> Het pad naar atos bestanden moeten bestaan uit niet meer dan 60 symbolen, anders kopieer de atos_files map naar enkele bovenliggende directory, bijvoorbeeld naar de winkelwagen kern directory. Controleer ook of dat de atos bestanden map beschikt over volledige machtigingen."
+msgstr "<span style=\"color:#FF2222\">waarschuwing!</span> Het pad naar atos bestanden mag bestaan uit maximaal 60 symbolen. Kopieer anders de atos_files map naar een bovenliggende directory, bijvoorbeeld naar de core-map van de winkelwagen. Controleer ook of de atos bestanden map beschikt over volledige rechten."
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
@@ -10307,7 +10307,7 @@ msgstr "<strong>Attentie!</strong> Test enkele statische URL's, bijvoorbeeld <a 
 
 msgctxt "Languages::text_cdn_setup"
 msgid "CDN was set up successfully."
-msgstr "CDN is succesvol ingesteld."
+msgstr "CDN is correct geconfigureerd."
 
 msgctxt "Languages::text_changes_not_saved"
 msgid "Your changes have not been saved."
@@ -10415,7 +10415,7 @@ msgstr "Stel 'Success link' in naar: <b>[success_url]</b><br /> Stel 'Abort link
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
-msgstr "De map <b>[directory]</b> is succesvol aangemaakt."
+msgstr "De map <b>[directory]</b> is aangemaakt."
 
 msgctxt "Languages::text_directory_deleted"
 msgid "The directory <b>[directory]</b> has been successfully deleted"
@@ -10423,11 +10423,11 @@ msgstr "De map <b>[directory]</b> is verwijderd."
 
 msgctxt "Languages::text_directory_renamed"
 msgid "The directory <b>[directory]</b> has been successfully renamed to <b>[to_directory]</b>"
-msgstr "De map <b>[directory]</b> is succesvol hernoemd naar <b>[to_directory]</b>"
+msgstr "De map <b>[directory]</b> is hernoemd naar <b>[to_directory]</b>"
 
 msgctxt "Languages::text_directory_restored"
 msgid "The directory <b>[directory]</b> has been restored from the repository"
-msgstr "De map <b>[directory]</b> is succesvol teruggezet van de bron."
+msgstr "De map <b>[directory]</b> is hersteld vanuit de opslag."
 
 msgctxt "Languages::text_downloads_empty"
 msgid "Your downloads list is empty"
@@ -10447,7 +10447,7 @@ msgstr "Deze elektronische sleutel is niet geldig of verlopen"
 
 msgctxt "Languages::text_email_sent"
 msgid "E-mail has been sent successfully."
-msgstr "E-mail is succesvol verzonden."
+msgstr "De e-mail is verzonden."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
@@ -10463,15 +10463,15 @@ msgstr "Geef een nieuwe bestandsnaam in"
 
 msgctxt "Languages::text_exim_data_exported"
 msgid "Data is exported successfully"
-msgstr "Gegevens succesvol geëxporteerd."
+msgstr "De gegevens zijn geëxporteerd."
 
 msgctxt "Languages::text_exim_data_imported"
 msgid "Data is imported successfully.<br />New objects - <b>[new]</b>;<br />Updated objects - <b>[exist]</b>;<br />Skipped objects - <b>[skipped]</b>;<br />Total - <b>[total]</b>."
-msgstr "Gegevens zijn succesvol geïmporteerd.<br />Nieuwe objecten - <b>[new]</b>;<br />Geupdate objecten - <b>[exist]</b>;<br />Overgeslagen objecten - <b>[skipped]</b>;<br />Totaal - <b>[total]</b>."
+msgstr "De gegevens zijn geïmporteerd.<br />Nieuwe items - <b>[new]</b>;<br />Bijgewerkte items - <b>[exist]</b>;<br />Overgeslagen items - <b>[skipped]</b>;<br />Totaal - <b>[total]</b>."
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Gegevens succesvol geïmporteerd."
+msgstr "De gegevens zijn geïmporteerd."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
@@ -10523,15 +10523,15 @@ msgstr "Map waar productbestanden zich bevinden. Deze map zal worden gebruikt in
 
 msgctxt "Languages::text_file_created"
 msgid "The file <b>[file]</b> has been successfully created"
-msgstr "Bestand <b>[file]</b> is succesvol aangemaakt."
+msgstr "Het bestand <b>[file]</b> is aangemaakt."
 
 msgctxt "Languages::text_file_deleted"
 msgid "The file <b>[file]</b> has been successfully deleted"
-msgstr "Bestand <b>[file]</b> is verwijderd"
+msgstr "Het bestand <b>[file]</b> is verwijderd"
 
 msgctxt "Languages::text_file_renamed"
 msgid "The file <b>[file]</b> has been successfully renamed to <b>[to_file]</b>"
-msgstr "Bestand <b>[file]</b> is succesvol hernoemd naar <b>[to_file]</b>"
+msgstr "Het bestand <b>[file]</b> is hernoemd naar <b>[to_file]</b>"
 
 msgctxt "Languages::text_file_restored"
 msgid "The file <b>[file]</b> has been restored from the repository"
@@ -10539,7 +10539,7 @@ msgstr "Bestand <b>[file]</b> is teruggezet van de bron"
 
 msgctxt "Languages::text_file_saved"
 msgid "The file <b>[file]</b> is successfully saved"
-msgstr "Bestand <b>[file]</b> is succesvol opgeslagen"
+msgstr "Het bestand <b>[file]</b> is opgeslagen"
 
 msgctxt "Languages::text_fill_the_mandatory_fields"
 msgid "You need to complete all the mandatory fields"
@@ -10603,7 +10603,7 @@ msgstr "U heeft een ongeldige URL ingevuld"
 
 msgctxt "Languages::text_items_added"
 msgid "The items were added successfully"
-msgstr "De items zijn succesvol toegevoegd"
+msgstr "De items zijn toegevoegd"
 
 msgctxt "Languages::text_light_box"
 msgid "Lightbox"
@@ -10611,7 +10611,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_linkpointc_notice"
 msgid "Please log in to FirstData Connect Admin, open the \"Administration\" tab, click on the \"Connect settings\" link.<br /> Set the following URL in the \"Order Submission Form\" section: [return_url]<br /> Also please select the check boxes:<br /> - in the 'Confirmation Page (\"Thank You\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br /> - in the 'Failure Page (\"Sorry\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br />"
-msgstr "Alstublieft Inloggen op FirstData verbinding Admin, opent u het tabblad 'Beheer', klik op de \"Connect settings\" link. < br / > de volgende URL in de sectie \"Indiening bestelformulier\" instellen: [return_url] < br / > ook gelieve te selecteren de selectievakjes uit: < br / > - 'bevestigingspagina (\"Thank You\" pagina-URL)' sectie <b>'URL is een CGI-script'</b> het selectievakje in < br / > - in ' Failure (\"Sorry\" Page URL)' sectie <b>'URL is een CGI-script'</b> het selectievakje pagina < br / >"
+msgstr "Log in op FirstData Connect Admin en open het tabblad 'Beheer', klik vervolgens op de \"Connect settings\" link. < br / > Stel de volgende URL in, in de sectie \"Order Submission Form\": [return_url] < br / > Selecteer ook de opties: < br / > - in de sectie bevestigingspagina (\"Thank You\" pagina-URL) <b>\"URL is a CGI-script\"</b>< br / > - in de sectie ' Failure pagina (\"Sorry\" Page URL)' <b>'URL is a CGI-script'</b> < br / >"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -10639,7 +10639,7 @@ msgstr "Max waarde van het veld \"limiet\" kan niet hoger dan 25 zijn indien het
 
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
-msgstr "Nog geen antwoord van Skrill ontvangen, nog even geduld. Hoewel de bestelling nog niet is afgerond in de webwinkel, is het hoogst waarschijnlijk dat deze succesvol is verwerkt door Skrill. Neem contact met ons op en vertel ons uw bestelnummer ontvangen van Skrill"
+msgstr "Nog geen antwoord van Skrill ontvangen, nog even geduld. Hoewel de bestelling nog niet is afgerond in de webwinkel, is het hoogst waarschijnlijk dat deze zijn verwerkt door Skrill. Neem contact met ons op en vertel ons uw bestelnummer ontvangen van Skrill"
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
@@ -10756,15 +10756,15 @@ msgstr "Uw bestelling is afgewezen door de betalings-verwerker. Controleer nogma
 
 msgctxt "Languages::text_order_placed_successfully"
 msgid "Congratulations! Your order has been successfully placed."
-msgstr "Gefeliciteerd! Uw bestelling is succesvol geplaatst."
+msgstr "Gefeliciteerd! Uw bestelling is geplaatst."
 
 msgctxt "Languages::text_order_repayed_successfully"
 msgid "Order has been repaid successfully."
-msgstr "Bestelling is succesvol opnieuw betaald."
+msgstr "De bestelling is opnieuw betaald."
 
 msgctxt "Languages::text_order_saved_successfully"
 msgid "Order has been saved successfully."
-msgstr "Bestelling succesvol opgeslagen."
+msgstr "De bestelling is opgeslagen."
 
 msgctxt "Languages::text_order_status_notification"
 msgid "Please note that the notification of changing the status  will be sent depending on the settings of this status"
@@ -10776,11 +10776,11 @@ msgstr "Niet op voorraad"
 
 msgctxt "Languages::text_pages_cloned"
 msgid "The pages have been cloned successfully. Below the list of new pages."
-msgstr "De pagina's zijn succesvol gekloond. Hieronder de lijst met nieuwe pagina's."
+msgstr "De pagina's zijn gekloond. Hieronder de lijst met nieuwe pagina's."
 
 msgctxt "Languages::text_pages_have_been_deleted"
 msgid "Pages have been deleted successfully."
-msgstr "Geselecteerde pagina's zijn verwijderd."
+msgstr "De geselecteerde pagina's zijn verwijderd."
 
 msgctxt "Languages::text_page_changed"
 msgid "Are you sure you want to leave this page? Your changes have not been saved. Click on OK to continue, or on Cancel to stay on the current page."
@@ -10788,7 +10788,7 @@ msgstr "Weet u zeker dat u deze pagina wilt verlaten? Uw wijzigingen zijn niet o
 
 msgctxt "Languages::text_page_has_been_deleted"
 msgid "Page has been deleted successfully."
-msgstr "Geselecteerde pagina is verwijderd"
+msgstr "De geselecteerde pagina is verwijderd"
 
 msgctxt "Languages::text_page_loading"
 msgid "Loading... Your request is being processed, please wait."
@@ -10884,7 +10884,7 @@ msgstr "<b>Opmerking:</b> Verstuur de volgende informatie naar uw payment suppor
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
-msgstr "Laden.. Posities worden geupdate. Een moment geduld a.u.b."
+msgstr "Aan het laden... Posities worden bijgewerkt, een ogenblik geduld."
 
 msgctxt "Languages::text_prettyphoto"
 msgid "prettyPhoto"
@@ -10896,27 +10896,27 @@ msgstr "Decimaal scheidingsteken voor product prijzen."
 
 msgctxt "Languages::text_products_added"
 msgid "The products have been added successfully. See the list of the new products below."
-msgstr "De producten zijn succesvol toegevoegd. Bekijk de lijst met nieuwe producten hieronder."
+msgstr "De producten zijn toegevoegd. Bekijk hieronder de lijst met nieuwe producten."
 
 msgctxt "Languages::text_products_cloned"
 msgid "The products have been cloned successfully. Below the list of new products"
-msgstr "De producten zijn succesvol gekloond. Hieronder de lijst met nieuwe producten"
+msgstr "De producten zijn gekloond. Hieronder de lijst met nieuwe producten"
 
 msgctxt "Languages::text_products_have_been_deleted"
 msgid "Products have been deleted successfully."
-msgstr "Geselecteerde producten zijn verwijderd."
+msgstr "De geselecteerde producten zijn verwijderd."
 
 msgctxt "Languages::text_products_updated"
 msgid "The following products have been updated:"
-msgstr "De volgende producten zijn aangepast:"
+msgstr "De volgende producten zijn bijgewerkt:"
 
 msgctxt "Languages::text_products_updated_successfully"
 msgid "The product(s) have been updated successfully"
-msgstr "De product(en) zijn succesvol gewijzigd"
+msgstr "De producten zijn bijgewerkt"
 
 msgctxt "Languages::text_product_cloned"
 msgid "The product has been cloned"
-msgstr "Het product <b>[product]</b> is succesvol gekloond. U kunt het nu wijzigen."
+msgstr "Het product <b>[product]</b> is gekloond. U kunt het nu wijzigen."
 
 msgctxt "Languages::text_product_detailed_image"
 msgid "(optional displayed in popup window)"
@@ -10952,15 +10952,15 @@ msgstr "<h4>Profiel details</h4><p>Op deze pagina kunt u uw inloggegevens en per
 
 msgctxt "Languages::text_profile_is_created"
 msgid "The account has been created successfully."
-msgstr "Account is succesvol aangemaakt!"
+msgstr "Het profiel is aangemaakt"
 
 msgctxt "Languages::text_profile_is_updated"
 msgid "The profile data has been updated successfully."
-msgstr "Profiel is succesvol gewijzigd."
+msgstr "Het profiel is bijgewerkt."
 
 msgctxt "Languages::text_profile_should_be_approved"
 msgid "Your account has been created successfully, but it must be activated by the store administrator before you are able to sign in."
-msgstr "Uw account is succesvol aangemaakt, echter het dient eerst door ons goedgekeurd te worden alvorens u kunt inloggen."
+msgstr "Uw profiel is aangemaakt, maar dient eerst door de beheerder goedgekeurd te worden alvorens u kunt inloggen."
 
 msgctxt "Languages::text_promotions_group_condition"
 msgid "if [set] of these conditions are [set_value]"
@@ -11076,7 +11076,7 @@ msgstr "U heeft een verzoek tot activering op de datum [date]. Houd er rekening 
 
 msgctxt "Languages::text_skrill_activate_quick_checkout_short_explanation_2"
 msgid "After activation Skrill will grant you access to a new section in your Skrill Account called Merchant Tools. There please choose a secret word (NOT the same as your password) and enter it in the section below to connect to Skrill. The secret word is the last step of your activation process and encrypts your payments securely. After successful submission you will be ready to use all the direct payment options of Skrill."
-msgstr "Na activering zal Skrill u toegang verlenen tot een nieuwe sectie in uw Moneybookers account genaamd Merchant Extra. Kies daar een geheim woord (NIET hetzelfde als wachtwoord) en vul het in de sectie hieronder in om verbinding te maken met Skrill. Het geheime woord is de laatste stap voor uw activeringsproces en versleutelt uw betalingen veilig. Na een succesvolle inzending bent u klaar om alle rechtstreekse betaalopties van Moneybookers te gebruiken."
+msgstr "Na het activeren van Skrill wordt er toegang gegeven tot een apart gedeelte in het Skrill-account genaamd Merchant Tools. Kies hier een wachtwoord (NIET hetzelfde als uw Skrill wachtwoord!) en voer het in onderstaand veld in om verbinding met Skrill te maken. Dit wachtwoord is de laatste stap in het activatieproces en versleutelt de betalingen. Nadat dit voltooid is kunt u direct Skrill-betalingen accepteren."
 
 msgctxt "Languages::text_skrill_currs_notice"
 msgid "If you selected a currency that is not the base one in your store, please make sure that it has the correct <a href=\"http://en.wikipedia.org/wiki/ISO_4217\">ISO 4217 code</a> on the <a href=\"[link]\">currencies</a> page."
@@ -11096,7 +11096,7 @@ msgstr "Enkele verplichte velden voor Quick Checkout activatie zijn niet ingevul
 
 msgctxt "Languages::text_skrill_logo_notice"
 msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
-msgstr "Als uw HTTPS-server niet is ingesteld, het logo met het HTTP-protocol zal worden aangenomen en gebruikers ziet de waarschuwing \"Verbinding gedeeltelijk gecodeerd\" op de Skrill pagina."
+msgstr "Als uw HTTPS-server niet is ingesteld zal het logo met het HTTP-protocol worden gebruikt en gebruikers zien op de Skrill pagina de waarschuwing \"Verbinding gedeeltelijk gecodeerd\"."
 
 msgctxt "Languages::text_skrill_notice"
 msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
@@ -11128,7 +11128,7 @@ msgstr "U kunt geen tijds-interval gebruiken voor de \"Status\"-parameter, daar 
 
 msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
-msgstr "Verbruik succesvol gewijzigd"
+msgstr "Opslaglocatie is gewijzigd"
 
 msgctxt "Languages::text_store_mode_changed_to_free"
 msgid "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
@@ -11244,7 +11244,7 @@ msgstr "Deze bestanden hebben lokale wijzigingen en worden gebackuped; verhelp h
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
-msgstr "Uw CS-Cart versie is succesvol gecontroleerd en klaar voor upgrading"
+msgstr "De CS-Cart installatie is gecontroleerd en klaar voor de upgrade"
 
 msgctxt "Languages::text_uc_conflicts"
 msgid "The following files had local modifications"
@@ -11344,7 +11344,7 @@ msgstr "Updaten van de lijst van geïnstalleerde upgrades mislukt"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "<p>Your store has been upgraded successfully.</p>"
-msgstr "<p>Uw winkel is succesvol geüpgrade.</p>"
+msgstr "<p>Het upgraden van de winkel is geslaagd.</p>"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11916,19 +11916,19 @@ msgstr "Gereedschappen"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Addons count"
-msgstr "Addons tellen"
+msgstr "Aantal plug-ins"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
-msgstr "Huidige staat"
+msgstr "Huidige status"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No addons"
-msgstr "Geen addons"
+msgstr "Geen plug-ins"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party addons"
-msgstr "Geen 3th-party addons"
+msgstr "Geen plug-ins van een derde partij"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -12112,7 +12112,7 @@ msgstr "Waar"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Willekeurige tekst getoond samen met de verzending methode titel."
+msgstr "Willekeurige tekst wordt samen met de titel van de verzendmethode weergeven."
 
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
@@ -12160,7 +12160,7 @@ msgstr "Indien ingeschakeld worden alleen online gebruikers getoond in de zoekre
 
 msgctxt "Languages::tt_views_categories_update_product_details_layout"
 msgid "By default, the template that is defined in the appearance settings of the storefront is used"
-msgstr "Standaard wordt het sjabloon gebruikt dat in de lay-out instellingen van de website ingesteld staat."
+msgstr "Het sjabloon dat is geselecteerd in de opmaakinstellingen wordt als standaard voor de winkel gebruikt."
 
 msgctxt "Languages::tt_views_currencies_update_after_sum"
 msgid "If enabled, the symbol of the currency is shown after the sum."
@@ -12220,11 +12220,11 @@ msgstr "Niet-downloadbare producten met een gewicht van 0 worden behandeld als h
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categorieën worden weergegeven in de breadcrumbs navigatie."
+msgstr "Categorieën worden weergegeven in het broodkruimelpad."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Bijhouden voorraad van product aantal. De \"Inschakelen inventaris tracking\" inschakelen optie (instellingen-> Algemeen) te wijzigen."
+msgstr "Aantal producten op voorraad bijhouden. Schakel de optie \"voorraadbeheer\" in."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12296,7 +12296,7 @@ msgstr "Maximaal aantal grafiek componenten."
 
 msgctxt "Languages::tt_views_site_layout_logos_alt_text"
 msgid "Leave empty to use company name as alternative text."
-msgstr "Laat leeg om bedrijfsnaam als alternatieve tekst te gebruiken."
+msgstr "Laat dit veld leeg om de bedrijfsnaam als alt-tekst te gebruiken."
 
 msgctxt "Languages::tt_views_storage_cdn_cname"
 msgid "Domain name that you want to use instead of the CloudFront domain name for the URLs for your files. You also need to create a CNAME record with your DNS service to route queries to CloudFront host (it will be displayed on this page after you enter account information)."
@@ -12472,11 +12472,11 @@ msgstr "Wijzig profiel"
 
 msgctxt "Languages::update_profile_notification"
 msgid "Your profile has been updated."
-msgstr "Uw profiel is aangepast."
+msgstr "Uw profiel is bijgewerkt."
 
 msgctxt "Languages::update_profile_notification_header"
 msgid "Your profile has been updated"
-msgstr "Profielwijziging"
+msgstr "Uw profiel is bijgewerkt"
 
 msgctxt "Languages::update_status"
 msgid "Update status"
@@ -12676,7 +12676,7 @@ msgstr "Gebruik bestaande blok"
 
 msgctxt "Languages::use_existing_store"
 msgid "Copy existing store configuration"
-msgstr "Kopieer bestaande winkel configuratie"
+msgstr "Bestaande winkelconfiguratie kopiëren"
 
 msgctxt "Languages::use_negotiated_rates"
 msgid "Use negotiated rates"
@@ -13240,11 +13240,11 @@ msgstr "Verborgen categorieën"
 
 msgctxt "Languages::clone_categories"
 msgid "Copy categories"
-msgstr "Kopieer categorieën"
+msgstr "Categorieën kopiëren"
 
 msgctxt "Languages::clone_layouts"
 msgid "Copy layouts"
-msgstr "Kopieer layouts"
+msgstr "Opmaak kopiëren"
 
 msgctxt "Languages::clone_pages"
 msgid "Share pages"
@@ -13276,7 +13276,7 @@ msgstr "Deel aanbiedingen"
 
 msgctxt "Languages::clone_settings"
 msgid "Copy settings"
-msgstr "Kopieer instellingen"
+msgstr "Instellingen kopiëren"
 
 msgctxt "Languages::clone_shippings"
 msgid "Share shipping methods"
@@ -13284,7 +13284,7 @@ msgstr "Deel verzendmethodes"
 
 msgctxt "Languages::clone_sitemap"
 msgid "Copy sitemap"
-msgstr "Kopieer sitemap"
+msgstr "Sitemap kopiëren"
 
 msgctxt "Languages::clone_static_data_clone"
 msgid "Copy menus"
@@ -13312,7 +13312,7 @@ msgstr "Scheidingsteken voor productopties binnen een combinatie (bijv. \"Kleur:
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
-msgstr "Upload & installeer add-on"
+msgstr "Upload en installeer plug-ins"
 
 msgctxt "Languages::upload_theme"
 msgid "Upload theme"
@@ -13356,7 +13356,7 @@ msgstr "Ongeldige FTP toegang"
 
 msgctxt "Languages::install_addon_text"
 msgid "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
-msgstr "Add-ons breiden de functionaliteiten van uw winkel uit. <br />U kunt een add-on installeren door een .zip, .tgz, of .gz bestand kiezen en op Upload & Installeren te klikken."
+msgstr "Plug-ins verhogen de functionaliteit van de webwinkel. <br/> Installeer een plug-in door een .zip, .tgz of .gz-archief te selecteren en op Upload en installeer te klikken."
 
 msgctxt "Languages::xml_error"
 msgid "XML parse error"
@@ -13388,7 +13388,7 @@ msgstr "De [extension] plugin moet van der server worden verwijderd voor een cor
 
 msgctxt "Languages::checking_extension_version_is_not_suitable"
 msgid "The [extension] version ([version]) is not supported by the add-on. Minimal: [min]. Maximal: [max]."
-msgstr "De [extension] versie ([version]) wordt niet ondersteund door the addon. Minimaal: [min]. Maximaal: [max]."
+msgstr "De [extension] versie ([version]) wordt niet ondersteund door de plug-in. Minimaal: [min]. Maximaal: [max]."
 
 msgctxt "Languages::scroll_per_page"
 msgid "Scroll per page"
@@ -13660,7 +13660,7 @@ msgstr "Loggen"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
-msgstr "Rapporten"
+msgstr "Rapportages"
 
 msgctxt "SettingsSections::Security"
 msgid "Security settings"
@@ -13876,11 +13876,11 @@ msgstr "Toon 'Winkelnieuws' sectie"
 
 msgctxt "SettingsOptions::lines_number"
 msgid "Number of grid lines"
-msgstr "Aantal grid lijnen"
+msgstr "Aantal roosterlijnen"
 
 msgctxt "SettingsOptions::grid_color"
 msgid "Grid color (hexadecimal code)"
-msgstr "Grid kleur (hexadecimale code)"
+msgstr "Roosterkleur (hexadecimale code)"
 
 msgctxt "SettingsOptions::ftp_username"
 msgid "Username"
@@ -14308,7 +14308,7 @@ msgstr "Volg-mijn-bestellingen tonen"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
-msgstr "Productlijst layout instellingen"
+msgstr "Opmaak van de productlijst"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
@@ -14748,7 +14748,7 @@ msgstr "Lage voorraad"
 
 msgctxt "SettingsVariants::log_type_database::restore"
 msgid "Restore"
-msgstr "Herstel"
+msgstr "Herstellen"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
@@ -15376,7 +15376,7 @@ msgstr "Winkel <br/> gesloten"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Kopiëren naar andere locaties"
+msgstr "Naar andere locaties kopiëren"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
@@ -15393,4 +15393,8 @@ msgstr "Alle geselecteerde categorieën, subcategorieën en producten zullen wor
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
 msgstr "Alle geselecteerde categorieën, subcategorieën en producten zullen worden verwijderd."
+
+msgctxt "Languages::restore_original"
+msgid "Restore original"
+msgstr "Restore original"
 

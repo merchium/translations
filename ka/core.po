@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 04:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1359,7 +1359,7 @@ msgstr "ძიება..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>We have detected that the browser you are using is not fully supported by the CS-Cart Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>CS-Cart Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access CS-Cart Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
+msgstr "<p>ჩვენ აღმოვაჩინეთ რომ ბროუზერი რომლითაც თქვენ სარგებლობთ არ არის სრულად მხარდაჭერილი ჩვენი ადმინ პანელისთვის. თქვენ შეგიძლიათ დაათვალიეროთ ეს გვერდი თქვენი ბროუზერით თუმცა შესაძლოა მან არ გიჩვენოთ ზუსტად ყველაფერი, ასევე შესაძლოა ვერ გამოიყენოთ საიტის ყველა ფუნქცია.</p><br><p>ადმინ პანელი საუკეთესოდ ჩანს შემდეგ ბროუზერებში:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9-ე ვერსია და ზევით</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (ბოლო ვერსია)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (ბოლო ვერსია)</a></li></ul><br><p>დააჭირეთ ერთ-ერთ ბმულს რათა გადმოიწეროთ ტქევნი არჩეული ბროუზერი. გადმოწერის შემდგომ კი დააინსტალირეთ.</p><br><p>თუ თქვენ არ/ვერ განაახლებთ თქვენს ბროუზერს ეხლა, თქვენ კვლავაც შესძლებთ ადმინ პანელში შესვლას თუმცა თქვენ შესაძლოა ვერ გამოიყენოთ საიტის ყველა ფუნქცია სრულად.<br><br><a href=\"[url]\">გაგრძელება</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -4695,7 +4695,7 @@ msgstr "Learn more about storefront configuration in our"
 
 msgctxt "Languages::welcome_screen.thanks"
 msgid "Thank you for choosing [product]. Happy selling!"
-msgstr "გმადლობთ რომ აირჩიეთ CS-Cart. წარმატებულ გაყიდვებს გისურვებთ!!"
+msgstr "გმადლობთ რომ აირჩიეთ [product]. წარმატებულ გაყიდვებს გისურვებთ!"
 
 msgctxt "Languages::installer_complete_title"
 msgid "Installation successfully finished"
@@ -5407,15 +5407,15 @@ msgstr "Оставьте это поле пустым, чтобы разреши
 
 msgctxt "Languages::mb_amounts_not_match"
 msgid "The amount value received in status request differs from the original order total"
-msgstr "Полученное значение в запросе статуса отличается от значения полученного в CS-Cart;"
+msgstr "The amount value received in status request differs from the original order total"
 
 msgctxt "Languages::mb_currencies_not_match"
 msgid "The currency value received in status request differs from the store currency"
-msgstr "Полученное значение валюты в запросе статуса отличается от значения полученного в CS-Cart;"
+msgstr "The currency value received in status request differs from the store currency"
 
 msgctxt "Languages::mb_md5_hashes_not_match"
 msgid "The md5 hash value received in status request differs from the calculated one"
-msgstr "Полученное значение md5 hash в запросе статуса отличается от значения полученного в CS-Cart;"
+msgstr "The md5 hash value received in status request differs from the calculated one"
 
 msgctxt "Languages::mb_transaction_id"
 msgid "MB Transaction ID"
@@ -6919,11 +6919,11 @@ msgstr "ძირითადი ვალუტა"
 
 msgctxt "Languages::print_card"
 msgid "Print card"
-msgstr "Распечатать открытку"
+msgstr "ბარათის ამობეჭდვა"
 
 msgctxt "Languages::print_credit_memo"
 msgid "Print credit memo"
-msgstr "Распечатать кредитовое извещение"
+msgstr "Print credit memo"
 
 msgctxt "Languages::print_invoice"
 msgid "Print invoice"
@@ -6935,7 +6935,7 @@ msgstr "შეკვეთის ამობეჭდვა"
 
 msgctxt "Languages::print_packing_slip"
 msgid "Print packing slip"
-msgstr "შესაფუთი ორდერის ამობეჭდვა"
+msgstr "შესაფუთი შეკვეთის ამობეჭდვა"
 
 msgctxt "Languages::print_pdf_packing_slip"
 msgid "Print packing slip (pdf)"
@@ -6943,15 +6943,15 @@ msgstr "Print packing slip (pdf)"
 
 msgctxt "Languages::print_pdf_credit_memo"
 msgid "Print credit memo (pdf)"
-msgstr "Распечатать кредитовое извещение в формате (pdf)"
+msgstr "Print credit memo (pdf)"
 
 msgctxt "Languages::print_pdf_invoice"
 msgid "Print invoice (pdf)"
-msgstr "ინვოისის გადმოტვირთვა (pdf)"
+msgstr "ინვოისის ამობეჭდვა (pdf)"
 
 msgctxt "Languages::print_pdf_order_details"
 msgid "Print order details (pdf)"
-msgstr "შეკვეთის ამობეჭდვა  PDF ფორმატში"
+msgstr "შეკვეთის ამობეჭდვა  (PDF ფორმატში)"
 
 msgctxt "Languages::print_slip"
 msgid "Print slip"
@@ -8539,7 +8539,7 @@ msgstr "გამგზავნი"
 
 msgctxt "Languages::send_feedback"
 msgid "Help us improve [product]"
-msgstr "დაგვეხმარეთ CS-Cart -ის გაუმჯობესებაში"
+msgstr "დაგვეხმარეთ [product]-ის გაუმჯობესებაში"
 
 msgctxt "Languages::send_notification"
 msgid "Send notification to selected"
@@ -8607,7 +8607,7 @@ msgstr "გილოცავთ თქვენს პირველ გან
 
 msgctxt "Languages::share.first_order_tweet"
 msgid "Wow! The first complete order in my [product]-powered store"
-msgstr "Wow! The first complete order in my CS-Cart-powered store"
+msgstr "ვაშა! პირველი დასრულებული შეკვეთა ჩემს [product]-მაღაზიაში"
 
 msgctxt "Languages::share.installation_tweet"
 msgid "I have just created an online store with [product_name]"
@@ -9727,11 +9727,11 @@ msgstr "Storefront theme"
 
 msgctxt "Languages::store_mode_will_be_changed_to_free"
 msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact the <a href=\"http://www.cs-cart.com/helpdesk\">support team</a>"
+msgstr "დაინსტალირებული სისტემის შემოწმებისას წარმოიშვა ხარვეზები. თქვენი მაღაზია გადაირთვება უფასო რეჟიმზე 2 დღის განმავლობაში. გთხოვთ დაუკავშირდეთ <a href=\"[href]\">ჩვენს დახმარების ჯგუფს</a>"
 
 msgctxt "Languages::store_mode_will_be_changed_to_trial"
 msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact the <a href=\"http://www.cs-cart.com/helpdesk\">support team</a>"
+msgstr "დაინსტალირებული სისტემის შემოწმებისას წარმოიშვა ხარვეზები. თქვენი მაღაზია გადაირთვება სადემონსტრაციო რეჟიმზე 2 დღის განმავლობაში. გთხოვთ დაუკავშირდეთ <a href=\"[href]\">ჩვენს დახმარების ჯგუფს</a>"
 
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
@@ -10143,7 +10143,7 @@ msgstr "თქვენ შეგიძლიათ ატვირთოთ მ
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "ყურადღება! თქვენ უნდა მიუთითოთ თქვენი მაღაზიის ბმული <b>[callback_url]</b> Merchant URL-ს ველშიна Amazon's Seller Central Website-ზე (Settings > Checkout Pipeline Settings). წინააღმდეგ შემთხვევაში თქვენ ვერ შეძლებთ Amazon Checkout-ით გადახდების მიღებას თქვენს მაღაზიაში"
+msgstr "ყურადღება! თქვენ უნდა მიუთითოთ თქვენი მაღაზიის ბმული <b>[callback_url]</b> Merchant URL-ს ველში Amazon's Seller Central Website-ზე (Settings > Checkout Pipeline Settings). წინააღმდეგ შემთხვევაში თქვენ ვერ შეძლებთ Amazon Checkout-ით გადახდების მიღებას თქვენს მაღაზიაში"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
@@ -10187,7 +10187,7 @@ msgstr "<b>Примечание:</b><br />1. Скопируйте Ваш сер�
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
-msgstr "<span style=\"color:#FF2222\">Внимание!</span> Путь к файлам atos не должен содержать больше 60 символов, в противном случае скопируйте папку atos_files в какую-нибудь родительскую директорию, например, в  центральную (основную) директорию магазина. Пожалуйста убедитесь, что директория с atos файлами имеет все права доступа."
+msgstr "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
@@ -10199,7 +10199,7 @@ msgstr "ყურადღება: ეს ფაილი განთავ�
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
-msgstr "Эта секция позволяет Вам управлять вашими резервными файлами.<br>- Для восстановления базы данных, отметьте галочкой необходимый файл и нажмите на кнопку \"Восстановить\" (Обратите внимание, что только первый файл будет выполнен, если Вы отмечаете более одного файла)<br>- Чтобы удалить файлы, отметьте их галочкой и нажмите кнопку \"Удалить\".<br>- Чтобы загрузить файл на ваш компьютер, нажмите на название файла."
+msgstr "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
@@ -10395,7 +10395,7 @@ msgstr "ლოგო <b>მომხმარებლის</b> მხარე
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in Post format'</b>.<br /> -&nbsp;Set <u>'Approved URL'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Примечание</b>: Для того, чтобы отслеживать Ваши DataTrans заказы с помощью CS-Cart, Вам нужно сделать следующее:<br /> <br /> -&nbsp;Авторизоваться на DataTrans<br /> -&nbsp;Нажать на ссылку<u>'Upp Data'</u> в секции<u>'Upp Administration'</u>.<br /> -&nbsp;Установить <u>'URL Post data format'</u> в <b>'Data in Post format'</b>.<br /> -&nbsp;Установить <u>'Approved URL'</u> как:<br /> <b>[post_url]</b><br /> -&nbsp;Нажать на ссылку <u>'Security'</u> в секции <u>'Upp Administration'</u>.<br /> -&nbsp;Выбрать опцию<b>'An additional merchant identification will be send with payment messages'</b>.<br /> -&nbsp;Сгенерировать новую цифровую подпись, используя кнопку <u>'Generate new sign'</u>.<br /> -&nbsp;Введите сгенерированное значение в поле<u>'Digital signature'</u> на странице настроек метода оплаты DataTrans в Вашем CS-Cart<br />"
+msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in Post format'</b>.<br /> -&nbsp;Set <u>'Approved URL'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10503,7 +10503,7 @@ msgstr "გთხოვთ გადაამოწმოთ რომ საი
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
-msgstr "К сожалению, Ваша подписка на CS-Cart истекла. Пожалуйста, обновите её как можно скорее, чтобы избежать отключения программы."
+msgstr "სამწუხაროდ თქვენი ხელმოწერა პროდუქტისთვის [product] ამოწურულია. გთხოვთ განაახლოთ რაც შეიძლება ჩქარა რათა არ მოხდეს პროგრამის შეყოვნება/შეჩერება."
 
 msgctxt "Languages::tmpl_text_fancybox"
 msgid "FancyBox"
@@ -10583,7 +10583,7 @@ msgstr "На вашем сервере <b>НЕ УСТАНОВЛЕНА</b> GD б�
 
 msgctxt "Languages::text_hsbc_notice"
 msgid "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory: [cart_dir] (shell command \"chmod -R 755\")."
-msgstr "<b>ID клиента -</b> Ваше ID, номер от 0 до 999999999, либо действительные клентское имя в следующем формате: UK12345678CUR. <br> Имя чувствительно к регистру. <br /> <b>Внимание пользователей UNIX:</b><br /> Пожалуйста, убедитесь, что у Вас следующие права доступа на директорию: chmod -R 755 .[cart_dir]/payments"
+msgstr "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory: [cart_dir] (shell command \"chmod -R 755\")."
 
 msgctxt "Languages::text_ideal_basic_notice"
 msgid "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
@@ -10819,7 +10819,7 @@ msgstr "Please wait while processing the payment details..."
 
 msgctxt "Languages::text_paypal_status_map"
 msgid "PayPal order status convertion map"
-msgstr "PayPal to CS-Cart order status convertion map"
+msgstr "PayPal order status convertion map"
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
@@ -10879,7 +10879,7 @@ msgstr "წვდომის უფლებები შეიცვალა"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Внимание:</b> Пожалуйста, отправьте следующую информацию в службу поддержки системы оплаты:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
@@ -11003,7 +11003,7 @@ msgstr "При импорте дополнительных изображени�
 
 msgctxt "Languages::text_remove_backup_files"
 msgid "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
-msgstr "ყურადღება! თუკი თქვენ წაშლით სარეზერვო ფაილებს, ვეღარ შეძლებთ CS-Cart-ის საწყის მდგომარეობაში დაბრუნებას. დარმწუნდით რომ CS-Cart მუშაობს კორექტულად და ბაზის სარეზერვო ასლიც ინახება უსაფრთხო ადგილას."
+msgstr "ყურადღება! თუკი თქვენ წაშლით სარეზერვო ფაილებს, ვეღარ შეძლებთ CS-Cart-ის საწყის მდგომარეობაში დაბრუნებას. დარწმუნდით რომ CS-Cart მუშაობს კორექტულად და ბაზის სარეზერვო ასლიც ინახება უსაფრთხო ადგილას."
 
 msgctxt "Languages::text_required_group_product"
 msgid "Please select a product for the required group [group_name]"
@@ -11255,7 +11255,7 @@ msgstr "Не достаточно прав для обновления базы 
 
 msgctxt "Languages::text_uc_emergency_restore"
 msgid "Attention! Please copy and save the URL below - you can use it to restore your store if upgrade fails.<br /><b>[href]</b>"
-msgstr "Внимание! Пожалуйста, скопируйте и сохраните ссылку указанную ниже - Вы сможете использовать ее для восстановления магазина, если возникнут ошибки во время обновления.<br /><b>[href]</b>"
+msgstr "ყურადღება! გთხოვთ შეინახოთ ქვემოთ მოცემული ბმული, ამით თქვენ შესძლებთ მაღაზიის აღდგენას თუკი წარმოიშვა შეფერხებები აღდგენის პროცესში.<br /><b>[href]</b>"
 
 msgctxt "Languages::text_uc_failed_to_backup_tables"
 msgid "The database tables have not been backed up"
@@ -11299,7 +11299,7 @@ msgstr "არასოწრი მისამართი განახლ�
 
 msgctxt "Languages::text_uc_license_number_required"
 msgid "Please enter your [product] license number"
-msgstr "გთხოვთ შეიყვანოთ CS-Cart -ის ლიცენიის გასაღები"
+msgstr "გთხოვთ შეიყვანოთ  [product] -ის ლიცენიის გასაღები"
 
 msgctxt "Languages::text_uc_list_of_updates_missing"
 msgid "List of upgrades is missing"
@@ -11351,7 +11351,7 @@ msgstr "<p>Your store was closed during the upgrading procedure. We recommend yo
 
 msgctxt "Languages::text_uc_upgrade_completed_with_errors"
 msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"http://www.cs-cart.com\">CS-Cart support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
+msgstr "<p>განახლების დროს წარმოიშვა შეცდომები.</p><p>თქვენ შეგიძლიათ დაუკავშირდეთ <a href=\"[href]\">CS-Cart-ის დახმარების ჯგუფს</a> დახმარებისთვის.</p><p>თქვენ ასევე შეგიძლიათ <a href=\"[restore_link]\">აღადგინოთ</a> წინა მაღაზიის ვერსია.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -11383,7 +11383,7 @@ msgstr "ვალუტა რომელიც გამოიყენებ�
 
 msgctxt "Languages::text_upgrade_available"
 msgid "A new version of [product] is available. If you want to upgrade to the latest version now, click <a href=\"[link]\">here</a>."
-msgstr "ხელმისაწვდომია CS-Cart-ის ახალი ვერსია! <a href=\"[link]\">გთხოვთ განაახლოთ თქვენი ვერსია</a>."
+msgstr "ხელმისაწვდომია [product] -ის ახალი ვერსია. თუ თქვენ გსურთ რომ განაახლოთ თქვენი ვერსია დააწკაპუნეთ  <a href=\"[link]\">აქ</a>."
 
 msgctxt "Languages::text_usergroup_activated"
 msgid "The user group level you requested has been activated"
@@ -12971,7 +12971,7 @@ msgstr "დაცული კავშირის შემოწმება 
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
-msgstr "უსაფრთხოების მიზნით აუცილებელი რეკომენდაციაა რომ სკრიპტს <b>admin.php</b> -ს გადაარქვათ სახელი. (დეტალები იხილეთ აქ <a href=\"http://anonym.to/?http://kb2.cs-cart.com/adminarea-protection\" target=\"_blank\">ცოდნის ბაზა</a>)."
+msgstr "უსაფრთხოების მიზნით აუცილებელი რეკომენდაციაა რომ სკრიპტს <b>admin.php</b> -ს გადაარქვათ სახელი.  დეტალები იხილეთ აქ (check the <a href=\"[href]\" target=\"_blank\">ცოდნის ბაზა</a>)"
 
 msgctxt "Languages::warning_insecure_password"
 msgid "The password must be different from the username! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
@@ -15394,4 +15394,8 @@ msgstr "This will delete all selected category's products, as well as its subcat
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
 msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+
+msgctxt "Languages::restore_original"
+msgid "Restore original"
+msgstr "Restore original"
 

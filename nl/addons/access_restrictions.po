@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 07:00-0400\n"
+"PO-Revision-Date: 2014-09-29 12:00-0400\n"
 
 msgctxt "Addons::name::access_restrictions"
 msgid "Access restrictions"
@@ -15,7 +15,7 @@ msgstr "Toegangsbeperkingen"
 
 msgctxt "Addons::description::access_restrictions"
 msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
-msgstr "Hiermee kunt u de storefront en beheerder toegang  beperken tot bepaalde IP-adressen met verschillende opties"
+msgstr "Beperk de toegang tot uw webshop en beheerderspagina's tot bepaalde IP-adressen met verschillende opties"
 
 msgctxt "Languages::access_restrictions"
 msgid "Access restrictions"
@@ -55,7 +55,7 @@ msgstr "Creditcard toevoegen"
 
 msgctxt "Languages::privileges.manage_access_restrictions"
 msgid "Manage access restrictions"
-msgstr "Beheer toegangsbeperkingen"
+msgstr "Toegangsbeperkingen beheren"
 
 msgctxt "Languages::domain"
 msgid "Domain"
@@ -67,27 +67,27 @@ msgstr "Het ingevoerde IP-adres <b>[entered_ip]</b> verbiedt toegang tot het Beh
 
 msgctxt "Languages::text_cc_number_is_blocked"
 msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
-msgstr "Het kredietkaartnummer <b>[cc_number]</b> wordt geblokkeerd door de beheerder. Neem contact op met de winkel beheerder of probeer een andere kaart."
+msgstr "Het creditcard nummer <b>[cc_number]</b> wordt geblokkeerd door de beheerder. Neem contact op met de beheerder of probeer een andere kaart."
 
 msgctxt "Languages::text_not_valid_ip"
 msgid "<b>[ip]</b> is not a valid ip address."
-msgstr "<b>[ip]</b> is niet een geldig IP-adres."
+msgstr "<b>[ip]</b> is geen geldig IP-adres."
 
 msgctxt "Languages::text_not_valid_domain"
 msgid "<b>[domain]</b> is not a valid domain name."
-msgstr "<b>[domain]</b> is niet een geldig domeinnaam."
+msgstr "<b>[domain]</b> is geen geldige domeinnaam."
 
 msgctxt "Languages::text_not_valid_cc_number"
 msgid "<b>[cc_number]</b> is not a valid credit card number."
-msgstr "<b>[cc_number]</b> is niet een geldige kredietkaartnummer."
+msgstr "<b>[cc_number]</b> is geen geldig creditcard nummer."
 
 msgctxt "Languages::text_email_is_blocked"
 msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
-msgstr "Het e-mail adres <b>[email]</b> wordt geblokkeerd door de beheerder. Neem contact op met de winkel beheerder of probeer een ander e-mail."
+msgstr "Het e-mailadres <b>[email]</b> is geblokkeerd door de beheerder. Neem contact op met de beheerder of probeer een ander e-mailadres."
 
 msgctxt "Languages::text_ips_denied"
 msgid "You are not allowed to access this area"
-msgstr "U heeft geen toegang of rechten voor dit gedeelte"
+msgstr "U heeft geen toegang tot deze pagina"
 
 msgctxt "Languages::text_ip_blocked_failed_login"
 msgid "The IP was blocked after [number] unsuccessful logins"
@@ -99,35 +99,35 @@ msgstr "Uw IP-adres is geblokkeerd."
 
 msgctxt "Languages::store_admin"
 msgid "Store administrator"
-msgstr "Winkel beheerder"
+msgstr "Beheerder"
 
 msgctxt "Languages::your_ip_added"
 msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
-msgstr "Uw IP-adres <b>[ip]</b> is toegevoegd aan de tabel toegang beperkingen."
+msgstr "Uw IP-adres <b>[ip]</b> is toegevoegd aan de tabel met toegangsbeperkingen."
 
 msgctxt "Languages::your_ip_enabled"
 msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
-msgstr "Uw IP-adres <b>[ip]</b> is ingeschakeld in de tabel toegang beperkingen."
+msgstr "Uw IP-adres <b>[ip]</b> is ingeschakeld in de tabel met toegangsbeperkingen."
 
 msgctxt "Languages::your_ip_removed"
 msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
-msgstr "Uw IP-adres <b>[ip]</b> is verwijderd uit de tabel toegang beperkingen."
+msgstr "Uw IP-adres <b>[ip]</b> is verwijderd uit de tabel met toegangsbeperkingen."
 
 msgctxt "Languages::ip_from"
 msgid "IP from"
-msgstr "IP van"
+msgstr "IP-adres van"
 
 msgctxt "Languages::ip_to"
 msgid "IP to"
-msgstr "IP naar"
+msgstr "IP-adres naar"
 
 msgctxt "Languages::text_access_notice"
 msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
-msgstr "U kunt de joker gebruiken voor de \"Domein\", \"E-mail\" en \"Kredietkaart\": < br / > <b>*</b> - kan een willekeurig aantal tekens weergeven, inclusief nul < br / > <b>?</b> - kan een willekeurig teken weergeven."
+msgstr "U kunt de wildcards gebruiken voor de tabbladen \"Domein\", \"E-mail\" en \"Creditcard\": < br / > <b>*</b> - kan een willekeurig aantal tekens weergeven, inclusief nul < br / > <b>?</b> - kan een willekeurig teken weergeven."
 
 msgctxt "Languages::ips"
 msgid "IPs"
-msgstr "IPs"
+msgstr "IP-adressen"
 
 msgctxt "Languages::make_permanent"
 msgid "Make permanent"
@@ -135,7 +135,7 @@ msgstr "Permanent maken"
 
 msgctxt "Languages::credit_card_number"
 msgid "Credit card number"
-msgstr "Kredietkaartnummer"
+msgstr "Creditcard nummer"
 
 msgctxt "SettingsSections::access_restrictions::general"
 msgid "General"
@@ -147,11 +147,11 @@ msgstr "Beheerdersinstellingen"
 
 msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
 msgid "Allow login to the admin area from specified IPs only"
-msgstr "Laat aanmelden toe in het admin gedeelte van alleen bepaalde IP's"
+msgstr "Laat aanmelden in het beheerdersgedeelte alleen toe voor bepaalde IP-adressen"
 
 msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
 msgid "Block IP after a number of unsuccessful attempts"
-msgstr "Blok IP na een aantal mislukte pogingen"
+msgstr "Blokkeer het IP-adres na een aantal mislukte pogingen"
 
 msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
 msgid "Number of unsuccessful attempts"
@@ -163,15 +163,15 @@ msgstr "Tijd tussen mislukte aanmeld pogingen (seconden)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Tijd waarvoor het IP moet worden geblokkeerd (uren)"
+msgstr "De tijd waarvoor het IP-adres moet worden geblokkeerd (uren)"
 
 msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
 msgid "Customer area settings"
-msgstr "Klant instellingen"
+msgstr "Instellingen klantgedeelte"
 
 msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
 msgid "Block IP after a number of unsuccessful attempts"
-msgstr "Blok IP na een aantal mislukte pogingen"
+msgstr "Blokkeer een IP-adres na een aantal mislukte pogingen"
 
 msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
 msgid "Number of unsuccessful attempts"
@@ -179,9 +179,9 @@ msgstr "Aantal mislukte pogingen"
 
 msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
 msgid "Time between unsuccessful login attempts (seconds)"
-msgstr "Tijd tussen mislukte aanmeld pogingen (seconden)"
+msgstr "De tijd tussen mislukte aanmeld pogingen (seconden)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block_customer"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Tijd waarvoor het IP moet worden geblokkeerd (uren)"
+msgstr "De tijd waarvoor het IP-adres moet worden geblokkeerd (uren)"
 
