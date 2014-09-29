@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-25 08:01-0400\n"
+"PO-Revision-Date: 2014-09-29 04:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3807,7 +3807,7 @@ msgstr "Firma z wybranym przez Ciebie adresem e-mail już istnieje. Spróbuj pon
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC jest zbyt krótki."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4040,6 +4040,10 @@ msgstr "Nazwa pliku"
 msgctxt "Languages::files"
 msgid "Files"
 msgstr "Pliki"
+
+msgctxt "Languages::sell_files"
+msgid "Files to sell"
+msgstr "Files to sell"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -8123,7 +8127,7 @@ msgstr "Kod rezultatu"
 
 msgctxt "Languages::ResultDescription"
 msgid "ResultDescription"
-msgstr "ResultDescription"
+msgstr "Opis wyniku"
 
 msgctxt "Languages::return"
 msgid "Return to normal view"
@@ -8191,7 +8195,7 @@ msgstr "Zaokrąglij do"
 
 msgctxt "Languages::routing_code"
 msgid "Routing Number"
-msgstr "Routing Number"
+msgstr "Numer routingu"
 
 msgctxt "Languages::runtime"
 msgid "Runtime"
@@ -10147,7 +10151,7 @@ msgstr "No response from Amazon Checkout has been received yet, please hold on. 
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
-msgstr "Number of products in your cart differs from the number of products in the Amazon request."
+msgstr "Liczba produktów w koszyku różni się od liczby produktów w Amazon."
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
