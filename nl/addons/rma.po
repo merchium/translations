@@ -7,15 +7,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-30 09:00-0400\n"
+"PO-Revision-Date: 2014-09-30 12:00-0400\n"
 
 msgctxt "Addons::name::rma"
 msgid "RMA"
-msgstr "RBS"
+msgstr "RMA (Retour Materiaal Authorisatie)"
 
 msgctxt "Addons::description::rma"
 msgid "Adds a return management system"
-msgstr "Voegt een retour beheer systeem toe"
+msgstr "Voegt een retour beheer systeem toe aan de webwinkel"
 
 msgctxt "Languages::returned_products"
 msgid "Returned products"
@@ -23,7 +23,7 @@ msgstr "Geretourneerde producten"
 
 msgctxt "Languages::rma_return"
 msgid "Return"
-msgstr "Retour"
+msgstr "Retouraanvraag"
 
 msgctxt "Languages::no_return_requests_found"
 msgid "No return requests found"
@@ -35,7 +35,7 @@ msgstr "Geretourneerd product"
 
 msgctxt "Languages::returns"
 msgid "Returns"
-msgstr "Retours"
+msgstr "Retouraanvragen"
 
 msgctxt "Languages::returns_info"
 msgid "Returns info"
@@ -59,7 +59,7 @@ msgstr "Retour verzoeken"
 
 msgctxt "Languages::return_requests_menu_description"
 msgid "View and process return requests from orders placed on your web site."
-msgstr "Bekijk en verwerk retour verzoeken van bestellingen geplaatst op uw website."
+msgstr "Retour-verzoeken van bestellingen bekijken en verwerken"
 
 msgctxt "Languages::return_status"
 msgid "Return status"
@@ -75,7 +75,7 @@ msgstr "Wat wilt u doen"
 
 msgctxt "Languages::rma_notify_supplier"
 msgid "Notify supplier"
-msgstr "Verwittig leverancier"
+msgstr "Melden aan leverancier"
 
 msgctxt "Languages::add_reason"
 msgid "Add reason"
@@ -87,11 +87,11 @@ msgstr "Nieuwe reden"
 
 msgctxt "Languages::type_comment"
 msgid "Type comments here"
-msgstr "Type reacties hier"
+msgstr "Vul hier reacties in"
 
 msgctxt "Languages::return_requests_note"
 msgid "Go to the list of your return requests"
-msgstr "Ga naar de lijst van uw retour verzoeken"
+msgstr "Ga naar de lijst met retour verzoeken"
 
 msgctxt "Languages::privileges.manage_rma"
 msgid "Manage RMA system"
@@ -111,27 +111,27 @@ msgstr "Retourneerbaar product"
 
 msgctxt "Languages::rma_request_statuses"
 msgid "RMA request statuses"
-msgstr "RBS verzoek statussen"
+msgstr "RMA verzoek statussen"
 
 msgctxt "Languages::return_products_information"
 msgid "Return products information"
-msgstr "Retour producten informatie"
+msgstr "Informatie retour producten"
 
 msgctxt "Languages::declined_products_information"
 msgid "Declined products information"
-msgstr "Geweigerde producten informatie"
+msgstr "Informatie geweigerde producten"
 
 msgctxt "Languages::rma_reasons"
 msgid "RMA reasons"
-msgstr "RBS reden"
+msgstr "RMA reden"
 
 msgctxt "Languages::rma_actions"
 msgid "RMA actions"
-msgstr "RBS acties"
+msgstr "RMA acties"
 
 msgctxt "Languages::rma"
 msgid "RMA"
-msgstr "RBS"
+msgstr "RMA"
 
 msgctxt "Languages::return_period_days"
 msgid "Return period (days)"
@@ -143,7 +143,7 @@ msgstr "Alle acties"
 
 msgctxt "Languages::order_total_will_changed"
 msgid "The order total will be changed by"
-msgstr "Het ordertotaal zal worden gewijzigd door"
+msgstr "Het besteltotaal zal worden gewijzigd door"
 
 msgctxt "Languages::shipping_costs_will_changed"
 msgid "Shipping costs will be changed by"
@@ -159,27 +159,27 @@ msgstr "Cadeaubon maken"
 
 msgctxt "Languages::accept_products"
 msgid "Accept products"
-msgstr "Accepteer producten"
+msgstr "Producten accepteren"
 
 msgctxt "Languages::recalculate_order"
 msgid "Recalculate order"
-msgstr "Herbereken bestelling"
+msgstr "Bestelling herberekenen"
 
 msgctxt "Languages::manually_recalculate_order"
 msgid "Recalculate the order manually"
-msgstr "Manueel de bestelling herberekenen"
+msgstr "De bestelling handmatig herberekenen"
 
 msgctxt "Languages::dont_recalculate_order"
 msgid "Do not recalculate order"
-msgstr "Bestelling niet herberekenen"
+msgstr "De bestelling niet herberekenen"
 
 msgctxt "Languages::delete_this_return"
 msgid "Delete this return"
-msgstr "Verwijderen deze retour"
+msgstr "Deze retouraanvraag verwijderen"
 
 msgctxt "Languages::update_totals_and_inventory"
 msgid "Update totals and inventory"
-msgstr "Inventaris & totaal bijwerken"
+msgstr "Totalen en inventaris bijwerken"
 
 msgctxt "Languages::request_statuses"
 msgid "request statuses"
@@ -191,9 +191,9 @@ msgstr "Algemeen"
 
 msgctxt "SettingsOptions::rma::display_product_return_period"
 msgid "Display product return period"
-msgstr "Retour periode product weergeven"
+msgstr "De product retourperiode weergeven"
 
 msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
 msgid "Do not take weekends into account when calculating product return period"
-msgstr "Geen weekends in aanmerking nemen bij het berekenen van de retour periode van het product"
+msgstr "Geen weekends meerekenen bij het berekenen van de retourperiode van het product"
 

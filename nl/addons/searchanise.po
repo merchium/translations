@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-30 09:00-0400\n"
+"PO-Revision-Date: 2014-09-30 12:00-0400\n"
 
 msgctxt "Addons::name::searchanise"
 msgid "Searchanise"
@@ -15,7 +15,7 @@ msgstr "Searchanise"
 
 msgctxt "Addons::description::searchanise"
 msgid "Turns on the <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> fast search service"
-msgstr "Hiermee schakelt u de <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> snelle zoek service in"
+msgstr "Hiermee schakelt u de plug-in <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> snelle zoek service in"
 
 msgctxt "Languages::searchanise"
 msgid "Searchanise"
@@ -23,11 +23,11 @@ msgstr "Searchanise"
 
 msgctxt "Languages::text_se_import_status_queued"
 msgid "The product catalog is queued for syncing with Searchanise."
-msgstr "De product catalogus is in de wachtrij voor het synchroniseren met Searchanise."
+msgstr "De catalogus staat in de wachtrij voor het synchroniseren met Searchanise."
 
 msgctxt "Languages::text_se_re_indexation_required"
 msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
-msgstr "Searchanise: Re-indexatie vereist (klik de <strong>Dwing re-indexatie</strong> button in de<a href=\"[link]\">Searchanise beheerders paneel</a>)."
+msgstr "Searchanise: Re-indexatie vereist (klik de <strong>Forceer re-indexatie</strong> knop in het <a href=\"[link]\">Searchanise beheerders paneel</a>)."
 
 msgctxt "Languages::text_se_new_engine_store"
 msgid "Searchanise: New search engine for [store] created. Catalog import started."
@@ -35,7 +35,7 @@ msgstr "Searchanise: Nieuwe zoekmachine voor [store] aangemaakt. Catalogus begon
 
 msgctxt "Languages::text_se_seo_settings_notice"
 msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
-msgstr "Als u een SEO-add-on instelling heeft gewijzigd, doe dan een <a href=\"[link]\">Re-indexatie</a> van de product cataloog met Searchanise om de product URLs te updaten."
+msgstr "Als u een instelling in de SEO plug-in heeft gewijzigd, doe dan een <a href=\"[link]\">Re-indexatie</a> van de catalogus met Searchanise om de product URLs te updaten."
 
 msgctxt "Languages::text_se_connect_error"
 msgid "An error occurred during Searchanise registration. Please try later."
@@ -43,19 +43,19 @@ msgstr "Er is een fout opgetreden tijdens de Searchanise registratie. Probeer he
 
 msgctxt "Languages::text_se_import_status_processing"
 msgid "The product catalog syncing is in progress."
-msgstr "De synchronisatie van de product catalogus is bezig."
+msgstr "De synchronisatie van de catalogus is bezig."
 
 msgctxt "Languages::text_se_import_status_done"
 msgid "The product catalog was synced successfully with Searchanise."
-msgstr "De productcatalogus is met succes gesynchroniseerd met Searchanise."
+msgstr "De catalogus is gesynchroniseerd met Searchanise."
 
 msgctxt "Languages::text_se_import_status_none"
 msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
-msgstr "De productcatalogus is nog niet gesynchroniseerd met Searchanise. Druk op \"Sync\" button om te starten."
+msgstr "De catalogus is nog niet gesynchroniseerd met Searchanise. Druk op de \"Sync\" button om te starten."
 
 msgctxt "Languages::text_se_data_update"
 msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
-msgstr "Houd er rekening mee dat de gegevens op Searchanise server wordt bijgewerkt met een 2-3 minuten vertraging nadat u wijzigingen in uw winkel heeft aangebracht."
+msgstr "Houd er rekening mee dat de gegevens op de Searchanise server met 2 à 3 minuten vertraging worden bijgewerkt nadat u wijzigingen in uw winkel heeft aangebracht."
 
 msgctxt "Languages::text_se_signup"
 msgid "Click the button below to connect to Searchanise."
@@ -71,11 +71,11 @@ msgstr "U bent verbonden met Searchanise."
 
 msgctxt "Languages::text_se_database_restore_notice"
 msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
-msgstr "Je hebt zojuist de gegevens uit de database dump bestand hersteld. Als deze dump product data bevat, doe dan een <a href=\"[link]\">Re-indexatie</a> met Searchanise."
+msgstr "Je hebt zojuist de gegevens uit het database dump bestand hersteld. Als deze dump product data bevat, doe dan een <a href=\"[link]\">Re-indexatie</a> met Searchanise."
 
 msgctxt "Languages::text_se_only_root_can_register"
 msgid "Only the root admin has the permission to connect to Searchanise"
-msgstr "Alleen de Hoofdbeheerder heeft de toestemming om verbinding te maken met Searchanise"
+msgstr "Alleen de hoofdbeheerder heeft de toestemming om verbinding te maken met Searchanise"
 
 msgctxt "Languages::se_did_you_mean"
 msgid "Did you mean"
@@ -91,7 +91,7 @@ msgstr "Titel"
 
 msgctxt "Languages::se_summary"
 msgid "Description"
-msgstr "Beschrijving"
+msgstr "Omschrijving"
 
 msgctxt "Languages::se_link"
 msgid "Product Url"
@@ -115,19 +115,19 @@ msgstr "Afbeeldings Url"
 
 msgctxt "Languages::se_category_Id"
 msgid "Category Id"
-msgstr "Categorie Id"
+msgstr "Categorie ID"
 
 msgctxt "Languages::se_category_usergroup_ids"
 msgid "Category Usergroup Ids"
-msgstr "Categorie klantengroep-id 's"
+msgstr "Categorie gebruikersgroep ID's"
 
 msgctxt "Languages::se_usergroup_ids"
 msgid "Usergroup Ids"
-msgstr "Klantengroep-id 's"
+msgstr "Gebruikersgroep ID's"
 
 msgctxt "Languages::se_company_id"
 msgid "Company Id"
-msgstr "Bedrijfs-Id"
+msgstr "Bedrijfs-ID"
 
 msgctxt "Languages::se_empty_categories"
 msgid "Without Categories"
@@ -135,11 +135,11 @@ msgstr "Zonder categorieën"
 
 msgctxt "Languages::se_price_for_usergroup_id"
 msgid "Price for usergroup Id ([id])"
-msgstr "Prijs voor klantengroep Id ([id])"
+msgstr "Prijs voor gebruikersgroep ID ([id])"
 
 msgctxt "Languages::se_for_feature_id"
 msgid "Feature \"[id]\" Id"
-msgstr "Eigenschap \"[id]\" Id"
+msgstr "Eigenschap \"[id]\" ID"
 
 msgctxt "Languages::se_relevance"
 msgid "Relevance"
