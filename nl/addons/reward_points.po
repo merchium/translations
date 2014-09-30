@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 12:00-0400\n"
+"PO-Revision-Date: 2014-09-30 09:00-0400\n"
 
 msgctxt "Addons::name::reward_points"
 msgid "Reward points"
@@ -15,7 +15,7 @@ msgstr "Spaarpunten"
 
 msgctxt "Addons::description::reward_points"
 msgid "Lets customers earn and spend points for purchases"
-msgstr "Laat klanten punten verdienen en besteden bij aankopen"
+msgstr "Laat klanten spaarpunten verdienen en besteden bij aankopen"
 
 msgctxt "Languages::reward_points"
 msgid "Reward points"
@@ -79,7 +79,7 @@ msgstr "Betalingen met spaarpunten toestaan"
 
 msgctxt "Languages::override_per"
 msgid "Override global PER"
-msgstr "Override global PER"
+msgstr "Overschrijf de standaard PuntenWisselkoers"
 
 msgctxt "Languages::override_gc_points_brief"
 msgid "Override global/category points"
@@ -103,47 +103,47 @@ msgstr "Helaas, u kunt geen spaarpunten gebruiken voor deze bestelling omdat de 
 
 msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
 msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
-msgstr "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
+msgstr "U kunt helaas geen punten gebruiken voor deze bestelling omdat u onvoldoende spaarpunten heeft."
 
 msgctxt "Languages::text_order_status_has_not_been_changed"
 msgid "The order status has not been changed, because the user did not have enough points."
-msgstr "The order status has not been changed, because the user did not have enough points."
+msgstr "De status van de bestelling is niet gewijzigd omdat de gebruiker onvoldoende spaarpunten heeft."
 
 msgctxt "Languages::price_in_points_increased"
 msgid "Price in points has been increased by"
-msgstr "Price in points has been increased by"
+msgstr "De prijs in spaarpunten is verhoogd met"
 
 msgctxt "Languages::price_in_points_decreased"
 msgid "Price in points has been decreased by"
-msgstr "Price in points has been decreased by"
+msgstr "De prijs in spaarpunten is verlaagd met"
 
 msgctxt "Languages::earned_points"
 msgid "Points earned per product"
-msgstr "Points earned per product"
+msgstr "Spaarpunten ontvangen per product"
 
 msgctxt "Languages::override_g_points"
 msgid "Override global point value for all products in this category"
-msgstr "Override global point value for all products in this category"
+msgstr "Overschrijf de waarde van spaarpunten voor alle producten in deze categorie"
 
 msgctxt "Languages::amount_type"
 msgid "Amount type"
-msgstr "Amount type"
+msgstr "Bedrag soort"
 
 msgctxt "Languages::maximum"
 msgid "Maximum"
-msgstr "Maximum"
+msgstr "Maximaal"
 
 msgctxt "Languages::earned_point_modifier"
 msgid "Earned point modifier"
-msgstr "Earned point modifier"
+msgstr "Ontvangen spaarpunten wijzigen"
 
 msgctxt "Languages::override_gc_points"
 msgid "Override global/category point value for this product"
-msgstr "Override global/category point value for this product"
+msgstr "Overschrijf de standaard- en categorie puntwaarde voor dit product"
 
 msgctxt "Languages::view_user_points"
 msgid "View user points"
-msgstr "View user points"
+msgstr "Spaarpunten gebruiker bekijken"
 
 msgctxt "Languages::log"
 msgid "Log"
@@ -151,55 +151,55 @@ msgstr "Log"
 
 msgctxt "Languages::subtract"
 msgid "Subtract"
-msgstr "Subtract"
+msgstr "In mindering brengen"
 
 msgctxt "Languages::change_points"
 msgid "Change points"
-msgstr "Change points"
+msgstr "Spaarpunten wijzigen"
 
 msgctxt "Languages::add_subtract_points"
 msgid "Add & subtract points"
-msgstr "Add & subtract points"
+msgstr "Punten toevoegen & in mindering brengen"
 
 msgctxt "Languages::cleanup_log"
 msgid "Cleanup log"
-msgstr "Cleanup log"
+msgstr "Log opschonen"
 
 msgctxt "Languages::we_would_like_to_inform"
 msgid "We would like to inform you that"
-msgstr "We would like to inform you that"
+msgstr "We willen u graag informeren dat"
 
 msgctxt "Languages::reward_points_subj_added_to"
 msgid "have been added to your account."
-msgstr "have been added to your account."
+msgstr "zijn toegevoegd aan uw klantprofiel."
 
 msgctxt "Languages::reward_points_subj_subtracted_from"
 msgid "have been subtracted from your account."
-msgstr "have been subtracted from your account."
+msgstr "in mindering zijn gebracht in uw klantprofiel."
 
 msgctxt "Languages::privileges.manage_reward_points"
 msgid "Manage reward points system"
-msgstr "Manage reward points system"
+msgstr "Spaarpunten systeem beheren"
 
 msgctxt "SettingsSections::reward_points::general"
 msgid "General"
-msgstr "General"
+msgstr "Algemeen"
 
 msgctxt "SettingsOptions::reward_points::point_rate"
 msgid "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
-msgstr "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
+msgstr "Spaarpunten Wisselkoers (het aantal spaarpunten dat gelijk is aan de gebruikelijke 1 euro)"
 
 msgctxt "SettingsOptions::reward_points::auto_price_in_points"
 msgid "\"Price in points\" is calculated automatically on PER basis"
-msgstr "\"Price in points\" is calculated automatically on PER basis"
+msgstr "\"Prijs in spaarpunten\" wordt automatisch berekend op basis van de PuntenWisselkoers"
 
 msgctxt "SettingsOptions::reward_points::price_in_points_with_discounts"
 msgid "\"Price in points\" is recalculated taking into account discounts"
-msgstr "\"Price in points\" is recalculated taking into account discounts"
+msgstr "\"Prijs in spaarpunten\" wordt herberekend, rekening houdend met kortingen "
 
 msgctxt "SettingsOptions::reward_points::points_with_discounts"
 msgid "\"Points\" is recalculated taking into account discounts"
-msgstr "\"Points\" is recalculated taking into account discounts"
+msgstr "\"Punten\" worden herberekend, rekening houdend met kortingen"
 
 msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
 msgid "\"Price in points\" is recalculated taking into account order discounts"
@@ -211,37 +211,37 @@ msgstr "Order kortingen worden in de puntenberekening meegenomen"
 
 msgctxt "SettingsOptions::reward_points::higher_level_extract"
 msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
-msgstr "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
+msgstr "Als er geen spaarpunten zijn vastgesteld voor een product en categorie maar wel voor een bovenliggende categorie, dan deze punten ook gebruiken voor de onderliggende categorieën en producten "
 
 msgctxt "SettingsOptions::reward_points::several_points_action"
 msgid "If several reward points can be applied, set"
-msgstr "If several reward points can be applied, set"
+msgstr "Als verschillende spaarpunten toegepast kunnen worden, gebruik dan"
 
 msgctxt "SettingsOptions::reward_points::consider_zero_values"
 msgid "Apply zero reward point values"
-msgstr "Apply zero reward point values"
+msgstr "Gebruikersgroepen waarvoor geen spaarpunten zijn ingesteld ontvangen geen spaarpunten"
 
 msgctxt "SettingsOptions::reward_points::log_per_page"
 msgid "Log lines per page"
-msgstr "Log lines per page"
+msgstr "Log regels per pagina"
 
 msgctxt "SettingsTooltips::reward_points::consider_zero_values"
 msgid "The reward points rules with the zero values should be considered"
-msgstr "The reward points rules with the zero values should be considered"
+msgstr "Indien niet aangevinkt wordt één van de andere regels toegepast op deze gebruikersgroep, en gebruikers zullen op basis van die regel spaarpunten ontvangen"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
 msgid "Absolute minimal value"
-msgstr "Absolute minimal value"
+msgstr "De minimale waarde"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
 msgid "Minimal percentage value"
-msgstr "Minimal percentage value"
+msgstr "Het minimale percentage"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
 msgid "Absolute maximal value"
-msgstr "Absolute maximal value"
+msgstr "De maximale waarde"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
 msgid "Maximal percentage value"
-msgstr "Maximal percentage value"
+msgstr "Het maximale percentage"
 

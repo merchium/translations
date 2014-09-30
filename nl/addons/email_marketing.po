@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 12:00-0400\n"
+"PO-Revision-Date: 2014-09-30 09:00-0400\n"
 
 msgctxt "Addons::name::email_marketing"
 msgid "E-mail marketing"
@@ -15,7 +15,7 @@ msgstr "E-mailmarketing"
 
 msgctxt "Addons::description::email_marketing"
 msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
-msgstr "Synchroniseert uw nieuwsbrief abonnee lijsten met MailChimp en Mad Mimi"
+msgstr "Synchroniseert uw nieuwsbrief abonneelijsten met MailChimp en Mad Mimi"
 
 msgctxt "Languages::subscribers_menu_description"
 msgid "Manage newsletter subscribers and settings."
@@ -43,7 +43,7 @@ msgstr "Bevestig inschrijving"
 
 msgctxt "Languages::email_marketing.text_confirm_subscription"
 msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
-msgstr "Wij hebben een inschrijving ontvangen van u. Gelieve deze te bevestigen:<p><a href=\"[href]\">Klik hier om uw inschrijving te bevestigen op onze nieuwsbrief</a></p>Als u deze e-mail per vergissing heeft ontvangen, verwijder deze deze dan gewoon. U zal dan niet worden ingeschreven als u klikt op de bovenstaande link voor bevestiging."
+msgstr "Wij hebben een inschrijving ontvangen van u. Gelieve deze te bevestigen:<p><a href=\"[href]\">Klik hier om uw inschrijving te bevestigen op onze nieuwsbrief</a></p>Als u deze e-mail per vergissing heeft ontvangen, verwijder deze deze dan. U wordt niet ingeschreven als u niet ter bevestiging op bovenstaande link klikt."
 
 msgctxt "Languages::email_marketing.subscription_confirmed_2"
 msgid "Subscription confirmed"
@@ -59,7 +59,7 @@ msgstr "U werd ingeschreven voor onze nieuwsbrief"
 
 msgctxt "Languages::email_marketing.text_email_subscribed"
 msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Dank u voor de inschrijving op onze nieuwsbrief. <p>Als u op elk gewenst moment wil stoppen met het ontvangen van onze e-mails, <a href=\"[href]\"> Klik op deze link om uit te schrijven</a>.</p>"
+msgstr "Dank u voor de inschrijving op onze nieuwsbrief. <p>Als u onze e-mails niet meer wilt ontvangen, <a href=\"[href]\"> Klikt u op deze link om uit te schrijven</a>.</p>"
 
 msgctxt "Languages::email_marketing.email_subscribed_2optin"
 msgid "Subscription confirmed"
@@ -67,27 +67,27 @@ msgstr "Inschrijving bevestigd"
 
 msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
 msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Uw inschrijving op onze nieuwsbrief is bevestigd.<p>Als u op elk gewenst moment wil stoppen met het ontvangen van onze e-mails, <a href=\"[href]\"> Klik op deze link om uit te schrijven</a>.</p>"
+msgstr "Uw inschrijving op onze nieuwsbrief is bevestigd.<p>Als u onze e-mails niet meer wilt ontvangen, <a href=\"[href]\"> Klikt u op deze link om uit te schrijven</a>.</p>"
 
 msgctxt "Languages::email_marketing.unsubscribe_successful"
 msgid "Unsubscribe successful"
-msgstr "U bent met succes uitgeschreven"
+msgstr "U bent uitgeschreven voor onze nieuwsbrief"
 
 msgctxt "Languages::email_marketing.text_unsubscribe_successful"
 msgid "Your email has been removed from our list."
-msgstr "Uw e-mailadres is verwijderd uit onze data."
+msgstr "Uw e-mailadres is verwijderd uit onze mailinglijst."
 
 msgctxt "Languages::email_marketing.export_all"
 msgid "Export all"
-msgstr "Exporteer alles"
+msgstr "Alles exporteren"
 
 msgctxt "Languages::email_marketing.enter_api_key_and_save"
 msgid "Enter API key and save first"
-msgstr "Plaats API-sleutel en eerst opslagen"
+msgstr "Vul uw API-sleutel in en sla deze eerst op"
 
 msgctxt "Languages::email_marketing.warning_email_exists"
 msgid "[email] is already subscribed"
-msgstr "[email] is al ingeschreven"
+msgstr "Het e-maialdres [email] is al ingeschreven"
 
 msgctxt "Languages::email_marketing.new_subscriber"
 msgid "New subscriber"
@@ -107,11 +107,11 @@ msgstr "E-mailmarketing: nieuwsbrief inschrijvingsformulier"
 
 msgctxt "Languages::privileges.manage_email_marketing"
 msgid "Manage email marketing addon"
-msgstr "Beheren van e-mail marketing addon"
+msgstr "E-mailmarketing plug-in beheren"
 
 msgctxt "Languages::privileges.view_email_marketing"
 msgid "View email marketing addon"
-msgstr "Weergave voor e-mailmarketing addon"
+msgstr "E-mailmarketing plug-in bekijken"
 
 msgctxt "SettingsSections::email_marketing::general"
 msgid "General"
@@ -131,7 +131,7 @@ msgstr "Nieuwsbrief checkbox bij het afrekenen"
 
 msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
 msgid "Tick off by default"
-msgstr "Standaard aankruisen"
+msgstr "Standaard niet aangevinkt"
 
 msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
 msgid "Double opt-in"
@@ -139,11 +139,11 @@ msgstr "Dubbele opt-in"
 
 msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
 msgid "Send a welcome letter with the unsubscribe link"
-msgstr "Een Welkom brief versturen met een link uitschrijven"
+msgstr "Een welkomstbrief versturen met een link om uit te schrijven"
 
 msgctxt "SettingsOptions::email_marketing::em_service"
 msgid "Email integration provider"
-msgstr "Integratie emailprovider"
+msgstr "Integratie e-mailprovider"
 
 msgctxt "SettingsOptions::email_marketing::em_token"
 msgid ""
