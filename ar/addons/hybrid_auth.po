@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-25 08:00-0400\n"
+"PO-Revision-Date: 2014-10-02 08:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -304,4 +304,12 @@ msgstr "Autogeneration email"
 msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
 msgid "Enables the email auto generation in case that a social network does not pass the address."
 msgstr "Enables the email auto generation in case that a social network does not pass the address."
+
+msgctxt "Languages::hybrid_auth::paypal_seamless"
+msgid "Use seamless checkout"
+msgstr "Use seamless checkout"
+
+msgctxt "Languages::hybrid_auth::paypal_sandbox"
+msgid "Test mode"
+msgstr "Test mode"
 

@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-01 08:00-0400\n"
+"PO-Revision-Date: 2014-10-03 10:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -223,7 +223,7 @@ msgstr "Неизвестный или неактивный провайдер"
 
 msgctxt "Languages::hybrid_auth.missing_credentials"
 msgid "Missing provider application credentials"
-msgstr "Missing provider application credentials"
+msgstr "Не указаны учетные данные провайдеров"
 
 msgctxt "Languages::hybrid_auth.failed_auth"
 msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
@@ -247,7 +247,7 @@ msgstr "Вы можете изменить свой пароль по ссылк
 
 msgctxt "Languages::hybrid_auth.link_provider"
 msgid "Assigning social network accounts"
-msgstr "Assigning social network accounts"
+msgstr "Назначение учетных записей социальной сети"
 
 msgctxt "Languages::text_hybrid_auth.link_provider"
 msgid "Assign your social network account to this one and use it to log in"
@@ -304,4 +304,12 @@ msgstr "Автоматическая генерация почтового ад�
 msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
 msgid "Enables the email auto generation in case that a social network does not pass the address."
 msgstr "Enables the email auto generation in case that a social network does not pass the address."
+
+msgctxt "Languages::hybrid_auth::paypal_seamless"
+msgid "Use seamless checkout"
+msgstr "Use seamless checkout"
+
+msgctxt "Languages::hybrid_auth::paypal_sandbox"
+msgid "Test mode"
+msgstr "Тестовый режим"
 
