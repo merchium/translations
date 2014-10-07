@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 12:01-0400\n"
+"PO-Revision-Date: 2014-10-06 10:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3383,7 +3383,7 @@ msgstr "Utgavetype"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "På-siden innholdsredigering"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -3599,7 +3599,7 @@ msgstr "Valuta med kode <b>[code]</b> finnes allerede"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "One of your storefronts uses this theme. Please set another theme before deleting it."
+msgstr "En av dine butikkforsider bruker denne malen. Vennligst angi en annen mal før du sletter den."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
@@ -4003,7 +4003,7 @@ msgstr "Vis i produktlisten"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Show in header on the product details page"
+msgstr "Vis i headeren på siden med produktdetaljer"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4043,7 +4043,7 @@ msgstr "Filer"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Filer å selge"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -6167,7 +6167,7 @@ msgstr "På-siden mal redigering"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "På-siden live redigering"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -7083,7 +7083,7 @@ msgstr "Administrer maler"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "På-siden live redigering"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
@@ -7415,7 +7415,7 @@ msgstr "Produktet <strong>[product]</strong> har alternativer som er inkludert i
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "Produktet <strong>[product]</strong> er satt opp med alternativer som ikke lengre er tilgjengelige, så det ble fjernet fra handlevognen"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -12111,7 +12111,7 @@ msgstr "Sant"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgstr "Vilkårtekst som skal vises sammen med fraktmetode tittelen."
 
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
@@ -12219,11 +12219,11 @@ msgstr "Ikke-nedlastbare produkter med null vekt håndteres som å ha minimal og
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Kategorier som skal vises i navigasjonsstien."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Spor produktantall på lager. Kryss av for \"Aktiver lagerstyring\" valget i (Innstillinger -> Generelt) for å endre."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12239,7 +12239,7 @@ msgstr "Som standard er malen som er definert i innstillingene for hovedprodukte
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Vis denne funksjonen på produkt-liste-sider sammen med produktbeskrivelsen."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -13131,7 +13131,7 @@ msgstr "Widget kode"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\">Hva er det?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -15387,13 +15387,13 @@ msgstr "Denne HTML-koden vil bli lagt mellom &lt;head&gt;&lt;/head&gt; taggene"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Dette vil slette alle valgte kategoriers produkter, samt dens underkategorier og deres produkter."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Dette vil slette alle valgte kategoriers produkter, samt dens underkategorier og deres produkter."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Gjenopprett original"
 
