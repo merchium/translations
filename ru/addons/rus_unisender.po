@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-03 05:00-0400\n"
+"PO-Revision-Date: 2014-10-07 11:00-0400\n"
 
 msgctxt "Addons::name::rus_unisender"
 msgid "Russian localization — Unisender"
@@ -16,6 +16,10 @@ msgstr "Unisender"
 msgctxt "Addons::description::rus_unisender"
 msgid "Email and SMS"
 msgstr "Рассылки e-mail и SMS. Возможность импорта контактов покупателей в сервис Unisender"
+
+msgctxt "Languages::addons.rus_unisender.unisender_menu_description"
+msgid "Settings profile fields"
+msgstr "Настройки полей профиля"
 
 msgctxt "Languages::addons.rus_unisender.unisender"
 msgid "Unisender"
@@ -184,4 +188,16 @@ msgstr "Заказы"
 msgctxt "SettingsOptions::rus_unisender::order_status_sms"
 msgid "When these order statuses are changed, the user will be notified"
 msgstr "Статусы заказов, об изменении которых будет сообщаться пользователю"
+
+msgctxt "Languages::privileges.manage_unisender"
+msgid "Manage unisender"
+msgstr "Управление Unisender"
+
+msgctxt "Languages::privileges.send_sms_unisender"
+msgid "Allow sending SMS (Unisender)"
+msgstr "Разрешить отправку SMS (Unisender)"
+
+msgctxt "Languages::privileges.view_unisender"
+msgid "View unisender"
+msgstr "Просмотр Unisender"
 

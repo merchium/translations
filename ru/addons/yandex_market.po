@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-03 05:01-0400\n"
+"PO-Revision-Date: 2014-10-07 11:00-0400\n"
 
 msgctxt "Addons::name::yandex_market"
 msgid "Yandex.Market"
@@ -651,4 +651,28 @@ msgstr "Заказ доставлен в пункт самовывоза"
 msgctxt "SettingsOptions::yandex_market::order_status_delivered"
 msgid "The order has been delivered"
 msgstr "Заказ вручен покупателю"
+
+msgctxt "SettingsOptions::yandex_market::includes_required_fields"
+msgid "Check if mandatory fields are filled"
+msgstr "Проверять, заполнены ли обязательные поля"
+
+msgctxt "SettingsTooltips::yandex_market::includes_required_fields"
+msgid "Enables checking if Yandex.Market mandatory fields are filled."
+msgstr "Включает проверку заполнения обязательных полей Яндекс.Маркета на странице товара."
+
+msgctxt "Languages::yml_manufacturer_warranty"
+msgid "YM Manufacturer warranty"
+msgstr "Гарантия производителя"
+
+msgctxt "Languages::tt_addons_yandex_market_hooks_products_detailed_content_post_yml_manufacturer_warranty"
+msgid "The format of the \"manufacturer warranty\" parameter must comply with ISO 8601, for example, P1Y2M10DT2H30M. Explanation — 1 year, 2 months, 10 days, 2 hours and 30 minutes."
+msgstr "Формат поля \"manufacturer warranty\" должен соответствовать ISO 8601, например, P1Y2M10DT2H30M - 1 год, 2 месяца, 10 дней, 2 часа и 30 минут."
+
+msgctxt "Languages::yml_seller_warranty"
+msgid "YM Seller warranty"
+msgstr "Гарантия продавца"
+
+msgctxt "Languages::tt_addons_yandex_market_hooks_products_detailed_content_post_yml_seller_warranty"
+msgid "The format of the \"seller warranty\" parameter must comply with ISO 8601, for example, P1Y2M10DT2H30M. Explanation — 1 year, 2 months, 10 days, 2 hours and 30 minutes."
+msgstr "Формат поля \"seller warranty\" должен соответствовать ISO 8601, например, P1Y2M10DT2H30M - 1 год, 2 месяца, 10 дней, 2 часа и 30 минут."
 

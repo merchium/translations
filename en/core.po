@@ -1180,6 +1180,22 @@ msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
 msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
 
+msgctxt "Languages::block_manager.add_layout_page"
+msgid "Add layout page"
+msgstr "Add layout page"
+
+msgctxt "Languages::block_manager.editing_layout_page"
+msgid "Editing layout page"
+msgstr "Editing layout page"
+
+msgctxt "Languages::block_manager.new_layout_page"
+msgid "New layout page"
+msgstr "New layout page"
+
+msgctxt "Languages::block_manager.layout_pages"
+msgid "Layout pages"
+msgstr "Layout pages"
+
 msgctxt "Languages::block_menu"
 msgid "Menu"
 msgstr "Menu"
@@ -13660,6 +13676,10 @@ msgctxt "SettingsSections::Security"
 msgid "Security settings"
 msgstr "Security settings"
 
+msgctxt "SettingsSections::Checkout"
+msgid "Checkout"
+msgstr "Checkout"
+
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
 msgstr "Shipping settings"
@@ -14444,10 +14464,6 @@ msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Allow customers to pay order again if transaction was declined"
 
-msgctxt "SettingsOptions::checkout_style"
-msgid "Checkout style"
-msgstr "Checkout style"
-
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
 msgstr "Estimate shipping cost on cart page"
@@ -14491,6 +14507,22 @@ msgstr "Search also in"
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
 msgstr "Use Encrypted Connection"
+
+msgctxt "SettingsOptions::configure_sign_in_step"
+msgid "Configure \"Sign in\" step"
+msgstr "Configure \"Sign in\" step"
+
+msgctxt "SettingsOptions::sign_in_default_action"
+msgid "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+
+msgctxt "SettingsOptions::display_shipping_step"
+msgid "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+
+msgctxt "SettingsOptions::display_payment_step"
+msgid "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Display \"Payment method\" step (the first active method will be used by default)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -14825,10 +14857,6 @@ msgctxt "SettingsVariants::mailer_send_method::smtp"
 msgid "via SMTP server"
 msgstr "via SMTP server"
 
-msgctxt "SettingsVariants::checkout_style::one_page"
-msgid "One-page checkout"
-msgstr "One-page checkout"
-
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
 msgstr "(GMT-12:00) International Date Line West"
@@ -14912,10 +14940,6 @@ msgstr "Jan"
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
 msgstr "via sendmail program"
-
-msgctxt "SettingsVariants::checkout_style::multi_page"
-msgid "Multi-page checkout"
-msgstr "Multi-page checkout"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -15329,10 +15353,6 @@ msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
 msgstr "Address type"
 
-msgctxt "ProfileFields::b_vat_id"
-msgid "VAT ID"
-msgstr "VAT ID"
-
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
 msgstr "Product must belong to some category created by the owner company."
@@ -15348,6 +15368,26 @@ msgstr "TLS"
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::ssl"
 msgid "SSL"
 msgstr "SSL"
+
+msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
+msgid "Display \"New customer\" first"
+msgstr "Display \"New customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
+msgid "Display \"Returning customer\" first"
+msgstr "Display \"Returning customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::hide"
+msgid "Hide step completely"
+msgstr "Hide step completely"
+
+msgctxt "SettingsVariants::sign_in_default_action::register"
+msgid "Register"
+msgstr "Register"
+
+msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
+msgid "Checkout as guest"
+msgstr "Checkout as guest"
 
 msgctxt "Languages::vat_id_number_is_not_valid"
 msgid "The entered VAT ID is invalid. Please re-check the address and ID."

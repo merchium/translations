@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-03 05:01-0400\n"
+"PO-Revision-Date: 2014-10-07 11:00-0400\n"
 
 msgctxt "Addons::name::rus_russianpost"
 msgid "Russian localization — Russian post"
@@ -44,6 +44,10 @@ msgstr "Для активации процессора доставки Почт
 msgctxt "Languages::russian_post_consuming_error"
 msgid "Calculation of shipping cost for Russian post may take a long time."
 msgstr "Расчет стоимости доставки для Почты России может занимать длительное время."
+
+msgctxt "Languages::russian_post_empty_zipcode"
+msgid "Shipping cost for Russian post cannot be calculated because the zipcode field is empty."
+msgstr "Расчёт не может быть выполнен, так как пустое поле \"Индекс\"."
 
 msgctxt "Languages::russian_post_shipping_type"
 msgid "Shipping type"

@@ -7,15 +7,15 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-03 05:01-0400\n"
+"PO-Revision-Date: 2014-10-07 11:00-0400\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
 msgstr " Российские способы оплаты"
 
 msgctxt "Addons::description::rus_payments"
-msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
-msgstr "Способы оплаты: Assist, Яндекс.Деньги, Webmoney, Сбербанк, Qiwi, PayAnyWay, PayMaster, ПлатиДома, РБК, Robokassa, ВсеВкредит, Авангард"
+msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard, Payler"
+msgstr "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard, Payler"
 
 msgctxt "Languages::russian_payments"
 msgid "Russian payments"
@@ -1204,4 +1204,12 @@ msgstr "Идентификатор приложения"
 msgctxt "Languages::addons.rus_payments.oauth2_client_secret"
 msgid "OAuth2 client secret"
 msgstr "Секретный ключ OAuth2"
+
+msgctxt "Languages::text_payler_notice"
+msgid "Use the following URL in the Payler account settings<br />-&nbsp;<u>payment notification</u>: <b>[result_url]</b>"
+msgstr "Use the following URL in the Payler account settings<br />-&nbsp;<u>payment notification</u>: <b>[result_url]</b>"
+
+msgctxt "Languages::text_payler_payment_for_order"
+msgid "Payment for order #[order_id] at site [store]"
+msgstr "Payment for order #[order_id] at site [store]"
 

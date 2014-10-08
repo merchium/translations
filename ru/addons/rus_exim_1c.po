@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-03 05:01-0400\n"
+"PO-Revision-Date: 2014-10-07 11:00-0400\n"
 
 msgctxt "Addons::name::rus_exim_1c"
 msgid "Russian localization — Export, import in 1C"
@@ -20,6 +20,10 @@ msgstr "Экспорт данных из магазина в 1С и импорт
 msgctxt "Languages::exim_1C"
 msgid "1C"
 msgstr "1С"
+
+msgctxt "Languages::privileges.exim_1c"
+msgid "Export, import in 1C"
+msgstr "Экспорт, импорт в 1С"
 
 msgctxt "Languages::1c"
 msgid "1C"
@@ -381,19 +385,19 @@ msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_short_description::full_n
 msgid "Full name"
 msgstr "Полное имя"
 
-msgctxt "SettingsOptions::rus_exim_1c::exim_1c_export_brend"
+msgctxt "SettingsOptions::rus_exim_1c::exim_1c_export_brand"
 msgid "Brand field source"
 msgstr "Источник поля Бренд"
 
-msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brend::not_import"
+msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brand::not_import"
 msgid "Do not import"
 msgstr "Не импортировать"
 
-msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brend::use_manufacturer"
+msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brand::use_manufacturer"
 msgid "Use manufacturer"
 msgstr "Использовать изготовителя"
 
-msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brend::property_product"
+msgctxt "SettingsVariants::rus_exim_1c::exim_1c_export_brand::property_product"
 msgid "Property product"
 msgstr "Свойство номенклатуры"
 
@@ -402,6 +406,6 @@ msgid "Property name"
 msgstr "Наименование свойства"
 
 msgctxt "SettingsTooltips::rus_exim_1c::exim_1c_property_for_manufacturer"
-msgid "Property Value nomenclature used for brend field source text."
+msgid "Property Value nomenclature used for brand field source text."
 msgstr "Значение свойства номенклатуры для поля Бренд."
 

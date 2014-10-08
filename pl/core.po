@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-29 12:01-0400\n"
+"PO-Revision-Date: 2014-10-08 05:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1184,6 +1184,22 @@ msgstr "Minimalna szerokość"
 msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
 msgstr "Zmiana układu, gdy jest układ graficzny jest przekształcany w CSS nie jest dozwolone. Proszę włączyć w tryb LESS <a target=\"_blank\" href=\"[url]\">Edytor układu graficznego</a>."
+
+msgctxt "Languages::block_manager.add_layout_page"
+msgid "Add layout page"
+msgstr "Dodaj układ strony"
+
+msgctxt "Languages::block_manager.editing_layout_page"
+msgid "Editing layout page"
+msgstr "Edycja układu strony"
+
+msgctxt "Languages::block_manager.new_layout_page"
+msgid "New layout page"
+msgstr "Nowy układ strony"
+
+msgctxt "Languages::block_manager.layout_pages"
+msgid "Layout pages"
+msgstr "Układ stron"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -3599,7 +3615,7 @@ msgstr "Kod waluty <b>[code]</b> już istnieje"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "One of your storefronts uses this theme. Please set another theme before deleting it."
+msgstr "jeden ze sklepów używa tego tematu. Proszę ustawić inny motyw przed usunięciem."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
@@ -7083,7 +7099,7 @@ msgstr "Zarządzanie grafiką"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Edycja online"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
@@ -8943,7 +8959,7 @@ msgstr "FedEx Tube"
 
 msgctxt "Languages::ship_fedex_package_type_your_packaging"
 msgid "Your packaging"
-msgstr "Your packaging"
+msgstr "Twoje paczki"
 
 msgctxt "Languages::ship_fedex_smart_post"
 msgid "Smart Post"
@@ -9063,7 +9079,7 @@ msgstr "Metoda dostawy"
 
 msgctxt "Languages::ship_temando_package"
 msgid "Packaging"
-msgstr "Packaging"
+msgstr "Paczki"
 
 msgctxt "Languages::ship_temando_readydate"
 msgid "Ready date (days)"
@@ -13665,6 +13681,10 @@ msgctxt "SettingsSections::Security"
 msgid "Security settings"
 msgstr "Ustawienia zabezpieczeń"
 
+msgctxt "SettingsSections::Checkout"
+msgid "Checkout"
+msgstr "Checkout"
+
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
 msgstr "Ustawienia wysyłki"
@@ -14449,10 +14469,6 @@ msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Pozwól klientom zapłacić za zamówienie ponownie jeśli transakcja została anulowana"
 
-msgctxt "SettingsOptions::checkout_style"
-msgid "Checkout style"
-msgstr "Sposób realizacji zamówienia"
-
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
 msgstr "Wyliczenie kosztów wysyłki na stronie koszyka"
@@ -14496,6 +14512,22 @@ msgstr "Szukaj także w"
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
 msgstr "Użyj połączenia szyfrowanego"
+
+msgctxt "SettingsOptions::configure_sign_in_step"
+msgid "Configure \"Sign in\" step"
+msgstr "Configure \"Sign in\" step"
+
+msgctxt "SettingsOptions::sign_in_default_action"
+msgid "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+
+msgctxt "SettingsOptions::display_shipping_step"
+msgid "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+
+msgctxt "SettingsOptions::display_payment_step"
+msgid "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Display \"Payment method\" step (the first active method will be used by default)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -14829,10 +14861,6 @@ msgctxt "SettingsVariants::mailer_send_method::smtp"
 msgid "via SMTP server"
 msgstr "Przez serwer SMTP"
 
-msgctxt "SettingsVariants::checkout_style::one_page"
-msgid "One-page checkout"
-msgstr "Zamówienie na jednej stronie"
-
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
 msgstr "(GMT-12:00) International Date Line West"
@@ -14916,10 +14944,6 @@ msgstr "Sty"
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
 msgstr "za pomocą programu sendmail"
-
-msgctxt "SettingsVariants::checkout_style::multi_page"
-msgid "Multi-page checkout"
-msgstr "Zamówienie krokowe"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -15333,10 +15357,6 @@ msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
 msgstr "Typ adresu"
 
-msgctxt "ProfileFields::b_vat_id"
-msgid "VAT ID"
-msgstr "NIP"
-
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
 msgstr "Produkt musi należeć do niektórych kategorii stworzonych przez właściciela sklepu."
@@ -15353,13 +15373,33 @@ msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::ssl"
 msgid "SSL"
 msgstr "SSL"
 
+msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
+msgid "Display \"New customer\" first"
+msgstr "Display \"New customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
+msgid "Display \"Returning customer\" first"
+msgstr "Display \"Returning customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::hide"
+msgid "Hide step completely"
+msgstr "Hide step completely"
+
+msgctxt "SettingsVariants::sign_in_default_action::register"
+msgid "Register"
+msgstr "Register"
+
+msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
+msgid "Checkout as guest"
+msgstr "Checkout as guest"
+
 msgctxt "Languages::vat_id_number_is_not_valid"
 msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "Wpisuje identyfikator płatnika podatku VAT jest nieprawidłowy. Proszę sprawdzić adres i identyfikator."
+msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
 
 msgctxt "Languages::vat_id_number_is_valid"
 msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Gratulacje! Ta płatność jest wolna od podatku VAT."
+msgstr "Congratulations! This purchase is VAT-free for you."
 
 msgctxt "Languages::last_year"
 msgid "Last year"

@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-06 13:00-0400\n"
+"PO-Revision-Date: 2014-10-08 05:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1184,6 +1184,22 @@ msgstr "Larghezza minima"
 msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
 msgstr "Il cambiamento di Layout quanto il tema è convertito in CSS non è permesso. Per favore abilità la modalità LESS nell'<a target=\"_blank\" href=\"[url]\">Editor di Tema</a>."
+
+msgctxt "Languages::block_manager.add_layout_page"
+msgid "Add layout page"
+msgstr "Add layout page"
+
+msgctxt "Languages::block_manager.editing_layout_page"
+msgid "Editing layout page"
+msgstr "Editing layout page"
+
+msgctxt "Languages::block_manager.new_layout_page"
+msgid "New layout page"
+msgstr "New layout page"
+
+msgctxt "Languages::block_manager.layout_pages"
+msgid "Layout pages"
+msgstr "Layout pages"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -13666,6 +13682,10 @@ msgctxt "SettingsSections::Security"
 msgid "Security settings"
 msgstr "Impostazioni di sicurezza"
 
+msgctxt "SettingsSections::Checkout"
+msgid "Checkout"
+msgstr "Checkout"
+
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
 msgstr "Impostazioni spedizione"
@@ -14450,10 +14470,6 @@ msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Consentire ai clienti di pagare di nuovo l'ordine se la transazione non è andata a buon fine"
 
-msgctxt "SettingsOptions::checkout_style"
-msgid "Checkout style"
-msgstr "Stile per la pagina pagamento"
-
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
 msgstr "Anteprima spese di spedizione nella pagina carrello"
@@ -14497,6 +14513,22 @@ msgstr "Cercare anche in"
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
 msgstr "Utilizzare la connessione crittografata"
+
+msgctxt "SettingsOptions::configure_sign_in_step"
+msgid "Configure \"Sign in\" step"
+msgstr "Configure \"Sign in\" step"
+
+msgctxt "SettingsOptions::sign_in_default_action"
+msgid "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+
+msgctxt "SettingsOptions::display_shipping_step"
+msgid "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+
+msgctxt "SettingsOptions::display_payment_step"
+msgid "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Display \"Payment method\" step (the first active method will be used by default)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -14830,10 +14862,6 @@ msgctxt "SettingsVariants::mailer_send_method::smtp"
 msgid "via SMTP server"
 msgstr "tramite server SMTP"
 
-msgctxt "SettingsVariants::checkout_style::one_page"
-msgid "One-page checkout"
-msgstr "Una pagina di checkout"
-
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
 msgstr "(GMT-12:00) International Date Line West"
@@ -14917,10 +14945,6 @@ msgstr "Gen"
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
 msgstr "tramite il programma sendmail"
-
-msgctxt "SettingsVariants::checkout_style::multi_page"
-msgid "Multi-page checkout"
-msgstr "Multi-pagina checkout"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -15334,10 +15358,6 @@ msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
 msgstr "Tipo di indirizzo"
 
-msgctxt "ProfileFields::b_vat_id"
-msgid "VAT ID"
-msgstr "P.IVA"
-
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
 msgstr "Il prodotto deve appartenere a qualche categoria creata dall'azienda titolare."
@@ -15354,13 +15374,33 @@ msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::ssl"
 msgid "SSL"
 msgstr "SSL"
 
+msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
+msgid "Display \"New customer\" first"
+msgstr "Display \"New customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
+msgid "Display \"Returning customer\" first"
+msgstr "Display \"Returning customer\" first"
+
+msgctxt "SettingsVariants::configure_sign_in_step::hide"
+msgid "Hide step completely"
+msgstr "Hide step completely"
+
+msgctxt "SettingsVariants::sign_in_default_action::register"
+msgid "Register"
+msgstr "Register"
+
+msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
+msgid "Checkout as guest"
+msgstr "Checkout as guest"
+
 msgctxt "Languages::vat_id_number_is_not_valid"
 msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "La partita IVA immessa non è valida. Ricontrolla l'indirizzo e l'ID."
+msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
 
 msgctxt "Languages::vat_id_number_is_valid"
 msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Complimenti! Questo ordine è esente da I.V.A."
+msgstr "Congratulations! This purchase is VAT-free for you."
 
 msgctxt "Languages::last_year"
 msgid "Last year"
