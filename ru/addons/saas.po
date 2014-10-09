@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-08 04:00-0400\n"
+"PO-Revision-Date: 2014-10-09 09:00-0400\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -352,7 +352,7 @@ msgstr "Вы можете импортировать стиль, выбрав а
 
 msgctxt "Languages::saas.error_theme_export_missed_style"
 msgid "The layout <b>[layout]</b> can not be exported, because the style <b>[style]</b> assigned to this layout is not exported."
-msgstr "Нет удалось экспортировать макет <b>[layout]</b>, т.к. стиль <b>[style]</b>, назначенный этому макету, не экспортируется."
+msgstr "Нет удалось экспортировать макет <b>[layout]</b>, т.к. стиль <b>[style]</b>, назначенный этому макету, не включен в экспорт."
 
 msgctxt "Languages::saas.default_style"
 msgid "Default style"

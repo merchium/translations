@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: merchium\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-10-09 09:00-0400\n"
+
+msgctxt "Addons::name::applications"
+msgid "Merchium Applications"
+msgstr "Приложения для Мерчиума"
+
+msgctxt "Addons::description::applications"
+msgid "Merchium applications support"
+msgstr "Поддержка приложений в Мерчиуме"
+
+msgctxt "Languages::market_menu"
+msgid "Merchium Market"
+msgstr "Маркет Мерчиума"
+
+msgctxt "Languages::applications.installed_applications"
+msgid "Installed Applications"
+msgstr "Установленные приложения"
+
+msgctxt "Languages::applications.installed_applications_menu_description"
+msgid "Manage Market applications installed in your store."
+msgstr "Управление установленными в вашем магазине приложениями из Маркета."
+
+msgctxt "Languages::applications.used_script_tags"
+msgid "Used Script Tags"
+msgstr "Используемые скрипты"
+
+msgctxt "Languages::applications.used_template_hooks"
+msgid "Used Template Hooks"
+msgstr "Используемые хуки"
+
+msgctxt "Languages::applications.used_webhooks"
+msgid "Used Webhooks"
+msgstr "Используемые веб-хуки"
+
+msgctxt "Languages::applications.application_not_found"
+msgid "Application not found"
+msgstr "Приложение не найдено"
+
+msgctxt "Languages::applications.return_to_installed_applications"
+msgid "Return to installed applications"
+msgstr "Вернуться к списку установленных приложений"
+
+msgctxt "Languages::applications.application_info"
+msgid "Application info"
+msgstr "Информация о приложении"
+
+msgctxt "Languages::applications.information"
+msgid "Information"
+msgstr "Информация"
+
+msgctxt "Languages::applications.market"
+msgid "Market"
+msgstr "Маркет"
+
+msgctxt "Languages::applications.marketplace_find_more"
+msgid "Find more applications and themes in <a href=\"[href]\" target=\"_blank\">Merchium Market</a>"
+msgstr "Найдите больше приложений и тем в <a href=\"[href]\" target=\"_blank\">Маркете Мерчиума</a>"
+
+msgctxt "Languages::applications.hookname"
+msgid "Hookname"
+msgstr "Название хука"
+
+msgctxt "Languages::applications.error_occurred_during_install_proccess"
+msgid "Error occurred during install proccess"
+msgstr "При установке приложения произошла ошибка"
+
+msgctxt "Languages::applications.api_requested_hook_is_not_allowed"
+msgid "Requested hook is not allowed"
+msgstr "Доступ к запрашиваемый хуку закрыт"
+
+msgctxt "Languages::applications.api_application_not_found"
+msgid "Application not found"
+msgstr "Приложение не найдено"
+
+msgctxt "Languages::applications.installation_of"
+msgid "Installation of"
+msgstr "Установка приложения"
+
+msgctxt "Languages::applications.requested_access_scope"
+msgid "Requested access scope"
+msgstr "Приложение просит следующие привилегии"
+
+msgctxt "Languages::applications.install"
+msgid "Install"
+msgstr "Установить"
+
+msgctxt "Languages::applications.cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+msgctxt "Languages::applications.reinstall_application"
+msgid "Reinstall application"
+msgstr "Переустановить приложение"
+
+msgctxt "Languages::app_scope_all"
+msgid "All"
+msgstr "Полный контроль"
+
+msgctxt "Languages::app_scope_none"
+msgid "None"
+msgstr "Привилегий не требуется"
+
+msgctxt "Languages::app_scope_manage_information"
+msgid "Manage information"
+msgstr "Чтение информации о магазине"
+
+msgctxt "Languages::app_scope_manage_script_tags"
+msgid "Manage script tags"
+msgstr "Подключение сторонних скриптов в витрину"
+
+msgctxt "Languages::app_scope_manage_template_hooks"
+msgid "Manage template hooks"
+msgstr "Использование стороннего HTML-содержимого в витрине"
+
+msgctxt "Languages::app_scope_manage_catalog"
+msgid "Manage catalog"
+msgstr "Чтение, изменение, создание и удаление категорий, товаров и их характеристик"
+
+msgctxt "Languages::app_scope_view_catalog"
+msgid "View catalog"
+msgstr "Просмотр каталога"
+
+msgctxt "Languages::app_scope_create_order"
+msgid "Create order"
+msgstr "Создание заказов"
+
+msgctxt "Languages::app_scope_edit_order"
+msgid "Edit order"
+msgstr "Редактирование заказов"
+
+msgctxt "Languages::app_scope_delete_order"
+msgid "Delete order"
+msgstr "Удаление заказов"
+
+msgctxt "Languages::app_scope_view_orders"
+msgid "View order"
+msgstr "Просмотр заказов"
+
+msgctxt "Languages::app_scope_manage_languages"
+msgid "Manage languages"
+msgstr "Чтение, редактирование, создание и удаление языков"
+
+msgctxt "Languages::app_scope_view_languages"
+msgid "View languages"
+msgstr "Чтение информации о языках"
+
+msgctxt "Languages::app_scope_manage_payments"
+msgid "Manage payments"
+msgstr "Просмотр, редактирование, создание и удаление способов оплаты"
+
+msgctxt "Languages::app_scope_view_payments"
+msgid "View payments"
+msgstr "Чтение информации о способах оплаты"
+
+msgctxt "Languages::app_scope_manage_shipping"
+msgid "Manage shipping"
+msgstr "Просмотр, редактирование, создание и удаление способов доставки"
+
+msgctxt "Languages::app_scope_view_shipping"
+msgid "View shipping"
+msgstr "Чтение информации о способах доставки"
+
+msgctxt "Languages::app_scope_manage_order_statuses"
+msgid "Manage order statuses"
+msgstr "Чтение, изменение, создание и удаление статусов заказов"
+
+msgctxt "Languages::app_scope_manage_stores"
+msgid "Manage stores"
+msgstr "Просмотр, изменение, создание и удаление витрин"
+
+msgctxt "Languages::app_scope_view_stores"
+msgid "View stores"
+msgstr "Чтение информации о витринах"
+
+msgctxt "Languages::app_scope_manage_taxes"
+msgid "Manage taxes"
+msgstr "Просмотр, изменение, создание и удаление налогов"
+
+msgctxt "Languages::app_scope_view_taxes"
+msgid "View taxes"
+msgstr "Чтение информации о налогах"
+
+msgctxt "Languages::app_scope_manage_users"
+msgid "Manage users"
+msgstr "Чтение, редактирование, создание и удаление профилей пользователей"
+
+msgctxt "Languages::app_scope_view_users"
+msgid "View users"
+msgstr "Чтение профилей пользователей"
+
+msgctxt "Languages::app_scope_update_settings"
+msgid "Update settings"
+msgstr "Изменение настроек магазина"
+
+msgctxt "Languages::app_scope_view_settings"
+msgid "View settings"
+msgstr "Чтение настроек магазина"
+
+msgctxt "Languages::app_scope_manage_email_marketing"
+msgid "Manage email marketing"
+msgstr "Чтение и редактирование списка подписчиков"
+
+msgctxt "Languages::app_scope_view_email_marketing"
+msgid "View email marketing"
+msgstr "Чтение информации о подписчиках"
+
