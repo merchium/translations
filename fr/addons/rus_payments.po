@@ -9,8 +9,8 @@ msgid "Russian localization — Russian payments"
 msgstr "Russian localization — Russian payments"
 
 msgctxt "Addons::description::rus_payments"
-msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
-msgstr "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard"
+msgid "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard, Payler"
+msgstr "Payments: Assist, Yandex.Money, Webmoney, Sberbank, Qiwi, PayAnyWay, PayMaster, Platidoma, RBK, Robokassa, Vsevcredit, Avangard, Payler"
 
 msgctxt "Languages::russian_payments"
 msgid "Russian payments"
@@ -1199,3 +1199,11 @@ msgstr "Application ID"
 msgctxt "Languages::addons.rus_payments.oauth2_client_secret"
 msgid "OAuth2 client secret"
 msgstr "OAuth2 client secret"
+
+msgctxt "Languages::text_payler_notice"
+msgid "Use the following URL in the Payler account settings<br />-&nbsp;<u>payment notification</u>: <b>[result_url]</b>"
+msgstr "Use the following URL in the Payler account settings<br />-&nbsp;<u>payment notification</u>: <b>[result_url]</b>"
+
+msgctxt "Languages::text_payler_payment_for_order"
+msgid "Payment for order #[order_id] at site [store]"
+msgstr "Payment for order #[order_id] at site [store]"
