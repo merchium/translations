@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-08 05:02-0400\n"
+"PO-Revision-Date: 2014-10-10 07:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1187,19 +1187,19 @@ msgstr "Настройки макета нельзя менять, если ст
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Добавить страницу макета"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Редактирование страницы макета"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "Новая страница макета"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "Страницы макета"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -13683,7 +13683,7 @@ msgstr "Настройки безопасности"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Оформление заказа"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -14515,19 +14515,19 @@ msgstr "Шифрованное соединение"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Форма авторизации"
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Вариант по умолчанию в секции «Новый покупатель»"
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Показывать шаг «Выбор способа доставки» (первый активный способ будет выбран по умолчанию)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Показывать шаг «Выбор способа оплаты» (первый активный способ будет выбран по умолчанию)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15375,31 +15375,31 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Показывать вариант «Новый покупатель» первым"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Показывать вариант «Постоянный клиент» первым"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Не показывать форму авторизации"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Регистрация"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Оформить заказ как гость"
 
 msgctxt "Languages::vat_id_number_is_not_valid"
 msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
+msgstr "Некорректный код НДС. Пожалуйста, проверьте адрес и код."
 
 msgctxt "Languages::vat_id_number_is_valid"
 msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Congratulations! This purchase is VAT-free for you."
+msgstr "Поздравляем! Эта покупка не облагается НДС."
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15435,5 +15435,5 @@ msgstr "Будут удалены все товары выбранный кат�
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Оригинал"
 
