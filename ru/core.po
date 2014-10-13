@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-10 07:00-0400\n"
+"PO-Revision-Date: 2014-10-10 15:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10185,6 +10185,10 @@ msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
 msgstr "Для оформления заказа Вы должны зарегистрироваться."
 
+msgctxt "Languages::recalculate_shipping_cost"
+msgid "Recalculate shipping cost"
+msgstr "Пересчитать стоимость доставки"
+
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
 msgstr "Мы поздравляем Вас с приобретением следующих поощрений"
@@ -14515,7 +14519,7 @@ msgstr "Шифрованное соединение"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Форма авторизации"
+msgstr "Настройка шага авторизации"
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -15383,7 +15387,7 @@ msgstr "Показывать вариант «Постоянный клиент�
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Не показывать форму авторизации"
+msgstr "Не показывать это шаг"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
