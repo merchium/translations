@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-13 10:00-0400\n"
+"PO-Revision-Date: 2014-10-13 12:00-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -89,10 +89,6 @@ msgctxt "Languages::sb_share"
 msgid "Share"
 msgstr "Поделиться"
 
-msgctxt "SettingsSections::social_buttons::yandex"
-msgid "Yandex"
-msgstr "Яндекс"
-
 msgctxt "SettingsSections::social_buttons::twitter"
 msgid "Twitter"
 msgstr "Twitter"
@@ -109,37 +105,9 @@ msgctxt "SettingsSections::social_buttons::email"
 msgid "E-mail"
 msgstr "Эл. почта"
 
-msgctxt "SettingsOptions::social_buttons::yandex_header"
-msgid "Yandex settings"
-msgstr "Настройки Яндекса"
-
 msgctxt "SettingsOptions::social_buttons::twitter_header"
 msgid "Twitter settings"
 msgstr "Настройки Twitter"
-
-msgctxt "SettingsOptions::social_buttons::yandex_enable"
-msgid "Show Yandex.Share block"
-msgstr "Отображать блок «Поделиться»"
-
-msgctxt "SettingsOptions::social_buttons::yandex_share_code"
-msgid "Yandex.Share code"
-msgstr "Код блока \"Поделиться\""
-
-msgctxt "SettingsOptions::social_buttons::yandex_display_on"
-msgid "Display on"
-msgstr "Показывать на"
-
-msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
-msgid "Product details pages"
-msgstr "На страницах товаров"
-
-msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
-msgid "Pages"
-msgstr "На контентных страницах"
-
-msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
-msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
-msgstr "Вы можете настроить блок и получить код на странице <a href=\"http://api.yandex.ru/share/\" target=\"_blank\"> http://api.yandex.ru/share/</a>"
 
 msgctxt "SettingsOptions::social_buttons::twitter_enable"
 msgid "Show Twitter button"
