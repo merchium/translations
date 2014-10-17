@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-10 13:00-0400\n"
+"PO-Revision-Date: 2014-10-16 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -523,7 +523,7 @@ msgstr "Beheerders"
 
 msgctxt "Languages::administrators_menu_description"
 msgid "List of store administrators, registered users with an administrator account."
-msgstr "Lijst van beheerders, geregistreerde gebruikers met een beheeraccount."
+msgstr "Overzicht van beheerders van de webwinkel."
 
 msgctxt "Languages::administrators_notified"
 msgid "[count] administrators notified."
@@ -559,7 +559,7 @@ msgstr "Na volledige betaling"
 
 msgctxt "Languages::after_sum"
 msgid "After sum"
-msgstr "Na optellen"
+msgstr "Valutateken achter het bedrag"
 
 msgctxt "Languages::agent_id"
 msgid "Agent ID"
@@ -1187,19 +1187,19 @@ msgstr "De opmaak kan niet worden gewijzigd als het thema is omgezet naar CSS. G
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Opmaak pagina toevoegen"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Opmaak pagina aanpassen"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "Nieuwe opmaak pagina"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "Opmaak pagina's"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1627,7 +1627,7 @@ msgstr "Categorieën zijn toegevoegd"
 
 msgctxt "Languages::categories_menu_description"
 msgid "View product categories which are used to group products in your store."
-msgstr "Bekijk productcategorieën welke worden gebruikt op producten in uw webwinkel te groeperen."
+msgstr "Productcategorieën in uw webwinkel beheren."
 
 msgctxt "Languages::category"
 msgid "Category"
@@ -1759,7 +1759,7 @@ msgstr "Afrekenen"
 
 msgctxt "Languages::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Afrekenen als gast"
+msgstr "Alleen afrekenen"
 
 msgctxt "Languages::checkout_edp_terms_n_conditions"
 msgid "I accept the terms in the"
@@ -2639,7 +2639,7 @@ msgstr "Klanten"
 
 msgctxt "Languages::customers_menu_description"
 msgid "List of store customers, registered users with a customer account."
-msgstr "Lijst van geregistreerde klanten in uw webwinkel."
+msgstr "Overzicht van geregistreerde klanten in uw webwinkel."
 
 msgctxt "Languages::customer_details"
 msgid "Customer details"
@@ -2843,7 +2843,7 @@ msgstr "Gedefinieerd"
 
 msgctxt "Languages::defined_desired_products"
 msgid "List of desired products"
-msgstr "Lijst van gewenste producten"
+msgstr "Overzicht van gewenste producten"
 
 msgctxt "Languages::defined_items"
 msgid "defined items"
@@ -2939,7 +2939,7 @@ msgstr "Ga naar beheerpaneel"
 
 msgctxt "Languages::demo_panel.go_storefront"
 msgid "Go to Storefront"
-msgstr "Ga naar ue webwinkel"
+msgstr "Ga naar uw webwinkel"
 
 msgctxt "Languages::demo_panel.demo_will_be_reset_in"
 msgid "Demo will be reset in:"
@@ -4003,7 +4003,7 @@ msgstr "Eigenschappen scheidingsteken"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
-msgstr "Beheer extra producteigenschappen"
+msgstr "Extra producteigenschappen beheren"
 
 msgctxt "Languages::feature_code"
 msgid "Feature code"
@@ -4397,6 +4397,10 @@ msgctxt "Languages::grid"
 msgid "Grid"
 msgstr "Rooster"
 
+msgctxt "Languages::tmpl_grid"
+msgid "Grid"
+msgstr "Rooster"
+
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
 msgstr "Rooster2"
@@ -4691,7 +4695,7 @@ msgstr "Ga naar het beheerpaneel"
 
 msgctxt "Languages::welcome_screen.go_storefront"
 msgid "Go to the storefront"
-msgstr "Ga naar webshop"
+msgstr "Ga naar webwinkel"
 
 msgctxt "Languages::welcome_screen.go_settings_wizard"
 msgid "Go to the Settings wizard for basic store setup"
@@ -6227,7 +6231,7 @@ msgstr "De opties zijn toegepast op de geselecteerde producten"
 
 msgctxt "Languages::options_menu_description"
 msgid "Manage global product options and option variants in your store."
-msgstr "Beheer globale product opties en optie varianten in uw winkel."
+msgstr "Productopties in uw webwinkel beheren"
 
 msgctxt "Languages::options_settings"
 msgid "Options settings"
@@ -6315,7 +6319,7 @@ msgstr "BestellingID"
 
 msgctxt "Languages::order_info"
 msgid "Order information"
-msgstr "Bestellinginfo"
+msgstr "Informatie bestelling"
 
 msgctxt "Languages::order_items"
 msgid "Order items"
@@ -7315,7 +7319,7 @@ msgstr "Producten links type"
 
 msgctxt "Languages::products_menu_description"
 msgid "View, add and edit products that are shown to visitors of your store."
-msgstr "Producten bekijken, aanpassen en toevoegen"
+msgstr "Producten in uw webwinkel beheren"
 
 msgctxt "Languages::products_required"
 msgid "Please add product(s)"
@@ -10187,7 +10191,7 @@ msgstr "U dient geregistreerd zijn om verder te gaan met uw bestelling"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Herbereken de verzendkosten"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -11324,7 +11328,7 @@ msgstr "Vul uw CS-Cart licentienummer in a.u.b."
 
 msgctxt "Languages::text_uc_list_of_updates_missing"
 msgid "List of upgrades is missing"
-msgstr "Lijst van upgrades ontbreekt"
+msgstr "Overzicht van upgrades ontbreekt"
 
 msgctxt "Languages::text_uc_non_writable_files"
 msgid "These files require write permissions set (manually or automatically via FTP)"
@@ -12576,7 +12580,7 @@ msgstr "Gebruikersgroepen"
 
 msgctxt "Languages::usergroups_menu_description"
 msgid "List of user groups that exist in your store."
-msgstr "Lijst van bestaande gebruikersgroepen in uw winkel."
+msgstr "Overzicht van gebruikersgroepen in uw webwinkel."
 
 msgctxt "Languages::usergroup_activated"
 msgid "User group has been activated"
@@ -12608,7 +12612,7 @@ msgstr "Verlaten / Live winkelwagens"
 
 msgctxt "Languages::users_carts_menu_description"
 msgid "Lists of products that have not been purchased for some reason."
-msgstr "Lijst van producten die om bepaalde redenen niet zijn gekocht."
+msgstr "Overzicht van producten die om bepaalde redenen niet zijn gekocht."
 
 msgctxt "Languages::users_menu_description"
 msgid "Manage user accounts that are registered at your store."
@@ -12908,7 +12912,7 @@ msgstr "Bekijk bestellingen"
 
 msgctxt "Languages::view_orders_menu_description"
 msgid "View, process and print invoices slips for orders placed from your web site."
-msgstr "Bekijk, verwerken en printen van facturen voor bestellingen geplaatst op uw webwinkel."
+msgstr "Bestellingen bekijken, verwerken en facturen uitprinten."
 
 msgctxt "Languages::view_page"
 msgid "View page"
@@ -13688,7 +13692,7 @@ msgstr "Beveiliging instellingen"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Afrekenen"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -14520,19 +14524,19 @@ msgstr "Gebruik beveiligde verbinding"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Registratie configureren"
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Standaard optie voor het \"Nieuwe klant\" gedeelte tijdens het registreren"
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Verzendmethode weergeven (de eerst actieve verzendmethode wordt als standaard gebruikt)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Betaalmethode weergeven (de eerst actieve betaalmethode wordt als standaard gebruikt)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15380,31 +15384,23 @@ msgstr "Secure Sockets Layer (SSL)"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "\"Nieuwe klant\" als eerste weergeven"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "\"Terugkerende klant\" als eerste weergeven"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Deze stap compleet verbergen"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Registreer"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
-
-msgctxt "Languages::vat_id_number_is_not_valid"
-msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
-
-msgctxt "Languages::vat_id_number_is_valid"
-msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Congratulations! This purchase is VAT-free for you."
+msgstr "Afrekenen"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15441,4 +15437,69 @@ msgstr "Alle geselecteerde categorieën, subcategorieën en producten zullen wor
 msgctxt "Languages::restore_original"
 msgid "Restore original"
 msgstr "Herstel het origineel"
+
+msgctxt "Languages::set_custom_configuration"
+msgid "Set custom configuration"
+msgstr "Aangepaste configuratie instellen"
+
+msgctxt "Languages::use_default_block_configuration"
+msgid "Use default block configuration"
+msgstr "De standaard blok configuratie gebruiken"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Categorieën van verkoper"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Productcategorieën beschikbaar voor een bepaalde verkoper"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Informatie van verkoper"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Logo van verkoper"
+
+msgctxt "Languages::block_vendor_logo_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_information_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendors_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Zoek op producten van een verkoper"
+
+msgctxt "Languages::block_vendor_search_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Productfilters van verkoper"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Producten van verkoper"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Filters van verkoper"
+
+msgctxt "Languages::vendor_filters_description"
+msgid ""
+msgstr ""
+""
 

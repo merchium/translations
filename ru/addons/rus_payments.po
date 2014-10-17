@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-10 07:00-0400\n"
+"PO-Revision-Date: 2014-10-16 07:00-0400\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
@@ -849,6 +849,14 @@ msgctxt "Languages::avangard_password"
 msgid "Password"
 msgstr "Пароль"
 
+msgctxt "Languages::addons.rus_payments.avangard_av_sign"
+msgid "The acquiring service \"Signature\""
+msgstr "The acquiring service \"Signature\""
+
+msgctxt "Languages::addons.rus_payments.avangard_fail_payment"
+msgid "Payment was not effected:<br />The card issuing bank refusal.<br />An error in the payment process: incorrect card data were defined."
+msgstr "Payment was not effected:<br />The card issuing bank refusal.<br />An error in the payment process: incorrect card data were defined."
+
 msgctxt "Languages::mnt_payment_server"
 msgid "Payment server URL"
 msgstr "URL сервера оплаты"
@@ -1156,6 +1164,10 @@ msgstr "В настоящее время данный тип платежа не
 msgctxt "Languages::text_yandex_money_redirect_url"
 msgid "Please use the following Redirect URL while adjusting the API Yandex.Money application: <br/> [redirect_url]"
 msgstr "Пожалуйста, используйте следующий Redirect URL при настройке приложения API Яндекс.Денег: <br/><br/> <em>[redirect_url]</em>"
+
+msgctxt "Languages::text_avangard_redirect_url"
+msgid "Please use the following Redirect URL while adjusting the API Avangard application: <br/> [redirect_url]"
+msgstr "Please use the following Redirect URL while adjusting the API Avangard application: <br/> [redirect_url]"
 
 msgctxt "Languages::rus_payments.yandex_money_contract_not_found"
 msgid "Invalid or non-existent request_id specified."

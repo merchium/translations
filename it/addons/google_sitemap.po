@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-13 08:00-0400\n"
+"PO-Revision-Date: 2014-10-15 10:00-0400\n"
 
 msgctxt "Addons::name::google_sitemap"
 msgid "Google sitemap"
@@ -19,15 +19,15 @@ msgstr "Crea una sitemap.xml per Google"
 
 msgctxt "Languages::google_sitemap.text_regenerate"
 msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
-msgstr "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Se dei prodotti, categorie, ecc. sono stati aggiunti o modificati, si prega di <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">rigenerare una sitemap</a><br /><br /> [sitemap_available_in_customer]"
 
 msgctxt "Languages::google_sitemap.text_select_storefront"
 msgid "To generate a sitemap, please select storefront first."
-msgstr "To generate a sitemap, please select storefront first."
+msgstr "Per generare una sitemap, si prega di selezionare prima lo storefront (vetrina)."
 
 msgctxt "Languages::sitemap_available_in_customer"
-msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a> if SEO addon is enabled. If it is disabled, you need to add the following code to the \".htaccess\" file to get this URL working:<br />RewriteRule ^sitemap\\.xml$ [sitemap_url] [L]<br />Add this line after the \"RewriteBase\" line.<br /><br />"
-msgstr "La sitemap è disponibile a questo indirizzo: <a href=\"[sitemap_url]\"> [sitemap_url]</a><br /><br />La sitemap è raggiungibile all'URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a> se l'Add-on SEO è abilitata. Se è disabilitata, è necessario aggiungere il codice seguente al file \".htaccess\" per far si che questo URL funzioni: <br />RewriteRule ^sitemap\\.xml$ [sitemap_url] [L]<br />Aggiungere questa riga dopo la riga \"RewriteBase\".<br /><br />"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
 
 msgctxt "Languages::always"
 msgid "Always"
@@ -59,11 +59,11 @@ msgstr "Mai"
 
 msgctxt "Languages::google_sitemap.generate_map"
 msgid "The sitemap is not generated yet. Please go to addon settings and press \"Regenerate a sitemap\" button"
-msgstr "The sitemap is not generated yet. Please go to addon settings and press \"Regenerate a sitemap\" button"
+msgstr "La sitemap non è stata ancora generata. Vai su impostazioni addon e premi il pulsante \"Rigenera una sitemap\""
 
 msgctxt "Languages::google_sitemap.map_generated"
 msgid "The sitemap was generated successfully"
-msgstr "The sitemap was generated successfully"
+msgstr "La sitemap è stata generata con successo"
 
 msgctxt "SettingsSections::google_sitemap::general"
 msgid "General"

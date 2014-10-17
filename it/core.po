@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-10 13:01-0400\n"
+"PO-Revision-Date: 2014-10-16 03:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1187,19 +1187,19 @@ msgstr "Il cambiamento di Layout quanto il tema è convertito in CSS non è perm
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Aggiungere la pagina di layout"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Modifica pagina di layout"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "Nuova pagina di layout"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "Pagine di layout"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -4247,7 +4247,7 @@ msgstr "Stato completamento"
 
 msgctxt "Languages::full"
 msgid "Full"
-msgstr "Pieno"
+msgstr "Completo"
 
 msgctxt "Languages::fullauth"
 msgid "Fullauth"
@@ -4394,6 +4394,10 @@ msgid "Greek"
 msgstr "Greco"
 
 msgctxt "Languages::grid"
+msgid "Grid"
+msgstr "Griglia"
+
+msgctxt "Languages::tmpl_grid"
 msgid "Grid"
 msgstr "Griglia"
 
@@ -10188,7 +10192,7 @@ msgstr "Devi essere un utente registrato per poter procedere alla cassa"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Ricalcola il costo di spedizione"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -13688,7 +13692,7 @@ msgstr "Impostazioni di sicurezza"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Cassa"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -14520,19 +14524,19 @@ msgstr "Utilizzare la connessione crittografata"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Configura il passaggio \"Accedi\""
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Opzione predefinita per la sezione \"nuovo cliente\" dopo l'\"Accesso\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Visualizza il passaggio \"Metodo di spedizione\" (verrà utilizzato il primo metodo attivo per impostazione predefinita)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Visualizza il passaggio del \"Metodo di pagamento\" (il primo metodo attivo verrà utilizzato per impostazione predefinita)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15380,31 +15384,23 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Visualizza \"Nuovo cliente\" prima"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Visualizza prima \"Cliente abituale\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Nascondi completamente il passaggio"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Registrati"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
-
-msgctxt "Languages::vat_id_number_is_not_valid"
-msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
-
-msgctxt "Languages::vat_id_number_is_valid"
-msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Congratulations! This purchase is VAT-free for you."
+msgstr "Continua acquisto come ospite"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15441,4 +15437,69 @@ msgstr "Questo eliminerà i prodotti di tutte le categorie, così come le loro s
 msgctxt "Languages::restore_original"
 msgid "Restore original"
 msgstr "Ripristina l'originale"
+
+msgctxt "Languages::set_custom_configuration"
+msgid "Set custom configuration"
+msgstr "Imposta configurazione personalizzata"
+
+msgctxt "Languages::use_default_block_configuration"
+msgid "Use default block configuration"
+msgstr "Usa la configurazione blocchi predefinita"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Categorie venditori"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Categorie prodotti disponibili per un particolare venditore"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Informazioni venditore"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Logo venditore"
+
+msgctxt "Languages::block_vendor_logo_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_information_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendors_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Cerca nei prodotti del venditore"
+
+msgctxt "Languages::block_vendor_search_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Filtri prodotto del venditore"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Prodotti venditore"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Filtri venditore"
+
+msgctxt "Languages::vendor_filters_description"
+msgid ""
+msgstr ""
+""
 

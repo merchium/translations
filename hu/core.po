@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-10 13:01-0400\n"
+"PO-Revision-Date: 2014-10-16 03:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4396,6 +4396,10 @@ msgstr "Görög"
 msgctxt "Languages::grid"
 msgid "Grid"
 msgstr "Rács"
+
+msgctxt "Languages::tmpl_grid"
+msgid "Grid"
+msgstr "Grid"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -15397,14 +15401,6 @@ msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Checkout as guest"
 
-msgctxt "Languages::vat_id_number_is_not_valid"
-msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "The entered VAT ID is invalid. Please re-check the address and ID."
-
-msgctxt "Languages::vat_id_number_is_valid"
-msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Congratulations! This purchase is VAT-free for you."
-
 msgctxt "Languages::last_year"
 msgid "Last year"
 msgstr "Tavaly"
@@ -15440,4 +15436,69 @@ msgstr "Ezzel törli az összes kijelölt kategóriát, a kategóriába tartozó
 msgctxt "Languages::restore_original"
 msgid "Restore original"
 msgstr "Restore original"
+
+msgctxt "Languages::set_custom_configuration"
+msgid "Set custom configuration"
+msgstr "Set custom configuration"
+
+msgctxt "Languages::use_default_block_configuration"
+msgid "Use default block configuration"
+msgstr "Use default block configuration"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Vendor categories"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Product categories available to a particular vendor"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Vendor information"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Vendor logo"
+
+msgctxt "Languages::block_vendor_logo_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_information_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendors_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Search by vendor products"
+
+msgctxt "Languages::block_vendor_search_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Vendor Product filters"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Vendor products"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Vendor filters"
+
+msgctxt "Languages::vendor_filters_description"
+msgid ""
+msgstr ""
+""
 

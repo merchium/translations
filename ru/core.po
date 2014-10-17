@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-13 10:00-0400\n"
+"PO-Revision-Date: 2014-10-16 03:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4396,6 +4396,10 @@ msgstr "Греческий"
 msgctxt "Languages::grid"
 msgid "Grid"
 msgstr "Секция"
+
+msgctxt "Languages::tmpl_grid"
+msgid "Grid"
+msgstr "Сетка"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -14427,7 +14431,7 @@ msgstr "Отображение кнопки добавление товара в
 
 msgctxt "SettingsOptions::disable_anonymous_checkout"
 msgid "Disable anonymous checkout"
-msgstr "Покупатель должен зарегистрироваться, либо войти, чтобы оформить заказ"
+msgstr "Покупатель должен зарегистрироваться либо войти, чтобы оформить заказ"
 
 msgctxt "SettingsOptions::checkout_redirect"
 msgid "Allow checkout only from the Cart content page"
@@ -15397,14 +15401,6 @@ msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Оформить заказ как гость"
 
-msgctxt "Languages::vat_id_number_is_not_valid"
-msgid "The entered VAT ID is invalid. Please re-check the address and ID."
-msgstr "Некорректный код НДС. Пожалуйста, проверьте адрес и код."
-
-msgctxt "Languages::vat_id_number_is_valid"
-msgid "Congratulations! This purchase is VAT-free for you."
-msgstr "Поздравляем! Эта покупка не облагается НДС."
-
 msgctxt "Languages::last_year"
 msgid "Last year"
 msgstr "Предыдущий год"
@@ -15440,4 +15436,69 @@ msgstr "Будут удалены все товары выбранный кат�
 msgctxt "Languages::restore_original"
 msgid "Restore original"
 msgstr "Оригинал"
+
+msgctxt "Languages::set_custom_configuration"
+msgid "Set custom configuration"
+msgstr "Set custom configuration"
+
+msgctxt "Languages::use_default_block_configuration"
+msgid "Use default block configuration"
+msgstr "Use default block configuration"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Vendor categories"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Product categories available to a particular vendor"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Vendor information"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Vendor logo"
+
+msgctxt "Languages::block_vendor_logo_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_information_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendors_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Search by vendor products"
+
+msgctxt "Languages::block_vendor_search_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Vendor Product filters"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Vendor products"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Vendor filters"
+
+msgctxt "Languages::vendor_filters_description"
+msgid ""
+msgstr ""
+""
 
