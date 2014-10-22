@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-16 13:00-0400\n"
+"PO-Revision-Date: 2014-10-22 03:00-0400\n"
 
 msgctxt "Addons::name::google_sitemap"
 msgid "Google sitemap"
@@ -19,15 +19,15 @@ msgstr "Tworzy plik sitemap.xml dla Google"
 
 msgctxt "Languages::google_sitemap.text_regenerate"
 msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
-msgstr "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Jeśli produkty, kategorie, itp., zostały dodane lub zmienione, proszę <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\"> Wygeneruj mapę witryny</a> <br /> <br /> [sitemap_available_in_customer]"
 
 msgctxt "Languages::google_sitemap.text_select_storefront"
 msgid "To generate a sitemap, please select storefront first."
-msgstr "To generate a sitemap, please select storefront first."
+msgstr "Aby wygenerować mapy witryny, wybierz najpierw sklep."
 
 msgctxt "Languages::sitemap_available_in_customer"
 msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
-msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Mapa jest dostępna przez ten link: <a href=\"[sitemap_url]\"> [sitemap_url]</a> <br /> <br /> Sitemap jest również dostępna poprzez adres URL <a href=\"[http_location]/sitemap.xml\"> [http_location]/sitemap.xml</a>"
 
 msgctxt "Languages::always"
 msgid "Always"
@@ -59,11 +59,11 @@ msgstr "Nigdy"
 
 msgctxt "Languages::google_sitemap.generate_map"
 msgid "The sitemap is not generated yet. Please go to addon settings and press \"Regenerate a sitemap\" button"
-msgstr "The sitemap is not generated yet. Please go to addon settings and press \"Regenerate a sitemap\" button"
+msgstr "Mapa strony nie została jeszcze wygenerowana. Przejdź do ustawień dodatku i naciśnij przycisk \"Ponownie wygeneruj mape\""
 
 msgctxt "Languages::google_sitemap.map_generated"
 msgid "The sitemap was generated successfully"
-msgstr "The sitemap was generated successfully"
+msgstr "Mapa strony została wygenerowana pomyślnie"
 
 msgctxt "SettingsSections::google_sitemap::general"
 msgid "General"

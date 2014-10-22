@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-16 13:00-0400\n"
+"PO-Revision-Date: 2014-10-22 09:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3399,7 +3399,7 @@ msgstr "Typ edycji"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "Edycja treści na stronie"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -4059,7 +4059,7 @@ msgstr "Pliki"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Pliki do sprzedaży"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -4399,7 +4399,7 @@ msgstr "Siatka"
 
 msgctxt "Languages::tmpl_grid"
 msgid "Grid"
-msgstr "Grid"
+msgstr "Siatka"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -5159,7 +5159,7 @@ msgstr "Zarządzanie zestawami miejsc, które są obsługiwane w sklepie."
 
 msgctxt "Languages::loggedin_time"
 msgid "Logged in time"
-msgstr "Logged in time"
+msgstr "Rejestrowane w czasie"
 
 msgctxt "Languages::logging"
 msgid "Logging"
@@ -6187,7 +6187,7 @@ msgstr "Edycja szablonu na stronie"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Edycja online treści na stronie"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -6491,7 +6491,7 @@ msgstr "Tytuł strony"
 
 msgctxt "Languages::paid_amount"
 msgid "Paid amount"
-msgstr "Paid amount"
+msgstr "Wypłacona kwota"
 
 msgctxt "Languages::param"
 msgid "Parameter"
@@ -6583,7 +6583,7 @@ msgstr "Typ czcionki"
 
 msgctxt "Languages::payments.epdq.hash_error"
 msgid "Sorry, the hash string does not match"
-msgstr "Sorry, the hash string does not match"
+msgstr "Przepraszamy, wygenerowany hash nie pasuje do wzorca"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
@@ -6687,7 +6687,7 @@ msgstr "Nazwa pozycji ( lub nazwa dla koszyka)"
 
 msgctxt "Languages::paypal_security_error"
 msgid "Your order was not placed: the recipient PayPal account is wrong."
-msgstr "Your order was not placed: the recipient PayPal account is wrong."
+msgstr "Zamówienie nie zostało złożone: dane konta PayPal są nieprawidłowe."
 
 msgctxt "Languages::pay_from_email"
 msgid "Customer email"
@@ -8823,7 +8823,7 @@ msgstr "Użyj płatności COD"
 
 msgctxt "Languages::ship_dhl_cod_value"
 msgid "COD surcharge"
-msgstr "COD surcharge"
+msgstr "COD dopłata"
 
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
@@ -9027,15 +9027,15 @@ msgstr "Podpis"
 
 msgctxt "Languages::ship_sp_pp_additional_insurance"
 msgid "Additional insurance (up to CHF 3000.-)"
-msgstr "Additional insurance (up to CHF 3000.-)"
+msgstr "Dodatkowe ubezpieczenie (do CHF 3000.-)"
 
 msgctxt "Languages::ship_sp_pp_bulky_goods"
 msgid "Bulky goods"
-msgstr "Bulky goods"
+msgstr "Towary wielkogabarytowe"
 
 msgctxt "Languages::ship_sp_pp_cash_on_delivery"
 msgid "Cash on delivery (ECONOMY only)"
-msgstr "Cash on delivery (ECONOMY only)"
+msgstr "Za pobraniem (tylko przesyłka ekonomiczna)"
 
 msgctxt "Languages::ship_sp_pp_manual_processing"
 msgid "Manual processing"
@@ -9043,7 +9043,7 @@ msgstr "Manualne przetwarzanie"
 
 msgctxt "Languages::ship_sp_ur_additional_insurance"
 msgid "Additional insurance for URGENT goods  (up to CHF 3000.-)"
-msgstr "Additional insurance for URGENT goods  (up to CHF 3000.-)"
+msgstr "Dodatkowe ubezpieczenie dla towarów (do CHF 3000.-)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
@@ -9059,7 +9059,7 @@ msgstr "Paczka jest za ciężka."
 
 msgctxt "Languages::ship_swisspost_unable_to_open_additional_services"
 msgid "Cannot open the additional_services.csv file"
-msgstr "Cannot open the additional_services.csv file"
+msgstr "Nie można otworzyć pliku additional_services.csv"
 
 msgctxt "Languages::ship_swisspost_unable_to_open_service"
 msgid "Cannot open the [code] file"
@@ -9175,7 +9175,7 @@ msgstr "Kontener"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
-msgstr "Container (Express)"
+msgstr "Pojemnik (Express)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
@@ -9183,7 +9183,7 @@ msgstr "Flat Rate Envelope"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
-msgstr "Container (Priority Mail)"
+msgstr "Pojemnik (Priorytetowa poczta)"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
@@ -9259,7 +9259,7 @@ msgstr "Paczka"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
-msgstr "Package girth"
+msgstr "Obwód paczki"
 
 msgctxt "Languages::ship_usps_intl_package_height"
 msgid "Package height"
@@ -9319,19 +9319,19 @@ msgstr "Regularna (0..84)"
 
 msgctxt "Languages::ship_usps_priority_girth"
 msgid "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
-msgstr "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
+msgstr "Poczta priorytet (Rozmiar: Duży, Pojemnik: nieprostokątny) Obwód (cale)"
 
 msgctxt "Languages::ship_usps_priority_height"
 msgid "Priority Mail (Size:Large) Height (inches)"
-msgstr "Priority Mail (Size:Large) Height (inches)"
+msgstr "Poczta priorytet (Rozmiar: Duży) Wysokość (w calach)"
 
 msgctxt "Languages::ship_usps_priority_length"
 msgid "Priority Mail (Size:Large) Length (inches)"
-msgstr "Priority Mail (Size:Large) Length (inches)"
+msgstr "Poczta priorytet (Rozmiar: Duży) Długość (cale)"
 
 msgctxt "Languages::ship_usps_priority_width"
 msgid "Priority Mail (Size:Large) Width (inches)"
-msgstr "Priority Mail (Size:Large) Width (inches)"
+msgstr "Poczta priorytet (Rozmiar: Duży) Szerokość (cale)"
 
 msgctxt "Languages::ship_usps_username"
 msgid "User ID"
@@ -9951,11 +9951,11 @@ msgstr "Pudełko"
 
 msgctxt "Languages::temando_package_bunch"
 msgid "Bunch"
-msgstr "Bunch"
+msgstr "Kilka"
 
 msgctxt "Languages::temando_package_bundle"
 msgid "Bundle"
-msgstr "Bundle"
+msgstr "Pakiet"
 
 msgctxt "Languages::temando_package_carton"
 msgid "Carton"
@@ -10031,7 +10031,7 @@ msgstr "Koła/opony"
 
 msgctxt "Languages::temando_subclass_excessbaggage"
 msgid "Excess Baggage"
-msgstr "Excess Baggage"
+msgstr "Nadbagaż"
 
 msgctxt "Languages::temando_subclass_furniture"
 msgid "Furniture"
@@ -10039,7 +10039,7 @@ msgstr "Meble"
 
 msgctxt "Languages::temando_subclass_householdgoods"
 msgid "Household Goods"
-msgstr "Household Goods"
+msgstr "Gospodarstwa domowego"
 
 msgctxt "Languages::temando_subclass_other"
 msgid "Other (etc.)"
@@ -10158,8 +10158,8 @@ msgid "This section shows the orders you have never viewed."
 msgstr "Ta sekcja pokazuje zamówienia, których nigdy nie przeglądałeś."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
-msgid "The following file extensions are supported: <b>.[ext]</b>."
-msgstr "You can upload files only with the <b>.[ext]</b> extension here."
+msgid "The following file extensions are supported: <b>[ext]</b>."
+msgstr "The following file extensions are supported: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10191,7 +10191,7 @@ msgstr "Musisz być zarejestrowanym użytkownikiem żeby potwierdzić zamówieni
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Przelicz koszty wysyłki"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -11115,7 +11115,7 @@ msgstr "Ten adres e-mail jest zarejestrowany w Skrill."
 
 msgctxt "Languages::text_skrill_empty_input_data"
 msgid "Some of the fields required for Quick Checkout activation are missing. Please check."
-msgstr "Some of the fields required for Quick Checkout activation are missing. Please check."
+msgstr "Niektóre pola wymagane do Szybkich zakupów nie są wypełnione. Prosimy o sprawdzenie."
 
 msgctxt "Languages::text_skrill_logo_notice"
 msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
@@ -11127,7 +11127,7 @@ msgstr "To gain access to the international payment network of Skrill, please re
 
 msgctxt "Languages::text_skrill_payment_is_not_saved"
 msgid "In order to use this feature, please save the payment method first."
-msgstr "In order to use this feature, please save the payment method first."
+msgstr "Aby użyć tej funkcji, zapisz najpierw metodę płatności."
 
 msgctxt "Languages::text_skrill_secred_word_notice"
 msgid "The secret word must be in lower case without special characters and at least 10 digits long."
@@ -11255,7 +11255,7 @@ msgstr "Pakiet aktualizacyjny wydaje się być zepsuty. Spróbuj pobrać go pono
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
-msgstr "Failed to disable upgrade process launching"
+msgstr "Nie można wyłączyć procesu aktualizacji"
 
 msgctxt "Languages::text_uc_cant_download_package"
 msgid "Cannot download the upgrade package"
@@ -12063,7 +12063,7 @@ msgstr "Śledź z opcjami"
 
 msgctxt "Languages::TransactionDateTime"
 msgid "TransactionDateTime"
-msgstr "TransactionDateTime"
+msgstr "Czas transakcji"
 
 msgctxt "Languages::transaction_approved"
 msgid "Transaction approved"
@@ -12135,7 +12135,7 @@ msgstr "Prawda"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgstr "Dowolny tekst, który będzie wyświetlony wraz z nazwą sposobu wysyłki."
 
 msgctxt "Languages::ttc_clean_up_all_locations_on_import"
 msgid "Delete all existing locations before importing locations from the file"
@@ -12247,7 +12247,7 @@ msgstr "Kategorie mają być wyświetlane w okruszkach."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr " Śledzenie ilości produktu w magazynie. Włącz \"Włącz śledzenie magazynu\" w menu (Ustawienia-> Ustawieni ogólne)."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12263,7 +12263,7 @@ msgstr "Domyślnie jest używany szablon zdefiniowany w głównej kategorii prod
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Pokaż tę cechę na liście produktów wraz z opisem produktu."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -13455,7 +13455,7 @@ msgstr "You currently have an outstanding application with FuturePay which needs
 
 msgctxt "Languages::payments.futurepay.phone_error"
 msgid "There was no phone number entered for your billing address. Please enter a phone number and try again"
-msgstr "There was no phone number entered for your billing address. Please enter a phone number and try again"
+msgstr "Nie został wprowadzony żaden numer telefonu w danych bilingowych. Proszę wprowadzić numer telefonu i spróbować ponownie"
 
 msgctxt "Languages::payments.futurepay.zipcode_error"
 msgid "The Zip code you entered for your billing address corresponds to a Military (APO/FPO/DPO), PO Box or other non-physical address. To approve your application we require a Zip code associated with a physical address in the U.S."
@@ -13574,8 +13574,8 @@ msgid "The [field] field is required"
 msgstr "To pole [field] jest wymagane"
 
 msgctxt "Languages::update_translation"
-msgid "Update from PO file"
-msgstr "Aktualizacja z pliku PO"
+msgid "Update translations"
+msgstr "Update translations"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -13691,7 +13691,7 @@ msgstr "Ustawienia zabezpieczeń"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Kasa"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -14523,19 +14523,23 @@ msgstr "Użyj połączenia szyfrowanego"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Konfiguracja kroku \"Zaloguj się\""
+
+msgctxt "SettingsTooltips::configure_sign_in_step"
+msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Domyślnie opcja \"Nowy klient\" w sekcji \"Zaloguj\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Pokaż najpierw \"Metoda wysyłki\" (pierwsza aktywna wysyłka będą ustawiona jako domyślna)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Pokaż najpierw \"Metoda płatności\" (pierwsza aktywna wysyłka będą ustawiona jako domyślna)"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15383,23 +15387,23 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Pokaż najpierw \"Nowy klient\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Pokaż najpierw \"Powracający klient\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Ukryj całkowicie krok"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Zarejestruj się"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Realizuj zamówienie jako gość"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15435,31 +15439,31 @@ msgstr "Spowoduje to usunięcie wszystkich produktów z wybranych kategorii, jak
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Przywrócić oryginalny"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Ustaw niestandardową konfigurację"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Użyj domyślnej konfiguracji bloku"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
-msgstr "Vendor categories"
+msgstr "Kategorie sprzedawcy"
 
 msgctxt "Languages::block_vendor_categories_description"
 msgid "Product categories available to a particular vendor"
-msgstr "Product categories available to a particular vendor"
+msgstr "Kategorie produktów dostępnych dla danego sprzedawcy"
 
 msgctxt "Languages::block_vendor_information"
 msgid "Vendor information"
-msgstr "Vendor information"
+msgstr "Informacje o sprzedawcy"
 
 msgctxt "Languages::block_vendor_logo"
 msgid "Vendor logo"
-msgstr "Vendor logo"
+msgstr "Logo sprzedawcy"
 
 msgctxt "Languages::block_vendor_logo_description"
 msgid ""
@@ -15478,7 +15482,7 @@ msgstr ""
 
 msgctxt "Languages::block_vendor_search"
 msgid "Search by vendor products"
-msgstr "Search by vendor products"
+msgstr "Szukaj według produktów sprzedawcy"
 
 msgctxt "Languages::block_vendor_search_description"
 msgid ""
@@ -15487,15 +15491,15 @@ msgstr ""
 
 msgctxt "Languages::vendor_filters"
 msgid "Vendor Product filters"
-msgstr "Vendor Product filters"
+msgstr "Filtry produktów sprzedawcy"
 
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
-msgstr "Vendor products"
+msgstr "Produkty sprzedawcy"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
-msgstr "Vendor filters"
+msgstr "Filtry sprzedawcy"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
