@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-22 03:00-0400\n"
+"PO-Revision-Date: 2014-10-23 02:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -23,7 +23,7 @@ msgstr "Pole \"Hasło\" i niektóre inne obowiązkowe pola są puste. Proszę za
 
 msgctxt "Languages::hybrid_auth_social_login"
 msgid "Or sign-in with another identity provider"
-msgstr "Lub zaloguj się przy użyciu innego dostawcy"
+msgstr "Lub zaloguj się przy użyciu:"
 
 msgctxt "Languages::hybrid_auth_unspecified_error"
 msgid "Unspecified error"
@@ -175,23 +175,23 @@ msgstr "LinkedIn tajny klucz"
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
-msgstr "Social login"
+msgstr "Logowanie do portali społecznościowych"
 
 msgctxt "Languages::hybrid_auth.providers"
 msgid "Providers"
-msgstr "Providers"
+msgstr "Usługodawca"
 
 msgctxt "Languages::hybrid_auth.add_provider"
 msgid "Add provider"
-msgstr "Add provider"
+msgstr "Dodaj usługodawcę"
 
 msgctxt "Languages::hybrid_auth.new_provider"
 msgid "New provider"
-msgstr "New provider"
+msgstr "Nowy usługodawca"
 
 msgctxt "Languages::hybrid_auth.editing_provider"
 msgid "Editing provider"
-msgstr "Editing provider"
+msgstr "Edytuj usługodawcę"
 
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
@@ -203,7 +203,7 @@ msgstr "The \"Password\" field and some other mandatory fields are empty at the 
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
-msgstr "Or sign-in with another identity provider"
+msgstr "Lub zaloguj się przy użyciu:"
 
 msgctxt "Languages::hybrid_auth.unspecified_error"
 msgid "Unspecified error"
@@ -215,11 +215,11 @@ msgstr "Hybriauth configuration error"
 
 msgctxt "Languages::hybrid_auth.provider_error_configuration"
 msgid "Provider not properly configured"
-msgstr "Provider not properly configured"
+msgstr "Usługodawca nie jest prawidłowo skonfigurowany"
 
 msgctxt "Languages::hybrid_auth.wrong_provider"
 msgid "Unknown or disabled provider"
-msgstr "Unknown or disabled provider"
+msgstr "Nieznany lub zablokowany usługodawca"
 
 msgctxt "Languages::hybrid_auth.missing_credentials"
 msgid "Missing provider application credentials"
@@ -231,7 +231,7 @@ msgstr "Authentication failed. The user has canceled the authentication or the p
 
 msgctxt "Languages::hybrid_auth.connecting_provider"
 msgid "Contacting <b>[provider]</b>. Please wait..."
-msgstr "Contacting <b>[provider]</b>. Please wait..."
+msgstr "Łączenie z <b>[provider]</b>. Czekaj..."
 
 msgctxt "Languages::hybrid_auth.cant_create_profile"
 msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
@@ -239,7 +239,7 @@ msgstr "Unfortunately, we failed to create a customer and log in to the store du
 
 msgctxt "Languages::hybrid_auth.password_generated"
 msgid "We are glad to inform you that you have been successfully registered in the store. A password was generated for you"
-msgstr "We are glad to inform you that you have been successfully registered in the store. A password was generated for you"
+msgstr "Mamy przyjemność poinformować, że zostałeś pomyślnie zarejestrowany w sklepie. Hasło zostało wygenerowane automatycznie"
 
 msgctxt "Languages::hybrid_auth.change_password"
 msgid "You can change your password here"
@@ -275,7 +275,7 @@ msgstr "Określ e-mail"
 
 msgctxt "Languages::text_hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "The e-mail was not specified."
+msgstr "E-mail nie został określony."
 
 msgctxt "Languages::text_hybrid_auth.specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
@@ -283,7 +283,7 @@ msgstr "<p>When logging through the social network the e-mail was not specified.
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"
-msgstr "Create social provider"
+msgstr "Tworzenie społecznego usługodawcy"
 
 msgctxt "Languages::public_key"
 msgid "Public key"
