@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-23 10:00-0400\n"
+"PO-Revision-Date: 2014-10-24 07:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -27,7 +27,7 @@ msgstr "حالات الطلبات بانتظار فحص الاحتيال"
 
 msgctxt "Languages::3d_secure"
 msgid "3-D Secure"
-msgstr "3-D Secure"
+msgstr "تأمين ثلاثي الأبعاد"
 
 msgctxt "Languages::404"
 msgid "The 404 Not Found error message"
@@ -39,11 +39,11 @@ msgstr "ثابت"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed addons"
-msgstr "Installed addons"
+msgstr "الوظائف الإضافية المثبتة"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available addons"
-msgstr "Browse all available addons"
+msgstr "تصفح جميع الوظائف الإضافية المتاحة"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -95,7 +95,7 @@ msgstr "تفعيل المحدد"
 
 msgctxt "Languages::activate_skrill_merchant_tools"
 msgid "Activate Skrill Merchant Tools"
-msgstr "Activate Skrill Merchant Tools"
+msgstr "تفعيل أدوات التاجر سكريل"
 
 msgctxt "Languages::activation_link"
 msgid "Activation link"
@@ -399,7 +399,7 @@ msgstr "إضافة الصفحات وإغلاق"
 
 msgctxt "Languages::add_payment"
 msgid "Add payment method"
-msgstr "Add payment method"
+msgstr "أضف طريقة الدفع"
 
 msgctxt "Languages::add_payout"
 msgid "Add payout"
@@ -639,11 +639,11 @@ msgstr "النص البديل"
 
 msgctxt "Languages::american_express"
 msgid "American Express"
-msgstr "American Express"
+msgstr "أمريكان إكسبريس"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above he credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above he credit card number (either on the right or on the left side of the credit card)."
+msgstr "CVV على الجهة الأمامية للبطاقة أعلاه هو رقم بطاقة الائتمان (سواء على اليمين أو على الجانب الأيسر من بطاقة الائتمان)."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -695,39 +695,39 @@ msgstr "API"
 
 msgctxt "Languages::api_key"
 msgid "API key"
-msgstr "API key"
+msgstr "مفتاح API"
 
 msgctxt "Languages::need_company_id"
 msgid "Company ID is required (the company_id param)"
-msgstr "Company ID is required (the company_id param)"
+msgstr "مطلوب رمز الشركة (company_id)"
 
 msgctxt "Languages::api_need_correct_company_id"
 msgid "Company by passed ID not found"
-msgstr "Company by passed ID not found"
+msgstr "رمز الشركة  الذي تم تمريره لم يتم العثور على"
 
 msgctxt "Languages::api_need_id"
 msgid "Object ID undefined"
-msgstr "Object ID undefined"
+msgstr "رمز الكائن غير معروف"
 
 msgctxt "Languages::api_need_params"
 msgid "Missing parameters"
-msgstr "Missing parameters"
+msgstr "معلومات مفقودة"
 
 msgctxt "Languages::api_need_store"
 msgid "Store is required (the company_id param or entity stores)"
-msgstr "Store is required (the company_id param or entity stores)"
+msgstr "المتجر يطلوب  (company_id أو كيان المتجر)"
 
 msgctxt "Languages::api_not_need_id"
 msgid "ID must not be defined"
-msgstr "ID must not be defined"
+msgstr "يجب أن لا يتم تعريف  الرمز"
 
 msgctxt "Languages::api_partner"
 msgid "API partner"
-msgstr "API partner"
+msgstr "شريك API"
 
 msgctxt "Languages::api_password"
 msgid "API password"
-msgstr "API password"
+msgstr "كلمة المرور API"
 
 msgctxt "Languages::api_shipments_not_allow_update"
 msgid "Only the tracking_number and carrier params can be updated with the setting 'Allow multiple shipments for a single order' set"
@@ -735,7 +735,7 @@ msgstr "Only the tracking_number and carrier params can be updated with the sett
 
 msgctxt "Languages::api_user"
 msgid "API user"
-msgstr "API user"
+msgstr "API المستخدم"
 
 msgctxt "Languages::appearance"
 msgid "Appearance"
@@ -843,7 +843,7 @@ msgstr "الترخيص فقط"
 
 msgctxt "Languages::auth_code"
 msgid "Auth code"
-msgstr "Auth code"
+msgstr "رمز المصادقة"
 
 msgctxt "Languages::auth_info"
 msgid "Authentication information"
@@ -887,7 +887,7 @@ msgstr "متاح للتركيب"
 
 msgctxt "Languages::available_views"
 msgid "Available views"
-msgstr "Available views"
+msgstr "طرق العرض المتوفرة"
 
 msgctxt "Languages::available_since"
 msgid "Avail since"
@@ -895,11 +895,11 @@ msgstr "متاح منذ"
 
 msgctxt "Languages::installed_themes"
 msgid "Installed themes"
-msgstr "Installed themes"
+msgstr "الاشكال المثبتة"
 
 msgctxt "Languages::browse_all_available_themes"
 msgid "Browse all available themes"
-msgstr "Browse all available themes"
+msgstr "استعرض كل السمات المتاحة"
 
 msgctxt "Languages::currently_in_use"
 msgid "Currently in use"
@@ -987,7 +987,7 @@ msgstr "البنك"
 
 msgctxt "Languages::ground_only"
 msgid "Ground only"
-msgstr "Ground only"
+msgstr "الأرض فقط"
 
 msgctxt "Languages::bank_cic"
 msgid "Groupe CIC"
@@ -1003,7 +1003,7 @@ msgstr "OBC"
 
 msgctxt "Languages::bank_routing_number"
 msgid "Bank routing number"
-msgstr "Bank routing number"
+msgstr "رقم التوجيه المصرفي"
 
 msgctxt "Languages::bar"
 msgid "Bar"
@@ -1187,19 +1187,19 @@ msgstr "لا يمكن تغيير التخطيط أثناء عمل الثيم ف�
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "إضافة تخطيط الصفحة"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "تحرير تخطيط الصفحة"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "صفحة تخطيط جديد"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "تخطيط الصفحات"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1367,7 +1367,7 @@ msgstr "هيكل إضافة غير صحيح. لا يمكن تركيب الملف
 
 msgctxt "Languages::broken_po_pack"
 msgid "Incorrect PO-pack structure. The uploaded pack cannot be installed."
-msgstr "Incorrect PO-pack structure. The uploaded pack cannot be installed."
+msgstr "بنية حزمة غير صحيحة. لا يمكن تثبيت حزمة تم تحميلها."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -1375,7 +1375,7 @@ msgstr "استعراض..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
+msgstr "<p>اكتشفنا أن المتصفح  الذي تستخدمه لا يدعمها تماما لدينا صفحة  المشرف. يمكنك عرض هذا الموقع باستخدام المستعرض الحالي الخاص بك ولكن قد لا يتم عرض بشكل صحيح، وأنك قد لا تكون قادراً على الاستفادة الكاملة من جميع الميزات.</p><br><p>صفحة  المشرف هو أفضل عرضها باستخدام المتصفحات التالية:</p> <br><ul><li>– <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\"> إنترنت إكسبلورر 9 وأعلاه</a></li> <li>– <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\"> موزيلا فايرفوكس (الإصدار الأخير)</a></li> <li>– <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\"> جوجل كروم (الإصدار الأخير)</a></li></ul> <br><p>انقر فوق أحد الارتباطات لتحميل متصفح اختيارك. وبمجرد الانتهاء من التحميل، تثبيت المستعرض عن طريق تشغيل برنامج الإعداد-</p><br><p>إذا كان لا يمكنك ترقية المتصفح الخاص بك الآن، لا يزال يمكنك الوصول إلى لوحة المشرف، ولكن قد لا تتمكن من الاستفادة الكاملة من جميع الميزات. <br><br><a href=\"[url]\"> مواصلة</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -1391,7 +1391,7 @@ msgstr "إضافة فئات متعددة"
 
 msgctxt "Languages::bulk_print_invoice"
 msgid "Invoice bulk print"
-msgstr "Invoice bulk print"
+msgstr "طبع فواتير مجتمعة"
 
 msgctxt "Languages::bulk_product_addition"
 msgid "Bulk product addition"
@@ -1475,7 +1475,7 @@ msgstr "Canada Post"
 
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
-msgstr "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
+msgstr "لتنشيط معالج الشحن في كندا، يجب عليك تمكين العملة \"الدولار الكندي\"."
 
 msgctxt "Languages::cancel"
 msgid "Cancel"
@@ -1507,7 +1507,7 @@ msgstr "لا يمكنكم استكمال عملية الشراء لأنه لا �
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
-msgstr "Cannot remove the active theme"
+msgstr "لا يمكن إزالة العرض نشط"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
@@ -1571,7 +1571,7 @@ msgstr "Temando"
 
 msgctxt "Languages::carrier_ups"
 msgid "UPS"
-msgstr "UPS"
+msgstr "يو بي إس"
 
 msgctxt "Languages::carrier_usps"
 msgid "USPS"
@@ -2699,11 +2699,11 @@ msgstr "CVV/CVC"
 
 msgctxt "Languages::czech"
 msgid "Czech"
-msgstr "Czech"
+msgstr "التشيكية"
 
 msgctxt "Languages::danish"
 msgid "Danish"
-msgstr "Danish"
+msgstr "الدانماركية"
 
 msgctxt "Languages::dashboard"
 msgid "Dashboard"
@@ -2807,7 +2807,7 @@ msgstr "افتراضي"
 
 msgctxt "Languages::default_category_view"
 msgid "Default category view"
-msgstr "Default category view"
+msgstr "عرض الفئة الاساسية"
 
 msgctxt "Languages::default_language"
 msgid "Default language"
@@ -2823,7 +2823,7 @@ msgstr "القالب الافتراضي (أسماء خيارات المنتج ط
 
 msgctxt "Languages::default_product_details_view"
 msgid "Parent ([default])"
-msgstr "Parent ([default])"
+msgstr "الأصل ([الافتراضي])"
 
 msgctxt "Languages::default_template"
 msgid "Default template"
@@ -2951,7 +2951,7 @@ msgstr "مرفوض"
 
 msgctxt "Languages::dependence"
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "ترتيب بواسطة"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"

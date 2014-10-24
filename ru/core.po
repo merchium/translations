@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-23 11:00-0400\n"
+"PO-Revision-Date: 2014-10-24 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1875,7 +1875,7 @@ msgstr "Очистить журнал"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
-msgstr "Очистить все локации перед импортом"
+msgstr "Удалить все страницы макета перед импортом"
 
 msgctxt "Languages::clear"
 msgid "Clear"
@@ -4171,7 +4171,7 @@ msgstr "Подвал"
 
 msgctxt "Languages::footer_container_not_used"
 msgid "This container is NOT used. Footer container from the default location will be used instead. Set this location as default to use this container as footer for all locations."
-msgstr "Этот контейнер не используется. Вместо него используется контейнер из локации «По умолчанию». Чтобы использовать этот контейнер для всех локаций, установите эту локацию как локацию по умолчанию."
+msgstr "Этот контейнер не используется. Вместо него используется контейнер из страницы макета «По умолчанию». Чтобы использовать этот контейнер для всех страниц макета, установите эту страницу по умолчанию."
 
 msgctxt "Languages::for"
 msgid "for"
@@ -4439,7 +4439,7 @@ msgstr "Шапка"
 
 msgctxt "Languages::header_container_not_used"
 msgid "This container is NOT used. Header container from the default location will be used instead. Set this location as default to use this container as header for all locations."
-msgstr "Этот контейнер не используется. Вместо него используется «Шапка» из локации «По умолчанию». Чтобы использовать этот контейнер для всех локаций, установите эту локацию по умолчанию."
+msgstr "Этот контейнер не используется. Вместо него используется «Шапка» из страницы макета «По умолчанию». Чтобы использовать этот контейнер для всех страниц макета, установите эту страницу по умолчанию."
 
 msgctxt "Languages::header_image"
 msgid "Header image"
@@ -6407,7 +6407,7 @@ msgstr "Нет в наличии"
 
 msgctxt "Languages::override_by_dispatch"
 msgid "Override locations by dispatch"
-msgstr "Переопределение места на рассылку"
+msgstr "Заменить страницы макета при совпадении диспетчера"
 
 msgctxt "Languages::override_by_this"
 msgid "Use this content for all the block instances"
@@ -6563,7 +6563,7 @@ msgstr "Платежи"
 
 msgctxt "Languages::payments.cresecure.location_notice"
 msgid "<b>Please note:</b><br>1. This payment requires the https checkout option to be enabled!<br>2. By default, the Checkout location is shown to a user on payment placing. In order to show a different location, create a new location with the dispatch 'checkout.cresecure_template' in the <a href=\"[url]\" target=\"_blank\">Layout manager</a>."
-msgstr "<b>Обратите внимание:</b><br>1. Для этого способа оплаты необходимо включить  https опцию для страниц оформления заказа!<br>2. При совершении платежа покупателю показывается локация оформления заказа. Для того чтобы отображалась другая локация, создайте новую локацию с диспетчером «checkout.cresecure_template» на странице <a href=\"[url]\" target=\"_blank\">Макеты</a>"
+msgstr "<b>Обратите внимание:</b><br>1. Для этого способа оплаты необходимо включить  https опцию для страниц оформления заказа!<br>2. При совершении платежа покупателю показывается страница макета \"Оформления заказа\". Для того чтобы отображалась другая страница, создайте новую с диспетчером «checkout.cresecure_template» на странице <a href=\"[url]\" target=\"_blank\">Макеты</a>."
 
 msgctxt "Languages::payments.epdq.bgcolor"
 msgid "Background color"
@@ -7051,7 +7051,7 @@ msgstr "Управления языками"
 
 msgctxt "Languages::privileges.manage_locations"
 msgid "Manage locations"
-msgstr "Управление локациями"
+msgstr "Управление пунктами назначения"
 
 msgctxt "Languages::privileges.manage_order_statuses"
 msgid "Manage order statuses"
@@ -7135,7 +7135,7 @@ msgstr "Просмотр языков"
 
 msgctxt "Languages::privileges.view_locations"
 msgid "View locations"
-msgstr "Просмотр локаций"
+msgstr "Просмотр пунктов назначения"
 
 msgctxt "Languages::privileges.view_logs"
 msgid "View logs"
@@ -11963,7 +11963,7 @@ msgstr "Подсказка"
 
 msgctxt "Languages::top_container_not_used"
 msgid "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
-msgstr "Этот контейнер не используется. Вместо него используется верхний контейнер из локации «По умолчанию». Чтобы использовать этот контейнер для всех локаций, установите эту локацию как локацию по умолчанию."
+msgstr "Этот контейнер не используется. Вместо него используется верхний контейнер из страницы макета «По умолчанию». Чтобы использовать этот контейнер для всех страниц, установите эту страницу по умолчанию."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12175,7 +12175,7 @@ msgstr "Ширина блока задается для блоков, котор
 
 msgctxt "Languages::tt_views_block_manager_update_location_default"
 msgid "One location must be picked as default. Its Top and Bottom containers will be used in all locations."
-msgstr "Одна локация должна быть выбрана в качестве локации по умолчанию. Ее верхний и нижний контейнеры будут использованы во всех локациях."
+msgstr "Одна страница должна быть выбрана в качестве страницы по умолчанию. Ее верхний и нижний контейнеры будут использованы во всех остальных страницах."
 
 msgctxt "Languages::tt_views_cart_components_carts_search_form_online_only"
 msgid "If enabled, search results include only users who are online at the moment."
@@ -13471,7 +13471,7 @@ msgstr "Фильтр по категориям"
 
 msgctxt "Languages::default_filter_by_location"
 msgid "No filter specified. Filter by location set as default."
-msgstr "Фильтр не задан. По умолчанию включен фильтр по локации."
+msgstr "Фильтр не задан. По умолчанию включен фильтр по странице макета."
 
 msgctxt "Languages::theme_information"
 msgid "Theme information"
