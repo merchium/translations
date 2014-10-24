@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-14 07:00-0400\n"
+"PO-Revision-Date: 2014-10-23 11:00-0400\n"
 
 msgctxt "Addons::name::applications"
 msgid "Merchium Applications"
@@ -16,6 +16,10 @@ msgstr "Приложения для Мерчиума"
 msgctxt "Addons::description::applications"
 msgid "Merchium applications support"
 msgstr "Поддержка приложений в Мерчиуме"
+
+msgctxt "Languages::applications.applications"
+msgid "Applications"
+msgstr "Applications"
 
 msgctxt "Languages::market_menu"
 msgid "Merchium Market"
@@ -100,6 +104,10 @@ msgstr "Отменить"
 msgctxt "Languages::applications.reinstall_application"
 msgid "Reinstall application"
 msgstr "Переустановить приложение"
+
+msgctxt "Languages::applications.text_successfully_installed"
+msgid "Congrats! The app [app_name] has been successfully installed. On this page, you can tune it up."
+msgstr "Congrats! The app [app_name] has been successfully installed. On this page, you can tune it up."
 
 msgctxt "Languages::app_scope_all"
 msgid "All"
@@ -212,4 +220,64 @@ msgstr "Чтение и редактирование списка подписч
 msgctxt "Languages::app_scope_view_email_marketing"
 msgid "View email marketing"
 msgstr "Чтение информации о подписчиках"
+
+msgctxt "Languages::applications.event"
+msgid "Event"
+msgstr "Event"
+
+msgctxt "Languages::applications.webhooks"
+msgid "Webhooks"
+msgstr "Webhooks"
+
+msgctxt "Languages::applications.response_status"
+msgid "Response status"
+msgstr "Response status"
+
+msgctxt "Languages::applications.error_incorrect_url"
+msgid "Please enter valid URL"
+msgstr "Please enter valid URL"
+
+msgctxt "Languages::applications.new_webhook"
+msgid "New webhook"
+msgstr "New webhook"
+
+msgctxt "Languages::applications.editing_webhook"
+msgid "Editing webhook"
+msgstr "Editing webhook"
+
+msgctxt "Languages::applications.event_order_status"
+msgid "Change order status"
+msgstr "Change order status"
+
+msgctxt "Languages::applications.event_place_order"
+msgid "Place order"
+msgstr "Place order"
+
+msgctxt "Languages::applications.event_update_product"
+msgid "Create/Update product"
+msgstr "Create/Update product"
+
+msgctxt "Languages::applications.event_delete_product"
+msgid "Delete product"
+msgstr "Delete product"
+
+msgctxt "Languages::applications.event_update_user"
+msgid "Create/Update user"
+msgstr "Create/Update user"
+
+msgctxt "Languages::applications.event_delete_user"
+msgid "Delete user product"
+msgstr "Delete user product"
+
+msgctxt "Languages::applications.event_update_usergroup"
+msgid "Create/Update user group"
+msgstr "Create/Update user group"
+
+msgctxt "Languages::applications.event_delete_usergroup"
+msgid "Delete user group"
+msgstr "Delete user group"
+
+msgctxt "Languages::applications.event_add_to_cart"
+msgid "Add product to cart"
+msgstr "Add product to cart"
 
