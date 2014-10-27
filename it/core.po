@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-23 10:01-0400\n"
+"PO-Revision-Date: 2014-10-27 12:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -399,7 +399,7 @@ msgstr "Aggiungi pagine e chiudi"
 
 msgctxt "Languages::add_payment"
 msgid "Add payment method"
-msgstr "Add payment method"
+msgstr "Aggiungi metodo di pagamento"
 
 msgctxt "Languages::add_payout"
 msgid "Add payout"
@@ -1035,7 +1035,7 @@ msgstr "Indirizzo di fatturazione"
 
 msgctxt "Languages::billing_options"
 msgid "Billing Options"
-msgstr "Opzioni di fatturazione"
+msgstr "Metodo di pagamento"
 
 msgctxt "Languages::billing_shipping_address"
 msgid "Billing and Shipping Address"
@@ -1767,7 +1767,7 @@ msgstr "Accetto i termini e le condizioni descritte in"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Spuntare questa casella per accettate i nostri termini e condizioni.<a href=\"index.php?dispatch=pages.view&page_id=6\" target=\"_new\" >Termini e Condzioni</a>"
+msgstr "Spuntare questa casella per accettate i nostri: <a href=\"/index.php?dispatch=pages.view&page_id=1\" target=\"_new\" >Termini e Condizioni</a>"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -7336,7 +7336,7 @@ msgstr "Peso prodotti"
 
 msgctxt "Languages::products_were_sent"
 msgid "The products have been sent out to you. The order information is given below"
-msgstr "I prodotti sono stati inviati al vostro indirizzo. Trovate i dettagli dell'ordine qui sotto"
+msgstr "I prodotti sono appena stati spediti. Trovate i dettagli per il tracciamento qui sotto:"
 
 msgctxt "Languages::product_added_to_cart"
 msgid "The product was added to your cart"
@@ -7784,7 +7784,7 @@ msgstr "Aliquote dipendono da"
 
 msgctxt "Languages::rate_calculation"
 msgid "Rate calculation"
-msgstr "Calcolo aliquota"
+msgstr "Calcolo tariffa"
 
 msgctxt "Languages::rate_calculation_manual"
 msgid "Manual (by defined location)"
@@ -8752,7 +8752,7 @@ msgstr "Nome spedizione"
 
 msgctxt "Languages::shipping_options"
 msgid "Shipping Options"
-msgstr "Opzioni di spedizione"
+msgstr "Metodi di spedizione"
 
 msgctxt "Languages::shipping_properties"
 msgid "Shipping Properties"
@@ -8768,7 +8768,7 @@ msgstr "Indirizzo spedizione è uguale a indirizzo di fatturazione"
 
 msgctxt "Languages::shipping_service"
 msgid "Shipping service"
-msgstr "Spedizioniere/Corriere"
+msgstr "Servizio di spedizione"
 
 msgctxt "Languages::shipping_tips"
 msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
@@ -9388,7 +9388,7 @@ msgstr "Mostra prezzo"
 
 msgctxt "Languages::show_rate_for_destination"
 msgid "Show rates for location"
-msgstr "Mostra tasso per destinazione"
+msgstr "Imposta le tariffe per destinazione"
 
 msgctxt "Languages::show_tab_in_popup"
 msgid "Show this tab in a popup window"
@@ -9616,7 +9616,7 @@ msgstr "Inizia"
 
 msgctxt "Languages::start_communication"
 msgid "Start communication"
-msgstr "Se volete scrivere un messaggio riguardante il vostro ordine prego cliccare qui..."
+msgstr "Scrivi una nota da allegare all'ordine"
 
 msgctxt "Languages::start_date"
 msgid "Start date"
@@ -9764,7 +9764,7 @@ msgstr "Invia"
 
 msgctxt "Languages::submit_my_order"
 msgid "Submit my order"
-msgstr "Invia la mia ordinazione"
+msgstr "Effettua Ordine"
 
 msgctxt "Languages::subpages"
 msgid "Subpages"
@@ -10160,7 +10160,7 @@ msgstr "Questa sezione mostra gli ordini che non hai mai visualizzato."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Sono supportate le seguenti estensioni di file: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -13576,7 +13576,7 @@ msgstr "Il campo [field] è richiesto"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Aggiornamento traduzioni"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -14528,7 +14528,7 @@ msgstr "Configura il passaggio \"Accedi\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "Il primo passo della procedura di pagamento può essere nascosto solo se non ha alcun campo richiesto nelle informazioni di contatto."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""

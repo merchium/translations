@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-23 02:00-0400\n"
+"PO-Revision-Date: 2014-10-27 07:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -195,11 +195,11 @@ msgstr "Edytuj usługodawcę"
 
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
-msgstr "Callback URL"
+msgstr "Wywołania zwrotnego adresu URL"
 
 msgctxt "Languages::hybrid_auth.need_update_profile"
 msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "Pole \"Hasło\" i niektóre inne obowiązkowe pola są puste. Proszę zaktualizować swój profil."
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
@@ -211,7 +211,7 @@ msgstr "Nieokreślony błąd"
 
 msgctxt "Languages::hybrid_auth.configuration_error"
 msgid "Hybriauth configuration error"
-msgstr "Hybriauth configuration error"
+msgstr "Błąd konfiguracji modułu"
 
 msgctxt "Languages::hybrid_auth.provider_error_configuration"
 msgid "Provider not properly configured"

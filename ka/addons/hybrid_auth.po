@@ -7,11 +7,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-15 09:00-0400\n"
+"PO-Revision-Date: 2014-10-26 08:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
-msgstr "ავტორიზაცია სოციალური ქსელებით"
+msgstr "ავტორიზაცია სოციალური ქსელით"
 
 msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
@@ -27,11 +27,11 @@ msgstr "Or sign-in with another identity provider"
 
 msgctxt "Languages::hybrid_auth_unspecified_error"
 msgid "Unspecified error"
-msgstr "Unspecified error"
+msgstr "უცნობი შეცდომა"
 
 msgctxt "Languages::hybrid_auth_configuration_error"
 msgid "Social login configuration error"
-msgstr "Social login configuration error"
+msgstr "შეცდომა სოციალური ქსელებით ავტორიზაციის კონფიგურაციაში"
 
 msgctxt "Languages::hybrid_auth_provider_error_configuration"
 msgid "Provider not properly configured"
@@ -39,7 +39,7 @@ msgstr "პროვაიდერი გამართულია არა�
 
 msgctxt "Languages::hybrid_auth_wrong_provider"
 msgid "Unknown or disabled provider"
-msgstr "უცნობი ან არააქტიური პროვაიდერი"
+msgstr "უცნობი ან გაუქმებული პროვაიდერი"
 
 msgctxt "Languages::hybrid_auth_missing_credentials"
 msgid "Missing provider application credentials"
@@ -187,7 +187,7 @@ msgstr "Add provider"
 
 msgctxt "Languages::hybrid_auth.new_provider"
 msgid "New provider"
-msgstr "New provider"
+msgstr "ახალი სოციალური ქსელი"
 
 msgctxt "Languages::hybrid_auth.editing_provider"
 msgid "Editing provider"
@@ -275,7 +275,7 @@ msgstr "Specify email"
 
 msgctxt "Languages::text_hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "The e-mail was not specified."
+msgstr "ელ-ფოსტა არ იყო მითითებული."
 
 msgctxt "Languages::text_hybrid_auth.specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
@@ -291,7 +291,7 @@ msgstr "Public key"
 
 msgctxt "SettingsOptions::hybrid_auth::icons_pack"
 msgid "Icons pack"
-msgstr "Icons pack"
+msgstr "ხატულების ნაკრები"
 
 msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
 msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
@@ -311,5 +311,5 @@ msgstr "Use seamless checkout"
 
 msgctxt "Languages::hybrid_auth::paypal_sandbox"
 msgid "Test mode"
-msgstr "Test mode"
+msgstr "სატესტო რეჟიმი"
 
