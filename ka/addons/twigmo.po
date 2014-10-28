@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 04:00-0400\n"
+"PO-Revision-Date: 2014-10-28 09:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -435,19 +435,19 @@ msgstr "Please select a store first"
 
 msgctxt "Languages::twg_is_logged_in"
 msgid "logged in."
-msgstr "logged in."
+msgstr "ავტორიზებული."
 
 msgctxt "Languages::twg_review_and_place_order"
 msgid "Review and place order"
-msgstr "Review and place order"
+msgstr "შეკვეთის ნახვა და განთავსება"
 
 msgctxt "Languages::twg_login_to_add_to_cart"
 msgid "This product cannot be added to the cart because you are not logged in."
-msgstr "This product cannot be added to the cart because you are not logged in."
+msgstr "ეს პროდუქტი ვერ დაემატება კალათას რადგან თქვენ ჯერ არ გაგივლიათ ავტორიზაცია."
 
 msgctxt "Languages::twgadmin_disconnected"
 msgid "Disconnected"
-msgstr "Disconnected"
+msgstr "გათიშული"
 
 msgctxt "Languages::twgadmin_connected"
 msgid "Connected"
@@ -455,15 +455,15 @@ msgstr "დაკავშირებული"
 
 msgctxt "Languages::twgadmin_terms"
 msgid "Terms and conditions"
-msgstr "Terms and conditions"
+msgstr "წესები და პირობები"
 
 msgctxt "Languages::twgadmin_accept_terms_n_conditions"
 msgid "I accept the <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Terms and Conditions</a>."
-msgstr "I accept the <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Terms and Conditions</a>."
+msgstr "მე ვეთანხმები <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">წესებს და პირობებს</a>."
 
 msgctxt "Languages::twgadmin_stores"
 msgid "Stores"
-msgstr "Stores"
+msgstr "მაღაზიები"
 
 msgctxt "Languages::twgadmin_curl_error"
 msgid "Couldn't get HTTP response from the Twigmo server. Please make sure that your server supports executing HTTP requests either through curl or sockets."
@@ -471,11 +471,11 @@ msgstr "Couldn't get HTTP response from the Twigmo server. Please make sure that
 
 msgctxt "Languages::twgadmin_open_te"
 msgid "Visual Editor"
-msgstr "Visual Editor"
+msgstr "ვიზუალური რედაქტორი"
 
 msgctxt "Languages::twgadmin_open_cp"
 msgid "Twigmo Control Panel"
-msgstr "Twigmo Control Panel"
+msgstr "Twigmo-ს სამართავი პანელი"
 
 msgctxt "Languages::twgadmin_no_token_recieved"
 msgid "Twigmo failed to retrieve authentication token. [linkOpen]Go back[linkClose]"
@@ -531,7 +531,7 @@ msgstr "განახლება დასრულებულია"
 
 msgctxt "Languages::twapp_stats"
 msgid "Statistics"
-msgstr "Statistics"
+msgstr "სტატისტიკა"
 
 msgctxt "Languages::twapp_timeline"
 msgid "Timeline"
@@ -539,23 +539,23 @@ msgstr "Timeline"
 
 msgctxt "Languages::twapp_manage_accounts"
 msgid "Manage accounts"
-msgstr "Manage accounts"
+msgstr "ანგარიშების მართვა"
 
 msgctxt "Languages::twapp_low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "არ არის საწყობში"
 
 msgctxt "Languages::twapp_low_stock_products"
 msgid "Low stock products"
-msgstr "Low stock products"
+msgstr "პროდუქტები რომლებიც არ არის საწყობში"
 
 msgctxt "Languages::twapp_all_low_stock_products"
 msgid "All low stock products"
-msgstr "All low stock products"
+msgstr "ყველა პროდუქტი რომელიც არ არის საწყობში"
 
 msgctxt "Languages::twapp_delete_account"
 msgid "Delete account"
-msgstr "Delete account"
+msgstr "ანგარიშის წაშლა"
 
 msgctxt "Languages::twapp_app_account_info"
 msgid "Fill in the fields below to sign in."
@@ -563,43 +563,43 @@ msgstr "Fill in the fields below to sign in."
 
 msgctxt "Languages::twapp_login_or_email"
 msgid "Login/Email"
-msgstr "Login/Email"
+msgstr "ავტორიზაცია/E-Mail"
 
 msgctxt "Languages::twapp_latest_orders"
 msgid "Latest orders"
-msgstr "Latest orders"
+msgstr "ბოლო შეკვეთები"
 
 msgctxt "Languages::twapp_back"
 msgid "Back"
-msgstr "Back"
+msgstr "უკან"
 
 msgctxt "Languages::twapp_users_statistics"
 msgid "Users statistics"
-msgstr "Users statistics"
+msgstr "მომხმარებელთა სტატისტიკა"
 
 msgctxt "Languages::twapp_configurable"
 msgid "Configurable"
-msgstr "Configurable"
+msgstr "კონფიგურირებადი"
 
 msgctxt "Languages::twg_lbl_out_of_stock"
 msgid "Out of stock"
-msgstr "Out of stock"
+msgstr "არ არის გაყიდვაში"
 
 msgctxt "Languages::twapp_signing_in"
 msgid "Signing in..."
-msgstr "Signing in..."
+msgstr "ავტორიზება..."
 
 msgctxt "Languages::twapp_two_days_sales"
 msgid "Sales for the last 2 days"
-msgstr "Sales for the last 2 days"
+msgstr "ბოლო 2 დღის გაყიდვები"
 
 msgctxt "Languages::twapp_two_weeks_sales"
 msgid "Sales for the last 2 weeks"
-msgstr "Sales for the last 2 weeks"
+msgstr "ბოლო 2 კვირის გაყიდვები"
 
 msgctxt "Languages::twapp_two_month_sales"
 msgid "Sales for the last 2 months"
-msgstr "Sales for the last 2 months"
+msgstr "ბოლო 2 თვის გაყიდვები"
 
 msgctxt "Languages::twapp_stat_day_1"
 msgid "12am"
@@ -627,31 +627,31 @@ msgstr "8pm"
 
 msgctxt "Languages::twapp_stat_week_1"
 msgid "Mo"
-msgstr "Mo"
+msgstr "ორშ"
 
 msgctxt "Languages::twapp_stat_week_2"
 msgid "Tu"
-msgstr "Tu"
+msgstr "სამ"
 
 msgctxt "Languages::twapp_stat_week_3"
 msgid "We"
-msgstr "We"
+msgstr "ოთხ"
 
 msgctxt "Languages::twapp_stat_week_4"
 msgid "Th"
-msgstr "Th"
+msgstr "ხუთ"
 
 msgctxt "Languages::twapp_stat_week_5"
 msgid "Fr"
-msgstr "Fr"
+msgstr "პარ"
 
 msgctxt "Languages::twapp_stat_week_6"
 msgid "Sa"
-msgstr "Sa"
+msgstr "შაბ"
 
 msgctxt "Languages::twapp_stat_week_7"
 msgid "Su"
-msgstr "Su"
+msgstr "კვი"
 
 msgctxt "Languages::twapp_stat_month_1"
 msgid "w1"
@@ -675,7 +675,7 @@ msgstr "w5"
 
 msgctxt "Languages::twapp_net_error_title"
 msgid "No network connection"
-msgstr "No network connection"
+msgstr "ქსელთან კავშირი არ არის"
 
 msgctxt "Languages::twapp_net_error_message"
 msgid "Cannot load data. Please check your network connection."
@@ -763,5 +763,5 @@ msgstr "Show product code on product details page"
 
 msgctxt "Languages::twapp_add_account"
 msgid "Add account"
-msgstr "Add account"
+msgstr "ანგარიშის დამატება"
 
