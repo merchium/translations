@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-27 13:00-0400\n"
+"PO-Revision-Date: 2014-10-28 04:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -25,13 +25,13 @@ msgctxt "SettingsSections::twigmo::storefront"
 msgid "Mobile Storefront"
 msgstr "Настройки мобильной версии"
 
-msgctxt "SettingsSections::twigmo::addon"
-msgid "Upgrade"
-msgstr "Обновление"
-
 msgctxt "SettingsSections::twigmo::admin_app"
 msgid "Admin app"
 msgstr "Приложение администратора"
+
+msgctxt "SettingsSections::twigmo::addon"
+msgid "Upgrade"
+msgstr "Обновление"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -218,12 +218,12 @@ msgid "Please enter a valid number."
 msgstr "Пожалуйста, введите корректное число."
 
 msgctxt "Languages::twg_msg_order_was_placed"
-msgid "Your order has been placed!<br />The order ID is"
-msgstr "Ваш заказ был успешно размещен!<br />Номер заказа"
+msgid "Your order has been placed!<br />The order ID is "
+msgstr "Ваш заказ был успешно размещен!<br />Номер заказа "
 
 msgctxt "Languages::twg_msg_orders_were_placed"
-msgid "Your orders have been placed!<br />The order IDs are"
-msgstr "Ваш заказы были успешно размещены!<br />Номера заказов"
+msgid "Your orders have been placed!<br />The order IDs are "
+msgstr "Ваш заказы были успешно размещены!<br />Номера заказов "
 
 msgctxt "Languages::twg_msg_cc_invalid"
 msgid "Please enter a valid credit card number."
@@ -521,12 +521,184 @@ msgctxt "Languages::plan"
 msgid "Plan"
 msgstr "План"
 
+msgctxt "Languages::twgadmin_failed_to_decompress_files"
+msgid "Failed to extract files from the archive"
+msgstr "Не удалось извлечь файлы из архива"
+
 msgctxt "Languages::twgadmin_upgrade_completed"
 msgid "Upgrade completed"
 msgstr "Обновление завершено"
 
+msgctxt "Languages::twapp_stats"
+msgid "Statistics"
+msgstr "Статистика"
+
+msgctxt "Languages::twapp_timeline"
+msgid "Timeline"
+msgstr "История"
+
+msgctxt "Languages::twapp_manage_accounts"
+msgid "Manage accounts"
+msgstr "Редактировать аккаунты"
+
+msgctxt "Languages::twapp_low_stock"
+msgid "Low stock"
+msgstr "Заканчивающиеся"
+
+msgctxt "Languages::twapp_low_stock_products"
+msgid "Low stock products"
+msgstr "Заканчивающиеся продукты"
+
+msgctxt "Languages::twapp_all_low_stock_products"
+msgid "All low stock products"
+msgstr "Все заканчивающиеся продукты"
+
+msgctxt "Languages::twapp_delete_account"
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+msgctxt "Languages::twapp_app_account_info"
+msgid "Fill in the fields below to sign in."
+msgstr "Заполните поля, чтобы войти в магазин."
+
+msgctxt "Languages::twapp_login_or_email"
+msgid "Login/Email"
+msgstr "Логин/Email"
+
+msgctxt "Languages::twapp_latest_orders"
+msgid "Latest orders"
+msgstr "Последние заказы"
+
+msgctxt "Languages::twapp_back"
+msgid "Back"
+msgstr "Назад"
+
+msgctxt "Languages::twapp_users_statistics"
+msgid "Users statistics"
+msgstr "Статистика пользователей"
+
+msgctxt "Languages::twapp_configurable"
+msgid "Configurable"
+msgstr "Конфигурируемый"
+
+msgctxt "Languages::twg_lbl_out_of_stock"
+msgid "Out of stock"
+msgstr "Нет на складе"
+
+msgctxt "Languages::twapp_signing_in"
+msgid "Signing in..."
+msgstr "Авторизуюсь..."
+
+msgctxt "Languages::twapp_two_days_sales"
+msgid "Sales for the last 2 days"
+msgstr "Продажи за 2 дня"
+
+msgctxt "Languages::twapp_two_weeks_sales"
+msgid "Sales for the last 2 weeks"
+msgstr "Продажи за 2 недели"
+
+msgctxt "Languages::twapp_two_month_sales"
+msgid "Sales for the last 2 months"
+msgstr "Продажи за 2 месяца"
+
+msgctxt "Languages::twapp_stat_day_1"
+msgid "12am"
+msgstr "00:00"
+
+msgctxt "Languages::twapp_stat_day_2"
+msgid "4am"
+msgstr "04:00"
+
+msgctxt "Languages::twapp_stat_day_3"
+msgid "8am"
+msgstr "08:00"
+
+msgctxt "Languages::twapp_stat_day_4"
+msgid "12pm"
+msgstr "12:00"
+
+msgctxt "Languages::twapp_stat_day_5"
+msgid "4pm"
+msgstr "16:00"
+
+msgctxt "Languages::twapp_stat_day_6"
+msgid "8pm"
+msgstr "20:00"
+
+msgctxt "Languages::twapp_stat_week_1"
+msgid "Mo"
+msgstr "Пн"
+
+msgctxt "Languages::twapp_stat_week_2"
+msgid "Tu"
+msgstr "Вт"
+
+msgctxt "Languages::twapp_stat_week_3"
+msgid "We"
+msgstr "Ср"
+
+msgctxt "Languages::twapp_stat_week_4"
+msgid "Th"
+msgstr "Чт"
+
+msgctxt "Languages::twapp_stat_week_5"
+msgid "Fr"
+msgstr "Пт"
+
+msgctxt "Languages::twapp_stat_week_6"
+msgid "Sa"
+msgstr "Сб"
+
+msgctxt "Languages::twapp_stat_week_7"
+msgid "Su"
+msgstr "Вс"
+
+msgctxt "Languages::twapp_stat_month_1"
+msgid "w1"
+msgstr "нед1"
+
+msgctxt "Languages::twapp_stat_month_2"
+msgid "w2"
+msgstr "нед2"
+
+msgctxt "Languages::twapp_stat_month_3"
+msgid "w3"
+msgstr "нед3"
+
+msgctxt "Languages::twapp_stat_month_4"
+msgid "w4"
+msgstr "нед4"
+
+msgctxt "Languages::twapp_stat_month_5"
+msgid "w5"
+msgstr "нед5"
+
+msgctxt "Languages::twapp_net_error_title"
+msgid "No network connection"
+msgstr "Нет подключения к сети"
+
+msgctxt "Languages::twapp_net_error_message"
+msgid "Cannot load data. Please check your network connection."
+msgstr "Не удается загрузить данные. Пожалуйста, проверьте подключение к сети."
+
+msgctxt "Languages::twapp_in_stock_lowercase"
+msgid "in stock"
+msgstr "в наличии"
+
+msgctxt "Languages::twapp_receive_push"
+msgid "Push notifications"
+msgstr "Push-уведомления"
+
+msgctxt "Languages::twapp_will_affect_all_stores"
+msgid "Updating this field will affect all stores"
+msgstr "Обновление этого поля будет сделано во всех витринах"
+
+msgctxt "Languages::twapp_data_lang"
+msgid "Data lang."
+msgstr "Язык данных"
+
 msgctxt "Languages::twg_placed"
-msgid "placed"
+msgid "Placed"
 msgstr "размещен"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
@@ -540,4 +712,56 @@ msgstr "Скачать приложение"
 msgctxt "Languages::twgadmin_download_app_hint"
 msgid "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
 msgstr "Это приложение доступно только на <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\"> некоторых планах Twigmo</a>."
+
+msgctxt "Languages::twgadmin_saved"
+msgid "Saved"
+msgstr "Сохранено"
+
+msgctxt "Languages::twapp_admin_url"
+msgid "Admin URL"
+msgstr "URL админ. панели"
+
+msgctxt "Languages::twgadmin_auth_fail_access_id"
+msgid "You have no permissions to log in to the store with this Access ID."
+msgstr "У вас нет прав на доступ к магазину с этим ID."
+
+msgctxt "Languages::twgadmin_mobile_app"
+msgid "Mobile app"
+msgstr "Мобильное приложение"
+
+msgctxt "Languages::twgadmin_qr_for_admin"
+msgid "QR code for the app login page"
+msgstr "QR-код для авторизации в приложении"
+
+msgctxt "Languages::twgadmin_qr_for_admin_comment"
+msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgstr "Этот QR-код содержит ID доступа Твигмо [access_id], URL данной панели администратора и ваш логин администратора. Вам понадобится только вручную ввести ваш пароль администратора."
+
+msgctxt "Languages::twapp_wrong_api_login_data"
+msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
+msgstr "Данные не получены с указанного URL. Пожалуйста, проверьте его правильность. Также убедитесь, что в вашем магазине аддон Твигмо включен и подключен к сервису"
+
+msgctxt "Languages::twapp_scan_qr"
+msgid "Scan the QR code in your store admin panel"
+msgstr "Сфотографируйте QR-код в панели администратора вашего магазина"
+
+msgctxt "Languages::twapp_tap_to_scan"
+msgid "Tap to scan"
+msgstr "Нажмите для сканирования"
+
+msgctxt "Languages::twapp_fill_manually"
+msgid "Fill in the fields manually"
+msgstr "Заполните поля вручную"
+
+msgctxt "Languages::twapp_fill_to_sign_in"
+msgid "Fill in the fields below to sign in."
+msgstr "Заполните поля, чтобы войти в магазин."
+
+msgctxt "Languages::twgadmin_show_product_code"
+msgid "Show product code on product details page"
+msgstr "Показывать код продукта на детальной странице продукта"
+
+msgctxt "Languages::twapp_add_account"
+msgid "Add account"
+msgstr "Добавить аккаунт"
 

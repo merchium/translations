@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-09-19 04:00-0400\n"
+"PO-Revision-Date: 2014-10-28 04:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -25,13 +25,13 @@ msgctxt "SettingsSections::twigmo::storefront"
 msgid "Mobile Storefront"
 msgstr "Mobile Storefront"
 
-msgctxt "SettingsSections::twigmo::addon"
-msgid "Upgrade"
-msgstr "Upgrade"
-
 msgctxt "SettingsSections::twigmo::admin_app"
 msgid "Admin app"
 msgstr "Admin app"
+
+msgctxt "SettingsSections::twigmo::addon"
+msgid "Upgrade"
+msgstr "Upgrade"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -218,12 +218,12 @@ msgid "Please enter a valid number."
 msgstr "Please enter a valid number."
 
 msgctxt "Languages::twg_msg_order_was_placed"
-msgid "Your order has been placed!<br />The order ID is"
-msgstr "Your order has been placed!<br />The order ID is"
+msgid "Your order has been placed!<br />The order ID is "
+msgstr "Your order has been placed!<br />The order ID is "
 
 msgctxt "Languages::twg_msg_orders_were_placed"
-msgid "Your orders have been placed!<br />The order IDs are"
-msgstr "Your orders have been placed!<br />The order IDs are"
+msgid "Your orders have been placed!<br />The order IDs are "
+msgstr "Your orders have been placed!<br />The order IDs are "
 
 msgctxt "Languages::twg_msg_cc_invalid"
 msgid "Please enter a valid credit card number."
@@ -521,13 +521,185 @@ msgctxt "Languages::plan"
 msgid "Plan"
 msgstr "Plan"
 
+msgctxt "Languages::twgadmin_failed_to_decompress_files"
+msgid "Failed to extract files from the archive"
+msgstr "Failed to extract files from the archive"
+
 msgctxt "Languages::twgadmin_upgrade_completed"
 msgid "Upgrade completed"
 msgstr "Upgrade completed"
 
+msgctxt "Languages::twapp_stats"
+msgid "Statistics"
+msgstr "Statistics"
+
+msgctxt "Languages::twapp_timeline"
+msgid "Timeline"
+msgstr "Timeline"
+
+msgctxt "Languages::twapp_manage_accounts"
+msgid "Manage accounts"
+msgstr "Manage accounts"
+
+msgctxt "Languages::twapp_low_stock"
+msgid "Low stock"
+msgstr "Low stock"
+
+msgctxt "Languages::twapp_low_stock_products"
+msgid "Low stock products"
+msgstr "Low stock products"
+
+msgctxt "Languages::twapp_all_low_stock_products"
+msgid "All low stock products"
+msgstr "All low stock products"
+
+msgctxt "Languages::twapp_delete_account"
+msgid "Delete account"
+msgstr "Delete account"
+
+msgctxt "Languages::twapp_app_account_info"
+msgid "Fill in the fields below to sign in."
+msgstr "Fill in the fields below to sign in."
+
+msgctxt "Languages::twapp_login_or_email"
+msgid "Login/Email"
+msgstr "Login/Email"
+
+msgctxt "Languages::twapp_latest_orders"
+msgid "Latest orders"
+msgstr "Latest orders"
+
+msgctxt "Languages::twapp_back"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "Languages::twapp_users_statistics"
+msgid "Users statistics"
+msgstr "Users statistics"
+
+msgctxt "Languages::twapp_configurable"
+msgid "Configurable"
+msgstr "Configurable"
+
+msgctxt "Languages::twg_lbl_out_of_stock"
+msgid "Out of stock"
+msgstr "Out of stock"
+
+msgctxt "Languages::twapp_signing_in"
+msgid "Signing in..."
+msgstr "Signing in..."
+
+msgctxt "Languages::twapp_two_days_sales"
+msgid "Sales for the last 2 days"
+msgstr "Sales for the last 2 days"
+
+msgctxt "Languages::twapp_two_weeks_sales"
+msgid "Sales for the last 2 weeks"
+msgstr "Sales for the last 2 weeks"
+
+msgctxt "Languages::twapp_two_month_sales"
+msgid "Sales for the last 2 months"
+msgstr "Sales for the last 2 months"
+
+msgctxt "Languages::twapp_stat_day_1"
+msgid "12am"
+msgstr "12am"
+
+msgctxt "Languages::twapp_stat_day_2"
+msgid "4am"
+msgstr "4am"
+
+msgctxt "Languages::twapp_stat_day_3"
+msgid "8am"
+msgstr "8am"
+
+msgctxt "Languages::twapp_stat_day_4"
+msgid "12pm"
+msgstr "12pm"
+
+msgctxt "Languages::twapp_stat_day_5"
+msgid "4pm"
+msgstr "4pm"
+
+msgctxt "Languages::twapp_stat_day_6"
+msgid "8pm"
+msgstr "8pm"
+
+msgctxt "Languages::twapp_stat_week_1"
+msgid "Mo"
+msgstr "Mo"
+
+msgctxt "Languages::twapp_stat_week_2"
+msgid "Tu"
+msgstr "Tu"
+
+msgctxt "Languages::twapp_stat_week_3"
+msgid "We"
+msgstr "We"
+
+msgctxt "Languages::twapp_stat_week_4"
+msgid "Th"
+msgstr "Th"
+
+msgctxt "Languages::twapp_stat_week_5"
+msgid "Fr"
+msgstr "Fr"
+
+msgctxt "Languages::twapp_stat_week_6"
+msgid "Sa"
+msgstr "Sa"
+
+msgctxt "Languages::twapp_stat_week_7"
+msgid "Su"
+msgstr "Su"
+
+msgctxt "Languages::twapp_stat_month_1"
+msgid "w1"
+msgstr "w1"
+
+msgctxt "Languages::twapp_stat_month_2"
+msgid "w2"
+msgstr "w2"
+
+msgctxt "Languages::twapp_stat_month_3"
+msgid "w3"
+msgstr "w3"
+
+msgctxt "Languages::twapp_stat_month_4"
+msgid "w4"
+msgstr "w4"
+
+msgctxt "Languages::twapp_stat_month_5"
+msgid "w5"
+msgstr "w5"
+
+msgctxt "Languages::twapp_net_error_title"
+msgid "No network connection"
+msgstr "No network connection"
+
+msgctxt "Languages::twapp_net_error_message"
+msgid "Cannot load data. Please check your network connection."
+msgstr "Cannot load data. Please check your network connection."
+
+msgctxt "Languages::twapp_in_stock_lowercase"
+msgid "in stock"
+msgstr "in stock"
+
+msgctxt "Languages::twapp_receive_push"
+msgid "Push notifications"
+msgstr "Push notifications"
+
+msgctxt "Languages::twapp_will_affect_all_stores"
+msgid "Updating this field will affect all stores"
+msgstr "Updating this field will affect all stores"
+
+msgctxt "Languages::twapp_data_lang"
+msgid "Data lang."
+msgstr "Data lang."
+
 msgctxt "Languages::twg_placed"
-msgid "placed"
-msgstr "placed"
+msgid "Placed"
+msgstr "Placed"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
 msgid "Twigmo Mobile Admin application"
@@ -540,4 +712,56 @@ msgstr "Download the app"
 msgctxt "Languages::twgadmin_download_app_hint"
 msgid "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
 msgstr "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
+
+msgctxt "Languages::twgadmin_saved"
+msgid "Saved"
+msgstr "Saved"
+
+msgctxt "Languages::twapp_admin_url"
+msgid "Admin URL"
+msgstr "Admin URL"
+
+msgctxt "Languages::twgadmin_auth_fail_access_id"
+msgid "You have no permissions to log in to the store with this Access ID."
+msgstr "You have no permissions to log in to the store with this Access ID."
+
+msgctxt "Languages::twgadmin_mobile_app"
+msgid "Mobile app"
+msgstr "Mobile app"
+
+msgctxt "Languages::twgadmin_qr_for_admin"
+msgid "QR code for the app login page"
+msgstr "QR code for the app login page"
+
+msgctxt "Languages::twgadmin_qr_for_admin_comment"
+msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgstr "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+
+msgctxt "Languages::twapp_wrong_api_login_data"
+msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
+msgstr "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
+
+msgctxt "Languages::twapp_scan_qr"
+msgid "Scan the QR code in your store admin panel"
+msgstr "Scan the QR code in your store admin panel"
+
+msgctxt "Languages::twapp_tap_to_scan"
+msgid "Tap to scan"
+msgstr "Tap to scan"
+
+msgctxt "Languages::twapp_fill_manually"
+msgid "Fill in the fields manually"
+msgstr "Fill in the fields manually"
+
+msgctxt "Languages::twapp_fill_to_sign_in"
+msgid "Fill in the fields below to sign in."
+msgstr "Fill in the fields below to sign in."
+
+msgctxt "Languages::twgadmin_show_product_code"
+msgid "Show product code on product details page"
+msgstr "Show product code on product details page"
+
+msgctxt "Languages::twapp_add_account"
+msgid "Add account"
+msgstr "Add account"
 
