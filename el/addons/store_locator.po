@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-27 13:00-0400\n"
+"PO-Revision-Date: 2014-11-05 07:00-0500\n"
 
 msgctxt "Addons::name::store_locator"
 msgid "Store locator"
@@ -15,7 +15,7 @@ msgstr "Εντοπισμός καταστήματος"
 
 msgctxt "Addons::description::store_locator"
 msgid "Lets you place local stores on map and inform customers about their nearest stores"
-msgstr "Lets you place local stores on map and inform customers about their nearest stores"
+msgstr "Σας επιτρέπει να τοποθετήσετε τα τοπικά καταστήματα στο χάρτη και να ενημερώσετε τους πελάτες για τους πλησιέστερο καταστήματα"
 
 msgctxt "Languages::view_on_map"
 msgid "View on map"
@@ -23,15 +23,15 @@ msgstr "Προβολή στον χάρτη"
 
 msgctxt "Languages::get_api_key"
 msgid "Obtaining an API Key"
-msgstr "Obtaining an API Key"
+msgstr "Απόκτηση ενος API κλειδιου"
 
 msgctxt "Languages::block_store_locator"
 msgid "Store locator"
-msgstr "Store locator"
+msgstr "Εντοπιστής καταστήματος"
 
 msgctxt "Languages::block_store_locator_description"
 msgid "Store locator block"
-msgstr "Store locator block"
+msgstr "Μπλοκ Εντοπιστή Καταστηματος"
 
 msgctxt "Languages::text_address_not_found"
 msgid "Address not found"
@@ -63,7 +63,7 @@ msgstr "Συντεταγμένες"
 
 msgctxt "Languages::latitude_short"
 msgid "lat"
-msgstr "lat"
+msgstr "Lat"
 
 msgctxt "Languages::longitude_short"
 msgid "long"
@@ -71,11 +71,11 @@ msgstr "μάκρος"
 
 msgctxt "Languages::all_stores"
 msgid "All stores"
-msgstr "All stores"
+msgstr "Όλα τα καταστήματα"
 
 msgctxt "Languages::zoom"
 msgid "Map zoom"
-msgstr "Map zoom"
+msgstr "Ζουμ χάρτη"
 
 msgctxt "Languages::map_type_control"
 msgid "MapType control"
@@ -83,32 +83,27 @@ msgstr "MapType control"
 
 msgctxt "Languages::zoom_control"
 msgid "Zoom control"
-msgstr "Zoom control"
+msgstr "Στοιχείο ελέγχου Zoυμ"
 
 msgctxt "Languages::scale_control"
 msgid "Scale control"
-msgstr "Scale control"
+msgstr "Στοιχειο Ελεγχου Κλιμακας"
 
 msgctxt "SettingsSections::store_locator::general"
 msgid "General"
-msgstr "General"
+msgstr "Γενικά"
 
 msgctxt "SettingsOptions::store_locator::provider"
 msgid "Map provider"
-msgstr "Map provider"
+msgstr "Υπηρεσία παροχής χαρτών"
 
 msgctxt "SettingsOptions::store_locator::map_provider"
 msgid "Map"
-msgstr "Map"
+msgstr "Χάρτης"
 
 msgctxt "SettingsOptions::store_locator::settings"
 msgid "Settings"
-msgstr "Settings"
-
-msgctxt "SettingsOptions::store_locator::store_locator_settings"
-msgid ""
-msgstr ""
-""
+msgstr "Βασικές Ρυθμίσεις"
 
 msgctxt "SettingsVariants::store_locator::map_provider::google"
 msgid "Google"

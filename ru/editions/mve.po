@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 08:00-0400\n"
+"PO-Revision-Date: 2014-11-05 06:02-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -356,4 +356,36 @@ msgstr "Отображать продавца на странице продук
 msgctxt "SettingsTooltips::include_payment_surcharge"
 msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
 msgstr "Если включено, то покупатели не смогут увидеть доплату, и она не будет применена к общей стоимости заказа"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Vendor categories"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Product categories available to a particular vendor"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Vendor information"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Vendor logo"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Search by vendor products"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Vendor Product filters"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Vendor products"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Vendor filters"
 

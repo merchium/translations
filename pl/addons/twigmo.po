@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 08:00-0400\n"
+"PO-Revision-Date: 2014-11-01 05:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -219,11 +219,11 @@ msgstr "Wpisz właściwy numer."
 
 msgctxt "Languages::twg_msg_order_was_placed"
 msgid "Your order has been placed!<br />The order ID is "
-msgstr "Your order has been placed!<br />The order ID is "
+msgstr "Twoje zamówienie zostało złożone!<br />ID zamówienia to "
 
 msgctxt "Languages::twg_msg_orders_were_placed"
 msgid "Your orders have been placed!<br />The order IDs are "
-msgstr "Your orders have been placed!<br />The order IDs are "
+msgstr "Twoje zamówienia zostały złożone!<br />ID zamówień to "
 
 msgctxt "Languages::twg_msg_cc_invalid"
 msgid "Please enter a valid credit card number."
@@ -523,7 +523,7 @@ msgstr "Plan"
 
 msgctxt "Languages::twgadmin_failed_to_decompress_files"
 msgid "Failed to extract files from the archive"
-msgstr "Failed to extract files from the archive"
+msgstr "Nie udało się rozpakować plików z archiwum"
 
 msgctxt "Languages::twgadmin_upgrade_completed"
 msgid "Upgrade completed"
@@ -531,35 +531,35 @@ msgstr "Uaktualnienie zakończone"
 
 msgctxt "Languages::twapp_stats"
 msgid "Statistics"
-msgstr "Statistics"
+msgstr "Statystyki"
 
 msgctxt "Languages::twapp_timeline"
 msgid "Timeline"
-msgstr "Timeline"
+msgstr "Oś czasu"
 
 msgctxt "Languages::twapp_manage_accounts"
 msgid "Manage accounts"
-msgstr "Manage accounts"
+msgstr "Zarządzanie kontami"
 
 msgctxt "Languages::twapp_low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "Niski stan magazynu"
 
 msgctxt "Languages::twapp_low_stock_products"
 msgid "Low stock products"
-msgstr "Low stock products"
+msgstr "Niski stan magazynowy produktów"
 
 msgctxt "Languages::twapp_all_low_stock_products"
 msgid "All low stock products"
-msgstr "All low stock products"
+msgstr "Wszystkie produkty o niskim stanie magazynowym"
 
 msgctxt "Languages::twapp_delete_account"
 msgid "Delete account"
-msgstr "Delete account"
+msgstr "Usuwanie konta"
 
 msgctxt "Languages::twapp_app_account_info"
 msgid "Fill in the fields below to sign in."
-msgstr "Fill in the fields below to sign in."
+msgstr "Wypełnij pola poniżej, aby się zalogować."
 
 msgctxt "Languages::twapp_login_or_email"
 msgid "Login/Email"
@@ -567,39 +567,39 @@ msgstr "Login/Email"
 
 msgctxt "Languages::twapp_latest_orders"
 msgid "Latest orders"
-msgstr "Latest orders"
+msgstr "Ostatnie zamówienia"
 
 msgctxt "Languages::twapp_back"
 msgid "Back"
-msgstr "Back"
+msgstr "Wstecz"
 
 msgctxt "Languages::twapp_users_statistics"
 msgid "Users statistics"
-msgstr "Users statistics"
+msgstr "Statystyki użytkownika"
 
 msgctxt "Languages::twapp_configurable"
 msgid "Configurable"
-msgstr "Configurable"
+msgstr "Konfigurowalne"
 
 msgctxt "Languages::twg_lbl_out_of_stock"
 msgid "Out of stock"
-msgstr "Out of stock"
+msgstr "Brak w magazynie"
 
 msgctxt "Languages::twapp_signing_in"
 msgid "Signing in..."
-msgstr "Signing in..."
+msgstr "Logowanie..."
 
 msgctxt "Languages::twapp_two_days_sales"
 msgid "Sales for the last 2 days"
-msgstr "Sales for the last 2 days"
+msgstr "Sprzedaż w ciągu ostatnich 2 dni"
 
 msgctxt "Languages::twapp_two_weeks_sales"
 msgid "Sales for the last 2 weeks"
-msgstr "Sales for the last 2 weeks"
+msgstr "Sprzedaż w ciągu ostatnich 2 tygodni"
 
 msgctxt "Languages::twapp_two_month_sales"
 msgid "Sales for the last 2 months"
-msgstr "Sales for the last 2 months"
+msgstr "Sprzedaż w ciągu ostatnich 2 miesięcy"
 
 msgctxt "Languages::twapp_stat_day_1"
 msgid "12am"
@@ -675,31 +675,31 @@ msgstr "w5"
 
 msgctxt "Languages::twapp_net_error_title"
 msgid "No network connection"
-msgstr "No network connection"
+msgstr "Nie ma połączenia sieciowego"
 
 msgctxt "Languages::twapp_net_error_message"
 msgid "Cannot load data. Please check your network connection."
-msgstr "Cannot load data. Please check your network connection."
+msgstr "Nie można załadować danych. Sprawdź połączenie sieciowe."
 
 msgctxt "Languages::twapp_in_stock_lowercase"
 msgid "in stock"
-msgstr "in stock"
+msgstr "w magazynie"
 
 msgctxt "Languages::twapp_receive_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Wysyłaj powiadomienia"
 
 msgctxt "Languages::twapp_will_affect_all_stores"
 msgid "Updating this field will affect all stores"
-msgstr "Updating this field will affect all stores"
+msgstr "Aktualizacja tego pola wpłynie na wszystkie sklepy"
 
 msgctxt "Languages::twapp_data_lang"
 msgid "Data lang."
-msgstr "Data lang."
+msgstr "Dane językowe"
 
 msgctxt "Languages::twg_placed"
 msgid "Placed"
-msgstr "Placed"
+msgstr "Złożone"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
 msgid "Twigmo Mobile Admin application"
@@ -715,7 +715,7 @@ msgstr "Ta aplikacja jest dostępna w <a href=\"http://www.twigmo.com/pricing/\"
 
 msgctxt "Languages::twgadmin_saved"
 msgid "Saved"
-msgstr "Saved"
+msgstr "Zapisane"
 
 msgctxt "Languages::twapp_admin_url"
 msgid "Admin URL"
@@ -727,11 +727,11 @@ msgstr "You have no permissions to log in to the store with this Access ID."
 
 msgctxt "Languages::twgadmin_mobile_app"
 msgid "Mobile app"
-msgstr "Mobile app"
+msgstr "Aplikacja mobilna"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app login page"
-msgstr "QR code for the app login page"
+msgstr "Kod QR dla strony logowania aplikacji"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
@@ -751,17 +751,17 @@ msgstr "Tap to scan"
 
 msgctxt "Languages::twapp_fill_manually"
 msgid "Fill in the fields manually"
-msgstr "Fill in the fields manually"
+msgstr "Wypełnij pola ręcznie"
 
 msgctxt "Languages::twapp_fill_to_sign_in"
 msgid "Fill in the fields below to sign in."
-msgstr "Fill in the fields below to sign in."
+msgstr "Wypełnij pola poniżej, aby się zalogować."
 
 msgctxt "Languages::twgadmin_show_product_code"
 msgid "Show product code on product details page"
-msgstr "Show product code on product details page"
+msgstr "Pokaż kod produktu na stronie szczegóły produktu"
 
 msgctxt "Languages::twapp_add_account"
 msgid "Add account"
-msgstr "Add account"
+msgstr "Dodaj konto"
 

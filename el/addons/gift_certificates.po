@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-27 13:00-0400\n"
+"PO-Revision-Date: 2014-11-05 07:00-0500\n"
 
 msgctxt "Addons::name::gift_certificates"
 msgid "Gift certificates"
@@ -15,7 +15,7 @@ msgstr "Δωροεπιταγές"
 
 msgctxt "Addons::description::gift_certificates"
 msgid "Adds a built-in gift certificate system"
-msgstr "Adds a built-in gift certificate system"
+msgstr "Προσθέτει ένα σύστημα  διαχειρησης δωροεπιταγών"
 
 msgctxt "Languages::gift_certificate"
 msgid "Gift certificate"
@@ -67,7 +67,7 @@ msgstr "Λογότυπο για <b>δωροεπιταγές</b>"
 
 msgctxt "Languages::text_gift_cert_amount_alert"
 msgid "Amount should be between [min] and [max]"
-msgstr "Amount should be between [min] and [max]"
+msgstr "Το ποσό πρέπει να είναι μεταξύ [min] και [max]"
 
 msgctxt "Languages::text_gift_cert_has_been_deleted"
 msgid "Gift certificate has been deleted successfully."
@@ -79,11 +79,11 @@ msgstr "Ο κωδικός της δωροεπιταγής που δώσατε ε
 
 msgctxt "Languages::gift_add_products"
 msgid "Add products for a gift"
-msgstr "Add products for a gift"
+msgstr "Προσθέστε προϊόντα για δώρο"
 
 msgctxt "Languages::gift_comment"
 msgid "Message"
-msgstr "Message"
+msgstr "Μήνυμα"
 
 msgctxt "Languages::certificate_verification"
 msgid "Validate/Redeem gift certificate"
@@ -119,7 +119,7 @@ msgstr "Ο κωδικός της δωροεπιταγής δεν είναι έγ
 
 msgctxt "Languages::warning_gift_cert_deny"
 msgid "The following gift certificates have been deleted or cancelled by administrator and have been removed from your cart: [codes]. Please contact the store administrator or try another one."
-msgstr "The following gift certificates have been deleted or cancelled by administrator and have been removed from your cart: [codes]. Please contact the store administrator or try another one."
+msgstr "Τα ακόλουθα πιστοποιητικά δώρων έχουν διαγραφεί ή ακυρωθεί από διαχειριστή και έχουν καταργηθεί από το καλάθι σας: [codes]. Παρακαλώ επικοινωνήστε με το διαχειριστή του κατάστημα ή να δοκιμάσετε ένα άλλο."
 
 msgctxt "Languages::text_gift_cert_cannot_delete"
 msgid "Gift certificate [code] cannot be deleted because it is used in order(s) [ids]."
@@ -179,43 +179,43 @@ msgstr "Κατάστημα τώρα"
 
 msgctxt "Languages::theme_editor.gift_cert"
 msgid "Gift Certificate"
-msgstr "Gift Certificate"
+msgstr "Δωροεπιταγή"
 
 msgctxt "Languages::promo_code_or_certificate"
 msgid "Gift certificate or promo code"
-msgstr "Gift certificate or promo code"
+msgstr "Δωροεπιταγή ή Κωδικός Προσφοράς"
 
 msgctxt "Languages::gift_certificate_added_to_cart"
 msgid "Gift certificate was added to your cart"
-msgstr "Gift certificate was added to your cart"
+msgstr "Η Δωροεπιταγή προστέθηκε στο καλάθι σας"
 
 msgctxt "Languages::gift_certificates_verify"
 msgid "Gift certificate verification"
-msgstr "Gift certificate verification"
+msgstr "Επαλήθευση δωροεπιταγής"
 
 msgctxt "Languages::block_gift_certificates_verify"
 msgid "Gift certificate verification"
-msgstr "Gift certificate verification"
+msgstr "Επαλήθευση δωροεπιταγής"
 
 msgctxt "Languages::block_gift_certificates_verify_description"
 msgid "Gift certificate input and validation"
-msgstr "Gift certificate input and validation"
+msgstr "Εισαγωγη Δωροεπιταγής και επικύρωση"
 
 msgctxt "Languages::recipients_name"
 msgid "To"
-msgstr "To"
+msgstr "Προς"
 
 msgctxt "Languages::purchasers_name"
 msgid "From"
-msgstr "From"
+msgstr "Από"
 
 msgctxt "Languages::gift_cert_error_amount"
 msgid "Amount should not be higher than [max] and less than [min]"
-msgstr "Amount should not be higher than [max] and less than [min]"
+msgstr "Το Ποσό δεν πρέπει να είναι υψηλότερο από  [max] και λιγότερο από [min]"
 
 msgctxt "Languages::privileges.manage_gift_certificates"
 msgid "Manage gift certificate system"
-msgstr "Manage gift certificate system"
+msgstr "Διαχείριση συστήματος δωροεπιταγων"
 
 msgctxt "Languages::change_gift_certificate_status"
 msgid "Change gift certificate status to"
@@ -223,11 +223,11 @@ msgstr "Αλλαγή κατάστασης δωροεπιταγή για να"
 
 msgctxt "Languages::gift_cert_with_products"
 msgid "Purchasing products and gift certificates together is impossible. Please, place the current order and repeat your attempt."
-msgstr "Purchasing products and gift certificates together is impossible. Please, place the current order and repeat your attempt."
+msgstr "Αγορά προϊόντων και δωροεπιταγές μαζί είναι αδύνατο. Παρακαλώ, την τρέχουσα παραγγελία και επαναλάβετε την προσπάθεια σας."
 
 msgctxt "SettingsSections::gift_certificates::general"
 msgid "General"
-msgstr "General"
+msgstr "Γενικά"
 
 msgctxt "SettingsOptions::gift_certificates::min_amount"
 msgid "Minimal amount"
@@ -239,7 +239,7 @@ msgstr "Μέγιστο ποσό"
 
 msgctxt "SettingsOptions::gift_certificates::code_prefix"
 msgid "GC Code prefix"
-msgstr "GC Code prefix"
+msgstr "Πρόθεμα κωδικού GC"
 
 msgctxt "SettingsOptions::gift_certificates::cert_per_page"
 msgid "Gift certificates per page"

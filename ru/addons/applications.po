@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 06:00-0400\n"
+"PO-Revision-Date: 2014-10-31 12:00-0400\n"
 
 msgctxt "Addons::name::applications"
 msgid "Merchium Applications"
@@ -284,4 +284,20 @@ msgstr "Удаление группы пользователей"
 msgctxt "Languages::applications.event_add_to_cart"
 msgid "Add product to cart"
 msgstr "Добавление товара в корзину"
+
+msgctxt "Languages::applications.order_received_but_not_processed_text"
+msgid "Your order has been received, but not processed yet. As soon as the payment is processed you will be able to complete installation from the <a href=\"[applications_link]\">applications</a> page"
+msgstr "Ваш заказ успешно размещен, но еще не обработан. Как только платеж будет обработан, вы сможете завершить установку на странице <a href=\"[applications_link]\">Приложения</a>."
+
+msgctxt "Languages::applications.order_has_been_processed"
+msgid "Congratulations! Your order has been processed successfully"
+msgstr "Поздравляем! Ваш заказ успешно обработан."
+
+msgctxt "Languages::applications.purchase"
+msgid "Purchase"
+msgstr "Купить"
+
+msgctxt "Languages::applications.complete_installation"
+msgid "Complete installation"
+msgstr "Завершить установку"
 

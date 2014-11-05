@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 08:00-0400\n"
+"PO-Revision-Date: 2014-11-05 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -5119,7 +5119,7 @@ msgstr "Список без опций"
 
 msgctxt "Languages::live"
 msgid "Live"
-msgstr "Реальный"
+msgstr "Рабочий"
 
 msgctxt "Languages::live_preview"
 msgid "Live preview"
@@ -10091,7 +10091,7 @@ msgstr "Тест"
 
 msgctxt "Languages::test_live_mode"
 msgid "Test/Live mode"
-msgstr "Тестовый/реальный режим"
+msgstr "Тестовый/рабочий режим"
 
 msgctxt "Languages::test_mode"
 msgid "Test mode"
@@ -10175,7 +10175,7 @@ msgstr "Количество товаров в вашей корзине отл�
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "В тестовом режиме ссылка Merchant URL может быть HTTP-ссылкой на ваш магазин, но реальный режим работает только через безопасное соединение, и Вы должны использовать HTTPS-ссылку. Также, не забудьте включить production mode на сайте Amazon's Seller Central, когда Вы готовы использовать реальный режим."
+msgstr "В тестовом режиме ссылка Merchant URL может быть HTTP-ссылкой на ваш магазин, но рабочий режим работает только через безопасное соединение, и вы должны использовать HTTPS-ссылку. Также, не забудьте включить production mode на сайте Amazon's Seller Central, когда будете готовы использовать рабочий режим."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
@@ -10415,7 +10415,7 @@ msgstr "Доступ запрещен: Возможна CSRF-атака"
 
 msgctxt "Languages::text_customer_area_logo"
 msgid "Logo for the <b>customer</b> area"
-msgstr "Логотип для <b>клиентской</b> части"
+msgstr "Логотип для <b>витрины</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in Post format'</b>.<br /> -&nbsp;Set <u>'Approved URL'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
@@ -12136,10 +12136,6 @@ msgstr "Истина"
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
 msgstr "Текст рядом с названием способа доставки."
-
-msgctxt "Languages::ttc_clean_up_all_locations_on_import"
-msgid "Delete all existing locations before importing locations from the file"
-msgstr "Удалить текущие локации перед импортом локаций из файла"
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -15449,60 +15445,15 @@ msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
 msgstr "Использовать конфигурацию блоков по умолчанию"
 
-msgctxt "Languages::block_vendor_categories"
-msgid "Vendor categories"
-msgstr "Категории продавца"
+msgctxt "Languages::private_files"
+msgid "Private files"
+msgstr "Private files"
 
-msgctxt "Languages::block_vendor_categories_description"
-msgid "Product categories available to a particular vendor"
-msgstr "Категории товаров, доступные определенному продавцу"
+msgctxt "Languages::public_files"
+msgid "Public files"
+msgstr "Public files"
 
-msgctxt "Languages::block_vendor_information"
-msgid "Vendor information"
-msgstr "Информация о продавце"
-
-msgctxt "Languages::block_vendor_logo"
-msgid "Vendor logo"
-msgstr "Логотип продавца"
-
-msgctxt "Languages::block_vendor_logo_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_information_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendors_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_search"
-msgid "Search by vendor products"
-msgstr "Поиск по товарам продавца"
-
-msgctxt "Languages::block_vendor_search_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::vendor_filters"
-msgid "Vendor Product filters"
-msgstr "Фильтры товара продавца"
-
-msgctxt "Languages::vendor_products"
-msgid "Vendor products"
-msgstr "Товары продавца"
-
-msgctxt "Languages::block_vendor_filters"
-msgid "Vendor filters"
-msgstr "Фильтры продавца"
-
-msgctxt "Languages::vendor_filters_description"
-msgid ""
-msgstr ""
-""
+msgctxt "Languages::templates"
+msgid "Templates"
+msgstr "Templates"
 

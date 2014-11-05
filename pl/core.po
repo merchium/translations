@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 03:00-0400\n"
+"PO-Revision-Date: 2014-11-05 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2671,7 +2671,7 @@ msgstr "Podpis klienta"
 
 msgctxt "Languages::customer_text_letter_footer"
 msgid "Thank you for using our shopping cart."
-msgstr "Dziękujemy za skontaktowanie się z nami. Odpowiemy na zapytanie najszybciej jak to będzie możliwe."
+msgstr "Dziękujemy odwiedzenie naszego sklepu."
 
 msgctxt "Languages::customize"
 msgid "Customize"
@@ -7631,7 +7631,7 @@ msgstr "Ilość"
 
 msgctxt "Languages::promotion_op_cont"
 msgid "contains"
-msgstr "Zawiera"
+msgstr "zawiera"
 
 msgctxt "Languages::promotion_op_eq"
 msgid "equal"
@@ -7659,7 +7659,7 @@ msgstr "równy lub mniejszy"
 
 msgctxt "Languages::promotion_op_ncont"
 msgid "doesn't contain"
-msgstr "Nie zawiera"
+msgstr "nie zawiera"
 
 msgctxt "Languages::promotion_op_neq"
 msgid "not equal"
@@ -7667,7 +7667,7 @@ msgstr "nie równy"
 
 msgctxt "Languages::promotion_op_nin"
 msgid "not in"
-msgstr "nie w"
+msgstr "nie zawiera"
 
 msgctxt "Languages::promo_code"
 msgid "Promo code"
@@ -12137,10 +12137,6 @@ msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
 msgstr "Dowolny tekst, który będzie wyświetlony wraz z nazwą sposobu wysyłki."
 
-msgctxt "Languages::ttc_clean_up_all_locations_on_import"
-msgid "Delete all existing locations before importing locations from the file"
-msgstr "Usuń wszystkie istniejące lokacje przed importem lokacji z pliku"
-
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
 msgstr "Tytuł stony wyświetlany w panelu przeglądarki."
@@ -13639,11 +13635,11 @@ msgstr "Nazwa"
 
 msgctxt "Languages::promotions.cond_any"
 msgid "any"
-msgstr "Jakiekolwiek"
+msgstr "jakiekolwiek"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "Wszystkie"
+msgstr "wszystkie"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
@@ -15311,7 +15307,7 @@ msgstr "Adres"
 
 msgctxt "ProfileFields::b_address_2"
 msgid "Address"
-msgstr "Adres"
+msgstr "Adres c.d."
 
 msgctxt "ProfileFields::s_address"
 msgid "Address"
@@ -15319,7 +15315,7 @@ msgstr "Adres"
 
 msgctxt "ProfileFields::s_address_2"
 msgid "Address"
-msgstr "Adres"
+msgstr "Adres c.d."
 
 msgctxt "ProfileFields::b_city"
 msgid "City"
@@ -15449,60 +15445,15 @@ msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
 msgstr "Użyj domyślnej konfiguracji bloku"
 
-msgctxt "Languages::block_vendor_categories"
-msgid "Vendor categories"
-msgstr "Kategorie sprzedawcy"
+msgctxt "Languages::private_files"
+msgid "Private files"
+msgstr "Private files"
 
-msgctxt "Languages::block_vendor_categories_description"
-msgid "Product categories available to a particular vendor"
-msgstr "Kategorie produktów dostępnych dla danego sprzedawcy"
+msgctxt "Languages::public_files"
+msgid "Public files"
+msgstr "Public files"
 
-msgctxt "Languages::block_vendor_information"
-msgid "Vendor information"
-msgstr "Informacje o sprzedawcy"
-
-msgctxt "Languages::block_vendor_logo"
-msgid "Vendor logo"
-msgstr "Logo sprzedawcy"
-
-msgctxt "Languages::block_vendor_logo_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_information_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendors_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_search"
-msgid "Search by vendor products"
-msgstr "Szukaj według produktów sprzedawcy"
-
-msgctxt "Languages::block_vendor_search_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::vendor_filters"
-msgid "Vendor Product filters"
-msgstr "Filtry produktów sprzedawcy"
-
-msgctxt "Languages::vendor_products"
-msgid "Vendor products"
-msgstr "Produkty sprzedawcy"
-
-msgctxt "Languages::block_vendor_filters"
-msgid "Vendor filters"
-msgstr "Filtry sprzedawcy"
-
-msgctxt "Languages::vendor_filters_description"
-msgid ""
-msgstr ""
-""
+msgctxt "Languages::templates"
+msgid "Templates"
+msgstr "Templates"
 

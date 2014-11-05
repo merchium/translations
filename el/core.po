@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-27 13:00-0400\n"
+"PO-Revision-Date: 2014-11-05 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11775,7 +11775,7 @@ msgstr "Πλαϊνή Μπάρα"
 
 msgctxt "Languages::theme_editor.text_align"
 msgid "Text alignment"
-msgstr "Text alignment"
+msgstr "Στοίχιση κειμένου"
 
 msgctxt "Languages::theme_editor.text_close_editor"
 msgid "Are you sure to exit the theme editor?"
@@ -11955,7 +11955,7 @@ msgstr "Δεν υπάρχουν addons τριτων"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
-msgstr "Restore defaults"
+msgstr "Επαναφορά των προεπιλογών"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12136,10 +12136,6 @@ msgstr "Αληθές"
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
 msgstr "Arbitrary text to be shown along with the shipping method title."
-
-msgctxt "Languages::ttc_clean_up_all_locations_on_import"
-msgid "Delete all existing locations before importing locations from the file"
-msgstr "Delete all existing locations before importing locations from the file"
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -13575,7 +13571,7 @@ msgstr "Το πεδίο [field] είναι υποχρεωτικό"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Ενημέρωση μεταφράσεων"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -13651,7 +13647,7 @@ msgstr "true"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"
-msgstr "false"
+msgstr "ψευδές"
 
 msgctxt "Languages::text_select_vendor"
 msgid "Please select a store first"
@@ -13691,7 +13687,7 @@ msgstr "Ρυθμίσεις Ασφαλείας"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Ταμείο"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -14555,7 +14551,7 @@ msgstr "Χρησιμοποιήστε: http://www.example.com/index.php?store_acc
 
 msgctxt "SettingsTooltips::order_start_id"
 msgid "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
-msgstr "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
+msgstr "Πληκτρολογήστε έναν αριθμό μεταξύ 1 και 10.000.000 (χρήση μόνο ψηφίων) ή αφήστε το κενό για αυτόματη συμπλήρωση."
 
 msgctxt "SettingsTooltips::user_multiple_profiles"
 msgid "Shipping and billing addresses"
@@ -15399,11 +15395,11 @@ msgstr "Hide step completely"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Εγγραφή"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Πληρωμή ως επισκέπτης"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15439,7 +15435,7 @@ msgstr "Αυτό θα διαγράψει όλα τα προϊόντα της  ε
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Επαναφορα Αρχικου"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
@@ -15449,60 +15445,15 @@ msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
 msgstr "Use default block configuration"
 
-msgctxt "Languages::block_vendor_categories"
-msgid "Vendor categories"
-msgstr "Vendor categories"
+msgctxt "Languages::private_files"
+msgid "Private files"
+msgstr "Private files"
 
-msgctxt "Languages::block_vendor_categories_description"
-msgid "Product categories available to a particular vendor"
-msgstr "Product categories available to a particular vendor"
+msgctxt "Languages::public_files"
+msgid "Public files"
+msgstr "Public files"
 
-msgctxt "Languages::block_vendor_information"
-msgid "Vendor information"
-msgstr "Vendor information"
-
-msgctxt "Languages::block_vendor_logo"
-msgid "Vendor logo"
-msgstr "Vendor logo"
-
-msgctxt "Languages::block_vendor_logo_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_information_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendors_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::block_vendor_search"
-msgid "Search by vendor products"
-msgstr "Search by vendor products"
-
-msgctxt "Languages::block_vendor_search_description"
-msgid ""
-msgstr ""
-""
-
-msgctxt "Languages::vendor_filters"
-msgid "Vendor Product filters"
-msgstr "Vendor Product filters"
-
-msgctxt "Languages::vendor_products"
-msgid "Vendor products"
-msgstr "Vendor products"
-
-msgctxt "Languages::block_vendor_filters"
-msgid "Vendor filters"
-msgstr "Vendor filters"
-
-msgctxt "Languages::vendor_filters_description"
-msgid ""
-msgstr ""
-""
+msgctxt "Languages::templates"
+msgid "Templates"
+msgstr "Templates"
 

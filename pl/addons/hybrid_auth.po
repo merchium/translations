@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-10-28 03:00-0400\n"
+"PO-Revision-Date: 2014-11-01 05:00-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -223,11 +223,11 @@ msgstr "Nieznany lub zablokowany usługodawca"
 
 msgctxt "Languages::hybrid_auth.missing_credentials"
 msgid "Missing provider application credentials"
-msgstr "Missing provider application credentials"
+msgstr "Dostawcy aplikacji brakuje referencji"
 
 msgctxt "Languages::hybrid_auth.failed_auth"
 msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "Authentication failed. The user has canceled the authentication or the provider refused the connection"
+msgstr "Uwierzytelnianie nie powiodło się. Użytkownik anulował uwierzytelnienie lub dostawca odmówił połączenia"
 
 msgctxt "Languages::hybrid_auth.connecting_provider"
 msgid "Contacting <b>[provider]</b>. Please wait..."
@@ -243,7 +243,7 @@ msgstr "Mamy przyjemność poinformować, że zostałeś pomyślnie zarejestrowa
 
 msgctxt "Languages::hybrid_auth.change_password"
 msgid "You can change your password here"
-msgstr "You can change your password here"
+msgstr "W tym miejscu można zmienić hasło"
 
 msgctxt "Languages::hybrid_auth.link_provider"
 msgid "Assigning social network accounts"
