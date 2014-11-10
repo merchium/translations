@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-05 08:01-0500\n"
+"PO-Revision-Date: 2014-11-08 22:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -163,7 +163,7 @@ msgstr "Parâmetro adicional é incorreto"
 
 msgctxt "Languages::additional_popup_larger_image"
 msgid "Popup larger images of additional thumbnails"
-msgstr "Abrir em popup a imagem maior das miniaturas adicionais"
+msgstr "Abrir em popup a imagem maior das fotos adicionais"
 
 msgctxt "Languages::additional_thumbnail"
 msgid "Additional thumbnails"
@@ -183,7 +183,7 @@ msgstr "Plugins"
 
 msgctxt "Languages::addon_sql_error"
 msgid "An error in an SQL query occurred during the add-on installation. The add-on will not be installed."
-msgstr "Ocorreu um erro de consulta SQL durante a instalação do plugin. O pluginnão será instalado."
+msgstr "Ocorreu um erro de consulta SQL durante a instalação do plugin. O plugin não será instalado."
 
 msgctxt "Languages::address"
 msgid "Address"
@@ -399,7 +399,7 @@ msgstr "Adicionar páginas e fechar"
 
 msgctxt "Languages::add_payment"
 msgid "Add payment method"
-msgstr "Add payment method"
+msgstr "Adicionar método de pagamento"
 
 msgctxt "Languages::add_payout"
 msgid "Add payout"
@@ -1187,19 +1187,19 @@ msgstr "Alterar o layout quando o tema é convertido para CSS não é permitido.
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Adicionar layout da página"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Editar layout da página"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "Nova layout da página"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "Layout das páginas"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -3399,7 +3399,7 @@ msgstr "Editando tipo"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "Editar o conteúdo do site"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -3615,7 +3615,7 @@ msgstr "Moeda com código <b>[code]</b> já existe"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "One of your storefronts uses this theme. Please set another theme before deleting it."
+msgstr "Uma de suas paginas usa este tema. Por favor, defina outro tema antes de excluí-lo."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
@@ -4059,7 +4059,7 @@ msgstr "Arquivos"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Arquivos para vender"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -4399,7 +4399,7 @@ msgstr "Grade"
 
 msgctxt "Languages::tmpl_grid"
 msgid "Grid"
-msgstr "Grid"
+msgstr "Grade"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -10191,7 +10191,7 @@ msgstr "Você deve possuir uma conta para avançar para checkout"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Recalcular o custo de transporte"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -13151,7 +13151,7 @@ msgstr "Código do widget"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\"> o que é isso?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13687,7 +13687,7 @@ msgstr "Segurança"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Check-out"
 
 msgctxt "SettingsSections::Shippings"
 msgid "Shipping settings"
@@ -15395,11 +15395,11 @@ msgstr "Hide step completely"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Registre-se"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Check-out como convidado"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15415,7 +15415,7 @@ msgstr "Loja<br/>fechada"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Copiar para outros locais"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
@@ -15431,27 +15431,27 @@ msgstr "This will delete all selected category's products, as well as its subcat
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Esta ação irá eliminar todos os produtos da categoria e subcategorias selecionadas"
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Restaurar Padrão"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Configuração personalizada"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Usar Configuração de bloco de padrão"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Arquivos privados"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Arquivos públicos"
 
 msgctxt "Languages::templates"
 msgid "Templates"

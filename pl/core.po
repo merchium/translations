@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-05 08:01-0500\n"
+"PO-Revision-Date: 2014-11-08 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4019,7 +4019,7 @@ msgstr "Pokaż na liście produktów"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Show in header on the product details page"
+msgstr "Pokaż w nagłówku na stronie karty produktu"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4383,7 +4383,7 @@ msgstr "Idź do strony głównej"
 
 msgctxt "Languages::grams_in_the_unit_of_weight"
 msgid "Grams in the unit of weight defined by the weight symbol"
-msgstr "Grams in the unit of weight defined by the weight symbol"
+msgstr "Gramy w jednostkach wagi zdefiniowanych przez symbol wagi"
 
 msgctxt "Languages::graphic"
 msgid "Graphic"
@@ -6363,7 +6363,7 @@ msgstr "Wartość zamówienia"
 
 msgctxt "Languages::order_total_not_correct"
 msgid "The paid total amount does not match the order total"
-msgstr "The paid total amount does not match the order total"
+msgstr "Wypłacona kwota nie pasuje sumy zamówienia"
 
 msgctxt "Languages::order_was_not_placed"
 msgid "Order was not placed"
@@ -7715,7 +7715,7 @@ msgstr "Rabaty ilościowe"
 
 msgctxt "Languages::qty_discount_type_tooltip"
 msgid "Fixed amount/Percentage to be taken off the price"
-msgstr "Fixed amount/Percentage to be taken off the price"
+msgstr "Stała kwota/procent o którą obniżona jest cena"
 
 msgctxt "Languages::quantity"
 msgid "Quantity"
@@ -8991,11 +8991,11 @@ msgstr "Acknowledgement of delivery (for registered mail only)"
 
 msgctxt "Languages::ship_sp_l_cash_on_delivery"
 msgid "Cash on delivery (for registered mail only)"
-msgstr "Cash on delivery (for registered mail only)"
+msgstr "Za pobraniem (tylko dla listu poleconego)"
 
 msgctxt "Languages::ship_sp_l_personal_delivery"
 msgid "Personal delivery (for registered mail only)"
-msgstr "Personal delivery (for registered mail only)"
+msgstr "Osobiste doręczenie (tylko dla listu poleconego)"
 
 msgctxt "Languages::ship_sp_l_registered_mail"
 msgid "Registered mail"
@@ -9515,7 +9515,7 @@ msgstr "Customer [name] has been registered.Klient [name] został zarejestrowany
 
 msgctxt "Languages::sms_for_the_sum"
 msgid "to the amount of"
-msgstr "to the amount of"
+msgstr "do kwoty"
 
 msgctxt "Languages::sms_order_placed"
 msgid "has been placed"
@@ -10159,7 +10159,7 @@ msgstr "Ta sekcja pokazuje zamówienia, których nigdy nie przeglądałeś."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Obsługiwane są następujące rozszerzenia pliku: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10579,7 +10579,7 @@ msgstr "Nie wolno tworzyć / ładować / zmieniać nazw plików z <b>[mime]</b> 
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr "Ta funkcja jest dostępna tylko w trybie<strong>Full mode</strong>. <br/> <br/>Aby mieć pełny dostęp do wszystkich funkcji, zakup licencję i <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> aktywuj tryb Full mode</a>."
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -11147,7 +11147,7 @@ msgstr "<b>Support:</b> <br /><br /> Do you have questions?<br /> Contact Skrill
 
 msgctxt "Languages::text_status_is_float"
 msgid "You cannot use time interval for the \"Status\" parameter because this parameter is time dependent."
-msgstr "You cannot use time interval for the \"Status\" parameter because this parameter is time dependent."
+msgstr "Nie można używać Interwału czasu dla parametru \"Status\" bo ten parametr jest zależny od czasu."
 
 msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
@@ -13327,7 +13327,7 @@ msgstr "Separator opcji"
 
 msgctxt "Languages::text_product_option_delimiter"
 msgid "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
-msgstr "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
+msgstr "Separator kombinacji opcji do produktu  (np. \"kolor: czerwony, rozmiar: mały\")"
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
@@ -14523,7 +14523,7 @@ msgstr "Konfiguracja kroku \"Zaloguj się\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "Pierwszy krok w realizacji transakcji może być ukryty, tylko wtedy, gdy nie ma żadnych pól wymaganych."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -15447,13 +15447,13 @@ msgstr "Użyj domyślnej konfiguracji bloku"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Prywatne pliki"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Pliki publiczne"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "Szablony"
 
