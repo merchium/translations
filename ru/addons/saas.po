@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-05 10:00-0500\n"
+"PO-Revision-Date: 2014-11-12 04:44-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -31,7 +31,7 @@ msgstr "Этот домен уже назначен на один из наши�
 
 msgctxt "Languages::saas.storefront_domain_url_already_exists"
 msgid "The value of the <strong>Custom domain</strong> parameter mentioned by you already belongs to another company."
-msgstr "The value of the <strong>Custom domain</strong> parameter mentioned by you already belongs to another company."
+msgstr "Этот домен уже принадлежит другой витрине."
 
 msgctxt "Languages::saas.text_domains_dns"
 msgid "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href=\"[stores_url]\">Stores</a> page and select the storefront. Enter the new domain in the <strong>Storefront URL</strong> field and click the <strong>Save</strong> button.</li></ol>"
@@ -380,7 +380,7 @@ msgstr "Идентификатор темы"
 
 msgctxt "Languages::saas.custom_domain"
 msgid "Custom domain"
-msgstr "Custom domain"
+msgstr "Собственный домен"
 
 msgctxt "Languages::saas.error_incorrect_theme_id"
 msgid "Incorrect theme ID - only latin letters, numbers and undescore are accepted."
@@ -392,5 +392,5 @@ msgstr "Это единственная витрина в вашем магаз�
 
 msgctxt "Languages::saas.text_yandex_money_urls"
 msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
-msgstr "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
+msgstr "Используйте следующие URL в настройках Яндекс.Денег:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Создание контрагента</a><p>Если вы собираетесь использовать Веб-сервисы Яндекс.Денег для Контрагентов, пожалуйста причитайте статью <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Процедура обмена сертификатами</a>, после этого получите сертификат и настройте Веб-сервисы Яндекс.Денег для Контрагентов в секции ниже.</p>"
 
