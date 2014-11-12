@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-08 04:00-0500\n"
+"PO-Revision-Date: 2014-11-11 06:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -13543,7 +13543,7 @@ msgstr "Konwertuj do CSS"
 
 msgctxt "Languages::theme_editor.text_convert_to_css"
 msgid "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
-msgstr "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
+msgstr "<p>Generowanie CSS plików z LESS (do ręcznej edycji).</p><p>Uwaga: nie będzie  możliwe dostosowywanie sklepu za pomocą Edytora wizualnego!</p><p><i>Oryginalne wersje plików LESS zostaną zachowane w kopii zapasowej i będzie można je później przywrócić</i></p>"
 
 msgctxt "Languages::theme_editor.enable_less"
 msgid "Enable LESS"
@@ -13551,7 +13551,7 @@ msgstr "Włącz LESS"
 
 msgctxt "Languages::theme_editor.warning_css_changes_will_be_reverted"
 msgid "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
-msgstr "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
+msgstr "<p>Należy przełączyć się na LESS aby móc używać edytora wizualnego, ponieważ edytor używa plików LESS a nie zwykłych plików CSS.</p><p><strong>Uwaga:</strong> Wszystkie pliki CSS zostaną nadpisane podczas przywracania! Niestandardowe zmiany w CSS zostaną zapisane w katalogu kopii zapasowych.</p>"
 
 msgctxt "Languages::theme_editor.confirm_enable_less"
 msgid "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
