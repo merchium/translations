@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-13 06:00-0500\n"
+"PO-Revision-Date: 2014-11-13 10:00-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -34,12 +34,12 @@ msgid "The value of the <strong>Custom domain</strong> parameter mentioned by yo
 msgstr "Этот домен уже принадлежит другой витрине."
 
 msgctxt "Languages::saas.text_domains_dns"
-msgid "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href=\"[stores_url]\">Stores</a> page and select the storefront. Enter the new domain in the <strong>Storefront URL</strong> field and click the <strong>Save</strong> button.</li></ol>"
+msgid "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href=\"[stores_url]\">Stores</a> page and select the storefront. Pick the new domain in the <strong>Custom domain</strong> drop-down list and click the <strong>Save</strong> button.</li></ol>"
 msgstr "<p>Чтобы привязать к витрине собственный домен, выполните несколько простых шагов:</p>\n"
 "<ol>\n"
 "<li>Перейдите в свою учетную запись на сайте регистратора доменов и добавьте в настройках домена новую <strong>A-запись</strong> с этим IP-адресом: <strong>[ip_address]</strong>.</li>\n"
 "<li>Добавьте новый домен на этой странице, нажав на кнопку <strong>+</strong> в правом верхнем углу страницы.</li>\n"
-"<li>Перейдите на страницу <a href=\"[stores_url]\">Магазины</a> и выберите нужный магазин. Затем введите новый домен в поле «URL витрины» и нажмите на кнопку «Сохранить».</li>\n"
+"<li>Перейдите на страницу <a href=\"[stores_url]\">Магазины</a> и выберите нужный магазин. Выберите новый домен в выпадающем списке «Собственный домен» и нажмите на кнопку «Сохранить».</li>\n"
 "</ol>"
 
 msgctxt "Languages::saas.unlimited"
@@ -389,8 +389,4 @@ msgstr "Неверный идентификатор темы — допусти�
 msgctxt "Languages::saas.error_last_storefront"
 msgid "This is the last storefront in your store and it can not be deleted."
 msgstr "Это единственная витрина в вашем магазине, и она не может быть удалена."
-
-msgctxt "Languages::saas.text_yandex_money_urls"
-msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
-msgstr "Используйте следующие URL в настройках Яндекс.Денег:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Создание контрагента</a><p>Если вы собираетесь использовать Веб-сервисы Яндекс.Денег для Контрагентов, пожалуйста причитайте статью <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Процедура обмена сертификатами</a>, после этого получите сертификат и настройте Веб-сервисы Яндекс.Денег для Контрагентов в секции ниже.</p>"
 
