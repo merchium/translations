@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-12 04:44-0500\n"
+"PO-Revision-Date: 2014-11-13 06:00-0500\n"
 
 msgctxt "Addons::name::applications"
 msgid "Merchium Applications"
@@ -132,6 +132,10 @@ msgstr "Подключение сторонних скриптов в витри
 msgctxt "Languages::app_scope_manage_template_hooks"
 msgid "Manage template hooks"
 msgstr "Использование стороннего HTML-содержимого в витрине"
+
+msgctxt "Languages::app_scope_manage_shipping_services"
+msgid "Manage shipping services"
+msgstr "Управление службами доставки"
 
 msgctxt "Languages::app_scope_manage_catalog"
 msgid "Manage catalog"
@@ -300,4 +304,20 @@ msgstr "Купить"
 msgctxt "Languages::applications.complete_installation"
 msgid "Complete installation"
 msgstr "Завершить установку"
+
+msgctxt "Languages::applications.settings_shippings_enable"
+msgid "Enable app-provided shipping services"
+msgstr "Включить способы доставки, добавленные приложениями"
+
+msgctxt "Languages::applications.shipping_error_empty_response"
+msgid "Error: Empty server response"
+msgstr "Ошибка: Пустой ответ от сервера"
+
+msgctxt "Languages::applications.shipping_error_bad_response"
+msgid "Error: Invalid server response"
+msgstr "Ошибка: Некорретный ответ от сервера"
+
+msgctxt "Languages::applications.shipping_error_disabled"
+msgid "Error: Shipping service is disabled"
+msgstr "Ошибка: Служба доставки отключена"
 
