@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-12 04:27-0500\n"
+"PO-Revision-Date: 2014-11-12 07:00-0500\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -127,7 +127,7 @@ msgstr "Показывать счетчик"
 
 msgctxt "SettingsOptions::social_buttons::twitter_display_on"
 msgid "Display on"
-msgstr "Отображать"
+msgstr "Показывать"
 
 msgctxt "SettingsOptions::social_buttons::facebook_header"
 msgid "Facebook settings"
@@ -147,7 +147,7 @@ msgstr "URL страницы, которая будет упомянута в с
 
 msgctxt "SettingsOptions::social_buttons::facebook_send"
 msgid "Include a Send button with the Like button"
-msgstr "Отображать кнопку «Отправить» вместе с кнопкой «Мне нравится»"
+msgstr "Показывать кнопку «Отправить» вместе с кнопкой «Мне нравится»"
 
 msgctxt "SettingsOptions::social_buttons::facebook_width"
 msgid "Width of the Like button (px)"
@@ -179,7 +179,7 @@ msgstr "Цветовая схема"
 
 msgctxt "SettingsOptions::social_buttons::facebook_display_on"
 msgid "Display on"
-msgstr "Отображать"
+msgstr "Показывать"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_header"
 msgid "Vkontakte settings"
@@ -187,7 +187,7 @@ msgstr "Настройки Вконтакте"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_enable"
 msgid "Show Vkontakte button"
-msgstr "Отображать кнопку Вконтакте"
+msgstr "Показывать кнопку Вконтакте"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_appid"
 msgid "Vkontakte app ID"
@@ -211,7 +211,7 @@ msgstr "Название кнопки"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_display_on"
 msgid "Display on"
-msgstr "Отображать"
+msgstr "Показывать"
 
 msgctxt "SettingsOptions::social_buttons::email_header"
 msgid "E-mail settings"
@@ -219,11 +219,11 @@ msgstr "Настройки эл. почты"
 
 msgctxt "SettingsOptions::social_buttons::email_enable"
 msgid "Show E-mail button"
-msgstr "Отображать кнопку эл. почты"
+msgstr "Показывать кнопку эл. почты"
 
 msgctxt "SettingsOptions::social_buttons::email_display_on"
 msgid "Display on"
-msgstr "Отображать"
+msgstr "Показывать"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
@@ -691,7 +691,7 @@ msgstr "Настройки Google plus"
 
 msgctxt "SettingsOptions::social_buttons::gplus_enable"
 msgid "Show Google plus button"
-msgstr "Отображать кнопку Google plus"
+msgstr "Показывать кнопку Google Plus"
 
 msgctxt "SettingsOptions::social_buttons::gplus_href"
 msgid "Google plus href"
@@ -703,7 +703,7 @@ msgstr "Размер"
 
 msgctxt "SettingsOptions::social_buttons::gplus_annotation"
 msgid "Annotation"
-msgstr "Annotation"
+msgstr "Аннотация"
 
 msgctxt "SettingsOptions::social_buttons::gplus_width"
 msgid "Width"
@@ -715,95 +715,95 @@ msgstr "Выравнивание"
 
 msgctxt "SettingsOptions::social_buttons::gplus_expandto"
 msgid "Expand To"
-msgstr "Expand To"
+msgstr "Направление раскрытия виджета"
 
 msgctxt "SettingsOptions::social_buttons::gplus_recommendations"
 msgid "Recomendations"
-msgstr "Recomendations"
+msgstr "Рекомендации"
 
 msgctxt "SettingsOptions::social_buttons::gplus_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "Показывать"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::products"
 msgid "Product details pages"
-msgstr "Product details pages"
+msgstr "На страницах товаров"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::pages"
 msgid "Pages"
-msgstr "Pages"
+msgstr "На контентных страницах"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::small"
 msgid "Small"
-msgstr "Small"
+msgstr "Маленький"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::medium"
 msgid "Medium"
-msgstr "Medium"
+msgstr "Средний"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::standard"
 msgid "Standard"
-msgstr "Standard"
+msgstr "Стандартный"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::tall"
 msgid "Tall"
-msgstr "Tall"
+msgstr "Высокий"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::none"
 msgid "None"
-msgstr "None"
+msgstr "Нет"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::bubble"
 msgid "Bubble"
-msgstr "Bubble"
+msgstr "Бабл"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::inline"
 msgid "Inline"
-msgstr "Inline"
+msgstr "Внутри"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::left"
 msgid "Left"
-msgstr "Left"
+msgstr "Слева"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Справа"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::top"
 msgid "Top"
-msgstr "Top"
+msgstr "Вверх"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Вправо"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::bottom"
 msgid "Bottom"
-msgstr "Bottom"
+msgstr "Вниз"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::left"
 msgid "Left"
-msgstr "Left"
+msgstr "Влево"
 
 msgctxt "SettingsVariants::social_buttons::gplus_recommendations::yes"
 msgid "Yes"
-msgstr "Yes"
+msgstr "Да"
 
 msgctxt "SettingsVariants::social_buttons::gplus_recommendations::no"
 msgid "No"
-msgstr "No"
+msgstr "Нет"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "Показывать"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_display_on::products"
 msgid "Product details pages"
-msgstr "Product details pages"
+msgstr "На страницах товаров"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_display_on::pages"
 msgid "Pages"
-msgstr "Pages"
+msgstr "На контентных страницах"
 
 msgctxt "SettingsSections::social_buttons::pinterest"
 msgid "Pinterest"
@@ -811,49 +811,49 @@ msgstr "Pinterest"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_header"
 msgid "Pinterest settings"
-msgstr "Pinterest settings"
+msgstr "Настройки Pinterest"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_enable"
 msgid "Show Pinterest button"
-msgstr "Show Pinterest button"
+msgstr "Показывать кнопку Pinterest"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_size"
 msgid "Button size"
-msgstr "Button size"
+msgstr "Размер кнопки"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_size::20"
 msgid "Small"
-msgstr "Small"
+msgstr "Маленький"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_size::28"
 msgid "Large"
-msgstr "Large"
+msgstr "Большой"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_shape"
 msgid "Shape"
-msgstr "Shape"
+msgstr "Форма"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::rect"
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr "Прямоугольник"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
 msgid "Circular"
-msgstr "Circular"
+msgstr "Круг"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_color"
 msgid "Color"
-msgstr "Color"
+msgstr "Цвет"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::gray"
 msgid "Gray"
-msgstr "Gray"
+msgstr "Серый"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::red"
 msgid "Red"
-msgstr "Red"
+msgstr "Красный"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::white"
 msgid "White"
-msgstr "White"
+msgstr "Белый"
 
