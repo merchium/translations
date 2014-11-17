@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-13 07:00-0500\n"
+"PO-Revision-Date: 2014-11-16 05:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1687,7 +1687,7 @@ msgstr "ცვლილება"
 
 msgctxt "Languages::change_access_permission_to_config"
 msgid "Also it is recommended to change the access permissions for the config.local.php file. It should have 644 (read/write for the owner and read for others) permissions."
-msgstr "Also it is recommended to change the access permissions for the config.local.php file. It should have 644 (read/write for the owner and read for others) permissions."
+msgstr "ასევე რეკოემენდირებულია რომ შეცვალოთ წვდომა config.local.php -ფილზე 644 (წაკითხვა/ჩაწერა მფლობელისთვის ხოლო სხვებისთვის წაკითხვის უფლება)."
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change addons initialization"
@@ -3399,7 +3399,7 @@ msgstr "ტიპის რედაქტირება"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "საიტის შემცველობის რედაქტირება"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -4367,7 +4367,7 @@ msgstr "Browse themes"
 
 msgctxt "Languages::remove_theme"
 msgid "Remove theme"
-msgstr "თემის/გარსის წაშლა"
+msgstr "გარსის წაშლა"
 
 msgctxt "Languages::go_back"
 msgid "Go back"
@@ -10571,7 +10571,7 @@ msgstr "თქვენ უნდა შეავსოთ ყველა ა�
 
 msgctxt "Languages::text_forbidden_file_extension"
 msgid "It is not allowed to create/upload/rename files with the <b>.[ext]</b> extension."
-msgstr "Создавать/загружать/переименовывать файлы с расширением <b>.[ext]</b> запрещено."
+msgstr "დაუშვებელია შექმნა/ატვირთვა/სახელისგადარქმევა აღნშნული ფორმატის <b>.[ext]</b> ფაილებზე."
 
 msgctxt "Languages::text_forbidden_file_mime"
 msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
@@ -10583,7 +10583,7 @@ msgstr "This functionality is available only in the <strong>Full mode</strong>.<
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
-msgstr "Загружать файлы с расширением <b>.[ext]</b> запрещено. Допустимые расширения: <b>[exts]</b>"
+msgstr "დაუშვებელია აღნიშნული ფორმატის მქონე ფაილების  <b>.[ext]</b> ატვირთვა. დასაშვები ფორმატებია: <b>[exts]</b>"
 
 msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
@@ -10695,7 +10695,7 @@ msgstr "Sorry, but nothing matched your search criteria. Please try again with s
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension here."
+msgstr "აღნიშნული ფორმატის  <b>.[ext]</b> ატვირთვა დაუშვებელია."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
@@ -11475,7 +11475,7 @@ msgstr "ღილაკები"
 
 msgctxt "Languages::theme_editor.close"
 msgid "Close theme editor"
-msgstr "თემის/გარსის რედაქტორის დახურვა"
+msgstr "გარსის რედაქტორის დახურვა"
 
 msgctxt "Languages::theme_editor.colors"
 msgid "Colors"
@@ -13017,7 +13017,7 @@ msgstr "ჩართულია ავტომატური ქეშირ�
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
-msgstr "ავტომატური ქეშირება გათიშულია.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">ეს ბმული</a> ცვლილებების შენახვა."
+msgstr "ავტომატური ქეშირება გამორთულია.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">ამ ბმულზე</a>."
 
 msgctxt "Languages::warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
@@ -13337,7 +13337,7 @@ msgstr "გარსის ატვირთვა"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
-msgstr "ახალი გარსის ატვირთვა და დაინსტალირება არის შესანიშნავი საშუალება რათა თქვენი მაღაზია კიდევ უფრო გამორჩეული გახადოთ. თქვენ შეგიძლიათ მონიშნოთ ასატვირთად ფაილები [exts] და დააჭიროთ<strong>ატვირთვას</strong>."
+msgstr "ახალი გარსის ატვირთვა და დაინსტალირება არის შესანიშნავი საშუალება რათა თქვენი მაღაზია კიდევ უფრო გამორჩეული გახადოთ. თქვენ შეგიძლიათ მონიშნოთ ასატვირთად ფაილები [exts] და დააჭიროთ <strong>ატვირთვას</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13593,7 +13593,7 @@ msgstr "Marketplace"
 
 msgctxt "Languages::marketplace_find_more"
 msgid "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
-msgstr "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
+msgstr "იპოვეთ მეტი მოდულები და გარსები <a href=\"[href]\" target=\"_blank\">Marketplace</a>-ზე"
 
 msgctxt "Languages::extract_archive"
 msgid "Extract archive"
@@ -13693,7 +13693,7 @@ msgstr "გზავნილის პარამეტრები"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
-msgstr "საიტის რუქა"
+msgstr "საიტის რუკა"
 
 msgctxt "SettingsSections::Stores"
 msgid "Stores"
@@ -13717,11 +13717,11 @@ msgstr "ანგარიშსწორებისას დაცული �
 
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
-msgstr "უსაფრთხო კავშირის დამყარება ადმინისტრატორის პანელთან"
+msgstr "დაცული კავშირის დამყარება ადმინისტრატორის პანელთან"
 
 msgctxt "SettingsOptions::secure_auth"
 msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "დაცული კავშირის გამოყენება ავტორიზაციისას, პროფაილში და შეკვეთის გვერდებზე"
+msgstr "დაცული კავშირის გამოყენება ავტორიზაციის, პროფაილის და შეკვეთის გვერდებზე"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
