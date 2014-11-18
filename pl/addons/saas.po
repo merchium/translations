@@ -30,8 +30,8 @@ msgid "The value of the <strong>Custom domain</strong> parameter mentioned by yo
 msgstr "The value of the <strong>Custom domain</strong> parameter mentioned by you already belongs to another company."
 
 msgctxt "Languages::saas.text_domains_dns"
-msgid "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href="[stores_url]">Stores</a> page and select the storefront. Pick the new domain in the <strong>Custom domain</strong> drop-down list and click the <strong>Save</strong> button.</li></ol>"
-msgstr "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href="[stores_url]">Stores</a> page and select the storefront. Pick the new domain in the <strong>Custom domain</strong> drop-down list and click the <strong>Save</strong> button.</li></ol>"
+msgid "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href="[stores_url]">Stores</a> page and select the storefront. Enter the new domain in the <strong>Storefront URL</strong> field and click the <strong>Save</strong> button.</li></ol>"
+msgstr "<p>Assign a custom domain to a storefront by following these steps:</p><ol><li>Login to your domain registrar account and add a new <strong>A-record</strong> with this IP address: <strong>[ip_address]</strong>.</li><li>Add the new domain by clicking the <strong>+</strong> button in the upper right corner of this page.</li><li>Go to the <a href="[stores_url]">Stores</a> page and select the storefront. Enter the new domain in the <strong>Storefront URL</strong> field and click the <strong>Save</strong> button.</li></ol>"
 
 msgctxt "Languages::saas.unlimited"
 msgid "Unlimited"
@@ -381,11 +381,3 @@ msgstr "Incorrect theme ID - only latin letters, numbers and undescore are accep
 msgctxt "Languages::saas.error_last_storefront"
 msgid "This is the last storefront in your store and it can not be deleted."
 msgstr "This is the last storefront in your store and it can not be deleted."
-
-msgctxt "Languages::saas.storefront_path"
-msgid "Storefront path"
-msgstr "Storefront path"
-
-msgctxt "Languages::saas.storefront_path_tooltip"
-msgid "Unique path of the storefront in this store. Can be empty."
-msgstr "Unique path of the storefront in this store. Can be empty."
