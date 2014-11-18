@@ -85,12 +85,12 @@ msgid "Yandex API access is required (see settings above)"
 msgstr "Yandex API access is required (see settings above)"
 
 msgctxt "Languages::yandex_metrika_oauth_info_part1"
-msgid "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
-msgstr "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
+msgid "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Metrika permissions to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
+msgstr "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Metrika permissions to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
 
 msgctxt "Languages::yandex_metrika_oauth_info_part2"
-msgid "Please <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
-msgstr "Please <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
+msgid "After you've created the app and when you ever <a href=\"[edit_app_uri]\" target=\"_blank\">modify it</a>, <a href=\"[auth_uri]\" target=\"_blank\">click here to get a new auth token</a>"
+msgstr "After you've created the app and when you ever <a href=\"[edit_app_uri]\" target=\"_blank\">modify it</a>, <a href=\"[auth_uri]\" target=\"_blank\">click here to get a new auth token</a>"
 
 msgctxt "Languages::yandex_metrika_engaged_visitor_text"
 msgid "Engaged visitor (a customer viewed over five pages during the visit)"

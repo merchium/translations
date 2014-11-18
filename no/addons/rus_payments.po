@@ -613,8 +613,12 @@ msgid "Please set the following URLs in the Vsevkredit admin area:<br /><b>URL f
 msgstr "Please set the following URLs in the Vsevkredit admin area:<br /><b>URL for API:</b> [api_url]<br /><b>Return URL:</b> [return_url]"
 
 msgctxt "Languages::text_webmoney_notice"
-msgid "In order to set up WebMoney payment method, you should set up Web Merchant Interface for processing payments in the following way:<br /><br />1. Check the \"Send parameters in the pre-request\" checkbox;<br />2. Check the \"Allow overriding URL from Payment Request Form\" checkbox;<br />3. Set the \"MD5\" value in the \"Signature algorithm\" field.<br />"
-msgstr "In order to set up WebMoney payment method, you should set up Web Merchant Interface for processing payments in the following way:<br /><br />1. Check the \"Send parameters in the pre-request\" checkbox;<br />2. Check the \"Allow overriding URL from Payment Request Form\" checkbox;<br />3. Set the \"MD5\" value in the \"Signature algorithm\" field.<br />"
+msgid "In order to set up WebMoney payment method, you should set up Web Merchant Interface for processing payments in the following way:<br /><br />1. Check the \"Send parameters in the pre-request\" checkbox;<br />2. Check the \"Allow overriding URL from Payment Request Form\" checkbox;<br />3. Choose the required value in the \"Signature algorithm\" field and in payment settings.<br />"
+msgstr "In order to set up WebMoney payment method, you should set up Web Merchant Interface for processing payments in the following way:<br /><br />1. Check the \"Send parameters in the pre-request\" checkbox;<br />2. Check the \"Allow overriding URL from Payment Request Form\" checkbox;<br />3. Choose the required value in the \"Signature algorithm\" field and in payment settings.<br />"
+
+msgctxt "Languages::addons.rus_payments.sign_algo"
+msgid "Signature algorithm"
+msgstr "Signature algorithm"
 
 msgctxt "Languages::lmi_payee_purse"
 msgid "Payee purse"

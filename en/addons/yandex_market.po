@@ -233,12 +233,12 @@ msgid "Credit card on delivery order"
 msgstr "Credit card on delivery order"
 
 msgctxt "Languages::yml_aouth_info_part1"
-msgid "Need to <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register application</a>. On register process need to set <b>[callback_uri]</b> to the \"Callback URI\" field. After registration you need to set up \"Application ID\" and \"Application password\" fields."
-msgstr "Need to <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register application</a>. On register process need to set <b>[callback_uri]</b> to the \"Callback URI\" field. After registration you need to set up \"Application ID\" and \"Application password\" fields."
+msgid "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Market permissions to continue. On register process need to set <b>[callback_uri]</b> to the \"Callback URI\" field. After registration you need to set up \"Application ID\" and \"Application password\" fields."
+msgstr "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Market permissions to continue. On register process need to set <b>[callback_uri]</b> to the \"Callback URI\" field. After registration you need to set up \"Application ID\" and \"Application password\" fields."
 
 msgctxt "Languages::yml_aouth_info_part2"
-msgid "You need to <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
-msgstr "You need to <a href=\"[auth_uri]\" target=\"_blank\">authenticate application</a>"
+msgid "After you've created the app and when you ever <a href=\"[edit_app_uri]\" target=\"_blank\">modify it</a>, <a href=\"[auth_uri]\" target=\"_blank\">click here to get a new auth token</a>"
+msgstr "After you've created the app and when you ever <a href=\"[edit_app_uri]\" target=\"_blank\">modify it</a>, <a href=\"[auth_uri]\" target=\"_blank\">click here to get a new auth token</a>"
 
 msgctxt "Languages::yml_address"
 msgid "Address fron Yandex.Market"
