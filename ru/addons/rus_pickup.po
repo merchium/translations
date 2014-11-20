@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-12 04:44-0500\n"
+"PO-Revision-Date: 2014-11-20 08:00-0500\n"
 
 msgctxt "Addons::name::rus_pickup"
 msgid "Russian localization — Pickup"
@@ -25,6 +25,10 @@ msgctxt "Languages::rus_pickup.select_stores"
 msgid "Select stores"
 msgstr "Выберите магазины"
 
+msgctxt "Languages::rus_pickup.pick_up_points"
+msgid "Pick-up points"
+msgstr "Pick-up points"
+
 msgctxt "Languages::rus_pickup.stores_position"
 msgid "The \"Position\" field in the store settings"
 msgstr "Поле \"Позиция\" в настройках магазина"
@@ -40,6 +44,22 @@ msgstr "Выбранные магазины"
 msgctxt "Languages::rus_pickup.available_fields"
 msgid "Available stores"
 msgstr "Доступные магазины"
+
+msgctxt "Languages::rus_pickup.display_ml"
+msgid "Map and list"
+msgstr "Map and list"
+
+msgctxt "Languages::rus_pickup.display_l"
+msgid "List"
+msgstr "List"
+
+msgctxt "Languages::rus_pickup.display_m"
+msgid "Map"
+msgstr "Map"
+
+msgctxt "Languages::rus_pickup.display"
+msgid "Locations list view on the checkout page"
+msgstr "Locations list view on the checkout page"
 
 msgctxt "Languages::rus_pickup.pickup"
 msgid "Pickup"

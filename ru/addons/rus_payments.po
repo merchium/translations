@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-20 07:00-0500\n"
+"PO-Revision-Date: 2014-11-20 08:00-0500\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
@@ -1254,4 +1254,8 @@ msgstr "Тестовый"
 msgctxt "Languages::salt"
 msgid "Salt"
 msgstr "Salt"
+
+msgctxt "Languages::addons.rus_payments.payments_was_disabled"
+msgid "The following payment methods were disabled: [payments]."
+msgstr "The following payment methods were disabled: [payments]."
 
