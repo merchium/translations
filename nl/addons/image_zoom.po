@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-19 10:00-0500\n"
+"PO-Revision-Date: 2014-11-19 12:00-0500\n"
 
 msgctxt "Addons::name::image_zoom"
 msgid "Image zoom"
@@ -39,7 +39,7 @@ msgstr "Positie zoom"
 
 msgctxt "SettingsOptions::image_zoom::cz_zoom_size_mode"
 msgid "Zoom size mode"
-msgstr "Zoommodus grootte"
+msgstr "Zoom grootte"
 
 msgctxt "SettingsOptions::image_zoom::cz_caption_position"
 msgid "Caption position"
@@ -47,23 +47,23 @@ msgstr "Positie onderschrift"
 
 msgctxt "SettingsOptions::image_zoom::cz_ease_time"
 msgid "Ease time"
-msgstr "Gemakkelijke tijd"
+msgstr "Versneltijd"
 
 msgctxt "SettingsOptions::image_zoom::cz_zoom_fly_out"
 msgid "Zoom fly out"
-msgstr "Zoom uitvliegen"
+msgstr "Zoom laten uitvliegen"
 
 msgctxt "SettingsTooltips::image_zoom::cz_opacity"
 msgid "Opacity of tint 0-1. If zero, no tint will be visible."
-msgstr "Ondoorzichtigheid van tint 0-1. Indien nul, zal er geen tint zichtbaar zijn."
+msgstr "Dekking van tint 0 tot 1. Indien 0 zal er geen tint zichtbaar zijn."
 
 msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
 msgid "Duration of the animation effects in milliseconds."
-msgstr "Duur van de animatie-effecten in milliseconden."
+msgstr "Duur van animatie-effecten in milliseconden."
 
 msgctxt "SettingsTooltips::image_zoom::cz_tint_color_picker"
 msgid "Color to use for the tint effect. Example: #ffffff."
-msgstr "Kleur te gebruiken voor het tint effect. Voorbeeld: #ffffff."
+msgstr "Te gebruiken kleur voor het tint effect. Bijvoorbeeld: #ffffff."
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
 msgid "Specifies position of zoom window. If numeric (0-15), position is relative to page image as shown by the following key (blue squares represent zoom window). If a string is supplied, value will be used as a selector to pinpoint the exact position and size of an element in the page. If the value \"inside\" is specified, the zoom image will appear inside the page image.<br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
@@ -71,11 +71,11 @@ msgstr "Specificeert de positie van een zoom venster. Als numeriek (0-15), de po
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_size_mode"
 msgid "Defines the rule for sizing the zoom window and lens."
-msgstr "Hiermee definieert u de regel voor de grootte van het zoom-venster en de lens."
+msgstr "Hiermee definieert u de grootte van het zoom-venster en de lens."
 
 msgctxt "SettingsTooltips::image_zoom::cz_caption_position"
 msgid "Position of caption, \"top\" or \"bottom\"."
-msgstr "Positie van onderschrift, \"boven\" of \"onder\"."
+msgstr "De positie van onderschrift, boven of onder."
 
 msgctxt "SettingsTooltips::image_zoom::cz_ease_time"
 msgid "Number of milliseconds of mouse easing movement of zoom image. The bigger the number, the more easing. Zero means no easing."
@@ -83,7 +83,7 @@ msgstr "Aantal milliseconden van de muis beweging voor versoepeling zoom afbeeld
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_fly_out"
 msgid "Turns 'flying' zoom animation on or off."
-msgstr "Hiermee schakelt u 'vliegend' zoom animatie in- of uit."
+msgstr "Schakel de animatie 'zoom laten uitvliegen' in of uit."
 
 msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
 msgid "Zoom position №0"
