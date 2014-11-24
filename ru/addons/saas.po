@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-21 10:00-0500\n"
+"PO-Revision-Date: 2014-11-21 15:00-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -469,4 +469,8 @@ msgstr "Text about subscription deactivation and reactivation posibility only af
 msgctxt "Languages::saas.error_disabling_subscription"
 msgid "Error occured while disabling subscription"
 msgstr "Error occured while disabling subscription"
+
+msgctxt "Languages::saas.text_yandex_money_urls"
+msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
+msgstr "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
 

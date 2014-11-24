@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-21 11:00-0500\n"
+"PO-Revision-Date: 2014-11-24 07:00-0500\n"
 
 msgctxt "Addons::name::yandex_market"
 msgid "Yandex.Market"
@@ -239,7 +239,7 @@ msgstr "Оплата банковской картой при получении
 
 msgctxt "Languages::yml_aouth_info_part1"
 msgid "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Market permissions to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
-msgstr "Please <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">register an application</a> with full Yandex.Market permissions to continue. Use this value as the <b>Callback URL</b> param: <i>[callback_uri]</i>. After the registration, you will be able to fill out the \"Application ID\" and \"Application password\" fields on this page."
+msgstr "Пожалуйста, <a href=\"https://oauth.yandex.ru/client/new\" target=\"_blank\">создайте приложение</a> с полным набором прав для Яндекс.Маркета. Используйте следующее значение в поле <b>Callback URL</b>: <i>[callback_uri]</i>. После этого заполните поля «ID приложения» и «Пароль приложения» на этой странице."
 
 msgctxt "Languages::yml_aouth_info_part2"
 msgid "After you've created the app and when you ever <a href=\"[edit_app_uri]\" target=\"_blank\">modify it</a>, <a href=\"[auth_uri]\" target=\"_blank\">click here to get a new auth token</a>"
