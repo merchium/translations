@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-13 07:00-0500\n"
+"PO-Revision-Date: 2014-11-25 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -15452,4 +15452,136 @@ msgstr "Public files"
 msgctxt "Languages::templates"
 msgid "Templates"
 msgstr "Templates"
+
+msgctxt "Languages::payments.realex.referring_url"
+msgid "Please supply this URL to your Realex Payments account manager"
+msgstr "Please supply this URL to your Realex Payments account manager"
+
+msgctxt "Languages::payments.realex.referring_ip"
+msgid "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+
+msgctxt "Languages::payments.realex.settlement"
+msgid "Settlement"
+msgstr "Settlement"
+
+msgctxt "Languages::payments.realex.delayed_settlement"
+msgid "Delayed settlement"
+msgstr "Delayed settlement"
+
+msgctxt "Languages::payments.realex.auto_settled"
+msgid "Auto-settled"
+msgstr "Auto-settled"
+
+msgctxt "Languages::payments.realex.text_status_map"
+msgid "Realex to CS-Cart order status convertion map"
+msgstr "Realex to CS-Cart order status convertion map"
+
+msgctxt "Languages::payments.realex.subaccount"
+msgid "Subaccount"
+msgstr "Subaccount"
+
+msgctxt "Languages::payments.realex.liability_shift"
+msgid "Liability Shift"
+msgstr "Liability Shift"
+
+msgctxt "Languages::payments.realex.liability_shift_required"
+msgid "Liability Shift required"
+msgstr "Liability Shift required"
+
+msgctxt "Languages::payments.realex.3d_secure_message"
+msgid "3-D Secure message"
+msgstr "3-D Secure message"
+
+msgctxt "Languages::payments.realex.connector_error"
+msgid "Connector error"
+msgstr "Connector error"
+
+msgctxt "Languages::payments.realex.incorrect_request"
+msgid "Incorrect XML message formation or content"
+msgstr "Incorrect XML message formation or content"
+
+msgctxt "Languages::payments.realex.realex_error"
+msgid "Error with Realex systems"
+msgstr "Error with Realex systems"
+
+msgctxt "Languages::payments.realex.bank_error"
+msgid "Error with bank systems"
+msgstr "Error with bank systems"
+
+msgctxt "Languages::payments.realex.card_lost_or_stolen"
+msgid "Card reported lost or stolen"
+msgstr "Card reported lost or stolen"
+
+msgctxt "Languages::payments.realex.refferal"
+msgid "Referral"
+msgstr "Referral"
+
+msgctxt "Languages::payments.realex.avs_postcode"
+msgid "AVS Postcode"
+msgstr "AVS Postcode"
+
+msgctxt "Languages::payments.realex.avs_address"
+msgid "AVS Address"
+msgstr "AVS Address"
+
+msgctxt "Languages::payments.realex.tss_result"
+msgid "TSS"
+msgstr "TSS"
+
+msgctxt "Languages::payments.realex.eci"
+msgid "ECI"
+msgstr "ECI"
+
+msgctxt "Languages::payments.realex.cavv"
+msgid "CAVV"
+msgstr "CAVV"
+
+msgctxt "Languages::payments.realex.xid"
+msgid "XID"
+msgstr "XID"
+
+msgctxt "Languages::payments.realex.result_message"
+msgid "Result message"
+msgstr "Result message"
+
+msgctxt "Languages::payments.realex.result_code"
+msgid "Result code"
+msgstr "Result code"
+
+msgctxt "Languages::payments.realex.transaction_pasref"
+msgid "Transaction PASREF"
+msgstr "Transaction PASREF"
+
+msgctxt "Languages::payments.realex.transaction_order_id"
+msgid "Transaction Order ID"
+msgstr "Transaction Order ID"
+
+msgctxt "Languages::payments.realex.avs.matched"
+msgid "Matched"
+msgstr "Matched"
+
+msgctxt "Languages::payments.realex.avs.not_matched"
+msgid "Not matched"
+msgstr "Not matched"
+
+msgctxt "Languages::payments.realex.avs.problem_with_check"
+msgid "Problem with check"
+msgstr "Problem with check"
+
+msgctxt "Languages::payments.realex.avs.unable_to_check"
+msgid "Unable to check"
+msgstr "Unable to check"
+
+msgctxt "Languages::payments.realex.avs.partial_match"
+msgid "Partial match"
+msgstr "Partial match"
+
+msgctxt "Languages::payments.realex.wrong_card_type"
+msgid "This payment is unavailable for this type of credit cards."
+msgstr "This payment is unavailable for this type of credit cards."
+
+msgctxt "Languages::payments.realex.incorrect_valid_trhu"
+msgid "Incorrect values of 'Valid thru' fields."
+msgstr "Incorrect values of 'Valid thru' fields."
 
