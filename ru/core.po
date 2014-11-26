@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-25 07:02-0500\n"
+"PO-Revision-Date: 2014-11-26 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3999,7 +3999,7 @@ msgstr "Характеристики"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Разделитель вариантов характеристики"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -10535,7 +10535,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Разделитель между значениями вариантов характеристики товара."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -15455,19 +15455,19 @@ msgstr "Шаблоны"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Пожалуйста, предоставьте этот URL менеджеру вашего счета в Realex Payments"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Пожалуйста, предоставьте IP-адрес вашего сервера менеджеру вашего счета в Realex Payments"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Расчет"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Отложенный расчет"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
@@ -15475,39 +15475,39 @@ msgstr "Auto-settled"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status convertion map"
-msgstr "Realex to CS-Cart order status convertion map"
+msgstr "Соответствие статусов заказов Realex и CS-Cart"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Субсчет"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Перенос ответственности (liability shift)"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Необходим перенос ответственности (liability shift)"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Сообщение 3-D Secure"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Connector error"
-msgstr "Connector error"
+msgstr "Ошибка соединения"
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Некорректный формат или содержимое XML-сообщения"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Ошибка на стороне Realex"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Ошибка на стороне банка"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
