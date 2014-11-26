@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-21 15:00-0500\n"
+"PO-Revision-Date: 2014-11-25 07:02-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -400,59 +400,59 @@ msgstr "Уникальный относительно этого домена п
 
 msgctxt "Languages::saas.error_theme_validation"
 msgid "Failed to read theme package."
-msgstr "Failed to read theme package."
+msgstr "Не удалось прочитать архив темы."
 
 msgctxt "Languages::saas.error_theme_installed"
 msgid "Looks like this theme is already installed. If you wish to re-install it, please remove it first."
-msgstr "Looks like this theme is already installed. If you wish to re-install it, please remove it first."
+msgstr "Похоже, эта тема уже установлена. Если вы хотите повторно установить его, пожалуйста, сначала удалите ее."
 
 msgctxt "Languages::saas.error_incorrect_theme_package"
 msgid "The theme package is incorrect. Export any of your themes to see the correct package contents."
-msgstr "The theme package is incorrect. Export any of your themes to see the correct package contents."
+msgstr "Архив с темой имеет некорректный формат. Сделайте экспорт любой из ваших тем, чтобы увидеть корректное содержимое архива."
 
 msgctxt "Languages::saas.order_received_but_not_processed_text"
 msgid "Your order has been received, but not processed yet. Please, try installing the theme later. "
-msgstr "Your order has been received, but not processed yet. Please, try installing the theme later. "
+msgstr "Ваш заказ был размещен, но еще не обработан. Пожалуйста, попробуйте установить тему позже."
 
 msgctxt "Languages::saas.error_install_theme"
 msgid "Error occurred while installing theme"
-msgstr "Error occurred while installing theme"
+msgstr "При установке темы произошла ошибка"
 
 msgctxt "Languages::saas.purchase"
 msgid "Purchase"
-msgstr "Purchase"
+msgstr "Купить"
 
 msgctxt "Languages::saas.error_theme_unallowed_path"
 msgid "The [path] path is not allowed in theme package."
-msgstr "The [path] path is not allowed in theme package."
+msgstr "Путь [path] не может использоваться в архиве темы."
 
 msgctxt "Languages::saas.theme_installed"
 msgid "Theme has been installed successfully."
-msgstr "Theme has been installed successfully."
+msgstr "Темы была успешно установлена."
 
 msgctxt "Languages::saas.install_theme"
 msgid "Install theme"
-msgstr "Install theme"
+msgstr "Установить тему"
 
 msgctxt "Languages::saas.themes_find_more"
 msgid "Find more themes in <a href=\"[href]\">Marketplace</a>"
-msgstr "Find more themes in <a href=\"[href]\">Marketplace</a>"
+msgstr "Больше приложений и тем вы найдете в <a href=\"[href]\" target=\"_blank\">Маркете</a>."
 
 msgctxt "Languages::saas.error_theme_unallowed_extension"
 msgid "The file [path] has [ext] extension which is not allowed in theme package."
-msgstr "The file [path] has [ext] extension which is not allowed in theme package."
+msgstr "Файл [path] имеет расширение [ext], которое не может использоваться в архиве темы."
 
 msgctxt "Languages::saas.theme_installed"
 msgid "Theme has been installed successfully."
-msgstr "Theme has been installed successfully."
+msgstr "Темы была успешно установлена."
 
 msgctxt "Languages::saas.install_theme"
 msgid "Install theme"
-msgstr "Install theme"
+msgstr "Установить тему"
 
 msgctxt "Languages::saas.fraud_theme_text"
 msgid "Using thise theme is illegaal"
-msgstr "Using thise theme is illegaal"
+msgstr "Использование этой темы незаконно"
 
 msgctxt "Languages::saas.fraud"
 msgid "Fraud"
@@ -460,7 +460,7 @@ msgstr "Fraud"
 
 msgctxt "Languages::saas.theme_revalidated"
 msgid "The theme is now valid"
-msgstr "The theme is now valid"
+msgstr "Теперь тема корректна"
 
 msgctxt "Languages::saas.confirm_subscription_cancallation_text"
 msgid "Text about subscription deactivation and reactivation posibility only after new purchase"
@@ -468,9 +468,9 @@ msgstr "Text about subscription deactivation and reactivation posibility only af
 
 msgctxt "Languages::saas.error_disabling_subscription"
 msgid "Error occured while disabling subscription"
-msgstr "Error occured while disabling subscription"
+msgstr "При отключении подписки произошла ошибка"
 
 msgctxt "Languages::saas.text_yandex_money_urls"
 msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
-msgstr "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
+msgstr "Используйте следующие URL в настройках Яндекс.Денег:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Создание контрагента</a><p>Если вы собираетесь использовать Веб-сервисы Яндекс.Денег для Контрагентов, пожалуйста причитайте статью <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Процедура обмена сертификатами</a>, после этого получите сертификат и настройте Веб-сервисы Яндекс.Денег для Контрагентов в секции ниже.</p>"
 
