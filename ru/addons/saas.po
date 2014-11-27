@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-26 13:00-0500\n"
+"PO-Revision-Date: 2014-11-27 05:00-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -105,6 +105,18 @@ msgstr "Хранилище"
 msgctxt "Languages::saas.file_storage"
 msgid "file storage"
 msgstr "На диске"
+
+msgctxt "Languages::saas.edit_robots_txt"
+msgid "Edit robots.txt"
+msgstr "Edit robots.txt"
+
+msgctxt "Languages::saas.enjoy_priority_support"
+msgid "Enjoy priority support"
+msgstr "Enjoy priority support"
+
+msgctxt "Languages::saas.upload_files_via_webdav"
+msgid "Upload files via WebDAV"
+msgstr "Upload files via WebDAV"
 
 msgctxt "Languages::saas.custom_domain_name"
 msgid "Custom domain name"
@@ -430,6 +442,10 @@ msgctxt "Languages::saas.theme_installed"
 msgid "Theme has been installed successfully."
 msgstr "Темы была успешно установлена."
 
+msgctxt "Languages::saas.install_theme"
+msgid "Install theme"
+msgstr "Установить тему"
+
 msgctxt "Languages::saas.themes_find_more"
 msgid "Find more themes in <a href=\"[href]\">Marketplace</a>"
 msgstr "Больше приложений и тем вы найдете в <a href=\"[href]\" target=\"_blank\">Маркете</a>."
@@ -447,8 +463,8 @@ msgid "Install theme"
 msgstr "Установить тему"
 
 msgctxt "Languages::saas.fraud_theme_text"
-msgid "Using this theme is illegal"
-msgstr "Using this theme is illegal"
+msgid "Using thise theme is illegaal"
+msgstr "Using thise theme is illegaal"
 
 msgctxt "Languages::saas.fraud"
 msgid "Fraud"
@@ -458,11 +474,15 @@ msgctxt "Languages::saas.theme_revalidated"
 msgid "The theme is now valid"
 msgstr "Теперь тема корректна"
 
+msgctxt "Languages::saas.confirm_subscription_cancallation_text"
+msgid "Text about subscription deactivation and reactivation posibility only after new purchase"
+msgstr "Text about subscription deactivation and reactivation posibility only after new purchase"
+
 msgctxt "Languages::saas.error_disabling_subscription"
 msgid "Error occured while disabling subscription"
 msgstr "При отключении подписки произошла ошибка"
 
-msgctxt "Languages::saas.confirm_subscription_cancellation_text"
-msgid "Please confirm subscription cancellation"
-msgstr "Please confirm subscription cancellation"
+msgctxt "Languages::saas.text_yandex_money_urls"
+msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
+msgstr "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
 
