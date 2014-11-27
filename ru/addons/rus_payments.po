@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-26 04:00-0500\n"
+"PO-Revision-Date: 2014-11-27 08:02-0500\n"
 
 msgctxt "Addons::name::rus_payments"
 msgid "Russian localization — Russian payments"
@@ -826,6 +826,14 @@ msgstr "Мобильный телефон"
 msgctxt "Languages::yandex_payment_webmoney"
 msgid "WebMoney"
 msgstr "WebMoney"
+
+msgctxt "Languages::yandex_payment_alfabank"
+msgid "Alfa-Click"
+msgstr "Альфа-Клик"
+
+msgctxt "Languages::yandex_payment_sberbank"
+msgid "Sberbank online"
+msgstr "Сбербанк онлайн"
 
 msgctxt "Languages::text_yandex_money_urls"
 msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"https://money.yandex.ru/joinups/\" target=\"_blank\">Merchant Account Request</a>"

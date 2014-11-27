@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-26 10:01-0500\n"
+"PO-Revision-Date: 2014-11-27 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -9291,7 +9291,7 @@ msgstr "Prawda"
 
 msgctxt "Languages::ship_usps_mailtype"
 msgid "Type of Mail"
-msgstr "Type of Mail"
+msgstr "Typ poczty"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
@@ -9471,7 +9471,7 @@ msgstr "Ustawienia mapy serwisu"
 
 msgctxt "Languages::site_number"
 msgid "Site number (EPT)"
-msgstr "Site number (EPT)"
+msgstr "Numer strony (EPT)"
 
 msgctxt "Languages::size"
 msgid "Size"
@@ -10111,7 +10111,7 @@ msgstr "<b>Uwaga</b>: Aby śledzić zamówienia za pomocą oprogramowania CS CAR
 
 msgctxt "Languages::text_2co_ins"
 msgid "Instant Notification Service (INS)"
-msgstr "Instant Notification Service (INS)"
+msgstr "Natychmiastowe powiadomienie (INS)"
 
 msgctxt "Languages::text_additional_detailed_image"
 msgid "(displayed in popup window)"
@@ -10180,10 +10180,6 @@ msgstr "For testing purposes, the Merchant URL may be the HTTP link to your stor
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
 msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
-
-msgctxt "Languages::text_paypal_surcharge"
-msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported. If you set any surcharges for the Paypal Express Checkout, a customer will not be able to place orders using this payment method. An error will be displayed at the checkout."
-msgstr "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported. If you set any surcharges for the Paypal Express Checkout, a customer will not be able to place orders using this payment method. An error will be displayed at the checkout."
 
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
@@ -10840,10 +10836,6 @@ msgstr "Płatność nie może zostać usunięta."
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
 msgstr "Prosimy o cierpliwość, trwa przetwarzanie płatności..."
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status convertion map"
-msgstr "PayPal to CS-Cart order status convertion map"
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
@@ -15459,7 +15451,7 @@ msgstr "Please supply this URL to your Realex Payments account manager"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Podaj adres IP serwera dla Menedżera płatności Realex"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
@@ -15467,11 +15459,11 @@ msgstr "Settlement"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Opóźnione rozstrzyganie sporów"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Automatyczne rozstrzyganie sporów"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
@@ -15483,47 +15475,47 @@ msgstr "Subaccount"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Przeniesienie odpowiedzialności"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Wymagane przeniesienie odpowiedzialności"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Wiadomość zabezpieczona 3D Secure "
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Realex konto zostało zawieszone. Aby uzyskać więcej informacji, należy skontaktować się z obsługą Realex."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Nieprawidłowa wiadomość XML lub zawartość"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Błąd z systemu Realex"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Błąd z systemów bankowych"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Karta zgłoszona jako zgubiona lub ukradziona"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Skierowane przez bank"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "Kod pocztowy AVS"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "Adres AVS"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15531,7 +15523,7 @@ msgstr "TSS"
 
 msgctxt "Languages::payments.realex.eci"
 msgid "ECI"
-msgstr "ECI"
+msgstr "INE"
 
 msgctxt "Languages::payments.realex.cavv"
 msgid "CAVV"
@@ -15543,43 +15535,43 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Zwracany komunikat"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Zwracany kod"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Transakcja PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "Identyfikator transakcji zamówienia"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Dopasowany"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Nie dopasowany"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problem ze sprawdzeniem"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Nie można sprawdzić"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Częściowe dopasowanie"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Płatność ta jest niedostępna dla tego typu kart kredytowych."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
@@ -15587,7 +15579,7 @@ msgstr "Incorrect values of 'Valid thru' fields."
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Ustawienia SEO sklepu."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15595,13 +15587,13 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Edycja: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Edycja pliku robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Przywrócić domyślny plik robots.txt"
 

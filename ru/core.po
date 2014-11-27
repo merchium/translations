@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-26 10:01-0500\n"
+"PO-Revision-Date: 2014-11-27 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10181,10 +10181,6 @@ msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
 msgstr "<b>Внимание:</b> Согласно <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>пользовательскому соглашению Amazon</a> (B4.2) доплаты к основной сумме не поддерживаются. Любые установленные Вами доплаты не будут использованы при платежах через Amazon Checkout."
 
-msgctxt "Languages::text_paypal_surcharge"
-msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported. If you set any surcharges for the Paypal Express Checkout, a customer will not be able to place orders using this payment method. An error will be displayed at the checkout."
-msgstr "<b>Внимание:</b> Согласно <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>политике PayPal</a> (4.6) доплаты к основной сумме не поддерживаются. Любые установленные Вами доплаты не будут использованы при платежах через PayPal."
-
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
 msgstr "Для оформления заказа Вы должны зарегистрироваться."
@@ -10840,10 +10836,6 @@ msgstr "При удалении платежной системы возникл
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
 msgstr "Пожалуйста подождите пока обрабатываются детали платежа..."
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status convertion map"
-msgstr "Соответствия статусов заказов между магазином и PayPal"
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
@@ -15587,7 +15579,7 @@ msgstr "Неверные значения полей «Valid thru»."
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Настройка поисковой оптимизации."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15595,13 +15587,13 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Редактирование: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Изменить файл robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Восстановить стандартный robots.txt"
 
