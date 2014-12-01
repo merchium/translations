@@ -10176,10 +10176,6 @@ msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
 msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
 
-msgctxt "Languages::text_paypal_surcharge"
-msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported. If you set any surcharges for the Paypal Express Checkout, a customer will not be able to place orders using this payment method. An error will be displayed at the checkout."
-msgstr "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported. If you set any surcharges for the Paypal Express Checkout, a customer will not be able to place orders using this payment method. An error will be displayed at the checkout."
-
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
 msgstr "You must be a registered user to proceed to checkout"
@@ -10413,8 +10409,8 @@ msgid "Logo for the <b>customer</b> area"
 msgstr "Logo for the <b>customer</b> area"
 
 msgctxt "Languages::text_datatrans_notice"
-msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in Post format'</b>.<br /> -&nbsp;Set <u>'Approved URL'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in Post format'</b>.<br /> -&nbsp;Set <u>'Approved URL'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10835,10 +10831,6 @@ msgstr "Payment cannot be deleted."
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
 msgstr "Please wait while processing the payment details..."
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status convertion map"
-msgstr "PayPal order status convertion map"
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"

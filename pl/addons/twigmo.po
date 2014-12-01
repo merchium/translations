@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-27 13:00-0500\n"
+"PO-Revision-Date: 2014-11-30 08:00-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -719,11 +719,11 @@ msgstr "Zapisane"
 
 msgctxt "Languages::twapp_admin_url"
 msgid "Admin URL"
-msgstr "Admin URL"
+msgstr "Adres URL panelu administracyjnego"
 
 msgctxt "Languages::twgadmin_auth_fail_access_id"
 msgid "You have no permissions to log in to the store with this Access ID."
-msgstr "You have no permissions to log in to the store with this Access ID."
+msgstr "Nie uprawnień do logowania do sklepu z tym ID."
 
 msgctxt "Languages::twgadmin_mobile_app"
 msgid "Mobile app"
@@ -735,19 +735,19 @@ msgstr "Kod QR dla strony logowania aplikacji"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
-msgstr "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgstr "Ten kod QR zawiera identyfikator dostępu do Twigmo [access_id], adres URL panelu administracyjnego oraz login (e-mail lub nazwę użytkownika). Wystarczy ręcznie wprowadzić hasło do panelu administracyjnego."
 
 msgctxt "Languages::twapp_wrong_api_login_data"
 msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
-msgstr "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
+msgstr "Nie odebrano danych z panelu administracyjnego. Proszę sprawdź to. Upewnij się, że dodatek Twigmo jest włączony i podłączony do usługi w sklepie"
 
 msgctxt "Languages::twapp_scan_qr"
 msgid "Scan the QR code in your store admin panel"
-msgstr "Scan the QR code in your store admin panel"
+msgstr "Zeskanuj kod QR w panelu administracyjnym sklepu"
 
 msgctxt "Languages::twapp_tap_to_scan"
 msgid "Tap to scan"
-msgstr "Tap to scan"
+msgstr "Wybierz przycisk skanowania"
 
 msgctxt "Languages::twapp_fill_manually"
 msgid "Fill in the fields manually"

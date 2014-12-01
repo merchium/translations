@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-11-28 05:01-0500\n"
+"PO-Revision-Date: 2014-11-30 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3999,7 +3999,7 @@ msgstr "Cechy"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Separator wariantów cechy"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4835,7 +4835,7 @@ msgstr "Dołącz"
 
 msgctxt "Languages::json_error_ctrl_char"
 msgid "Control character error, possibly incorrectly encoded"
-msgstr "Control character error, possibly incorrectly encoded"
+msgstr "Błąd znaku kontrolnego, możliwe, że kodowane jest niepoprawnie"
 
 msgctxt "Languages::json_error_depth"
 msgid "The maximum stack depth has been exceeded"
@@ -6003,7 +6003,7 @@ msgstr "Uwaga"
 
 msgctxt "Languages::notice_too_many_decimals"
 msgid "You have specified [DECIMALS] decimal places for [CURRENCY]. The maximum number of supported decimal places is 2. Further values will be displayed as zeros."
-msgstr "You have specified [DECIMALS] decimal places for [CURRENCY]. The maximum number of supported decimal places is 2. Further values will be displayed as zeros."
+msgstr "Określono [DECIMALS] miejsc dziesiętnych dla [CURRENCY]. Maksymalna liczba obsługiwanych miejsc po przecinku jest 2. Pozostałe wartości będą wyświetlane jako zera."
 
 msgctxt "Languages::notice_undeliverable_products_removed"
 msgid "Undeliverable products have been removed from your cart. You may proceed with the purchase."
@@ -6427,7 +6427,7 @@ msgstr "Wybierz \"Zgadzam się\", lub \"Nie zgadzam się\" w polu poniżej"
 
 msgctxt "Languages::p21agree_tooltip"
 msgid "By typing AGREE in the below box I am providing my signature as authorization to Payment21&reg; to electronically debit my account for the amount I have entered. I also understand and expressly authorize the merchant, if my eCheck payment is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck payment plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this payment transaction."
-msgstr "By typing AGREE in the below box I am providing my signature as authorization to Payment21&reg; to electronically debit my account for the amount I have entered. I also understand and expressly authorize the merchant, if my eCheck payment is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck payment plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this payment transaction."
+msgstr "Wpisując ZGADZAM SIĘ w polu poniżej dołączam mój podpis jako zezwolenie Payment21 ® do elektronicznego obciążania mojego konta na wpisaną kwotę. Zrozumiałem warunki i zezwalam, że jeśli moja płatność eCheck nie będzie honorowana lub zostanie zwrócona z jakiegokolwiek powodu zezwalam na obciążenie mojego konta na kwotę płatności eCheck plus opłatę NFS, nie przekraczającą prawnie maksymalnego limitu. Wydrukuję lub zapiszę tę stronę. Dzwoniąc na ‎1-888-770-0850‎ otrzymasz  wsparcie oraz odpowiedzi na jakiekolwiek pytania dotyczące tej transakcji.‏"
 
 msgctxt "Languages::package"
 msgid "Package"
@@ -6531,7 +6531,7 @@ msgstr "Partner"
 
 msgctxt "Languages::passphrase"
 msgid "Pass-phrase"
-msgstr "Pass-phrase"
+msgstr "Fraza"
 
 msgctxt "Languages::passport_number"
 msgid "Passport number"
@@ -7435,7 +7435,7 @@ msgstr "<strong>[product]</ strong> Produkt posiada opcje, które są zakazaną 
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "Produkt <strong>[product]</strong> ma opcje i warianty opcji, które nie są dostępne, więc został usunięty z koszyka"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -8971,7 +8971,7 @@ msgstr "Smart Post"
 
 msgctxt "Languages::ship_fedex_special_services"
 msgid "Special service (delivery confirmation)"
-msgstr "Special service (delivery confirmation)"
+msgstr "Usługi specjalne (potwierdzenia dostawy)"
 
 msgctxt "Languages::ship_fedex_width"
 msgid "Width (inches)"
@@ -8987,7 +8987,7 @@ msgstr "Długość paczki (w cm)"
 
 msgctxt "Languages::ship_sp_l_acknowledgement_of_delivery"
 msgid "Acknowledgement of delivery (for registered mail only)"
-msgstr "Acknowledgement of delivery (for registered mail only)"
+msgstr "Potwierdzenie odbioru (tylko dla listu poleconego)"
 
 msgctxt "Languages::ship_sp_l_cash_on_delivery"
 msgid "Cash on delivery (for registered mail only)"
@@ -9303,7 +9303,7 @@ msgstr "Postcards or Aerogrammes"
 
 msgctxt "Languages::ship_usps_package_size"
 msgid "Package Size (length + girth, inches)"
-msgstr "Package Size (length + girth, inches)"
+msgstr "Rozmiar paczki (długość + obwód, cale)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
@@ -9663,7 +9663,7 @@ msgstr "Status został zmieniony"
 
 msgctxt "Languages::status_changed_after_process_payment"
 msgid "Order status was set according to the payment processing result"
-msgstr "Order status was set according to the payment processing result"
+msgstr "Status zamówienia został dostosowany do wyniku przetwarzania płatności"
 
 msgctxt "Languages::stay_connected"
 msgid "Stay Connected"
@@ -9971,7 +9971,7 @@ msgstr "Cylinder"
 
 msgctxt "Languages::temando_package_documentenvelope"
 msgid "Document Envelope"
-msgstr "Document Envelope"
+msgstr "Koperta dokumentu"
 
 msgctxt "Languages::temando_package_drum"
 msgid "Drum"
@@ -10167,7 +10167,7 @@ msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as th
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
-msgstr "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
+msgstr "Nie otrzymaliśmy jeszcze odpowiedzi z Amazon, proszę czekać. Mimo tego, że przetwarzanie zamówienia w sklepie trwa tak długo, jest wysoce prawdopodobne,  że zostało ono pomyślnie utworzone i przetworzone przez Amazon. Proszę skontaktować się z obsługą sklepu i podać ID zamówienia otrzymane z Amazon"
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
@@ -10211,7 +10211,7 @@ msgstr "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files s
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
-msgstr "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
+msgstr "Twoja instytucja finansowa nie może autoryzować tej transakcji. W celu ochrony przed nieautoryzowanym dostępem ta karta nie może być użyta podczas zakupu. Możesz dokończyć zamówienie wybierając inną formę płatności."
 
 msgctxt "Languages::text_backup_filename"
 msgid "You can download backup file from the \"Restore\" tab on this page"
@@ -10503,7 +10503,7 @@ msgstr "<b>Format importu cech produtków</b><code>{$ldelim}%Feature ID%{$rdelim
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Format pliku Importu</h4><code>%File location%</code> gdzie, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>może być bezwzględną lub względną ścieżką do plików systemu lub adresem URL</dd></dl> <p>Jeśli jest kilka plików muszą być rozdzielone przecinkami.</p> <h5>Przykład 1:</h5><code>file1.jpg</code><h5>Przykład 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
@@ -10531,11 +10531,11 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Separator pomiędzy wariantami cech produktu."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
-msgstr "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
+msgstr "Parametry, które zostaną wysłane na nasz serwer do analizy funkcjonalności bieżącej konfiguracji są wymienione poniżej.<br/>Należy pamiętać, że informacje osobiste lub finansowe nie zostaną wysłane. Po zapoznaniu się z listą parametrów, kliknij \"Wyślij\".<br/>"
 
 msgctxt "Languages::text_files_directory"
 msgid "Directory where product files are located. This will be used if the \"File\" field data is specified without a path."
@@ -10587,7 +10587,7 @@ msgstr "Niedopuszczalne jest, aby przesłać pliki o rozmiarze ponad <b>[size]</
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
-msgstr "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
+msgstr "Prosimy o wypełnienie poniższych danych. <br /> To jest bezpieczna strona płatności, serwowana z bezpiecznej lokalizacji."
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -10695,7 +10695,7 @@ msgstr "Nie jest dozwolone przesyłanie plików z rozszerzeniem <b>. [ext]</b>."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
-msgstr "<b>[email]</b> is not a valid e-mail address."
+msgstr "<b>[email]</b> nie jest prawidłowym adresem e-mail."
 
 msgctxt "Languages::text_no_active_promotions"
 msgid "No promotions available."
@@ -11071,7 +11071,7 @@ msgstr "W celu współdzielenia promocji, upewnij się odpowiednie produkty są 
 
 msgctxt "Languages::text_shipping_packages_info"
 msgid "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
-msgstr "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
+msgstr "Aby zapewnić bardziej precyzyjne oszacowanie kosztów wysyłki, produkty zostały rozdzielone do paczek zgodnie z ich ustawieniami i konfiguracją metod wysyłki. Następujące informacje mogą być wykorzystane do śledzenia przesyłki"
 
 msgctxt "Languages::text_shipping_rates_changed"
 msgid "Shipping rates were changed"
@@ -11087,7 +11087,7 @@ msgstr "Skrill Merchant Tools enables you to take payments from credit cards, de
 
 msgctxt "Languages::text_skrill_activate_quick_checkout_short_explanation_1"
 msgid "You have sent a request for activation on the [date]. Please be aware that the verification process to use Skrill Merchant Tools could take up to 72 hours. You will be contacted by Skrill when the verification process has been completed."
-msgstr "You have sent a request for activation on the [date]. Please be aware that the verification process to use Skrill Merchant Tools could take up to 72 hours. You will be contacted by Skrill when the verification process has been completed."
+msgstr "Przesłałeś nam nową prośbę o uruchomienie [date]. Należy pamiętać, że proces weryfikacji w Skrill może potrwać nawet do 72 godzin. Zostaniesz powiadomiony przez Skrill o zakończeniu procesu weryfikacji."
 
 msgctxt "Languages::text_skrill_activate_quick_checkout_short_explanation_2"
 msgid "After activation Skrill will grant you access to a new section in your Skrill Account called Merchant Tools. There please choose a secret word (NOT the same as your password) and enter it in the section below to connect to Skrill. The secret word is the last step of your activation process and encrypts your payments securely. After successful submission you will be ready to use all the direct payment options of Skrill."
@@ -11115,7 +11115,7 @@ msgstr "If your HTTPS server is not set up, the logo will be passed by the HTTP 
 
 msgctxt "Languages::text_skrill_notice"
 msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
-msgstr "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
+msgstr "Aby uzyskać dostęp do sieci międzynarodowych płatności Skrill, Zarejestruj się <a href=\"[register_url]\" target=\"_blank\"> tutaj</a> za darmo jeśli nie masz jeszcze konta."
 
 msgctxt "Languages::text_skrill_payment_is_not_saved"
 msgid "In order to use this feature, please save the payment method first."
@@ -11135,7 +11135,7 @@ msgstr "Twoje sekretne słowo jest nieprawidłowe. Proszę wybrać tajne słowo 
 
 msgctxt "Languages::text_skrill_support"
 msgid "<b>Support:</b> <br /><br /> Do you have questions?<br /> Contact Skrill on <a href=\"mailto:\">ecommerce@skrill.com</a> or by phone +44 (0) 870 383 0762.<br />"
-msgstr "<b>Support:</b> <br /><br /> Do you have questions?<br /> Contact Skrill on <a href=\"mailto:\">ecommerce@skrill.com</a> or by phone +44 (0) 870 383 0762.<br />"
+msgstr "<b>Wsparcie:</b> <br /> <br /> masz pytania? <br /> Kontakt do Skrill <a href=\"mailto:\"> ecommerce@skrill.com</a> lub telefonicznie + 44 (0) 870 383 0762. <br />"
 
 msgctxt "Languages::text_status_is_float"
 msgid "You cannot use time interval for the \"Status\" parameter because this parameter is time dependent."
@@ -11199,7 +11199,7 @@ msgstr "TinyMCE"
 
 msgctxt "Languages::text_topmenu_more"
 msgid "More [item] <i class=\"text-arrow\">&rarr;</i>"
-msgstr "More [item] <i class=\"text-arrow\">&rarr;</i>"
+msgstr "Więcej [item] <i class=\"text-arrow\"> &rarr;</i>"
 
 msgctxt "Languages::text_topmenu_view_more"
 msgid "View more <i class=\"text-arrow\">&rarr;</i>"
