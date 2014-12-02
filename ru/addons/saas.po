@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-02 05:00-0500\n"
+"PO-Revision-Date: 2014-12-02 08:00-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -292,11 +292,11 @@ msgstr "Ваш текущий план не позволяет создать б
 
 msgctxt "Languages::saas.promo_title"
 msgid "Plan upgrade is required"
-msgstr "Функция недоступна"
+msgstr "Требуется другой план подписки"
 
 msgctxt "Languages::saas.promo_text"
 msgid "Please upgrade your plan to use this feature"
-msgstr "Такой функции в Мерчиуме сейчас нет :-(<br/><br/>Если вы хотите, чтобы мы ее добавили, <a href=\"http://help.merchium.ru/support/discussions/forums/1000191250\" target=\"_blank\">напишите нам</a>."
+msgstr "Пожалуйста, перейдите на более продвинутый тариф, чтобы получить доступ к этой функции"
 
 msgctxt "Languages::saas.account"
 msgid "Merchium account"
@@ -513,4 +513,12 @@ msgstr "Посмотреть все возможности"
 msgctxt "Languages::saas.confirm_subscription_cancellation_text"
 msgid "Note that your subscription will be permanently cancelled. You will be able to reinstall the theme only after you purchase the subscription again."
 msgstr "Обратите внимание, что, отменив подписку, вы сможете заново установить тему только после повторной покупки."
+
+msgctxt "Languages::saas.pro_required_title"
+msgid "This is a Pro feature"
+msgstr "This is a Pro feature"
+
+msgctxt "Languages::saas.pro_required_text"
+msgid "Please upgrade to Merchium Pro to get access to this feature."
+msgstr "Please upgrade to Merchium Pro to get access to this feature."
 
