@@ -6,8 +6,10 @@ msgstr ""
 "Language: ka_GE\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-02 08:00-0500\n"
+"PO-Revision-Date: 2014-12-08 05:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1071,7 +1073,7 @@ msgstr "კატეგორიის შტო"
 
 msgctxt "Languages::block_products_description"
 msgid "Product showcase"
-msgstr "Product showcase"
+msgstr "პროდუქციის განთავსება მაღაზიის ვიტრინაზე"
 
 msgctxt "Languages::block_cart_content"
 msgid "Cart content"
@@ -13009,7 +13011,7 @@ msgstr "ჩართულია ავტომატური ქეშირ�
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
-msgstr "ავტომატური ქეშირება გამორთულია.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">ამ ბმულზე</a>."
+msgstr "ავტომატური ქეშირება გამორთულია.<br /><br />გაასუფთავეთ დაგენირებული ფაილები ხელით <a href=\"[link]\">ამ ბმულზე</a>."
 
 msgctxt "Languages::warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
@@ -14527,6 +14529,10 @@ msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
 msgstr "Display \"Payment method\" step (the first active method will be used by default)"
 
+msgctxt "SettingsOptions::enable_edp"
+msgid "Enable selling downloadable products"
+msgstr "Enable selling downloadable products"
+
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "საჭიროა რომ SSL სერთიფიკატი იყოს დაყენებული თქვენს სერვერზე"
@@ -15598,4 +15604,8 @@ msgstr "Edit robots.txt"
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
 msgstr "Restore the default robots.txt"
+
+msgctxt "Languages::payments.proxypay3.declined_reason_text"
+msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
 

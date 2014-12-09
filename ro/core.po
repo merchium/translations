@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-02 10:00-0500\n"
+"PO-Revision-Date: 2014-12-05 09:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -14525,6 +14525,10 @@ msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
 msgstr "Display \"Payment method\" step (the first active method will be used by default)"
 
+msgctxt "SettingsOptions::enable_edp"
+msgid "Enable selling downloadable products"
+msgstr "Enable selling downloadable products"
+
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "SSL certificate is required to be installed on your server"
@@ -15596,4 +15600,8 @@ msgstr "Edit robots.txt"
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
 msgstr "Restore the default robots.txt"
+
+msgctxt "Languages::payments.proxypay3.declined_reason_text"
+msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
 

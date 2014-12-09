@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-02 22:00-0500\n"
+"PO-Revision-Date: 2014-12-05 09:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -363,7 +363,7 @@ msgstr "フィールドの追加"
 
 msgctxt "Languages::add_new_order"
 msgid "Adding new order"
-msgstr "新規注文を登録中"
+msgstr "注文の新規登録"
 
 msgctxt "Languages::add_new_variant"
 msgid "Add new variant"
@@ -8655,7 +8655,7 @@ msgstr "配送管理"
 
 msgctxt "Languages::shipments_menu_description"
 msgid "View and print packing slips for shipments created from orders."
-msgstr "作成した配送情報の閲覧や配送票の印刷を行います。"
+msgstr "作成した配送情報の閲覧や配送表の印刷を行います。"
 
 msgctxt "Languages::shipment_date"
 msgid "Shipment date"
@@ -13599,11 +13599,11 @@ msgstr "Magnific Popup"
 
 msgctxt "Languages::bulk_print_packing_slip"
 msgid "Packing slip bulk print"
-msgstr "配送票の一括印刷"
+msgstr "配送表の一括印刷"
 
 msgctxt "Languages::bulk_print_pdf"
 msgid "Invoice bulk print (PDF)"
-msgstr "注文確認書(PDF)の一括印刷"
+msgstr "納品書(PDF)の一括印刷"
 
 msgctxt "Languages::text_all_categories_included"
 msgid "All categories included"
@@ -14524,6 +14524,10 @@ msgstr "Display \"Shipping method\" step (the first active method will be used b
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
 msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+
+msgctxt "SettingsOptions::enable_edp"
+msgid "Enable selling downloadable products"
+msgstr "Enable selling downloadable products"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15596,4 +15600,8 @@ msgstr "Edit robots.txt"
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
 msgstr "Restore the default robots.txt"
+
+msgctxt "Languages::payments.proxypay3.declined_reason_text"
+msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
 

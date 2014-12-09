@@ -6,8 +6,10 @@ msgstr ""
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-03 14:00-0500\n"
+"PO-Revision-Date: 2014-12-08 10:00-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -251,7 +253,7 @@ msgstr "Przypisywanie kont portali społecznościowych"
 
 msgctxt "Languages::text_hybrid_auth.link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr "Assign your social network account to this one and use it to log in"
+msgstr "Przypisz konto portalu społecznościowego do tego  konta i używaj go do logowania"
 
 msgctxt "Languages::text_hybrid_auth.user_is_already_link"
 msgid "This social network account is already being used"
@@ -267,7 +269,7 @@ msgstr "Taki użytkownik już istnieje"
 
 msgctxt "Languages::text_hybrid_auth.connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
+msgstr "<p>Użytkownik z takim adresem e-mail użytym podczas logowania przez portale społecznościowe już istnieje.</p><p>Jeśli chcesz przypisać konto portalu społecznościowego do zarejestrowanego użytkownika, zaloguj się.</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
@@ -303,11 +305,11 @@ msgstr "Automatycznie generowanie e-mail "
 
 msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
 msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Umożliwia generowanie automatycznych e-maili w przypadku gdy portal społecznościowy nie przyjmuje adresu."
 
 msgctxt "Languages::hybrid_auth::paypal_seamless"
 msgid "Use seamless checkout"
-msgstr "Use seamless checkout"
+msgstr "Użyj szybkiej realizacji transakcji"
 
 msgctxt "Languages::hybrid_auth::paypal_sandbox"
 msgid "Test mode"

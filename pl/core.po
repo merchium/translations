@@ -6,8 +6,10 @@ msgstr ""
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-03 14:00-0500\n"
+"PO-Revision-Date: 2014-12-08 10:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4215,7 +4217,7 @@ msgstr "Dla zamówień na TEJ stronie"
 
 msgctxt "Languages::fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "Delikatnie"
 
 msgctxt "Languages::free"
 msgid "Free"
@@ -4359,7 +4361,7 @@ msgstr "Google base"
 
 msgctxt "Languages::google_base_export_notice"
 msgid "<b>Note:</b> You can setup Tax and Shipping rates on the <a href=\"http://www.google.com/merchants/taxshippingsettings\">Tax and shipping summary</a> page in your Google merchant center."
-msgstr "<b>Note:</b> You can setup Tax and Shipping rates on the <a href=\"http://www.google.com/merchants/taxshippingsettings\">Tax and shipping summary</a> page in your Google merchant center."
+msgstr "<b>Uwaga:</b> Możesz ustawić podatek i cenę wysyłki na stronie<a href=\"http://www.google.com/merchants/taxshippingsettings\"> Podsumowanie podatków i wysyłek</a> w Google centrum sprzedawcy."
 
 msgctxt "Languages::goto_theme_configuration"
 msgid "Browse themes"
@@ -4519,7 +4521,7 @@ msgstr "Węgierski"
 
 msgctxt "Languages::I25"
 msgid "Interleaved 2 of 5 is based on Standard 2 of 5 symbology.<br/>Interleaved 2 of 5 is designed to encode only 10 digits."
-msgstr "Interleaved 2 of 5 is based on Standard 2 of 5 symbology.<br/>Interleaved 2 of 5 is designed to encode only 10 digits."
+msgstr "System przeplatany 2 z 5 opiera się na standardzie 2 z 5. <br/>System przeplatany 2 z 5 jest przeznaczony do kodowania tylko 10 cyfr."
 
 msgctxt "Languages::icon"
 msgid "Icon"
@@ -4995,7 +4997,7 @@ msgstr "Biały"
 
 msgctxt "Languages::lbl_amazon_process_order_on_failure"
 msgid "Process order on callback failure"
-msgstr "Process order on callback failure"
+msgstr "Przetwarzanie zamówienia lub błąd wywołania zwrotnego"
 
 msgctxt "Languages::lbl_amazon_size_large"
 msgid "Large"
@@ -8291,7 +8293,7 @@ msgstr "Zapisz to wyszukanie jako"
 
 msgctxt "Languages::scb_text_notice"
 msgid "Please send the following URL to the SCB support to be set as PostbackURL: <br /><b>[return_url]</b>"
-msgstr "Please send the following URL to the SCB support to be set as PostbackURL: <br /><b>[return_url]</b>"
+msgstr "Proszę wysłać ten URL do wsparcia SCB jako PostbackURL: <br /> <b>[return_url]</b>"
 
 msgctxt "Languages::screen"
 msgid "Screen"
@@ -8815,7 +8817,7 @@ msgstr "Czek lub przekaz pieniężny"
 
 msgctxt "Languages::ship_dhl_cod_method_p"
 msgid "Personal or Company Check"
-msgstr "Personal or Company Check"
+msgstr "Sprawdzenie danych osobistych lub firmowych"
 
 msgctxt "Languages::ship_dhl_cod_payment"
 msgid "Use COD payment"
@@ -8863,7 +8865,7 @@ msgstr "Dodatkowe adnotacje"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_address_correction"
 msgid "Address Service Requested"
-msgstr "Address Service Requested"
+msgstr "Wymagana informacja o adresie usługi"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_carrier_leave_if_no_response"
 msgid "Carrier Leave If No Response"
@@ -8871,19 +8873,19 @@ msgstr "Carrier Leave If No Response"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_change_service"
 msgid "Change Service Requested"
-msgstr "Change Service Requested"
+msgstr "Wymagana informacja zwrotna o zmianie usługi"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_forwarding_service"
 msgid "Forwarding Service Requested"
-msgstr "Forwarding Service Requested"
+msgstr "Wymagane przekazanie informacji o usłudze"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_return_delivery"
 msgid "Return Service Requested"
-msgstr "Return Service Requested"
+msgstr "Wymagana informacja zwrotna o usłudze"
 
 msgctxt "Languages::ship_fedex_customer_manifest_id"
 msgid "Customer manifest ID"
-msgstr "Customer manifest ID"
+msgstr "ID Klienta"
 
 msgctxt "Languages::ship_fedex_drop_off_type"
 msgid "Drop Off Type"
@@ -8891,11 +8893,11 @@ msgstr "Drop Off Type"
 
 msgctxt "Languages::ship_fedex_drop_off_type_regular_pickup"
 msgid "Regular pickup"
-msgstr "Regular pickup"
+msgstr "Regularny odbiór"
 
 msgctxt "Languages::ship_fedex_drop_off_type_request_courier"
 msgid "Request courier"
-msgstr "Request courier"
+msgstr "Zamów kuriera"
 
 msgctxt "Languages::ship_fedex_drop_off_type_station"
 msgid "Drop at station"
@@ -9007,11 +9009,11 @@ msgstr "Ubezpieczenie"
 
 msgctxt "Languages::ship_sp_pc_cash_on_delivery"
 msgid "Cash on delivery (COD)"
-msgstr "Cash on delivery (COD)"
+msgstr "Za pobraniem (COD)"
 
 msgctxt "Languages::ship_sp_pc_fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "Delikatnie"
 
 msgctxt "Languages::ship_sp_pc_manual_handling"
 msgid "Manual handling"
@@ -9075,7 +9077,7 @@ msgstr "Długość paczki"
 
 msgctxt "Languages::ship_temando_measurement"
 msgid "Package measurement"
-msgstr "Package measurement"
+msgstr "Wymiary paczki"
 
 msgctxt "Languages::ship_temando_method"
 msgid "Delivery method"
@@ -9091,7 +9093,7 @@ msgstr "Data gotowości do wysyłki (dni)"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
-msgstr "Class of the item being sent"
+msgstr "Wysyłane klasy towaru"
 
 msgctxt "Languages::ship_temando_weight_measurement"
 msgid "Weight measurement type"
@@ -9159,7 +9161,7 @@ msgstr "On Call Air"
 
 msgctxt "Languages::ship_ups_pickup_type_11"
 msgid "Suggested Retail Rates"
-msgstr "Suggested Retail Rates"
+msgstr "Sugerowana cena detaliczna"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
@@ -9167,7 +9169,7 @@ msgstr "Centrum listów"
 
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
-msgstr "Air Service Center"
+msgstr "Centrum usług lotniczych"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9179,7 +9181,7 @@ msgstr "Pojemnik (Express)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
-msgstr "Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
@@ -9187,19 +9189,19 @@ msgstr "Pojemnik (Priorytetowa poczta)"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
-msgstr "Flat Rate Box"
+msgstr "Stawka ryczałtowa za paczkę"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_envelope"
 msgid "Flat Rate Letter"
-msgstr "Flat Rate Letter"
+msgstr "Stawka ryczałtowa za list"
 
 msgctxt "Languages::ship_usps_container_priority_lg_flat_rate_box"
 msgid "Large Flat Rate Box"
-msgstr "Large Flat Rate Box"
+msgstr "Stawka ryczałtowa za dużą paczkę"
 
 msgctxt "Languages::ship_usps_container_priority_md_flat_rate_box"
 msgid "Medium Flat Rate Box"
-msgstr "Medium Flat Rate Box"
+msgstr "Stawka ryczałtowa za średnią paczkę"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
@@ -9223,27 +9225,27 @@ msgstr "Regianal Rate Box C"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_box"
 msgid "Small Flat Rate Box"
-msgstr "Small Flat Rate Box"
+msgstr "Stawka ryczałtowa za małą paczkę"
 
 msgctxt "Languages::ship_usps_container_priority_padded_flat_rate_envelope"
 msgid "Padded Flat Rate Envelope"
-msgstr "Padded Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę bezpieczną"
 
 msgctxt "Languages::ship_usps_container_priority_legal_flat_rate_envelope"
 msgid "Legal Flat Rate Envelope"
-msgstr "Legal Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę standardową"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_envelope"
 msgid "Sm Flat Rate Envelope"
-msgstr "Sm Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę SM"
 
 msgctxt "Languages::ship_usps_container_priority_window_flat_rate_envelope"
 msgid "Window Flat Rate Envelope"
-msgstr "Window Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę z okienkiem"
 
 msgctxt "Languages::ship_usps_container_priority_gift_card_flat_rate_envelope"
 msgid "Gift Card Flat Rate Envelope"
-msgstr "Gift Card Flat Rate Envelope"
+msgstr "Stawka ryczałtowa za kopertę z kartą podarunkową"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
@@ -9295,7 +9297,7 @@ msgstr "Typ poczty"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
-msgstr "Matter for the Blind"
+msgstr "Ułatwienia dla niewidomych"
 
 msgctxt "Languages::ship_usps_mailtype_postcards_or_aerogrammes"
 msgid "Postcards or Aerogrammes"
@@ -9727,7 +9729,7 @@ msgstr "Położenie sklepu"
 
 msgctxt "Languages::store_mode"
 msgid "Licensing mode"
-msgstr "Zamknij sklep"
+msgstr "Tryb pracy sklepu"
 
 msgctxt "Languages::store_mode_changed"
 msgid "Licensing mode has been changed"
@@ -10011,7 +10013,7 @@ msgstr "Satchel/Bag"
 
 msgctxt "Languages::temando_package_skid"
 msgid "Skid"
-msgstr "Skid"
+msgstr "Mini"
 
 msgctxt "Languages::temando_package_suitcase"
 msgid "Suitcase"
@@ -10019,7 +10021,7 @@ msgstr "Walizka"
 
 msgctxt "Languages::temando_package_tube"
 msgid "Tube"
-msgstr "Tube"
+msgstr "Rury"
 
 msgctxt "Languages::temando_package_unpackaged"
 msgid "Unpackaged or N/A"
@@ -10427,7 +10429,7 @@ msgstr "Punkty użyte w zamówieniu zostały odjętę z konta użytkownika."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
+msgstr "<b>Uwaga:</b> Proszę wyślij następujące informacje do wsparcia DeltaPay: <br /> Strona płatności: ' <u>[payment_url]'</u><br /> Adres powrotu: ' <u>[result_url]'</u><br /> Adres powrotu błędnego: ' <u>[result_url]'</u><br /> Strona anulowania płatności: ' <u>[result_url]'</u><br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
@@ -10895,7 +10897,8 @@ msgstr "Uprawnienia zmienione"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr "<b>Uwaga:</b> Proszę wyślij następujące informacje do obsługi płatności: <br /> Adres URL: ' <u>[website_url]'</u><br /> Referrer URL: ' <u>[referrer_url]'</u><br /> Sukces URL: \"<u>[success_url]</u>\" <br /> Błędny URL: ' <u>[failure_url]'</u>\n"
+"<br /> Powrotny URL: \"<u>[backlink_url]</u>\" <br /> Adres IP: ' <u>[ip_address]'</u><br /><br /> Obiektu Response: ' <u>[response_method]'</u><br /> <br />"
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
@@ -11095,7 +11098,7 @@ msgstr "After activation Skrill will grant you access to a new section in your S
 
 msgctxt "Languages::text_skrill_currs_notice"
 msgid "If you selected a currency that is not the base one in your store, please make sure that it has the correct <a href=\"http://en.wikipedia.org/wiki/ISO_4217\">ISO 4217 code</a> on the <a href=\"[link]\">currencies</a> page."
-msgstr "If you selected a currency that is not the base one in your store, please make sure that it has the correct <a href=\"http://en.wikipedia.org/wiki/ISO_4217\">ISO 4217 code</a> on the <a href=\"[link]\">currencies</a> page."
+msgstr "Jeśli wybrałeś walutę która nie ten podstawową w sklepie, upewnij się, że ma prawidłowy kod<a href=\"http://en.wikipedia.org/wiki/ISO_4217\"> ISO 4217</a> na stronie <a href=\"[link]\"> waluty</a>."
 
 msgctxt "Languages::text_skrill_email_is_not_registered"
 msgid "Specified email address is not registered in Skrill."
@@ -11111,7 +11114,7 @@ msgstr "Niektóre pola wymagane do Szybkich zakupów nie są wypełnione. Prosim
 
 msgctxt "Languages::text_skrill_logo_notice"
 msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
-msgstr "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
+msgstr "Jeśli połączenie HTTPS nie jest ustawione, logo zostanie przekazane przez protokół HTTP i użytkownicy zobaczą ostrzeżenie na stronie Skrill \"Pewne elementy strony są niezabezpieczone\"."
 
 msgctxt "Languages::text_skrill_notice"
 msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
@@ -12311,7 +12314,7 @@ msgstr "Nazwa domeny, którą chcesz używać zamiast CloudFront dla adresu URL 
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
+msgstr "AWS klucz dostpu. Zobacz <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\"> http://amzn.to/14FZLi3</a>, aby dowiedzieć się jak zdobyć klucz i klucz tajny."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12511,7 +12514,7 @@ msgstr "Centrum aktualizacji"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
-msgstr "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
+msgstr "Uaktualnienie jest niemożliwe z powodu błędów podczas sprawdzania integralności plików. Proszę skontaktować się z zespołem pomocy technicznej."
 
 msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
@@ -12691,7 +12694,7 @@ msgstr "Użyj wynegocjowanych stawek"
 
 msgctxt "Languages::use_new_sha_method"
 msgid "Use new SHA signature policy"
-msgstr "Use new SHA signature policy"
+msgstr "Użyj nowych zasad skrótu SHA"
 
 msgctxt "Languages::usps"
 msgid "U.S Postal Service"
@@ -12743,7 +12746,7 @@ msgstr "Ubezpieczenie"
 
 msgctxt "Languages::usps_service_pick_up_on_demand"
 msgid "Pick up on demand"
-msgstr "Pick up on demand"
+msgstr "Odbiór na żądanie"
 
 msgctxt "Languages::usps_service_registered_mail"
 msgid "Registered mail"
@@ -12775,7 +12778,7 @@ msgstr "Potwierdzenia podpisu"
 
 msgctxt "Languages::usps_size"
 msgid "Please specify the package width, height and length for Priority mail, if Package Size is Large only."
-msgstr "Please specify the package width, height and length for Priority mail, if Package Size is Large only."
+msgstr "Proszę określić szerokość, wysokość i długość paczki dla poczty priorytetowej, jeśli rozmiar pakietu jest duży."
 
 msgctxt "Languages::valid"
 msgid "Period of validity"
@@ -13427,7 +13430,7 @@ msgstr "Wprowadzony kod pocztowy nie odpowiada stanowi. Proszę wprowadź ponown
 
 msgctxt "Languages::payments.futurepay.amount_error"
 msgid "FuturePay can only be used on orders under $500"
-msgstr "FuturePay can only be used on orders under $500"
+msgstr "FuturePay może być używany tylko dla zamówień poniżej $500"
 
 msgctxt "Languages::payments.futurepay.country_error"
 msgid "FuturePay is currently unavailable outside of America"
@@ -14525,6 +14528,10 @@ msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
 msgstr "Pokaż najpierw \"Metoda płatności\" (pierwsza aktywna wysyłka będą ustawiona jako domyślna)"
 
+msgctxt "SettingsOptions::enable_edp"
+msgid "Enable selling downloadable products"
+msgstr "Umożliwia sprzedaż produktów do pobrania"
+
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "Wymagany jest zainstalowany Certyfikat SSL na serwerze"
@@ -15467,11 +15474,11 @@ msgstr "Automatyczne rozstrzyganie sporów"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Mapa konwersji statusów zamówień pomiędzy Realex i CS-Cart"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "subkonto"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
@@ -15575,7 +15582,7 @@ msgstr "Płatność ta jest niedostępna dla tego typu kart kredytowych."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "Niepoprawne wartości pól \"Valid thru\"."
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
@@ -15596,4 +15603,8 @@ msgstr "Edycja pliku robots.txt"
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
 msgstr "Przywrócić domyślny plik robots.txt"
+
+msgctxt "Languages::payments.proxypay3.declined_reason_text"
+msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Wystąpił błąd podczas sprawdzania poprawności danych karty kredytowej. Numer karty kredytowej był nieprawidłowy lub data ważności lub kod weryfikacyjny karty."
 
