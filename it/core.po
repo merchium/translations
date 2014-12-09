@@ -6,8 +6,10 @@ msgstr ""
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-05 09:01-0500\n"
+"PO-Revision-Date: 2014-12-09 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3999,7 +4001,7 @@ msgstr "Caratteristiche"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Delimitatore caratteristica varianti"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -10416,7 +10418,7 @@ msgstr "Logo per area <b>clienti</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Nota</b>: al fine di monitorare i tuoi ordini DataTrans con il software ecommerce, devi adottare le seguenti misure: < br / > < br / >-accedi al tuo account DataTrans < br / >-Clicca sul link <u>Upp Data</u> nella sezione <u>'Amministrazione Upp'.</u> < br / > - Imposta <u>'URL Post data format'</u> <b>'</b> nel modulo HTML'. < br / > - Set <u>Post URL'</u> a: < br / > <b>[post_url]</b> < br / >-Clicca sul link <u>'Sicurezza'</u> nella sezione <u>' amministrazione Upp'.</u> < br / > - Select l'opzione <b>'un'ulteriore identificazione mercantile verranno inviati con messaggi di pagamento'</b>. < br / >-generare nuova firma digitale utilizzando il pulsante <u>'Genera nuovo segno'</u>. < br / >-Set generato valore per il campo <u>'Firma digitale'</u> nella pagina di configurazione del pagamento DataTrans nel tuo negozio < br / >"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10532,7 +10534,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Delimitatore tra valori varianti di una caratteristica del prodotto."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -14528,7 +14530,7 @@ msgstr "Visualizza il passaggio del \"Metodo di pagamento\" (il primo metodo att
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Abilitare la vendita di prodotti scaricabili"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15452,75 +15454,75 @@ msgstr "Modelli"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Si prega di fornire questo URL al tuo account manager Realex pagamenti"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Si prega di fornire l'indirizzo IP del server al vostro account manager Realex pagamenti"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Insediamento"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Insediamento ritardato"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Auto-risolto"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Realex alla mappa di conversione di CS-Cart ordine stato"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Sottoaccount"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Spostamento di responsabilità"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Spostamento di responsabilità richiesto"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Messaggio 3-D Secure"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "L'account Realex è stato sospeso. Contattare il supporto Realex per ulteriori informazioni."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Formato messaggio XML non corretto"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Errore con Realex sistemi"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Errore con sistemi bancari"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Scheda segnalato smarrito o rubato"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Rinvio dalla banca"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "Codice postale AVS"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "Indirizzo AVS"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15540,51 +15542,51 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Messaggio del risultato"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Codice risultato"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Transazione PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "ID Transazione ordine"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Abbinato"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Non abbinato"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problema con l'assegno"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Impossibile controllare"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Corrispondenza parziale"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Questo pagamento non è disponibile per questo tipo di carte di credito."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "Valori errati dei campi 'Valid thru'."
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Impostazioni SEO del tuo negozio."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15592,17 +15594,17 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Modifica: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Modificare il file robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Ripristinare il file robots.txt predefinito"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Errore nella convalida dei dati le informazioni della carta di credito. Il numero di carta di credito era invalido, o la data di scadenza o il codice CVV."
 

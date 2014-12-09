@@ -6,8 +6,10 @@ msgstr ""
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
+"X-Crowdin-Project: merchium\n"
+"X-Crowdin-File: /addons/setup_wizard.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-02 10:00-0500\n"
+"PO-Revision-Date: 2014-12-09 08:00-0500\n"
 
 msgctxt "Addons::name::setup_wizard"
 msgid "Setup wizard"
@@ -26,7 +28,7 @@ msgid "Fill out the contact information about your store"
 msgstr "Заполните контактную информацию о своем магазине"
 
 msgctxt "Languages::sw.text_design_header"
-msgid "Set up the store design and upload the logo"
+msgid "Select your storefront design and upload the logo"
 msgstr "Настройте дизайн витрины и загрузите логотип"
 
 msgctxt "Languages::sw.text_payments_header"
@@ -34,11 +36,11 @@ msgid "Set up the service to recieve payments"
 msgstr "Подключите сервис для приема платежей"
 
 msgctxt "Languages::sw.text_shippings_header"
-msgid "Choose shipping service"
+msgid "Select shipping services"
 msgstr "Выберите службы доставки товаров"
 
 msgctxt "Languages::sw.text_settings_header"
-msgid "Set up the workflow with the product catalog"
+msgid "Configure product catalog settings"
 msgstr "Настройте работу с каталогом товаров"
 
 msgctxt "Languages::sw.about_store"
@@ -54,7 +56,7 @@ msgid "Store administrator\\'s email"
 msgstr "Email администратора магазина"
 
 msgctxt "Languages::sw.address_text"
-msgid "Address (street, house, block etc.)"
+msgid "Address (street, house, etc.)"
 msgstr "Адрес (улица, дом, корпус и т.д.)"
 
 msgctxt "Languages::sw.country"
@@ -86,19 +88,19 @@ msgid "Fax"
 msgstr "Факс"
 
 msgctxt "Languages::sw.website"
-msgid "Web site"
+msgid "Website"
 msgstr "Веб-сайт"
 
 msgctxt "Languages::sw.company_start_year"
-msgid "The year, since the store is opened"
+msgid "The year your store opened"
 msgstr "Год, с которого работает магазин"
 
 msgctxt "Languages::sw.configure_additional_addresses"
-msgid "Configure additional addresses"
-msgstr "Настроить дополнительные адреса"
+msgid "Configure additional emails"
+msgstr "Настроить дополнительные email-адреса"
 
 msgctxt "Languages::sw.selected_design"
-msgid "Choose design"
+msgid "Current design"
 msgstr "Выбранный дизайн"
 
 msgctxt "Languages::sw.upload_logo"
@@ -118,7 +120,7 @@ msgid "Select image"
 msgstr "Выбрать изображение"
 
 msgctxt "Languages::sw.select_right_design"
-msgid "Select appropriate design"
+msgid "Pick a design preset"
 msgstr "Выберите подходящий дизайн"
 
 msgctxt "Languages::sw.activate"
@@ -218,7 +220,7 @@ msgid "Beeline, Megafon, MTS and other mobile operators."
 msgstr "Билайн, МегаФон, МТС и другие операторы."
 
 msgctxt "Languages::sw.shippings"
-msgid "Shippings"
+msgid "Shipping services"
 msgstr "Доставка"
 
 msgctxt "Languages::sw.ems_russian_post"
@@ -266,8 +268,8 @@ msgid "Timezone"
 msgstr "Часовой пояс"
 
 msgctxt "Languages::sw.order_start_id"
-msgid "First order id"
-msgstr "Начальный номер заказа"
+msgid "First order id (leave empty for auto)"
+msgstr "Номер первого заказа (оставьте пустым для автозаполнения)"
 
 msgctxt "Languages::sw.min_order_amount"
 msgid "Minimal order total"
@@ -286,16 +288,16 @@ msgid "Enable inventory tracking"
 msgstr "Включить отслеживания количества товаров"
 
 msgctxt "Languages::sw.allow_negative_amount"
-msgid "Allow negative amount"
+msgid "Allow negative in-stock amount"
 msgstr "Разрешить отрицательное количество товаров в наличии"
 
 msgctxt "Languages::sw.company_users_department"
-msgid "Company users department"
-msgstr "Email отдела поддержки клиентов"
+msgid "Customer support"
+msgstr "Отдел поддержки клиентов"
 
 msgctxt "Languages::sw.company_orders_department"
-msgid "Company orders department"
-msgstr "Email отдела продаж"
+msgid "Order department"
+msgstr "Отдел продаж"
 
 msgctxt "Languages::sw.ym_merchant_country"
 msgid "Country"
@@ -390,11 +392,11 @@ msgid "SCID"
 msgstr "SCID"
 
 msgctxt "Languages::sw.remove_demo_data_text"
-msgid "Remove demo data"
+msgid "Clean up orders, products, categories, user profiles, and related data"
 msgstr "Удалить заказы, товары, категории, профили пользователей и связанные данные"
 
 msgctxt "Languages::sw.remove"
-msgid "Remove"
+msgid "Clean up"
 msgstr "Удалить"
 
 msgctxt "Languages::sw.demo_data_removed"
