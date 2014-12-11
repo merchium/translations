@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-09 08:00-0500\n"
+"PO-Revision-Date: 2014-12-11 10:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -14112,10 +14112,6 @@ msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
 msgstr "Qualità formato JPEG (0-100)"
 
-msgctxt "SettingsOptions::header_8048"
-msgid "Use for"
-msgstr "Utilizza Captcha per"
-
 msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
 msgstr "Anno in cui è stato aperto il negozio"
@@ -14136,9 +14132,9 @@ msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
 msgstr "E-mail servizio clienti"
 
-msgctxt "SettingsOptions::use_for_login"
-msgid "Login form"
-msgstr "Modulo di accesso"
+msgctxt "SettingsOptions::use_for"
+msgid "Use for"
+msgstr "Use for"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14152,10 +14148,6 @@ msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
 msgstr "E-mail amministratore del sito"
 
-msgctxt "SettingsOptions::use_for_register"
-msgid "Create and edit profile form"
-msgstr "Creazione e modifica modulo profilo"
-
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
 msgstr "Lista prodotti (categoria, cerca, ecc.) - altezza miniatura"
@@ -14167,10 +14159,6 @@ msgstr "E-mail reparto ordini"
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
 msgstr "Telefono predefinito"
-
-msgctxt "SettingsOptions::use_for_form_builder"
-msgid "Custom forms"
-msgstr "Moduli personalizzati"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
@@ -14191,10 +14179,6 @@ msgstr "Elementi per pagina"
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
 msgstr "Abilita monitoraggio inventario"
-
-msgctxt "SettingsOptions::use_for_email_share"
-msgid "Send to friend form"
-msgstr "Modulo \"invia ad un amico\""
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
@@ -14220,10 +14204,6 @@ msgctxt "SettingsOptions::edp_key_ttl"
 msgid "Download key TTL (for electronically distributed products), hours"
 msgstr "Validità in ore del \"Download Key TTL\" (per i prodotti venduti digitalmente)"
 
-msgctxt "SettingsOptions::use_for_discussion"
-msgid "Comments and reviews forms"
-msgstr "Moduli \"commenti e recensioni\""
-
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
 msgstr "Soglia di notifica disponibilità magazzino"
@@ -14236,10 +14216,6 @@ msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
 msgstr "Mostra prodotti delle sottocategorie per la categoria selezionata"
 
-msgctxt "SettingsOptions::use_for_checkout"
-msgid "Checkout (user information) form"
-msgstr "Modulo Cassa e informazione utente"
-
 msgctxt "SettingsOptions::display_options_modifiers"
 msgid "Display modifiers for product options"
 msgstr "Visualizza modificatori per le opzioni prodotto"
@@ -14248,17 +14224,9 @@ msgctxt "SettingsOptions::exception_style"
 msgid "Exception style"
 msgstr "Stile per eccezioni varianti prodotto"
 
-msgctxt "SettingsOptions::use_for_polls"
-msgid "Polls"
-msgstr "Sondaggi"
-
 msgctxt "SettingsOptions::product_cart_thumbnail_width"
 msgid "Product cart page thumbnail width"
 msgstr "Pagina prodotto nel carrello - larghezza miniatura"
-
-msgctxt "SettingsOptions::use_for_track_orders"
-msgid "Track my order form"
-msgstr "Modulo traccia il mio ordine"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_height"
 msgid "Product cart page thumbnail height"
@@ -15583,6 +15551,22 @@ msgstr "Questo pagamento non è disponibile per questo tipo di carte di credito.
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
 msgstr "Valori errati dei campi 'Valid thru'."
+
+msgctxt "Languages::use_for_login"
+msgid "Login form"
+msgstr "Login form"
+
+msgctxt "Languages::use_for_register"
+msgid "Create and edit profile form"
+msgstr "Create and edit profile form"
+
+msgctxt "Languages::use_for_checkout"
+msgid "Checkout (user information) form"
+msgstr "Checkout (user information) form"
+
+msgctxt "Languages::use_for_track_orders"
+msgid "Track my order form"
+msgstr "Track my order form"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."

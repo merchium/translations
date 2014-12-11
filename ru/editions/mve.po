@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /editions/mve.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-11 07:37-0500\n"
+"PO-Revision-Date: 2014-12-11 10:01-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -335,10 +335,6 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Автоматически создавать учетную запись администратора для нового подтвержденного продавца. (Если включена настройка \"Позволить пользователю создать учетную запись продавца\")"
 
-msgctxt "SettingsOptions::use_for_apply_for_vendor_account"
-msgid "Apply for a vendor account form"
-msgstr "Заполнить форму для получения учетной записи продавца"
-
 msgctxt "SettingsOptions::include_shipping"
 msgid "Include shipping cost in vendors commission"
 msgstr "Включать цену доставки в комиссию продавца"
@@ -358,6 +354,10 @@ msgstr "Отображать продавца на странице продук
 msgctxt "SettingsTooltips::include_payment_surcharge"
 msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
 msgstr "Если включено, то покупатели не смогут увидеть доплату, и она не будет применена к общей стоимости заказа"
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "Apply for a vendor account form"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"

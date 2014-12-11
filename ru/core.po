@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-11 07:37-0500\n"
+"PO-Revision-Date: 2014-12-11 10:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -14111,10 +14111,6 @@ msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
 msgstr "Качество формата JPEG  (0—100)"
 
-msgctxt "SettingsOptions::header_8048"
-msgid "Use for"
-msgstr "Использовать для"
-
 msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
 msgstr "Год начала работы магазина"
@@ -14135,9 +14131,9 @@ msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
 msgstr "Email отдела по работе с клиентами"
 
-msgctxt "SettingsOptions::use_for_login"
-msgid "Login form"
-msgstr "Форм авторизации"
+msgctxt "SettingsOptions::use_for"
+msgid "Use for"
+msgstr "Use for"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14151,10 +14147,6 @@ msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
 msgstr "Email администратора сайта"
 
-msgctxt "SettingsOptions::use_for_register"
-msgid "Create and edit profile form"
-msgstr "Форм создания и редактирования профиля"
-
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
 msgstr "Высота иконки в списке товаров (страницы категории, поиска и т.д.)"
@@ -14166,10 +14158,6 @@ msgstr "Email отдела оформления и обработки заказ
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
 msgstr "Телефон по умолчанию"
-
-msgctxt "SettingsOptions::use_for_form_builder"
-msgid "Custom forms"
-msgstr "Контактных форм"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
@@ -14190,10 +14178,6 @@ msgstr "Количество элементов на странице"
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
 msgstr "Включить отслеживание количества товаров на складе"
-
-msgctxt "SettingsOptions::use_for_email_share"
-msgid "Send to friend form"
-msgstr "Формы рекомендации другу"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
@@ -14219,10 +14203,6 @@ msgctxt "SettingsOptions::edp_key_ttl"
 msgid "Download key TTL (for electronically distributed products), hours"
 msgstr "Период доступности ключа для скачивания цифровых товаров в часах"
 
-msgctxt "SettingsOptions::use_for_discussion"
-msgid "Comments and reviews forms"
-msgstr "Формы комментариев и отзывов"
-
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
 msgstr "Порог предупреждения о низком количестве товара на складе"
@@ -14235,10 +14215,6 @@ msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
 msgstr "Отображать товары подкатегорий для выбранной категории"
 
-msgctxt "SettingsOptions::use_for_checkout"
-msgid "Checkout (user information) form"
-msgstr "Формы оформления заказа (информация о пользователе)"
-
 msgctxt "SettingsOptions::display_options_modifiers"
 msgid "Display modifiers for product options"
 msgstr "Показывать модификаторы опций товаров"
@@ -14247,17 +14223,9 @@ msgctxt "SettingsOptions::exception_style"
 msgid "Exception style"
 msgstr "Стиль исключений"
 
-msgctxt "SettingsOptions::use_for_polls"
-msgid "Polls"
-msgstr "Опросов"
-
 msgctxt "SettingsOptions::product_cart_thumbnail_width"
 msgid "Product cart page thumbnail width"
 msgstr "Ширина иконки на странице корзины"
-
-msgctxt "SettingsOptions::use_for_track_orders"
-msgid "Track my order form"
-msgstr "Форма отслеживания заказа"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_height"
 msgid "Product cart page thumbnail height"
@@ -15582,6 +15550,22 @@ msgstr "Этот платеж недоступен для этого типа к
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
 msgstr "Неверные значения полей «Valid thru»."
+
+msgctxt "Languages::use_for_login"
+msgid "Login form"
+msgstr "Login form"
+
+msgctxt "Languages::use_for_register"
+msgid "Create and edit profile form"
+msgstr "Create and edit profile form"
+
+msgctxt "Languages::use_for_checkout"
+msgid "Checkout (user information) form"
+msgstr "Checkout (user information) form"
+
+msgctxt "Languages::use_for_track_orders"
+msgid "Track my order form"
+msgstr "Track my order form"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."

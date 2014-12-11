@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-09 06:00-0500\n"
+"PO-Revision-Date: 2014-12-11 11:00-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -17,11 +17,15 @@ msgstr "Discussion"
 
 msgctxt "Addons::description::discussion"
 msgid "Lets customers leave comments to products, categories, orders, etc., review products and write testimonials"
-msgstr "Lets customers leave comments to products, categories, orders, etc., review products and write testimonials"
+msgstr "Permet aux clients de laisser des commentaires sur les produits, les catégories, les commandes, etc., noter les produits et écrire des témoignages"
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "Formulaires de commentaires et d'avis clients"
 
 msgctxt "Languages::comments_and_reviews_menu_description"
 msgid "Customer comments and reviews on products, categories, orders, etc."
-msgstr "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Commentaires et avis sur les produits, catégories, commandes, etc.."
 
 msgctxt "Languages::discussion_title_category"
 msgid "Reviews"
@@ -33,7 +37,7 @@ msgstr "Livre d'or"
 
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
-msgstr "Manage the testimonials from your store visitors."
+msgstr "Gérer les témoignages des visiteurs de votre magasin."
 
 msgctxt "Languages::discussion_title_news"
 msgid "Comments"
@@ -77,7 +81,7 @@ msgstr "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Co
 
 msgctxt "Languages::discussion_title_company"
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "Avis"
 
 msgctxt "Languages::communication"
 msgid "Communication"
@@ -121,7 +125,7 @@ msgstr "Derniers commentaires et revues"
 
 msgctxt "Languages::comment_by"
 msgid "Comment by"
-msgstr "Comment by"
+msgstr "Commentaire de"
 
 msgctxt "Languages::and"
 msgid "and"
@@ -141,39 +145,39 @@ msgstr "Discussion"
 
 msgctxt "Languages::testimonials"
 msgid "Testimonials"
-msgstr "Testimonials"
+msgstr "Témoignages"
 
 msgctxt "Languages::privileges.view_discussions"
 msgid "View comments and reviews"
-msgstr "View comments and reviews"
+msgstr "Voir les commentaires et avis"
 
 msgctxt "Languages::privileges.manage_discussions"
 msgid "Manage comments and reviews"
-msgstr "Manage comments and reviews"
+msgstr "Gérer les commentaires et les avis clients"
 
 msgctxt "Languages::block_testimonials"
 msgid "Testimonials"
-msgstr "Testimonials"
+msgstr "Témoignages"
 
 msgctxt "Languages::block_testimonials_description"
 msgid "User testimonials"
-msgstr "User testimonials"
+msgstr "Témoignages d'utilisateurs"
 
 msgctxt "Languages::sort_by_rating_asc"
 msgid "Sort by rating: Low to High"
-msgstr "Sort by rating: Low to High"
+msgstr "Trier par note : faible à élevée"
 
 msgctxt "Languages::sort_by_rating_desc"
 msgid "Sort by rating"
-msgstr "Sort by rating"
+msgstr "Trier par note"
 
 msgctxt "Languages::reviews"
 msgid "review|reviews"
-msgstr "review|reviews"
+msgstr "Avis"
 
 msgctxt "Languages::write_review"
 msgid "Write a review"
-msgstr "Write a review"
+msgstr "Ajouter un avis"
 
 msgctxt "SettingsSections::discussion::products"
 msgid "Products"
@@ -189,7 +193,7 @@ msgstr "Commandes"
 
 msgctxt "SettingsSections::discussion::news"
 msgid "News"
-msgstr "News"
+msgstr "Actualités"
 
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
@@ -201,11 +205,11 @@ msgstr "Pages"
 
 msgctxt "SettingsSections::discussion::testimonials"
 msgid "Testimonials"
-msgstr "Testimonials"
+msgstr "Témoignages"
 
 msgctxt "SettingsSections::discussion::companies"
 msgid "Vendors"
-msgstr "Vendors"
+msgstr "Vendeurs"
 
 msgctxt "SettingsOptions::discussion::product_posts_per_page"
 msgid "Posts per page"
@@ -225,11 +229,11 @@ msgstr "Envoyer des notifications à cet email"
 
 msgctxt "SettingsOptions::discussion::product_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Envoyer des notifications au vendeur"
 
 msgctxt "SettingsOptions::discussion::product_share_discussion"
 msgid "Share discussion with product"
-msgstr "Share discussion with product"
+msgstr "Partager des discussion sur le produit"
 
 msgctxt "SettingsOptions::discussion::category_posts_per_page"
 msgid "Posts per page"
@@ -253,11 +257,11 @@ msgstr "Posts par page"
 
 msgctxt "SettingsOptions::discussion::order_initiate"
 msgid "Allow customer to initiate discussion"
-msgstr "Allow customer to initiate discussion"
+msgstr "Permettre aux client d'ouvrir la discussion"
 
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Envoyer des notifications au vendeur"
 
 msgctxt "SettingsOptions::discussion::news_posts_per_page"
 msgid "Posts per page"
@@ -277,7 +281,7 @@ msgstr "Envoyer des notifications à cet email"
 
 msgctxt "SettingsOptions::discussion::news_share_discussion"
 msgid "Share discussion with news"
-msgstr "Share discussion with news"
+msgstr "Partager des discussion sur des actualités"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -305,23 +309,23 @@ msgstr "Envoyer des notifications à cet email"
 
 msgctxt "SettingsOptions::discussion::page_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Envoyer des notifications au vendeur"
 
 msgctxt "SettingsOptions::discussion::page_share_discussion"
 msgid "Share discussion with page"
-msgstr "Share discussion with page"
+msgstr "Partager des discussion sur la page"
 
 msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
 msgid "Posts per page"
-msgstr "Posts per page"
+msgstr "Messages par page"
 
 msgctxt "SettingsOptions::discussion::home_page_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "Administrateur doit approuver les messages soumis par"
 
 msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Seul un message est autorisé à partir de cette IP"
 
 msgctxt "SettingsOptions::discussion::home_page_notification_email"
 msgid "Send notifications to this E-mail"

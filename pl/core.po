@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-10 03:00-0500\n"
+"PO-Revision-Date: 2014-12-11 11:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -6565,7 +6565,7 @@ msgstr "Płatności"
 
 msgctxt "Languages::payments.cresecure.location_notice"
 msgid "<b>Please note:</b><br>1. This payment requires the https checkout option to be enabled!<br>2. By default, the Checkout location is shown to a user on payment placing. In order to show a different location, create a new location with the dispatch 'checkout.cresecure_template' in the <a href=\"[url]\" target=\"_blank\">Layout manager</a>."
-msgstr "<b>Please note:</b><br>1. This payment requires the https checkout option to be enabled!<br>2. By default, the Checkout location is shown to a user on payment placing. In order to show a different location, create a new location with the dispatch 'checkout.cresecure_template' in the <a href=\"[url]\" target=\"_blank\">Layout manager</a>."
+msgstr "<b>Uwaga:</b><br>1. Płatność ta wymaga aby protokół https był włączony !<br>2. Domyślnie, miejsce realizacji transakcji jest dla użytkownika pokazane podczas wprowadzania płatności. Aby pokazać innym miejscu, należy utworzyć nową lokalizację 'checkout.cresecure_template' w <a href=\"[url]\" target=\"_blank\">Projektowanie -> Bloki</a>."
 
 msgctxt "Languages::payments.epdq.bgcolor"
 msgid "Background color"
@@ -8869,7 +8869,7 @@ msgstr "Wymagana informacja o adresie usługi"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_carrier_leave_if_no_response"
 msgid "Carrier Leave If No Response"
-msgstr "Carrier Leave If No Response"
+msgstr "Opuść wysyłkę, jeśli nie ma odpowiedzi"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_change_service"
 msgid "Change Service Requested"
@@ -10181,7 +10181,7 @@ msgstr "Do celów testowych , Merchant URL może być linkiem HTTP do twojego sk
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
-msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
+msgstr "<b>Uwaga:</b> Zgodnie z <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'> polityką Amazon</a> (B4.2) dopłaty nie są obsługiwane. Wszelkie opłaty dodatkowe, które masz ustawione zostaną zignorowane podczas procesu zamawiania przez Amazon."
 
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
@@ -13438,7 +13438,7 @@ msgstr "Usługa FuturePay jest obecnie niedostępna poza Ameryką"
 
 msgctxt "Languages::payments.futurepay.customer_error"
 msgid "You currently have an outstanding application with FuturePay which needs resolving"
-msgstr "You currently have an outstanding application with FuturePay which needs resolving"
+msgstr "Obecnie masz zewnętrzną aplikację FuturePay, która wymaga weryfikacji"
 
 msgctxt "Languages::payments.futurepay.phone_error"
 msgid "There was no phone number entered for your billing address. Please enter a phone number and try again"
@@ -13446,11 +13446,11 @@ msgstr "Nie został wprowadzony żaden numer telefonu w danych bilingowych. Pros
 
 msgctxt "Languages::payments.futurepay.zipcode_error"
 msgid "The Zip code you entered for your billing address corresponds to a Military (APO/FPO/DPO), PO Box or other non-physical address. To approve your application we require a Zip code associated with a physical address in the U.S."
-msgstr "The Zip code you entered for your billing address corresponds to a Military (APO/FPO/DPO), PO Box or other non-physical address. To approve your application we require a Zip code associated with a physical address in the U.S."
+msgstr "Kod pocztowy podany podczas rejestracji odpowiada kodom wojskowym (APO/FPO/DPO), PO Box lub innym nie fizycznym adresom. Przy zatwierdzaniu aplikacji wymagamy jest kod skojarzony z adresem fizyczny w USA."
 
 msgctxt "Languages::payments.futurepay.order_exists"
 msgid "The reference exists with an order that has completed sales attached"
-msgstr "The reference exists with an order that has completed sales attached"
+msgstr "Istnieje odniesienie do zamówienia do którego został dołączony sprzedawca"
 
 msgctxt "Languages::filter_by_categories"
 msgid "Filter by categories"
@@ -14112,10 +14112,6 @@ msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
 msgstr "Jakość formatu JPEG (0-100)"
 
-msgctxt "SettingsOptions::header_8048"
-msgid "Use for"
-msgstr "Użyj dla"
-
 msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
 msgstr "Rok, w którym sklep został otwarty"
@@ -14136,9 +14132,9 @@ msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
 msgstr "Adres e-mail do biura obsługi klienta"
 
-msgctxt "SettingsOptions::use_for_login"
-msgid "Login form"
-msgstr "Formularz logowania"
+msgctxt "SettingsOptions::use_for"
+msgid "Use for"
+msgstr "Użyj dla"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14152,10 +14148,6 @@ msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
 msgstr "Adres e-mail do administratora strony"
 
-msgctxt "SettingsOptions::use_for_register"
-msgid "Create and edit profile form"
-msgstr "Formularz rejestracji"
-
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
 msgstr "Wysokość miniaturki dla listy produktów (kategorie, wyszukiwanie itp.)"
@@ -14167,10 +14159,6 @@ msgstr "Adres e-mail do biura obsługi zamówień"
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
 msgstr "Domyślny telefon"
-
-msgctxt "SettingsOptions::use_for_form_builder"
-msgid "Custom forms"
-msgstr "Formularz klienta"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
@@ -14191,10 +14179,6 @@ msgstr "Ilość elementów na stronie"
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
 msgstr "Włącz śledzenie magazynu"
-
-msgctxt "SettingsOptions::use_for_email_share"
-msgid "Send to friend form"
-msgstr "Formularz wyślij znajomemu"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
@@ -14220,10 +14204,6 @@ msgctxt "SettingsOptions::edp_key_ttl"
 msgid "Download key TTL (for electronically distributed products), hours"
 msgstr "Czas (w godzinach), przez który można pobrać produkt w postaci elektronicznej (np. mp3, kod dostępu itp.)"
 
-msgctxt "SettingsOptions::use_for_discussion"
-msgid "Comments and reviews forms"
-msgstr "Formularz komentarzy i recenzji"
-
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
 msgstr "Ostrzeżenie o niskim stanie magazynu"
@@ -14236,10 +14216,6 @@ msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
 msgstr "Pokaż produkty z subkategorii wybranej kategorii"
 
-msgctxt "SettingsOptions::use_for_checkout"
-msgid "Checkout (user information) form"
-msgstr "Formularz potwierdzenia"
-
 msgctxt "SettingsOptions::display_options_modifiers"
 msgid "Display modifiers for product options"
 msgstr "Wyświetl modyfikatory dla opcji produktu"
@@ -14248,17 +14224,9 @@ msgctxt "SettingsOptions::exception_style"
 msgid "Exception style"
 msgstr "Style wyjątków"
 
-msgctxt "SettingsOptions::use_for_polls"
-msgid "Polls"
-msgstr "Ankiety"
-
 msgctxt "SettingsOptions::product_cart_thumbnail_width"
 msgid "Product cart page thumbnail width"
 msgstr "Szerokość miniaturki na stronie koszyka"
-
-msgctxt "SettingsOptions::use_for_track_orders"
-msgid "Track my order form"
-msgstr "Fromularz śledzenia zamówienia"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_height"
 msgid "Product cart page thumbnail height"
@@ -15454,7 +15422,7 @@ msgstr "Szablony"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Podaj ten adres URL w przy zarządzaniu kontem Realex"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
@@ -15583,6 +15551,22 @@ msgstr "Płatność ta jest niedostępna dla tego typu kart kredytowych."
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
 msgstr "Niepoprawne wartości pól \"Valid thru\"."
+
+msgctxt "Languages::use_for_login"
+msgid "Login form"
+msgstr "Formularz logowania"
+
+msgctxt "Languages::use_for_register"
+msgid "Create and edit profile form"
+msgstr "Formularz rejestracji i edycji profilu"
+
+msgctxt "Languages::use_for_checkout"
+msgid "Checkout (user information) form"
+msgstr "Formularz zamówienia (informacje o kliencie)"
+
+msgctxt "Languages::use_for_track_orders"
+msgid "Track my order form"
+msgstr "Formularz śledzenia zamówienia"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
