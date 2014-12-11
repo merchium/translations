@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: merchium\n"
 "X-Crowdin-File: /addons/saas.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-09 11:00-0500\n"
+"PO-Revision-Date: 2014-12-11 07:37-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -131,6 +131,18 @@ msgstr "Хранилище"
 msgctxt "Languages::saas.file_storage"
 msgid "file storage"
 msgstr "На диске"
+
+msgctxt "Languages::saas.edit_robots_txt"
+msgid "Edit robots.txt"
+msgstr "Редактирование robots.txt"
+
+msgctxt "Languages::saas.enjoy_priority_support"
+msgid "Enjoy priority support"
+msgstr "VIP-поддержка"
+
+msgctxt "Languages::saas.upload_files_via_webdav"
+msgid "Upload files via WebDAV"
+msgstr "Загрузка файлов по WebDAV"
 
 msgctxt "Languages::saas.custom_domain_name"
 msgid "Custom domain name"
@@ -488,7 +500,27 @@ msgctxt "Languages::saas.error_disabling_subscription"
 msgid "Error occured while disabling subscription"
 msgstr "При отключении подписки произошла ошибка"
 
+msgctxt "Languages::saas.text_yandex_money_urls"
+msgid "Use the following URLs in Yandex Money settings:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Merchant Account Request</a><p>If you want to use Yandex Merchant Web Services, please read <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Certificate exchange procedure</a>, then get the required certificate and set up Merchant Web Services in the corresponding section below.</p>"
+msgstr "Используйте следующие URL в настройках Яндекс.Денег:<br /><table class=\"table table-middle\"><thead><tr>    <th width=\"10%\" class=\"left\">    <th width=\"90%\" class=\"left\"></tr></thead><tr>    <td class=\"left\">        <b>paymentAvisoURL:</b>    </td>    <td class=\"left\">        [avisio_url]    </td></tr><tr>    <td class=\"left\">        <b>checkURL:</b>    </td>    <td class=\"left\">        [check_url]    </td></tr><tr>    <td class=\"left\">        <b>failURL:</b>    </td>    <td class=\"left\">        [fail_url]    </td></tr><tr>    <td class=\"left\">        <b>successURL:</b>    </td>    <td class=\"left\">        [success_url]    </td></tr></table><a href=\"#\" class=\"cm-sw-show-yandex-money-form\">Создание контрагента</a><p>Если вы собираетесь использовать Веб-сервисы Яндекс.Денег для Контрагентов, пожалуйста причитайте статью <a href=\"https://money.yandex.ru/doc.xml?id=526506\" target=\"_blank\">Процедура обмена сертификатами</a>, после этого получите сертификат и настройте Веб-сервисы Яндекс.Денег для Контрагентов в секции ниже.</p>"
+
+msgctxt "Languages::saas.go_pro"
+msgid "Go Pro"
+msgstr "Купить пакет Про"
+
+msgctxt "Languages::saas.see_all_features"
+msgid "See all features"
+msgstr "Посмотреть все возможности"
+
 msgctxt "Languages::saas.confirm_subscription_cancellation_text"
 msgid "Note that your subscription will be permanently cancelled. You will be able to reinstall the theme only after you purchase the subscription again."
 msgstr "Обратите внимание, что, отменив подписку, вы сможете заново установить тему только после повторной покупки."
+
+msgctxt "Languages::saas.pro_required_title"
+msgid "This is a Pro feature"
+msgstr "Функция доступна только в пакете Про"
+
+msgctxt "Languages::saas.pro_required_text"
+msgid "Please upgrade to Merchium Pro to get access to this feature."
+msgstr "Пожалуйста, купите подписку Про, чтобы получить доступ к этой возможности."
 
