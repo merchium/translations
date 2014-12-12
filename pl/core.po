@@ -9,11 +9,11 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-11 11:00-0500\n"
+"PO-Revision-Date: 2014-12-12 07:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
-msgstr "Polski"
+msgstr "Nazwa języka"
 
 msgctxt "Languages::2co_enable_fraud_verification"
 msgid "Enable support of fraud notification"
@@ -5109,7 +5109,7 @@ msgstr "Cena zakupu została podwyższona przez"
 
 msgctxt "Languages::list_price_short"
 msgid "List price"
-msgstr "Cennik"
+msgstr "Sugerowana cena sprzedaży"
 
 msgctxt "Languages::list_quantity_count"
 msgid "List quantity count"
@@ -6589,7 +6589,7 @@ msgstr "Przepraszamy, wygenerowany hash nie pasuje do wzorca"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
-msgstr "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
+msgstr "<ol><li><p>Wpisz następujący adres URL w sekcji\"Technical information\"→\"Transaction feedback\" w panelu admina ePDQ:</p> <p>dla płatności \"accepted\" i \"cancelled\": [url]</p></li> <li>upewnij się, że \"Timing of the request\" jest ustawiony na \"Always online\", i \"Request method\" jest ustawiona na \"POST\".</li> <li>Zdefiniuj wartość \"SHA-OUT pass phrase\" w panelu admin ePDQ, jak chcesz, następnie należy skopiować go do pola \"SHA-IN pass phrase\" w sekcji \"Data and origin verification\", a także w pole \"Pass-phrase\" poniżej</li> <li>Upewnij się, że opcja \"Default operation code\" w panelu admina ePDQ ma taką samą wartość jak \"Transaction type\" poniżej</li> <li>Ustaw parametr \"Hash algorithm\" na \"SHA-1\" w sekcji \"Global security parameters\" w panelu admina ePDQ</li></ol>"
 
 msgctxt "Languages::payments.epdq.pspid"
 msgid "EPDQ pspid"
@@ -7257,7 +7257,7 @@ msgstr "Konta firmowe udostępniane przez Cardsave, <a href=\"http://www.cardsav
 
 msgctxt "Languages::processor_description_p21"
 msgid "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
-msgstr "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
+msgstr "<b>P21 Simple API</b> umożliwia akceptowanie płatności. Oferuje najbardziej kompleksowy system rozliczania transakcji. Z Check 21, otrzymasz swoje fundusze tego samego dnia czekiem lub przelewem. <br/> <br/>Aby aktywować opcję Check 21, prosimy o kontakt pod adresem e-mail: <a href=\"mailto:support@payment21.com\"> support@payment21.com</a> lub telefonicznie pod numerem: 1-888-770-0850 (USA Toll Free) lub 0041-71-740-1629 (International). <br/> <br/><a href=\"http://www.payment21.com\" target=\"_blank\"> www.payment21.com</a>"
 
 msgctxt "Languages::processor_id"
 msgid "Processor ID"
@@ -8889,7 +8889,7 @@ msgstr "ID Klienta"
 
 msgctxt "Languages::ship_fedex_drop_off_type"
 msgid "Drop Off Type"
-msgstr "Drop Off Type"
+msgstr "Rodzaj dostawy"
 
 msgctxt "Languages::ship_fedex_drop_off_type_regular_pickup"
 msgid "Regular pickup"
@@ -8901,7 +8901,7 @@ msgstr "Zamów kuriera"
 
 msgctxt "Languages::ship_fedex_drop_off_type_station"
 msgid "Drop at station"
-msgstr "Drop at station"
+msgstr "Pozostawienie na stacji"
 
 msgctxt "Languages::ship_fedex_height"
 msgid "Height (inches)"
@@ -8913,7 +8913,7 @@ msgstr "Hub ID"
 
 msgctxt "Languages::ship_fedex_indicia"
 msgid "Indicia"
-msgstr "Indicia"
+msgstr "Przesłanki"
 
 msgctxt "Languages::ship_fedex_indicia_media_mail"
 msgid "Media Mail (Packages from 1 to 70 lbs Books, DVDs, CDs, videotapes)"
@@ -10165,7 +10165,7 @@ msgstr "Obsługiwane są następujące rozszerzenia pliku: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
+msgstr "Ważne! Należy określić adres URL sklepu <b>[callback_url]</b> na stronie sprzedawcy Amazon (Settings > Checkout Pipeline Settings). W przeciwnym razie nie będziesz mógł przyjmować płatności przez Amazon w sklepie"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
@@ -10209,7 +10209,7 @@ msgstr "<b>Note:</b><br />1. Copy your certificate, which was sent to you on the
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
-msgstr "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
+msgstr "<span style=\"color:#FF2222\"> Ostrzeżenie!</span> Ścieżka do atos, powinnna składać się z nie więcej niż 60 symboli, w przeciwnym razie proszę skopiować katalog atos_files do jakiegoś katalogu nadrzędnego, np. do katalogu podstawowego programu. Upewnij się, że katalog plików atos ma pełne uprawnienia."
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
@@ -10417,7 +10417,7 @@ msgstr "Logo dla strefy <b>klienta</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Uwaga</b>: w celu śledzenia zamówień DataTrans w programie trzeba wykonać następujące czynności: <br />  <br /> -&nbsp;Zaloguj się na swoje konto DataTrans <br />-&nbsp;kliknij na link <u>\"Upp Data\"</u> w sekcji <u>'Upp Administration'</u>. <br /> -&nbsp;Ustaw <u>'URL Post data format'</u> <b>'Data in HTML FORM'</b><br /> -&nbsp;Ustaw <u>\"URL Post\"</u>: <br /> <b>[post_url]</b> <br />-&nbsp;Kliknij na link <u>'Security'</u> w sekcji <u>'Upp Administration'</u>. <br /> -&nbsp;Wybierz opcję<b>'An additional merchant identification will be send with payment messages'</b>. <br />-&nbsp;Generowanie nowego podpisu cyfrowego za pomocą przycisku <u>'Generate new sign'</u>. <br />-&nbsp;Ustaw generowane wartość w polu <u>'Digital signature'<u>, na stronie konfiguracji DataTrans płatności w sklepie <br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10433,7 +10433,7 @@ msgstr "<b>Uwaga:</b> Proszę wyślij następujące informacje do wsparcia Delta
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
-msgstr "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
+msgstr "Ustaw 'Link potwierdzenia zamówienia': <b>[success_url]</b> <br /> Ustaw \"Link anulowania zamówienia\" do: <b>[abort_url]</b> <br /> Dodaj nowe powiadomienie HTTP i ustaw \"Adres URL powiadomienia\": <b>[notification_url]</b> <br /> Aktywuj wybor danych wejściowych i ustaw  \"algorytm hash' jako 'SHA1' <br />"
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
@@ -10473,7 +10473,7 @@ msgstr "E-mail został wysłany poprawnie."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
-msgstr "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
+msgstr "Proszę uzupełnić te pola w konfiguracji eMerchantPay: <br/><br/><b>BackReturn URL<b>:</b><br/>[backreturn_url]<br/><br/> <b>Custom Approval URL:</b> <br/>[notify_url] <br/> <br/> <b>Custom Decline URL:</b> <br/>[decline_url] <br/> <br/> <b>Activate Notification URL:</b> <br/>[process_url]"
 
 msgctxt "Languages::text_enets_notice"
 msgid "Please send the following URL to the eNPS manager as a response URL for all the three cases (success, failure, cancel): [r_url]"
@@ -10597,7 +10597,7 @@ msgstr "Wymagany<strong>Tryb pełny sklepu</strong>."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
-msgstr "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
+msgstr "<p>Należy ustawić następujące wartości w ustawieniach Gate2Shop:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
 
 msgctxt "Languages::text_gd_not_avail"
 msgid "GD library is <b>not</b> installed on your server. Please contact your hosting provider. <br />Charts can be represented only as tables (chart type \"Table\")."
@@ -10609,7 +10609,7 @@ msgstr "<b>Client ID  -</b> Your Client ID, is a number  between 0 and 999999999
 
 msgctxt "Languages::text_ideal_basic_notice"
 msgid "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
-msgstr "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
+msgstr "-&nbsp;Zaloguj się na konto IDEAL <br />-&nbsp;kliknij na <u>\"Zabezpieczenie\"</u> w sekcji <u>\"Profil\"</u>. <br />-&nbsp;Ustaw opcję <u>\"Powiadomienia\"</u> przez <b>\"XML\"</b> <br /> -&nbsp;zestaw <u>\"adres URL powiadomienia\"</u>: <br /> <b>[return_url]</b> <br /> -&nbsp;ustaw <u>'Tajny klucz'</u>. Tajny klucz jest znany tylko sprzedawcy i IDEAL."
 
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
@@ -10665,7 +10665,7 @@ msgstr "No response from MoneyBookers has been received yet, please hold on. Alt
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "Domyślnie, minimalne i maksymalne wartości poszczególnych transakcji na Twoim koncie są jak pokazano poniżej: <table cellpadding=\"3\"> <tr><td><b>limity</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td></tr> <tr><td><b>Minimum </b></td> <td>1&pound;</td> <td> 1$</td> <td>1&euro;</td></tr> <tr><td><b>maksymalnie </b></td> <td>1000 &pound;</td> <td>1500$</td> <td>1500&euro;</td></tr></table> prosimy o kontakt z opiekunem rachunku w celu podwyższenia limitów na koncie. <br /> <p> Należy ustawić następujące parametry w panelu sprzedawcy. Kliknij przycisk zarządzanie kontem i ustaw: <br />- Response URL: [return_url] <br />- Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -10757,7 +10757,7 @@ msgstr "<b>[total]</b> [name] zostaną wyeksportowane."
 
 msgctxt "Languages::text_ogonedirect_notice"
 msgid "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
-msgstr "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
+msgstr "Wprowadź podpis SHA-1: tutaj i w konfiguracji Ogone. <br /> <br /> Dla nowych kont Ogone utworzonych po 11 maja 2010, nowa polityka SHA zostanie automatycznie aktywowana. <br/> Proszę nie zapominać zaznaczyć pola wyboru \"Użyj nowej polityki SHA\"."
 
 msgctxt "Languages::text_ogoneweb_notice"
 msgid "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
@@ -10877,7 +10877,7 @@ msgstr "Nie pokazuj wyboru waluty"
 
 msgctxt "Languages::text_paysitecash_notice"
 msgid "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
-msgstr "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
+msgstr "Proszę dodać te pola URL w konfiguracji Paysite Cash: <br/> <br/> <b>URL:</b> <br/>[url] <br/> <br/> <b>Adres odniesienia url:</b> <br/>[ref_url] <br/> <br/> <b>adres powrotny po płatności:</b> <br/>[sucess_url] <br/> <br/> <b>adres anulowania płatności:</b> <br/>[cancel_url] <br/> <br/> <b>adres potwierdzenia płatności:</b> <br/>[confirm_url]"
 
 msgctxt "Languages::text_paysitecash_processor"
 msgid "Processor"
@@ -11038,7 +11038,7 @@ msgstr "Jesteś pewien, że chcesz odzyskać szablon ?"
 
 msgctxt "Languages::text_sagepay_dir_notice"
 msgid "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
-msgstr "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
+msgstr "<b>Uwaga:</b> W celu śledzenia zamówień SagePay , włącz zabezpieczenie 3D Secure w ustawieniach konta SagePay VSP."
 
 msgctxt "Languages::text_sagepay_notice"
 msgid "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
@@ -11094,7 +11094,7 @@ msgstr "Przesłałeś nam nową prośbę o uruchomienie [date]. Należy pamięta
 
 msgctxt "Languages::text_skrill_activate_quick_checkout_short_explanation_2"
 msgid "After activation Skrill will grant you access to a new section in your Skrill Account called Merchant Tools. There please choose a secret word (NOT the same as your password) and enter it in the section below to connect to Skrill. The secret word is the last step of your activation process and encrypts your payments securely. After successful submission you will be ready to use all the direct payment options of Skrill."
-msgstr "After activation Skrill will grant you access to a new section in your Skrill Account called Merchant Tools. There please choose a secret word (NOT the same as your password) and enter it in the section below to connect to Skrill. The secret word is the last step of your activation process and encrypts your payments securely. After successful submission you will be ready to use all the direct payment options of Skrill."
+msgstr "Po aktywacji Skrill otrzymujesz dostęp do nowej sekcji na koncie Skrill o nazwie Merchant Tools. Tam wybierz tajne słowo, (nie to samo co hasło) i wprowadź je w sekcji poniżej, aby połączyć się z Skrill. Tajne słowo jest ostatnim krokiem procesu aktywacji i szyfruje płatności przez Internet. Po udanej aktywacji będziesz gotowy do użycia wszystkich płatności Skrill."
 
 msgctxt "Languages::text_skrill_currs_notice"
 msgid "If you selected a currency that is not the base one in your store, please make sure that it has the correct <a href=\"http://en.wikipedia.org/wiki/ISO_4217\">ISO 4217 code</a> on the <a href=\"[link]\">currencies</a> page."
@@ -12298,7 +12298,7 @@ msgstr "Okresy do analizy (dzień, tydzień, miesiąc, rok)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
+msgstr "Parametr sortowania po wartościach. Ta pozycja powinna odnosić się do wartości wyświetlanych parametrów (np. kosztów produktu — całkowitych kosztów lub liczba produktów — liczba elementów)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -12662,7 +12662,7 @@ msgstr "Użyj dostępnego czasu"
 
 msgctxt "Languages::use_cardinal"
 msgid "Use Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
-msgstr "Use Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
+msgstr "Użyj  Cardinal Centinel &reg; 3-D bezpieczne uwierzytelniania płatności"
 
 msgctxt "Languages::use_coupons_commission"
 msgid "Coupon commission"
