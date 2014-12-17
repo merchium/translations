@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-11 11:00-0500\n"
+"PO-Revision-Date: 2014-12-17 08:00-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -77,7 +77,7 @@ msgstr "Témoignages"
 
 msgctxt "Languages::text_enabled_testimonials_notice"
 msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
-msgstr "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Les témoignages sont désactivées. Pour les activer, veuillez aller sur <a href=\"[link]\"> observations et commentaires : options</a> et sélectionnez la valeur « Communication », « Notation » ou « Communication et notation » dans le champ « Témoignages »."
 
 msgctxt "Languages::discussion_title_company"
 msgid "Reviews"
@@ -93,7 +93,7 @@ msgstr "Notation"
 
 msgctxt "Languages::cant_find_thread"
 msgid "Thread can not be found."
-msgstr "Thread can not be found."
+msgstr "Le fil de discussion ne peut pas être trouvé."
 
 msgctxt "Languages::error_already_posted"
 msgid "You have posted in this discussion already"
@@ -133,7 +133,7 @@ msgstr "ET"
 
 msgctxt "Languages::add_post"
 msgid "Add post"
-msgstr "Add post"
+msgstr "Ajouter un commentaire"
 
 msgctxt "Languages::not_approved"
 msgid "Not approved"
@@ -329,27 +329,27 @@ msgstr "Seul un message est autorisé à partir de cette IP"
 
 msgctxt "SettingsOptions::discussion::home_page_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Envoyer des notifications à cet E-mail"
 
 msgctxt "SettingsOptions::discussion::home_page_testimonials"
 msgid "Testimonials"
-msgstr "Testimonials"
+msgstr "Témoignages"
 
 msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
 msgid "Show testimonials from all stores"
-msgstr "Show testimonials from all stores"
+msgstr "Afficher les témoignages de tous les magasins"
 
 msgctxt "SettingsOptions::discussion::company_discussion_type"
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "Avis"
 
 msgctxt "SettingsOptions::discussion::company_only_buyers"
 msgid "Allow to post only for the customers who has bought somethins from the vendor"
-msgstr "Allow to post only for the customers who has bought somethins from the vendor"
+msgstr "Permet de poster uniquement aux clients qui ont achetés auprès du fournisseur"
 
 msgctxt "SettingsOptions::discussion::company_posts_per_page"
 msgid "Posts per page"
-msgstr "Posts per page"
+msgstr "Messages par page"
 
 msgctxt "SettingsOptions::discussion::company_post_approval"
 msgid "Administrator must approve posts submitted by"
@@ -365,7 +365,7 @@ msgstr "Envoyer des notifications à cet email"
 
 msgctxt "SettingsOptions::discussion::company_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Envoyer des notifications au vendeur"
 
 msgctxt "SettingsVariants::discussion::company_post_approval::any"
 msgid "Any customer"
@@ -381,7 +381,7 @@ msgstr "Pas besoin d'approbation"
 
 msgctxt "SettingsVariants::discussion::company_discussion_type::B"
 msgid "Communication and Rating"
-msgstr "Communication and Rating"
+msgstr "Communication et notation"
 
 msgctxt "SettingsVariants::discussion::company_discussion_type::C"
 msgid "Communication"
@@ -389,75 +389,75 @@ msgstr "Communication"
 
 msgctxt "SettingsVariants::discussion::company_discussion_type::R"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Notation"
 
 msgctxt "SettingsVariants::discussion::company_discussion_type::D"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "Désactivé"
 
 msgctxt "SettingsVariants::discussion::product_post_approval::any"
 msgid "Any customer"
-msgstr "Any customer"
+msgstr "N'importe quel client"
 
 msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
 msgid "Only anonymous customers"
-msgstr "Only anonymous customers"
+msgstr "Seulement les clients anonymes"
 
 msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
 msgid "No approval needed"
-msgstr "No approval needed"
+msgstr "Aucune approbation nécessaire"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::any"
 msgid "Any customer"
-msgstr "Any customer"
+msgstr "N'importe quel client"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
 msgid "Only anonymous customers"
-msgstr "Only anonymous customers"
+msgstr "Seulement les clients anonymes"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
 msgid "No approval needed"
-msgstr "No approval needed"
+msgstr "Aucune approbation nécessaire"
 
 msgctxt "SettingsVariants::discussion::news_post_approval::any"
 msgid "Any customer"
-msgstr "Any customer"
+msgstr "N'importe quel client"
 
 msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
 msgid "Only anonymous customers"
-msgstr "Only anonymous customers"
+msgstr "Seulement les clients anonymes"
 
 msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
-msgstr "No approval needed"
+msgstr "Aucune approbation nécessaire"
 
 msgctxt "SettingsVariants::discussion::page_post_approval::any"
 msgid "Any customer"
-msgstr "Any customer"
+msgstr "N'importe quel client"
 
 msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
 msgid "Only anonymous customers"
-msgstr "Only anonymous customers"
+msgstr "Seulement les clients anonymes"
 
 msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
 msgid "No approval needed"
-msgstr "No approval needed"
+msgstr "Aucune approbation nécessaire"
 
 msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
 msgid "Any customer"
-msgstr "Any customer"
+msgstr "N'importe quel client"
 
 msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
 msgid "Only anonymous customers"
-msgstr "Only anonymous customers"
+msgstr "Seulement les clients anonymes"
 
 msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
 msgid "No approval needed"
-msgstr "No approval needed"
+msgstr "Aucune approbation nécessaire"
 
 msgctxt "SettingsVariants::discussion::home_page_testimonials::B"
 msgid "Communication and Rating"
-msgstr "Communication and Rating"
+msgstr "Communication et notation"
 
 msgctxt "SettingsVariants::discussion::home_page_testimonials::C"
 msgid "Communication"
@@ -465,9 +465,9 @@ msgstr "Communication"
 
 msgctxt "SettingsVariants::discussion::home_page_testimonials::R"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Notation"
 
 msgctxt "SettingsVariants::discussion::home_page_testimonials::D"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "Désactivé"
 

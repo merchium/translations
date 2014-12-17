@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-15 03:00-0500\n"
+"PO-Revision-Date: 2014-12-17 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -401,7 +401,7 @@ msgstr "Ajouter les pages et fermer"
 
 msgctxt "Languages::add_payment"
 msgid "Add payment method"
-msgstr "Add payment method"
+msgstr "Ajoutez une méthode de paiement"
 
 msgctxt "Languages::add_payout"
 msgid "Add payout"
@@ -1189,11 +1189,11 @@ msgstr "Changer la mise en page lorsque le thème est converti en CSS n'est pas 
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Ajouter une mise en page"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Éditer la page de mise en page"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
@@ -1889,7 +1889,7 @@ msgstr "Nettoyer le cache"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "Générer le cache"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -2957,7 +2957,7 @@ msgstr "Refusé"
 
 msgctxt "Languages::dependence"
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "Trier par"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"
@@ -3405,7 +3405,7 @@ msgstr "Type d'édition"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
-msgstr "Edit content on-site"
+msgstr "Modifiez le contenu sur le site"
 
 msgctxt "Languages::edit_files"
 msgid "Edit files"
@@ -3621,7 +3621,7 @@ msgstr "La monnaie avec le code <b>[code]</b> existe déjà"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "One of your storefronts uses this theme. Please set another theme before deleting it."
+msgstr "L'un de vos vitrines utilise ce thème. Veuillez définir un autre thème avant de le supprimer."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
@@ -3829,7 +3829,7 @@ msgstr "La société avec l'email que vous avez choisi existe déjà, veuillez e
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC est trop court."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4005,7 +4005,7 @@ msgstr "Caractéristiques"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Délimiteur de variantes de fonctionnalité"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4025,7 +4025,7 @@ msgstr "Afficher dans la liste des produits"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Show in header on the product details page"
+msgstr "Afficher dans l'en-tête sur la page de détails du produit"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4065,7 +4065,7 @@ msgstr "Fichiers"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Fichiers à vendre"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -4273,7 +4273,7 @@ msgstr "Arborescence complète"
 
 msgctxt "Languages::full_tree_pages"
 msgid "Full tree"
-msgstr "Full tree"
+msgstr "Arborescence complète"
 
 msgctxt "Languages::full_width"
 msgid "Full width"
@@ -4405,7 +4405,7 @@ msgstr "Grille"
 
 msgctxt "Languages::tmpl_grid"
 msgid "Grid"
-msgstr "Grid"
+msgstr "Grille"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -4693,7 +4693,7 @@ msgstr "Mises à jour installées"
 
 msgctxt "Languages::welcome_screen.administrator_info"
 msgid "To access the administrator area, use the e-mail (<b>[email]</b>) and the password you have entered earlier."
-msgstr "To access the administrator area, use the e-mail (<b>[email]</b>) and the password you have entered earlier."
+msgstr "Pour accéder à la zone administrateur, utilisez l'adresse mail (<b>[email]</b>) et le mot de passe que vous avez entré précédemment."
 
 msgctxt "Languages::welcome_screen.go_admin_panel"
 msgid "Go to the administration panel"
@@ -4705,7 +4705,7 @@ msgstr "Aller à la boutique"
 
 msgctxt "Languages::welcome_screen.go_settings_wizard"
 msgid "Go to the Settings wizard for basic store setup"
-msgstr "Go to the Settings wizard for basic store setup"
+msgstr "Accédez à l'Assistant de paramètres pour la configuration de base du magasin"
 
 msgctxt "Languages::welcome_screen.knowledge_base"
 msgid "Knowledge base"
@@ -4753,7 +4753,7 @@ msgstr "Factures"
 
 msgctxt "Languages::invoice_credit_memo"
 msgid "Invoice/Credit memo"
-msgstr "Invoice/Credit memo"
+msgstr "Facture/Note de crédit"
 
 msgctxt "Languages::invoice_id"
 msgid "Invoice ID"
@@ -10969,7 +10969,7 @@ msgstr "<h4>Avantages de devenir un membre enregistré</h4>Connectez-vous à n'i
 
 msgctxt "Languages::text_profile_details"
 msgid "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
-msgstr "<h4> Profil de détails</h4><p>Sur cette page vous pouvez modifier vos informations de connexion et les données personnelles pour quelles soient utilisées lors de vos prochains achats.</p><p>Pour garder votre compte sécurisé, nous vous recommandons d'éviter de créer des mots de passe qui utilise:</p><ul><li>Dictionnaire des mots dans n'importe quel language..</li><li>Mots épelé à l'envers, fautes d'orthographe courantes, et les abréviations.</li><li> Séquences ou caractères répétés. Exemples: 12345678, 222222, abcdefg, ou de lettres adjacentes sur votre clavier (qwerty).</li><li> Informations personnelles. Votre nom, anniversaire, permis de conduire, numéro de passeport, ou des informations similaires.</li></ul>"
+msgstr "<h4>Détails du profil</h4><p>Sur cette page vous pouvez modifier vos informations de connexion et les données personnelles pour quelles soient utilisées lors de vos prochains achats.</p><p>Pour garder votre compte sécurisé, nous vous recommandons d'éviter de créer des mots de passe qui utilisent:</p><ul><li>Dictionnaire des mots dans n'importe quel language..</li><li>Mots épelé à l'envers, fautes d'orthographe courantes, et abréviations.</li><li> Séquences ou caractères répétés. Exemples: 12345678, 222222, abcdefg, ou des lettres adjacentes sur votre clavier (qwerty).</li><li> Informations personnelles. Votre nom, anniversaire, permis de conduire, numéro de passeport, ou des informations similaires.</li></ul>"
 
 msgctxt "Languages::text_profile_is_created"
 msgid "The account has been created successfully."
@@ -11197,7 +11197,7 @@ msgstr "Votre URL de retour est <b>[return_url]</b>"
 
 msgctxt "Languages::text_thumbnail_manual_loading"
 msgid "Thumbnails will be generated from detailed images automatically, but you can also <a id=\"[id]\" class=\"[class]\">upload them manually.</a>"
-msgstr "Les vignettes seront générées automatiquement à partir des images détaillées, mais vous pouvez aussi"
+msgstr "Les vignettes seront générées automatiquement à partir des images détaillées, mais vous pouvez aussi les <a id=\"[id]\" class=\"[class]\">télécharger manuellement.</a>"
 
 msgctxt "Languages::text_tinymce"
 msgid "TinyMCE"
