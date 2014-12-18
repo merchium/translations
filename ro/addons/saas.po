@@ -44,9 +44,41 @@ msgctxt "Languages::saas.domain"
 msgid "Domain"
 msgstr "Domain"
 
-msgctxt "Languages::saas.error_domain_exists"
+msgctxt "Languages::saas.update_domain"
+msgid "Update domain"
+msgstr "Update domain"
+
+msgctxt "Languages::saas.ssl_pem"
+msgid "SSL certificate (PEM)"
+msgstr "SSL certificate (PEM)"
+
+msgctxt "Languages::saas.text_ssl_pem"
+msgid "TODO: PEM info here"
+msgstr "TODO: PEM info here"
+
+msgctxt "Languages::saas.ssl_enable"
+msgid "Enable HTTPS"
+msgstr "Enable HTTPS"
+
+msgctxt "Languages::saas.domains_error.11"
 msgid "The domain is already assigned to one of our stores. Please choose another one."
 msgstr "The domain is already assigned to one of our stores. Please choose another one."
+
+msgctxt "Languages::saas.domains_error.21"
+msgid "SSL: failed to parse certificate"
+msgstr "SSL: failed to parse certificate"
+
+msgctxt "Languages::saas.domains_error.22"
+msgid "SSL: failed to parse public key"
+msgstr "SSL: failed to parse public key"
+
+msgctxt "Languages::saas.domains_error.23"
+msgid "SSL: public key and certificate don't match"
+msgstr "SSL: public key and certificate don't match"
+
+msgctxt "Languages::saas.domains_error.24"
+msgid "SSL: certificate domain not't match"
+msgstr "SSL: certificate domain not't match"
 
 msgctxt "Languages::saas.storefront_domain_url_already_exists"
 msgid "The value of the <strong>Custom domain</strong> parameter mentioned by you already belongs to another company."
@@ -252,7 +284,6 @@ msgctxt "Languages::saas.delete_reason_other"
 msgid "Other"
 msgstr "Other"
 
-
 msgctxt "Languages::saas.error_plan_products"
 msgid "Your current plan allows to create up to [n] product. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] products. To continue, please <a href=\"[href]\">upgrade</a> it."
 msgstr "Your current plan allows to create up to [n] product. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] products. To continue, please <a href=\"[href]\">upgrade</a> it."
@@ -389,17 +420,33 @@ msgctxt "Languages::saas.export_theme"
 msgid "Export theme"
 msgstr "Export theme"
 
-msgctxt "Languages::saas.theme_id"
-msgid "Theme ID"
-msgstr "Theme ID"
-
 msgctxt "Languages::saas.custom_domain"
 msgid "Custom domain"
 msgstr "Custom domain"
 
-msgctxt "Languages::saas.error_incorrect_theme_id"
-msgid "Incorrect theme ID - only latin letters, numbers and undescore are accepted."
-msgstr "Incorrect theme ID - only latin letters, numbers and undescore are accepted."
+msgctxt "Languages::saas.theme_installed"
+msgid "Theme has been installed successfully."
+msgstr "Theme has been installed successfully."
+
+msgctxt "Languages::saas.install_theme"
+msgid "Install theme"
+msgstr "Install theme"
+
+msgctxt "Languages::saas.themes_find_more"
+msgid "Find more themes in <a href=\"[href]\">Marketplace</a>"
+msgstr "Find more themes in <a href=\"[href]\">Marketplace</a>"
+
+msgctxt "Languages::saas.error_theme_unallowed_extension"
+msgid "The file [path] has [ext] extension which is not allowed in theme package."
+msgstr "The file [path] has [ext] extension which is not allowed in theme package."
+
+msgctxt "Languages::saas.error_theme_unallowed_path"
+msgid "The [path] path is not allowed in theme package."
+msgstr "The [path] path is not allowed in theme package."
+
+msgctxt "Languages::saas.error_theme_validation"
+msgid "Failed to read theme package."
+msgstr "Failed to read theme package."
 
 msgctxt "Languages::saas.error_last_storefront"
 msgid "This is the last storefront in your store and it can not be deleted."
