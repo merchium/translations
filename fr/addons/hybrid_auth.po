@@ -9,23 +9,23 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-19 05:00-0500\n"
+"PO-Revision-Date: 2014-12-19 10:00-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
-msgstr "Social login"
+msgstr "Connexion aux réseaux sociaux"
 
 msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
-msgstr "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Ajoute la fonctionnalité du login des réseaux sociaux; permet aux clients d'utiliser Facebook, Twitter, etc. pour se connecter au magasin"
 
 msgctxt "Languages::hybrid_auth_need_update_profile"
 msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "Le champ « Password » et d'autres champs obligatoires sont vides pour le moment. Mettez à jour votre profil."
 
 msgctxt "Languages::hybrid_auth_social_login"
 msgid "Or sign-in with another identity provider"
-msgstr "Or sign-in with another identity provider"
+msgstr "Ou connectez-vous avec un autre fournisseur d'identité"
 
 msgctxt "Languages::hybrid_auth_unspecified_error"
 msgid "Unspecified error"
@@ -33,15 +33,15 @@ msgstr "Unspecified error"
 
 msgctxt "Languages::hybrid_auth_configuration_error"
 msgid "Social login configuration error"
-msgstr "Social login configuration error"
+msgstr "Erreur de configuration du Social login"
 
 msgctxt "Languages::hybrid_auth_provider_error_configuration"
 msgid "Provider not properly configured"
-msgstr "Provider not properly configured"
+msgstr "Fournisseur pas correctement configuré"
 
 msgctxt "Languages::hybrid_auth_wrong_provider"
 msgid "Unknown or disabled provider"
-msgstr "Unknown or disabled provider"
+msgstr "Fournisseur inconnu ou désactivé"
 
 msgctxt "Languages::hybrid_auth_missing_credentials"
 msgid "Missing provider application credentials"
@@ -57,7 +57,7 @@ msgstr "Contacting <b>[provider]</b>. Please wait..."
 
 msgctxt "Languages::hybrid_auth_cant_create_profile"
 msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
-msgstr "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Malheureusement, nous n'avons pas à créer un client et un login au magasin en raison d'une des raisons suivantes : <br />-vous vous êtes connecté à notre magasin précédemment en utilisant un autre fournisseur OpenID qui utilise le même e-mail. <br />-Vous êtes déjà inscrit dans notre magasin à l'aide de votre e-mail. <br />Contactez le propriétaire du magasin pour résoudre ce problème."
 
 msgctxt "Languages::google_callback_url"
 msgid "Google callback URL"
