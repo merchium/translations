@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/sms_notifications.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-19 10:00-0500\n"
+"PO-Revision-Date: 2014-12-22 11:00-0500\n"
 
 msgctxt "Addons::name::sms_notifications"
 msgid "SMS notifications"
@@ -29,7 +29,7 @@ msgstr "Général"
 
 msgctxt "SettingsOptions::sms_notifications::phone_number"
 msgid "Phone number"
-msgstr "Phone number"
+msgstr "Numéro de téléphone"
 
 msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
 msgid "Clickatell settings"
@@ -45,19 +45,19 @@ msgstr "API ID"
 
 msgctxt "SettingsOptions::sms_notifications::clickatel_password"
 msgid "Password"
-msgstr "Password"
+msgstr "Mot de passe"
 
 msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
 msgid "Use Unicode"
-msgstr "Use Unicode"
+msgstr "Utiliser le format Unicode"
 
 msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
 msgid "Split long sms into several parts"
-msgstr "Divise les longs Sms longs en plusieurs parties"
+msgstr "Divise les longs Sms en plusieurs parties"
 
 msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
 msgid "Send SMS if"
-msgstr "Envoyer de SMS si"
+msgstr "Envoi de SMS si"
 
 msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
 msgid "New order has been placed"
@@ -65,11 +65,11 @@ msgstr "Une nouvelle commande a été passée"
 
 msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
 msgid "New customer has been registered"
-msgstr "New customer has been registered"
+msgstr "Un nouveau client a été enregistré"
 
 msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
 msgid "Product quantity is less than zero"
-msgstr "Product quantity is less than zero"
+msgstr "La quantité de produit est inférieure à zéro"
 
 msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
 msgid "Only send when order total amount is more than"
@@ -93,7 +93,7 @@ msgstr "Add customers e-mail"
 
 msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
 msgid "Do not split"
-msgstr "Do not split"
+msgstr "Ne pas diviser"
 
 msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
 msgid "2 sms"

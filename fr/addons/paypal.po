@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/paypal.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-19 10:00-0500\n"
+"PO-Revision-Date: 2014-12-22 11:00-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -25,11 +25,11 @@ msgstr "Remplacer les informations client"
 
 msgctxt "SettingsOptions::paypal::test_mode"
 msgid "Test mode"
-msgstr "Test mode"
+msgstr "Mode test"
 
 msgctxt "SettingsSections::paypal::general"
 msgid "General"
-msgstr "General"
+msgstr "Général"
 
 msgctxt "Languages::protection_eligibility"
 msgid "Protection eligibility"
@@ -37,7 +37,7 @@ msgstr "Protection eligibility"
 
 msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
 msgid "Instant payment notification settings"
-msgstr "Instant payment notification settings"
+msgstr "Paramètres de notification de paiement instantané"
 
 msgctxt "Languages::text_paypal_surcharge"
 msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
@@ -65,15 +65,15 @@ msgstr "IPN errors"
 
 msgctxt "Languages::pp_product_count_is_incorrect"
 msgid "Number of paid items is different than the number of items in the order"
-msgstr "Number of paid items is different than the number of items in the order"
+msgstr "Le nombre d'éléments payés est différent du nombre d'éléments dans la commande"
 
 msgctxt "Languages::pp_currency_is_incorrect"
 msgid "Currency used for the payment is different than the order currency."
-msgstr "Currency used for the payment is different than the order currency."
+msgstr "Devise utilisée pour le paiement est différente de la devise de la commande."
 
 msgctxt "Languages::pp_total_is_incorrect"
 msgid "Payment total is different than the order total."
-msgstr "Payment total is different than the order total."
+msgstr "Le total du paiement est différent du total de la commande."
 
 msgctxt "Languages::text_paypal_status_map"
 msgid "PayPal order status conversion map"

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/store_import.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-19 10:00-0500\n"
+"PO-Revision-Date: 2014-12-22 11:00-0500\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -29,11 +29,11 @@ msgstr "Démarrez un nouvel import du magasin"
 
 msgctxt "Languages::store_import.first_step"
 msgid "Select store"
-msgstr "Select store"
+msgstr "Sélectionnez le magasin"
 
 msgctxt "Languages::store_import.second_step"
 msgid "Validate and import"
-msgstr "Validate and import"
+msgstr "Valider et importer"
 
 msgctxt "Languages::store_import.cannot_connect_to_database_server"
 msgid "Cannot connect to the database server"
@@ -45,7 +45,7 @@ msgstr "Impossible de démarrer l'actualisation des données en raison de modifi
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>The store import is complete!</p>"
+msgstr "<p>L''import du magasin est terminé!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
@@ -65,15 +65,15 @@ msgstr "Actualiser les données"
 
 msgctxt "Languages::store_import.import_from"
 msgid "Import from"
-msgstr "Import from"
+msgstr "Importer à partir de"
 
 msgctxt "Languages::store_import.complete_store_import"
 msgid "Complete Store import"
-msgstr "Complete Store import"
+msgstr "Import du magasin terminé"
 
 msgctxt "Languages::store_import.import_data"
 msgid "Import data"
-msgstr "Import data"
+msgstr "Importer des données"
 
 msgctxt "Languages::store_import.complete_configuration"
 msgid "Proceed to actualizing data"
@@ -89,11 +89,11 @@ msgstr "Number of storefronts"
 
 msgctxt "Languages::store_import.store_import"
 msgid "Store import"
-msgstr "Store import"
+msgstr "Importer un magasin"
 
 msgctxt "Languages::store_import.local_store"
 msgid "Store path"
-msgstr "Store path"
+msgstr "Chemin d'accès du magasin"
 
 msgctxt "Languages::store_import.select_store"
 msgid "Validate"
@@ -105,7 +105,7 @@ msgstr "Enter the full path to the installation root directory of the store you 
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
-msgstr "Configure your store"
+msgstr "Configurer votre magasin"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"

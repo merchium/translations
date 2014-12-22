@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/searchanise.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-19 10:00-0500\n"
+"PO-Revision-Date: 2014-12-22 11:00-0500\n"
 
 msgctxt "Addons::name::searchanise"
 msgid "Searchanise"
@@ -29,11 +29,11 @@ msgstr "Le catalogue de produits est mis en attente pour la synchronisation avec
 
 msgctxt "Languages::text_se_re_indexation_required"
 msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
-msgstr "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise : une re-Indexation est requise (cliquez sur le bouton des <strong>forcer la ré-indexation </strong> dans le <a href=\"[link]\">panneau d'administration de Searchanise</a>)."
 
 msgctxt "Languages::text_se_new_engine_store"
 msgid "Searchanise: New search engine for [store] created. Catalog import started."
-msgstr "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise : Le nouveau moteur de recherche pour [store] a été créé. L'importation du catalogue a commencé."
 
 msgctxt "Languages::text_se_seo_settings_notice"
 msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
@@ -45,7 +45,7 @@ msgstr "Une erreur s'est produite lors de l'inscription de Searchanise. Veuillez
 
 msgctxt "Languages::text_se_import_status_processing"
 msgid "The product catalog syncing is in progress."
-msgstr "The product catalog syncing is in progress."
+msgstr "La synchronisation du catalogue de produit est en cours."
 
 msgctxt "Languages::text_se_import_status_done"
 msgid "The product catalog was synced successfully with Searchanise."
@@ -53,7 +53,7 @@ msgstr "The product catalog was synced successfully with Searchanise."
 
 msgctxt "Languages::text_se_import_status_none"
 msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
-msgstr "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "Le catalogue de produits n'est pas encore synchronisé avec Searchanise. Appuyez sur le bouton « Sync » pour commencer."
 
 msgctxt "Languages::text_se_data_update"
 msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
@@ -73,7 +73,7 @@ msgstr "You've connected to Searchanise."
 
 msgctxt "Languages::text_se_database_restore_notice"
 msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
-msgstr "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "Vous avez juste restaurer vos données depuis le fichier de sauvegarde de base de données. Si cette sauvegarde contient des données de produit, s'il vous plaît <a href=\"[link]\">re-indexation</a> avec Searchanise."
 
 msgctxt "Languages::text_se_only_root_can_register"
 msgid "Only the root admin has the permission to connect to Searchanise"
@@ -89,7 +89,7 @@ msgstr "Product Id"
 
 msgctxt "Languages::se_title"
 msgid "Title"
-msgstr "Title"
+msgstr "Titre"
 
 msgctxt "Languages::se_summary"
 msgid "Description"
@@ -105,11 +105,11 @@ msgstr "Price"
 
 msgctxt "Languages::se_quantity"
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "Quantité"
 
 msgctxt "Languages::se_product_code"
 msgid "Product Code"
-msgstr "Product Code"
+msgstr "Code du produit"
 
 msgctxt "Languages::se_image_link"
 msgid "Image Url"
