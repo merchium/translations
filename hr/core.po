@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-23 09:00-0500\n"
+"PO-Revision-Date: 2014-12-26 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1593,7 +1593,7 @@ msgstr "Sadržaji košarice"
 
 msgctxt "Languages::cart_info"
 msgid "Site info"
-msgstr "Site info"
+msgstr "informacije o webu"
 
 msgctxt "Languages::cart_is_empty"
 msgid "Cart is empty"
@@ -2081,7 +2081,7 @@ msgstr "Sažimanje datoteke sigurnosne kopije"
 
 msgctxt "Languages::compress_dump"
 msgid "Compress backup file"
-msgstr "Komprimiranje datoteke sigurnosne kopije"
+msgstr "Komprimiraj arhivu datoteke"
 
 msgctxt "Languages::condition"
 msgid "Condition"
@@ -3093,7 +3093,7 @@ msgstr "Display bottom buttons"
 
 msgctxt "Languages::display_delete_icons"
 msgid "Display delete icons"
-msgstr "Display delete icons"
+msgstr "Prikaži ikone za brisanje"
 
 msgctxt "Languages::display_message"
 msgid "Display message"
@@ -3669,11 +3669,11 @@ msgstr "Sljedeća su polja obavezna i ne mogu se ukloniti iz prikaza:"
 
 msgctxt "Languages::error_exim_no_data_exported"
 msgid "No data exported"
-msgstr "No data exported"
+msgstr "Podaci nisu eksportirani"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
-msgstr "No file uploaded"
+msgstr "Nijedna datoteka nije prenesena"
 
 msgctxt "Languages::error_exim_pattern_definition_alt_keys"
 msgid "Invalid pattern definition: alternative key is missing"
@@ -3709,7 +3709,7 @@ msgstr "The image format <b>[format]</b> is not supported by GD library installe
 
 msgctxt "Languages::error_incorrect_login"
 msgid "The username or password you have entered is invalid. Please try again."
-msgstr "The username or password you have entered is invalid. Please try again."
+msgstr "Korisničko ime ili e-mail koji ste odabrali već postoji. Molimo, unesite druge podatke."
 
 msgctxt "Languages::error_invalid_emails"
 msgid "The following email addresses are invalid: <b>[emails]</b>"
@@ -3733,7 +3733,7 @@ msgstr "You must log in before you can access this resource!"
 
 msgctxt "Languages::error_no_items_selected"
 msgid "No items selected! At least one check box must be selected to perform this action."
-msgstr "No items selected! At least one check box must be selected to perform this action."
+msgstr "Nema odabranih stavki! Najmanje jedan potvrdni okvir mora biti odabran za ovaj postupak."
 
 msgctxt "Languages::error_occured"
 msgid "Error occurred."
@@ -3757,15 +3757,15 @@ msgstr "Your password has expired. You must change your password now."
 
 msgctxt "Languages::error_password_expired_change"
 msgid "Your password has expired. <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
-msgstr "Your password has expired. <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
+msgstr "Vaša lozinka je istekla. <p><a href=\"[link]\" class=\"underlined\"> <b>Promijenite lozinku &#155;&#155;</b></a></p>"
 
 msgctxt "Languages::error_password_min_symbols"
 msgid "The password must contain at least <b>[number]</b> characters."
-msgstr "The password must contain at least <b>[number]</b> characters."
+msgstr "Lozinka mora sadržavati najmanje <b>[number]</b> znakova."
 
 msgctxt "Languages::error_password_was_used"
 msgid "Your new password must not coincide with any of those four passwords used before. Please use another password."
-msgstr "Your new password must not coincide with any of those four passwords used before. Please use another password."
+msgstr "Vaša nova lozinka ne smije se podudarati s nijednom od četiri prethodno korištene lozinke. Molimo, odaberite drugačiju lozinku."
 
 msgctxt "Languages::error_permissions_not_changed"
 msgid "Cannot change permissions"
@@ -3773,7 +3773,7 @@ msgstr "Ne možete promijeniti dozvole"
 
 msgctxt "Languages::error_status_not_changed"
 msgid "Error while updating the status. Status was not changed."
-msgstr "Error while updating the status. Status was not changed."
+msgstr "Pogreška pri ažuriranju statusa. Status nije promijenjen."
 
 msgctxt "Languages::error_theme_manifest_missed"
 msgid "Theme description file (\"manifest\") was not found. Installation canceled."
@@ -3781,7 +3781,7 @@ msgstr "Theme description file (\"manifest\") was not found. Installation cancel
 
 msgctxt "Languages::error_user_exists"
 msgid "The username or email you have chosen already exists. Please try another one."
-msgstr "The username or email you have chosen already exists. Please try another one."
+msgstr "Korisničko ime ili e-mail koji ste odabrali već postoji. Molimo, unesite druge podatke."
 
 msgctxt "Languages::error_validator_color"
 msgid "The color code in the <b>[field]</b> field is invalid."
@@ -3789,7 +3789,7 @@ msgstr "The color code in the <b>[field]</b> field is invalid."
 
 msgctxt "Languages::error_validator_email"
 msgid "The email address in the <b>[field]</b> field is invalid."
-msgstr "The email address in the <b>[field]</b> field is invalid."
+msgstr "E-mail adresa u polju <b>[field]</b> nije valjana."
 
 msgctxt "Languages::error_validator_integer"
 msgid "The value of the <b>[field]</b> field is invalid. It should be integer."
@@ -3797,7 +3797,7 @@ msgstr "The value of the <b>[field]</b> field is invalid. It should be integer."
 
 msgctxt "Languages::error_validator_message"
 msgid "The value of the <b>[field]</b> field is invalid."
-msgstr "The value of the <b>[field]</b> field is invalid."
+msgstr "Vrijednost <b>[field]</b> polja nije valjana."
 
 msgctxt "Languages::error_validator_multiple"
 msgid "The <b>[field]</b> field does not contain the selected options."
@@ -3805,19 +3805,19 @@ msgstr "The <b>[field]</b> field does not contain the selected options."
 
 msgctxt "Languages::error_validator_password"
 msgid "The passwords in the <b>[field2]</b> and <b>[field]</b> fields do not match."
-msgstr "The passwords in the <b>[field2]</b> and <b>[field]</b> fields do not match."
+msgstr "Lozinke u <b>[field2]</b> i <b>[field]</b> poljima se ne podudaraju."
 
 msgctxt "Languages::error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555."
-msgstr "The phone number in the <b>[field]</b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555."
+msgstr "Telefonski broj u polju <b>[field]</b> nije valjan. Ispravan format je (555) 555-55-55 ili 55 55 555 5555."
 
 msgctxt "Languages::error_validator_phone_number"
 msgid "It is required to use the following format for this payment method: 555 555 5555."
-msgstr "It is required to use the following format for this payment method: 555 555 5555."
+msgstr "Za ovaj način plačanja potrebno je koristiti sljedeći format: 555 555 5555."
 
 msgctxt "Languages::error_validator_required"
 msgid "The <b>[field]</b> field is mandatory."
-msgstr "The <b>[field]</b> field is mandatory."
+msgstr "<b>[field]</b> polje je obavezno."
 
 msgctxt "Languages::error_validator_zipcode"
 msgid "The ZIP / Postal code in the <b>[field]</b> field is incorrect. The correct format is [extra]."
