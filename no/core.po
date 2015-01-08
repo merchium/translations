@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-18 10:01-0500\n"
+"PO-Revision-Date: 2015-01-06 09:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -811,10 +811,6 @@ msgctxt "Languages::audience"
 msgid "Audience"
 msgstr "Publikum"
 
-msgctxt "Languages::australia_post"
-msgid "Australia Post"
-msgstr "Australia Post"
-
 msgctxt "Languages::authentication_failed"
 msgid "Authentication failed"
 msgstr "Autentisering mislyktes"
@@ -1471,10 +1467,6 @@ msgctxt "Languages::calendar"
 msgid "Calendar"
 msgstr "Kalender"
 
-msgctxt "Languages::canada_post"
-msgid "Canada Post"
-msgstr "Canada Post"
-
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
 msgstr "For å aktivere Canada post forsendelses-prosessor, må du ha den Kanadiske Dollar valutaen aktivert."
@@ -1548,12 +1540,12 @@ msgid "Carrier"
 msgstr "Fraktselskap"
 
 msgctxt "Languages::carrier_aup"
-msgid "AUP"
-msgstr "AUP"
+msgid "Australia Post"
+msgstr "Australia Post"
 
 msgctxt "Languages::carrier_can"
-msgid "CAN"
-msgstr "CAN"
+msgid "Canada Post"
+msgstr "Canada Post"
 
 msgctxt "Languages::carrier_dhl"
 msgid "DHL"
@@ -1847,10 +1839,6 @@ msgctxt "Languages::choose_your_store_mode"
 msgid "Please choose your licensing mode"
 msgstr "Vennligst velg din lisensmodus"
 
-msgctxt "Languages::chp"
-msgid "SwissPost"
-msgstr "SwissPost"
-
 msgctxt "Languages::cities"
 msgid "Cities"
 msgstr "Byer"
@@ -1889,7 +1877,7 @@ msgstr "Tøm hurtigbufferen"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "Generer cache"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -3007,10 +2995,6 @@ msgctxt "Languages::details"
 msgid "details"
 msgstr "detaljer"
 
-msgctxt "Languages::dhl"
-msgid "DHL"
-msgstr "DHL"
-
 msgctxt "Languages::diff"
 msgid "File changes"
 msgstr "Filendringer"
@@ -4005,7 +3989,7 @@ msgstr "Funksjoner"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Funksjons variant skilletegn"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4030,10 +4014,6 @@ msgstr "Vis i headeren på siden med produktdetaljer"
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
 msgstr "Vis på funksjons-fliken"
-
-msgctxt "Languages::fedex"
-msgid "FedEx"
-msgstr "FedEx"
 
 msgctxt "Languages::feedback_is_sent_successfully"
 msgid "The feedback has been sent successfully."
@@ -5310,6 +5290,10 @@ msgstr "Hovedboks generell"
 msgctxt "Languages::mainbox_simple"
 msgid "Mainbox simple"
 msgstr "Hovedboks enkel"
+
+msgctxt "Languages::footer_general"
+msgid "Footer general"
+msgstr "Footer general"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7815,10 +7799,6 @@ msgctxt "Languages::read_more_3d_secure"
 msgid "Read more about 3-D Secure"
 msgstr "Les mer om 3-D Secure"
 
-msgctxt "Languages::realtime_shippings"
-msgid "Shipping settings"
-msgstr "Frakt innstillinger"
-
 msgctxt "Languages::reason"
 msgid "Reason"
 msgstr "Årsak"
@@ -9915,10 +9895,6 @@ msgctxt "Languages::tax_rates"
 msgid "Tax rates"
 msgstr "Moms satser"
 
-msgctxt "Languages::temando"
-msgid "Temando"
-msgstr "Temando"
-
 msgctxt "Languages::temando_centimetres"
 msgid "centimetres"
 msgstr "centimetre"
@@ -10537,7 +10513,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Skilletegn mellom variant-verdier av en produktfunksjon."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -13683,10 +13659,6 @@ msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
 msgstr "Utsjekking"
 
-msgctxt "SettingsSections::Shippings"
-msgid "Shipping settings"
-msgstr "Fraktinnstillinger"
-
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
 msgstr "Sidekart"
@@ -13730,10 +13702,6 @@ msgstr "Deaktiver frakt"
 msgctxt "SettingsOptions::debugging_console"
 msgid "Template debugging console"
 msgstr "Mal debugging konsoll"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "Fraktselskaper"
 
 msgctxt "SettingsOptions::log_type_news"
 msgid "News"
@@ -13823,10 +13791,6 @@ msgctxt "SettingsOptions::day"
 msgid "Day"
 msgstr "Dag"
 
-msgctxt "SettingsOptions::fedex_enabled"
-msgid "Enable FedEx"
-msgstr "Aktiver FedEx"
-
 msgctxt "SettingsOptions::show_rootcats_only"
 msgid "Show only root level categories links in the 'Categories' section"
 msgstr "Vis bare rotnivå kategori koblinger i 'Kategorier' seksjonen"
@@ -13871,10 +13835,6 @@ msgctxt "SettingsOptions::week"
 msgid "Week"
 msgstr "Uke"
 
-msgctxt "SettingsOptions::ups_enabled"
-msgid "Enable UPS"
-msgstr "Aktiver UPS"
-
 msgctxt "SettingsOptions::mailer_smtp_host"
 msgid "SMTP host"
 msgstr "SMTP vert"
@@ -13915,10 +13875,6 @@ msgctxt "SettingsOptions::month"
 msgid "Month"
 msgstr "Måned"
 
-msgctxt "SettingsOptions::usps_enabled"
-msgid "Enable USPS"
-msgstr "Aktiver USPS"
-
 msgctxt "SettingsOptions::mailer_smtp_username"
 msgid "SMTP username"
 msgstr "SMTP brukernavn"
@@ -13950,10 +13906,6 @@ msgstr "År"
 msgctxt "SettingsOptions::mailer_smtp_password"
 msgid "SMTP password"
 msgstr "SMTP passord"
-
-msgctxt "SettingsOptions::dhl_enabled"
-msgid "Enable DHL"
-msgstr "Aktiver DHL"
 
 msgctxt "SettingsOptions::max_font_size"
 msgid "Maximum font size"
@@ -14019,10 +13971,6 @@ msgctxt "SettingsOptions::mailer_smtp_auth"
 msgid "Use SMTP authentication"
 msgstr "Bruk SMTP-autentisering"
 
-msgctxt "SettingsOptions::aup_enabled"
-msgid "Enable Australia Post"
-msgstr "Aktiver Australia Post"
-
 msgctxt "SettingsOptions::string_type"
 msgid "String type"
 msgstr "Streng type"
@@ -14050,14 +13998,6 @@ msgstr "Miniatyrbilde bakgrunnsfarge"
 msgctxt "SettingsOptions::colour"
 msgid "Color"
 msgstr "Farge"
-
-msgctxt "SettingsOptions::can_enabled"
-msgid "Enable Canada Post"
-msgstr "Aktiver Canada Post"
-
-msgctxt "SettingsOptions::swisspost_enabled"
-msgid "Enable Swiss Post"
-msgstr "Aktiver Swiss Post"
 
 msgctxt "SettingsOptions::header_2"
 msgid "Customer settings"
@@ -14119,10 +14059,6 @@ msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
 msgstr "Året når butikken startet sin drift"
 
-msgctxt "SettingsOptions::temando_enabled"
-msgid "Enable Temando"
-msgstr "Aktiver Temando"
-
 msgctxt "SettingsOptions::default_country"
 msgid "Default country"
 msgstr "Standard land"
@@ -14137,7 +14073,7 @@ msgstr "Bruker avdeling e-post-adresse"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Bruk for"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14441,7 +14377,7 @@ msgstr "Anslå fraktkostnader på handlevogn-siden"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Tilby gjester å opprette en konto etter en vellykket bestilling"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14501,7 +14437,7 @@ msgstr "Vis \"Betalingsmåte\" trinn (den første aktive metoden vil bli brukt s
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Aktiver salg av nedlastbare produkter"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15425,31 +15361,31 @@ msgstr "Maler"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Angi denne URL-en til din Realex kundekontakt"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Vennligst oppgi IP-adressen til din server til din Realex kundekontakt"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Oppgjør"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Forsinket oppgjør"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Auto-oppgjort"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Realex til CS-Cart ordre status konverteringskart"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Sub konto"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
@@ -15461,31 +15397,31 @@ msgstr "Liability Shift required"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "3-D Secure melding"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Din Realex konto har blitt suspendert. Kontakt Realex support for mer informasjon."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Feil i XML meldingsformat eller innhold"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Feil med Realex systemer"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Feil med bank systemer"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Kort rapportert mistet eller stjålet"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Henvisning av bank"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
@@ -15529,31 +15465,31 @@ msgstr "Transaksjons ordre-ID"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Stemmer overens"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Stemmer ikke overens"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problem med kontroll"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Kan ikke kontrollere"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Passer delvis overens"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Denne betalingen er ikke tilgjengelig for denne typen kredittkort."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "Uriktige verdier i 'Gyldighets' feltene."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
@@ -15565,11 +15501,11 @@ msgstr "Opprett og rediger profilskjema"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Sjekk ut (brukerinformasjon) skjema"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Spor mine ordre skjema"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
@@ -15593,5 +15529,5 @@ msgstr "Gjenopprett standard robots.txt"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Feil i datavalideringen av kredittkortinformasjonen. Enten var kredittkortet ugyldig, eller utløpsdatoen eller CVC-koden var feil."
 

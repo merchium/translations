@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-18 10:00-0500\n"
+"PO-Revision-Date: 2015-01-07 14:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -811,10 +811,6 @@ msgctxt "Languages::audience"
 msgid "Audience"
 msgstr "აუდიტორია"
 
-msgctxt "Languages::australia_post"
-msgid "Australia Post"
-msgstr "ავსტრალიული ფოსტა"
-
 msgctxt "Languages::authentication_failed"
 msgid "Authentication failed"
 msgstr "ავტორიზაცია შეუძლებელია"
@@ -1471,10 +1467,6 @@ msgctxt "Languages::calendar"
 msgid "Calendar"
 msgstr "კალენდარი"
 
-msgctxt "Languages::canada_post"
-msgid "Canada Post"
-msgstr "კანადის ფოსტა"
-
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
 msgstr "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
@@ -1548,12 +1540,12 @@ msgid "Carrier"
 msgstr "კურიერი"
 
 msgctxt "Languages::carrier_aup"
-msgid "AUP"
-msgstr "AUP"
+msgid "Australia Post"
+msgstr "Australia Post"
 
 msgctxt "Languages::carrier_can"
-msgid "CAN"
-msgstr "CAN"
+msgid "Canada Post"
+msgstr "Canada Post"
 
 msgctxt "Languages::carrier_dhl"
 msgid "DHL"
@@ -1846,10 +1838,6 @@ msgstr "აირჩიეთ თქვენი ქვეყანა"
 msgctxt "Languages::choose_your_store_mode"
 msgid "Please choose your licensing mode"
 msgstr "გთხოვთ აირჩიოთ ლიცენზიის ტიპი"
-
-msgctxt "Languages::chp"
-msgid "SwissPost"
-msgstr "SwissPost"
 
 msgctxt "Languages::cities"
 msgid "Cities"
@@ -3007,10 +2995,6 @@ msgctxt "Languages::details"
 msgid "details"
 msgstr "დეტალები"
 
-msgctxt "Languages::dhl"
-msgid "DHL"
-msgstr "DHL"
-
 msgctxt "Languages::diff"
 msgid "File changes"
 msgstr "ფაილების ცვლილება"
@@ -4030,10 +4014,6 @@ msgstr "Show in header on the product details page"
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
 msgstr "Show on the Features tab"
-
-msgctxt "Languages::fedex"
-msgid "FedEx"
-msgstr "FedEx"
 
 msgctxt "Languages::feedback_is_sent_successfully"
 msgid "The feedback has been sent successfully."
@@ -5310,6 +5290,10 @@ msgstr "Mainbox general"
 msgctxt "Languages::mainbox_simple"
 msgid "Mainbox simple"
 msgstr "Mainbox simple"
+
+msgctxt "Languages::footer_general"
+msgid "Footer general"
+msgstr "Footer general"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7815,10 +7799,6 @@ msgctxt "Languages::read_more_3d_secure"
 msgid "Read more about 3-D Secure"
 msgstr "დამატებითი ინფორმაცია 3-D Secure-ს შესახებ"
 
-msgctxt "Languages::realtime_shippings"
-msgid "Shipping settings"
-msgstr "ტრანსპორტირების პარამეტრები"
-
 msgctxt "Languages::reason"
 msgid "Reason"
 msgstr "მიზეზი"
@@ -9914,10 +9894,6 @@ msgstr "გადასახადებისგან განთავი�
 msgctxt "Languages::tax_rates"
 msgid "Tax rates"
 msgstr "დამატებითი გადასახადები"
-
-msgctxt "Languages::temando"
-msgid "Temando"
-msgstr "Temando"
 
 msgctxt "Languages::temando_centimetres"
 msgid "centimetres"
@@ -13507,7 +13483,7 @@ msgstr "The Searchanise add-on was automatically disabled during upgrade to avoi
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
-msgstr "Sorry, the store is temporarily closed for maintenance."
+msgstr "მაღაზია დროებით დაკეტილია და მიმდინარეობს ტექნიკური სამუშაოები. ბოდიშს გიხდით შეფერხებისთვის."
 
 msgctxt "Languages::theme_editor.presets"
 msgid "Presets"
@@ -13659,7 +13635,7 @@ msgstr "ორგანიზაცია"
 
 msgctxt "SettingsSections::Emails"
 msgid "E-mails"
-msgstr "ელ-ფოსტები"
+msgstr "ელ-ფოსტის პარამეტრები"
 
 msgctxt "SettingsSections::General"
 msgid "General"
@@ -13684,10 +13660,6 @@ msgstr "უსაფრთხოების პარამეტრები"
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
 msgstr "შეკვეთის გაფორმება"
-
-msgctxt "SettingsSections::Shippings"
-msgid "Shipping settings"
-msgstr "გზავნილის პარამეტრები"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
@@ -13732,10 +13704,6 @@ msgstr "გზავნილის გათიშვა"
 msgctxt "SettingsOptions::debugging_console"
 msgid "Template debugging console"
 msgstr "Template debugging console"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "მიწოდების სერვისები"
 
 msgctxt "SettingsOptions::log_type_news"
 msgid "News"
@@ -13825,10 +13793,6 @@ msgctxt "SettingsOptions::day"
 msgid "Day"
 msgstr "დღე"
 
-msgctxt "SettingsOptions::fedex_enabled"
-msgid "Enable FedEx"
-msgstr "FedEx-ის ჩართვა"
-
 msgctxt "SettingsOptions::show_rootcats_only"
 msgid "Show only root level categories links in the 'Categories' section"
 msgstr "Show only root level categories links in the 'Categories' section"
@@ -13873,10 +13837,6 @@ msgctxt "SettingsOptions::week"
 msgid "Week"
 msgstr "კვირა"
 
-msgctxt "SettingsOptions::ups_enabled"
-msgid "Enable UPS"
-msgstr "UPS-ის ჩართვა"
-
 msgctxt "SettingsOptions::mailer_smtp_host"
 msgid "SMTP host"
 msgstr "SMTP ჰოსტი"
@@ -13917,10 +13877,6 @@ msgctxt "SettingsOptions::month"
 msgid "Month"
 msgstr "თვე"
 
-msgctxt "SettingsOptions::usps_enabled"
-msgid "Enable USPS"
-msgstr "USPS-ის ჩართვა"
-
 msgctxt "SettingsOptions::mailer_smtp_username"
 msgid "SMTP username"
 msgstr "SMTP სახელი"
@@ -13952,10 +13908,6 @@ msgstr "წელი"
 msgctxt "SettingsOptions::mailer_smtp_password"
 msgid "SMTP password"
 msgstr "SMTP პაროლი"
-
-msgctxt "SettingsOptions::dhl_enabled"
-msgid "Enable DHL"
-msgstr "DHL-ის ჩართვა"
 
 msgctxt "SettingsOptions::max_font_size"
 msgid "Maximum font size"
@@ -14007,7 +13959,7 @@ msgstr "საქაღალდე"
 
 msgctxt "SettingsOptions::admin_elements_per_page"
 msgid "Elements per page"
-msgstr "Elements per page"
+msgstr "ნივთების რაოდენობა თითო გვერდზე"
 
 msgctxt "SettingsOptions::company_phone"
 msgid "Company phone"
@@ -14020,10 +13972,6 @@ msgstr "ნაგულისხმევი wysiwyg  რედაქტორ�
 msgctxt "SettingsOptions::mailer_smtp_auth"
 msgid "Use SMTP authentication"
 msgstr "SMTP ავტორიზაციის გამოყენება"
-
-msgctxt "SettingsOptions::aup_enabled"
-msgid "Enable Australia Post"
-msgstr "Australia Post-ის ჩართვა"
 
 msgctxt "SettingsOptions::string_type"
 msgid "String type"
@@ -14052,14 +14000,6 @@ msgstr "ხატულების ფონის ფერი"
 msgctxt "SettingsOptions::colour"
 msgid "Color"
 msgstr "ფერი"
-
-msgctxt "SettingsOptions::can_enabled"
-msgid "Enable Canada Post"
-msgstr "კანადური ფოსტის ჩართვა"
-
-msgctxt "SettingsOptions::swisspost_enabled"
-msgid "Enable Swiss Post"
-msgstr "შვედური ფოსტის ჩართვა"
 
 msgctxt "SettingsOptions::header_2"
 msgid "Customer settings"
@@ -14121,10 +14061,6 @@ msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
 msgstr "რომელ წელს დაიწყო მაღაზიამ მუშაობა"
 
-msgctxt "SettingsOptions::temando_enabled"
-msgid "Enable Temando"
-msgstr "Temando-ს ჩართვა"
-
 msgctxt "SettingsOptions::default_country"
 msgid "Default country"
 msgstr "ნაგულისხმევი ქვეყანა"
@@ -14179,7 +14115,7 @@ msgstr "დახმარება/მხარდაჭერს დეპა�
 
 msgctxt "SettingsOptions::elements_per_page"
 msgid "Elements per page"
-msgstr "Elements per page"
+msgstr "ნივთების რაოდენობა თითო გვერდზე"
 
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
@@ -14239,7 +14175,7 @@ msgstr "Product cart page thumbnail height"
 
 msgctxt "SettingsOptions::show_out_of_stock_products"
 msgid "Show out of stock products"
-msgstr "Show out of stock products"
+msgstr "პროდუქტების ჩვენება რომლებიც არ არის საწყობში"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_width"
 msgid "Categories list thumbnail width"
@@ -14263,7 +14199,7 @@ msgstr "პროდუქტების ხელმისაწვდომ�
 
 msgctxt "SettingsOptions::thumbnails_gallery"
 msgid "Display mini thumbnail images as a gallery"
-msgstr "Display mini thumbnail images as a gallery"
+msgstr "აჩვენე პატარა ხატულები როგორც გალერიიდან"
 
 msgctxt "SettingsOptions::quantity_changer"
 msgid "Use 'Value changer' for the Quantity field"
@@ -14355,7 +14291,7 @@ msgstr "Detailed category image width"
 
 msgctxt "SettingsOptions::use_single_coupon"
 msgid "Allow customers to use single discount coupon only"
-msgstr "Allow customers to use single discount coupon only"
+msgstr "მომხმარებლებისთვის მხოლოდ ერთი ფასდაკლების კუპონის გამოყენების შესაძლებლობა"
 
 msgctxt "SettingsOptions::calendar_date_format"
 msgid "Calendar date format"
@@ -14451,7 +14387,7 @@ msgstr "Disregard product options when calculating quantity discounts"
 
 msgctxt "SettingsOptions::header_8057"
 msgid "Proxy server for outgoing connections"
-msgstr "Proxy server for outgoing connections"
+msgstr "პროქსი სერვერის პარამეტრები"
 
 msgctxt "SettingsOptions::proxy_host"
 msgid "Proxy host"
@@ -15375,11 +15311,11 @@ msgstr "გასული წელი"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "მაღაზია დაკეტილია"
+msgstr "მაღაზია დახურულია"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "მაღაზია<br/>დაკეტილია"
+msgstr "მაღაზია<br/>დახურულია"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
