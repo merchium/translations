@@ -9,63 +9,63 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /editions/mve.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2014-12-11 10:01-0500\n"
+"PO-Revision-Date: 2015-01-14 22:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
-msgstr "ショップの追加"
+msgstr "出品者の追加"
 
 msgctxt "Languages::add_companies_and_close"
 msgid "Add vendors and close"
-msgstr "ショップを追加して閉じる"
+msgstr "出品者を追加して閉じる"
 
 msgctxt "Languages::add_vendor"
 msgid "Add vendor"
-msgstr "ショップの追加"
+msgstr "出品者の追加"
 
 msgctxt "Languages::add_vendor_administrator"
 msgid "Add vendor's administrator"
-msgstr "Add vendor's administrator"
+msgstr "出品者データ管理者の追加"
 
 msgctxt "Languages::vendor_administrator"
 msgid "Vendor's administrator"
-msgstr "Vendor's administrator"
+msgstr "出品者データ管理者"
 
 msgctxt "Languages::vendor_administrators"
 msgid "Vendor's administrators"
-msgstr "Vendor's administrators"
+msgstr "出品者データ管理者"
 
 msgctxt "Languages::vendor_administrators_menu_description"
 msgid "List of vendor's administrators, registered users with a vendor account."
-msgstr "List of vendor's administrators, registered users with a vendor account."
+msgstr "出品者データ管理者の一覧です。"
 
 msgctxt "Languages::vendor_candidate_notification"
 msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
-msgstr "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
+msgstr "出品者の登録申請がありました。（<a>申請内容の確認</a>）"
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
-msgstr "Go to Vendor panel"
+msgstr "出品者用パネルに移動"
 
 msgctxt "Languages::vendor_account_balance_menu_description"
 msgid "Income and expenditure statistics (total, per vendor, per period)."
-msgstr "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "各出品者の残高情報です。"
 
 msgctxt "Languages::merge_vendor"
 msgid "Merge vendor"
-msgstr "Merge vendor"
+msgstr "出品者の統合"
 
 msgctxt "Languages::select_new_owner_company"
 msgid "Select a new owner of this company's profile data:"
-msgstr "Select a new owner of this company's profile data:"
+msgstr "この出品者の新しいオーナーを選択してください:"
 
 msgctxt "Languages::warning_merging_companies"
 msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
-msgstr "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "アカウントを統合すると [company_name] がDBから削除され、すべての関連データ (商品、注文、配送方法、顧客、キャンペーン etc.) はこの会社のアカウントに移動します。"
 
 msgctxt "Languages::all_vendors"
 msgid "All vendors"
-msgstr "すべてのショップ"
+msgstr "すべての出品者"
 
 msgctxt "Languages::apply_for_vendor_account"
 msgid "Apply for a vendor account"
@@ -101,11 +101,11 @@ msgstr "表示する出品者数"
 
 msgctxt "Languages::editing_vendor"
 msgid "Editing vendor"
-msgstr "ショップの編集"
+msgstr "出品者の編集"
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
-msgstr "入力したEメールアドレスは他のユーザーが既に使用しているため管理者用アカウントは作成されませんでした。手動でこの会社向けの管理者用アカウントを作成してください。"
+msgstr "指定したEメールアドレスが他のユーザーにより既に使用されているため、管理者アカウントは作成されませんでした。この出品者の管理者アカウントは手動で作成してください。"
 
 msgctxt "Languages::error_admin_not_created_name_already_used"
 msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
@@ -113,7 +113,7 @@ msgstr "指定したユーザー名が他のユーザーにより既に使用さ
 
 msgctxt "Languages::error_vendor_exists"
 msgid "The vendor with e-mail you have chosen already exists, please try another."
-msgstr "ご指定のEメールアドレスはすでに使用されています。他のEメールアドレスを入力してください。"
+msgstr "指定したEメールは他の出品者が使用しています。他のEメールを指定して再度お試しください。"
 
 msgctxt "Languages::expenditure"
 msgid "Expenditure"
@@ -133,7 +133,7 @@ msgstr "出品者データ管理者アカウントが作成されました。"
 
 msgctxt "Languages::new_vendor"
 msgid "New vendor"
-msgstr "ショップの追加"
+msgstr "出品者の追加"
 
 msgctxt "Languages::notify_vendor"
 msgid "Notify vendor"
@@ -161,7 +161,7 @@ msgstr "出品者の閲覧"
 
 msgctxt "Languages::privilege_sections.vendors"
 msgid "Vendors"
-msgstr "ショップ"
+msgstr "出品者"
 
 msgctxt "Languages::sales_period"
 msgid "Sales period"
@@ -237,7 +237,7 @@ msgstr "確認が必要なマーケットプレイスへの参加申請または
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
-msgstr "インストールから30日間無料でCS-Cartのすべての機能をお試しいただけます。<br />30日間のトライアル期間内にフルモードへの切り替えが実行されない場合は自動的にフリーモードに切り替わります。<br />なお、ショップモードは「ショップモード」ページにて変更できます。"
+msgstr "インストールから30日間無料でCS-Cartマーケットプレイス版のすべての機能をお試しいただけます。<br />30日間のトライアル期間内にフルモードへの切り替えが実行されない場合はCS-Cartマーケットプレイス版をご利用いただけなくなります。<br />なお、ライセンスモードは「ライセンスモード」ページにて変更できます。"
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
@@ -261,15 +261,15 @@ msgstr "支払手数料を出品者から徴収する場合、税金の計算は
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
-msgstr "このショップが管理する商品を含む注文情報が存在するためショップを削除できません。このショップが管理する商品を含む注文情報をすべて削除した後に再度お試しください。"
+msgstr "この出品者の商品を含む注文が存在するため、出品者情報を削除できません。この出品者の商品を含む注文をすべて削除したうえで再度処理を実行してください。"
 
 msgctxt "Languages::vendor"
 msgid "Vendor"
-msgstr "ショップ"
+msgstr "出品者"
 
 msgctxt "Languages::vendors"
 msgid "Vendors"
-msgstr "ショップ"
+msgstr "出品者"
 
 msgctxt "Languages::vendors_menu_description"
 msgid "Sorted list of vendor accounts registered in the store."
@@ -289,15 +289,15 @@ msgstr "販売手数料"
 
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
-msgstr "ショップID"
+msgstr "出品者ID"
 
 msgctxt "Languages::vendor_name"
 msgid "Vendor name"
-msgstr "ショップ名"
+msgstr "出品者名"
 
 msgctxt "Languages::vendor_pages"
 msgid "Vendor pages"
-msgstr "ショップページ"
+msgstr "出品者ページ"
 
 msgctxt "Languages::vendor_panel"
 msgid "Vendor panel"
@@ -305,15 +305,15 @@ msgstr "出品者用管理画面"
 
 msgctxt "Languages::view_vendor_orders"
 msgid "View vendor orders"
-msgstr "このショップの注文を表示"
+msgstr "出品者の注文の表示"
 
 msgctxt "Languages::view_vendor_products"
 msgid "View vendor products"
-msgstr "このショップの商品を表示"
+msgstr "出品者の商品の表示"
 
 msgctxt "Languages::view_vendor_users"
 msgid "View vendor users"
-msgstr "このショップのお客様を表示"
+msgstr "出品者の顧客の表示"
 
 msgctxt "Languages::you_can_edit_account_details"
 msgid "You can edit the account details now."
@@ -353,7 +353,7 @@ msgstr "出品者の表示"
 
 msgctxt "SettingsTooltips::include_payment_surcharge"
 msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
+msgstr "有効化するとお客様には支払手数料は表示されず、注文金額にも加算されません"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
@@ -361,33 +361,33 @@ msgstr "Apply for a vendor account form"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
-msgstr "Vendor categories"
+msgstr "特定出品者向けカテゴリー"
 
 msgctxt "Languages::block_vendor_categories_description"
 msgid "Product categories available to a particular vendor"
-msgstr "Product categories available to a particular vendor"
+msgstr "特定の出品者にのみ利用可能な商品カテゴリーです"
 
 msgctxt "Languages::block_vendor_information"
 msgid "Vendor information"
-msgstr "Vendor information"
+msgstr "出品者情報"
 
 msgctxt "Languages::block_vendor_logo"
 msgid "Vendor logo"
-msgstr "Vendor logo"
+msgstr "出品者ロゴ"
 
 msgctxt "Languages::block_vendor_search"
 msgid "Search by vendor products"
-msgstr "Search by vendor products"
+msgstr "出品者の商品検索"
 
 msgctxt "Languages::vendor_filters"
 msgid "Vendor Product filters"
-msgstr "Vendor Product filters"
+msgstr "出品者の商品フィルタ"
 
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
-msgstr "Vendor products"
+msgstr "出品者の商品"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
-msgstr "Vendor filters"
+msgstr "出品者フィルタ"
 

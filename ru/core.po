@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-09 05:00-0500\n"
+"PO-Revision-Date: 2015-01-15 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3305,7 +3305,7 @@ msgstr "Редактирование локализации"
 
 msgctxt "Languages::editing_location"
 msgid "Editing location"
-msgstr "Редактирование страницы макета"
+msgstr "Редактирование пункта назначения"
 
 msgctxt "Languages::editing_menu"
 msgid "Editing menus"
@@ -7614,6 +7614,10 @@ msgstr "Пользователи"
 msgctxt "Languages::promotion_cond_zip_postal_code"
 msgid "Customer zip/postal code (shipping)"
 msgstr "Почтовый индекс покупателя (доставка)"
+
+msgctxt "Languages::promotion_cond_shipping"
+msgid "Shipping methods"
+msgstr "Способы доставки"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -12130,6 +12134,10 @@ msgstr "Подменю будет включать дочерние элемен
 msgctxt "Languages::tts_link_text"
 msgid "Target URL. May be an external URL, an inner store URL or a dispatch."
 msgstr "Целевой URL. Может быть внешней ссылкой, ссылкой внутри магазина или диспетчером."
+
+msgctxt "Languages::tts_menu_user_class"
+msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"

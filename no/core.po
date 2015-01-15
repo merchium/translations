@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-09 15:00-0500\n"
+"PO-Revision-Date: 2015-01-15 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -41,11 +41,11 @@ msgstr "Absolutt"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed addons"
-msgstr "Installerte tillegg"
+msgstr "Installerte moduler"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available addons"
-msgstr "Bla gjennom alle tilgjengelige tillegg"
+msgstr "Bla gjennom alle tilgjengelige moduler"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -177,11 +177,11 @@ msgstr "Ekstra miniatyrbildealternativ"
 
 msgctxt "Languages::addon"
 msgid "Add-on"
-msgstr "Tillegg"
+msgstr "Modul"
 
 msgctxt "Languages::addons"
 msgid "Add-ons"
-msgstr "Tillegg"
+msgstr "Moduler"
 
 msgctxt "Languages::addon_sql_error"
 msgid "An error in an SQL query occurred during the add-on installation. The add-on will not be installed."
@@ -1361,7 +1361,7 @@ msgstr "Navigasjonssti"
 
 msgctxt "Languages::broken_addon_pack"
 msgid "Incorrect add-on structure. The uploaded pack cannot be installed."
-msgstr "Feil tilleggs-struktur. Den opplastede pakken kan ikke installeres."
+msgstr "Feil modul-struktur. Den opplastede pakken kan ikke installeres."
 
 msgctxt "Languages::broken_po_pack"
 msgid "Incorrect PO-pack structure. The uploaded pack cannot be installed."
@@ -1685,7 +1685,7 @@ msgstr "Det er også anbefalt å endre tilgangstillatelser for config.local.php 
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change addons initialization"
-msgstr "Endre tilleggs initialisering"
+msgstr "Endre modul initialisering"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -3977,7 +3977,7 @@ msgstr "Rask"
 
 msgctxt "Languages::fax"
 msgid "Fax"
-msgstr "Fax"
+msgstr "Kontonummer"
 
 msgctxt "Languages::feature"
 msgid "Feature"
@@ -5313,7 +5313,7 @@ msgstr "Administrer"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage Add-ons"
-msgstr "Administrer tillegg"
+msgstr "Administrer moduler"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -5697,7 +5697,7 @@ msgstr "Mest populær"
 
 msgctxt "Languages::most_popular_addons"
 msgid "Most popular add-ons"
-msgstr "Mest populære tillegg"
+msgstr "Mest populære moduler"
 
 msgctxt "Languages::mr"
 msgid "Mr."
@@ -6381,7 +6381,7 @@ msgstr "Andre"
 
 msgctxt "Languages::other_addons"
 msgid "Other add-ons"
-msgstr "Andre tillegg"
+msgstr "Andre moduler"
 
 msgctxt "Languages::output"
 msgid "Output"
@@ -7177,7 +7177,7 @@ msgstr "Vis brukere"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Addons"
-msgstr "Tillegg"
+msgstr "Moduler"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7614,6 +7614,10 @@ msgstr "Brukere"
 msgctxt "Languages::promotion_cond_zip_postal_code"
 msgid "Customer zip/postal code (shipping)"
 msgstr "Kundens postnummer"
+
+msgctxt "Languages::promotion_cond_shipping"
+msgid "Shipping methods"
+msgstr "Fraktmetoder"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -10105,31 +10109,31 @@ msgstr "(Vist på produktdetaljer siden under \"Tilleggsbilder\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
-msgstr "Tillegget \"[addon_name]\" er uforenlig med følgende andre tillegg: [addons]. Det kan ikke aktiveres"
+msgstr "Modulen \"[addon_name]\" er uforenlig med følgende andre moduler: [addons]. Det kan ikke aktiveres"
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Tillegget \"[addon_name]\" er uforenlig med følgende andre tillegg: [addons]. Disse tilleggene vil bli automatisk deaktivert."
+msgstr "Modulen \"[addon_name]\" er uforenlig med følgende andre moduler: [addons]. Disse modulene vil bli automatisk deaktivert."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Tillegget \"[addon_name]\" er uforenlig med følgende andre tillegg: [addons]. Det har ikke blitt aktivert. Aktiver den manuelt og alle de inkompatible tilleggene vil bli deaktivert automatisk."
+msgstr "Modulen \"[addon_name]\" er uforenlig med følgende andre moduler: [addons]. Det har ikke blitt aktivert. Aktiver den manuelt og alle de inkompatible modulene vil bli deaktivert automatisk."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
-msgstr "Tillegget <b>\"[addon]\"</b> er installert"
+msgstr "Modulen <b>\"[addon]\"</b> er installert"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
-msgstr "Tillegget kan ikke installeres fordi en avhengighet til [addon] tillegg er satt for den. Vær vennlig å installere [addon] tillegget først."
+msgstr "Modulen kan ikke installeres fordi en avhengighet til [addon] modulen er satt for den. Vær vennlig å installere [addon] tillegget først."
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "Tillegget <b>\"[addon]\"</b> er avinstallert."
+msgstr "Modulen <b>\"[addon]\"</b> er avinstallert."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
-msgstr "Tillegget kan ikke avinstalleres fordi følgende tillegg er avhengig av det: [addons]"
+msgstr "Modulen kan ikke avinstalleres fordi følgende moduler er avhengig av det: [addons]"
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
@@ -11913,7 +11917,7 @@ msgstr "Verktøy"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Addons count"
-msgstr "Tillegg opptelling"
+msgstr "Modul opptelling"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11921,11 +11925,11 @@ msgstr "Nåværende tilstand"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No addons"
-msgstr "Ingen tillegg"
+msgstr "Ingen moduler"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party addons"
-msgstr "Ingen tredjeparts tillegg"
+msgstr "Ingen tredjeparts moduler"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -12130,6 +12134,10 @@ msgstr "Undermenyen vil omfatte underelementer av det valgte objektet."
 msgctxt "Languages::tts_link_text"
 msgid "Target URL. May be an external URL, an inner store URL or a dispatch."
 msgstr "Mål-URL. Kan være en ekstern URL, en indre butikk URL eller en utsendelse."
+
+msgctxt "Languages::tts_menu_user_class"
+msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Brukerdefinert CSS class vil legges til menyelementet, slik at det er mulig å definere menyelementet med sine egne CSS-stiler."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -13221,7 +13229,7 @@ msgstr "Velg en fil i PO eller ZIP format"
 
 msgctxt "Languages::text_free_mode_activated"
 msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "Du har byttet butikken til gratis-modus.<br><br>Merk at i denne modusen er noen funksjoner (f.eks visse tillegg) utilgjengelige."
+msgstr "Du har byttet butikken til gratis-modus.<br><br>Merk at i denne modusen er noen funksjoner (f.eks visse moduler) utilgjengelige."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -13301,7 +13309,7 @@ msgstr "Skilletegn for produktvalg innenfor en produktkombinasjon (f.eks. \"Farg
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
-msgstr "Last opp & installer tillegget"
+msgstr "Last opp & installer modulen"
 
 msgctxt "Languages::upload_theme"
 msgid "Upload theme"
@@ -13345,7 +13353,7 @@ msgstr "Ugyldig FTP-tilgang"
 
 msgctxt "Languages::install_addon_text"
 msgid "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
-msgstr "Tillegg utvider funksjonaliteten til nettbutikken din. <br /> Du kan installere et tillegg ved å velge en .zip, .tgz, eller .gz pakket fil og klikke Last opp & installer."
+msgstr "Moduler utvider funksjonaliteten til nettbutikken din. <br /> Du kan installere en modul ved å velge en .zip, .tgz, eller .gz pakket fil og klikke Last opp & installer."
 
 msgctxt "Languages::xml_error"
 msgid "XML parse error"
@@ -13477,7 +13485,7 @@ msgstr "Følg oss"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
-msgstr "Searchanise tillegget ble automatisk deaktivert under oppgraderingen for å unngå feil i søkeresultat. Aktivere den når som helst på <a href=\"[url]\">Tillegg</a> siden."
+msgstr "Searchanise modulen ble automatisk deaktivert under oppgraderingen for å unngå feil i søkeresultat. Aktivere den når som helst på <a href=\"[url]\">Tillegg</a> siden."
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
@@ -13565,7 +13573,7 @@ msgstr "Marketplace"
 
 msgctxt "Languages::marketplace_find_more"
 msgid "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
-msgstr "Finn flere tillegg og maler på <a href=\"http://marketplace.cs-cart.com/\" target=\"_blank\">CS-Cart marketplace</a>"
+msgstr "Finn flere moduler og maler på <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
 
 msgctxt "Languages::extract_archive"
 msgid "Extract archive"
@@ -14013,7 +14021,7 @@ msgstr "Standard postnummer"
 
 msgctxt "SettingsOptions::company_fax"
 msgid "Company fax"
-msgstr "Firma fax"
+msgstr "Kontonummer"
 
 msgctxt "SettingsOptions::frontend_default_language"
 msgid "Frontend default language"
@@ -15181,7 +15189,7 @@ msgstr "Telefon"
 
 msgctxt "ProfileFields::fax"
 msgid "Fax"
-msgstr "Fax"
+msgstr "Kontonummer"
 
 msgctxt "ProfileFields::url"
 msgid "URL"

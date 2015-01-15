@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-09 15:00-0500\n"
+"PO-Revision-Date: 2015-01-15 08:00-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -293,7 +293,7 @@ msgstr "Vis bare brukerprofil felt merket som obligatoriske"
 
 msgctxt "Languages::twgadmin_reinstall"
 msgid "The version of Twigmo add-on files does not match the one in the database, so the mobile version of your store has been disabled. Please re-install Twigmo add-on (click Uninstall, then Install on the add-ons list) to enable it."
-msgstr "Denne versjonen av Twigmo samsvarer ikke med den i databasen din, så den mobile versjonen av butikken er deaktivert. Vennligst re-installer Twigmo tillegget (Klikk avinstaller, deretter installer på siden for tillegg) for å aktivere den."
+msgstr "Denne versjonen av Twigmo samsvarer ikke med den i databasen din, så den mobile versjonen av butikken er deaktivert. Vennligst re-installer Twigmo modulen (Klikk avinstaller, deretter installer på siden for tillegg) for å aktivere den."
 
 msgctxt "Languages::twg_view_cart_checkout"
 msgid "View cart & checkout"
@@ -349,7 +349,7 @@ msgstr "Ferdig.</br>Kontrollerer filer..."
 
 msgctxt "Languages::twgadmin_no_files_permissions"
 msgid "Error: Cannot overwrite the existing Twigmo add-on files. Please check and correct the file permissions manually or [link]provide your FTP access details[/link] (if they are provided, please make sure this FTP user has enough permissions to modify files on the server)."
-msgstr "Feil: Kan ikke overskrive de eksisterende Twigmo tilleggs filene. Vennligs sjekk og korriger fil tillatetelser manuelt eller [link]gi oss FTP-tilgang[/link] (hvis de sendes, vennligst kontroller at denne brukeren har rettigheter til å endre filer på serveren)."
+msgstr "Feil: Kan ikke overskrive de eksisterende Twigmo modul filene. Vennligs sjekk og korriger fil tillatetelser manuelt eller [link]gi oss FTP-tilgang[/link] (hvis de sendes, vennligst kontroller at denne brukeren har rettigheter til å endre filer på serveren)."
 
 msgctxt "Languages::twgadmin_backup_files"
 msgid "Backing up Twigmo files..."
@@ -357,15 +357,15 @@ msgstr "Sikkerhetskopierer Twigmo filer..."
 
 msgctxt "Languages::twgadmin_backup_settings"
 msgid "Backing up Twigmo add-on settings..."
-msgstr "Sikkerhetskopierer Twigmo tilleggets innstillinger..."
+msgstr "Sikkerhetskopierer Twigmo modulens innstillinger..."
 
 msgctxt "Languages::twgadmin_uninstall_addon"
 msgid "Uninstalling Twigmo add-on..."
-msgstr "Avinstallerer Twigmo tillegget..."
+msgstr "Avinstallerer Twigmo modulen..."
 
 msgctxt "Languages::twgadmin_restore_settings"
 msgid "Restoring Twigmo add-on settings..."
-msgstr "Gjenoppretter Twigmo tilleggets innstillinger..."
+msgstr "Gjenoppretter Twigmo modulens innstillinger..."
 
 msgctxt "Languages::twg_min_product_quantity"
 msgid "Minimum order quantity"
@@ -425,7 +425,7 @@ msgstr "Standard mal"
 
 msgctxt "Languages::twgadmin_connect_notification"
 msgid "The <a href=\"[addon_link]\">Twigmo add-on</a> is not connected to the <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Set it up to enable a mobile version of your store for iOS and Android."
-msgstr "Tillegget for <a href=\"[addon_link]\">Twigmo</a> er ikke koblet opp mot <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Sett den opp for å muliggjøre en mobil versjon av din nettbutikk for iOS og Android."
+msgstr "Modulen for <a href=\"[addon_link]\">Twigmo</a> er ikke koblet opp mot <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Sett den opp for å muliggjøre en mobil versjon av din nettbutikk for iOS og Android."
 
 msgctxt "Languages::twgadmin_phpmod_required"
 msgid "PHP extension module [php_module_name] is required for proper operation of the Twigmo add-on. Please install it."
@@ -509,7 +509,7 @@ msgstr "Om Twigmo"
 
 msgctxt "Languages::twgadmin_addon_version"
 msgid "Add-on version"
-msgstr "Tillegg versjon"
+msgstr "Modul versjon"
 
 msgctxt "Languages::twgadmin_disconnect"
 msgid "Disconnect"
@@ -517,7 +517,7 @@ msgstr "Koble fra"
 
 msgctxt "Languages::twgadmin_disconnect_whole"
 msgid "Disconnect whole addon"
-msgstr "Koble fra hele tillegget"
+msgstr "Koble fra hele modulen"
 
 msgctxt "Languages::plan"
 msgid "Plan"
@@ -741,7 +741,7 @@ msgstr "Denne QR-koden inneholder Twigmo sin Tilgangs-ID [access_id], dette admi
 
 msgctxt "Languages::twapp_wrong_api_login_data"
 msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
-msgstr "Ingen data er mottatt fra denne admin URL-en. Vennligst sjekk den. Sørg også for at Twigmo tillegget er aktivert og koblet til tjenesten i butikken din"
+msgstr "Ingen data er mottatt fra denne admin URL-en. Vennligst sjekk den. Sørg også for at Twigmo modulen er aktivert og koblet til tjenesten i butikken din"
 
 msgctxt "Languages::twapp_scan_qr"
 msgid "Scan the QR code in your store admin panel"

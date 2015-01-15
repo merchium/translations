@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/store_import.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-09 05:00-0500\n"
+"PO-Revision-Date: 2015-01-15 08:00-0500\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -338,4 +338,8 @@ msgstr "Общие настройки"
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"
 msgstr "Данные для импорта"
+
+msgctxt "Languages::store_import.design_changes_not_allowed"
+msgid "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
+msgstr "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
 
