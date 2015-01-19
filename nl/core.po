@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-13 11:01-0500\n"
+"PO-Revision-Date: 2015-01-16 11:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1541,7 +1541,7 @@ msgstr "Vervoerder"
 
 msgctxt "Languages::carrier_aup"
 msgid "Australia Post"
-msgstr "Australia Post"
+msgstr "Australië Post"
 
 msgctxt "Languages::carrier_can"
 msgid "Canada Post"
@@ -1877,7 +1877,7 @@ msgstr "Cache leeg maken"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "Cache genereren"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -5293,7 +5293,7 @@ msgstr "Hoofdbox simpel"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "Footer algemeen"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7617,7 +7617,7 @@ msgstr "Klant postcode (verzending)"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Shipping methods"
+msgstr "Verzendmethoden"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -10401,7 +10401,7 @@ msgstr "Logo voor de <b>klant</b> omgeving"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Opmerking</b>: om bestellingen van de DataTrans te volgen met de webwinkel software dienen de volgende stappen te worden genomen: < br / > < br / >-Inloggen op DataTrans account < br / >-Klik op de link <u>'Upp Data'</u> in de sectie <u>' Upp Administrate'.</u> < br / > - Stel <u>'URL Post data formaat'</u> in op <b>'Gegevens in HTML'</b>. < br / > - Stel <u>'URL Post'</u> in op: < br / > <b>[post_url]</b> < br / >-Klik op de link <u>'Beveiliging'</u> in de sectie <u>' Upp Administration'.</u> < br / > - Selecteer de optie <b>'een extra merchant identificatie met betalingsmededeling wordt verzonden'</b>. < br / >-Genereer een nieuwe digitale handtekening met behulp van de knop <u>'Genereer nieuwe handtekening'</u>. < br / >-Stel de gegenereerd waarde in bij het veld <u>'Digitale handtekening'</u> op de DataTrans betaal configuratie pagina van de webshop< br / >"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -11145,8 +11145,8 @@ msgid "The store was <b>closed</b>"
 msgstr "De winkel was <b>gesloten</b>"
 
 msgctxt "Languages::text_store_mode_free"
-msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />"
-msgstr "Enkele functies zijn niet beschikbaar. Geen tijdrestrictie, licentienummer is niet nodig. <br /><br />Deze versie kan op elk moment worden geactiveerd"
+msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -12138,7 +12138,7 @@ msgstr "Doel URL. Mag een externe URL, een interne shop URL of een dispatch zijn
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Door gebruiker gedefinieerde CSS-klasse zal worden toegevoegd aan het menu item, zodat wordt toegestaan om het menu item met een eigen CSS-stijl te definiëren."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -14082,7 +14082,7 @@ msgstr "Afdeling gebruikers e-mailadres"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Gebruik voor"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14386,7 +14386,7 @@ msgstr "Schat de verzendkosten bij afrekenen"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Geef bezoekers na het plaatsen van een bestelling de mogelijkheid een profiel aan te maken"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14446,7 +14446,7 @@ msgstr "Betaalmethode weergeven (de eerst actieve betaalmethode wordt als standa
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Verkoop van downloadbare producten inschakelen"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -15502,23 +15502,23 @@ msgstr "Het veld \"Geldig t/m\" heeft een onjuiste invoer."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Inlog formulier"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Aanmaken en wijzigen van profielformulier"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Kassa (gebruikers informatie) formulier"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Volg mijn bestelling formulier"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Instellingen zoekmachine optimalisatie van de webwinkel."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15526,17 +15526,17 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Aanpassen: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "robots.txt aanpassen"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Herstel robots.txt naar het standaard bestand"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Fout in de gegevens validatie van de creditcard. Het nummer, de vervaldatum of de verificatiecode van de creditcard is ongeldig. "
 
