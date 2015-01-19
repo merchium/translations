@@ -13,8 +13,8 @@ msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (exc
 msgstr "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
 
 msgctxt "Languages::store_import.full_path_installation_directory"
-msgid "Full path to the store instalation directory"
-msgstr "Full path to the store instalation directory"
+msgid "Full path to the store installation directory"
+msgstr "Full path to the store installation directory"
 
 msgctxt "Languages::store_import.start_new_store_import"
 msgid "Start new store import"
@@ -129,12 +129,12 @@ msgid "Table prefix"
 msgstr "Table prefix"
 
 msgctxt "Languages::store_import.fill_form"
-msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</b><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
-msgstr "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</b><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
+msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
+msgstr "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
 
 msgctxt "Languages::store_import.second_step_22x_notice"
-msgid "<p>Note that your original core settings and design will not be transferred, except for add-ons' settings and all custom blocks under \"Products\" location of the Block Manager with <i>Content: Products</i> and <i>Filling: Manually</i>. During the next step you will be able to locate them on the \"Products\" location under the main content block.</p>"
-msgstr "<p>Note that your original core settings and design will not be transferred, except for add-ons' settings and all custom blocks under \"Products\" location of the Block Manager with <i>Content: Products</i> and <i>Filling: Manually</i>. During the next step you will be able to locate them on the \"Products\" location under the main content block.</p>"
+msgid "<p>Note that your original core settings and design will not be transferred, except for add-ons' settings and all custom blocks under \"Products\" location on the Layouts page with <i>Content: Products</i> and <i>Filling: Manually</i>. During the next step you will be able to locate them on the \"Products\" location under the main content block.</p>"
+msgstr "<p>Note that your original core settings and design will not be transferred, except for add-ons' settings and all custom blocks under \"Products\" location on the Layouts page <i>Content: Products</i> and <i>Filling: Manually</i>. During the next step you will be able to locate them on the \"Products\" location under the main content block.</p>"
 
 msgctxt "Languages::store_import.second_step_30x_notice"
 msgid "<p></p>"
@@ -331,3 +331,7 @@ msgstr "General"
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"
 msgstr "Store import data"
+
+msgctxt "Languages::store_import.design_changes_not_allowed"
+msgid "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
+msgstr "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
