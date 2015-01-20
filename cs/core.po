@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-19 10:00-0500\n"
+"PO-Revision-Date: 2015-01-20 05:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7153,7 +7153,7 @@ msgstr "Zobrazit nastavení"
 
 msgctxt "Languages::privileges.view_shipping"
 msgid "View shipping"
-msgstr "View shipping"
+msgstr "Zobrazení doručení"
 
 msgctxt "Languages::privileges.view_static_data"
 msgid "View static data"
@@ -7817,7 +7817,7 @@ msgstr "Opověď platebního procesoru"
 
 msgctxt "Languages::rebuild_cache_automatically"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Automaticky znovu vytvořit vyrovnávací paměť"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Store performance may be slightly affected. Recommended to disable on production."
@@ -7833,11 +7833,11 @@ msgstr "Přepočítat"
 
 msgctxt "Languages::recalculate_rates"
 msgid "Recalculate rates"
-msgstr "Recalculate rates"
+msgstr "Přepočítat ceny"
 
 msgctxt "Languages::recalculate_totals"
 msgid "Recalculate totals"
-msgstr "Recalculate totals"
+msgstr "Přepočítat celkovou částku"
 
 msgctxt "Languages::recent_activity"
 msgid "Recent activity"
@@ -7853,7 +7853,7 @@ msgstr "Recently viewed"
 
 msgctxt "Languages::recipient"
 msgid "Recipient"
-msgstr "Recipient"
+msgstr "Příjemce"
 
 msgctxt "Languages::recipients_name"
 msgid "Recipient`s Name"
@@ -7861,11 +7861,11 @@ msgstr "Jméno příjemce"
 
 msgctxt "Languages::recipient_description"
 msgid "Description of the Merchant"
-msgstr "Description of the Merchant"
+msgstr "Popis obchodníka"
 
 msgctxt "Languages::recommended"
 msgid "Recommended"
-msgstr "Recommended"
+msgstr "Doporučujeme"
 
 msgctxt "Languages::recover_password"
 msgid "Reset password"
@@ -7881,7 +7881,7 @@ msgstr "Znovu použitelné"
 
 msgctxt "Languages::redirect_customer_from_storefront"
 msgid "Redirect visitors of this storefront to the one that has countries to which the visitors' IP addresses belong defined"
-msgstr "Redirect visitors of this storefront to the one that has countries to which the visitors' IP addresses belong defined"
+msgstr "Přesměrovat návštěvníky tohoto obchodu do druhého, kde jsou země, které patří k návštěvníka IP"
 
 msgctxt "Languages::referrers"
 msgid "Referrers"
@@ -7901,7 +7901,7 @@ msgstr "Úhrada"
 
 msgctxt "Languages::refunded"
 msgid "Refunded"
-msgstr "Refunded"
+msgstr "Vráceno"
 
 msgctxt "Languages::refunded_amount"
 msgid "Refunded amount"
@@ -7917,11 +7917,11 @@ msgstr "If you are using the regexp checking, it is necessary to set a prompting
 
 msgctxt "Languages::region"
 msgid "Region"
-msgstr "Region"
+msgstr "Kraj"
 
 msgctxt "Languages::regions"
 msgid "Regions"
-msgstr "Regions"
+msgstr "Kraje"
 
 msgctxt "Languages::register"
 msgid "Register"
@@ -7945,7 +7945,7 @@ msgstr "Registrace zákazníka"
 
 msgctxt "Languages::registration"
 msgid "Registration"
-msgstr "Registration"
+msgstr "Registrace"
 
 msgctxt "Languages::regnumber"
 msgid "Registration number"
@@ -8149,7 +8149,7 @@ msgstr "Stálý zákazník"
 
 msgctxt "Languages::return_url_target"
 msgid "Return URL target"
-msgstr "Return URL target"
+msgstr "Vrátí cílovou URL"
 
 msgctxt "Languages::reuse"
 msgid "Reuse"
@@ -8157,7 +8157,7 @@ msgstr "Opětovné použití"
 
 msgctxt "Languages::reversed"
 msgid "Reversed"
-msgstr "Reversed"
+msgstr "Obrácená"
 
 msgctxt "Languages::revert"
 msgid "Revert"
@@ -8173,7 +8173,7 @@ msgstr "Pravý"
 
 msgctxt "Languages::right_to_left_orientation"
 msgid "Right to left orientation"
-msgstr "Right to left orientation"
+msgstr "Orientace zprava doleva"
 
 msgctxt "Languages::risk_checking"
 msgid "Risk checking is in process. Please try reloading this page in a minute."
@@ -8201,19 +8201,19 @@ msgstr "Kořenová úroveň stránky"
 
 msgctxt "Languages::round_to"
 msgid "Round to"
-msgstr "Round to"
+msgstr "Zaokrouhlená na"
 
 msgctxt "Languages::routing_code"
 msgid "Routing Number"
-msgstr "Routing Number"
+msgstr "Číslo směrování"
 
 msgctxt "Languages::runtime"
 msgid "Runtime"
-msgstr "Runtime"
+msgstr "Dodací lhůta"
 
 msgctxt "Languages::russian"
 msgid "Russian"
-msgstr "Russian"
+msgstr "Ruština"
 
 msgctxt "Languages::sale"
 msgid "Sale"
@@ -8821,23 +8821,23 @@ msgstr "Package height (inches)"
 
 msgctxt "Languages::ship_dhl_intl_ship_key"
 msgid "Shipping key (international)"
-msgstr "Shipping key (international)"
+msgstr "Přepravní klíč (mezinárodní)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
-msgstr "Package length (inches)"
+msgstr "Délka obalu (palce)"
 
 msgctxt "Languages::ship_dhl_shipment_type"
 msgid "Shipment type"
-msgstr "Shipment type"
+msgstr "Typ zásilky"
 
 msgctxt "Languages::ship_dhl_ship_hazardous"
 msgid "Ship hazardous materials"
-msgstr "Ship hazardous materials"
+msgstr "Doprava nebezpečných materiálů"
 
 msgctxt "Languages::ship_dhl_ship_key"
 msgid "Shipping key"
-msgstr "Shipping key"
+msgstr "Přepravní klíč"
 
 msgctxt "Languages::ship_dhl_system_id"
 msgid "System ID"
@@ -8845,31 +8845,31 @@ msgstr "System ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
-msgstr "Package width (inches)"
+msgstr "Šířka balení (palce)"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement"
 msgid "Ancillary Endorsements"
-msgstr "Ancillary Endorsements"
+msgstr "Doplňkové služby"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_address_correction"
 msgid "Address Service Requested"
-msgstr "Address Service Requested"
+msgstr "Požadovaná služba adres"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_carrier_leave_if_no_response"
 msgid "Carrier Leave If No Response"
-msgstr "Carrier Leave If No Response"
+msgstr "Nechte adresu příjemce v nepřítomnosti"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_change_service"
 msgid "Change Service Requested"
-msgstr "Change Service Requested"
+msgstr "Informování o změně adresy"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_forwarding_service"
 msgid "Forwarding Service Requested"
-msgstr "Forwarding Service Requested"
+msgstr "Přesměrování zásilky bez upozornění odesílatele"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_return_delivery"
 msgid "Return Service Requested"
-msgstr "Return Service Requested"
+msgstr "Požadovaná služba vrácení"
 
 msgctxt "Languages::ship_fedex_customer_manifest_id"
 msgid "Customer manifest ID"
@@ -8877,7 +8877,7 @@ msgstr "Customer manifest ID"
 
 msgctxt "Languages::ship_fedex_drop_off_type"
 msgid "Drop Off Type"
-msgstr "Drop Off Type"
+msgstr "Způsob dopravy"
 
 msgctxt "Languages::ship_fedex_drop_off_type_regular_pickup"
 msgid "Regular pickup"
@@ -8893,7 +8893,7 @@ msgstr "Drop at station"
 
 msgctxt "Languages::ship_fedex_height"
 msgid "Height (inches)"
-msgstr "Height (inches)"
+msgstr "Výška (palce)"
 
 msgctxt "Languages::ship_fedex_hub_id"
 msgid "Hub ID"
@@ -8921,7 +8921,7 @@ msgstr "Standard Mail packages (Packages less than 1 lb)"
 
 msgctxt "Languages::ship_fedex_length"
 msgid "Length (inches)"
-msgstr "Length (inches)"
+msgstr "Délka (palce)"
 
 msgctxt "Languages::ship_fedex_meter_number"
 msgid "Meter number"
@@ -9081,7 +9081,7 @@ msgstr "Termín dokončení (dny)"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
-msgstr "Class of the item being sent"
+msgstr "Třída objektu, který je odeslán"
 
 msgctxt "Languages::ship_temando_weight_measurement"
 msgid "Weight measurement type"
@@ -9149,7 +9149,7 @@ msgstr "On Call Air"
 
 msgctxt "Languages::ship_ups_pickup_type_11"
 msgid "Suggested Retail Rates"
-msgstr "Suggested Retail Rates"
+msgstr "Doporučené maloobchodní ceny"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
@@ -9161,11 +9161,11 @@ msgstr "Air Service Ccster"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
-msgstr "Container"
+msgstr "Kontejner"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
-msgstr "Container (Express)"
+msgstr "Kontejner (Express)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
@@ -9245,27 +9245,27 @@ msgstr "Flat"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_parcel"
 msgid "Parcel"
-msgstr "Parcel"
+msgstr "Balík"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
-msgstr "Package girth"
+msgstr "Objem balíku"
 
 msgctxt "Languages::ship_usps_intl_package_height"
 msgid "Package height"
-msgstr "Package height"
+msgstr "Výška balíku"
 
 msgctxt "Languages::ship_usps_intl_package_length"
 msgid "Package length"
-msgstr "Package length"
+msgstr "Délka balíku"
 
 msgctxt "Languages::ship_usps_intl_package_size"
 msgid "Package size"
-msgstr "Package size"
+msgstr "Velikost balíku"
 
 msgctxt "Languages::ship_usps_intl_package_width"
 msgid "Package width"
-msgstr "Package width"
+msgstr "Šířka balíku"
 
 msgctxt "Languages::ship_usps_machinable"
 msgid "Machinable (First-Class Mail or Standard Post)"
@@ -9273,19 +9273,19 @@ msgstr "Machinable (First-Class Mail or Parcel Post)"
 
 msgctxt "Languages::ship_usps_machinable_false"
 msgid "False"
-msgstr "False"
+msgstr "Nepravda"
 
 msgctxt "Languages::ship_usps_machinable_true"
 msgid "True"
-msgstr "True"
+msgstr "Pravda"
 
 msgctxt "Languages::ship_usps_mailtype"
 msgid "Type of Mail"
-msgstr "Type of Mail"
+msgstr "Typ korespondence"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
-msgstr "Matter for the Blind"
+msgstr "Pro nevidomé"
 
 msgctxt "Languages::ship_usps_mailtype_postcards_or_aerogrammes"
 msgid "Postcards or Aerogrammes"
@@ -9297,15 +9297,15 @@ msgstr "Package Size (lcsgth + girth, inches)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
-msgstr "Large (84..108)"
+msgstr "Velké (84..108)"
 
 msgctxt "Languages::ship_usps_package_size_oversize"
 msgid "Oversize (108..130)"
-msgstr "Oversize (108..130)"
+msgstr "Nadměrná velikost (108..130)"
 
 msgctxt "Languages::ship_usps_package_size_regular"
 msgid "Regular (0..84)"
-msgstr "Regular (0..84)"
+msgstr "Normální (0..84)"
 
 msgctxt "Languages::ship_usps_priority_girth"
 msgid "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
@@ -9329,7 +9329,7 @@ msgstr "ID uživatele"
 
 msgctxt "Languages::ship_width"
 msgid "Package width (cm)"
-msgstr "Package width (cm)"
+msgstr "Šířka balení (cm)"
 
 msgctxt "Languages::short_description"
 msgid "Short description"
@@ -9369,11 +9369,11 @@ msgstr "Zobrazit objednávky"
 
 msgctxt "Languages::show_page_in_popup"
 msgid "Show this page in a popup window"
-msgstr "Show this page in a popup window"
+msgstr "Zobrazit tuto stránku v pop-up okně"
 
 msgctxt "Languages::show_price"
 msgid "Show price"
-msgstr "Show price"
+msgstr "Zobrazit cenu"
 
 msgctxt "Languages::show_rate_for_destination"
 msgid "Show rates for location"
@@ -9381,11 +9381,11 @@ msgstr "Ukázat sazby pro destinaci"
 
 msgctxt "Languages::show_tab_in_popup"
 msgid "Show this tab in a popup window"
-msgstr "Show this tab in a popup window"
+msgstr "Zobrazit tuto stránku v pop-up okně"
 
 msgctxt "Languages::tmpl_sidebox_1_item"
 msgid "Side box first item"
-msgstr "Side box first item"
+msgstr "První sekce"
 
 msgctxt "Languages::sidebox_general"
 msgid "Sidebox general"
@@ -9397,7 +9397,7 @@ msgstr "Sidebox important"
 
 msgctxt "Languages::signature"
 msgid "Signature"
-msgstr "Signature"
+msgstr "Podpis"
 
 msgctxt "Languages::signed_in_as"
 msgid "Signed in as"
@@ -9425,7 +9425,7 @@ msgstr "Odhlásit se"
 
 msgctxt "Languages::sign_up_for_notification"
 msgid "Sign up for notification"
-msgstr "Sign up for notification"
+msgstr "Zaregistrujte se pro oznámení"
 
 msgctxt "Languages::similar_only"
 msgid "Similar only"
@@ -9433,11 +9433,11 @@ msgstr "Pouze podobné"
 
 msgctxt "Languages::simple_ultimate_companies_selector"
 msgid "Please contact the technical support"
-msgstr "Please contact the technical support"
+msgstr "Obraťte se na technickou podporu"
 
 msgctxt "Languages::simultaneous"
 msgid "Simultaneous"
-msgstr "Simultaneous"
+msgstr "Simultánní"
 
 msgctxt "Languages::single"
 msgid "Single"
@@ -9465,7 +9465,7 @@ msgstr "Číslo stránky (EPT)"
 
 msgctxt "Languages::size"
 msgid "Size"
-msgstr "Size"
+msgstr "Velikost"
 
 msgctxt "Languages::skiplastpage"
 msgid "Skip the last page"
@@ -9473,7 +9473,7 @@ msgstr "Přeskočit poslední stránku"
 
 msgctxt "Languages::skip_payment"
 msgid "Skip payment"
-msgstr "Skip payment"
+msgstr "Přeskočit platby"
 
 msgctxt "Languages::skrill_customer_id"
 msgid "Skrill Customer ID"
@@ -9485,7 +9485,7 @@ msgstr "KÓD"
 
 msgctxt "Languages::slovak"
 msgid "Slovak"
-msgstr "Slovak"
+msgstr "Slovenština"
 
 msgctxt "Languages::slow"
 msgid "Slow"
@@ -9497,7 +9497,7 @@ msgstr "Drobné položky"
 
 msgctxt "Languages::smarty_block"
 msgid "HTML block with Smarty support"
-msgstr "HTML block with Smarty support"
+msgstr "HTML blok s podporou Smarty"
 
 msgctxt "Languages::sms_customer_registered"
 msgid "Customer [name] has been registered."
@@ -9521,43 +9521,43 @@ msgstr "Seřadit dle"
 
 msgctxt "Languages::sort_by_null_asc"
 msgid "No sorting"
-msgstr "No sorting"
+msgstr "Netřídit"
 
 msgctxt "Languages::sort_by_popularity_asc"
 msgid "Sort by Popularity: Low to High"
-msgstr "Sort by Popularity: Low to High"
+msgstr "Seřadit podle oblíbenosti: Od nejnižší k nejvyšší"
 
 msgctxt "Languages::sort_by_popularity_desc"
 msgid "Sort by Popularity"
-msgstr "Sort by Popularity"
+msgstr "Seřadit podle oblíbenosti"
 
 msgctxt "Languages::sort_by_position_asc"
 msgid "Sort by Position: Low to High"
-msgstr "Sort by Position: Low to High"
+msgstr "Seřadit podle pozice: Od nejnižší k nejvyšší"
 
 msgctxt "Languages::sort_by_position_desc"
 msgid "Sort by Position: High to Low"
-msgstr "Sort by Position: High to Low"
+msgstr "Seřadit podle pozice: Od nejvyšší k nejnižší"
 
 msgctxt "Languages::sort_by_price_asc"
 msgid "Sort by Price: Low to High"
-msgstr "Sort by Price: Low to High"
+msgstr "Seřadit podle ceny: Od nejnižší k nejvyšší"
 
 msgctxt "Languages::sort_by_price_desc"
 msgid "Sort by Price: High to Low"
-msgstr "Sort by Price: High to Low"
+msgstr "Seřadit podle ceny: Od nejvyšší k nejnižší"
 
 msgctxt "Languages::sort_by_product_asc"
 msgid "Sort Alphabetically: A to Z"
-msgstr "Sort Alphabetically: A to Z"
+msgstr "Seřadit abecedně: Od A do Z"
 
 msgctxt "Languages::sort_by_product_desc"
 msgid "Sort Alphabetically: Z to A"
-msgstr "Sort Alphabetically: Z to A"
+msgstr "Seřadit abecedně: Od Z do A"
 
 msgctxt "Languages::sort_by_timestamp_asc"
 msgid "Oldest Items First"
-msgstr "Oldest Items First"
+msgstr "Nejstarší položky první"
 
 msgctxt "Languages::sort_by_timestamp_desc"
 msgid "Newest Items First"
@@ -9565,7 +9565,7 @@ msgstr "Nejnovější položky jako první"
 
 msgctxt "Languages::sort_images"
 msgid "Sort images"
-msgstr "Sort images"
+msgstr "Řazení obrázků"
 
 msgctxt "Languages::spanish"
 msgid "Spanish"
