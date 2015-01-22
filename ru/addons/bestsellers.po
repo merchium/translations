@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/bestsellers.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-15 08:00-0500\n"
+"PO-Revision-Date: 2015-01-22 03:02-0500\n"
 
 msgctxt "Addons::name::bestsellers"
 msgid "Bestsellers & On-Sale Products"
@@ -46,4 +46,64 @@ msgstr "Хиты продаж"
 msgctxt "Languages::on_sale"
 msgid "On sale"
 msgstr "Товары со скидкой"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "Similar"
+
+msgctxt "Languages::percent_range"
+msgid "% price range (from price of the main product)"
+msgstr "% price range (from price of the main product)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "Of the same category"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "Consider subcategories"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Only \"in stock\" products"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "Final sale"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "Newest"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum discount (%)"
+msgstr "Minimum discount (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount"
+msgstr "Minimum sales amount"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "Period"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "Last days"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "All days"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "Today"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "Last days"
 

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: merchium\n"
 "X-Crowdin-File: /addons/saas.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-08 17:00-0500\n"
+"PO-Revision-Date: 2015-01-22 04:00-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -53,11 +53,11 @@ msgstr "Домен"
 
 msgctxt "Languages::saas.update_domain"
 msgid "Update domain"
-msgstr "Update domain"
+msgstr "Изменить домен"
 
 msgctxt "Languages::saas.ssl_pem"
 msgid "SSL certificate (PEM)"
-msgstr "SSL certificate (PEM)"
+msgstr "SSL-сертификат (PEM)"
 
 msgctxt "Languages::saas.text_ssl_pem"
 msgid "TODO: PEM info here"
@@ -65,27 +65,27 @@ msgstr "TODO: PEM info here"
 
 msgctxt "Languages::saas.ssl_enable"
 msgid "Enable HTTPS"
-msgstr "Enable HTTPS"
+msgstr "Включить HTTPS"
 
 msgctxt "Languages::saas.domains_error.11"
 msgid "The domain is already assigned to one of our stores. Please choose another one."
-msgstr "The domain is already assigned to one of our stores. Please choose another one."
+msgstr "Этот домен уже назначен на один из наших магазинов. Пожалуйста, выберите другой."
 
 msgctxt "Languages::saas.domains_error.21"
 msgid "SSL: failed to parse certificate"
-msgstr "SSL: failed to parse certificate"
+msgstr "SSL: не удалось прочитать сертификат"
 
 msgctxt "Languages::saas.domains_error.22"
 msgid "SSL: failed to parse public key"
-msgstr "SSL: failed to parse public key"
+msgstr "SSL: не удалось прочитать открытый ключ"
 
 msgctxt "Languages::saas.domains_error.23"
 msgid "SSL: public key and certificate don't match"
-msgstr "SSL: public key and certificate don't match"
+msgstr "SSL: открытый ключ и сертификат не совпадают"
 
 msgctxt "Languages::saas.domains_error.24"
 msgid "SSL: certificate domain not't match"
-msgstr "SSL: certificate domain not't match"
+msgstr "SSL: сертификат не соответствует домену"
 
 msgctxt "Languages::saas.storefront_domain_url_already_exists"
 msgid "The value of the <strong>Custom domain</strong> parameter mentioned by you already belongs to another company."
