@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/access_restrictions.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-13 11:03-0500\n"
+"PO-Revision-Date: 2015-01-23 13:00-0500\n"
 
 msgctxt "Addons::name::access_restrictions"
 msgid "Access restrictions"
@@ -17,7 +17,7 @@ msgstr "Erişim kısıtlamaları"
 
 msgctxt "Addons::description::access_restrictions"
 msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
-msgstr "Belirli IP adreslerinin farklı seçeneklerle mağazası ve yönetici alanı erişimini kısıtlamayı sağlar"
+msgstr "Belirli IP adreslerinin farklı seçeneklerle sanal vitrin ve yönetici alanı erişimini kısıtlamayı sağlar"
 
 msgctxt "Languages::access_restrictions"
 msgid "Access restrictions"
@@ -33,11 +33,11 @@ msgstr "Yeni IP"
 
 msgctxt "Languages::add_domains"
 msgid "Add domains"
-msgstr "Domainler ekle"
+msgstr "Alan adı ekle"
 
 msgctxt "Languages::new_domains"
 msgid "New domains"
-msgstr "Yeni domainler"
+msgstr "Yeni alan adları"
 
 msgctxt "Languages::add_emails"
 msgid "Add e-mail addresses"
@@ -65,7 +65,7 @@ msgstr "Alan Adı"
 
 msgctxt "Languages::warning_of_ip_adding"
 msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
-msgstr "Girilen IP adresi <b>[entered_ip]</b> (<b>[your_ip]</b> IP's), bilgisayarınızdan yönetim paneli erişimi yasaklıyor."
+msgstr "Girilen IP adresi <b>[entered_ip]</b>, bilgisayarınızdan yönetim paneline erişimi yasaklıyor (<b>[your_ip]</b> IP's)."
 
 msgctxt "Languages::text_cc_number_is_blocked"
 msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
@@ -109,7 +109,7 @@ msgstr "IP adresiniz <b>[ip]</b> erişim kısıtlamaları tablosuna eklenmiştir
 
 msgctxt "Languages::your_ip_enabled"
 msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
-msgstr "IP adresiniz <b>[ip]</b> erişim kısıtlamaları tablo etkinleştirilmiş."
+msgstr "IP adresiniz <b>[ip]</b> erişim kısıtlamaları tablosunda etkinleştirildi."
 
 msgctxt "Languages::your_ip_removed"
 msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
@@ -125,11 +125,11 @@ msgstr "IP için"
 
 msgctxt "Languages::text_access_notice"
 msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
-msgstr "\"Alan adı\", \"E-posta\" ve \"Kredi kartı\" sekmeleri için joker karakterler kullanabilirsiniz: < br / > <b>*</b> - herhangi bir sayıda karakter sıfır temsil edebilir < br / > <b>?</b> - tek bir karakteri temsil edebilir."
+msgstr "\"Alan adı\", \"E-posta\" ve \"Kredi kartı\" sekmeleri için joker karakterler kullanabilirsiniz: < br / > <b>*</b> - sıfır da dahil olmak üzere herhangi bir sayıda karakteri temsil edebilir < br / > <b>?</b> - tek bir karakteri temsil edebilir."
 
 msgctxt "Languages::ips"
 msgid "IPs"
-msgstr "IP'leri"
+msgstr "IP'ler"
 
 msgctxt "Languages::make_permanent"
 msgid "Make permanent"
