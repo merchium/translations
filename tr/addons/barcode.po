@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/barcode.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-23 13:00-0500\n"
+"PO-Revision-Date: 2015-01-25 16:00-0500\n"
 
 msgctxt "Addons::name::barcode"
 msgid "Order barcode"
@@ -17,7 +17,7 @@ msgstr "Sipariş barkodu"
 
 msgctxt "Addons::description::barcode"
 msgid "Makes it possible to configure and attach barcodes to orders"
-msgstr "Siparişleri yapılandırmayı ve barkod eklemeye olanak sağlar"
+msgstr "Siparişler için barkod yapılandırmaya ve eklemeye olanak sağlar"
 
 msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
 msgid "Please enable the add-on to see a code example."
@@ -93,7 +93,7 @@ msgstr "Kod 128-C"
 
 msgctxt "SettingsVariants::barcode::type::I25"
 msgid "Interleaved 2 of 5"
-msgstr "Interleaved 2 of 5"
+msgstr "Aralıklı 2/5"
 
 msgctxt "SettingsVariants::barcode::type::C39"
 msgid "Code 39"
@@ -109,7 +109,7 @@ msgstr "Joint Photographic Experts Group (JPEG)"
 
 msgctxt "SettingsVariants::barcode::text::N"
 msgid "Disabled"
-msgstr "Pasif"
+msgstr "Devredışı"
 
 msgctxt "SettingsVariants::barcode::text::Y"
 msgid "Enabled"
