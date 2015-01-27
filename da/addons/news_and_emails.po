@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/news_and_emails.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 07:00-0500\n"
+"PO-Revision-Date: 2015-01-27 08:00-0500\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -17,7 +17,7 @@ msgstr "Nyheder & e-mails"
 
 msgctxt "Addons::description::news_and_emails"
 msgid "Lets you manage site news and configure newsletter sending"
-msgstr "Lets you manage site news and configure newsletter sending"
+msgstr "Lader dig styre site nyheder og konfigurere forsendelse af nyhedsbreve"
 
 msgctxt "Languages::news"
 msgid "News"
@@ -25,11 +25,11 @@ msgstr "Side"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
-msgstr "Create and send newsletters to your customer."
+msgstr "Oprette og sende nyhedsbreve til din kunde."
 
 msgctxt "Languages::news_menu_description"
 msgid "Manage news that is published in News box on the storefront."
-msgstr "Manage news that is published in News box on the storefront."
+msgstr "Administrere nyheder, der er udgivet i Nyhedesboks i butikken."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
@@ -41,7 +41,7 @@ msgstr "Tilmeld dig vores nyhedsbreve!"
 
 msgctxt "Languages::tmpl_subscription"
 msgid "News & emails: Newsletter subscription form"
-msgstr "News & emails: Newsletter subscription form"
+msgstr "Nyheder & e-mails: nyhedsbrev abonnement form"
 
 msgctxt "Languages::log_type_news"
 msgid "News"
@@ -65,39 +65,39 @@ msgstr "<b>[email]</b> er allerede på listen over medlemmer"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "Nogle postlister fra inputfilen blev ikke fundet i databasen. Visse importerede abonnenter vil stå ikke-tildelte."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
-msgstr "Subscribers"
+msgstr "Abonnenter"
 
 msgctxt "Languages::news_list_page"
 msgid "News list page"
-msgstr "News list page"
+msgstr "Nyhedslisteside"
 
 msgctxt "Languages::view_news_page"
 msgid "News page"
-msgstr "News page"
+msgstr "Nyhedsside"
 
 msgctxt "Languages::block_mailing_lists"
 msgid "Newsletter subscription"
-msgstr "Newsletter subscription"
+msgstr "Nyhedsbrev abonnement"
 
 msgctxt "Languages::block_news"
 msgid "News"
-msgstr "News"
+msgstr "Nyheder"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
-msgstr "Email field for newsletter subscription"
+msgstr "E-mail-feltet for nyhedsbrev abonnement"
 
 msgctxt "Languages::privileges.view_news"
 msgid "View news"
-msgstr "View news"
+msgstr "Se nyheder"
 
 msgctxt "Languages::privileges.manage_news"
 msgid "Manage news"
-msgstr "Manage news"
+msgstr "Administrere nyheder"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
@@ -109,7 +109,7 @@ msgstr "Nyhedsbrevet er blevet sendt."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail cannot be empty"
+msgstr "E-mail kan ikke være tom"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
@@ -277,19 +277,19 @@ msgstr "Tilføj beløbsmodtagelse fra brugere"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
-msgstr "Customers with abandoned"
+msgstr "Forladte kunder"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
-msgstr "Cart or Wishlist"
+msgstr "Vogn eller ønskeliste"
 
 msgctxt "Languages::which_is"
 msgid "which is"
-msgstr "which is"
+msgstr "der er"
 
 msgctxt "Languages::days_old"
 msgid "days old"
-msgstr "days old"
+msgstr "dage gammel"
 
 msgctxt "Languages::send_to_test_email"
 msgid "Send to test email"
@@ -317,7 +317,7 @@ msgstr "Mail liste"
 
 msgctxt "Languages::confirmed"
 msgid "Confirmed"
-msgstr "bekræftelse"
+msgstr "Bekræftet"
 
 msgctxt "Languages::subscribed_to"
 msgid "Subscribed to [num] lists"
@@ -341,7 +341,7 @@ msgstr "opdateringer og promover abonnement"
 
 msgctxt "Languages::ult_shared_with"
 msgid "Shared with:"
-msgstr "Shared with:"
+msgstr "Delt med:"
 
 msgctxt "Languages::tt_addons_news_and_emails_views_mailing_lists_update_from_email"
 msgid "Email of a sender."
@@ -357,11 +357,11 @@ msgstr "E-mail som svar er sendt."
 
 msgctxt "Languages::tt_addons_news_and_emails_views_newsletters_update_more_subjects"
 msgid "If several subjects are specified, email subject is randomly picked from this list."
-msgstr "Hvis flere fag er angivet, e-mail-emne er tilfældigt udvalgt fra denne liste."
+msgstr "Hvis flere emner er angivet, e-mail-emne er tilfældigt udvalgt fra denne liste."
 
 msgctxt "Languages::tt_addons_news_and_emails_views_newsletters_update_users"
 msgid "If the message text contains the unsubscribe link, it will be empty for these users."
-msgstr "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "Hvis meddelelsestekst indeholder afmeldlinket, vil det være tomt for disse brugere."
 
 msgctxt "Languages::add_mailing_lists"
 msgid "Add mailing list"
@@ -373,15 +373,15 @@ msgstr "Tilføj abonnenter"
 
 msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
-msgstr "New mailing list"
+msgstr "Ny postliste"
 
 msgctxt "Languages::new_subscribers"
 msgid "New subscribers"
-msgstr "Tilføj nye abonnenter"
+msgstr "Nye abonnenter"
 
 msgctxt "SettingsSections::news_and_emails::general"
 msgid "General"
-msgstr "General"
+msgstr "Generelt"
 
 msgctxt "SettingsOptions::news_and_emails::newsletters_per_pass"
 msgid "Newsletters sent per step"
@@ -389,7 +389,7 @@ msgstr "Nyhedsbreve sendt pr trin"
 
 msgctxt "SettingsOptions::news_and_emails::elm_advanced_mailing_server_options"
 msgid "Advanced mailing server options"
-msgstr "Avanceret mail-server options"
+msgstr "Avanceret mail serverindstillinger"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_send_method"
 msgid "Method of sending e-mails"
@@ -401,7 +401,7 @@ msgstr "SMTP-server indstillinger"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_host"
 msgid "SMTP host"
-msgstr "SMTP host"
+msgstr "SMTP-værten"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_smtp_username"
 msgid "SMTP username"
@@ -421,7 +421,7 @@ msgstr "Sendmail-indstillinger"
 
 msgctxt "SettingsOptions::news_and_emails::mailer_sendmail_path"
 msgid "Path to sendmail program"
-msgstr "Sti sendmail program"
+msgstr "Sti til sendmail program"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::smtp"
 msgid "via SMTP server"
@@ -429,13 +429,13 @@ msgstr "via SMTP-server"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "via php mail funktion"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "via sendmail programmet"
 
 msgctxt "SettingsVariants::news_and_emails::mailer_send_method::default"
 msgid "use default settings"
-msgstr "brug stanDArdindstillingerne"
+msgstr "Brug standardindstillinger"
 
