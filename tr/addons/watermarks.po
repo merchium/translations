@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/watermarks.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 08:00-0500\n"
+"PO-Revision-Date: 2015-01-28 11:00-0500\n"
 
 msgctxt "Addons::name::watermarks"
 msgid "Watermarks"
@@ -73,7 +73,7 @@ msgstr "Küçük resim filigran"
 
 msgctxt "Languages::wt_watermark_detailed"
 msgid "Popup larger image watermark"
-msgstr "Daha büyük görüntü filigran ( popup )"
+msgstr "Daha büyük görüntü filigran (açılır)"
 
 msgctxt "Languages::wt_fail_apply_graphic_watermark"
 msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
@@ -85,23 +85,23 @@ msgstr "Küçük resimler"
 
 msgctxt "Languages::wt_detailed"
 msgid "popup larger images"
-msgstr "Daha büyük görüntü ( popup )"
+msgstr "Daha büyük görüntü (açılır)"
 
 msgctxt "Languages::wt_images_access_description"
 msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
-msgstr "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "Orjinal resim dosyalarınızın bulunduğu dizine direkt erişimi engellemek için, lütfen CS-Cartınızın images klasöründeki '.htaccess' dosyasına aşağıdaki kodu ekleyiniz. Böylece orijinal resim korunacaktır. Orijinal bir resim açıldığında dahi, buna karşılık gelen filigranlı resim görüntülenecektir."
 
 msgctxt "Languages::wt_watermarks_access_description"
 msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
-msgstr "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "Sizin mağaza sayfanızdan istenmemiş olsa bile filigranlı resimleri oluşturmak için, lütfen '.htaccess' dosyasını aşağıdaki yönergelerle birlikte yüklemenizin 'images/watermarks' dizinine ekleyin."
 
 msgctxt "Languages::wt_access_note"
 msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
-msgstr "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "\"Watermarks\" eklentisini iptal eder veya kaldırırsanız, bu yönergeleri '.htaccess' dosyasından elle kaldırmanız gerekeceğini göz önünde bulundurun. Aksi takdirde kategori ve ürün resimlerine ulaşılamayacaktır."
 
 msgctxt "Languages::wt_access_warning"
 msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
-msgstr "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "Filigran oluşturma devre dışı bırakıldı. \"images/.htaccess\" dosyasında herhangi bir \"Filigran yeniden yazma kuralları\" yönergesi bulunması durumunda, bunları elle kaldırmanız gerekecektir. Aksi takdirde kategori ve ürün resimlerine ulaşılamayacaktır."
 
 msgctxt "Languages::wt_images_access_info"
 msgid "Images access"
@@ -121,11 +121,11 @@ msgstr "Ürün filigranları"
 
 msgctxt "SettingsOptions::watermarks::use_for_product_icons"
 msgid "Resized images"
-msgstr "Yeniden boyutlandırılan fotoğraf"
+msgstr "Yeniden boyutlandırılan resimler"
 
 msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
 msgid "Original size images"
-msgstr "Orijinal görüntü boyutu"
+msgstr "Orijinal boyutlu görüntü"
 
 msgctxt "SettingsOptions::watermarks::apply_to_categories"
 msgid "Category watermarks"
@@ -133,7 +133,7 @@ msgstr "Kategori filigranları"
 
 msgctxt "SettingsOptions::watermarks::use_for_category_icons"
 msgid "Resized images"
-msgstr "Yeniden boyutlandırılan fotoğraf"
+msgstr "Yeniden boyutlandırılan resimler"
 
 msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
 msgid "Original size images"

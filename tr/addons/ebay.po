@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/ebay.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 08:00-0500\n"
+"PO-Revision-Date: 2015-01-28 11:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -253,163 +253,163 @@ msgstr "Yurtiçi ürün teslimatı için kullanılacak olan teslimat hizmetini s
 
 msgctxt "Languages::international_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "Dünya çapında yapılacak teslimatlar için kullanılacak olan teslimat hizmetini seçin"
 
 msgctxt "Languages::dispatch_days_tooltip"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr "The period of product delivery to a customer  (in days)"
+msgstr "Müşteriye yapılacak olan teslimatın süresi (gün)"
 
 msgctxt "Languages::ebay_payment_method_tooltip"
 msgid "Payment method(s), available for a template"
-msgstr "Payment method(s), available for a template"
+msgstr "Bir şablon için mevcut olan ödeme yöntem(ler)i"
 
 msgctxt "Languages::paypal_email_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "PayPal hesabının kullanıcı adını tanımlayın"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "PayPal hesabının kullanıcı adını tanımlayın"
 
 msgctxt "Languages::free_shipping_tooltip"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr "Choose, if you want free shipping to be applied to products in a template"
+msgstr "Bir şablon içinde yer alan ürünlere ücretsiz teslimat uygulanmasını istiyorsanız seçin"
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
+msgstr "Bir mal için sabit teslimat fiyatı (eğer teslimat türü Düz ise). eBay'deki teslimat ve taşıma ayarları."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
-msgstr "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
+msgstr "Sırasıyla her ek ürün için taşıma fiyatı  (eBay'deki Her bir ek ürün ayarı)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Shipping cost additional"
-msgstr "Shipping cost additional"
+msgstr "Ek taşıma maliyeti"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
-msgstr "The storefront, for which a template will be created"
+msgstr "Şablonun oluşturulacağı vitrin."
 
 msgctxt "Languages::shipping_cost_cannot_be_null"
 msgid "Shipping cost must be non-zero"
-msgstr "Shipping cost must be non-zero"
+msgstr "Taşıma maliyeti sıfır dışında bir değer olmalıdır"
 
 msgctxt "Languages::ebay_title"
 msgid "eBay product title"
-msgstr "eBay product title"
+msgstr "eBay ürün başlığı"
 
 msgctxt "Languages::ebay_title_tooltip"
 msgid "eBay title the title of the product to be used at eBay"
-msgstr "eBay title the title of the product to be used at eBay"
+msgstr "eBay başlığı ürünün eBay'de kullanılacak olan başlığı"
 
 msgctxt "Languages::ebay_description"
 msgid "eBay product description"
-msgstr "eBay product description"
+msgstr "eBay ürün açıklaması"
 
 msgctxt "Languages::ebay_description_tooltip"
 msgid "eBay description the description of the product to be used at eBay"
-msgstr "eBay description the description of the product to be used at eBay"
+msgstr "eBay ürün açıklaması ürünün eBay'de kullanılacak olan açıklaması"
 
 msgctxt "Languages::override"
 msgid "Override title and description"
-msgstr "Override title and description"
+msgstr "Başlığı ve açıklamayı geçersiz kıl"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
-msgstr "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
+msgstr "eBay ürün adı ve eBay ürün açıklaması alanlarındaki orijinal ürün adının ve açıklamasının bununla değiştirilmesini istiyorsanız seçin"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
-msgstr "Return Policy"
+msgstr "İade Politikası"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "Bu şablon altında gruplanan ürünlerin iadesinin kabul edilmesine izin verilip verilmemesi için seçin"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
-msgstr "Returns Accepted"
+msgstr "İade Kabul Edildi"
 
 msgctxt "Languages::no_returns_accepted"
 msgid "No returns accepted"
-msgstr "No returns accepted"
+msgstr "Hiçbir İade Kabul Edilmedi"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
-msgstr "After receiving the item, your buyer should contact you within"
+msgstr "Ürün teslim alındıktan sonra, alıcınızın size haber vermesi gereken süre"
 
 msgctxt "Languages::contact_time_tooltip"
 msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr "Choose the period of time within that the buyer must contact you to approve the purchase reception"
+msgstr "Alıcının yaptığı alımın eline geçtiğini onaylamak için size ulaşması gereken süreyi seçin"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
-msgstr "Refund will be given as"
+msgstr "Geri ödeme şekli"
 
 msgctxt "Languages::refund_method_tooltip"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr "Choose the action that will replace the return, if it is not allowed"
+msgstr "Eğer izin verilmiyorsa, iadenin yerine geçecek eylemi seçin"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
-msgstr "Money Back"
+msgstr "Para İadesi"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
-msgstr "Money back or replacement (buyer's choice)"
+msgstr "Para iadesi veya yenileme (müşteri tercihi)"
 
 msgctxt "Languages::money_back_or_exchange"
 msgid "Money back or exchange (buyer's choice)"
-msgstr "Money back or exchange (buyer's choice)"
+msgstr "Para iadesi veya değişim (müşteri tercihi)"
 
 msgctxt "Languages::cost_paid_by"
 msgid "Return shipping will be paid by"
-msgstr "Return shipping will be paid by"
+msgstr "İade taşımasını ödeyecek olan"
 
 msgctxt "Languages::cost_paid_by_tooltip"
 msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
+msgstr "Satınalma iadesinin taşıma ücretini kimin karşılayacağını seçin - satıcı veya alıcı"
 
 msgctxt "Languages::seller"
 msgid "Seller"
-msgstr "Seller"
+msgstr "Satıcı"
 
 msgctxt "Languages::buyer"
 msgid "Buyer"
-msgstr "Buyer"
+msgstr "Alıcı"
 
 msgctxt "Languages::return_policy_descr"
 msgid "Policy description"
-msgstr "Policy description"
+msgstr "Politika açıklaması"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
-msgstr "Write the detailed description of your return policy here"
+msgstr "İade politikanızın ayrıntılı açıklamasını buraya yazın"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
-msgstr "Large envelope"
+msgstr "Büyük zarf"
 
 msgctxt "Languages::large_package"
 msgid "Large package"
-msgstr "Large package"
+msgstr "Büyük paket"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
-msgstr "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "Paket türünüzü bilmiyorsanız \"Büyük paket\" tercihini seçin. En isabetli maliyetin belirlenebilmesi için  kesin paket ölçüleri size sorulacaktır."
 
 msgctxt "Languages::product_out_of_weight"
 msgid "Products with the [ids] id were not exported because their weight equals zero."
-msgstr "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "[ids] id'lere sahip olan ürünler ağırlıkları sıfıra eşit olduğu için aktarılamamışlardır."
 
 msgctxt "Languages::exported_to_ebay"
 msgid "Exported to eBay"
-msgstr "Exported to eBay"
+msgstr "eBay'e aktarıldı"
 
 msgctxt "Languages::revised_after_the_latest_export"
 msgid "Revised after the latest export"
-msgstr "Revised after the latest export"
+msgstr "En son aktarımdan sonra revize edildi"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting images to Ebay"
@@ -421,39 +421,39 @@ msgstr "Paket/kalın zarf"
 
 msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
-msgstr "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "Başka bir sahibi olduğu için şablonlardan bazılarını kaldırmaya izniniz yok."
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
+msgstr "Mevcut lisans numarası geçersiz. \"eBay\" eklentisi devredışı. Tekrar etkinleştirmek için lütfen eklenti lisans numarasını kontrol edin."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Activate add-on"
+msgstr "Eklentiyi etkinleştir"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
+msgstr "Ticari bir eklenti yüklediniz. Bunu etkinleştirmek için eklenti ayarları sayfasında eklenti lisans numarasını girin."
 
 msgctxt "Languages::ebay_empty_license_number"
 msgid "The add-on license number is empty."
-msgstr "The add-on license number is empty."
+msgstr "Eklenti lisans numarası boş."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
-msgstr "Ebay templates not found"
+msgstr "eBay şablonları bulunamadı"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
-msgstr "General"
+msgstr "Genel"
 
 msgctxt "SettingsOptions::ebay::ebay_license_number"
 msgid "The eBay add-on license number"
-msgstr "The eBay add-on license number"
+msgstr "eBay eklenti lisans numarası"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
-msgstr "Notice"
+msgstr "Bildirim"
 
 msgctxt "SettingsOptions::ebay::dev_id"
 msgid "eBay DevID"
@@ -469,45 +469,45 @@ msgstr "eBay CertID"
 
 msgctxt "SettingsOptions::ebay::token"
 msgid "eBay User Token"
-msgstr "eBay User Token"
+msgstr "eBay Kullanıcı Simgesi"
 
 msgctxt "SettingsOptions::ebay::listing_mode"
 msgid "Sandbox / Production"
-msgstr "Sandbox / Production"
+msgstr "Kum havuzu / Üretim"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "Varsayılan site"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
-msgstr "eBay timestamp"
+msgstr "eBay zaman damgası"
 
 msgctxt "SettingsVariants::ebay::listing_mode::S"
 msgid "Sandbox"
-msgstr "Sandbox"
+msgstr "Kum havuzu"
 
 msgctxt "SettingsVariants::ebay::listing_mode::P"
 msgid "Production"
-msgstr "Production"
+msgstr "Üretim"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
-msgstr "Please wait, shipping information is loaded."
+msgstr "Lütfen bekleyin, teslimat bilgisi yükleniyor."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
-msgstr "License info"
+msgstr "Lisans bilgileri"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
+msgstr "Bu eklentinin çalışması için bir lisansa ihtiyaç var. <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> sayfasından bir eBay eklenti lisansı satın alabilirsiniz."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
-msgstr "View eBay templates"
+msgstr "eBay şablonlarını görüntüleyin"
 
 msgctxt "Languages::privileges.manage_ebay_templates"
 msgid "Manage eBay templates"
-msgstr "Manage eBay templates"
+msgstr "eBay şablonlarını yönetin"
 

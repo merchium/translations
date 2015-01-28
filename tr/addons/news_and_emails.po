@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/news_and_emails.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 08:00-0500\n"
+"PO-Revision-Date: 2015-01-28 11:00-0500\n"
 
 msgctxt "Addons::name::news_and_emails"
 msgid "News & e-mails"
@@ -25,11 +25,11 @@ msgstr "Haberler"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
-msgstr "Müşterileriniz için bülten oluşturun"
+msgstr "Bültenleri oluşturun ve müşterilerinize gönderin."
 
 msgctxt "Languages::news_menu_description"
 msgid "Manage news that is published in News box on the storefront."
-msgstr "Mağazanızdaki Haberler kutusunda görüntülenecek haberleri yönetin"
+msgstr "Vitrindeki haber kutusunda yayınlanan haberleri yönetin."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
@@ -53,7 +53,7 @@ msgstr "Haberler & e-postalar"
 
 msgctxt "Languages::unsubscribe_link"
 msgid "Unsubscribe link"
-msgstr "Takibi bırak!"
+msgstr "Abonelik sonlandırma linki"
 
 msgctxt "Languages::ne_add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
@@ -65,7 +65,7 @@ msgstr "<b>[email]</b> zaten haber listesinde"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr "Giriş dosyasından bazı e-posta listeleri veritabanında bulunamadı. "
+msgstr "Giriş dosyasından bazı e-posta listeleri veri tabanında bulunamadı. Aktarılan belirli aboneler atanmamış olarak bırakılacaktır."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
@@ -133,7 +133,7 @@ msgstr "E-posta başarıyla etkinleştirildi"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
-msgstr "The link will be displayed in a live newsletter"
+msgstr "Link canlı bir bültende görüntülenecek"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
@@ -181,7 +181,7 @@ msgstr "Gönderen E-mail"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr "Gönderilen"
+msgstr "Cevap verilen"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
@@ -245,7 +245,7 @@ msgstr "Şablon Ekle"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
-msgstr "Otomatikcevaplayıcı Ekle"
+msgstr "Otomatik cevaplayıcı Ekle"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
@@ -253,7 +253,7 @@ msgstr "Rastgele konular (her satırda bir tane)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
-msgstr "HTML Body"
+msgstr "HTML Gövdesi"
 
 msgctxt "Languages::no_template"
 msgid "No template"
@@ -277,7 +277,7 @@ msgstr "Kullanıcılardan alıcı ekle"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
-msgstr "Customers with abandoned"
+msgstr "Tamamlanmamış bilgilere sahip müşteriler"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
@@ -285,11 +285,11 @@ msgstr "Sepet veya istek listesi"
 
 msgctxt "Languages::which_is"
 msgid "which is"
-msgstr "Hangisi"
+msgstr "olan"
 
 msgctxt "Languages::days_old"
 msgid "days old"
-msgstr "daha eski"
+msgstr "günlük"
 
 msgctxt "Languages::send_to_test_email"
 msgid "Send to test email"
@@ -321,7 +321,7 @@ msgstr "Onaylandı"
 
 msgctxt "Languages::subscribed_to"
 msgid "Subscribed to [num] lists"
-msgstr "[num] listelerine abone"
+msgstr "[num] listeye abone"
 
 msgctxt "Languages::subscribed"
 msgid "Subscribed"
@@ -361,7 +361,7 @@ msgstr "Çeşitli konularda belirtilmemişse, e-posta konusu bu listeden rastgel
 
 msgctxt "Languages::tt_addons_news_and_emails_views_newsletters_update_users"
 msgid "If the message text contains the unsubscribe link, it will be empty for these users."
-msgstr "İleti metni aboneliği kaldırma bağlantısında  içeriyorsa, bu kullanıcılar için boş bırakılacaktır."
+msgstr "İleti metni aboneliği sonlandırma linki  içeriyorsa, bu bölüm kullanıcılar için boş bırakılacaktır."
 
 msgctxt "Languages::add_mailing_lists"
 msgid "Add mailing list"
@@ -385,7 +385,7 @@ msgstr "Genel"
 
 msgctxt "SettingsOptions::news_and_emails::newsletters_per_pass"
 msgid "Newsletters sent per step"
-msgstr "Adımda gönderilen bülten"
+msgstr "Her adımda gönderilen bülten"
 
 msgctxt "SettingsOptions::news_and_emails::elm_advanced_mailing_server_options"
 msgid "Advanced mailing server options"

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/image_zoom.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 08:00-0500\n"
+"PO-Revision-Date: 2015-01-28 11:00-0500\n"
 
 msgctxt "Addons::name::image_zoom"
 msgid "Image zoom"
@@ -41,7 +41,7 @@ msgstr "Zoom Konumu"
 
 msgctxt "SettingsOptions::image_zoom::cz_zoom_size_mode"
 msgid "Zoom size mode"
-msgstr "Yakınlaştırma boyutu modu"
+msgstr "Zoom boyutu modu"
 
 msgctxt "SettingsOptions::image_zoom::cz_caption_position"
 msgid "Caption position"
@@ -49,11 +49,11 @@ msgstr "Yakalama konumu"
 
 msgctxt "SettingsOptions::image_zoom::cz_ease_time"
 msgid "Ease time"
-msgstr "Ease time"
+msgstr "Genişleme zamanı"
 
 msgctxt "SettingsOptions::image_zoom::cz_zoom_fly_out"
 msgid "Zoom fly out"
-msgstr "Zoom fly out"
+msgstr "Uçarak uzaklaştırma"
 
 msgctxt "SettingsTooltips::image_zoom::cz_opacity"
 msgid "Opacity of tint 0-1. If zero, no tint will be visible."
@@ -61,31 +61,31 @@ msgstr "Geçirgenliğini renk tonu 0-1. Renk tonu görünmez."
 
 msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
 msgid "Duration of the animation effects in milliseconds."
-msgstr "Animasyon efektleri mili saniye cinsinden süresi."
+msgstr "Animasyon efektlerinin milisaniye cinsinden süresi."
 
 msgctxt "SettingsTooltips::image_zoom::cz_tint_color_picker"
 msgid "Color to use for the tint effect. Example: #ffffff."
-msgstr "Renk için renk tonu efekti kullanacaksanız. Örnek: #ffffff."
+msgstr "Renk tonu efekti için kullanılacak olan renk. Örnek: #ffffff."
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
 msgid "Specifies position of zoom window. If numeric (0-15), position is relative to page image as shown by the following key (blue squares represent zoom window). If a string is supplied, value will be used as a selector to pinpoint the exact position and size of an element in the page. If the value \"inside\" is specified, the zoom image will appear inside the page image.<br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
-msgstr "Büyütme penceresinin konumunu belirtir. Eğer sayısal (0-15), sayfa görüntüsü göre aşağıdaki anahtarı tarafından gösterildiği gibi konumdur (mavi kareler yakınlaştırma penceresini temsil eder). Eğer bir dizge belirtilmişse, değeri tam olarak ve bir öğenin sayfa boyutunu kesin olarak belirlemek için bir seçici olarak kullanılacaktır. \"İçinde\" değeri belirtilirse, zoom görüntüyü sayfa görüntüsü. içinde görünen < br / > < br / > <img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr "Büyütme penceresinin konumunu belirtir. Eğer sayısalsa (0-15), konum aşağıdaki anahtarla (mavi kareler zoom penceresini temsil eder) gösterilen sayfa görüntüsüyle ilgilidir. Eğer bir dizilim sağlanmışsa, değer, sayfadaki bir bileşenin kesin konumunu ve ölçülerini belirleyecek bir seçici olarak kullanılacaktır. Eğer \"içerideki\" değer belirlenmişse, zoom görüntüsü sayfa görüntüsünün içinde görünecektir.< br / > < br / > <img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_size_mode"
 msgid "Defines the rule for sizing the zoom window and lens."
-msgstr "Yakınlaştır penceresini ve lens boyutlandırma için kuralı tanımlar."
+msgstr "Zoom penceresini ve lensi boyutlandırmak için gerekli olan kuralı tanımlar."
 
 msgctxt "SettingsTooltips::image_zoom::cz_caption_position"
 msgid "Position of caption, \"top\" or \"bottom\"."
-msgstr "Resim yazısı, \"üst\" veya \"alt\" konumu."
+msgstr "Yakalama konumu, \"üst\" veya \"alt\"."
 
 msgctxt "SettingsTooltips::image_zoom::cz_ease_time"
 msgid "Number of milliseconds of mouse easing movement of zoom image. The bigger the number, the more easing. Zero means no easing."
-msgstr "Fare hareketi zoom görüntünün yumuşatılması milisaniye sayısı. Hareket hızı daha büyük sayı, daha fazla. Sıfır, hiçbir hareket hızı anlamına gelir."
+msgstr "Zoom görüntüsünün fare genişleme hareketinin milisaniye sayısı. Sayı ne kadar büyükse genişleme o kadar çoktur. Sıfırın anlamı genişleme yok demektir."
 
 msgctxt "SettingsTooltips::image_zoom::cz_zoom_fly_out"
 msgid "Turns 'flying' zoom animation on or off."
-msgstr "Turns 'flying' zoom animation on or off."
+msgstr "\"Uçarak\" zoom animasyonunu açar veya kapatır."
 
 msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
 msgid "Zoom position №0"

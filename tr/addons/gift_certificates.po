@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/gift_certificates.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-27 08:00-0500\n"
+"PO-Revision-Date: 2015-01-28 11:00-0500\n"
 
 msgctxt "Addons::name::gift_certificates"
 msgid "Gift certificates"
@@ -17,7 +17,7 @@ msgstr "Hediye çeki"
 
 msgctxt "Addons::description::gift_certificates"
 msgid "Adds a built-in gift certificate system"
-msgstr "Hediye çeki oluşturma sistemi ekler"
+msgstr "Tümleşik bir hediye çeki sistemi ekler"
 
 msgctxt "Languages::gift_certificate"
 msgid "Gift certificate"
@@ -61,7 +61,7 @@ msgstr "Hediye Çeki"
 
 msgctxt "Languages::purchase_gift_certificate"
 msgid "Purchase Gift Certificate"
-msgstr "Hediye sertifikası satın alma"
+msgstr "Hediye çeki satın al"
 
 msgctxt "Languages::text_gift_certificate_logo"
 msgid "Logo for <b>gift certificates</b>"
@@ -73,7 +73,7 @@ msgstr "Tutar, [min] ile [max] arasında olmalıdır."
 
 msgctxt "Languages::text_gift_cert_has_been_deleted"
 msgid "Gift certificate has been deleted successfully."
-msgstr "Hediye sertifikası başarıyla silindi."
+msgstr "Hediye çeki başarıyla silindi."
 
 msgctxt "Languages::error_gift_cert_code"
 msgid "The gift certificate code you entered is invalid. Please try again."
@@ -81,7 +81,7 @@ msgstr "Girdiğiniz hediye çeki kodu geçersiz. Lütfen yeniden deneyin."
 
 msgctxt "Languages::gift_add_products"
 msgid "Add products for a gift"
-msgstr "Hediye ürün ekleyin"
+msgstr "Bir hediye için ürün ekleyin"
 
 msgctxt "Languages::gift_comment"
 msgid "Message"
@@ -89,11 +89,11 @@ msgstr "Mesaj"
 
 msgctxt "Languages::certificate_verification"
 msgid "Validate/Redeem gift certificate"
-msgstr "Hediye sertifikası doğrulama/görüntüleme"
+msgstr "Hediye sertifikası doğrulama/ödeme"
 
 msgctxt "Languages::detailed_info"
 msgid "Detailed information"
-msgstr "Detaylı bilgi"
+msgstr "Ayrıntılı bilgi"
 
 msgctxt "Languages::history"
 msgid "History"
@@ -101,11 +101,11 @@ msgstr "Geçmiş"
 
 msgctxt "Languages::gift_certificate_statuses"
 msgid "Gift certificate statuses"
-msgstr "Hediye sertifikası durumları"
+msgstr "Hediye çeki durumları"
 
 msgctxt "Languages::text_gift_cert_applied"
 msgid "Gift certificate has been applied"
-msgstr "Hediye sertifikası onaylandı"
+msgstr "Hediye çeki uygulandı"
 
 msgctxt "Languages::certificate_already_used"
 msgid "This gift certificate is already in use"
@@ -113,7 +113,7 @@ msgstr "Bu hediye sertifikası kullanımda"
 
 msgctxt "Languages::certificate_code_not_available"
 msgid "Gift certificate cannot be applied. Please contact the store administration."
-msgstr "Hediye sertifikası uygulanamaz. Lütfen bizimle iletişim kurun."
+msgstr "Hediye sertifikası uygulanamaz. Lütfen mağaza yöneticisiyle iletişime geçin."
 
 msgctxt "Languages::certificate_code_not_valid"
 msgid "Gift certificate code is not valid"
@@ -125,15 +125,15 @@ msgstr "Aşağıdaki hediye sertifikaları silinmiş veya Yönetici tarafından 
 
 msgctxt "Languages::text_gift_cert_cannot_delete"
 msgid "Gift certificate [code] cannot be deleted because it is used in order(s) [ids]."
-msgstr "Hediye sertifikası [code] sipariş(ler)inde [ids] kullanıldığından silinemez."
+msgstr "Hediye çeki [code] sipariş(ler)inde [ids] kullanıldığından silinemez."
 
 msgctxt "Languages::gift_cert_amount_changed"
 msgid "Gift certificate amount has been changed."
-msgstr "Hediye sertifikası tutarı değşti."
+msgstr "Hediye çeki tutarı değişti."
 
 msgctxt "Languages::purchased"
 msgid "Purchased"
-msgstr "Satıldı"
+msgstr "Satın alındı"
 
 msgctxt "Languages::used"
 msgid "Used"
@@ -141,15 +141,15 @@ msgstr "Kullanılmış"
 
 msgctxt "Languages::create_gift_certificate_for_customer"
 msgid "Create Gift Certificate for this customer"
-msgstr "Bu müşteri için hediye sertifikası oluşturma"
+msgstr "Bu müşteri için hediye çeki oluştur"
 
 msgctxt "Languages::related_gift_cert"
 msgid "Related gift certificates"
-msgstr "İlgili hediye çeki"
+msgstr "İlgili hediye çekleri"
 
 msgctxt "Languages::add_gift_certificate"
 msgid "Add gift certificate"
-msgstr "Hediye sertifikası ekleme"
+msgstr "Hediye sertifikası ekle"
 
 msgctxt "Languages::gift_certificate_status"
 msgid "Gift certificate status"
@@ -165,7 +165,7 @@ msgstr "Mail"
 
 msgctxt "Languages::statuses"
 msgid "statuses"
-msgstr "durumları"
+msgstr "durumlar"
 
 msgctxt "Languages::new_certificate"
 msgid "New certificate"
@@ -189,7 +189,7 @@ msgstr "Hediye sertifikası veya promosyon kodu"
 
 msgctxt "Languages::gift_certificate_added_to_cart"
 msgid "Gift certificate was added to your cart"
-msgstr "Hediye sertifikası sepetinize eklendi."
+msgstr "Hediye çeki sepetinize eklendi"
 
 msgctxt "Languages::gift_certificates_verify"
 msgid "Gift certificate verification"
@@ -225,7 +225,7 @@ msgstr "Hediye sertifikası durumunu değiştir"
 
 msgctxt "Languages::gift_cert_with_products"
 msgid "Purchasing products and gift certificates together is impossible. Please, place the current order and repeat your attempt."
-msgstr "Ürün ve hediye çekini birlikte satın almak mümkün değildir. "
+msgstr "Ürün ve hediye çekini birlikte satın almak mümkün değildir. Lütfen geçerli siparişi tekrarlayın ve tekrar deneyin."
 
 msgctxt "SettingsSections::gift_certificates::general"
 msgid "General"
@@ -233,7 +233,7 @@ msgstr "Genel"
 
 msgctxt "SettingsOptions::gift_certificates::min_amount"
 msgid "Minimal amount"
-msgstr "En az miktar"
+msgstr "Minimum tutar"
 
 msgctxt "SettingsOptions::gift_certificates::max_amount"
 msgid "Maximal amount"
@@ -249,9 +249,9 @@ msgstr "Sayfa başına hediye çeki"
 
 msgctxt "SettingsOptions::gift_certificates::free_products_allow"
 msgid "Allow to use free products"
-msgstr "Allow to use free products"
+msgstr "Ücretsiz ürünlerin kullanılmasına izin verin"
 
 msgctxt "SettingsOptions::gift_certificates::redeem_shipping_cost"
 msgid "Allow to redeem shipping cost with gift certificate"
-msgstr "Allow to redeem shipping cost with gift certificate"
+msgstr "Taşıma maliyetinin hediye çekiyle karşılanmasına izin verin"
 
