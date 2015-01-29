@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-28 11:00-0500\n"
+"PO-Revision-Date: 2015-01-28 20:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3605,7 +3605,7 @@ msgstr "Para birimi kodu<b>[code]</b> zaten kayıtlı"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr "One of your storefronts uses this theme. Please set another theme before deleting it."
+msgstr "Vitrinlerinizden biri bu temayı kullanıyor. Lütfen silmeden önce başka bir tema ayarlayın."
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
@@ -3813,7 +3813,7 @@ msgstr "E-mail adresini belirttiğiniz firma zaten mavcut, lütfen başka bir ta
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC çok kısa."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3989,7 +3989,7 @@ msgstr "Özellikler"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Özellik türevleri sınırlayıcısı"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4045,7 +4045,7 @@ msgstr "Dosyalar"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Satılacak dosyalar"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -4385,7 +4385,7 @@ msgstr "Izgara"
 
 msgctxt "Languages::tmpl_grid"
 msgid "Grid"
-msgstr "Grid"
+msgstr "Kılavuz"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -5293,7 +5293,7 @@ msgstr "Mainbox simple"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "Alt bilgi genel"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7425,7 +7425,7 @@ msgstr "The <strong>[product]</strong> product has options that are included in 
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "Ürünün <strong>[product]</strong> artık var olmayan seçenekleri veya seçenek türevleri bulunmaktadır, bu nedenle sepetten çıkarılmıştır"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -7697,7 +7697,7 @@ msgstr "Purchased qty"
 
 msgctxt "Languages::purchasers_name"
 msgid "Purchaser`s Name"
-msgstr "Purchaser`s Name"
+msgstr "Satın Alanın Adı"
 
 msgctxt "Languages::qty"
 msgid "Qty"
@@ -7857,7 +7857,7 @@ msgstr "Alıcı"
 
 msgctxt "Languages::recipients_name"
 msgid "Recipient`s Name"
-msgstr "Recipient`s Name"
+msgstr "Alıcı Adı"
 
 msgctxt "Languages::recipient_description"
 msgid "Description of the Merchant"
@@ -10145,7 +10145,7 @@ msgstr "Bu bölüm daha önce görüntülemediğiniz siparişleri gösterir."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Aşağıdaki dosya uzantıları desteklenmektedir: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10401,7 +10401,7 @@ msgstr "<b>ziyaretçi alanı</b> logosu"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Not</b>: DataTrans siparişlerinizi alışveriş sepeti yazılımıyla takip edebilmek için şu adımları izlemelisiniz:<br /> <br /> -&nbsp;DataTrans hesabınıza giriş yapın<br /> -&nbsp; <u>'Upp Data'</u> linkine tıklayın, bu link <u>'Upp Administration'</u> bölümünde bulunmaktadır.<br /> -&nbsp;<u>'URL Post veri formatı'</u>nı <b>'HTML FORMUNDA Veri'</b> olarak ayarlayın.<br /> -&nbsp; <u>'URL Post'</u>u to:<br /> <b>[post_url]</b> olarak ayarlayın <br /> -&nbsp;<u>'Security'</u> linkine tıklayın, bu link <u>'Upp Administration'</u> bölümünde bulunmaktadır.<br /> -&nbsp;<b>'Ödeme mesajıyla birlikte ek bir tacir kimliği gönderilecektir'</b> tercihini seçin.<br /> -&nbsp; <u>'Generate new sign'</u> butonunu kullanarak yeni dijital imza oluşturun.<br /> -&nbsp;Oluşturulan değeri <u>'Dijital imza'</u> alanına ayarlayın, bu alan mağazanızdaki DataTrans ödeme yapılandırması sayfasında bulunmaktadır<br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10489,7 +10489,7 @@ msgstr "<b>Ürün yükleme formatı</b><code>{$ldelim}%Feature ID%{$rdelim}%Feat
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Dosya içe aktarma formatı</h4><code>%File location%</code>'nın, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>bir sunucu dosya sisteminde mutlak veya ilgili bir yol veya bir URL olabilir</dd> </dl> <p>Çok sayıdaki dosyalar virgülle sınırlandırılmalıdır.</p> <h5>Örnek 1:</h5><code>file1.jpg</code><h5>Örnek 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
@@ -10517,7 +10517,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Sınırlayıcı bir ürün özelliğinin değişken değerleri arasında."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10649,7 +10649,7 @@ msgstr "No response from MoneyBookers has been received yet, please hold on. Alt
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "Varsayılan olarak, hesabınızdaki ayrı işlemlerin minimum ve maksimum değerleri aşağıda gösterildiği gibidir:<table cellpadding=\"3\"> <tr> <td><b>Sınırlar</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maksimum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Lütfen hesabınız için daha yüksek sınırlar talep etmek için hesap yöneticinizle görüşün.<br /><p>Lütfen aşağıdaki parametreleri Merchant Extranet içinde ayarlayın. Önce Hesap Yönetimine daha sonra Kurulumlara tıklayın:<br /> - Yanıt URL'si: [return_url]<br /> - Geri Dönüş URL'si: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -11145,7 +11145,7 @@ msgstr "Mağaza <b>kapalı</b>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Bazı özellikler devre dışı. Geçerli zaman sınırlaması bulunmuyor, lisans numarası gerekmiyor.<br /><br />Bu mod her zaman etkinleştirilebilir.<br /><br />Bu modu seçerek aynı zamanda haber ve teklif bültenimize de abone olursunuz. Ayda bir veya iki defa bizden eposta alırsınız. Dİlediğiniz zaman abonelikten ayrılabilirsiniz."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -12109,7 +12109,7 @@ msgstr "Doğru"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgstr "Teslimat yöntemi başlığıyla birlikte gösterilecek olan isteğe bağlı metin."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12137,7 +12137,7 @@ msgstr "Target URL. May be an external URL, an inner store URL or a dispatch."
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Kullanıcı tanımlı CSS sınıfı menü öğesine eklenecek, böylece menü öğesi kendi CSS tarzıyla tanımlanabilecek."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12217,11 +12217,11 @@ msgstr "Non-downloadable products with zero weight are handled as having minimal
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Gezinti kırıntılarında gösterilecek kategoriler."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Stoktaki ürün miktarını takip edin. Değiştirmek için \"Envanter takibini etkinleştir\" özelliğini etkinleştirin (Ayarlar -> Genel)."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12237,7 +12237,7 @@ msgstr "By default, the template that is defined in the settings of the main pro
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Ürün listesi sayfalarında ürün açıklamasıyla birlikte bu özelliği de göster."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12285,7 +12285,7 @@ msgstr "Analiz dönemleri (gün, hafta, ay, yıl)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
+msgstr "Değerleri sıralama parametresi. Parametreleri görüntüleme Değeriyle ilgili olmalıdır (örn. Ürün maliyetleri - Toplam maliyet veya Ürünlerin sayısı - Kalem sayısı)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -13129,7 +13129,7 @@ msgstr "Widget kodu"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\">Bu nedir?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13513,7 +13513,7 @@ msgstr "Bu ad zaten mevcut. Lütfen başka bir tane deneyin."
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "Önceden tanımlı ayar adları şu karakterleri içeremez: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13933,7 +13933,7 @@ msgstr "Access key to temporarily closed store"
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Ara belleği otomatik olarak yeniden oluştur"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
@@ -14081,7 +14081,7 @@ msgstr "User department e-mail address"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Şunun için kullan"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14385,7 +14385,7 @@ msgstr "Estimate shipping cost on cart page"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Başarılı bir sipariş sonrasında misafirlere bir hesap oluşturmalarını teklif et"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14425,27 +14425,27 @@ msgstr "Şifreli bağlantı kullanma"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "\"Oturum aç\" adımını yapılandır"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "İlk kontrol adımı yalnız herhangi bir ilgili irtibat bilgisi alanı yoksa gizlenebilir."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "\"Oturum Aç\"ta bulunan \"Yeni müşteri\" bölümü için varsayılan seçenek"
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "\"Teslimat yöntemi\" adımını görüntüle (ilk etkin yöntem varsayılan olarak kullanılacaktır)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "\"Ödeme yöntemi\" adımını görüntüle (ilk etkin yöntem varsayılan olarak kullanılacaktır)"
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "İndirilebilir ürünlerin satışını etkinleştir"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
@@ -14457,11 +14457,11 @@ msgstr "Sunucu üzerinde SSL sertifikası yüklü olması gerekmektedir"
 
 msgctxt "SettingsTooltips::store_access_key"
 msgid "Use: http://www.example.com/index.php?store_access_key=key_value"
-msgstr "Use: http://www.example.com/index.php?store_access_key=key_value"
+msgstr "Kullan: http://www.example.com/index.php?store_access_key=key_value"
 
 msgctxt "SettingsTooltips::order_start_id"
 msgid "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
-msgstr "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
+msgstr "1 ile 10,000,000 arasında bir sayı girin (yalnız rakam kullanın) veya otomatik doldurma için boş bırakın."
 
 msgctxt "SettingsTooltips::user_multiple_profiles"
 msgid "Shipping and billing addresses"
@@ -14469,7 +14469,7 @@ msgstr "Kargo ve fatura adresi"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
-msgstr "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
+msgstr "Şeffaf arka plan için boş bırakın (PHP GD kütüphane sürümü >2.0.1 gerektirir)"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -14477,19 +14477,19 @@ msgstr "Sunucu üzerinde SSL sertifikası yüklü olması gerekmektedir"
 
 msgctxt "SettingsTooltips::checkout_redirect"
 msgid "When the customer clicks on any Checkout button/link in the store"
-msgstr "When the customer clicks on any Checkout button/link in the store"
+msgstr "Müşteri mağazadaki herhangi bir kontrol düğmesine/linkine tıkladığında"
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
+msgstr "Değişiklikleri gerçek zamanlı takip et ve değişikliğe uğrayan dosyaları otomatik olarak tekrar önbelleğe al (doğrudan sunucu üzerinde değiştirilen dosyalarla da çalışır). Mağaza performansını biraz etkileyebilir. Üretimde devre dışı bırakılması tavsiye edilir."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
-msgstr "If you disable this check box, description of menu items will be hidden"
+msgstr "Bu işaret kutusunu devre dışı bırakırsanız menü öğelerinin açıklamaları gizlenecektir"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Kayıtta yalnız iletişim bilgisini gerekli tut"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
@@ -14549,7 +14549,7 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "Teslimatlı ürünler"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
@@ -14573,7 +14573,7 @@ msgstr "Önce Teslimat"
 
 msgctxt "SettingsVariants::log_type_general::deprecated"
 msgid "Deprecated features"
-msgstr "Deprecated features"
+msgstr "Kullanılmayan özellikler"
 
 msgctxt "SettingsVariants::default_state_update_for_all::active"
 msgid "Active"
@@ -14581,7 +14581,7 @@ msgstr "Aktif"
 
 msgctxt "SettingsVariants::date_format::%d.%m.%Y"
 msgid "29.09.2005 (day.month.year)"
-msgstr "29.09.2005 (day.month.year)"
+msgstr "29.09.2005 (gün.ay.yıl)"
 
 msgctxt "SettingsVariants::time_format::%I:%M %p"
 msgid "3:43 PM"
@@ -14781,7 +14781,7 @@ msgstr "SMTP sunucusu"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
-msgstr "(GMT-12:00) International Date Line West"
+msgstr "(GMT-12:00) Uluslararası Tarih Satırı Batı"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
@@ -14837,7 +14837,7 @@ msgstr "PHP mail fonksiyonu"
 
 msgctxt "SettingsVariants::timezone::Pacific/Apia"
 msgid "(GMT-11:00) Midway Island, Samoa"
-msgstr "(GMT-11:00) Midway Island, Samoa"
+msgstr "(GMT-11:00) Midway Adası, Samoa"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
@@ -14857,11 +14857,11 @@ msgstr "1, Ocak"
 
 msgctxt "SettingsVariants::month::%b"
 msgid "Jan"
-msgstr "Jan"
+msgstr "Oca"
 
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "Sendmail programı ile"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -14881,11 +14881,11 @@ msgstr "(GMT-09:00) Alaska"
 
 msgctxt "SettingsVariants::timezone::America/Los_Angeles"
 msgid "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
-msgstr "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
+msgstr "(GMT-08:00) Pasifik Saati (A.B.D. & Kanada); Tijuana"
 
 msgctxt "SettingsVariants::timezone::America/Denver"
 msgid "(GMT-07:00) Mountain Time (US & Canada)"
-msgstr "(GMT-07:00) Mountain Time (US & Canada)"
+msgstr "(GMT-07:00) Sıradağlar Saati (ABD & Kanada)"
 
 msgctxt "SettingsVariants::timezone::America/Chihuahua"
 msgid "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
@@ -14901,23 +14901,23 @@ msgstr "(GMT-06:00) Saskatchewan"
 
 msgctxt "SettingsVariants::timezone::America/Mexico_City"
 msgid "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
-msgstr "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
+msgstr "(GMT-06:00) Guadalajara, Mexico City Meksika Monterrey"
 
 msgctxt "SettingsVariants::timezone::America/Chicago"
 msgid "(GMT-06:00) Central Time (US & Canada)"
-msgstr "(GMT-06:00) Central Time (US & Canada)"
+msgstr "(GMT-06:00) Merkezi Saat (ABD & Kanada)"
 
 msgctxt "SettingsVariants::timezone::America/Guatemala"
 msgid "(GMT-06:00) Central America"
-msgstr "(GMT-06:00) Central America"
+msgstr "(GMT-06:00) Orta Amerika"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+5"
 msgid "(GMT-05:00) Indiana (East)"
-msgstr "(GMT-05:00) Indiana (East)"
+msgstr "(GMT-05:00) Indiana (Doğu)"
 
 msgctxt "SettingsVariants::timezone::America/New_York"
 msgid "(GMT-05:00) Eastern Time (US & Canada)"
-msgstr "(GMT-05:00) Eastern Time (US & Canada)"
+msgstr "(GMT-05:00) Doğu Saati (ABD & Kanada)"
 
 msgctxt "SettingsVariants::timezone::America/Bogota"
 msgid "(GMT-05:00) Bogota, Lima, Quito"
@@ -14933,7 +14933,7 @@ msgstr "(GMT-04:00) Caracas, La Paz"
 
 msgctxt "SettingsVariants::timezone::America/Halifax"
 msgid "(GMT-04:00) Atlantic Time (Canada)"
-msgstr "(GMT-04:00) Atlantic Time (Canada)"
+msgstr "(GMT-04:00) Atlantik Saati (Kanada)"
 
 msgctxt "SettingsVariants::timezone::America/St_Johns"
 msgid "(GMT-03:30) Newfoundland"
@@ -14941,7 +14941,7 @@ msgstr "(GMT-03:30). Newfoundland"
 
 msgctxt "SettingsVariants::timezone::America/Godthab"
 msgid "(GMT-03:00) Greenland"
-msgstr "(GMT-03:00) Greenland"
+msgstr "(GMT-03:00) Grönland"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+3"
 msgid "(GMT-03:00) Buenos Aires, Georgetown"
@@ -14953,11 +14953,11 @@ msgstr "(GMT-03:00) Brasilia"
 
 msgctxt "SettingsVariants::timezone::Atlantic/South_Georgia"
 msgid "(GMT-02:00) Mid-Atlantic"
-msgstr "(GMT-02:00) Mid-Atlantic"
+msgstr "(GMT-02:00) Orta Atlantik"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Cape_Verde"
 msgid "(GMT-01:00) Cape Verde Is."
-msgstr "(GMT-01:00) Cape Verde Is."
+msgstr "(GMT-01:00) Cape Verde Adası"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
@@ -14969,35 +14969,35 @@ msgstr "(GMT) Casablanca, Monrovia"
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
-msgstr "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+msgstr "(GMT) Greenwich Saati: Dublin, Edinburgh, Lizbon, Londra"
 
 msgctxt "SettingsVariants::timezone::Europe/Berlin"
 msgid "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
-msgstr "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+msgstr "(GMT + 01:00) Amsterdam, Berlin, Bern, Roma, Stokholm, Viyana"
 
 msgctxt "SettingsVariants::timezone::Europe/Budapest"
 msgid "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
-msgstr "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+msgstr "(GMT + 01:00) Belgrad, Bratislava, Budapeşte, Ljubljana, Prag"
 
 msgctxt "SettingsVariants::timezone::Europe/Paris"
 msgid "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
-msgstr "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
+msgstr "(GMT + 01:00) Brüksel, Kopenhag, Madrid, Paris"
 
 msgctxt "SettingsVariants::timezone::Europe/Warsaw"
 msgid "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
-msgstr "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+msgstr "(GMT + 01:00) Saraybosna, Üsküp, Varşova, Zagreb"
 
 msgctxt "SettingsVariants::timezone::Africa/Lagos"
 msgid "(GMT+01:00) West Central Africa"
-msgstr "(GMT+01:00) West Central Africa"
+msgstr "(GMT + 01:00) Batı Orta Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
+msgstr "(GMT + 02:00) Atina, Beyrut, Istanbul, Minsk"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Bucharest"
+msgstr "(GMT + 02:00) Bükreş"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15005,67 +15005,67 @@ msgstr "(GMT + 02:00) Cairo"
 
 msgctxt "SettingsVariants::timezone::Africa/Johannesburg"
 msgid "(GMT+02:00) Harare, Pretoria"
-msgstr "(GMT+02:00) Harare, Pretoria"
+msgstr "(GMT + 02:00) Harare, Pretoria"
 
 msgctxt "SettingsVariants::timezone::Europe/Kiev"
 msgid "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
-msgstr "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+msgstr "(GMT + 02:00) Helsinki, Kiev, Riga, Sofya, Tallinn, Vilnius"
 
 msgctxt "SettingsVariants::timezone::Asia/Jerusalem"
 msgid "(GMT+02:00) Jerusalem"
-msgstr "(GMT+02:00) Jerusalem"
+msgstr "(GMT + 02:00) Kudüs"
 
 msgctxt "SettingsVariants::timezone::Asia/Baghdad"
 msgid "(GMT+03:00) Baghdad"
-msgstr "(GMT+03:00) Baghdad"
+msgstr "(GMT + 03:00) Bağdat"
 
 msgctxt "SettingsVariants::timezone::Asia/Riyadh"
 msgid "(GMT+03:00) Kuwait, Riyadh"
-msgstr "(GMT+03:00) Kuwait, Riyadh"
+msgstr "(GMT + 03:00) Kuveyt, Riyad"
 
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
-msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+msgstr "(GMT + 03:00) Moskova, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
-msgstr "(GMT+03:00) Nairobi"
+msgstr "(GMT + 03:00) Nairobi"
 
 msgctxt "SettingsVariants::timezone::Asia/Tehran"
 msgid "(GMT+03:30) Tehran"
-msgstr "(GMT+03:30) Tehran"
+msgstr "(GMT + 03:30) Tahran"
 
 msgctxt "SettingsVariants::timezone::Asia/Dubai"
 msgid "(GMT+04:00) Abu Dhabi, Muscat"
-msgstr "(GMT+04:00) Abu Dhabi, Muscat"
+msgstr "(GMT + 04:00) Abu Dabi, Muscat"
 
 msgctxt "SettingsVariants::timezone::Asia/Yerevan"
 msgid "(GMT+04:00) Baku, Tbilisi, Yerevan"
-msgstr "(GMT+04:00) Baku, Tbilisi, Yerevan"
+msgstr "(GMT + 04:00) Bakü, Tiflis, Erivan"
 
 msgctxt "SettingsVariants::timezone::Asia/Kabul"
 msgid "(GMT+04:30) Kabul"
-msgstr "(GMT+04:30) Kabul"
+msgstr "(GMT + 04:30) Kabil"
 
 msgctxt "SettingsVariants::timezone::Asia/Yekaterinburg"
 msgid "(GMT+05:00) Ekaterinburg"
-msgstr "(GMT+05:00) Ekaterinburg"
+msgstr "(GMT + 05:00) Ekaterinburg"
 
 msgctxt "SettingsVariants::timezone::Asia/Tashkent"
 msgid "(GMT+05:00) Islamabad, Karachi, Tashkent"
-msgstr "(GMT+05:00) Islamabad, Karachi, Tashkent"
+msgstr "(GMT + 05:00) Islamabad, Karaçi, Taşkent"
 
 msgctxt "SettingsVariants::timezone::Asia/Calcutta"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
-msgstr "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+msgstr "(GMT + 05:30) Chennai, Kalküta, Mumbai, Yeni Delhi"
 
 msgctxt "SettingsVariants::timezone::Asia/Katmandu"
 msgid "(GMT+05:45) Kathmandu"
-msgstr "(GMT+05:45) Kathmandu"
+msgstr "(GMT + 05:45) Katmandu"
 
 msgctxt "SettingsVariants::timezone::Asia/Novosibirsk"
 msgid "(GMT+06:00) Almaty, Novosibirsk"
-msgstr "(GMT+06:00) Almaty, Novosibirsk"
+msgstr "(GMT + 06:00) Alma Ata, Novosibirsk"
 
 msgctxt "SettingsVariants::timezone::Asia/Dhaka"
 msgid "(GMT+06:00) Astana, Dhaka"
@@ -15073,7 +15073,7 @@ msgstr "(GMT + 06:00) Astana, Dhaka"
 
 msgctxt "SettingsVariants::timezone::Asia/Colombo"
 msgid "(GMT+06:00) Sri Jayawardenepura"
-msgstr "(GMT+06:00) Sri Jayawardenepura"
+msgstr "(GMT + 06:00) Sri Jayawardenepura"
 
 msgctxt "SettingsVariants::timezone::Asia/Rangoon"
 msgid "(GMT+06:30) Rangoon"
@@ -15081,23 +15081,23 @@ msgstr "(GMT + 06:30) Rangoon"
 
 msgctxt "SettingsVariants::timezone::Asia/Bangkok"
 msgid "(GMT+07:00) Bangkok, Hanoi, Jakarta"
-msgstr "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+msgstr "(GMT + 07:00) Bangkok, Hanoi, Jakarta"
 
 msgctxt "SettingsVariants::timezone::Asia/Krasnoyarsk"
 msgid "(GMT+07:00) Krasnoyarsk"
-msgstr "(GMT+07:00) Krasnoyarsk"
+msgstr "(GMT + 07:00) Krasnoyarsk"
 
 msgctxt "SettingsVariants::timezone::Asia/Shanghai"
 msgid "(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
-msgstr "(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+msgstr "(GMT + 08:00) Pekin, Çongcin, Hong Kong, Urumçi"
 
 msgctxt "SettingsVariants::timezone::Asia/Irkutsk"
 msgid "(GMT+08:00) Irkutsk, Ulaan Bataar"
-msgstr "(GMT+08:00) Irkutsk, Ulaan Bataar"
+msgstr "(GMT + 08:00) Irkutsk, Ulan Batur"
 
 msgctxt "SettingsVariants::timezone::Asia/Singapore"
 msgid "(GMT+08:00) Kuala Lumpur, Singapore"
-msgstr "(GMT+08:00) Kuala Lumpur, Singapore"
+msgstr "(GMT + 08:00) Kuala Lumpur, Singapur"
 
 msgctxt "SettingsVariants::timezone::Australia/Perth"
 msgid "(GMT+08:00) Perth"
@@ -15113,7 +15113,7 @@ msgstr "(GMT + 09:00) Osaka, Sapporo, Tokyo"
 
 msgctxt "SettingsVariants::timezone::Asia/Seoul"
 msgid "(GMT+09:00) Seoul"
-msgstr "(GMT+09:00) Seoul"
+msgstr "(GMT + 09:00) Seul"
 
 msgctxt "SettingsVariants::timezone::Asia/Yakutsk"
 msgid "(GMT+09:00) Yakutsk"
@@ -15121,7 +15121,7 @@ msgstr "(GMT + 09:00) Yakutsk"
 
 msgctxt "SettingsVariants::timezone::Australia/Adelaide"
 msgid "(GMT+09:30) Adelaide"
-msgstr "(GMT+09:30) Adelaide"
+msgstr "(GMT + 09:30) Adelaide"
 
 msgctxt "SettingsVariants::timezone::Australia/Darwin"
 msgid "(GMT+09:30) Darwin"
@@ -15157,7 +15157,7 @@ msgstr "(GMT + 12:00) Auckland, Wellington"
 
 msgctxt "SettingsVariants::timezone::Pacific/Fiji"
 msgid "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
-msgstr "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
+msgstr "(GMT + 12:00) Fiji, Kamçatka, Marshall Adaları"
 
 msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
@@ -15165,7 +15165,7 @@ msgstr "(GMT + 13:00) Nuku'alofa"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Kayıtta yalnız iletişim bilgisini gerekli tut"
 
 msgctxt "Languages::views"
 msgid "Views"
@@ -15293,15 +15293,15 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Önce \"Yeni müşteri\"yi görüntüle"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Önce \"Geri gelen müşteri\"yi görüntüle"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Adımı tamamen gizle"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
@@ -15325,7 +15325,7 @@ msgstr "Mağaza <br/> kapalı"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Diğer konumlara kopyala"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
@@ -15333,35 +15333,35 @@ msgstr "Özel HTML kodu"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Bu HTML kodu &lt;head&gt;&lt;/head&gt; sekmeleri arasına koyulacak"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Bu tüm seçili kategori ürünlerini, ve yanı sıra onun alt kategorilerini ve bunların ürünlerini silecektir."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Bu tüm seçili kategori ürünlerini, ve yanı sıra onun alt kategorilerini ve bunların ürünlerini silecektir."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Başlangıçtaki duruma geri dön"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Özel yapılandırma ayarla"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Varsayılan blok yapılandırmasını kullan"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Özel dosyalar"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Genel dosyalar"
 
 msgctxt "Languages::templates"
 msgid "Templates"
@@ -15369,75 +15369,75 @@ msgstr "Templateler"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Lütfen bu URL'yi Realex Ödemeleri hesap yöneticinize iletin"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Lütfen sunucunuzun IP adresini Realex Ödemeleri hesap yöneticinize iletin"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Kapatma"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Geciken kapatma"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Otomatik kapatma"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Realex'ten CS-Cart'a sipariş durumu dönüştürme haritası"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Alt hesap"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Sorumluluk geçişi"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Sorumluluk geçişi gerekiyor"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "3-D Güvenli mesaj"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Realex hesabınız askıya alındı. Daha fazla bilgi için Realex destek birimiyle irtibata geçin."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Yanlış XML mesaj formatı veya içeriği"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Realex sistemleriyle hata"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Banka sistemleriyle hata"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Kart kayıp veya çalıntı bildirimi"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Banka tarafından yönlendirme"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "AVS posta kodu"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "AVS Adresi"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15457,67 +15457,67 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Sonuç mesajı"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Sonuç kodu"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "İşlem PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "İşlem Sipariş No"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Eşleşti"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Eşleşmedi"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Kontrol sorunu"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Kontrol edilemiyor"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Kısmi eşleşme"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Bu ödeme bu türdeki kredi kartlarıyla yapılamaz."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "\"Son geçerlilik\" alanlarının yanlış değerleri."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Giriş formu"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Oluşturma ve düzenleme profil formu"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Kontrol (kullanıcı bilgileri) formu"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Sipariş formumu takip et"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Mağazanızın SEO ayarları."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15525,17 +15525,17 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Düzenleme: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "robots.txt'i düzenle"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Varsayılan robots.txt'i geri yükle"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Kredi Kartı Bilgilerinin Veri Doğrulamasında hata. Kredi Kartının ya Numarası, ya Son Geçerlilik Tarihi veya Doğrulama Kodu geçersiz,"
 
