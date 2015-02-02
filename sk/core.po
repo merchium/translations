@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-29 11:00-0500\n"
+"PO-Revision-Date: 2015-01-31 15:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -9409,7 +9409,7 @@ msgstr "Prihlásený ako"
 
 msgctxt "Languages::sign_in"
 msgid "Sign in"
-msgstr "Zaregistrovať sa"
+msgstr "Prihlásiť sa"
 
 msgctxt "Languages::sign_in_as_different"
 msgid "Sign in as a different user"
@@ -10141,203 +10141,203 @@ msgstr "Doplnok sa nedá odinštalovať, pretože tento doplnok závisí na: [ad
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
-msgstr "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
+msgstr "V tomto poli môžete používať zástupné znaky:<br /><b>'?'</b> - akýkoľvek jeden znak;<b>'*'</b> - akýchkoľvek niekoľko znakov.<br /><br /><u>Napríklad:</u><br /><b>* ulica</b> &nbsp;&nbsp;(zodpovedá \"1. ulica\", \"102. ulica\", a pod.)"
 
 msgctxt "Languages::text_admin_new_orders"
 msgid "This section shows the orders you have never viewed."
-msgstr "This section shows the orders you have never viewed."
+msgstr "V tejto sekcii sa nachádzajú ešte nezobrazené objednávky."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Podporované sú nasledovné súborové prípony: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
+msgstr "Dôležité! Musíte zadať URL vášho obchodu <b>[callback_url]</b> ako URL obchodníka na webových stránkach Amazon's Seller Central (Settings > Checkout Pipeline Settings). V opačnom prípade nebudete môcť  vo vašom obchode prijímať platby cez Amazon Checkout"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
-msgstr "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
+msgstr "Amazon Checkout zatiaľ neodpovedá, čakajte prosím. Je možné že objednávka nebola vytvorená v obchode, ale že bola úspešne vytvorená a vybavená cez Amazon Checkout. Kontaktujte prosím personál obchodu a oznámte im ID objednávky, ktoré vám zadal Amazon"
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
-msgstr "Number of products in your cart differs from the number of products in the Amazon request."
+msgstr "Množstvo tovaru vo vašom košíku je iné ako množstvo tovaru v požiadavke Amazonu."
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
+msgstr "Pre účely testovania môže byť obchodnícka URL HTTP odkazom do vášho obchodu, ale mód ostrej prevádzky vyžaduje zabezpečené pripojenie a musíte teda použiť HTTPS odkaz. Keď budete pripravení začať s ostrou prevádzkou, nezabudnite tiež v Amazon's Seller Central aktivovať Production mode."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
-msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
+msgstr "<b>Poznámka:</b> Podľa pravidiel Amazonu <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'></a> (B4.2) nie sú príplatky podporované. Ak ste nastavili príplatky, tieto budú pri použití Amazon Checkout ignorované."
 
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
-msgstr "You must be a registered user to proceed to checkout"
+msgstr "Pre prechod k pokladni musíte byť zaregistrovaný používateľ"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Prepočítať poštovné"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
-msgstr "Applied promotions"
+msgstr "Využité akcie"
 
 msgctxt "Languages::text_are_you_sure_to_delete_file"
 msgid "Are you sure you want to delete the item?"
-msgstr "Are you sure you want to delete the item?"
+msgstr "Naozaj chcete odstrániť túto položku?"
 
 msgctxt "Languages::text_are_you_sure_to_proceed"
 msgid "Are you sure you want to proceed?"
-msgstr "Are you sure you want to proceed?"
+msgstr "Naozaj chcete pokračovať?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
-msgstr "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
+msgstr "<b>Poznámka</b><br />1. Poukážku ktorú ste obdržali na disku skopírujte do adresára [home_path]. Premenujte poukážku na certif.fr.[my_merchant_id], kde [my_merchant_id] je číslo vašej stránky.<br /> 2. Premenujte súbor s parametrami obchodu (parmcom.014213245611111 file) na parmcom.[my_merchant_id].<br />3. Upravte súbor <b>pathfile</b> v adresári  <b>[home_path]</b> <br />-  Riadok '<u>D_LOGO![some_dir]!</u>' nahraďte '<u>D_LOGO![http_path]/logo/!</u>'<br />- Riadok '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' nahraďte '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Riadok '<u>F_PARAM![/some_dirs/parmcom]!</u>' nahraďte '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Riadok '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' nahraďte '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Upravte súbor <b>parmcom.[some_number]</b> v adresári <b>[home_path]</b> <br />- Riadok '<u>AUTO_RESPONSE_URL![some_url]!</u>' nahraďte '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Riadok '<u>CANCEL_URL![some_url]!</u>' nahraďte '<u>CANCEL_URL![ok_url]!</u>'<br />- Riadok '<u>RETURN_URL![some_url]!</u>' nahraďte '<u>RETURN_URL![ok_url]!</u>'<br />"
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
-msgstr "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
+msgstr "<span style=\"color:#FF2222\">Pozor!!!</span> Cesta k atos súborom by sa nemala skladať z viac než 60 znakov, v opačnom prípade prosím skopírujte adresár atos_files do niektorého z nadradených adresárov, napr. do adresára cart_core. Taktiež prosím overte, či má adresár atos_files plné právomoci."
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
-msgstr "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
+msgstr "Vaša finančná inštitúcia nemohla úspešne overiť túto transakciu. Vrámci ochrany pred neoprávneným použitím nebude možné použiť túto kartu na dokončenie nákupu. Svoj nákup môžete dokončiť výberom iného spôsobu platby."
 
 msgctxt "Languages::text_backup_filename"
 msgid "You can download backup file from the \"Restore\" tab on this page"
-msgstr "You can download backup file from the \"Restore\" tab on this page"
+msgstr "Na karte \"Obnovenie\" na tejto stránke si môžete stiahnuť súbor zálohy"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
-msgstr "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
+msgstr "V tejto sekcii môžete spravovať vaše súbory zálohy.<br />- Pre obnovu databázy zaškrtnite políčko pri názve príslušného súboru a kliknite na Obnoviť.<br />- Pre odstránenie súborov zaškrtnite políčka pri súboroch, ktoré chcete zmazať, a kliknite na Odstrániť.<br />- Pre stiahnutie súbora do počítača kliknite na daný súbor."
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
-msgstr "Billing and shipping addresses are the same"
+msgstr "Fakturačná a dodacia adresa sú rovnaké"
 
 msgctxt "Languages::text_block_trial_notice"
 msgid "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
-msgstr "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
+msgstr "Vaša 30-dňová skúšobná doba uplynula. Zakúpte si prosím licenciu  ([href]), alebo odstráňte softvér z vášho serveru."
 
 msgctxt "Languages::text_cannot_create_directory"
 msgid "Cannot create the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot create the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Nedá sa vytvoriť adresár <b>[directory]</b>. Skontrolujte povolenia."
 
 msgctxt "Languages::text_cannot_create_file"
 msgid "Cannot create the file <b>[file]</b>. Please check the directory permissions."
-msgstr "Cannot create the file <b>[file]</b>. Please check the directory permissions."
+msgstr "Nedá sa vytvoriť súbor <b>[file]</b>. Skontrolujte prístupové práva pre adresáre."
 
 msgctxt "Languages::text_cannot_delete_directory"
 msgid "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Nedá sa vytvoriť adresár <b>[directory]</b>. Skontrolujte povolenia."
 
 msgctxt "Languages::text_cannot_delete_file"
 msgid "Cannot delete the file <b>[file]</b>. Please check the permissions."
-msgstr "Cannot delete the file <b>[file]</b>. Please check the permissions."
+msgstr "Nemožno odstrániť súbor <b>[file]</b>. Skontrolujte povolenia."
 
 msgctxt "Languages::text_cannot_rename_directory"
 msgid "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Nie je možné premenovať adresár <b>[directory]</b>. Skontrolujte povolenia."
 
 msgctxt "Languages::text_cannot_rename_file"
 msgid "Cannot rename the file <b>[file]</b>. Please check the permissions."
-msgstr "Cannot rename the file <b>[file]</b>. Please check the permissions."
+msgstr "Súbor <b>[file]</b> sa nedá premenovať. Skontrolujte povolenia."
 
 msgctxt "Languages::text_cannot_restore_directory"
 msgid "Cannot restore the directory <b>[directory]</b> from the repository. Please check if the repository exists."
-msgstr "Cannot restore the directory <b>[directory]</b> from the repository. Please check if the repository exists."
+msgstr "Nie je možné obnoviť adresár <b>[directory]</b> z úložiska. Skontrolujte, či úložisko existuje."
 
 msgctxt "Languages::text_cannot_restore_file"
 msgid "Cannot restore file <b>[file]</b> from the repository. Please check if the repository exists."
-msgstr "Cannot restore file <b>[file]</b> from the repository. Please check if the repository exists."
+msgstr "Súbor <b>[file]</b> sa nedá obnoviť z úložiska. Skontrolujte, či úložisko existuje."
 
 msgctxt "Languages::text_can_be_used_once"
 msgid "This coupon can be used only once. You have already applied it."
-msgstr "This coupon can be used only once. You have already applied it."
+msgstr "Tento kupón možno použiť iba raz. Už ste ho použili."
 
 msgctxt "Languages::text_cart_amount_changed"
 msgid "The quantity of the product <b>[product]</b> in your cart  has been changed to allowable."
-msgstr "The quantity of the product <b>[product]</b> in your cart  has been changed to allowable."
+msgstr "Množstvo produktu <b>[product]</b> v košíku bolo zmenené na prípustné."
 
 msgctxt "Languages::text_cart_amount_corrected"
 msgid "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
-msgstr "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
+msgstr "Množstvo tovaru na sklade nestačí na vašu objednávku. Množstvo tovaru <b>[product]</b> bolo vo vašom košíku zmenené."
 
 msgctxt "Languages::text_cart_empty"
 msgid "Your cart is empty"
-msgstr "Your cart is empty"
+msgstr "Váš košík je prázdny"
 
 msgctxt "Languages::text_cart_max_qty"
 msgid "Maximum quantity for \"[product]\" is <b>[quantity]</b>"
-msgstr "Maximum quantity for \"[product]\" is <b>[quantity]</b>"
+msgstr "Maximálne množstvo \"[product]\" je <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_min_qty"
 msgid "Minimum quantity for \"[product]\" is <b>[quantity]</b>"
-msgstr "Minimum quantity for \"[product]\" is <b>[quantity]</b>"
+msgstr "Minimálne množstvo pre \"[product]\" je <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_not_enough_inventory"
 msgid "The number of products in the inventory is not enough for your order"
-msgstr "The number of products in the inventory is not enough for your order"
+msgstr "Množstvo tovaru na sklade nestačí na vašu objednávku"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
-msgstr "<b>[product]</b> has zero inventory and cannot be added to the cart"
+msgstr "<b>[product]</b> nie je na sklade a nedá sa pridať do košíka"
 
 msgctxt "Languages::text_cart_zero_inventory_and_removed"
 msgid "<b>[product]</b> has zero inventory and is removed from the cart"
-msgstr "<b>[product]</b> has zero inventory and is removed from the cart"
+msgstr "<b>[product]</b> nie je na sklade a bol odstránený z košíka"
 
 msgctxt "Languages::text_categories_have_been_deleted"
 msgid "Categories have been deleted successfully."
-msgstr "Categories have been deleted successfully."
+msgstr "Kategórie boli úspešne odstránené."
 
 msgctxt "Languages::text_category_delimiter"
 msgid "Category path delimiter for product main category (e.g. \"Computers///Desktops\")"
-msgstr "Category path delimiter for product main category (e.g. \"Computers///Desktops\")"
+msgstr "Oddeľovač kategórie od hlavnej kategórie výrobku (e.g. \"Computers///Desktops\")"
 
 msgctxt "Languages::text_category_detailed_image"
 msgid "(optional displayed on category details page only)"
-msgstr "(optional displayed on category details page only)"
+msgstr "(voliteľne zobrazené len na stránke kategórií)"
 
 msgctxt "Languages::text_category_has_been_deleted"
 msgid "Category, subcategories and their products have been deleted successfully."
-msgstr "Category, subcategories and their products have been deleted successfully."
+msgstr "Kategória, podkategórie a produkty v nich boli úspešne odstránené."
 
 msgctxt "Languages::text_category_icon"
 msgid "(displayed on category list and details pages)"
-msgstr "(displayed on category list and details pages)"
+msgstr "(zobrazené v zozname kategórií a detailoch)"
 
 msgctxt "Languages::text_cc_processor_connection"
 msgid "Connecting to <b>[processor]</b>..."
-msgstr "Connecting to <b>[processor]</b>..."
+msgstr "Pripája sa k <b>[processor]</b>..."
 
 msgctxt "Languages::text_cdn_check"
 msgid "<strong>Attention!</strong> Please test some static URL, e.g. <a href=\"[url]\">[url]</a>, to ensure it's working before enabling CDN (you can enable it after storage became active). It usually takes 10-15 minutes to activate storage (the \"Status\" field should display \"Active\", refresh page for updates)."
-msgstr "<strong>Attention!</strong> Please test some static URL, e.g. <a href=\"[url]\">[url]</a>, to ensure it's working before enabling CDN (you can enable it after storage became active). It usually takes 10-15 minutes to activate storage (the \"Status\" field should display \"Active\", refresh page for updates)."
+msgstr "<strong>Pozor!</strong> Prosím vyskúšajte nejaké statické URL, ako napríklad <a href=\"[url]\">[url]</a> predtým než zapnete CDN, aby ste sa uistili že funguje (môžete ho zapnúť po tom čo bolo úložisko aktivované). Aktivácia úložiska spravidla trvá 10 až 15 minút (pole \"Stav\" my malo zobrazovať \"Aktívne\". Obnovte stránku pre aktualizáciu stavu)."
 
 msgctxt "Languages::text_cdn_setup"
 msgid "CDN was set up successfully."
-msgstr "CDN was set up successfully."
+msgstr "CDN bolo úspešne nastavené."
 
 msgctxt "Languages::text_changes_not_saved"
 msgid "Your changes have not been saved."
-msgstr "Your changes have not been saved."
+msgstr "Vaše zmeny neboli uložené."
 
 msgctxt "Languages::text_changes_saved"
 msgid "Your changes have been saved."
-msgstr "Your changes have been saved."
+msgstr "Vaše zmeny boli uložené."
 
 msgctxt "Languages::text_change_password"
 msgid "You are now logged in to your account. Please change the password and click the \"Save\" button."
-msgstr "You are now logged in to your account. Please change the password and click the \"Save\" button."
+msgstr "Teraz ste prihlásení k svojmu účtu. Zmeňte prosím svoje heslo a kliknite na tlačidlo \"Uložiť\"."
 
 msgctxt "Languages::text_checkout_new_profile_notice"
 msgid "If you are a new customer, we need to know your personal details."
-msgstr "If you are a new customer, we need to know your personal details."
+msgstr "Ak ste nový zákazník, musíme poznať vaše osobné údaje."
 
 msgctxt "Languages::text_cities_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>New Y*</b> &nbsp;&nbsp;(corresponds to New York, New Yark, etc)<br /><b>L?s*</b>&nbsp;&nbsp; (corresponds to Las Vegas, Los Angeles, etc..)"
-msgstr "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>New Y*</b> &nbsp;&nbsp;(corresponds to New York, New Yark, etc)<br /><b>L?s*</b>&nbsp;&nbsp; (corresponds to Las Vegas, Los Angeles, etc..)"
+msgstr "V tomto poli môžete používať zástupné znaky:<br /><b>'?'</b> - akýkoľvek jeden znak;<b>'*'</b> - akýchkoľvek niekoľko znakov.<br /><br /><u>Príklad:</u><br /><b>New Y*</b> &nbsp;&nbsp;(zodpovedá New York, New Yark, a pod.)<br /><b>L?s*</b>&nbsp;&nbsp; (zodpovedá Las Vegas, Los Angeles, a pod.)"
 
 msgctxt "Languages::tmpl_text_ckeditor"
 msgid "CKEditor"
@@ -10405,71 +10405,71 @@ msgstr "Logo pre <b>zákaznícku</b> oblasť"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Poznámka</b>: Aby ste mohli sledovať vaše DataTrans objednávky vo vašom softvéri, musíte vykonať nasledujúce kroky:<br /> <br /> -&nbsp;Prihláste sa do vášho DataTrans účtu<br /> -&nbsp;Kliknite na odkaz <u>'Upp Data'</u> v sekcii <u>'Upp Administration'</u> .<br /> -&nbsp;Nastavte <u>'URL Post data format'</u> na <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Nastavte <u>'URL Post'</u> na:<br /> <b>[post_url]</b><br /> -&nbsp;Kliknite na odkaz <u>'Security'</u> v sekcii <u>'Upp Administration'</u> .<br /> -&nbsp;Zvoľte možnosť <b>'An additional merchant identification will be send with payment messages'</b> .<br /> -&nbsp;Vygenerujte nový digitálny podpis kliknutím na tlačidlo <u>'Generate new sign'</u> .<br /> -&nbsp;Na stránke nastavení DataTrans platieb vo vašom obchode vložte vygenerovanú hodnotu do poľa <u>'Digital signature'</u> <br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
-msgstr "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
+msgstr "Vaše zmeny neboli uložené. Pre pokračovanie kliknite na OK, kliknutím na Zrušiť ostanete na aktuálnej stránke."
 
 msgctxt "Languages::text_decrease_points_in_use"
 msgid "The points used in the order were subtracted from user account."
-msgstr "The points used in the order were subtracted from user account."
+msgstr "Body použité v tejto objednávke boli odpočítané z používateľského konta."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
+msgstr "<b>Poznámka:</b> Prosím pošlite nasledujúce údaje technickej podpore DeltaPay:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
-msgstr "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
+msgstr "Nastaviť \"odkaz Úspech\" na: <b>[success_url]</b><br /> Nastaviť \"odkaz Zrušiť\" na: <b>[abort_url]</b><br /> Pridať nové HTTP notifikácie a nastaviť \"URL Notifikácií\" na: <b>[notification_url]</b><br /> Aktivovať kontrolu vstupu a nastaviť \"Algoritmus Hashu\" na \"SHA1\"<br />"
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
-msgstr "The directory <b>[directory]</b> has been successfully created."
+msgstr "Adresár <b>[directory]</b> bol úspešne vytvorený."
 
 msgctxt "Languages::text_directory_deleted"
 msgid "The directory <b>[directory]</b> has been successfully deleted"
-msgstr "The directory <b>[directory]</b> has been successfully deleted"
+msgstr "Adresár <b>[directory]</b> bol úspešne odstránený"
 
 msgctxt "Languages::text_directory_renamed"
 msgid "The directory <b>[directory]</b> has been successfully renamed to <b>[to_directory]</b>"
-msgstr "The directory <b>[directory]</b> has been successfully renamed to <b>[to_directory]</b>"
+msgstr "Adresár <b>[directory]</b> bol úspešne premenovaný na <b>[to_directory]</b>"
 
 msgctxt "Languages::text_directory_restored"
 msgid "The directory <b>[directory]</b> has been restored from the repository"
-msgstr "The directory <b>[directory]</b> has been restored from the repository"
+msgstr "Adresár <b>[directory]</b> bol obnovený z úložiska"
 
 msgctxt "Languages::text_downloads_empty"
 msgid "Your downloads list is empty"
-msgstr "Your downloads list is empty"
+msgstr "Váš zoznam \"Na stiahnutie\" je prázny"
 
 msgctxt "Languages::text_editing"
 msgid "Text editing"
-msgstr "Text editing"
+msgstr "Úpravy textu"
 
 msgctxt "Languages::text_edp_product"
 msgid "This product is electronically distributed"
-msgstr "This product is electronically distributed"
+msgstr "Tento produkt je distribuovaný elektronicky"
 
 msgctxt "Languages::text_ekey_not_valid"
 msgid "The confirmation link is invalid or has expired."
-msgstr "The confirmation link is invalid or has expired."
+msgstr "Odkaz pre potvrdenie je neplatný alebo vypršal."
 
 msgctxt "Languages::text_email_sent"
 msgid "E-mail has been sent successfully."
-msgstr "E-mail has been sent successfully."
+msgstr "E-mail bol úspešne odoslaný."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
-msgstr "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
+msgstr "Pridajte prosím tieto URL polia do vašej konfigurácie platobnej služby eMerchantPay eCommerce:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
 
 msgctxt "Languages::text_enets_notice"
 msgid "Please send the following URL to the eNPS manager as a response URL for all the three cases (success, failure, cancel): [r_url]"
-msgstr "Please send the following URL to the eNPS manager as a response URL for all the three cases (success, failure, cancel): [r_url]"
+msgstr "Pošlite prosím nasledujúcu URL manažérovi eNPS ako URL odozvy pre všetky tri prípady (úspech, neúspech, zrušenie): [r_url]"
 
 msgctxt "Languages::text_enter_filename"
 msgid "Please enter a new file name"
-msgstr "Please enter a new file name"
+msgstr "Zadajte nový názov súboru"
 
 msgctxt "Languages::text_exim_data_exported"
 msgid "Data is exported successfully"
@@ -10477,43 +10477,43 @@ msgstr "Údaje sa úspešne exportoval"
 
 msgctxt "Languages::text_exim_data_imported"
 msgid "Data is imported successfully.<br />New objects - <b>[new]</b>;<br />Updated objects - <b>[exist]</b>;<br />Skipped objects - <b>[skipped]</b>;<br />Total - <b>[total]</b>."
-msgstr "Data is imported successfully.<br />New objects - <b>[new]</b>;<br />Updated objects - <b>[exist]</b>;<br />Skipped objects - <b>[skipped]</b>;<br />Total - <b>[total]</b>."
+msgstr "Údaje boli úspešne naimportované. <br /> Nové objekty - <b>[new]</b>; <br /> Aktualizované objekty - <b>[exist]</b>; <br /> Preskočené objekty - <b>[skipped]</b>;<br /> Celkom - <b>[total]</b>."
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Data is imported successfully."
+msgstr "Údaje boli úspešne naimportované."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
-msgstr "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
+msgstr "Nižšie je uvedený zoznam poli, ktoré je možné exportovať. Polia <b>highlighted</b> sú povinné."
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
-msgstr "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
+msgstr "<h4>Formát pre import vlastností produktu</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>kde,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd> je ID vlastnosti</dd><dt>%Group name%</dt><dd>názov skupiny vlastností</dd><dt>%Feature name%</dt><dd>názov vlastnosti</dd><dt>%Feature type%</dt><dd>typ vlastnosti (C - zaškrtávacie políčko, M - viacero zaškrtávacích políčok, S - pole s výberom textu, N - pole s výberom čísla, E - rozšírené pole s výberom, T - jednoduchý text, O - číslo, D - dátum)</dd><dt>%Feature value%</dt><dd>hodnota funkcie (môže byť viacero hodnôt oddelených čiarkou)</dd></dl><p>Niekoľko vlastností musí byť oddelených bodkočiarkou.</p><h5>Napríklad:</h5><code>ISBN: T[1233423423]; Dátum vydania: D[05/05/07]; Farba: S[Red]</code>"
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Formát pre import súboru</h4><code>%File location%</code> kde <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>môže byť absolútna alebo relatívna cesta v systéme súborov serveru, alebo URL</dd> </dl> <p>Viacero súborov musí byť oddelených čiarkou.</p> <h5>Príklad 1:</h5><code>file1.jpg</code><h5>Príklad 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
-msgstr "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
+msgstr "<h4>Formát pre import obrázkov</h4><code>%Image location%#%Alternative text%</code> kde<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>môže byť absolútna alebo relatívna cesta v systéme súborov serveru, alebo URL,</dd><dt>%Alternative text%<dt><dd>alternatívny text obrázka</dd></dl><h5>Príklad 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Príklad 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
 
 msgctxt "Languages::text_exim_import_notice"
 msgid "Below is a list of the fields that your data file can contain. The fields highlighted in bold are mandatory. If you are importing data with special symbols (commas, semicolons, etc.), please make sure you have these fields quoted."
-msgstr "Below is a list of the fields that your data file can contain. The fields highlighted in bold are mandatory. If you are importing data with special symbols (commas, semicolons, etc.), please make sure you have these fields quoted."
+msgstr "Nižšie je uvedený zoznam polí, ktoré váš súbor môže obsahovať. Polia zvýraznené hrubým písmom sú povinné. Ak importujete údaje so špeciálnymi symbolmi (čiarky, bodkočiarky, a pod.), prosím uistite sa že máte tieto polia v úvodzovkách."
 
 msgctxt "Languages::text_exim_import_options_note"
 msgid "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
-msgstr "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
+msgstr "<h4>Formát pre import voliteľných vlastností tovaru</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> kde<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>je ID voliteľnej vlastnosti</dd><dt>L</dt><dd>voliteľný parameter, čo znamená že je prepojený s globálnymi voliteľnými prvkami tovaru.</dd><dt>%Option name%</dt><dd>názov voliteľnej vlastnosti,</dd><dt>%Variant N ID%</dt><dd>ID voliteľnej vlastnosti,</dd><dt>%Variant N%</dt><dd>názov voliteľnej vlastnosti. Pokiaľ je možnosť výberu len pole s výberom alebo radiogroup, variant musí byť špecifikovaný.</dd><dt>%Option type%</dt><dd>typ voliteľnej vlastnosti, môže byť nasledovný:<br><ul><li><b>S</b> - pole s výberom,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - zaškrtávacie políčko,</li><li><b>I</b> - jednoduché doplnenie,</li><li><b>T</b> - textové pole.</li></ul></dd></dl><p>Viaceré možnosti musia byť oddelené cez bodkočiarku.</p><h5>Príklady:</h5>Jednoduché textové voliteľné vlastnosti:<code>Váš vek: I; Dátum narodenia: I; Poznámky: T</code><br>Možnosti s variantmi:<code>Farba: S[Red, Green, Blue]; Veľkosť: R[X, XL, XXL]</code>"
 
 msgctxt "Languages::text_exim_utf8_file_format"
 msgid "Please make sure that the file you are importing has UTF-8 charset for correct import"
-msgstr "Please make sure that the file you are importing has UTF-8 charset for correct import"
+msgstr "Pre úspešný import prosím skontrolujte, či súbor ktorý importujete používa súbor znakov UTF-8"
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
-msgstr "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
+msgstr "Vaše predplatné softvéru [product] bohužiaľ skončilo. Ak chcete naďalej používať program, obnovte prosím ho prosím čím skôr."
 
 msgctxt "Languages::tmpl_text_fancybox"
 msgid "FancyBox"
@@ -10521,99 +10521,99 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Oddeľovač variantov hodnôt vlastnosti tovaru."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
-msgstr "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
+msgstr "Parametre, ktoré budú odoslané na náš server pre analýzu funkcionality súčasnej konfigurácie sú zobrazené nižšie.<br />Žiadne osobné ani finančné informácie nebudú odoslané. Po prezretí zoznamu parametrov prosím kliknite na \"Odoslať\".<br />"
 
 msgctxt "Languages::text_files_directory"
 msgid "Directory where product files are located. This will be used if the \"File\" field data is specified without a path."
-msgstr "Directory where product files are located. This will be used if the \"File\" field data is specified without a path."
+msgstr "Adresár, kde sú uložené súbory tovaru. Tento bude použitý, pokiaľ pole bude pole \"Súbor\" špecifikované bez cesty."
 
 msgctxt "Languages::text_file_created"
 msgid "The file <b>[file]</b> has been successfully created"
-msgstr "The file <b>[file]</b> has been successfully created"
+msgstr "Súbor <b>[file]</b> bol úspešne vytvorený"
 
 msgctxt "Languages::text_file_deleted"
 msgid "The file <b>[file]</b> has been successfully deleted"
-msgstr "The file <b>[file]</b> has been successfully deleted"
+msgstr "Súbor <b>[file]</b> bol úspešne odstránený"
 
 msgctxt "Languages::text_file_renamed"
 msgid "The file <b>[file]</b> has been successfully renamed to <b>[to_file]</b>"
-msgstr "The file <b>[file]</b> has been successfully renamed to <b>[to_file]</b>"
+msgstr "Súbor <b>[file]</b> úspešne premenovaný na <b>[to_file]</b>"
 
 msgctxt "Languages::text_file_restored"
 msgid "The file <b>[file]</b> has been restored from the repository"
-msgstr "The file <b>[file]</b> has been restored from the repository"
+msgstr "Súbor <b>[file]</b> bol obnovený z úložiska"
 
 msgctxt "Languages::text_file_saved"
 msgid "The file <b>[file]</b> is successfully saved"
-msgstr "The file <b>[file]</b> is successfully saved"
+msgstr "Súbor <b>[file]</b> bol úspešne uložený"
 
 msgctxt "Languages::text_fill_the_mandatory_fields"
 msgid "You need to complete all the mandatory fields"
-msgstr "You need to complete all the mandatory fields"
+msgstr "Musíte vyplniť všetky povinné polia"
 
 msgctxt "Languages::text_forbidden_file_extension"
 msgid "It is not allowed to create/upload/rename files with the <b>.[ext]</b> extension."
-msgstr "It is not allowed to create/upload/rename files with the <b>.[ext]</b> extension."
+msgstr "Nemôžete vytvoriť/uploadovať/premenovať súbory s príponou <b>.[ext]</b>."
 
 msgctxt "Languages::text_forbidden_file_mime"
 msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
-msgstr "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
+msgstr "Nemôžete vytvoriť/uploadovať/premenovať súbory typu <b>[mime]</b> MIME."
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr "Táto funkcia je dostupná iba v <strong>plnej verzii</strong>.<br/><br/>Pre získanie úplného prístupu k všetkým možnostiam programu, zakúpte si licenciu a <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivujte plnú verziu</a>."
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
+msgstr "Nemôžete uploadovať súbory s príponou <b>.[ext]</b>. Povolené prípony: <b>[exts]</b>"
 
 msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
-msgstr "It is not allowed to upload files with size more than <b>[size]</b>"
+msgstr "Nemôžete uploadovať súbory s veľkosťou viac ako <b>[size]</b>"
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
-msgstr "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
+msgstr "Prosím dokončite svoju platbu.<br />Toto je zabezpečená platobná stránka, obsluhovaná z bezpečnej lokácie."
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
-msgstr "<strong>Full mode</strong> required."
+msgstr "Vyžadovaná <strong>plná verzia</strong>."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
-msgstr "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
+msgstr "<p>V nastaveniach obchodníka Gate2Shop prosím nastavte nasledovné hodnoty:</p><p>URL pre úspech, neúspech a zrušenie: <b>[result_url]</b></p><p>Spiatočná URL: <b>[back_url]</b></p>"
 
 msgctxt "Languages::text_gd_not_avail"
 msgid "GD library is <b>not</b> installed on your server. Please contact your hosting provider. <br />Charts can be represented only as tables (chart type \"Table\")."
-msgstr "GD library is <b>not</b> installed on your server. Please contact your hosting provider. <br />Charts can be represented only as tables (chart type \"Table\")."
+msgstr "Knižnica GD <b>nie je</b> na vašom serveri nainštalovaná. Kontaktujte prosím svojho poskytovateľa hostingu. <br />Diagramy môžu byť zobrazené len ako tabuľky (typ diagramu \"Tabuľka\")."
 
 msgctxt "Languages::text_hsbc_notice"
 msgid "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory: [cart_dir] (shell command \"chmod -R 755\")."
-msgstr "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory: [cart_dir] (shell command \"chmod -R 755\")."
+msgstr "<b>ID klienta  -</b> Vaše ID klienta - číselná hodnota medzi 0 a 999999999, alebo platný alias klienta vo forme UK12345678CUR. <br /> Poznámka: Alias je citlivý na veľké a malé písmená. <br /> <b>Dôležitá poznámka pre používateľov UNIX:</b><br /> Prosím uistite sa, že máte prístupové práva k nasledovnému adresáru: [cart_dir] (príkaz \"chmod -R 755\")."
 
 msgctxt "Languages::text_ideal_basic_notice"
 msgid "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
-msgstr "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
+msgstr "-&nbsp;Prihláste sa do vášho účtu iDEAL<br />-&nbsp;Kliknite na <u>'Security'</u> v sekcii <u>'Profile'</u>.<br />-&nbsp;Nastavte možnosť <u>'Notification'</u> na <b>'XML'</b><br />-&nbsp;Nastavte <u>'Notification URL'</u> na:<br /><b>[return_url]</b><br />-&nbsp;Nastavte <u>'Secret key'</u>. Tajný kľúč je známy iba predajcovi a službe iDEAL."
 
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
-msgstr "Directory where images are located. This will be used if an image file is specified without a path."
+msgstr "Adresár, kde sa nachádzajú obrázky. Tento bude použitý pokiaľ bude súbor obrázka špecifikovaný bez cesty."
 
 msgctxt "Languages::text_innovative_notice"
 msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
+msgstr "Pre účely testovania môžete použiť nasledujúce prihlasovacie údaje: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
-msgstr "You have entered an invalid URL"
+msgstr "Zadali ste neplatnú adresu URL"
 
 msgctxt "Languages::text_items_added"
 msgid "The items were added successfully"
-msgstr "The items were added successfully"
+msgstr "Položky boli úspešne pridané"
 
 msgctxt "Languages::text_light_box"
 msgid "Lightbox"
@@ -10621,231 +10621,231 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_linkpointc_notice"
 msgid "Please log in to FirstData Connect Admin, open the \"Administration\" tab, click on the \"Connect settings\" link.<br /> Set the following URL in the \"Order Submission Form\" section: [return_url]<br /> Also please select the check boxes:<br /> - in the 'Confirmation Page (\"Thank You\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br /> - in the 'Failure Page (\"Sorry\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br />"
-msgstr "Please log in to FirstData Connect Admin, open the \"Administration\" tab, click on the \"Connect settings\" link.<br /> Set the following URL in the \"Order Submission Form\" section: [return_url]<br /> Also please select the check boxes:<br /> - in the 'Confirmation Page (\"Thank You\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br /> - in the 'Failure Page (\"Sorry\" Page URL)' section <b>\"URL is a CGI script\"</b> check box<br />"
+msgstr "Prihláste sa prosím do služby FirstData Connect Admin, otvorte kartu \"Administration\" a kliknite na odkaz \"Connect settings\".<br /> V sekcii \"Order Submission Form\" nastavte nasledovnú URL adresu: [return_url]<br /> Tiež prosím zaškrtnite tieto políčka:<br /> - v sekcii 'Confirmation Page (\"Thank You\" Page URL)' políčko <b>\"URL is a CGI script\"</b> <br /> - v sekcii 'Failure Page (\"Sorry\" Page URL)' políčko <b>\"URL is a CGI script\"</b> <br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
-msgstr "Text links"
+msgstr "Textové odkazy"
 
 msgctxt "Languages::text_login_form"
 msgid "<h4>Not a registered member?</h4><p>Creating a new account is easy and takes less than a minute.</p>"
-msgstr "<h4>Not a registered member?</h4><p>Creating a new account is easy and takes less than a minute.</p>"
+msgstr "<h4>Nie ste registrovaným členom?</h4><p>Vytvorenie nového účtu je jednoduché a trvá menej než minútu.</p>"
 
 msgctxt "Languages::text_login_to_add_to_cart"
 msgid "This product cannot be added to the<br>cart because you are not logged in."
-msgstr "This product cannot be added to the<br>cart because you are not logged in."
+msgstr "Tento produkt nemôže pridať do<br>košíka, pretože nie ste prihlásený."
 
 msgctxt "Languages::text_mail_area_logo"
 msgid "Logo for <b>invoices</b>"
-msgstr "Logo for <b>invoices</b>"
+msgstr "Logo pre <b>faktúry</b>"
 
 msgctxt "Languages::text_mandatory_fields"
 msgid "<p class=\"mandatory-fields\">The fields marked with <span class=\"required\">*</span> are mandatory</p>"
-msgstr "<p class=\"mandatory-fields\">The fields marked with <span class=\"required\">*</span> are mandatory</p>"
+msgstr "<p class=\"mandatory-fields\">Polia označené <span class=\"required\">*</span> sú povinné</p>"
 
 msgctxt "Languages::text_max_limit_of_parameters"
 msgid "Maximum value of the \"limit\" field cannot exceed 25 unless the chart type is \"Table\". Limit of this chart has been corrected."
-msgstr "Maximum value of the \"limit\" field cannot exceed 25 unless the chart type is \"Table\". Limit of this chart has been corrected."
+msgstr "Maximálna hodnota poľa \"limit\" nemôže prekročiť 25 pokiaľ je typ diagramu \"Tabuľka\". Limit bol v tomto diagrame opravený."
 
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
-msgstr "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
+msgstr "Skrill zatiaľ neodpovedá, čakajte prosím. Je možné že objednávka nebola vytvorená v obchode, ale že bola úspešne vytvorená a vybavená cez službu Skrill. Kontaktujte prosím personál obchodu a oznámte im ID objednávky, ktoré vám zadal Skrill"
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "Predvolené hodnoty minimálnych a maximálnych transakcií na vašom účte sú nasledovné:<table cellpadding=\"3\"> <tr> <td><b>Limity</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Ak chcete požiadať o vyššie limity pre váš účet, kontaktujte prosím správcu účtu.<br /><p>V Merchant Extranet prosím nastavte nasledovné parametre. Kliknite na Account Management a potom na Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
-msgstr "To continue checkout process your order total must exceed"
+msgstr "Pre pokračovanie v kompletizácii objednávky musí jej suma presahovať"
 
 msgctxt "Languages::text_min_products_amount_required"
 msgid "To continue checkout process your order subtotal must exceed"
-msgstr "To continue checkout process your order subtotal must exceed"
+msgstr "Pre pokračovanie v kompletizácii objednávky musí jej medzisúčet presahovať"
 
 msgctxt "Languages::text_multiprofile_notice"
 msgid "One user can have multiple profiles. For example, one for personal orders and another for office needs."
-msgstr "One user can have multiple profiles. For example, one for personal orders and another for office needs."
+msgstr "Jeden používateľ môže mať viacero profilov. Jeden môže mať napríklad pre osobné objednávky a druhý pre pracovné potreby."
 
 msgctxt "Languages::text_new_user_activation"
 msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
-msgstr "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
+msgstr "Profil vytvorený používateľom \"[user_login]\" je novo vytvorený, mali by ste (ak je potrebné) skontrolovať jeho detaily a aktivovať ho kliknutím na nasledujúci odkaz:<br />[url]"
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
-msgstr "Nothing found"
+msgstr "Nič sa nenašlo"
 
 msgctxt "Languages::text_nothing_found_filter_message"
 msgid "Sorry, but nothing matched your search criteria. Please try again with some different parameter combination."
-msgstr "Sorry, but nothing matched your search criteria. Please try again with some different parameter combination."
+msgstr "Ospravedlňujeme sa, ale zadaným kritériám nič nevyhovuje. Skúste to prosím znova s inou kombináciou parametrov."
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension here."
+msgstr "Nie je povolené uploadovať súbory s príponou <b>.[ext]</b>."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
-msgstr "<b>[email]</b> is not a valid e-mail address."
+msgstr "<b>[email]</b> nie je platná e-mailová adresa."
 
 msgctxt "Languages::text_no_active_promotions"
 msgid "No promotions available."
-msgstr "No promotions available."
+msgstr "Žiadne akcie k dispozícii."
 
 msgctxt "Languages::text_no_conflicts"
 msgid "No conflicts found"
-msgstr "No conflicts found"
+msgstr "Nenašli sa žiadne konflikty"
 
 msgctxt "Languages::text_no_items_defined"
 msgid "No [items] defined"
-msgstr "No [items] defined"
+msgstr "Žiadne [items] definované"
 
 msgctxt "Languages::text_no_matching_products_found"
 msgid "No products found matching the search criteria"
-msgstr "No products found matching the search criteria"
+msgstr "Nebol nájdený žiaden tovar vyhovujúci kritériám vyhľadávania"
 
 msgctxt "Languages::text_no_matching_results_found"
 msgid "No results match the search query"
-msgstr "No results match the search query"
+msgstr "Žiadne výsledky vyhovujúce vyhľadávacím kritériám"
 
 msgctxt "Languages::text_no_orders"
 msgid "No orders found"
-msgstr "No orders found"
+msgstr "Nenašli sa žiadne objednávky"
 
 msgctxt "Languages::text_no_payments_needed"
 msgid "No payment information required"
-msgstr "No payment information required"
+msgstr "Platobné informácie nie sú potrebné"
 
 msgctxt "Languages::text_no_products"
 msgid "There are no products in this section"
-msgstr "There are no products in this section"
+msgstr "V tejto sekcii sa nenachádza žiaden tovar"
 
 msgctxt "Languages::text_no_products_defined"
 msgid "No products defined"
-msgstr "No products defined"
+msgstr "Nebol definovaný žiaden tovar"
 
 msgctxt "Languages::text_no_products_found"
 msgid "No products found"
-msgstr "No products found"
+msgstr "Nenájdený žiaden tovar"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
-msgstr "No shipments found"
+msgstr "Nenájdené žiadne zásielky"
 
 msgctxt "Languages::text_no_shipping_methods"
 msgid "Sorry, it seems that we have no shipping options available for your location.<br/>Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
-msgstr "Sorry, it seems that we have no shipping options available for your location.<br/>Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
+msgstr "Mrzí nás to, ale vyzerá to tak že pre vašu polohu nie sú dostupné žiadne možnosti prepravy.<br/> Skontrolujte prosím adresu doručenia a kontaktujte nás ak je správna. Zistíme čo sa s tým dá urobiť."
 
 msgctxt "Languages::text_no_upgrades_available"
 msgid "No upgrades currently available"
-msgstr "No upgrades currently available"
+msgstr "Momentálne nie sú dostupné žiadne aktualizácie"
 
 msgctxt "Languages::text_objects_for_export"
 msgid "<b>[total]</b> [name] will be exported."
-msgstr "<b>[total]</b> [name] will be exported."
+msgstr "<b>[total]</b> [name] sa bude exportovať."
 
 msgctxt "Languages::text_ogonedirect_notice"
 msgid "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
-msgstr "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
+msgstr "Zadajte svoj SHA-1 podpis tu a v konfigurácii Ogone.<br /><br />Nové Ogone účty, vytvorené po 11-tom máji 2010, budú automaticky využívať novú politiku SHA. <br/>Nezabudnite prosím zaškrtnúť políčko \"Use new SHA signature policy\"."
 
 msgctxt "Languages::text_ogoneweb_notice"
 msgid "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
-msgstr "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
+msgstr "Do sekcie Technical Information v konfigurácii Ogone prosím zadajte nasledovnú URL adresu ako <b>Response Url</b> pre všetky prípady (\"prijatá\", \"pozastavená\", \"neistá\", \"zrušená klientom\", \"príliš veľa odmietnutí získateľom\"): <b>[r_url]</b><br />Taktiež zadajte svoj SHA-1 podpis tu, aj v konfigurácii Ogone. Potom zadajte typ požiadavky: \"Make this request in background and deferred\"."
 
 msgctxt "Languages::text_options_no_inventory"
 msgid "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
-msgstr "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
+msgstr "Ak chcete vytvoriť kombinácie možností, musíte mať aspoň pri jednej voliteľnej vlastnosti tovaru zaškrtnuté políčko \"Inventár\"."
 
 msgctxt "Languages::text_order_backordered"
 msgid "Your order has been backordered. We will contact you at the first opportunity."
-msgstr "Your order has been backordered. We will contact you at the first opportunity."
+msgstr "Vaša objednávka bola objednaná u dodávateľa. Budeme vás kontaktovať čo najskôr."
 
 msgctxt "Languages::text_order_placed_error"
 msgid "Your order has been declined by the payment processor. Please review your information and contact store administration."
-msgstr "Your order has been declined by the payment processor. Please review your information and contact store administration."
+msgstr "Vaša objednávka bola zamietnutá platobným procesorom. Prosím skontrolujte vaše údaje a kontaktujte administráciu obchodu."
 
 msgctxt "Languages::text_order_placed_successfully"
 msgid "Congratulations! Your order has been successfully placed."
-msgstr "Congratulations! Your order has been successfully placed."
+msgstr "Gratulujeme! Vaša objednávka bola úspešne odoslaná."
 
 msgctxt "Languages::text_order_repayed_successfully"
 msgid "Order has been repaid successfully."
-msgstr "Order has been repaid successfully."
+msgstr "Objednávka bola úspešne preplatená."
 
 msgctxt "Languages::text_order_saved_successfully"
 msgid "Order has been saved successfully."
-msgstr "Order has been saved successfully."
+msgstr "Objednávka bola úspešne uložená."
 
 msgctxt "Languages::text_order_status_notification"
 msgid "Please note that the notification of changing the status  will be sent depending on the settings of this status"
-msgstr "Please note that the notification of changing the status  will be sent depending on the settings of this status"
+msgstr "Upozorňujeme, že notifikácia o zmene stavu bude zaslaná v závislosti od nastavení tohoto stavu"
 
 msgctxt "Languages::text_out_of_stock"
 msgid "Out of stock"
-msgstr "Out of stock"
+msgstr "Nie je na sklade"
 
 msgctxt "Languages::text_pages_cloned"
 msgid "The pages have been cloned successfully. Below the list of new pages."
-msgstr "The pages have been cloned successfully. Below the list of new pages."
+msgstr "Stránky boli úspešne naklonované. Zoznam nových stránok je nižšie."
 
 msgctxt "Languages::text_pages_have_been_deleted"
 msgid "Pages have been deleted successfully."
-msgstr "Pages have been deleted successfully."
+msgstr "Stránky boli úspešne odstránené."
 
 msgctxt "Languages::text_page_changed"
 msgid "Are you sure you want to leave this page? Your changes have not been saved. Click on OK to continue, or on Cancel to stay on the current page."
-msgstr "Are you sure you want to leave this page? Your changes have not been saved. Click on OK to continue, or on Cancel to stay on the current page."
+msgstr "Naozaj chcete opustiť túto stránku? Vaše zmeny neboli uložené. Ak chcete pokračovať, kliknite na tlačidlo OK. Kliknutím na Zrušiť ostanete na súčasnej stránke."
 
 msgctxt "Languages::text_page_has_been_deleted"
 msgid "Page has been deleted successfully."
-msgstr "Page has been deleted successfully."
+msgstr "Stránka bola úspešne odstránená."
 
 msgctxt "Languages::text_page_loading"
 msgid "Loading... Your request is being processed, please wait."
-msgstr "Loading... Your request is being processed, please wait."
+msgstr "Načítam... Vaša žiadosť sa spracováva, čakajte prosím."
 
 msgctxt "Languages::text_password_recovery_instructions_sent"
 msgid "Password recovery instructions have been sent to your email."
-msgstr "Password recovery instructions have been sent to your email."
+msgstr "Pokyny pre obnovenie hesla boli zaslané na váš email."
 
 msgctxt "Languages::text_pay4later_notice"
 msgid "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
-msgstr "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
+msgstr "<b>Poznámka</b>: Aby ste mohli pomocou vášho softvéru sledovať Pay4Later objednávky, musíte vykonať nasledujúce kroky:<br /><br />-&nbsp;Prihláste sa do Pay4Later BackOffice<br />-&nbsp;Kliknite na odkaz <u>'Settings/Installations'</u> v sekcii <u>'Quick Links'</u> .<br />-&nbsp;Nastavte <u>'Return URL (Verified)'</u> na:<br /><b>[verified_url]</b><br />-&nbsp;Nastavte <u>'Return URL (Decline)'</u> na:<br /><b>[decline_url]</b><br />-&nbsp;Nastavte <u>'Return URL (Refer)'</u> na:<br /><b>[refer_url]</b><br />-&nbsp;Nastavte <u>'Return URL (Cancel)'</u> na:<br /><b>[cancel_url]</b><br />-&nbsp;Nastavte <u>'CSN URL'</u> na:<br /><b>[process_url]</b><br />-&nbsp;Kliknite na tlačidlo <u>'Save Changes'</u> <br />"
 
 msgctxt "Languages::text_paybox_notice"
 msgid "<b>Note:</b> Please download the file modulev2.cgi from the PayBox server, copy it to the <b>[paybox_dir]</b> directory <u>in binary mode</u> and make it executable. <br />Run the following command:<br /><b><i>chmod 755 modulev2.cgi</b></i><br /><br />Also ask &#8220;Paybox&#8221; service to add the following URL to the database as &#8220;Callback URL&#8221;:<br /><b>[callback_url]</b>"
-msgstr "<b>Note:</b> Please download the file modulev2.cgi from the PayBox server, copy it to the <b>[paybox_dir]</b> directory <u>in binary mode</u> and make it executable. <br />Run the following command:<br /><b><i>chmod 755 modulev2.cgi</b></i><br /><br />Also ask &#8220;Paybox&#8221; service to add the following URL to the database as &#8220;Callback URL&#8221;:<br /><b>[callback_url]</b>"
+msgstr "<b>Poznámka:</b> Zo serveru PayBox prosím stiahnite súbor modulev2.cgi, skopírujte ho do adresára <b>[paybox_dir]</b> <u>v binárnom režime</u> a spravte z neho spúšťací súbor. <br />Zadajte nasledovný príkaz:<br /><b><i>chmod 755 modulev2.cgi</b></i><br /><br />Taktiež požiadajte službu &#8220;Paybox&#8221; aby do databázy pridali nalsedovnú URL ako &#8220;Callback URL&#8221;:<br /><b>[callback_url]</b>"
 
 msgctxt "Languages::text_payment_have_been_deleted"
 msgid "Payment have been deleted successfully."
-msgstr "Payment have been deleted successfully."
+msgstr "Platby boli úspešne odstránené."
 
 msgctxt "Languages::text_payment_have_not_been_deleted"
 msgid "Payment cannot be deleted."
-msgstr "Payment cannot be deleted."
+msgstr "Platba sa nedá odstrániť."
 
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
-msgstr "Please wait while processing the payment details..."
+msgstr "Čakajte, prosím. Spracovávajú sa platobné údaje..."
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
-msgstr "Debug Information"
+msgstr "Informácie o ladení"
 
 msgctxt "Languages::text_paysitecash_mode"
 msgid "Mode"
-msgstr "Mode"
+msgstr "Režim"
 
 msgctxt "Languages::text_paysitecash_mode_debug_off"
 msgid "OFF"
-msgstr "OFF"
+msgstr "VYP"
 
 msgctxt "Languages::text_paysitecash_mode_debug_on"
 msgid "ON"
-msgstr "ON"
+msgstr "ZAP"
 
 msgctxt "Languages::text_paysitecash_mode_live"
 msgid "Live"
-msgstr "Live"
+msgstr "Naživo"
 
 msgctxt "Languages::text_paysitecash_mode_test"
 msgid "Test"
@@ -10853,43 +10853,43 @@ msgstr "Test"
 
 msgctxt "Languages::text_paysitecash_nocurrencies"
 msgid "Currency mode"
-msgstr "Currency mode"
+msgstr "Režim meny"
 
 msgctxt "Languages::text_paysitecash_nocurrencies_no"
 msgid "Allow customer select any of supported currency"
-msgstr "Allow customer select any of supported currency"
+msgstr "Umožniť zákazníkovi zvoliť si akúkoľvek z podporovaných mien"
 
 msgctxt "Languages::text_paysitecash_nocurrencies_yes"
 msgid "Do not show currency selection at all"
-msgstr "Do not show currency selection at all"
+msgstr "Nezobrazovať výber meny"
 
 msgctxt "Languages::text_paysitecash_notice"
 msgid "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
-msgstr "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
+msgstr "Zadajte prosím tieto URL polia do vašej konfigurácie Paysite Cash:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
 
 msgctxt "Languages::text_paysitecash_processor"
 msgid "Processor"
-msgstr "Processor"
+msgstr "Spracovateľ"
 
 msgctxt "Languages::text_paysitecash_site_id"
 msgid "Site ID"
-msgstr "Site ID"
+msgstr "ID stránky"
 
 msgctxt "Languages::text_payway_notice"
 msgid "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
-msgstr "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
+msgstr "Prosím zadajte nasledovné parametre v nastaveniach PayWay: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: ponechajte prázdne </p>"
 
 msgctxt "Languages::text_permissions_changed"
 msgid "Permissions changed"
-msgstr "Permissions changed"
+msgstr "Právomoci zmenené"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr "<b>Poznámka:</b> Pošlite prosím nasledovné údaje platobnej podpore:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
-msgstr "Loading... Positions are being updated, please wait."
+msgstr "Načítam... aktualizujú sa pozície. Čakajte, prosím."
 
 msgctxt "Languages::text_prettyphoto"
 msgid "prettyPhoto"
@@ -10897,135 +10897,135 @@ msgstr "prettyPhoto"
 
 msgctxt "Languages::text_price_dec_sign_delimiter"
 msgid "Decimal separator for product prices."
-msgstr "Decimal separator for product prices."
+msgstr "Oddeľovač desatinných miest pre ceny tovaru."
 
 msgctxt "Languages::text_products_added"
 msgid "The products have been added successfully. See the list of the new products below."
-msgstr "The products have been added successfully. See the list of the new products below."
+msgstr "Tovar bol úspešne pridaný. Zoznam nového tovaru sa nachádza nižšie."
 
 msgctxt "Languages::text_products_cloned"
 msgid "The products have been cloned successfully. Below the list of new products"
-msgstr "The products have been cloned successfully. Below the list of new products"
+msgstr "Tovar bol úspešne naklonovaný. Zoznam nového tovaru sa nachádza nižšie"
 
 msgctxt "Languages::text_products_have_been_deleted"
 msgid "Products have been deleted successfully."
-msgstr "Products have been deleted successfully."
+msgstr "Tovar bol úspešne odstránený."
 
 msgctxt "Languages::text_products_updated"
 msgid "The following products have been updated:"
-msgstr "The following products have been updated:"
+msgstr "Tento tovar bol aktualizovaný:"
 
 msgctxt "Languages::text_products_updated_successfully"
 msgid "The product(s) have been updated successfully"
-msgstr "The product(s) have been updated successfully"
+msgstr "Tovar bol úspešne aktualizovaný"
 
 msgctxt "Languages::text_product_cloned"
 msgid "The product has been cloned"
-msgstr "The product has been cloned"
+msgstr "Tovar bol naklonovaný"
 
 msgctxt "Languages::text_product_detailed_image"
 msgid "(optional displayed in popup window)"
-msgstr "(optional displayed in popup window)"
+msgstr "(voliteľne zobrazený vo vyskakovacom okne)"
 
 msgctxt "Languages::text_product_file_has_been_deleted"
 msgid "Product file has been deleted"
-msgstr "Product file has been deleted"
+msgstr "Súbor tovaru bol odstránený"
 
 msgctxt "Languages::text_product_filters_were_disabled"
 msgid "The following <a href=\"[url]\" target=\"_blank\">product filters</a> were disabled: [filters_list]."
-msgstr "The following <a href=\"[url]\" target=\"_blank\">product filters</a> were disabled: [filters_list]."
+msgstr "Nasledovné <a href=\"[url]\" target=\"_blank\">filtre tovaru</a> boli vypnuté: [filters_list]."
 
 msgctxt "Languages::text_product_has_been_deleted"
 msgid "Product has been deleted successfully."
-msgstr "Product has been deleted successfully."
+msgstr "Tovar bol úspešne odstránený."
 
 msgctxt "Languages::text_product_thumbnail"
 msgid "(displayed on products list and product details pages)"
-msgstr "(displayed on products list and product details pages)"
+msgstr "(zobrazené na zozname tovaru a stránke s detailami tovaru)"
 
 msgctxt "Languages::text_profile_activated"
 msgid "Your profile has now been activated, you may login using the username you received in the previous e-mail."
-msgstr "Your profile has now been activated, you may login using the username you received in the previous e-mail."
+msgstr "Váš profil bol aktivovaný, môžete sa prihlásiť používateľským menom, ktoré ste obdržali v predchádzajúcom e-maili."
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
-msgstr "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
+msgstr "<h4>Zaregistrovaní členovia majú aj takéto výhody</h4><ul><li>Môžete sa kedykoľvek prihlásiť a skontrolovať stav vašich objednávok</li><li>Prispôsobiť nákupy vašim potrebám</li><li>Zrýchliť budúce nákupy</li></ul>"
 
 msgctxt "Languages::text_profile_details"
 msgid "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
-msgstr "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
+msgstr "<h4>Detaily profilu</h4><p>Na tejto stránke môžete upraviť svoje prihlasovacie údaje a osobné údaje používané pri objednávkach.</p><p>Pre zachovanie bezpečnosti vášho účtu odporúčame v heslách nepoužívať:</p><ul><li>Slová nachádzajúce sa v slovníkoch.</li><li>Slová napísané pospiatky, bežné preklepy a skratky.</li><li>Sekvencie alebo opakujúce sa znaky, napríklad: 12345678, 222222, abcdefg, alebo písmená susediace na klávesnici (qwerty).</li><li>Osobné údaje ako meno, dátum narodenia, číslo vodičského preukazu, pasu, a podobné údaje.</li></ul>"
 
 msgctxt "Languages::text_profile_is_created"
 msgid "The account has been created successfully."
-msgstr "The account has been created successfully."
+msgstr "Účet bol úspešne vytvorený."
 
 msgctxt "Languages::text_profile_is_updated"
 msgid "The profile data has been updated successfully."
-msgstr "The profile data has been updated successfully."
+msgstr "Profilové údaje boli úspešne aktualizované."
 
 msgctxt "Languages::text_profile_should_be_approved"
 msgid "Your account has been created successfully, but it must be activated by the store administrator before you are able to sign in."
-msgstr "Your account has been created successfully, but it must be activated by the store administrator before you are able to sign in."
+msgstr "Váš účet bol úspešne vytvorený, ale predtým než sa ním budete môcť prihlásiť ho musí aktivovať správca obchodu."
 
 msgctxt "Languages::text_promotions_group_condition"
 msgid "if [set] of these conditions are [set_value]"
-msgstr "if [set] of these conditions are [set_value]"
+msgstr "Ak [set] týchto podmienok sú [set_value]"
 
 msgctxt "Languages::text_proxypay_notice"
 msgid "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
-msgstr "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
+msgstr "Overovací skript:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Potvrdzovací skript:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok stránka:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok stránka: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 
 msgctxt "Languages::text_qbms_notice"
 msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
+msgstr "<p>\"Testovací\" režim by ste mali používať jedine ak máte PTC účet. </p> <p>Počas registrácie vašej žiadosti zadajte nasledovné hodnoty: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> bude automaticky vyplnený po tom čo vytvoríte pripojenie tu: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (prepíšte prosím [My_App_ID] na vaše AppID čislo) a kliknite na tlačidlo \"Use this connection\".</p><p>Pre získanie \"Signed certificate\" prosím konzultujte <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />Po vytvorení certifikátov (Intuit CA & Client Signed) prosím vykonajte nalsedovné:<br />1. Extrahujte kľúč z vami vytvoreného CSR (tieto kroky sú aplikovateľné len ak ste použili keytoll)<br />&nbsp; - Stiahnite Java class pre export súkromného kľúča z certifikátu: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Kompilujte túto triedu: \"javac ExportPriv.java\"<br />&nbsp; - Exportujte Kľúč do súboru: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Uložte klientom podpísaný certifikát do súboru (napr. qbms_cert.txt)<br />3. Do rovnakého súboru uložte kľúč ktorý ste vyextrahovali v kroku 1<br />4. Pomocou tohto formulára uploadujte výsledný súbor.<br /></p>"
 
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
-msgstr "Our Brands"
+msgstr "Naše značky"
 
 msgctxt "Languages::text_qty_discounts"
 msgid "Our quantity discounts"
-msgstr "Our quantity discounts"
+msgstr "Naše množstevné zľavy"
 
 msgctxt "Languages::text_recover_password"
 msgid "<p>If you have forgotten your password, enter your email address in the field and click <i>Reset password</i>.</p><p>You will receive a new password and a link to sign in. You will be able to change the password later.</p>"
-msgstr "<p>If you have forgotten your password, enter your email address in the field and click <i>Reset password</i>.</p><p>You will receive a new password and a link to sign in. You will be able to change the password later.</p>"
+msgstr "<p>Ak ste zabudli vaše heslo, zadajte do poľa vašu e-mailovú adresu a kliknite na <i>Obnoviť heslo</i>.</p><p>Obdržíte nové heslo a odkaz pre prihlásenie. Neskôr môžete toto heslo zmeniť.</p>"
 
 msgctxt "Languages::text_recover_password_notice"
 msgid "Enter your email address to receive a new login key and a link to sign in and change your password."
-msgstr "Enter your email address to receive a new login key and a link to sign in and change your password."
+msgstr "Zadajte vašu e-mailovú adresu a obdržíte nový prihlasovací kľúč a odkaz pre prihlásenie a zmenu vášho hesla."
 
 msgctxt "Languages::text_recover_password_title"
 msgid "Reset password"
-msgstr "Reset password"
+msgstr "Obnoviť heslo"
 
 msgctxt "Languages::text_redactor"
 msgid "Redactor"
-msgstr "Redactor"
+msgstr "Redaktor"
 
 msgctxt "Languages::text_remove_additional_images"
 msgid "When importing additional images of an updated product, existing images of this product will be deleted before import"
-msgstr "When importing additional images of an updated product, existing images of this product will be deleted before import"
+msgstr "Pred importovaním ďalších obrázkov aktualizovaného produktu budú existujúce obrázky odstránené"
 
 msgctxt "Languages::text_remove_backup_files"
 msgid "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
-msgstr "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
+msgstr "Upozornenie! Ak odstránite záložné súbory, nebudete môcť obnoviť predchádzajúcu inštaláciu. Uistite sa že nová verzia funguje správne a že záložné súbory databázy sú na bezpečnom mieste."
 
 msgctxt "Languages::text_required_group_product"
 msgid "Please select a product for the required group [group_name]"
-msgstr "Please select a product for the required group [group_name]"
+msgstr "Vyberte tovar pre požadovanú skupinu [group_name]"
 
 msgctxt "Languages::text_reset_inventory_description"
 msgid "Quantity of all products in the store will be reset."
-msgstr "Quantity of all products in the store will be reset."
+msgstr "Množstvo všetkých produktov v obchode bude vynulované."
 
 msgctxt "Languages::text_restore_question"
 msgid "Are you sure that you want to restore the template?"
-msgstr "Are you sure that you want to restore the template?"
+msgstr "Ste si istí, že chcete obnoviť šablónu?"
 
 msgctxt "Languages::text_sagepay_dir_notice"
 msgid "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
-msgstr "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
+msgstr "<b>Poznámka:</b> Povoľte prosím možnosť 3D Secure Fraud Checking vo vašom SagePay VSP Direct účte, aby ste mohli sledovať vaše SagePay objednávky."
 
 msgctxt "Languages::text_sagepay_notice"
 msgid "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
@@ -11157,7 +11157,7 @@ msgstr "Full unrestricted access to all features. Enter a valid license number t
 
 msgctxt "Languages::text_store_mode_opened"
 msgid "The store was <b>opened</b>"
-msgstr "The store was <b>opened</b>"
+msgstr "Obchod bol <b>otvorený</b>"
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
@@ -11273,7 +11273,7 @@ msgstr "Failed to create a new directory"
 
 msgctxt "Languages::text_uc_failed_to_ftp_copy"
 msgid "FTP transfer failed"
-msgstr "FTP transfer failed"
+msgstr "FTP prenos zlyhal"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "The software was not found in the specified directory"
@@ -11281,7 +11281,7 @@ msgstr "The software was not found in the specified directory"
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
-msgstr "FTP connection failed"
+msgstr "FTP pripojenie zlyhalo"
 
 msgctxt "Languages::text_uc_ftp_connect_failed"
 msgid "Cannot connect to FTP server. Please check if the host name is correct"
@@ -11429,11 +11429,11 @@ msgstr "Theme editor"
 
 msgctxt "Languages::theme_editor.background"
 msgid "Background"
-msgstr "Background"
+msgstr "Pozadie"
 
 msgctxt "Languages::theme_editor.backgrounds"
 msgid "Backgrounds"
-msgstr "Backgrounds"
+msgstr "Pozadia"
 
 msgctxt "Languages::theme_editor.background_color"
 msgid "Background color"
@@ -11461,7 +11461,7 @@ msgstr "Close theme editor"
 
 msgctxt "Languages::theme_editor.colors"
 msgid "Colors"
-msgstr "Colors"
+msgstr "Farby"
 
 msgctxt "Languages::theme_editor.color_gen_algorithm"
 msgid "Colors combination"
@@ -11473,11 +11473,11 @@ msgstr "Analogic"
 
 msgctxt "Languages::theme_editor.color_gen_base_color"
 msgid "Base color"
-msgstr "Base color"
+msgstr "Základná farba"
 
 msgctxt "Languages::theme_editor.color_gen_contrast"
 msgid "Contrast"
-msgstr "Contrast"
+msgstr "Kontrast"
 
 msgctxt "Languages::theme_editor.color_gen_dark_pastel"
 msgid "Dark pastel"
@@ -11485,7 +11485,7 @@ msgstr "Dark pastel"
 
 msgctxt "Languages::theme_editor.color_gen_default"
 msgid "Default"
-msgstr "Default"
+msgstr "Predvolené"
 
 msgctxt "Languages::theme_editor.color_gen_light_pastel"
 msgid "Light pastel"
@@ -11517,19 +11517,19 @@ msgstr "Variation"
 
 msgctxt "Languages::theme_editor.color_gen_vcontrast"
 msgid "Contrast"
-msgstr "Contrast"
+msgstr "Kontrast"
 
 msgctxt "Languages::theme_editor.content_bg"
 msgid "Content"
-msgstr "Content"
+msgstr "Obsah"
 
 msgctxt "Languages::theme_editor.css"
 msgid "Custom CSS"
-msgstr "Custom CSS"
+msgstr "Vlastné CSS"
 
 msgctxt "Languages::theme_editor.customize"
 msgid "Customize"
-msgstr "Customize"
+msgstr "Prispôsobiť"
 
 msgctxt "Languages::theme_editor.decorative_color"
 msgid "Decorative"
@@ -11557,19 +11557,19 @@ msgstr "Fixed"
 
 msgctxt "Languages::theme_editor.font"
 msgid "Font"
-msgstr "Font"
+msgstr "Písmo"
 
 msgctxt "Languages::theme_editor.fonts"
 msgid "Fonts"
-msgstr "Fonts"
+msgstr "Písma"
 
 msgctxt "Languages::theme_editor.font_color"
 msgid "Font"
-msgstr "Font"
+msgstr "Písmo"
 
 msgctxt "Languages::theme_editor.footer"
 msgid "Footer"
-msgstr "Footer"
+msgstr "Zápätie"
 
 msgctxt "Languages::theme_editor.footer_text"
 msgid "Footer text"
@@ -11577,15 +11577,15 @@ msgstr "Footer text"
 
 msgctxt "Languages::theme_editor.full_width"
 msgid "Full width"
-msgstr "Full width"
+msgstr "Celá šírka"
 
 msgctxt "Languages::theme_editor.general"
 msgid "General"
-msgstr "General"
+msgstr "Všeobecné"
 
 msgctxt "Languages::theme_editor.general_bg"
 msgid "General"
-msgstr "General"
+msgstr "Všeobecné"
 
 msgctxt "Languages::theme_editor.gradient"
 msgid "Gradient"
@@ -11593,11 +11593,11 @@ msgstr "Gradient"
 
 msgctxt "Languages::theme_editor.header"
 msgid "Header"
-msgstr "Header"
+msgstr "Hlavička"
 
 msgctxt "Languages::theme_editor.headings_font"
 msgid "Headings"
-msgstr "Headings"
+msgstr "Nadpisy"
 
 msgctxt "Languages::theme_editor.hide_show"
 msgid "Hide/show theme editor panel"
@@ -11609,27 +11609,27 @@ msgstr "Style name can not contain the following characters: \"/ # % ? * : ; { }
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
-msgstr "In stock"
+msgstr "Na sklade"
 
 msgctxt "Languages::theme_editor.links_font"
 msgid "Links"
-msgstr "Links"
+msgstr "Odkazy"
 
 msgctxt "Languages::theme_editor.link_color"
 msgid "Links"
-msgstr "Links"
+msgstr "Odkazy"
 
 msgctxt "Languages::theme_editor.logos"
 msgid "Logos"
-msgstr "Logos"
+msgstr "Logá"
 
 msgctxt "Languages::theme_editor.mail"
 msgid "Mail"
-msgstr "Mail"
+msgstr "Pošta"
 
 msgctxt "Languages::theme_editor.main"
 msgid "Main content"
-msgstr "Main content"
+msgstr "Hlavný obsah"
 
 msgctxt "Languages::theme_editor.max_image_size"
 msgid "The image must not be bigger than 200 kB."
@@ -11637,19 +11637,19 @@ msgstr "The image must not be bigger than 200 kB."
 
 msgctxt "Languages::theme_editor.menu_color"
 msgid "Menu"
-msgstr "Menu"
+msgstr "Ponuka"
 
 msgctxt "Languages::theme_editor.menu_links_color"
 msgid "Menu links"
-msgstr "Menu links"
+msgstr "Odkazy v ponuke"
 
 msgctxt "Languages::theme_editor.middle_bg"
 msgid "Middle"
-msgstr "Middle"
+msgstr "Uprostred"
 
 msgctxt "Languages::theme_editor.no_repeat"
 msgid "No repeat"
-msgstr "No repeat"
+msgstr "Bez opakovania"
 
 msgctxt "Languages::theme_editor.off"
 msgid "Off"
@@ -11773,11 +11773,11 @@ msgstr "All changes after last save will be reset"
 
 msgctxt "Languages::theme_editor.theme"
 msgid "Theme"
-msgstr "Theme"
+msgstr "Téma"
 
 msgctxt "Languages::theme_editor.top_panel"
 msgid "Top panel"
-msgstr "Top panel"
+msgstr "Horný panel"
 
 msgctxt "Languages::theme_editor.top_panel_links"
 msgid "Top panel links"
@@ -11789,27 +11789,27 @@ msgstr "Top panel text"
 
 msgctxt "Languages::theme_editor.transparent"
 msgid "Transparent"
-msgstr "Transparent"
+msgstr "Transparentné"
 
 msgctxt "Languages::theme_editor.upload_image"
 msgid "Upload image"
-msgstr "Upload image"
+msgstr "Nahrať obrázok"
 
 msgctxt "Languages::theme_editor.enable"
 msgid "Enable Theme editor"
-msgstr "Enable Theme editor"
+msgstr "Povoliť editor témy"
 
 msgctxt "Languages::theme_editor.system_fonts"
 msgid "System fonts"
-msgstr "System fonts"
+msgstr "Systémové písma"
 
 msgctxt "Languages::theme_editor.popular_fonts"
 msgid "Popular fonts"
-msgstr "Popular fonts"
+msgstr "Populárne fonty"
 
 msgctxt "Languages::theme_editor.other_fonts"
 msgid "Other fonts"
-msgstr "Other fonts"
+msgstr "Iné fonty"
 
 msgctxt "Languages::theme_editor_mode"
 msgid "Theme editor mode"
@@ -11821,19 +11821,19 @@ msgstr "This is a TEST transaction"
 
 msgctxt "Languages::this_day"
 msgid "This day"
-msgstr "This day"
+msgstr "Tento deň"
 
 msgctxt "Languages::this_month"
 msgid "This month"
-msgstr "This month"
+msgstr "Tento mesiac"
 
 msgctxt "Languages::this_week"
 msgid "This week"
-msgstr "This week"
+msgstr "Tento týždeň"
 
 msgctxt "Languages::this_year"
 msgid "This year"
-msgstr "This year"
+msgstr "Tento rok"
 
 msgctxt "Languages::ths_sign"
 msgid "Ths sign"
@@ -11841,19 +11841,19 @@ msgstr "Ths sign"
 
 msgctxt "Languages::thumb"
 msgid "Thumbnail"
-msgstr "Thumbnail"
+msgstr "Náhľad"
 
 msgctxt "Languages::thumbnail"
 msgid "Thumbnail"
-msgstr "Thumbnail"
+msgstr "Náhľad"
 
 msgctxt "Languages::thumbnails"
 msgid "Thumbnails"
-msgstr "Thumbnails"
+msgstr "Náhľady"
 
 msgctxt "Languages::thumbnails_removed"
 msgid "Thumbnails have been removed"
-msgstr "Thumbnails have been removed"
+msgstr "Náhľady boli odstránené"
 
 msgctxt "Languages::thumbnail_width"
 msgid "Thumbnail width in scroller"
@@ -11865,35 +11865,35 @@ msgstr "tier account"
 
 msgctxt "Languages::time"
 msgid "Time"
-msgstr "Time"
+msgstr "Čas"
 
 msgctxt "Languages::timeout"
 msgid "Timeout"
-msgstr "Timeout"
+msgstr "Časový limit"
 
 msgctxt "Languages::Timestamp"
 msgid "Timestamp"
-msgstr "Timestamp"
+msgstr "Časová pečiatka"
 
 msgctxt "Languages::time_interval"
 msgid "Time interval"
-msgstr "Time interval"
+msgstr "Časový interval"
 
 msgctxt "Languages::time_unlimited_download"
 msgid "Time-unlimited download"
-msgstr "Time-unlimited download"
+msgstr "Časovo neobmedzené sťahovanie"
 
 msgctxt "Languages::title"
 msgid "Title"
-msgstr "Title"
+msgstr "Názov"
 
 msgctxt "Languages::tmpl_copyright"
 msgid "Copyright information"
-msgstr "Copyright information"
+msgstr "Informácie o autorských právach"
 
 msgctxt "Languages::tmpl_logo"
 msgid "Store logo"
-msgstr "Store logo"
+msgstr "Logo obchodu"
 
 msgctxt "Languages::tmpl_payment_icons"
 msgid "Payment systems icons"
@@ -11901,11 +11901,11 @@ msgstr "Payment systems icons"
 
 msgctxt "Languages::tmpl_quick_links"
 msgid "Quick links"
-msgstr "Quick links"
+msgstr "Rýchle prepojenia"
 
 msgctxt "Languages::tmpl_search"
 msgid "Search field"
-msgstr "Search field"
+msgstr "Vyhľadávacie pole"
 
 msgctxt "Languages::to"
 msgid "TO"
@@ -11913,11 +11913,11 @@ msgstr "TO"
 
 msgctxt "Languages::today"
 msgid "Today"
-msgstr "Today"
+msgstr "Dnes"
 
 msgctxt "Languages::tools"
 msgid "Tools"
-msgstr "Tools"
+msgstr "Nástroje"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Addons count"
@@ -11925,11 +11925,11 @@ msgstr "Addons count"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
-msgstr "Current state"
+msgstr "Súčasný stav"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No addons"
-msgstr "No addons"
+msgstr "Bez doplnkov"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party addons"
@@ -11937,11 +11937,11 @@ msgstr "No third party addons"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
-msgstr "Restore defaults"
+msgstr "Obnoviť predvolené"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
-msgstr "Tooltip"
+msgstr "Tip"
 
 msgctxt "Languages::top_container_not_used"
 msgid "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
@@ -11949,11 +11949,11 @@ msgstr "This container is NOT used. Top panel container from the default locatio
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
-msgstr "Top panel"
+msgstr "Horný panel"
 
 msgctxt "Languages::total"
 msgid "Total"
-msgstr "Total"
+msgstr "Celkom"
 
 msgctxt "Languages::totally_paid"
 msgid "Total paid"
@@ -11961,7 +11961,7 @@ msgstr "Total paid"
 
 msgctxt "Languages::totals"
 msgid "Totals"
-msgstr "Totals"
+msgstr "Súčty"
 
 msgctxt "Languages::total_amount"
 msgid "Total amount"
@@ -12109,7 +12109,7 @@ msgstr "Your store is in the Trial mode.<br /><br />When the 30-day trial period
 
 msgctxt "Languages::true"
 msgid "True"
-msgstr "True"
+msgstr "Pravda"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
@@ -12173,11 +12173,11 @@ msgstr "Number of digits after the decimal sign."
 
 msgctxt "Languages::tt_views_currencies_update_dec_sign"
 msgid "Decimal separator."
-msgstr "Decimal separator."
+msgstr "Oddeľovač desatinných miest."
 
 msgctxt "Languages::tt_views_currencies_update_ths_sign"
 msgid "Thousand separator."
-msgstr "Thousand separator."
+msgstr "Oddeľovač tisícov."
 
 msgctxt "Languages::tt_views_database_manage_backup_data"
 msgid "If enabled, the database backup file includes the actual table data."
@@ -12377,7 +12377,7 @@ msgstr "Ungrouped features"
 
 msgctxt "Languages::uninstall"
 msgid "Uninstall"
-msgstr "Uninstall"
+msgstr "Odinštalovať"
 
 msgctxt "Languages::unique_html_block"
 msgid "Unique HTML block"
@@ -12385,19 +12385,19 @@ msgstr "Unique HTML block"
 
 msgctxt "Languages::unit"
 msgid "Unit"
-msgstr "Unit"
+msgstr "Jednotka"
 
 msgctxt "Languages::united_kingdom"
 msgid "United Kingdom"
-msgstr "United Kingdom"
+msgstr "Veľká Británia"
 
 msgctxt "Languages::unit_price"
 msgid "Unit price"
-msgstr "Unit price"
+msgstr "Jednotková cena"
 
 msgctxt "Languages::unknown"
 msgid "Unknown"
-msgstr "Unknown"
+msgstr "Neznáme"
 
 msgctxt "Languages::unknown_server_response"
 msgid "Unknown server response"
@@ -12405,15 +12405,15 @@ msgstr "Unknown server response"
 
 msgctxt "Languages::unmark"
 msgid "Unmark"
-msgstr "Unmark"
+msgstr "Odznačiť"
 
 msgctxt "Languages::unregistered_customer"
 msgid "Unregistered customer"
-msgstr "Unregistered customer"
+msgstr "Neregistrovaný zákazník"
 
 msgctxt "Languages::unselect_all"
 msgid "Unselect all"
-msgstr "Unselect all"
+msgstr "Zrušiť výber"
 
 msgctxt "Languages::unset_tax_to_products"
 msgid "Remove selected taxes from all products"
