@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-26 10:00-0500\n"
+"PO-Revision-Date: 2015-02-02 10:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -8557,7 +8557,7 @@ msgstr "Zasílat oznámení do vybraného"
 
 msgctxt "Languages::send_shipment_notification_to_customer"
 msgid "Send shipment notification to customer"
-msgstr "Send shipment notification to customer"
+msgstr "Zasílat oznámení zásilky zákazníkovi"
 
 msgctxt "Languages::send_shipping_address"
 msgid "Send customer shipping address"
@@ -9585,7 +9585,7 @@ msgstr "Rychlost"
 
 msgctxt "Languages::ssl_certificate"
 msgid "SSL certificate"
-msgstr "SSL certificate"
+msgstr "Certifikát SSL"
 
 msgctxt "Languages::staff_only_notes"
 msgid "Staff only notes"
@@ -9613,7 +9613,7 @@ msgstr "Den začátku"
 
 msgctxt "Languages::start_price"
 msgid "Start price"
-msgstr "Start price"
+msgstr "Počáteční cena"
 
 msgctxt "Languages::state"
 msgid "State/Province"
@@ -9737,11 +9737,11 @@ msgstr "Storefront theme"
 
 msgctxt "Languages::store_mode_will_be_changed_to_free"
 msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Kontrola integrity instalace se nezdařila. Váš obchod se přepne na bezplatnou verzi na dva dny. Obraťte se na technickou podporu <a href=\"[href]\">podpůrný tým</a>"
 
 msgctxt "Languages::store_mode_will_be_changed_to_trial"
 msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Kontrola integrity instalace se nezdařila. Váš obchod se přepne na bezplatnou verzi na dva dny. Obraťte se na technickou podporu <a href=\"[href]\">podpůrný tým</a>"
 
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
@@ -10013,23 +10013,23 @@ msgstr "Unpackaged or N/A"
 
 msgctxt "Languages::temando_package_wheel"
 msgid "Wheel/Tyre"
-msgstr "Wheel/Tyre"
+msgstr "Kolo/Pneumatiky"
 
 msgctxt "Languages::temando_subclass_excessbaggage"
 msgid "Excess Baggage"
-msgstr "Excess Baggage"
+msgstr "Nadměrná zavazadla"
 
 msgctxt "Languages::temando_subclass_furniture"
 msgid "Furniture"
-msgstr "Furniture"
+msgstr "Nábytek"
 
 msgctxt "Languages::temando_subclass_householdgoods"
 msgid "Household Goods"
-msgstr "Household Goods"
+msgstr "Domácí potřeby"
 
 msgctxt "Languages::temando_subclass_other"
 msgid "Other (etc.)"
-msgstr "Other (etc.)"
+msgstr "Ostatní (atd.)"
 
 msgctxt "Languages::temando_system"
 msgid "Temando system"
@@ -10037,19 +10037,19 @@ msgstr "Temando system"
 
 msgctxt "Languages::temando_weight_grams"
 msgid "Grams"
-msgstr "Grams"
+msgstr "Gramů"
 
 msgctxt "Languages::temando_weight_kilograms"
 msgid "Kilograms"
-msgstr "Kilograms"
+msgstr "Kilogramů"
 
 msgctxt "Languages::temando_weight_ounces"
 msgid "Ounces"
-msgstr "Ounces"
+msgstr "Uncí"
 
 msgctxt "Languages::temando_weight_pounds"
 msgid "Pounds"
-msgstr "Pounds"
+msgstr "Liber"
 
 msgctxt "Languages::template"
 msgid "Template"
@@ -10109,7 +10109,7 @@ msgstr "(zobrazeno na stránce detailů produktu v 'Dodatečné obrázky')"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
+msgstr "Modul \"[addon_name]\" je nekompatibilní s následujícími moduly: [addons]. Nemůže být povolen"
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
@@ -10297,7 +10297,7 @@ msgstr "(nepovinně zobrazeno pouze v kategorii detaily stránky)"
 
 msgctxt "Languages::text_category_has_been_deleted"
 msgid "Category, subcategories and their products have been deleted successfully."
-msgstr "Category, subcategories and their products have been deleted successfully."
+msgstr "Kategorie, podkategorie a jejich výrobky jsou úspěšně odstraněny."
 
 msgctxt "Languages::text_category_icon"
 msgid "(displayed on category list and details pages)"
@@ -10357,7 +10357,7 @@ msgstr "Jdi zpět"
 
 msgctxt "Languages::text_combination_out_of_stock"
 msgid "No products with the selected options in stock"
-msgstr "No products with the selected options in stock"
+msgstr "Výrobky s vybranými možnostmi nejsou na skladě"
 
 msgctxt "Languages::text_companies_activated"
 msgid "Selected companies have been activated"
@@ -10369,19 +10369,19 @@ msgstr "Selected companies have becs disabled"
 
 msgctxt "Languages::text_company_status_active_subj"
 msgid "Your company was activated."
-msgstr "Your company was activated."
+msgstr "Vaše společnost byla aktivována."
 
 msgctxt "Languages::text_company_status_changed"
 msgid "Status of your company [company] was changed to [status]."
-msgstr "Status of your company [company] was changed to [status]."
+msgstr "Stav vaší společnosti [company] byl změněn na [status]."
 
 msgctxt "Languages::text_company_status_disabled_subj"
 msgid "Your company was disabled."
-msgstr "Your company was disabled."
+msgstr "Vaše společnost byla zakázána."
 
 msgctxt "Languages::text_conditions_cleared"
 msgid "Table conditions were cleared"
-msgstr "Table conditions were cleared"
+msgstr "Tabulky podmínek byly smazány"
 
 msgctxt "Languages::text_confirmation_page_header"
 msgid "This is a confirmation page. You must confirm the operation before it is performed."
@@ -10441,7 +10441,7 @@ msgstr "Seznam ke stažení je prázdný"
 
 msgctxt "Languages::text_editing"
 msgid "Text editing"
-msgstr "Text editing"
+msgstr "Úpravy textu"
 
 msgctxt "Languages::text_edp_product"
 msgid "This product is electronically distributed"
@@ -10453,7 +10453,7 @@ msgstr "Elektronický klíč, který jste vložil/a není platný nebo vypršel.
 
 msgctxt "Languages::text_email_sent"
 msgid "E-mail has been sent successfully."
-msgstr "E-mail has been sent successfully."
+msgstr "E-mail byl úspěšně odeslán."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
@@ -10477,7 +10477,7 @@ msgstr "Data byla exportována úspěšně.<br />Nový objekt- <b>[new]</b>;<br 
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Data is imported successfully."
+msgstr "Data jsou úspěšně importována."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
@@ -10549,15 +10549,15 @@ msgstr "Soubor <b>[file]</b> byl úspěšně uložen"
 
 msgctxt "Languages::text_fill_the_mandatory_fields"
 msgid "You need to complete all the mandatory fields"
-msgstr "You need to complete all the mandatory fields"
+msgstr "Musíte vyplnit všechna povinná pole"
 
 msgctxt "Languages::text_forbidden_file_extension"
 msgid "It is not allowed to create/upload/rename files with the <b>.[ext]</b> extension."
-msgstr "It is not allowed to create/upload/rename files with the <b>.[ext]</b> extension."
+msgstr "Není dovoleno vytvořit/uploadovat/přejmenovat soubor s příponou <b>.[ext]</b>."
 
 msgctxt "Languages::text_forbidden_file_mime"
 msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
-msgstr "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
+msgstr "Není dovoleno vytvořit/uploadovat/přejmenovat soubor MIME <b>[mime]</b>."
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
@@ -10565,11 +10565,11 @@ msgstr "This functionality is available only in the <strong>Full mode</strong>.<
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
+msgstr "Není dovoleno nahrávat soubory s příponou <b>.[ext]</b>. Povolené přípony jsou: <b>[exts]</b>"
 
 msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
-msgstr "It is not allowed to upload files with size more than <b>[size]</b>"
+msgstr "Není dovoleno nahrávat soubory s velikostí větší než <b>[size]</b>"
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
@@ -10577,7 +10577,7 @@ msgstr "Please complete your paymcst below.<br />This is a secure paymcst page, 
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
-msgstr "<strong>Full mode</strong> required."
+msgstr "Aktivovat <strong>Plný režim</strong>."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10625,7 +10625,7 @@ msgstr "Textové odkazy"
 
 msgctxt "Languages::text_login_form"
 msgid "<h4>Not a registered member?</h4><p>Creating a new account is easy and takes less than a minute.</p>"
-msgstr "<h4>Not a registered member?</h4><p>Creating a new account is easy and takes less than a minute.</p>"
+msgstr "<h4>Není registrovaným členem?</h4><p>Vytvoření nového účtu je snadné a trvá méně než minutu.</p>"
 
 msgctxt "Languages::text_login_to_add_to_cart"
 msgid "This product cannot be added to the<br>cart because you are not logged in."
@@ -10669,15 +10669,15 @@ msgstr "Profil \"[user_login]\" byl nově vytvořen, zkontrolujte osobní údaje
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
-msgstr "Nothing found"
+msgstr "Nic nenašel"
 
 msgctxt "Languages::text_nothing_found_filter_message"
 msgid "Sorry, but nothing matched your search criteria. Please try again with some different parameter combination."
-msgstr "Sorry, but nothing matched your search criteria. Please try again with some different parameter combination."
+msgstr "Omlouváme se, ale vaše vyhledávací kritéria nebyly nalezeny. Prosím, zkuste zadat jinou kombinaci parametrů."
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension here."
+msgstr "Není dovoleno nahrávat soubory s příponou <b>.[ext]</b>."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
@@ -10709,7 +10709,7 @@ msgstr "Objednávky nenalezeny"
 
 msgctxt "Languages::text_no_payments_needed"
 msgid "No payment information required"
-msgstr "No payment information required"
+msgstr "Nejsou požadovány žádné platební informace"
 
 msgctxt "Languages::text_no_products"
 msgid "There are no products in this section"
@@ -10725,7 +10725,7 @@ msgstr "Žádné produkty nenalezeny"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
-msgstr "No shipments found"
+msgstr "Nebyly nalezeny žádné zásilky"
 
 msgctxt "Languages::text_no_shipping_methods"
 msgid "Sorry, it seems that we have no shipping options available for your location.<br/>Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
@@ -10785,7 +10785,7 @@ msgstr "The pages have becs cloned successfully. Below the list of new pages."
 
 msgctxt "Languages::text_pages_have_been_deleted"
 msgid "Pages have been deleted successfully."
-msgstr "Pages have been deleted successfully."
+msgstr "Stránky byly úspěšně odstraněny."
 
 msgctxt "Languages::text_page_changed"
 msgid "Are you sure you want to leave this page? Your changes have not been saved. Click on OK to continue, or on Cancel to stay on the current page."
@@ -10793,7 +10793,7 @@ msgstr "Jste si jisti, že chcete opustit tuto stránku? Provedené změny nebyl
 
 msgctxt "Languages::text_page_has_been_deleted"
 msgid "Page has been deleted successfully."
-msgstr "Page has been deleted successfully."
+msgstr "Stránka byla úspěšně odstraněna."
 
 msgctxt "Languages::text_page_loading"
 msgid "Loading... Your request is being processed, please wait."
@@ -10801,7 +10801,7 @@ msgstr "Zpracovávám ... Váš požadavek se vyřizuje, prosím čekejte."
 
 msgctxt "Languages::text_password_recovery_instructions_sent"
 msgid "Password recovery instructions have been sent to your email."
-msgstr "Password recovery instructions have been sent to your email."
+msgstr "Pokyny pro obnovení hesla byly odeslány na Váš email."
 
 msgctxt "Languages::text_pay4later_notice"
 msgid "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
@@ -10813,19 +10813,19 @@ msgstr "<b>Note:</b> Please download the file modulev2.cgi from the PayBox serve
 
 msgctxt "Languages::text_payment_have_been_deleted"
 msgid "Payment have been deleted successfully."
-msgstr "Payment have been deleted successfully."
+msgstr "Platba byla úspěšně odstraněna."
 
 msgctxt "Languages::text_payment_have_not_been_deleted"
 msgid "Payment cannot be deleted."
-msgstr "Payment cannot be deleted."
+msgstr "Platbu nelze odstranit."
 
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
-msgstr "Please wait while processing the payment details..."
+msgstr "Počkejte, prosím, než jsou zpracovávány Vaše platební údaje..."
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
-msgstr "Debug Information"
+msgstr "Informace o ladění"
 
 msgctxt "Languages::text_paysitecash_mode"
 msgid "Mode"
@@ -10833,11 +10833,11 @@ msgstr "Mode"
 
 msgctxt "Languages::text_paysitecash_mode_debug_off"
 msgid "OFF"
-msgstr "OFF"
+msgstr "VYPNUTO"
 
 msgctxt "Languages::text_paysitecash_mode_debug_on"
 msgid "ON"
-msgstr "ON"
+msgstr "ZAPNUTO"
 
 msgctxt "Languages::text_paysitecash_mode_live"
 msgid "Live"
