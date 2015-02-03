@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-02 12:00-0500\n"
+"PO-Revision-Date: 2015-02-03 05:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -45,11 +45,11 @@ msgstr "Stav objednávky"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Maska telefonu"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Ponechte prázdné pro použití automatického tvaru tel. čísla pro danou zemi, nebo vložte vlastní tvar. Můžete používat mezery, čárky, znaky +, -, a číslice. Číslice 9 zastupuje jakoukoliv číslici; pokud potřebujete číslici 9, zadejte \\\\ 9. Prírklady: +9 (999) 999 99 99, 99999999, 999 999 99 or + 99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
@@ -149,5 +149,5 @@ msgstr "Není zadáno jméno"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Call request and buy now with one click form"
+msgstr "Požadavek na zavolání a koupi hned jedním klikem"
 

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-02 10:00-0500\n"
+"PO-Revision-Date: 2015-02-03 05:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -9717,11 +9717,11 @@ msgstr "Poloha obchodu"
 
 msgctxt "Languages::store_mode"
 msgid "Licensing mode"
-msgstr "Licensing mode"
+msgstr "Způsob správy licencí"
 
 msgctxt "Languages::store_mode_changed"
 msgid "Licensing mode has been changed"
-msgstr "Licensing mode has been changed"
+msgstr "Režim správy licencí byl změněn"
 
 msgctxt "Languages::store_number"
 msgid "Store number"
@@ -9729,7 +9729,7 @@ msgstr "Číslo obchodu"
 
 msgctxt "Languages::store_object_denied"
 msgid "The [object_type] [object_name] is unavailable for this store."
-msgstr "The [object_type] [object_name] is unavailable for this store."
+msgstr "[object_type] [object_name] není k dispozici pro tento obchod."
 
 msgctxt "Languages::store_theme"
 msgid "Storefront theme"
@@ -10113,11 +10113,11 @@ msgstr "Modul \"[addon_name]\" je nekompatibilní s následujícími moduly: [ad
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Tyto doplňky budou automaticky zakázána."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Z tohoto důvodu nejsou automaticky povolena. Chcete-li aktivovat add-on, musíte ji aktivovat ručně a nekompatibilní doplňky budou vypnuta automaticky."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
@@ -10125,7 +10125,7 @@ msgstr "Doplněk <b>\"[addon]\"</b> byl v pořádku nainstalován"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
-msgstr "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
+msgstr "Doplněk nelze nainstalovat, protože závislost na [addon] doplňku je nastavena jenom pro něj. Prosím, nainstalujte doplněk [addon] nejprve."
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
@@ -10145,7 +10145,7 @@ msgstr "Tato sekce ukazuje objednávky, které jste nikdy neprohlédl/a."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Jsou podporovány následující přípony souborů: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10157,7 +10157,7 @@ msgstr "No response from Amazon Checkout has becs received yet, please hold on. 
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
-msgstr "Number of products in your cart differs from the number of products in the Amazon request."
+msgstr "Počet položek ve vašem nákupním košíku se liší od počtu zboží v dotazu Amazon."
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
@@ -10173,7 +10173,7 @@ msgstr "Pro pokračování na pokladnu musíte být registrovaným uživatelem"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Přepočítat přepravní náklady"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -10181,7 +10181,7 @@ msgstr "Gratulujeme Vám! Získali jste následující akci(s)"
 
 msgctxt "Languages::text_are_you_sure_to_delete_file"
 msgid "Are you sure you want to delete the item?"
-msgstr "Are you sure you want to delete the item?"
+msgstr "Jste si jisti, že chcete položku odstranit?"
 
 msgctxt "Languages::text_are_you_sure_to_proceed"
 msgid "Are you sure you want to proceed?"
@@ -10277,15 +10277,15 @@ msgstr "Množství zboží dostupné není dost pro vaši objednávku"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
-msgstr "<b>[product]</b> has zero inventory and cannot be added to the cart"
+msgstr "<b>[product]</b> má nulové zásoby a nelze ji přidat do košíku"
 
 msgctxt "Languages::text_cart_zero_inventory_and_removed"
 msgid "<b>[product]</b> has zero inventory and is removed from the cart"
-msgstr "<b>[product]</b> has zero inventory and is removed from the cart"
+msgstr "<b>[product]</b> má nulové zásoby a je odebrán z vozíku"
 
 msgctxt "Languages::text_categories_have_been_deleted"
 msgid "Categories have been deleted successfully."
-msgstr "Categories have been deleted successfully."
+msgstr "Kategorie byla úspěšně odstraněna."
 
 msgctxt "Languages::text_category_delimiter"
 msgid "Category path delimiter for product main category (e.g. \"Computers///Desktops\")"
@@ -10853,11 +10853,11 @@ msgstr "Currency mode"
 
 msgctxt "Languages::text_paysitecash_nocurrencies_no"
 msgid "Allow customer select any of supported currency"
-msgstr "Allow customer select any of supported currency"
+msgstr "Nechte zákazníka zvolit některou z podporovaných měn"
 
 msgctxt "Languages::text_paysitecash_nocurrencies_yes"
 msgid "Do not show currency selection at all"
-msgstr "Do not show currency selection at all"
+msgstr "Nezobrazovat vybranou měnu"
 
 msgctxt "Languages::text_paysitecash_notice"
 msgid "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
@@ -10905,7 +10905,7 @@ msgstr "The products have becs cloned successfully. Below the list of new produc
 
 msgctxt "Languages::text_products_have_been_deleted"
 msgid "Products have been deleted successfully."
-msgstr "Products have been deleted successfully."
+msgstr "Produkty byly úspěšně odstraněny."
 
 msgctxt "Languages::text_products_updated"
 msgid "The following products have been updated:"
@@ -10933,7 +10933,7 @@ msgstr "The following <a href=\"[url]\" target=\"_blank\">product filters</a> we
 
 msgctxt "Languages::text_product_has_been_deleted"
 msgid "Product has been deleted successfully."
-msgstr "Product has been deleted successfully."
+msgstr "Produkt byl úspěšně odstraněn."
 
 msgctxt "Languages::text_product_thumbnail"
 msgid "(displayed on products list and product details pages)"
@@ -10993,7 +10993,7 @@ msgstr "Vložte prosím vaše údaje. Systém bude resetovat vaše staré heslo 
 
 msgctxt "Languages::text_recover_password_title"
 msgid "Reset password"
-msgstr "Reset password"
+msgstr "Obnovení hesla"
 
 msgctxt "Languages::text_redactor"
 msgid "Redactor"
@@ -11013,7 +11013,7 @@ msgstr "Vyberte prosím produkt z požadované skupiny [group_name]"
 
 msgctxt "Languages::text_reset_inventory_description"
 msgid "Quantity of all products in the store will be reset."
-msgstr "Quantity of all products in the store will be reset."
+msgstr "Množství všech produktů v obchodě se vynulují."
 
 msgctxt "Languages::text_restore_question"
 msgid "Are you sure that you want to restore the template?"
@@ -11045,11 +11045,11 @@ msgstr "Můžete vybrat rozsah pro export (jiank bude všechno [name] exportová
 
 msgctxt "Languages::text_share_product_features_tooltip"
 msgid "Attention! Some data will not be copied during this operation: the categories set in filters will be lost even if you copy all categories. Please, fix categories manually."
-msgstr "Attention! Some data will not be copied during this operation: the categories set in filters will be lost even if you copy all categories. Please, fix categories manually."
+msgstr "Pozor! Některá data nebudou zkopírovány v průběhu tohoto procesu: kategorie uvedených ve filtrech budou ztraceny, i když zkopírujete všechny kategorie. Prosím, opravte kategorie ručně."
 
 msgctxt "Languages::text_share_product_filters_tooltip"
 msgid "Attention! Some data will not be copied during this operation: the categories set in features will be lost even if you copy all categories. Please, fix categories manually."
-msgstr "Attention! Some data will not be copied during this operation: the categories set in features will be lost even if you copy all categories. Please, fix categories manually."
+msgstr "Pozor! Některá data nebudou zkopírovány v průběhu tohoto procesu: kategorie uvedených ve filtrech budou ztraceny, i když zkopírujete všechny kategorie. Prosím, opravte kategorie ručně."
 
 msgctxt "Languages::text_share_promotions_tooltip"
 msgid "In order to share promotions make sure the respective products are also shared (check Share products below)"
