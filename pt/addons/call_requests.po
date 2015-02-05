@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-02 12:00-0500\n"
+"PO-Revision-Date: 2015-02-05 08:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -33,7 +33,7 @@ msgstr "Reescrever o telefone"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr "Highlight first chars"
+msgstr "Destaque as  primeiras letras"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -45,15 +45,15 @@ msgstr "Status do pedido"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Máscara de telefone"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Deixar vazio para usar o padrão de telefone automático baseado no país, ou digite em um padrão personalizado. Você pode usar espaços, vírgulas, +, - e dígitos. Note que 9 representa qualquer dígito; Se você precisa de um 9, digite \\\9. Exemplos: + 9 (999) 999 99 99, 99999999, 999 999 99 ou +99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Incluindo o parêntese, espaços, etc. Utilize para destacar o código de país, código de área e prefixo de telefone."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
@@ -149,5 +149,5 @@ msgstr "Nenhum nome especificado"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Call request and buy now with one click form"
+msgstr "Formulário de Faça sua chamada e compre agora com um clique"
 

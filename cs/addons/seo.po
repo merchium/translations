@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/seo.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-03 05:00-0500\n"
+"PO-Revision-Date: 2015-02-05 09:00-0500\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -29,7 +29,7 @@ msgstr "Spravuje přesměrování pravidla ze staré URL"
 
 msgctxt "Languages::controller_description"
 msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
-msgstr "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Chcete-li pro URL adresu zadat SEO název, např. http://example.com/index.php?dispatch=<b>categories.catalog</b>, musíte zadat hodnotu \"<b>categories.catalog</b>\" do pole \"<b> Hodnota parametru 'odeslání' z URL</b>\" a specifikovat SEO název do pole \"<b>SEO název</b>\"."
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
@@ -37,7 +37,7 @@ msgstr "Název SEO"
 
 msgctxt "Languages::warning_seo_urls_disabled"
 msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
-msgstr "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "URL optimalizované pro SEO jsou vypnuty. Zkontrolujte nastavení svého webového serveru."
 
 msgctxt "Languages::dispatch_value"
 msgid "Dispatch value"
@@ -61,7 +61,7 @@ msgstr "strana [n]"
 
 msgctxt "Languages::privileges.manage_seo_rules"
 msgid "Manage SEO rules and 301 redirects"
-msgstr "Manage SEO rules and 301 redirects"
+msgstr "Spravovat pravidla SEO a přesměrování 301"
 
 msgctxt "Languages::privileges.view_seo_rules"
 msgid "View SEO rules and 301 redirects"
@@ -105,11 +105,11 @@ msgstr "Vytvořte staré přesměrování URL"
 
 msgctxt "Languages::seo.error_incorrect_url"
 msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Nesprávný formát pro <b>[url]</b> URL. Například, pokud vaše adresa URL je <b>http://example.com/path/to/object</b>, budete muset zadat <b>/path/to/object</b>"
 
 msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
 msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Například, pokud vaše adresa URL je <b>http://example.com/path/to/object</b>, budete muset zadat <b>/path/to/object</b>"
 
 msgctxt "SettingsSections::seo::general"
 msgid "General"

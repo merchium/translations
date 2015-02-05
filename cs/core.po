@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-03 05:00-0500\n"
+"PO-Revision-Date: 2015-02-05 09:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -801,7 +801,7 @@ msgstr "Šipky"
 
 msgctxt "Languages::asc"
 msgid "asc."
-msgstr "asc."
+msgstr "věkem."
 
 msgctxt "Languages::attention"
 msgid "Attention!"
@@ -1009,7 +1009,7 @@ msgstr "Bar"
 
 msgctxt "Languages::base_currency"
 msgid "Base"
-msgstr "Base"
+msgstr "Základ"
 
 msgctxt "Languages::base_currency_not_deleted"
 msgid "The currency has not been deleted because it is the base currency of the store."
@@ -1093,7 +1093,7 @@ msgstr "Aktuální informace o objednávce"
 
 msgctxt "Languages::block_content"
 msgid "Block content"
-msgstr "Block content"
+msgstr "Obsah bloku"
 
 msgctxt "Languages::block_currencies"
 msgid "Currencies"
@@ -1241,7 +1241,7 @@ msgstr "Stránky"
 
 msgctxt "Languages::block_pages_description"
 msgid "Store pages"
-msgstr "Store pages"
+msgstr "Uložení stránek"
 
 msgctxt "Languages::block_payment_methods"
 msgid "Payment methods"
@@ -1305,11 +1305,11 @@ msgstr "Šířka bloku"
 
 msgctxt "Languages::block_wrapper_updated"
 msgid "Block wrapper was updated"
-msgstr "Block wrapper was updated"
+msgstr "Obal bloku byl aktualizován"
 
 msgctxt "Languages::bm_confirm"
 msgid "Performing this action will [action] this block on all the [location_name] pages. Do you want to continue?"
-msgstr "Performing this action will [action] this block on all the [location_name] pages. Do you want to continue?"
+msgstr "Provedením této akce bude [action] tento blok na všech stránkách [location_name]. Chcete pokračovat?"
 
 msgctxt "Languages::body"
 msgid "Body"
@@ -1373,7 +1373,7 @@ msgstr "Prohlížet..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
+msgstr "<p>Zjistili jsme, že prohlížeč který používáte není plně podporován naším Admin Panel. Můžete zobrazit tuto lokalitu pomocí svého aktuálního prohlížeče, ale to se nemusí zobrazovat správně a nebudete moci plně využít všechny funkce.</p><br><p>Admin Panel je optimalizován pomocí těchto prohlížečů:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 a vyšší</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (Nejnovější verze)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (Poslední verze)</a></li></ul><br><p>Klikněte na jeden z odkazů na stažení prohlížeče dle vašeho výběru. Po dokončení stahování, nainstalujte prohlížeč spuštěním instalačního programu.</p><br><p>Pokud nemůžete inovovat svůj prohlížeč teď, budete mít stále přístup k Admin Panel, ale nebudete moci plně využít všechny funkce.<br><a href=\"[url]\">Pokračovat</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -1653,11 +1653,11 @@ msgstr "CDN nastavení"
 
 msgctxt "Languages::central"
 msgid "Central"
-msgstr "Central"
+msgstr "Ústřední"
 
 msgctxt "Languages::central_content"
 msgid "Central content"
-msgstr "Central content"
+msgstr "Ústřední obsah"
 
 msgctxt "Languages::certificate"
 msgid "Certificate"
@@ -2289,11 +2289,11 @@ msgstr "Toto číslo je vytištěno v oblasti podpisu na zadní straně karty. J
 
 msgctxt "Languages::credit_memo"
 msgid "Credit memo"
-msgstr "Credit memo"
+msgstr "Úvěr"
 
 msgctxt "Languages::credit_memo_id"
 msgid "Credit memo ID"
-msgstr "Credit memo ID"
+msgstr "Úvěr ID"
 
 msgctxt "Languages::cresecureapitoken"
 msgid "CRE SecureAPIToken"
@@ -12825,7 +12825,7 @@ msgstr "Název obchodu"
 
 msgctxt "Languages::vendor_pages"
 msgid "Store pages"
-msgstr "Store pages"
+msgstr "Uložení stránek"
 
 msgctxt "Languages::version"
 msgid "Version"
@@ -15538,4 +15538,8 @@ msgstr "Restore the default robots.txt"
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
 msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+
+msgctxt "Languages::option_exceptions"
+msgid "Option exceptions"
+msgstr "Option exceptions"
 
