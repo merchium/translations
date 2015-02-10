@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/tags.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-14 22:00-0500\n"
+"PO-Revision-Date: 2015-02-10 07:01-0500\n"
 
 msgctxt "Addons::name::tags"
 msgid "Tags"
@@ -23,14 +23,6 @@ msgctxt "Languages::tags_menu_description"
 msgid "Manage product and content page tags."
 msgstr "ショップの各ページに追加されたタグを管理します。"
 
-msgctxt "Languages::tmpl_my_tag_cloud"
-msgid "My tag cloud"
-msgstr "マイタグクラウド"
-
-msgctxt "Languages::popular_tags"
-msgid "Popular tags"
-msgstr "人気のタグ"
-
 msgctxt "Languages::sign_in_to_enter_tags"
 msgid "Sign in to enter tags"
 msgstr "ログインしてタグを登録"
@@ -38,14 +30,6 @@ msgstr "ログインしてタグを登録"
 msgctxt "Languages::tag_cloud"
 msgid "Tag cloud"
 msgstr "タグクラウド"
-
-msgctxt "Languages::my_tags"
-msgid "My tags"
-msgstr "マイタグ"
-
-msgctxt "Languages::my_tags_summary"
-msgid "My tags summary"
-msgstr "マイタグの概要"
 
 msgctxt "Languages::tags"
 msgid "Tags"
@@ -64,20 +48,12 @@ msgid "add a tag"
 msgstr "タグの追加"
 
 msgctxt "Languages::items_marked_by_tag"
-msgid "Items marked by the tag \"[tag]\":"
-msgstr "タグ　\"[tag]\"　が登録された商品・ページ"
-
-msgctxt "Languages::my_items_marked_by_tag"
-msgid "My items marked by the tag \"[tag]\":"
-msgstr "タグ \"[tag]\" :"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "Items marked by the \"[tag]\" tag:"
 
 msgctxt "Languages::tag"
 msgid "Tag"
 msgstr "タグ"
-
-msgctxt "Languages::new_tag"
-msgid "New tag"
-msgstr "タグの追加"
 
 msgctxt "Languages::add_tag"
 msgid "Add tag"

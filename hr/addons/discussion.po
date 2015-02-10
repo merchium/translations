@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-22 03:00-0500\n"
+"PO-Revision-Date: 2015-02-10 07:00-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -38,10 +38,6 @@ msgstr "Knjiga gostiju"
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
 msgstr "Upravljanje svjedočanstvima posjetitelja iz vaše trgovine."
-
-msgctxt "Languages::discussion_title_news"
-msgid "Comments"
-msgstr "Komentari"
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -191,10 +187,6 @@ msgctxt "SettingsSections::discussion::orders"
 msgid "Orders"
 msgstr "Narudžbe"
 
-msgctxt "SettingsSections::discussion::news"
-msgid "News"
-msgstr "Vijesti"
-
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
 msgstr "Popis darova"
@@ -262,26 +254,6 @@ msgstr "Dopustite kupcu da pokrene raspravu"
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
 msgstr "Slanje obavijesti prodavatelju"
-
-msgctxt "SettingsOptions::discussion::news_posts_per_page"
-msgid "Posts per page"
-msgstr "Postova po stranici"
-
-msgctxt "SettingsOptions::discussion::news_post_approval"
-msgid "Administrator must approve posts submitted by"
-msgstr "Administrator mora odobriti postove koje podnose"
-
-msgctxt "SettingsOptions::discussion::news_post_ip_check"
-msgid "Only one post from one IP is allowed"
-msgstr "Dopušten je samo jedan post od jedne IP"
-
-msgctxt "SettingsOptions::discussion::news_notification_email"
-msgid "Send notifications to this E-mail"
-msgstr "Pošalji obavijesti na e-mail"
-
-msgctxt "SettingsOptions::discussion::news_share_discussion"
-msgid "Share discussion with news"
-msgstr "Podijelite razgovor s vijestima"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -416,18 +388,6 @@ msgid "Only anonymous customers"
 msgstr "Samo anonimni kupci"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
-msgid "No approval needed"
-msgstr "Nije potrebno odobrenje"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::any"
-msgid "Any customer"
-msgstr "Svaki kupac"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
-msgid "Only anonymous customers"
-msgstr "Samo anonimni kupci"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
 msgstr "Nije potrebno odobrenje"
 

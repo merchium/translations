@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-22 03:01-0500\n"
+"PO-Revision-Date: 2015-02-10 07:01-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -38,10 +38,6 @@ msgstr "ゲストブック"
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
 msgstr "お客様の声の管理"
-
-msgctxt "Languages::discussion_title_news"
-msgid "Comments"
-msgstr "コメント"
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -191,10 +187,6 @@ msgctxt "SettingsSections::discussion::orders"
 msgid "Orders"
 msgstr "注文"
 
-msgctxt "SettingsSections::discussion::news"
-msgid "News"
-msgstr "新着情報"
-
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
 msgstr "ギフト登録"
@@ -262,26 +254,6 @@ msgstr "顧客からのコメント投稿を許可"
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
 msgstr "出品者に通知"
-
-msgctxt "SettingsOptions::discussion::news_posts_per_page"
-msgid "Posts per page"
-msgstr "1ページあたりの表示件数"
-
-msgctxt "SettingsOptions::discussion::news_post_approval"
-msgid "Administrator must approve posts submitted by"
-msgstr "投稿について管理者の承認が必要な顧客タイプ"
-
-msgctxt "SettingsOptions::discussion::news_post_ip_check"
-msgid "Only one post from one IP is allowed"
-msgstr "1IPにつき1件の投稿のみ許可"
-
-msgctxt "SettingsOptions::discussion::news_notification_email"
-msgid "Send notifications to this E-mail"
-msgstr "投稿通知先Eメール"
-
-msgctxt "SettingsOptions::discussion::news_share_discussion"
-msgid "Share discussion with news"
-msgstr "新着情報へのコメントを複数ショップで共有"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -416,18 +388,6 @@ msgid "Only anonymous customers"
 msgstr "会員登録なしの顧客のみ"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
-msgid "No approval needed"
-msgstr "承認不要"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::any"
-msgid "Any customer"
-msgstr "すべての顧客"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
-msgid "Only anonymous customers"
-msgstr "会員登録なしの顧客のみ"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
 msgstr "承認不要"
 

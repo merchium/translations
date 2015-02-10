@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-03 16:00-0500\n"
+"PO-Revision-Date: 2015-02-10 06:00-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -34,6 +34,10 @@ msgstr "Yönetici uygulaması"
 msgctxt "SettingsSections::twigmo::addon"
 msgid "Upgrade"
 msgstr "Yükselt"
+
+msgctxt "SettingsSections::twigmo::twg_push"
+msgid "Push notifications"
+msgstr "Push bildirimleri"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -732,8 +736,8 @@ msgid "Mobile app"
 msgstr "Mobil uygulaması"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
-msgid "QR code for the app login page"
-msgstr "Uygulama giriş sayfası için QR kodu"
+msgid "QR code for the app<br>login page"
+msgstr "Uygulama<br> giriş sayfası için QR kodu"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
@@ -766,4 +770,60 @@ msgstr "Ürün kodunu ürün ayrıntıları sayfasında göster"
 msgctxt "Languages::twapp_add_account"
 msgid "Add account"
 msgstr "Hesap ekle"
+
+msgctxt "Languages::twapp_pull_to_refresh"
+msgid "Pull to refresh"
+msgstr "Yenilemek için aşağıya çekin"
+
+msgctxt "Languages::twapp_release_to_refresh"
+msgid "Release to refresh"
+msgstr "Yenilemek için bırak bırakın"
+
+msgctxt "Languages::twapp_could_not_connect"
+msgid "Could not connect to the Twigmo add-on at [URL]."
+msgstr "[URL] ' deki Twigmo eklentisine bağlanılamadı."
+
+msgctxt "Languages::twgadmin_push_notifications"
+msgid "Push notifications"
+msgstr "Push bildirimleri"
+
+msgctxt "Languages::twgadmin_send_push_notifications"
+msgid "Send push notifications to your mobile store app users"
+msgstr "Mobil mağaza uygulama kullanıcılarınıza Push bildirimleri gönderin"
+
+msgctxt "Languages::twgadmin_select_store_short"
+msgid "Select a store"
+msgstr "Bir mağaza seçin"
+
+msgctxt "Languages::twgadmin_push_notification_text"
+msgid "Push notification text"
+msgstr "Push bildirim metni"
+
+msgctxt "Languages::twgadmin_push_notification_comment"
+msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
+msgstr "Lütfen Push bildirimler konusunda <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\"> Apple</a> ve <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\"> Google</a> politikalarını inceleyiniz. Bu politikaların ihlal edilmesi uygulamanızın engellenmesine neden olabilir."
+
+msgctxt "Languages::twgadmin_push_will_send_to"
+msgid "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
+msgstr "Bu mesaj mağaza uygulama kullanıcılarınızda <b>[ios_amount]</b>  adet IOS ve <b>[android_amount]</b> Android kullanıcılarına gönderilecektir."
+
+msgctxt "Languages::twgadmin_push_has_uploaded"
+msgid "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
+msgstr "Mesajınızı sunucuya yüklendi ve mobil uygulama kullanıcılara gönderme işlemi başladı. (bu işlem kullanıcı sayısına bağlı olarak bir saat kadar sürebilir)."
+
+msgctxt "Languages::twgadmin_send_push"
+msgid "Send push notifications about order status update to the mobile store app users"
+msgstr "Sipariş durum güncellemeleri hakkında Push bildirimleri mobil mağaza uygulaması kullanıcılarına gönder"
+
+msgctxt "Languages::twgadmin_send_push_error"
+msgid "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
+msgstr "Oops, bir şeyler ters gitti. İletinizin gönderildiğini doğrulayamıyoruz.  Lütfen bu sorunu çözmek için <a href=\"http://support.twigmo.com\" target=\"_blank\"> Twigmo destek ekibiyle bağlantı kurun</a>."
+
+msgctxt "Languages::twgadmin_order_via_twigmo_app_android"
+msgid "[This order was placed via Twigmo Mobile Application for Android]"
+msgstr "[Bu sipariş Android için Twigmo Mobile uygulaması ile verildi]"
+
+msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
+msgid "[This order was placed via Twigmo Mobile Application for iOS]"
+msgstr "[Bu IOS için Twigmo Mobile uygulaması ile verildi]"
 

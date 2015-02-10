@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-22 03:01-0500\n"
+"PO-Revision-Date: 2015-02-10 07:01-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -38,10 +38,6 @@ msgstr "Βιβλίο επισκεπτών"
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
 msgstr "Διαχείριση των \"μαρτυριών\" των πελατών από το κατάστημά σας."
-
-msgctxt "Languages::discussion_title_news"
-msgid "Comments"
-msgstr "Σχόλια"
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -191,10 +187,6 @@ msgctxt "SettingsSections::discussion::orders"
 msgid "Orders"
 msgstr "Παραγγελίες"
 
-msgctxt "SettingsSections::discussion::news"
-msgid "News"
-msgstr "Ειδήσεις"
-
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
 msgstr "Λίστα επιθυμητών αγορών"
@@ -262,26 +254,6 @@ msgstr "Δυνατότητα του πελάτη να ξεκινήσει συζ�
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
 msgstr "Αποστολή ειδοποίησης στον πωλητή"
-
-msgctxt "SettingsOptions::discussion::news_posts_per_page"
-msgid "Posts per page"
-msgstr "Δημοσιεύσεις ανα σελίδα"
-
-msgctxt "SettingsOptions::discussion::news_post_approval"
-msgid "Administrator must approve posts submitted by"
-msgstr "Ο διαχειριστής πρέπει να εγκρίνει τις δημοσιεύσεις που υπέβαλε η"
-
-msgctxt "SettingsOptions::discussion::news_post_ip_check"
-msgid "Only one post from one IP is allowed"
-msgstr "Επιτρέπεται μόνο μια δημοσίευση από μια IP"
-
-msgctxt "SettingsOptions::discussion::news_notification_email"
-msgid "Send notifications to this E-mail"
-msgstr "Αποστολή κοινοποιήσεων σε αυτό τo μήνυμα ηλεκτρονικού ταχυδρομείου( e-mail)"
-
-msgctxt "SettingsOptions::discussion::news_share_discussion"
-msgid "Share discussion with news"
-msgstr "Μοιραστείτε τη συζήτηση στις ειδήσεις"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -416,18 +388,6 @@ msgid "Only anonymous customers"
 msgstr "Μόνο μη καταχωρημένοι πελάτες"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
-msgid "No approval needed"
-msgstr "Δεν απαιτείται έγκριση"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::any"
-msgid "Any customer"
-msgstr "Οποιοσδήποτε πελάτης"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
-msgid "Only anonymous customers"
-msgstr "Μόνο μη καταχωρημένοι πελάτες"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
 msgstr "Δεν απαιτείται έγκριση"
 

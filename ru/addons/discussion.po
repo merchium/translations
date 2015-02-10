@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-03 07:00-0500\n"
+"PO-Revision-Date: 2015-02-10 07:02-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -38,10 +38,6 @@ msgstr "Гостевая книга"
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
 msgstr "Управление отзывами посетителей вашего магазина."
-
-msgctxt "Languages::discussion_title_news"
-msgid "Comments"
-msgstr "Комментарии"
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -191,10 +187,6 @@ msgctxt "SettingsSections::discussion::orders"
 msgid "Orders"
 msgstr "Заказы"
 
-msgctxt "SettingsSections::discussion::news"
-msgid "News"
-msgstr "Новости"
-
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
 msgstr "События"
@@ -262,26 +254,6 @@ msgstr "Позволить пользователю начать обсужде�
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
 msgstr "Отправлять оповещения продавцу"
-
-msgctxt "SettingsOptions::discussion::news_posts_per_page"
-msgid "Posts per page"
-msgstr "Записей на странице"
-
-msgctxt "SettingsOptions::discussion::news_post_approval"
-msgid "Administrator must approve posts submitted by"
-msgstr "Администратор должен утверждать оставленные сообщения"
-
-msgctxt "SettingsOptions::discussion::news_post_ip_check"
-msgid "Only one post from one IP is allowed"
-msgstr "Разрешить оставлять только одно сообщение с одного IP-адреса"
-
-msgctxt "SettingsOptions::discussion::news_notification_email"
-msgid "Send notifications to this E-mail"
-msgstr "Отправлять оповещения на данный почтовый адрес"
-
-msgctxt "SettingsOptions::discussion::news_share_discussion"
-msgid "Share discussion with news"
-msgstr "Разделить обсуждение с новостями"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -416,18 +388,6 @@ msgid "Only anonymous customers"
 msgstr "Только гости"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
-msgid "No approval needed"
-msgstr "Подтверждение не требуется"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::any"
-msgid "Any customer"
-msgstr "Любой покупатель"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
-msgid "Only anonymous customers"
-msgstr "Только гости"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
 msgstr "Подтверждение не требуется"
 

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/discussion.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-05 12:00-0500\n"
+"PO-Revision-Date: 2015-02-10 10:00-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -38,10 +38,6 @@ msgstr "Návštevná kniha"
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
 msgstr "Spravovať posudky od návštevníkov vášho obchodu."
-
-msgctxt "Languages::discussion_title_news"
-msgid "Comments"
-msgstr "Komentáre"
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -191,10 +187,6 @@ msgctxt "SettingsSections::discussion::orders"
 msgid "Orders"
 msgstr "Objednávky"
 
-msgctxt "SettingsSections::discussion::news"
-msgid "News"
-msgstr "Novinky"
-
 msgctxt "SettingsSections::discussion::gift_registry"
 msgid "Gift registry"
 msgstr "Zoznam darčekov"
@@ -262,26 +254,6 @@ msgstr "Umožniť zákazníkom iniciovať diskusiu"
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
 msgstr "Odoslať upozornenia predajcovi"
-
-msgctxt "SettingsOptions::discussion::news_posts_per_page"
-msgid "Posts per page"
-msgstr "Príspevkov na stranu"
-
-msgctxt "SettingsOptions::discussion::news_post_approval"
-msgid "Administrator must approve posts submitted by"
-msgstr "Správca musí schváliť príspevky používateľa"
-
-msgctxt "SettingsOptions::discussion::news_post_ip_check"
-msgid "Only one post from one IP is allowed"
-msgstr "Je povolený iba jeden príspevok z jednej IP adresy"
-
-msgctxt "SettingsOptions::discussion::news_notification_email"
-msgid "Send notifications to this E-mail"
-msgstr "Posielať upozornenia na e-mail"
-
-msgctxt "SettingsOptions::discussion::news_share_discussion"
-msgid "Share discussion with news"
-msgstr "Zdieľať diskusiu s novinkami"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -416,18 +388,6 @@ msgid "Only anonymous customers"
 msgstr "Len anonymní zákazníci"
 
 msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
-msgid "No approval needed"
-msgstr "Schválenie nie je potrebné"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::any"
-msgid "Any customer"
-msgstr "Každý zákazník"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::anonymous"
-msgid "Only anonymous customers"
-msgstr "Len anonymní zákazníci"
-
-msgctxt "SettingsVariants::discussion::news_post_approval::disabled"
 msgid "No approval needed"
 msgstr "Schválenie nie je potrebné"
 

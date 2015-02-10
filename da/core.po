@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-04 10:00-0500\n"
+"PO-Revision-Date: 2015-02-10 07:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -542,10 +542,6 @@ msgstr "Lavet af [company_name]."
 msgctxt "Languages::advanced"
 msgid "Advanced"
 msgstr "Avanceret"
-
-msgctxt "Languages::advanced_filter"
-msgid "Advanced filter"
-msgstr "Avanceret filter"
 
 msgctxt "Languages::advanced_search"
 msgid "Advanced search"
@@ -3083,10 +3079,6 @@ msgctxt "Languages::display_message"
 msgid "Display message"
 msgstr "Display besked"
 
-msgctxt "Languages::display_more_variants_count"
-msgid "Number of displayed filter variants  before the \"view all\" link"
-msgstr "Antallet af viste filtervarianter før linket \"Vis alle\""
-
 msgctxt "Languages::display_on"
 msgid "Display on"
 msgstr "Vis på"
@@ -3096,8 +3088,8 @@ msgid "Display type"
 msgstr "fremvisnings type"
 
 msgctxt "Languages::display_variants_count"
-msgid "Number of displayed filter variants before the \"more\" link"
-msgstr "Antallet af viste filtervarianter før linket \"flere\""
+msgid "Number of displayed filter variants before scroll"
+msgstr "Number of displayed filter variants before scroll"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -4597,7 +4589,7 @@ msgstr "Omfatte CVN"
 
 msgctxt "Languages::including_discount"
 msgid "Including discount"
-msgstr "inkludere rabat"
+msgstr "Inklusiv rabat"
 
 msgctxt "Languages::including_tax"
 msgid "Including tax"
@@ -6301,7 +6293,7 @@ msgstr "Ordre informationer"
 
 msgctxt "Languages::order_discount"
 msgid "Order discount"
-msgstr "Order rabat"
+msgstr "Ordre rabat"
 
 msgctxt "Languages::order_id"
 msgid "Order ID"
@@ -7509,7 +7501,7 @@ msgstr "Rabat på alle varer i kategorier"
 
 msgctxt "Languages::promotion_bonus_discount_on_products"
 msgid "Discount on products"
-msgstr "Rabat på produkt"
+msgstr "Rabat på produkter"
 
 msgctxt "Languages::promotion_bonus_free_products"
 msgid "Free products"
@@ -7705,7 +7697,7 @@ msgstr "stk."
 
 msgctxt "Languages::qty_discounts"
 msgid "Quantity discounts"
-msgstr "stk. rabat"
+msgstr "Mængderabatter"
 
 msgctxt "Languages::qty_discount_type_tooltip"
 msgid "Fixed amount/Percentage to be taken off the price"
@@ -7750,22 +7742,6 @@ msgstr "Radio group"
 msgctxt "Languages::random"
 msgid "Random"
 msgstr "tilfældig"
-
-msgctxt "Languages::range"
-msgid "Range"
-msgstr "Række"
-
-msgctxt "Languages::ranges"
-msgid "Ranges"
-msgstr "udvalg"
-
-msgctxt "Languages::range_from"
-msgid "From"
-msgstr "Fra"
-
-msgctxt "Languages::range_to"
-msgid "To"
-msgstr "Til"
 
 msgctxt "Languages::rank_number"
 msgid "Rank ('machine') number"
@@ -8261,7 +8237,7 @@ msgstr "Gem ændringer"
 
 msgctxt "Languages::save_discount"
 msgid "Save"
-msgstr "Gem"
+msgstr "Spar"
 
 msgctxt "Languages::save_layout"
 msgid "Save layout"
@@ -8388,8 +8364,8 @@ msgid "Search string"
 msgstr "Søg string"
 
 msgctxt "Languages::search_tooltip"
-msgid "Search for products, customers, orders, CMS pages and site news!"
-msgstr "Søg efter produkter, kunder, ordrer, CMS sider og site nyheder!"
+msgid "Search for products, customers, orders and CMS pages"
+msgstr "Search for products, customers, orders and CMS pages"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -9359,17 +9335,9 @@ msgctxt "Languages::show_menu_on_mouse_over"
 msgid "Show menu on mouse over"
 msgstr "Vis menuen når mus henover"
 
-msgctxt "Languages::show_on_home_page"
-msgid "Show on home page"
-msgstr "Vis på hjemmesiden"
-
 msgctxt "Languages::show_orders"
 msgid "Show orders"
 msgstr "Vis ordre"
-
-msgctxt "Languages::show_page_in_popup"
-msgid "Show this page in a popup window"
-msgstr "Vis denne side i et popup-vindue"
 
 msgctxt "Languages::show_price"
 msgid "Show price"
@@ -9445,7 +9413,7 @@ msgstr "Enkelt"
 
 msgctxt "Languages::single_coupon_is_allowed"
 msgid "Single discount coupon is allowed only"
-msgstr "Single rabat kupon er kun tilladt"
+msgstr "Enkelt rabatkupon er kun tilladt"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
@@ -10671,10 +10639,6 @@ msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
 msgstr "Intet fundet"
 
-msgctxt "Languages::text_nothing_found_filter_message"
-msgid "Sorry, but nothing matched your search criteria. Please try again with some different parameter combination."
-msgstr "Desværre, men ikke noget modsvaret dine søgekriterier. Prøv igen med nogle forskellige parameterkombination."
-
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
 msgstr "Det er ikke tilladt at uploade filer med filtypenavnet <b>.[ext]</b> her."
@@ -10722,6 +10686,14 @@ msgstr "Ingen definerede produkter"
 msgctxt "Languages::text_no_products_found"
 msgid "No products found"
 msgstr "Ingen produkter fundet"
+
+msgctxt "Languages::text_found_n_products"
+msgid "Products found: [n]. <a href=\"[href]\">Show</a>"
+msgstr "Products found: [n]. <a href=\"[href]\">Show</a>"
+
+msgctxt "Languages::selected_filters"
+msgid "Selected filters"
+msgstr "Selected filters"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -10981,7 +10953,7 @@ msgstr "Vores mærker"
 
 msgctxt "Languages::text_qty_discounts"
 msgid "Our quantity discounts"
-msgstr "Vores mængde rabat"
+msgstr "Vores mængderabatter"
 
 msgctxt "Languages::text_recover_password"
 msgid "<p>If you have forgotten your password, enter your email address in the field and click <i>Reset password</i>.</p><p>You will receive a new password and a link to sign in. You will be able to change the password later.</p>"
@@ -11228,8 +11200,8 @@ msgid "The following files have been backed up"
 msgstr "Følgende filer er blevet bakket op"
 
 msgctxt "Languages::text_uc_broken_package"
-msgid "The upgrade package seems to be broken. Please try to download it again"
-msgstr "Opgraderingen pakke synes at være brudt. Prøv at hente den igen"
+msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11344,8 +11316,8 @@ msgid "Failed to update the list of installed upgrades"
 msgstr "Kunne ikke opdatere listen over installerede opgraderinger"
 
 msgctxt "Languages::text_uc_upgrade_completed"
-msgid "<p>Your store has been upgraded successfully.</p>"
-msgstr "Din forretning er blevet opgraderet med succes."
+msgid "Your store has been upgraded successfully"
+msgstr "Your store has been upgraded successfully"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -12123,6 +12095,10 @@ msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "Alle butikkers domænenavne skal være tilknyttet den samme IP-adresse. Bemærk: Skift til \"Alle butikker\" redigere"
 
+msgctxt "Languages::ttc_post_description"
+msgid "Use the %CUT% tag to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the %CUT% tag!"
+msgstr "Use the %CUT% tag to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the %CUT% tag!"
+
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
 msgstr "Menupunktet bliver vist aktiveret for den angivne afsendelse."
@@ -12250,14 +12226,6 @@ msgstr "En anbringe foran produktet funktion."
 msgctxt "Languages::tt_views_product_features_update_suffix"
 msgid "An affix that follows the product feature."
 msgstr "En anbringe, der følger produktet funktion."
-
-msgctxt "Languages::tt_views_product_filters_update_display_more_variants_count"
-msgid "The remaining variants will be displayed on the separate page."
-msgstr "De resterende varianter vises på en separat side."
-
-msgctxt "Languages::tt_views_product_filters_update_display_variants_count"
-msgid "The remaining variants will be hidden behind the \"more\" link."
-msgstr "De resterende varianter vil være skjult bag linket \"flere\"."
 
 msgctxt "Languages::tt_views_product_options_update_incorrect_filling_message"
 msgid "Message that is displayed if the entered data is incorrect."
@@ -13711,9 +13679,9 @@ msgctxt "SettingsOptions::debugging_console"
 msgid "Template debugging console"
 msgstr "Skabelon debugging konsol"
 
-msgctxt "SettingsOptions::log_type_news"
-msgid "News"
-msgstr "Nyheder"
+msgctxt "SettingsOptions::header_7006"
+msgid "Shipping processors"
+msgstr "Shipping processors"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14297,7 +14265,7 @@ msgstr "Detaljerede kategori billedbredde"
 
 msgctxt "SettingsOptions::use_single_coupon"
 msgid "Allow customers to use single discount coupon only"
-msgstr "Kunderne mulighed for at bruge én rabat kupon kun"
+msgstr "Tillad kunderne kun at bruge én rabatkupon"
 
 msgctxt "SettingsOptions::calendar_date_format"
 msgid "Calendar date format"
@@ -14606,18 +14574,6 @@ msgstr "09/29/2005 (måned/dag/år)"
 msgctxt "SettingsVariants::time_format::%I.%M %p"
 msgid "3.43 PM"
 msgstr "3.43 PM"
-
-msgctxt "SettingsVariants::log_type_news::create"
-msgid "Create"
-msgstr "Oprette"
-
-msgctxt "SettingsVariants::log_type_news::delete"
-msgid "Delete"
-msgstr "Slet"
-
-msgctxt "SettingsVariants::log_type_news::update"
-msgid "Update"
-msgstr "Opdater"
 
 msgctxt "SettingsVariants::log_type_orders::create"
 msgid "Create"
@@ -15541,5 +15497,122 @@ msgstr "Fejl i datavalidering af kreditkortoplysninger. Enten er kreditkortnumme
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Undtagelser - options"
+
+msgctxt "Languages::horizontal_filters"
+msgid "Horizontal filters"
+msgstr "Horizontal filters"
+
+msgctxt "Languages::vendor_filters_description"
+msgid ""
+msgstr ""
+""
+
+msgctxt "Languages::uc_broken_upgrade_connector"
+msgid "Upgrade connector [connector_id] returned incorrect data"
+msgstr "Upgrade connector [connector_id] returned incorrect data"
+
+msgctxt "Languages::uc_downloaded_and_ready"
+msgid "Upgrade package has been downloaded and ready to install"
+msgstr "Upgrade package has been downloaded and ready to install"
+
+msgctxt "Languages::uc_connector_not_found"
+msgid "Upgrade connector not found"
+msgstr "Upgrade connector not found"
+
+msgctxt "Languages::uc_unable_to_read_schema"
+msgid "Unable to read package schema (schema.json)"
+msgstr "Unable to read package schema (schema.json)"
+
+msgctxt "Languages::uc_package_schema_not_found"
+msgid "Package content schema not found"
+msgstr "Package content schema not found"
+
+msgctxt "Languages::uc_package_schema_is_not_json"
+msgid "Package schema is not a valid JSON"
+msgstr "Package schema is not a valid JSON"
+
+msgctxt "Languages::uc_addon_package_forbidden_path"
+msgid "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+
+msgctxt "Languages::uc_addon_package_migrations_forbidden"
+msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+
+msgctxt "Languages::uc_addon_package_languages_forbidden"
+msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+
+msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
+msgid "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Package contains files that were not described in schema or schema has links to missing files"
+
+msgctxt "Languages::new_version"
+msgid "New version"
+msgstr "New version"
+
+msgctxt "Languages::migrations"
+msgid "Migrations"
+msgstr "Migrations"
+
+msgctxt "Languages::permissions_issue"
+msgid "Permissions issue"
+msgstr "Permissions issue"
+
+msgctxt "Languages::text_uc_local_modification"
+msgid "Local modifications"
+msgstr "Local modifications"
+
+msgctxt "Languages::text_uc_agreed_collisions"
+msgid "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+
+msgctxt "Languages::text_uc_will_be_changed"
+msgid "Will be changed"
+msgstr "Will be changed"
+
+msgctxt "Languages::text_uc_will_be_deleted"
+msgid "Will be deleted"
+msgstr "Will be deleted"
+
+msgctxt "Languages::uc_title_validators"
+msgid "Upgrade package validators"
+msgstr "Upgrade package validators"
+
+msgctxt "Languages::uc_execute_validator"
+msgid "Execute \"[validator]\" validator"
+msgstr "Execute \"[validator]\" validator"
+
+msgctxt "Languages::uc_copy_files"
+msgid "Copy files"
+msgstr "Copy files"
+
+msgctxt "Languages::uc_run_migrations"
+msgid "Run migrations"
+msgstr "Run migrations"
+
+msgctxt "Languages::uc_install_languages"
+msgid "Install languages"
+msgstr "Install languages"
+
+msgctxt "Languages::uc_upgrade_progress"
+msgid "Upgrade progress"
+msgstr "Upgrade progress"
+
+msgctxt "Languages::upload_upgrade_package"
+msgid "Upload upgrade package"
+msgstr "Upload upgrade package"
+
+msgctxt "Languages::upload_upgrade_text"
+msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+
+msgctxt "Languages::outside_navigation"
+msgid "Outside navigation"
+msgstr "Outside navigation"
+
+msgctxt "Languages::post_description"
+msgid "Post description"
+msgstr "Post description"
 
