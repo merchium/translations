@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-10 07:02-0500\n"
+"PO-Revision-Date: 2015-02-11 10:03-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7796,8 +7796,8 @@ msgid "Rebuild cache automatically"
 msgstr "Cache i otomatik olarak yeniden oluştur"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
-msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modifiye edilen dosyalar gerçek zamanlı olarak takip edilir (direkt olarak server üzerinde düzenlenen dosyalar dahil) ve tekrar cache oluşturulur. Bu mağazanızın performanısını biraz etkileyebilir. Devre dışı bırakmanız önerilir."
+msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -12095,10 +12095,6 @@ msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 msgstr "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
 
-msgctxt "Languages::ttc_post_description"
-msgid "Use the %CUT% tag to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the %CUT% tag!"
-msgstr "Use the %CUT% tag to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the %CUT% tag!"
-
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
 msgstr "The menu item will be shown activated for the specified dispatch."
@@ -15611,8 +15607,4 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
 msgstr "Outside navigation"
-
-msgctxt "Languages::post_description"
-msgid "Post description"
-msgstr "Post description"
 
