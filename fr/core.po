@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-11 10:00-0500\n"
+"PO-Revision-Date: 2015-02-16 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -40,12 +40,12 @@ msgid "Absolute"
 msgstr "Absolue"
 
 msgctxt "Languages::installed_addons"
-msgid "Installed addons"
-msgstr "addons installés"
+msgid "Installed add-ons"
+msgstr "Installed add-ons"
 
 msgctxt "Languages::browse_all_available_addons"
-msgid "Browse all available addons"
-msgstr "Parcourir tous les addons disponibles"
+msgid "Browse all available add-ons"
+msgstr "Browse all available add-ons"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -1680,8 +1680,8 @@ msgid "Also it is recommended to change the access permissions for the config.lo
 msgstr "En outre, il est recommandé de changer les autorisations d'accès pour le fichier config.local.php. Il doit avoir l'autorisation 644 (lecture/écriture pour le propriétaire et lecture pour les autres)."
 
 msgctxt "Languages::change_addons_initialization"
-msgid "Change addons initialization"
-msgstr "Changer l'initialisation des modules"
+msgid "Change add-ons initialization"
+msgstr "Change add-ons initialization"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -5304,8 +5304,8 @@ msgid "Manage"
 msgstr "Arranger"
 
 msgctxt "Languages::manage_addons"
-msgid "Manage Add-ons"
-msgstr "Gérer les modules supplémentaires"
+msgid "Manage add-ons"
+msgstr "Manage add-ons"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7168,8 +7168,8 @@ msgid "View users"
 msgstr "Voir les utilisateurs"
 
 msgctxt "Languages::privilege_sections.addons"
-msgid "Addons"
-msgstr "Modules"
+msgid "Add-ons"
+msgstr "Add-ons"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -11888,20 +11888,20 @@ msgid "Tools"
 msgstr "Outils"
 
 msgctxt "Languages::tools_addons_addons_count"
-msgid "Addons count"
-msgstr "Total de modules supplémentaires"
+msgid "Add-ons count"
+msgstr "Add-ons count"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "État actuel"
 
 msgctxt "Languages::tools_addons_no_addons"
-msgid "No addons"
-msgstr "Pas de modules supplémentaires"
+msgid "No add-ons"
+msgstr "No add-ons"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
-msgid "No third party addons"
-msgstr "Aucun module supplémentaire de tiers"
+msgid "No third party add-ons"
+msgstr "No third party add-ons"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -15607,4 +15607,12 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
 msgstr "Outside navigation"
+
+msgctxt "Languages::exim_error_incorrect_feature_type"
+msgid "text"
+msgstr "text"
+
+msgctxt "Languages::exim_error_empty_feature_name"
+msgid "text"
+msgstr "text"
 

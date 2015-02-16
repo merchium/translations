@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-12 04:00-0500\n"
+"PO-Revision-Date: 2015-02-16 09:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -40,11 +40,11 @@ msgid "Absolute"
 msgstr "Absolutní"
 
 msgctxt "Languages::installed_addons"
-msgid "Installed addons"
+msgid "Installed add-ons"
 msgstr "Instalované doplňky"
 
 msgctxt "Languages::browse_all_available_addons"
-msgid "Browse all available addons"
+msgid "Browse all available add-ons"
 msgstr "Procházet všechny dostupné doplňky"
 
 msgctxt "Languages::accept"
@@ -1680,8 +1680,8 @@ msgid "Also it is recommended to change the access permissions for the config.lo
 msgstr "Také se doporučuje změnit přístupová oprávnění pro soubor config.local.php. Měl by mít oprávnění 644 (čtení/zápis pro vlastníka a čtení pro ostatní)."
 
 msgctxt "Languages::change_addons_initialization"
-msgid "Change addons initialization"
-msgstr "Změna addons inicializace"
+msgid "Change add-ons initialization"
+msgstr "Změna inicializace doplňků"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -5304,7 +5304,7 @@ msgid "Manage"
 msgstr "Spravovat"
 
 msgctxt "Languages::manage_addons"
-msgid "Manage Add-ons"
+msgid "Manage add-ons"
 msgstr "Správa doplňků"
 
 msgctxt "Languages::manage_blocks"
@@ -7168,7 +7168,7 @@ msgid "View users"
 msgstr "Zobrazit uživatele"
 
 msgctxt "Languages::privilege_sections.addons"
-msgid "Addons"
+msgid "Add-ons"
 msgstr "Doplňky"
 
 msgctxt "Languages::privilege_sections.administration"
@@ -11888,7 +11888,7 @@ msgid "Tools"
 msgstr "Nastavení"
 
 msgctxt "Languages::tools_addons_addons_count"
-msgid "Addons count"
+msgid "Add-ons count"
 msgstr "Počet doplňků"
 
 msgctxt "Languages::tools_addons_current_state"
@@ -11896,11 +11896,11 @@ msgid "Current state"
 msgstr "Současný stav"
 
 msgctxt "Languages::tools_addons_no_addons"
-msgid "No addons"
+msgid "No add-ons"
 msgstr "Bez doplňků"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
-msgid "No third party addons"
+msgid "No third party add-ons"
 msgstr "Žádné doplňky třetích stran"
 
 msgctxt "Languages::tools_addons_restore_defaults"
@@ -12669,7 +12669,7 @@ msgstr "Certificate of mailing for firm mailing books"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_per_individual_article"
 msgid "Certificate of mailing per individual article"
-msgstr "Certificate of mailing per individual article"
+msgstr "Osvědčení o zasílání na individuální článek"
 
 msgctxt "Languages::usps_service_certified"
 msgid "Certified"
@@ -13201,43 +13201,43 @@ msgstr "Skryté kategorie"
 
 msgctxt "Languages::clone_categories"
 msgid "Copy categories"
-msgstr "Copy categories"
+msgstr "Kopírovat kategorie"
 
 msgctxt "Languages::clone_layouts"
 msgid "Copy layouts"
-msgstr "Copy layouts"
+msgstr "Kopírovat rozvržení"
 
 msgctxt "Languages::clone_pages"
 msgid "Share pages"
-msgstr "Share pages"
+msgstr "Sdílet stránky"
 
 msgctxt "Languages::clone_payments"
 msgid "Share payment methods"
-msgstr "Share payment methods"
+msgstr "Sdílet platební metody"
 
 msgctxt "Languages::clone_products"
 msgid "Share products"
-msgstr "Share products"
+msgstr "Sdílet produkty"
 
 msgctxt "Languages::clone_product_features"
 msgid "Share product features"
-msgstr "Share product features"
+msgstr "Sdílet vlastnosti produktů"
 
 msgctxt "Languages::clone_product_filters"
 msgid "Share product filters"
-msgstr "Share product filters"
+msgstr "Sdílet filtry produktů"
 
 msgctxt "Languages::clone_profile_fields"
 msgid "Share profile fields"
-msgstr "Share profile fields"
+msgstr "Sdílet profilové pole"
 
 msgctxt "Languages::clone_promotions"
 msgid "Share promotions"
-msgstr "Share promotions"
+msgstr "Sdílet akce"
 
 msgctxt "Languages::clone_settings"
 msgid "Copy settings"
-msgstr "Copy settings"
+msgstr "Kopírovat nastavení"
 
 msgctxt "Languages::clone_shippings"
 msgid "Share shipping methods"
@@ -13245,195 +13245,195 @@ msgstr "Proveďte společné metody doručení"
 
 msgctxt "Languages::clone_sitemap"
 msgid "Copy sitemap"
-msgstr "Copy sitemap"
+msgstr "Kopírovat sitemap"
 
 msgctxt "Languages::clone_static_data_clone"
 msgid "Copy menus"
-msgstr "Copy menus"
+msgstr "Kopírovat menu"
 
 msgctxt "Languages::text_uc_failed_to_decompress_files"
 msgid "Failed to extract files from the archive"
-msgstr "Failed to extract files from the archive"
+msgstr "Nepodařilo se extrahovat soubory z archivu"
 
 msgctxt "Languages::development"
 msgid "Development"
-msgstr "Development"
+msgstr "Vývoj"
 
 msgctxt "Languages::check_po_file"
 msgid "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
-msgstr "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
+msgstr "PO soubor obsahuje chyby syntaxe nebo nesprávnou strukturu. Zkontrolujte ho, prosím, a uploadujte znovu."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
-msgstr "Option delimiter"
+msgstr "Oddělovač možností"
 
 msgctxt "Languages::text_product_option_delimiter"
 msgid "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
-msgstr "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
+msgstr "Oddělovač pro možnosti produktu s jejich kombinací (např. \"Barva: Červená, Velikost: Malá\")"
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
-msgstr "Upload & install add-on"
+msgstr "Nahrát & instalovat doplněk"
 
 msgctxt "Languages::upload_theme"
 msgid "Upload theme"
-msgstr "Upload theme"
+msgstr "Nahrát téma"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
-msgstr "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
+msgstr "Upload a instalace nového tématu je skvělý způsob jak personalizovat váš obchod. Téma můžete uploadovat tak, že vyberete archiv formátu [exts] a kliknete na <strong>Uploadovat </strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
-msgstr "The following directories do not have writable permissions"
+msgstr "Tyto adresáře nemají zapisovací oprávnění"
 
 msgctxt "Languages::text_set_write_permissions_for_dirs"
 msgid "You can set the write permissions for the Web server to the directories listed above or provide an FTP-access with the write permissions to these directories."
-msgstr "You can set the write permissions for the Web server to the directories listed above or provide an FTP-access with the write permissions to these directories."
+msgstr "Zapisovací oprávnění můžete buď přidělit webovému serveru, nebo poskytnout FTP přístup se zapisovacími oprávněními pro tyto adresáře."
 
 msgctxt "Languages::ftp_server_options"
 msgid "FTP server options"
-msgstr "FTP server options"
+msgstr "Možnosti serveru FTP"
 
 msgctxt "Languages::ftp_directory"
 msgid "FTP directory"
-msgstr "FTP directory"
+msgstr "Adresář FTP"
 
 msgctxt "Languages::recheck"
 msgid "Re-check"
-msgstr "Re-check"
+msgstr "Znovu zkontrolovat"
 
 msgctxt "Languages::use_this_style"
 msgid "Use this style"
-msgstr "Use this style"
+msgstr "Použít tento styl"
 
 msgctxt "Languages::upload_via_ftp"
 msgid "Upload via FTP"
-msgstr "Upload via FTP"
+msgstr "Nahrát přes FTP"
 
 msgctxt "Languages::invalid_ftp_access"
 msgid "Invalid FTP access"
-msgstr "Invalid FTP access"
+msgstr "Neplatný přístup k FTP"
 
 msgctxt "Languages::install_addon_text"
 msgid "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
-msgstr "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
+msgstr "Doplňky rozšiřují možnosti vašeho obchodu.<br />Doplňky můžete nainstalovat vyjmutím archivu ve formátu [exts] a klepnutím na Nahrajte a nainstalovat."
 
 msgctxt "Languages::xml_error"
 msgid "XML parse error"
-msgstr "XML parse error"
+msgstr "Chyba analýzy XML"
 
 msgctxt "Languages::column"
 msgid "Column"
-msgstr "Column"
+msgstr "Sloupec"
 
 msgctxt "Languages::checking_core_version_is_not_suitable"
 msgid "Version of your cart ([version]) is not supported. Minimal: [min]. Maximal: [max]."
-msgstr "Version of your cart ([version]) is not supported. Minimal: [min]. Maximal: [max]."
+msgstr "Vaše verze košíku ([version]) není podporována. Minimální: [min]. Maximální: [max]."
 
 msgctxt "Languages::checking_core_edition_is_not_suitable"
 msgid "Edition of your cart ([current_edition]) is not supported. Required: [required_edition]."
-msgstr "Edition of your cart ([current_edition]) is not supported. Required: [required_edition]."
+msgstr "Vaše vydání košíku ([current_edition]) není podporováno. Potřebné: [required_edition]."
 
 msgctxt "Languages::checking_php_version_is_not_suitable"
 msgid "PHP version ([version]) is not supported. Minimal: [min]. Maximal: [max]."
-msgstr "PHP version ([version]) is not supported. Minimal: [min]. Maximal: [max]."
+msgstr "Tato verze PHP ([version]) není podporována. Minimální: [min]. Maximální: [max]."
 
 msgctxt "Languages::checking_extension_should_be_installed"
 msgid "The [extension] extension should be installed on your server for correct add-on operation."
-msgstr "The [extension] extension should be installed on your server for correct add-on operation."
+msgstr "Pro správné fungování doplňku by na vašem serveru mělo být nainstalováno rozšíření [extension]."
 
 msgctxt "Languages::checking_extension_should_be_removed"
 msgid "The [extension] extension should be removed from your server for correct add-on operation."
-msgstr "The [extension] extension should be removed from your server for correct add-on operation."
+msgstr "Pro správné fungování doplňku byste měli z vašeho serveru odstranit rozšíření [extension]."
 
 msgctxt "Languages::checking_extension_version_is_not_suitable"
 msgid "The [extension] version ([version]) is not supported by the add-on. Minimal: [min]. Maximal: [max]."
-msgstr "The [extension] version ([version]) is not supported by the add-on. Minimal: [min]. Maximal: [max]."
+msgstr "Rozšíření [extension] ve verzi ([version]) není doplňkem podporováno. Minimální: [min]. Maximální: [max]."
 
 msgctxt "Languages::scroll_per_page"
 msgid "Scroll per page"
-msgstr "Scroll per page"
+msgstr "Procházet po stránkách"
 
 msgctxt "Languages::payments.paypal_adv_layout"
 msgid "Layout"
-msgstr "Layout"
+msgstr "Rozložení"
 
 msgctxt "Languages::payments.layout_a"
 msgid "Layout A"
-msgstr "Layout A"
+msgstr "Rozložení A"
 
 msgctxt "Languages::payments.layout_b"
 msgid "Layout B"
-msgstr "Layout B"
+msgstr "Rozložení B"
 
 msgctxt "Languages::payments.layout_c"
 msgid "Layout C"
-msgstr "Layout C"
+msgstr "Rozložení C"
 
 msgctxt "Languages::payments.eway_rapidapi_rsp.header_text"
 msgid "Header text"
-msgstr "Header text"
+msgstr "Text hlavičky"
 
 msgctxt "Languages::payments.futurepay.zipcode_combination_error"
 msgid "The Zip code does not match the state entered. Please re-enter and try your purchase again."
-msgstr "The Zip code does not match the state entered. Please re-enter and try your purchase again."
+msgstr "PSČ neodpovídá zadané zemi. Zadejte ho, prosím, znovu nebo zopakujte nákup."
 
 msgctxt "Languages::payments.futurepay.amount_error"
 msgid "FuturePay can only be used on orders under $500"
-msgstr "FuturePay can only be used on orders under $500"
+msgstr "FuturePay lze použít pouze při objednávkách pod 500 dolarů"
 
 msgctxt "Languages::payments.futurepay.country_error"
 msgid "FuturePay is currently unavailable outside of America"
-msgstr "FuturePay is currently unavailable outside of America"
+msgstr "FuturePay je momentálně nedostupný mimo Ameriky"
 
 msgctxt "Languages::payments.futurepay.customer_error"
 msgid "You currently have an outstanding application with FuturePay which needs resolving"
-msgstr "You currently have an outstanding application with FuturePay which needs resolving"
+msgstr "V současné době máte vynikající aplikace s FuturePay která vyžaduje řešení"
 
 msgctxt "Languages::payments.futurepay.phone_error"
 msgid "There was no phone number entered for your billing address. Please enter a phone number and try again"
-msgstr "There was no phone number entered for your billing address. Please enter a phone number and try again"
+msgstr "K fakturační adrese nebylo zadáno žádné telefonní číslo. Zadejte, prosím, telefonní číslo a zkuste to znovu"
 
 msgctxt "Languages::payments.futurepay.zipcode_error"
 msgid "The Zip code you entered for your billing address corresponds to a Military (APO/FPO/DPO), PO Box or other non-physical address. To approve your application we require a Zip code associated with a physical address in the U.S."
-msgstr "The Zip code you entered for your billing address corresponds to a Military (APO/FPO/DPO), PO Box or other non-physical address. To approve your application we require a Zip code associated with a physical address in the U.S."
+msgstr "Zadané PSČ odpovídá vojenské, P.O. Box nebo jiné nefyzické adrese. Pro potvrzení vaší žádosti potřebujeme platné PSČ s fyzickou adresou v USA."
 
 msgctxt "Languages::payments.futurepay.order_exists"
 msgid "The reference exists with an order that has completed sales attached"
-msgstr "The reference exists with an order that has completed sales attached"
+msgstr "Reference existuje při objednávce ke které je připojen kompletní prodej"
 
 msgctxt "Languages::filter_by_categories"
 msgid "Filter by categories"
-msgstr "Filter by categories"
+msgstr "Filtrovat podle kategorií"
 
 msgctxt "Languages::default_filter_by_location"
 msgid "No filter specified. Filter by location set as default."
-msgstr "No filter specified. Filter by location set as default."
+msgstr "Neurčili jste žádný filtr. Filtrování podle polohy bylo nastaveno jako výchozí."
 
 msgctxt "Languages::theme_information"
 msgid "Theme information"
-msgstr "Theme information"
+msgstr "Informace o tématu"
 
 msgctxt "Languages::developer"
 msgid "Developer"
-msgstr "Developer"
+msgstr "Vývojář"
 
 msgctxt "Languages::theme_styles_and_layouts"
 msgid "Theme styles and layouts"
-msgstr "Theme styles and layouts"
+msgstr "Styly a rozložení témata"
 
 msgctxt "Languages::activate"
 msgid "Activate"
-msgstr "Activate"
+msgstr "Aktivovat"
 
 msgctxt "Languages::export_layout"
 msgid "Export layout"
-msgstr "Export layout"
+msgstr "Exportujte rozvržení"
 
 msgctxt "Languages::import_layout"
 msgid "Import layout"
-msgstr "Import layout"
+msgstr "Importovat rozložení"
 
 msgctxt "Languages::create_new_layout"
 msgid "Create new layout"
@@ -13441,55 +13441,55 @@ msgstr "Vytvořit nové rozložení"
 
 msgctxt "Languages::update_current_layout"
 msgid "Update current layout"
-msgstr "Update current layout"
+msgstr "Aktualizace aktuálního rozložení"
 
 msgctxt "Languages::get_social"
 msgid "Get social"
-msgstr "Get social"
+msgstr "Buďte sociální"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
-msgstr "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
+msgstr "Doplněk Searchanise byl během aktualizace automaticky vypnut kvůli zamezení falešných výsledků. Kdykoliv jej můžete znovu aktivovat na stránce <a href=\"[url]\">Doplňky</a>."
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
-msgstr "Sorry, the store is temporarily closed for maintenance."
+msgstr "Je nám líto, obchod je dočasně uzavřena z důvodu údržby."
 
 msgctxt "Languages::theme_editor.presets"
 msgid "Presets"
-msgstr "Presets"
+msgstr "Předvolby"
 
 msgctxt "Languages::theme_editor.preset_data_cannot_be_saved"
 msgid "Preset data cannot be saved. You should set write permissions for <b>[theme_dir]</b> directory to fix this issue."
-msgstr "Preset data cannot be saved. You should set write permissions for <b>[theme_dir]</b> directory to fix this issue."
+msgstr "Údaje stylu nelze uložit. Pro nápravu musíte udělit zapisovací práva pro adresář <b>[theme_dir]</b>."
 
 msgctxt "Languages::theme_editor.preset_name"
 msgid "Preset name"
-msgstr "Preset name"
+msgstr "Název předvolby"
 
 msgctxt "Languages::active_preset"
 msgid "Active preset"
-msgstr "Active preset"
+msgstr "Aktivní předvolbu"
 
 msgctxt "Languages::theme_editor.error_preset_exists"
 msgid "The preset with this name is already exist. Please choose another one."
-msgstr "The preset with this name is already exist. Please choose another one."
+msgstr "Styl s tímto názvem již existuje. Prosím, vyberte jiný."
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "Název stylu nesmí obsahovat následující znaky: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
-msgstr "Convert to CSS"
+msgstr "Převést do CSS"
 
 msgctxt "Languages::theme_editor.text_convert_to_css"
 msgid "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
-msgstr "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
+msgstr "<p>Generovat CSS soubory z LESS (pro manuální úpravy).</p><p>Důležité: Nebudete moci použít editor témat pro přizpůsobení stránky obchodu!</p><p><i>Původní LESS soubory budou zálohovány a později je budete moci obnovit</i></p>"
 
 msgctxt "Languages::theme_editor.enable_less"
 msgid "Enable LESS"
-msgstr "Enable LESS"
+msgstr "Povolit LESS"
 
 msgctxt "Languages::theme_editor.warning_css_changes_will_be_reverted"
 msgid "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
@@ -13497,11 +13497,11 @@ msgstr "<p>You should switch back to LESS to be able to use the Theme editor, be
 
 msgctxt "Languages::theme_editor.confirm_enable_less"
 msgid "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
-msgstr "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
+msgstr "Vaše změny CSS budou zálohovány a přepsány. Opravdu chcete pokračovat v obnově LESS?"
 
 msgctxt "Languages::theme_editor.error_theme_converted_to_css"
 msgid "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
-msgstr "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
+msgstr "Kompilované CSS soubory nepodporují styling. Obnovte LESS v <a target=\"_blank\" href=\"[url]\">Editoru témat</a>, abyste mohli měnit styly."
 
 msgctxt "Languages::need_product_name"
 msgid "You have to specify product name"
@@ -13509,27 +13509,27 @@ msgstr "Musíte zadat název produktu"
 
 msgctxt "Languages::api_required_field"
 msgid "The [field] field is required"
-msgstr "The [field] field is required"
+msgstr "[field] pole je povinné"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Aktualizovat překlady"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
-msgstr "Language code in the PO file does not match that of the updated language"
+msgstr "Kód jazyka v PO souboru se neshoduje s kódem aktualizovaného jazyka"
 
 msgctxt "Languages::error_class_phar_data_not_found"
 msgid "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
-msgstr "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
+msgstr "Třída PharData nebyla nalezena. Čtěte více: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
 
 msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
-msgstr "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
+msgstr "Třída ZipArchive nebyla nalezena. Čtěte více: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
-msgstr "Make archive"
+msgstr "Vytvořit archiv"
 
 msgctxt "Languages::marketplace"
 msgid "Marketplace"
@@ -13537,11 +13537,11 @@ msgstr "Marketplace"
 
 msgctxt "Languages::marketplace_find_more"
 msgid "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
-msgstr "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
+msgstr "Objevte více doplňků a témat na <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
 
 msgctxt "Languages::extract_archive"
 msgid "Extract archive"
-msgstr "Extract archive"
+msgstr "Rozbalit archiv"
 
 msgctxt "Languages::seo"
 msgid "SEO"
@@ -13553,7 +13553,7 @@ msgstr "MagnificPopup"
 
 msgctxt "Languages::bulk_print_packing_slip"
 msgid "Packing slip bulk print"
-msgstr "Packing slip bulk print"
+msgstr "Hromadný tisk dodacích listů"
 
 msgctxt "Languages::bulk_print_pdf"
 msgid "Invoice bulk print (PDF)"
@@ -13561,15 +13561,15 @@ msgstr "Vytisknout (pdf)"
 
 msgctxt "Languages::text_all_categories_included"
 msgid "All categories included"
-msgstr "All categories included"
+msgstr "Všechny kategorie zahrnuty"
 
 msgctxt "Languages::text_all_products_included"
 msgid "All products included"
-msgstr "All products included"
+msgstr "Všechny produkty zahrnuté"
 
 msgctxt "Languages::usergroup_registered"
 msgid "Registered users"
-msgstr "Registered users"
+msgstr "Registrovaní uživatelé"
 
 msgctxt "Languages::person_name"
 msgid "Name"
@@ -13577,23 +13577,23 @@ msgstr "Jméno"
 
 msgctxt "Languages::promotions.cond_any"
 msgid "any"
-msgstr "any"
+msgstr "jakýkoliv"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "all"
+msgstr "Všechno"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
-msgstr "true"
+msgstr "pravda"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"
-msgstr "false"
+msgstr "nepravda"
 
 msgctxt "Languages::text_select_vendor"
 msgid "Please select a store first"
-msgstr "Please select a store first"
+msgstr "Prosím, nejdříve vyberte obchod"
 
 msgctxt "SettingsSections::Appearance"
 msgid "Appearance"
@@ -13613,7 +13613,7 @@ msgstr "Obecné"
 
 msgctxt "SettingsSections::Image_verification"
 msgid "Image verification"
-msgstr "Image verification"
+msgstr "Ověření obrázku"
 
 msgctxt "SettingsSections::Logging"
 msgid "Logging"
@@ -13621,7 +13621,7 @@ msgstr "Protokolování"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
-msgstr "Reports"
+msgstr "Zprávy"
 
 msgctxt "SettingsSections::Security"
 msgid "Security settings"
@@ -13629,11 +13629,11 @@ msgstr "Nastavení zabezpečení"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Pokladna"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
-msgstr "Sitemap"
+msgstr "Mapa stránek"
 
 msgctxt "SettingsSections::Stores"
 msgid "Stores"
@@ -13645,7 +13645,7 @@ msgstr "Náhledy"
 
 msgctxt "SettingsSections::Upgrade_center"
 msgid "Upgrade center"
-msgstr "Upgrade center"
+msgstr "Centrum aktualizací"
 
 msgctxt "SettingsOptions::company_name"
 msgid "Company name"
@@ -13657,15 +13657,15 @@ msgstr "Povolit zabezpečené připojení na pokladně"
 
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
-msgstr "Enable secure connection in the administration panel"
+msgstr "Povolit zabezpečené připojení v administračním panelu"
 
 msgctxt "SettingsOptions::secure_auth"
 msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "Enable secure connection for authentication, profile and orders pages"
+msgstr "Povolit zabezpečené připojení k ověřování profilu a objednávky stránek"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
-msgstr "Keep HTTPS connection once a secure page is visited"
+msgstr "Zůstat u HTTPS spojení po návštěvě zabezpečené stránky"
 
 msgctxt "SettingsOptions::disable_shipping"
 msgid "Disable shipping"
@@ -13681,7 +13681,7 @@ msgstr "Shipping processors"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
-msgstr "License number"
+msgstr "Licenční číslo"
 
 msgctxt "SettingsOptions::alternative_currency"
 msgid "Alternative currency display format"
@@ -13693,7 +13693,7 @@ msgstr "Adresa firmy"
 
 msgctxt "SettingsOptions::show_cats"
 msgid "Show the 'Categories' section"
-msgstr "Show the 'Categories' section"
+msgstr "Zobrazit sekci \"Kategorie\""
 
 msgctxt "SettingsOptions::mailer_send_method"
 msgid "Method of sending e-mails"
@@ -13705,43 +13705,43 @@ msgstr "Width,px"
 
 msgctxt "SettingsOptions::log_type_orders"
 msgid "Orders"
-msgstr "Orders"
+msgstr "Objednávky"
 
 msgctxt "SettingsOptions::log_type_users"
 msgid "Users"
-msgstr "Users"
+msgstr "Uživatelé"
 
 msgctxt "SettingsOptions::log_type_products"
 msgid "Products"
-msgstr "Products"
+msgstr "Produkty"
 
 msgctxt "SettingsOptions::log_type_categories"
 msgid "Categories"
-msgstr "Categories"
+msgstr "Kategorie"
 
 msgctxt "SettingsOptions::log_type_database"
 msgid "Database"
-msgstr "Database"
+msgstr "Databáze"
 
 msgctxt "SettingsOptions::log_type_requests"
 msgid "Requests"
-msgstr "Requests"
+msgstr "Požadavky"
 
 msgctxt "SettingsOptions::min_admin_password_length"
 msgid "Minimum administrator password length"
-msgstr "Minimum administrator password length"
+msgstr "Minimální délka administrátorského hesla"
 
 msgctxt "SettingsOptions::header_1"
 msgid "Administrator  settings"
-msgstr "Administrator  settings"
+msgstr "Administrátorské nastavení"
 
 msgctxt "SettingsOptions::header_7010"
 msgid "Format of time intervals"
-msgstr "Format of time intervals"
+msgstr "Formát časových intervalů"
 
 msgctxt "SettingsOptions::share_users"
 msgid "Share users among stores"
-msgstr "Share users among stores"
+msgstr "Sdílet uživatelů napříč obchody"
 
 msgctxt "SettingsOptions::log_type_general"
 msgid "General"
@@ -13753,7 +13753,7 @@ msgstr "Výchozí jazyk"
 
 msgctxt "SettingsOptions::company_city"
 msgid "Company city"
-msgstr "Company city"
+msgstr "Město"
 
 msgctxt "SettingsOptions::admin_orders_per_page"
 msgid "Orders per page"
@@ -13765,7 +13765,7 @@ msgstr "Den"
 
 msgctxt "SettingsOptions::show_rootcats_only"
 msgid "Show only root level categories links in the 'Categories' section"
-msgstr "Show only root level categories links in the 'Categories' section"
+msgstr "Zobrazit pouze kategorie kořenové úrovni odkazy v sekci \"kategorií\""
 
 msgctxt "SettingsOptions::height"
 msgid "Image height"
@@ -13773,7 +13773,7 @@ msgstr "Height,px"
 
 msgctxt "SettingsOptions::admin_passwords_must_contain_mix"
 msgid "Administrator password must contain both letters and numbers"
-msgstr "Administrator password must contain both letters and numbers"
+msgstr "Heslo musí obsahovat písmena a číslice"
 
 msgctxt "SettingsOptions::header_10003"
 msgid "SMTP server settings"
@@ -13781,15 +13781,15 @@ msgstr "Nastavení serveru SMTP"
 
 msgctxt "SettingsOptions::header_8158"
 msgid "FTP server options"
-msgstr "FTP server options"
+msgstr "Možnosti serveru FTP"
 
 msgctxt "SettingsOptions::default_state_update_for_all"
 msgid "Default state of the \"Update for all stores\" icon"
-msgstr "Default state of the \"Update for all stores\" icon"
+msgstr "Výchozí stav ikony \"Aktualizovat pro všechny obchody\""
 
 msgctxt "SettingsOptions::ftp_hostname"
 msgid "Hostname"
-msgstr "Hostname"
+msgstr "Název hostitele"
 
 msgctxt "SettingsOptions::weight_symbol"
 msgid "Weight symbol"
@@ -13801,7 +13801,7 @@ msgstr "Počet produktů na stránce"
 
 msgctxt "SettingsOptions::company_country"
 msgid "Company country"
-msgstr "Company country"
+msgstr "Země"
 
 msgctxt "SettingsOptions::week"
 msgid "Week"
@@ -13813,23 +13813,23 @@ msgstr "SMTP host"
 
 msgctxt "SettingsOptions::string_length"
 msgid "String length"
-msgstr "String length"
+msgstr "Délka řetězce"
 
 msgctxt "SettingsOptions::change_admin_password_on_first_login"
 msgid "Force administrators to change password on the first login"
-msgstr "Force administrators to change password on the first login"
+msgstr "Přimět administrátory ke změně hesla při prvním přihlášení"
 
 msgctxt "SettingsOptions::show_site_info"
 msgid "Show the 'Site info' section"
-msgstr "Show the 'Site info' section"
+msgstr "Zobrazit sekci \"Informace o stránce\""
 
 msgctxt "SettingsOptions::lines_number"
 msgid "Number of grid lines"
-msgstr "Number of grid lines"
+msgstr "Počet řádků mřížky"
 
 msgctxt "SettingsOptions::grid_color"
 msgid "Grid color (hexadecimal code)"
-msgstr "Grid color (hexadecimal code)"
+msgstr "Barva mřížky (kód v šestnáctkové soustavě)"
 
 msgctxt "SettingsOptions::ftp_username"
 msgid "Username"
@@ -13841,11 +13841,11 @@ msgstr "Company state"
 
 msgctxt "SettingsOptions::weight_symbol_grams"
 msgid "Grams in the unit of weight defined by the weight symbol"
-msgstr "Grams in the unit of weight defined by the weight symbol"
+msgstr "Váhová jednotka gramu je definována  váhovým symbolem"
 
 msgctxt "SettingsOptions::month"
 msgid "Month"
-msgstr "Month"
+msgstr "Měsíc"
 
 msgctxt "SettingsOptions::mailer_smtp_username"
 msgid "SMTP username"
@@ -13853,23 +13853,23 @@ msgstr "Uživatelské jméno SMTP"
 
 msgctxt "SettingsOptions::min_font_size"
 msgid "Minimum font size"
-msgstr "Minimum font size"
+msgstr "Minimální velikost písma"
 
 msgctxt "SettingsOptions::admin_password_expiration_period"
 msgid "Password validity period in days (0 - unlimited)"
-msgstr "Password validity period in days (0 - unlimited)"
+msgstr "Doba platnosti hesla ve dnech (0 - neomezená)"
 
 msgctxt "SettingsOptions::ftp_password"
 msgid "Password"
-msgstr "Password"
+msgstr "Heslo"
 
 msgctxt "SettingsOptions::company_zipcode"
 msgid "Company zip code"
-msgstr "Company zip code"
+msgstr "PSČ společnosti"
 
 msgctxt "SettingsOptions::admin_pages_per_page"
 msgid "CMS pages per page"
-msgstr "CMS pages per page"
+msgstr "CMS stránky na stranku"
 
 msgctxt "SettingsOptions::year"
 msgid "Year"
@@ -13881,7 +13881,7 @@ msgstr "Heslo SMTP"
 
 msgctxt "SettingsOptions::max_font_size"
 msgid "Maximum font size"
-msgstr "Maximum font size"
+msgstr "Maximální velikost písma"
 
 msgctxt "SettingsOptions::store_mode"
 msgid "Close storefront"
@@ -13893,11 +13893,11 @@ msgstr "Cron password"
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
-msgstr "Access key to temporarily closed store"
+msgstr "Přístupový klíč k dočasně uzavřenému obchodu"
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Automaticky znovu vytvořit vyrovnávací paměť"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
@@ -13905,35 +13905,35 @@ msgstr "Počáteční ID hodnota objednávky"
 
 msgctxt "SettingsOptions::use_shipments"
 msgid "Allow multiple shipments for a single order"
-msgstr "Allow multiple shipments for a single order"
+msgstr "Povolit vícenásobné dodávky pro jednu objednávku"
 
 msgctxt "SettingsOptions::uk_cookies_law"
 msgid "Notify visitors about cookies use"
-msgstr "Notify visitors about cookies use"
+msgstr "Informovat návštěvníky o použití souborů cookie"
 
 msgctxt "SettingsOptions::tax_calculation"
 msgid "Tax calculation method based on"
-msgstr "Tax calculation method based on"
+msgstr "Metoda výpočtu daně je založena na"
 
 msgctxt "SettingsOptions::feedback_type"
 msgid "Help us improve software"
-msgstr "Help us improve software"
+msgstr "Pomozte nám zlepšit software"
 
 msgctxt "SettingsOptions::auto_check_updates"
 msgid "Check for updates automatically"
-msgstr "Check for updates automatically"
+msgstr "Automaticky zjišťovat aktualizace"
 
 msgctxt "SettingsOptions::ftp_directory"
 msgid "Directory"
-msgstr "Directory"
+msgstr "Adresář"
 
 msgctxt "SettingsOptions::admin_elements_per_page"
 msgid "Elements per page"
-msgstr "Elements per page"
+msgstr "Prvky na stránku"
 
 msgctxt "SettingsOptions::company_phone"
 msgid "Company phone"
-msgstr "Company phone"
+msgstr "Telefon společnosti"
 
 msgctxt "SettingsOptions::default_wysiwyg_editor"
 msgid "Default wysiwyg editor"
@@ -13945,23 +13945,23 @@ msgstr "Ověřování pomocí protokolu SMTP"
 
 msgctxt "SettingsOptions::string_type"
 msgid "String type"
-msgstr "String type"
+msgstr "Typ řetězce"
 
 msgctxt "SettingsOptions::header_7003"
 msgid "Default location"
-msgstr "Default location"
+msgstr "Výchozí umístění"
 
 msgctxt "SettingsOptions::char_shadow"
 msgid "Character shadows"
-msgstr "Character shadows"
+msgstr "Stín písma"
 
 msgctxt "SettingsOptions::default_address"
 msgid "Default address"
-msgstr "Default address"
+msgstr "Výchozí adresa"
 
 msgctxt "SettingsOptions::company_phone_2"
 msgid "Company phone 2"
-msgstr "Company phone 2"
+msgstr "Telefon společnosti 2"
 
 msgctxt "SettingsOptions::thumbnail_background_color"
 msgid "Thumbnail background color"
@@ -13969,7 +13969,7 @@ msgstr "Barva pozadí náhledů"
 
 msgctxt "SettingsOptions::colour"
 msgid "Color"
-msgstr "Color"
+msgstr "Barva"
 
 msgctxt "SettingsOptions::header_2"
 msgid "Customer settings"
@@ -13977,43 +13977,43 @@ msgstr "Nastavení zákazníka"
 
 msgctxt "SettingsOptions::header_10004"
 msgid "Sendmail settings"
-msgstr "Sendmail settings"
+msgstr "Nastavení odesílání pošty"
 
 msgctxt "SettingsOptions::default_zipcode"
 msgid "Default zipcode"
-msgstr "Default zipcode"
+msgstr "Standardní PSČ"
 
 msgctxt "SettingsOptions::company_fax"
 msgid "Company fax"
-msgstr "Company fax"
+msgstr "Fax společnosti"
 
 msgctxt "SettingsOptions::frontend_default_language"
 msgid "Frontend default language"
-msgstr "Frontend default language"
+msgstr "Výchozí jazyk stránek obchodu"
 
 msgctxt "SettingsOptions::convert_to"
 msgid "Thumbnail format"
-msgstr "Thumbnail format"
+msgstr "Formát náhledu"
 
 msgctxt "SettingsOptions::mailer_sendmail_path"
 msgid "Path to sendmail program"
-msgstr "Path to sendmail program"
+msgstr "Cesta k odeslání poštovní programu"
 
 msgctxt "SettingsOptions::background_image"
 msgid "Background image"
-msgstr "Background image"
+msgstr "Obrázek na pozadí"
 
 msgctxt "SettingsOptions::hide_if_logged"
 msgid "Do not use verification if user is logged in"
-msgstr "Do not use verification if user is logged in"
+msgstr "Nepoužívejte ověřování, pokud je uživatel přihlášen"
 
 msgctxt "SettingsOptions::hide_after_validation"
 msgid "Do not use verification after first valid answer"
-msgstr "Do not use verification after first valid answer"
+msgstr "Nepoužívejte ověřování po první platné odpovědi"
 
 msgctxt "SettingsOptions::default_city"
 msgid "Default city"
-msgstr "Default city"
+msgstr "Výchozí město"
 
 msgctxt "SettingsOptions::company_website"
 msgid "Company website"
@@ -14025,7 +14025,7 @@ msgstr "Objednávky na stránce"
 
 msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
-msgstr "JPEG format quality (0-100)"
+msgstr "Kvalita formátu JPEG (0-100)"
 
 msgctxt "SettingsOptions::company_start_year"
 msgid "Year when the store started its operation"
@@ -14041,135 +14041,135 @@ msgstr "Počet produktů na stránce"
 
 msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
-msgstr "User department e-mail address"
+msgstr "E-mailová adresa Uživatelského oddělení"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Použít pro"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
-msgstr "Products list (category, search, etc) thumbnail width"
+msgstr "Šířka náhledu seznamu produktů (kategorie, hledání, atd.)"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
-msgstr "Default state"
+msgstr "Výchozí stav"
 
 msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
-msgstr "Site administrator e-mail address"
+msgstr "E-mailová adresa administrátora webu"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
-msgstr "Products list (category, search, etc) thumbnail height"
+msgstr "Šířka náhledu seznamu produktů (kategorie, hledání, atd.)"
 
 msgctxt "SettingsOptions::company_orders_department"
 msgid "Order department e-mail address"
-msgstr "Order department e-mail address"
+msgstr "E-mailová adresa Oddělení objednávek"
 
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
-msgstr "Default phone"
+msgstr "Výchozí telefon"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
-msgstr "Product details page thumbnail width"
+msgstr "Šířka náhledu stránky s detaily produktu"
 
 msgctxt "SettingsOptions::header_7004"
 msgid "Catalog"
-msgstr "Catalog"
+msgstr "Katalog"
 
 msgctxt "SettingsOptions::company_support_department"
 msgid "Help/Support department e-mail address"
-msgstr "Help/Support department e-mail address"
+msgstr "E-mailová adresa Oddělení zákaznické podpory"
 
 msgctxt "SettingsOptions::elements_per_page"
 msgid "Elements per page"
-msgstr "Elements per page"
+msgstr "Prvky na stránke"
 
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
-msgstr "Enable inventory tracking"
+msgstr "Povolit sledování zásob"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
-msgstr "Product details page thumbnail height"
+msgstr "Výška náhledu stránky s detaily produktu"
 
 msgctxt "SettingsOptions::allow_negative_amount"
 msgid "Allow negative amount in inventory"
-msgstr "Allow negative amount in inventory"
+msgstr "Povolit záporné množství v zásobách"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_width"
 msgid "Product quick view thumbnail width"
-msgstr "Product quick view thumbnail width"
+msgstr "Šířka náhledu rychlého zobrazení produktu"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_height"
 msgid "Product quick view thumbnail height"
-msgstr "Product quick view thumbnail height"
+msgstr "Výška náhledu rychlého zobrazení produktu"
 
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
-msgstr "Reply-To newsletter e-mail address"
+msgstr "E-mailová adresa pro odpověď na newsletter"
 
 msgctxt "SettingsOptions::edp_key_ttl"
 msgid "Download key TTL (for electronically distributed products), hours"
-msgstr "Download key TTL (for electronically distributed products), hours"
+msgstr "Ke stažení klíč TTL (pro elektronicky distribuované výrobky), hodiny"
 
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
-msgstr "Low stock notification threshold"
+msgstr "Hranice pro notifikaci o nízkém stavu zásob"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
-msgstr "Number of columns in the product list"
+msgstr "Počet sloupců v seznamu produktů"
 
 msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
-msgstr "Show products from subcategories of the selected category"
+msgstr "Zobrazit produkty z podkategorií vybrané kategorie"
 
 msgctxt "SettingsOptions::display_options_modifiers"
 msgid "Display modifiers for product options"
-msgstr "Display modifiers for product options"
+msgstr "Zobrazit modifikátory pro možnosti produktů"
 
 msgctxt "SettingsOptions::exception_style"
 msgid "Exception style"
-msgstr "Exception style"
+msgstr "Styl výjimky"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_width"
 msgid "Product cart page thumbnail width"
-msgstr "Product cart page thumbnail width"
+msgstr "Šířka náhledu košíku ze stránky produktu"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_height"
 msgid "Product cart page thumbnail height"
-msgstr "Product cart page thumbnail height"
+msgstr "Výška náhledu košíku ze stránky produktu"
 
 msgctxt "SettingsOptions::show_out_of_stock_products"
 msgid "Show out of stock products"
-msgstr "Show out of stock products"
+msgstr "Zobrazit produkty bez zásob"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_width"
 msgid "Categories list thumbnail width"
-msgstr "Categories list thumbnail width"
+msgstr "Šířka náhledu seznamu kategorií"
 
 msgctxt "SettingsOptions::taxes_using_default_address"
 msgid "Estimate taxes using default address on cart/checkout pages"
-msgstr "Estimate taxes using default address on cart/checkout pages"
+msgstr "Odhad daní pomocí výchozí adresy na stránkách košíku/pokladny"
 
 msgctxt "SettingsOptions::show_prices_taxed_clean"
 msgid "Display prices with taxes on category/product pages if the method of calculating taxes is based on a unit's price"
-msgstr "Display prices with taxes on category/product pages if the method of calculating taxes is based on a unit's price"
+msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách kategorií/produktů ceny s daní"
 
 msgctxt "SettingsOptions::cart_prices_w_taxes"
 msgid "Display prices with taxes on cart/checkout pages if the method of calculating taxes is based on a unit's price"
-msgstr "Display prices with taxes on cart/checkout pages if the method of calculating taxes is based on a unit's price"
+msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách košíku/pokladny ceny s daní"
 
 msgctxt "SettingsOptions::in_stock_field"
 msgid "Show number of available products"
-msgstr "Show number of available products"
+msgstr "Zobrazit počet dostupných výrobků"
 
 msgctxt "SettingsOptions::thumbnails_gallery"
 msgid "Display mini thumbnail images as a gallery"
-msgstr "Display mini thumbnail images as a gallery"
+msgstr "Zobrazit mini náhledy jako galerii"
 
 msgctxt "SettingsOptions::quantity_changer"
 msgid "Use 'Value changer' for the Quantity field"
@@ -14177,47 +14177,47 @@ msgstr "Použijte 'Value changer' pro Množství pole"
 
 msgctxt "SettingsOptions::top_pagination"
 msgid "Display the 'Pagination section' on the top of the listed object"
-msgstr "Display the 'Pagination section' on the top of the listed object"
+msgstr "Zobrazit \"Sekci stránkování\" na vrcholu uvedeného objektu"
 
 msgctxt "SettingsOptions::default_image_previewer"
 msgid "Default image previewer"
-msgstr "Default image previewer"
+msgstr "Výchozí náhled obrázku"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_height"
 msgid "Categories list thumbnail height"
-msgstr "Categories list thumbnail height"
+msgstr "Výška náhledu seznamu kategorií"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Product detailed page view"
+msgstr "Zobrazení detailní stránky produktu"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
-msgstr "Display product details in tabs"
+msgstr "Zobrazení produktu podrobnosti v záložkách"
 
 msgctxt "SettingsOptions::display_track_orders"
 msgid "Display track my orders section"
-msgstr "Display track my orders section"
+msgstr "Zobrazit sekci Sledovat mé objednávky"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
-msgstr "Products list layouts settings"
+msgstr "Nastavení rozložení seznamu produktů"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Available product list views"
+msgstr "Dostupné zobrazení seznamu produktů"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Product list default view"
+msgstr "Výchozí zobrazení seznamu produktů"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Use the selected view for current category or search page only"
+msgstr "Použít vybrané zobrazení pouze pro aktuální kategorii nebo stránku Hledat"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
-msgstr "Available product list sortings"
+msgstr "Dostupné řazení seznamu produktů"
 
 msgctxt "SettingsOptions::default_products_sorting"
 msgid "Product list default sorting"
@@ -14225,59 +14225,59 @@ msgstr "Výchozí řazení produktů"
 
 msgctxt "SettingsOptions::enable_quick_view"
 msgid "Enable quick view"
-msgstr "Enable quick view"
+msgstr "Povolit rychlé zobrazení"
 
 msgctxt "SettingsOptions::header_10080"
 msgid "Common settings"
-msgstr "Common settings"
+msgstr "Běžné zobrazení"
 
 msgctxt "SettingsOptions::date_format"
 msgid "Date format"
-msgstr "Date format"
+msgstr "Formát data"
 
 msgctxt "SettingsOptions::category_details_thumbnail_width"
 msgid "Category details page thumbnail width"
-msgstr "Category details page thumbnail width"
+msgstr "Šířka náhledu stránky detailů kategorie"
 
 msgctxt "SettingsOptions::time_format"
 msgid "Time format"
-msgstr "Time format"
+msgstr "Formát času"
 
 msgctxt "SettingsOptions::category_details_thumbnail_height"
 msgid "Category details page thumbnail height"
-msgstr "Category details page thumbnail height"
+msgstr "Výška náhledu stránky detailů kategorie"
 
 msgctxt "SettingsOptions::header_7024"
 msgid "Promotions"
-msgstr "Promotions"
+msgstr "Slevy a propagace"
 
 msgctxt "SettingsOptions::timezone"
 msgid "Time zone"
-msgstr "Time zone"
+msgstr "Časové pásmo"
 
 msgctxt "SettingsOptions::category_detailed_image_width"
 msgid "Detailed category image width"
-msgstr "Detailed category image width"
+msgstr "Šířka velkého obrázku kategorie"
 
 msgctxt "SettingsOptions::use_single_coupon"
 msgid "Allow customers to use single discount coupon only"
-msgstr "Allow customers to use single discount coupon only"
+msgstr "Umožnit zákazníkům použít jen jeden slevový kupón"
 
 msgctxt "SettingsOptions::calendar_date_format"
 msgid "Calendar date format"
-msgstr "Calendar date format"
+msgstr "Formát data kalendáře"
 
 msgctxt "SettingsOptions::category_detailed_image_height"
 msgid "Detailed category image height"
-msgstr "Detailed category image height"
+msgstr "Výška velkého obrázku kategorie"
 
 msgctxt "SettingsOptions::header_7005"
 msgid "Users/cart"
-msgstr "Users/cart"
+msgstr "Uživatelé/vozík"
 
 msgctxt "SettingsOptions::user_multiple_profiles"
 msgid "Allow users to create multiple profiles for one account"
-msgstr "Allow users to create multiple profiles for one account"
+msgstr "Povolit uživatelům vytvářet více profilů pro jeden účet"
 
 msgctxt "SettingsOptions::calendar_week_format"
 msgid "Calendar week starts from"
@@ -14285,27 +14285,27 @@ msgstr "Kalendářní týden začíná od"
 
 msgctxt "SettingsOptions::min_order_amount"
 msgid "Minimum order amount"
-msgstr "Minimum order amount"
+msgstr "Minimální výše objednávky"
 
 msgctxt "SettingsOptions::min_order_amount_type"
 msgid "Define minimum order amount by"
-msgstr "Define minimum order amount by"
+msgstr "Definovat minimální sumu objednávky jako"
 
 msgctxt "SettingsOptions::allow_anonymous_shopping"
 msgid "Allow shopping for unlogged customers"
-msgstr "Allow shopping for unlogged customers"
+msgstr "Povolit nepřihlášeným zákazníkům nakupovat"
 
 msgctxt "SettingsOptions::disable_anonymous_checkout"
 msgid "Disable anonymous checkout"
-msgstr "Disable anonymous checkout"
+msgstr "Zakázat anonymní pokladnu"
 
 msgctxt "SettingsOptions::checkout_redirect"
 msgid "Allow checkout only from the Cart content page"
-msgstr "Allow checkout only from the Cart content page"
+msgstr "Povolit vstup do pokladny jen ze stránky obsahu košíku"
 
 msgctxt "SettingsOptions::allow_usergroup_signup"
 msgid "Allow customer to signup for user group"
-msgstr "Allow customer to signup for user group"
+msgstr "Umožnit zákazníkovi se přihlásit do uživatelské skupiny"
 
 msgctxt "SettingsOptions::approve_user_profiles"
 msgid "Administrator must activate new user accounts"
@@ -14313,35 +14313,35 @@ msgstr "Správce musí aktivovat nové uživatelské účty"
 
 msgctxt "SettingsOptions::address_position"
 msgid "Profile address section order"
-msgstr "Profile address section order"
+msgstr "Pořadí adres v objednávce"
 
 msgctxt "SettingsOptions::changes_warning"
 msgid "Unsaved changes warning"
-msgstr "Unsaved changes warning"
+msgstr "Upozornění - neuložené změny"
 
 msgctxt "SettingsOptions::show_menu_descriptions"
 msgid "Show menu description"
-msgstr "Show menu description"
+msgstr "Zobrazit popis menu"
 
 msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
-msgstr "Notice displaying time (to turn off the autohide function enter 0)"
+msgstr "Čas zobrazení oznámení (pro vypnutí automatického skrývání zadejte 0)"
 
 msgctxt "SettingsOptions::use_email_as_login"
 msgid "User e-mail is used as login"
-msgstr "User e-mail is used as login"
+msgstr "E-mail uživatele se používá jako přihlašovací jméno"
 
 msgctxt "SettingsOptions::quick_registration"
 msgid "Quick registration"
-msgstr "Quick registration"
+msgstr "Rychlá registrace"
 
 msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
-msgstr "Ask customers to agree with terms &amp; conditions during checkout"
+msgstr "Při vyúčtování požádat zákazníky, aby souhlasily s Všeobecnými obchodními podmínkami"
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
-msgstr "Allow customers to pay order again if transaction was declined"
+msgstr "Umožnit zákazníkům zaplatit za objednávku znovu, pokud byla transakce odmítnuta"
 
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
@@ -14349,55 +14349,55 @@ msgstr "Spočítejte si přibližnou cenu dodávky do nákupního košíku strá
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Po úspěšné objednávce nabídnout hostům vytvoření konta"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
-msgstr "Disregard product options when calculating quantity discounts"
+msgstr "Při výpočtu množstevní slevy nebrat v úvahu možnosti produktů"
 
 msgctxt "SettingsOptions::header_8057"
 msgid "Proxy server for outgoing connections"
-msgstr "Proxy server for outgoing connections"
+msgstr "Proxy server pro odchozí připojení"
 
 msgctxt "SettingsOptions::proxy_host"
 msgid "Proxy host"
-msgstr "Proxy host"
+msgstr "Uživatel proxy"
 
 msgctxt "SettingsOptions::proxy_port"
 msgid "Proxy port"
-msgstr "Proxy port"
+msgstr "Port proxy"
 
 msgctxt "SettingsOptions::proxy_user"
 msgid "Proxy user"
-msgstr "Proxy user"
+msgstr "Uživatel proxy"
 
 msgctxt "SettingsOptions::proxy_password"
 msgid "Proxy password"
-msgstr "Proxy password"
+msgstr "Heslo proxy"
 
 msgctxt "SettingsOptions::header_15000"
 msgid "Search options"
-msgstr "Search options"
+msgstr "Možnosti hledání"
 
 msgctxt "SettingsOptions::search_objects"
 msgid "Search also in"
-msgstr "Search also in"
+msgstr "Hledat také v"
 
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
-msgstr "Use Encrypted Connection"
+msgstr "Použít šifrované připojení"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Konfigurace kroku \"Přihlásit se\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "První krok v pokladně může být skrytý, jen když neobsahuje povinná pole kontaktních informací."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Standardní volba pro sekci \"Nový zákazník\" na \"Přihlaste se\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
@@ -14405,19 +14405,19 @@ msgstr "Zobrazit krok \"Způsob dopravy\" (první zásilka bude aktivována jako
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Zobrazit krok \"Způsob platby\" (výchozím bude použit první aktivní způsob)"
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Povolit prodávání produktů ke stažení"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
 msgctxt "SettingsTooltips::store_access_key"
 msgid "Use: http://www.example.com/index.php?store_access_key=key_value"
@@ -14425,11 +14425,11 @@ msgstr "Použijté: http://www.example.com/index.php?store_access_key=key_value"
 
 msgctxt "SettingsTooltips::order_start_id"
 msgid "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
-msgstr "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
+msgstr "Zadejte číslo mezi 1 a 10.000.000 (použijte pouze číslice), nebo ponechte prázdné pro automatické vyplnění."
 
 msgctxt "SettingsTooltips::user_multiple_profiles"
 msgid "Shipping and billing addresses"
-msgstr "Shipping and billing addresses"
+msgstr "Fakturační adresy a adresy doručení"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
@@ -14437,35 +14437,35 @@ msgstr "Ponechte prázdné pro průhledné pozadí (vyžaduje PHP GD knihovna ve
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
 msgctxt "SettingsTooltips::checkout_redirect"
 msgid "When the customer clicks on any Checkout button/link in the store"
-msgstr "When the customer clicks on any Checkout button/link in the store"
+msgstr "Když zákazník klikne na kterékoliv tlačítko/odkaz v obchodě"
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
+msgstr "Sledovat změny v reálném čase a automaticky znovu ukládat modifikované soubory do mezipaměti (i soubory upravené přímo na serveru). Může mírně ovlivnit výkon obchodu. Doporučujeme vypnout při tvorbě."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
-msgstr "If you disable this check box, description of menu items will be hidden"
+msgstr "Pokud odškrtneme toto políčko, popisy položek menu budou skryty"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Při registraci vyžadovat pouze kontaktní informace"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
-msgstr "Default"
+msgstr "Výchozí"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
-msgstr "Manual feedback"
+msgstr "Manuální zpětná vazba"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
-msgstr "Automatic feedback"
+msgstr "Automatická zpětná vazba"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
@@ -14477,11 +14477,11 @@ msgstr "15:43"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::allow_shopping"
 msgid "Allow"
-msgstr "Allow"
+msgstr "Povolit"
 
 msgctxt "SettingsVariants::string_type::digits"
 msgid "Digits only"
-msgstr "Digits only"
+msgstr "Pouze číslice"
 
 msgctxt "SettingsVariants::calendar_date_format::month_first"
 msgid "09/30/2008 (month/day/year)"
@@ -14493,7 +14493,7 @@ msgstr "Neděle"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
-msgstr "Billing first"
+msgstr "Nejprve fakturační"
 
 msgctxt "SettingsVariants::log_type_general::runtime"
 msgid "Runtime"
@@ -14501,7 +14501,7 @@ msgstr "Runtime"
 
 msgctxt "SettingsVariants::default_state_update_for_all::not_active"
 msgid "Not Active"
-msgstr "Not Active"
+msgstr "Neaktivní"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
@@ -14513,15 +14513,15 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "Výrobky s dopravou"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
-msgstr "Hide the \"Add to cart\" button"
+msgstr "Skrýt tlačítka \"Přidat do košíku\""
 
 msgctxt "SettingsVariants::string_type::letters"
 msgid "Letters only"
-msgstr "Letters only"
+msgstr "Dopisy pouze"
 
 msgctxt "SettingsVariants::calendar_date_format::day_first"
 msgid "30/09/2008 (day/month/year)"
@@ -14533,15 +14533,15 @@ msgstr "Pondělí"
 
 msgctxt "SettingsVariants::address_position::shipping_first"
 msgid "Shipping first"
-msgstr "Shipping first"
+msgstr "Nejprve dodací"
 
 msgctxt "SettingsVariants::log_type_general::deprecated"
 msgid "Deprecated features"
-msgstr "Deprecated features"
+msgstr "Zastarané vlastnosti"
 
 msgctxt "SettingsVariants::default_state_update_for_all::active"
 msgid "Active"
-msgstr "Active"
+msgstr "Aktivní"
 
 msgctxt "SettingsVariants::date_format::%d.%m.%Y"
 msgid "29.09.2005 (day.month.year)"
@@ -14549,19 +14549,19 @@ msgstr "29.09.2005 (den.měsíc.rok)"
 
 msgctxt "SettingsVariants::time_format::%I:%M %p"
 msgid "3:43 PM"
-msgstr "3:43 PM"
+msgstr "15:43"
 
 msgctxt "SettingsVariants::min_order_amount_type::only_products"
 msgid "Products"
-msgstr "Products"
+msgstr "Produkty"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
-msgstr "Hide price and the \"Add to cart\" button"
+msgstr "Skrýt cenu a tlačítko \"Přidat do košíku\""
 
 msgctxt "SettingsVariants::string_type::mixed"
 msgid "Mixed"
-msgstr "Mixed"
+msgstr "Smíšené"
 
 msgctxt "SettingsVariants::date_format::%m/%d/%Y"
 msgid "09/29/2005 (month/day/year)"
@@ -14569,55 +14569,55 @@ msgstr "09/29/2005 (měsíc/den/rok)"
 
 msgctxt "SettingsVariants::time_format::%I.%M %p"
 msgid "3.43 PM"
-msgstr "3.43 PM"
+msgstr "15:43"
 
 msgctxt "SettingsVariants::log_type_orders::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Vytvořit"
 
 msgctxt "SettingsVariants::log_type_orders::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Smazat"
 
 msgctxt "SettingsVariants::log_type_orders::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Aktualizovat"
 
 msgctxt "SettingsVariants::log_type_products::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Vytvořit"
 
 msgctxt "SettingsVariants::log_type_products::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Smazat"
 
 msgctxt "SettingsVariants::log_type_products::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Aktualizovat"
 
 msgctxt "SettingsVariants::log_type_users::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Vytvořit"
 
 msgctxt "SettingsVariants::log_type_users::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Smazat"
 
 msgctxt "SettingsVariants::log_type_users::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Aktualizovat"
 
 msgctxt "SettingsVariants::log_type_categories::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Vytvořit"
 
 msgctxt "SettingsVariants::log_type_categories::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Smazat"
 
 msgctxt "SettingsVariants::log_type_categories::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Aktualizovat"
 
 msgctxt "SettingsVariants::date_format::%m-%d-%Y"
 msgid "09-29-2005 (month-day-year)"
@@ -14629,39 +14629,39 @@ msgstr "15:43:55"
 
 msgctxt "SettingsVariants::month::%B, %Y"
 msgid "January, 2006"
-msgstr "January, 2006"
+msgstr "Leden, 2006"
 
 msgctxt "SettingsVariants::log_type_orders::status"
 msgid "Change"
-msgstr "Change"
+msgstr "Změna"
 
 msgctxt "SettingsVariants::log_type_users::session"
 msgid "Session"
-msgstr "Session"
+msgstr "Relace"
 
 msgctxt "SettingsVariants::log_type_users::failed_login"
 msgid "Failed logins"
-msgstr "Failed logins"
+msgstr "Selhalo přihlášení"
 
 msgctxt "SettingsVariants::log_type_products::low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "Nízká úroveň zásob"
 
 msgctxt "SettingsVariants::log_type_database::restore"
 msgid "Restore"
-msgstr "Restore"
+msgstr "Obnovit"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Zálohovat"
 
 msgctxt "SettingsVariants::log_type_database::optimize"
 msgid "Optimize"
-msgstr "Optimize"
+msgstr "Optimalizovat"
 
 msgctxt "SettingsVariants::log_type_database::error"
 msgid "Errors"
-msgstr "Errors"
+msgstr "Chyby"
 
 msgctxt "SettingsVariants::log_type_requests::http"
 msgid "HTTP/HTTPS"
@@ -14681,7 +14681,7 @@ msgstr "2005/09/29 (rok/měsíc/den)"
 
 msgctxt "SettingsVariants::time_format::%I:%M:%S %p"
 msgid "3:43:55 PM"
-msgstr "3:43:55 PM"
+msgstr "15:43:55"
 
 msgctxt "SettingsVariants::date_format::%Y-%m-%d"
 msgid "2005-09-29 (year-month-day)"
@@ -14689,7 +14689,7 @@ msgstr "2005-09-29 (rok-měsíc-den)"
 
 msgctxt "SettingsVariants::time_format::%I.%M.%S %p"
 msgid "3.43.55 PM"
-msgstr "3.43.55 PM"
+msgstr "15:43:55"
 
 msgctxt "SettingsVariants::date_format::%Y.%m.%d"
 msgid "2005.09.29 (year.month.day)"
@@ -14697,11 +14697,11 @@ msgstr "2005.09.29 (rok.měsíc.den)"
 
 msgctxt "SettingsVariants::exception_style::hide"
 msgid "Hide exception"
-msgstr "Hide exception"
+msgstr "Skrýt výjimku"
 
 msgctxt "SettingsVariants::alternative_currency::use_only_selected"
 msgid "Show prices in selected currency only"
-msgstr "Show prices in selected currency only"
+msgstr "Ceny zobrazit jen ve vybrané měně"
 
 msgctxt "SettingsVariants::date_format::%b %e, %Y"
 msgid "Sep 29, 2005 (month day, year)"
@@ -14713,7 +14713,7 @@ msgstr "Název produktu"
 
 msgctxt "SettingsVariants::day::%a, %b %e"
 msgid "Tue, Jan 3"
-msgstr "Tue, Jan 3"
+msgstr "Út, Leden 3"
 
 msgctxt "SettingsVariants::week::%U"
 msgid "1 week"
@@ -14721,7 +14721,7 @@ msgstr "1 týden"
 
 msgctxt "SettingsVariants::month::%B"
 msgid "January"
-msgstr "January"
+msgstr "Leden"
 
 msgctxt "SettingsVariants::year::%Y"
 msgid "2006"
@@ -14733,11 +14733,11 @@ msgstr "přes SMTP server"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
-msgstr "(GMT-12:00) International Date Line West"
+msgstr "(GMT-12: 00) Mezinárodní Datumové hranice - západ"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
-msgstr "Unit price"
+msgstr "Jednotka ceny"
 
 msgctxt "SettingsVariants::date_format::%d %b %Y"
 msgid "29 Sep 2005 (day month year)"
@@ -14757,15 +14757,15 @@ msgstr "Leden 3, 2006"
 
 msgctxt "SettingsVariants::exception_style::warning"
 msgid "Show warning on exception"
-msgstr "Show warning on exception"
+msgstr "Zobrazit upozornění na výjimku"
 
 msgctxt "SettingsVariants::alternative_currency::use_selected_and_alternative"
 msgid "Show prices in default and selected currencies"
-msgstr "Show prices in default and selected currencies"
+msgstr "Ceny zobrazit v předvolené a vybraných měnách"
 
 msgctxt "SettingsVariants::default_products_sorting::price"
 msgid "Price"
-msgstr "Price"
+msgstr "Cena"
 
 msgctxt "SettingsVariants::day::%m.%e.%y"
 msgid "01.03.06"
@@ -14785,11 +14785,11 @@ msgstr "06"
 
 msgctxt "SettingsVariants::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "přes php mail funkci"
 
 msgctxt "SettingsVariants::timezone::Pacific/Apia"
 msgid "(GMT-11:00) Midway Island, Samoa"
-msgstr "(GMT-11:00) Midway Island, Samoa"
+msgstr "(GMT-11:00) Midwayské ostrovy, Samoa"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
@@ -14805,23 +14805,23 @@ msgstr "Út Leden 3, 2006"
 
 msgctxt "SettingsVariants::week::%U, %b"
 msgid "1, Jan"
-msgstr "1, Jan"
+msgstr "1, Leden"
 
 msgctxt "SettingsVariants::month::%b"
 msgid "Jan"
-msgstr "Jan"
+msgstr "Leden"
 
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "přes sendmail program"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
-msgstr "(GMT-10:00) Hawaii"
+msgstr "(GMT-10:00) Havaj"
 
 msgctxt "SettingsVariants::day::%b %e"
 msgid "Jan 3"
-msgstr "Jan 3"
+msgstr "Leden 3"
 
 msgctxt "SettingsVariants::month::%m-%Y"
 msgid "01-2006"
@@ -15117,7 +15117,7 @@ msgstr "(GMT + 13:00) Nuku'alofa"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Při registraci vyžadovat pouze kontaktní informace"
 
 msgctxt "Languages::views"
 msgid "Views"
@@ -15145,7 +15145,7 @@ msgstr "Fax"
 
 msgctxt "ProfileFields::url"
 msgid "URL"
-msgstr "URL"
+msgstr "Adresa URL"
 
 msgctxt "ProfileFields::b_firstname"
 msgid "First name"
@@ -15225,15 +15225,15 @@ msgstr "E-mail"
 
 msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
-msgstr "Address type"
+msgstr "Typ adresy"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr "Product must belong to some category created by the owner company."
+msgstr "Produkt musí patřit do některé z vlastnických společností vytvořených kategorií."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
-msgstr "None"
+msgstr "Žádné"
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::tls"
 msgid "TLS"
@@ -15245,23 +15245,23 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Zobrazit nejprve \"Nový zákazník\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Zobrazit nejprve \"Registrovaný zákazník\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Skrýt krok zcela"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Registrace"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Jednorázový nákup"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15269,19 +15269,19 @@ msgstr "Minulý rok"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "Obchod uzavřen"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "Obchod<br/>zavřený"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Kopírovat do jiných umístění"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Vlastní HTML kód"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
@@ -15297,27 +15297,27 @@ msgstr "This will delete all selected categories' products, as well as their sub
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Obnovit původní"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Nastavit vlastní konfigurace"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Použít výchozí blok konfigurace"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Vlastní soubory"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Veřejné soubory"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "Šablony"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
@@ -15329,23 +15329,23 @@ msgstr "Please supply the IP address of your server to your Realex Payments acco
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Zúčtování"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Odložené zúčtování"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Automatické zúčtování"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Mapa konverze objednávek z Realex do CS-Cart"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Podúčet"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
@@ -15357,39 +15357,39 @@ msgstr "Liability Shift required"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "3-D zabezpečená správa"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Váš Realex účet byl suspendován. Pro další informace kontaktujte technickou podporu Realex."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Nesprávná forma nebo obsach XML zprávy"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Chyba s Realex systémy"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Chyba s bankovním systémem"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Karta nahlášena jako ztracená nebo odcizená"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Doporučení bankou"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "AVS PSČ"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "AVS adresa"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15409,27 +15409,27 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Zpráva o výsledku"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Kód výsledku"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Transakce PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "Transakce ID zakázky"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Shodné"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Neshodné"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
@@ -15441,11 +15441,11 @@ msgstr "Nelze zkontrolovat"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Částečná shoda"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Tato platba není při daném typu kreditní karty možná."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
@@ -15453,23 +15453,23 @@ msgstr "Nesprávné hodnoty \"Platí do\" pole."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Přihlašovací formulář"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Vytvořit a upravit profilový formulář"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Formulář Pokladna (informace o uživateli)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Sledovat mou objednávku"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "SEO nastavení vašeho obchodu."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15477,27 +15477,27 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Úpravování: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Upravit soubor robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Obnovit výchozí soubor robots.txt"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Chyba v ověřování údajů kreditní karty. Buď je neplatné číslo kreditní karty, nebo je karta po vypršení platnosti, nebo je neplatný CVC."
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Možnost výjimky"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Horizontální filtry"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15546,31 +15546,31 @@ msgstr "Package contains files that were not described in schema or schema has l
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Nová verze"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Přenesení"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Oprávnění problém"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Místní úpravy"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Chápu, že mé místní úpravy budou navždy ztraceny během upgradu"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Změní se"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Budou odstraněny"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
@@ -15578,27 +15578,27 @@ msgstr "Upgrade package validators"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Spustit validátor \"[validator]\""
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Kopírovat soubory"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Spustit přenesení"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Instalace jazyků"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Zdokonalit rozvoj"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Nahrát zdokonalení balíček"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15606,5 +15606,13 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Mimo navigace"
+
+msgctxt "Languages::exim_error_incorrect_feature_type"
+msgid "text"
+msgstr "text"
+
+msgctxt "Languages::exim_error_empty_feature_name"
+msgid "text"
+msgstr "text"
 

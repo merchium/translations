@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-12 03:00-0500\n"
+"PO-Revision-Date: 2015-02-12 15:00-0500\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -81,11 +81,11 @@ msgstr "The newsletter(s) have been sent successfully."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail cannot be empty"
+msgstr "E-mail nie może być pusty"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
-msgstr "Sending email to [email]..."
+msgstr "Wysyłanie maila do [email]..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
@@ -93,7 +93,7 @@ msgstr "Your e-mail has been successfully added to our free e-mail updates list"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
-msgstr "Your e-mail is already subscribed."
+msgstr "Twój e-mail jest już zarejestrowany."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
@@ -141,11 +141,11 @@ msgstr "From email"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr "Reply to"
+msgstr "Odpowiedz do"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
-msgstr "Confirmation email"
+msgstr "E-mail potwierdzający"
 
 msgctxt "Languages::no_autoresponder"
 msgid "No autoresponder"
@@ -157,23 +157,23 @@ msgstr "Show at checkout"
 
 msgctxt "Languages::show_on_registration"
 msgid "Show on registration"
-msgstr "Show on registration"
+msgstr "Pokaż przy rejestracji"
 
 msgctxt "Languages::show_on_separate_page"
 msgid "Show on separate page"
-msgstr "Show on separate page"
+msgstr "Pokaż na osobnej stronie"
 
 msgctxt "Languages::campaign_stats"
 msgid "Campaign statistics"
-msgstr "Campaign statistics"
+msgstr "Statystyki kampanii"
 
 msgctxt "Languages::add_campaign"
 msgid "Add campaign"
-msgstr "Add campaign"
+msgstr "Dodaj kampanię"
 
 msgctxt "Languages::new_campaign"
 msgid "New campaign"
-msgstr "New campaign"
+msgstr "Nowa kampania"
 
 msgctxt "Languages::newsletter_templates"
 msgid "Newsletter templates"
@@ -317,19 +317,19 @@ msgstr "If the message text contains the unsubscribe link, it will be empty for 
 
 msgctxt "Languages::add_mailing_lists"
 msgid "Add mailing list"
-msgstr "Add mailing list"
+msgstr "Dodaj listę mailingową"
 
 msgctxt "Languages::add_subscribers"
 msgid "Add subscribers"
-msgstr "Add subscribers"
+msgstr "Dodaj subskrybentów"
 
 msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
-msgstr "New mailing list"
+msgstr "Nowa lista mailingowa"
 
 msgctxt "Languages::new_subscribers"
 msgid "New subscribers"
-msgstr "New subscribers"
+msgstr "Nowi subskrybenci"
 
 msgctxt "SettingsSections::newsletters::general"
 msgid "General"
@@ -337,15 +337,15 @@ msgstr "General"
 
 msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
 msgid "Newsletters sent per step"
-msgstr "Newsletters sent per step"
+msgstr "Ilość maili wysyłanych na krok"
 
 msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
 msgid "Advanced mailing server options"
-msgstr "Advanced mailing server options"
+msgstr "Zaawansowane opcje serwera poczty"
 
 msgctxt "SettingsOptions::newsletters::mailer_send_method"
 msgid "Method of sending e-mails"
-msgstr "Method of sending e-mails"
+msgstr "Metoda wysyłania e-maili"
 
 msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
 msgid "SMTP server settings"
@@ -373,7 +373,7 @@ msgstr "przez serwer SMTP"
 
 msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "za pomocą funkcji php mail"
 
 msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
 msgid "use default settings"
