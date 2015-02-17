@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-16 09:00-0500\n"
+"PO-Revision-Date: 2015-02-17 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7797,7 +7797,7 @@ msgstr "Automaticky znovu vytvořit vyrovnávací paměť"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Změněné soubory jsou sledovány v reálném čase (včetně souborů upravený přímo na serveru) a re-cache. Blok mezipaměti se vypne. Výkon obchodu může být mírně ovlivněn."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -11201,7 +11201,7 @@ msgstr "Soubory byly zálohovány"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "Balíček aktualizace se zdá být poškozen. Prosím, aktualizujte seznam balíčků a zkuste to znovu stáhnout"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -12201,7 +12201,7 @@ msgstr "Výrobce doporučené maloobchodní ceny."
 
 msgctxt "Languages::tt_views_products_update_out_of_stock_actions"
 msgid "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
-msgstr "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
+msgstr "Možnost \"Koupit předem\" vyžaduje kladné množství zboží na skladě, zatímco \"Dostávat upozornění\" vyžaduje, aby zboží na skladu nebylo. Poznámka: možnost \"Dostávat upozornění\" se nevztahuje na výrobky sledováné s možnostmi."
 
 msgctxt "Languages::tt_views_products_update_product_details_layout"
 msgid "By default, the template that is defined in the settings of the main product category is used"
@@ -12665,7 +12665,7 @@ msgstr "Osvědčení o poštovném"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_for_firm_mailing_books"
 msgid "Certificate of mailing for firm mailing books"
-msgstr "Certificate of mailing for firm mailing books"
+msgstr "Osvědčení o mailing pro firemní e-mailové knihy"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_per_individual_article"
 msgid "Certificate of mailing per individual article"
@@ -13493,7 +13493,7 @@ msgstr "Povolit LESS"
 
 msgctxt "Languages::theme_editor.warning_css_changes_will_be_reverted"
 msgid "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
-msgstr "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
+msgstr "<p>Pokud chcete používat Editor témat, musíte se přepnout zpět na LESS, které používá namísto CSS.</p><p><strong>Důležité:</strong> Všechny CSS soubory budou při obnově přepsány! Vlastní změny v CSS budou uloženy v zálohovém adresáři.</p>"
 
 msgctxt "Languages::theme_editor.confirm_enable_less"
 msgid "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
@@ -13677,7 +13677,7 @@ msgstr "Šablona pro ladění"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Přepravní služby"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -13837,7 +13837,7 @@ msgstr "Uživatelské jméno"
 
 msgctxt "SettingsOptions::company_state"
 msgid "Company state"
-msgstr "Company state"
+msgstr "Stav společnosti"
 
 msgctxt "SettingsOptions::weight_symbol_grams"
 msgid "Grams in the unit of weight defined by the weight symbol"
@@ -15285,15 +15285,15 @@ msgstr "Vlastní HTML kód"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Tento HTML kód bude vložen mezi tagy &lt;head&gt;&lt;/head&gt;"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Tato akce odstraní všechny výrobky z vybrané kategorie, včetně jejích podkategorií a jejich produktů."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Tato akce odstraní všechny výrobky z vybrané kategorie, včetně jejích podkategorií a jejich produktů."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
@@ -15321,11 +15321,11 @@ msgstr "Šablony"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Pošlete, prosím tuto URL adresu vašemu správci účtů Realex Payments"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Zašlete, prosím, IP adresu serveru vašemu správci účtů Realex Payments"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
@@ -15349,11 +15349,11 @@ msgstr "Podúčet"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Přenos ručení"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Vyžadován přenos ručení"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
@@ -15506,43 +15506,43 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "Aktualizovaný konektor [connector_id] vrátil nesprávné údaje"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "Aktualizovaný balíček byl stažen a je připraven na instalaci"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "Aktualizovaný konektor nenalezen"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "Nelze načíst schéma balíčku (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "Obsah schémata balíčku nebyl nalezen"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Balíček schéma JSON není platným"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Zakázáno: Doplněk se snaží inovovat základní soubory ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Balíček obsahuje migrace, které nebyly popsány v schéma nebo schéma obsahuje odkazy na chybějící soubory migrace"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Balíček obsahuje jazyky, které nebyly popsány v schéma nebo schéma obsahuje odkazy na chybějící soubory jazyků"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Balíček obsahuje soubory, které nebyly popsány v schéma nebo schéma obsahuje odkazy na chybějící soubory"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15574,7 +15574,7 @@ msgstr "Budou odstraněny"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Aktualizace balíčku potvrzení"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
@@ -15602,7 +15602,7 @@ msgstr "Nahrát zdokonalení balíček"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Nahrávání aktualizovaných balíčeků umožňuje použít rychlé opravy nebo doplňku aktualizace. Můžete nahrát inovační balíček výběrem tgz, gz, zip archivu a klepnutím na tlačítko Nahrát."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"

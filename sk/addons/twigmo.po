@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-11 13:00-0500\n"
+"PO-Revision-Date: 2015-02-16 17:00-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -37,7 +37,7 @@ msgstr "Aktualizácia"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Push notifikácie"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -737,7 +737,7 @@ msgstr "Mobilná aplikácia"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
-msgstr "QR code for the app<br>login page"
+msgstr "QR kód pre app <br>prihlasovacia stránka"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
@@ -773,23 +773,23 @@ msgstr "Pridať konto"
 
 msgctxt "Languages::twapp_pull_to_refresh"
 msgid "Pull to refresh"
-msgstr "Pull to refresh"
+msgstr "Vytiahnuť obnovenie"
 
 msgctxt "Languages::twapp_release_to_refresh"
 msgid "Release to refresh"
-msgstr "Release to refresh"
+msgstr "Vydanie obnovenia"
 
 msgctxt "Languages::twapp_could_not_connect"
 msgid "Could not connect to the Twigmo add-on at [URL]."
-msgstr "Could not connect to the Twigmo add-on at [URL]."
+msgstr "Nedá sa pripojiť k Twigmo doplnku v [URL]."
 
 msgctxt "Languages::twgadmin_push_notifications"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Push notifikácie"
 
 msgctxt "Languages::twgadmin_send_push_notifications"
 msgid "Send push notifications to your mobile store app users"
-msgstr "Send push notifications to your mobile store app users"
+msgstr "Odoslať upozornenia na váš mobilný obchod používateľom"
 
 msgctxt "Languages::twgadmin_select_store_short"
 msgid "Select a store"
@@ -797,33 +797,33 @@ msgstr "Vyberte obchod"
 
 msgctxt "Languages::twgadmin_push_notification_text"
 msgid "Push notification text"
-msgstr "Push notification text"
+msgstr "Tlačiť text upozornenia"
 
 msgctxt "Languages::twgadmin_push_notification_comment"
 msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
-msgstr "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
+msgstr "Pozrite sa do politiky <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\"> Apple</a> a <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\"> Google</a> o posielanie reklamy v push notifikácie. Mobilné aplikácie môžu byť zakázané pre porušuje tieto podmienky."
 
 msgctxt "Languages::twgadmin_push_will_send_to"
 msgid "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
-msgstr "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
+msgstr "Táto správa sa zašle <b>[ios_amount]</b> iOS a <b>[android_amount]</b> užívateľov Android App vaše obchod."
 
 msgctxt "Languages::twgadmin_push_has_uploaded"
 msgid "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
-msgstr "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
+msgstr "Správy boli nahrané na server a začala posielať správa mobilné app používateľom (to môže trvať až hodinu v závislosti na počte užívateľov)."
 
 msgctxt "Languages::twgadmin_send_push"
 msgid "Send push notifications about order status update to the mobile store app users"
-msgstr "Send push notifications about order status update to the mobile store app users"
+msgstr "Push oznámenia o aktualizáciu stavu objednávky zaslať mobilný obchod app užívateľov"
 
 msgctxt "Languages::twgadmin_send_push_error"
 msgid "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
-msgstr "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
+msgstr "Jejda, niečo sa pokazilo. Nemôžeme potvrdiť správa bola odoslaná. Prosím, <a href=\"http://support.twigmo.com\" target=\"_blank\"> kontaktujte tím podpory Twigmo</a> na vyriešenie tohto problému."
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_android"
 msgid "[This order was placed via Twigmo Mobile Application for Android]"
-msgstr "[This order was placed via Twigmo Mobile Application for Android]"
+msgstr "[Toto bola objednávka cez Twigmo mobilné aplikácie pre Android]"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
 msgid "[This order was placed via Twigmo Mobile Application for iOS]"
-msgstr "[This order was placed via Twigmo Mobile Application for iOS]"
+msgstr "[Toto bola objednávka cez Twigmo mobilné aplikácie pre iOS]"
 
