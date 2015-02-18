@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/store_import.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-16 04:01-0500\n"
+"PO-Revision-Date: 2015-02-18 06:00-0500\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -186,6 +186,54 @@ msgstr "<p><h4>インポート元ショップからのデータインポート�
 msgctxt "Languages::store_import.text_configuration2"
 msgid "<p>When you are ready customizing, you will be able to actualize the data by going to the Store import tool again and proceeding directly to the next step. Unlike the initial store import, data actualization will keep all your settings, layouts, and design.</p><p><strong>Attention!</strong> Data actualization will be impossible if you modify, remove, or add new [storefronts_vendors]. In this case, you will have to re-start the store import from the first step.</p>"
 msgstr "<p>ショップデータのインポート後にインポート元ショップのDBに対して加えられた変更（注文・商品の追加など）を、インポート先ショップに後から反映させることができます。一旦この「ショップデータのインポート」ページを離れ、デザインや各種設定の調整後に再びアクセスすると「ショップの指定」ではなく「ショップの設定」または「更新データの反映」から作業をスタートできます。「更新データの反映」ではインポート先ショップの設定やレイアウト、デザインを保持したままインポート元ショップのDBに対して加えられた変更を反映することができます。</p><p><strong>ご注意ください！！</strong> インポートされたショップを変更・削除したりショップを新規追加した場合には「更新データの反映」は実施いただけません。「ショップの指定」からショップデータのインポートを再度実行する必要があります。</p>"
+
+msgctxt "Languages::store_import.424_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.423_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.422_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.421_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.415_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.414_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.413_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.412_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.411_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.401_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.402_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+
+msgctxt "Languages::store_import.403_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
 
 msgctxt "Languages::store_import.306_ultimate"
 msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
