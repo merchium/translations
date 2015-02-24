@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-19 09:00-0500\n"
+"PO-Revision-Date: 2015-02-22 11:00-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -19,161 +19,25 @@ msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
 msgstr "Přidává možnost Sociálního přihlášení, které umožňuje zákazníkům přihlásit se do obchodu přes Facebook, Twitter a podobně"
 
-msgctxt "Languages::hybrid_auth_need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "Není vyplněno pole \"Heslo\" a několik dalších povinných polí. Prosím, aktualizujte svůj profil."
-
-msgctxt "Languages::hybrid_auth_social_login"
-msgid "Or sign-in with another identity provider"
-msgstr "Nebo se přihlaste jiným způsobem"
-
-msgctxt "Languages::hybrid_auth_unspecified_error"
-msgid "Unspecified error"
-msgstr "Neznámá chyba"
-
-msgctxt "Languages::hybrid_auth_configuration_error"
-msgid "Social login configuration error"
-msgstr "Chyba konfigurace sociálního přihlášení"
-
-msgctxt "Languages::hybrid_auth_provider_error_configuration"
-msgid "Provider not properly configured"
-msgstr "Poskytovatel není správně nakonfigurován"
-
-msgctxt "Languages::hybrid_auth_wrong_provider"
-msgid "Unknown or disabled provider"
-msgstr "Neznámý nebo zakázaný poskytovatel"
-
-msgctxt "Languages::hybrid_auth_missing_credentials"
-msgid "Missing provider application credentials"
-msgstr "Chybějící pověření poskytovatele aplikace"
-
-msgctxt "Languages::hybrid_auth_failed_auth"
-msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "Ověření selhalo. Uživatel zrušil ověřování nebo poskytovatel odmítl připojení"
-
-msgctxt "Languages::hybrid_auth_connecting_provider"
-msgid "Contacting <b>[provider]</b>. Please wait..."
-msgstr "Kontaktuje <b>[provider]</b>. Prosím, počkejte..."
-
-msgctxt "Languages::hybrid_auth_cant_create_profile"
-msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
-msgstr "Z jednoho z následujících důvodů se nám, bohužel, nepodařilo vytvořit zákaznický účet a přihlásit se do obchodu:<br />- Přihlásili jste se do našeho obchodu již dříve pomocí jiného poskytovatele OpenID, kde byla použita stejná e-mailová adresa.<br />- Už jste se v našem obchodě zaregistrovali pomocí vaší e-mailové adresy.<br />Prosím, kontaktujte majitele obchodu k řešení problémů."
-
-msgctxt "Languages::google_callback_url"
-msgid "Google callback URL"
-msgstr "Adresa pro Google callback"
-
 msgctxt "SettingsSections::hybrid_auth::general"
 msgid "General"
 msgstr "Obecné"
 
-msgctxt "SettingsOptions::hybrid_auth::header_openid"
-msgid "OpenID"
-msgstr "OpenID"
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "Soubor ikon"
 
-msgctxt "SettingsOptions::hybrid_auth::openid_status"
-msgid "Enable OpenID"
-msgstr "Povolit OpenID"
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "Adresář s ikonami sociálních sítí. Cesta k adresáři: media/images/addons/addons/hybrid_auth/icons/."
 
-msgctxt "SettingsOptions::hybrid_auth::header_yahoo"
-msgid "Yahoo"
-msgstr "Yahoo"
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Autogenerácia e-mailu"
 
-msgctxt "SettingsOptions::hybrid_auth::yahoo_status"
-msgid "Enable Yahoo"
-msgstr "Povolit Yahoo"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_key"
-msgid "Yahoo ID"
-msgstr "Yahoo ID"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_secret"
-msgid "Yahoo Secret key"
-msgstr "Tajný klíč pro Yahoo"
-
-msgctxt "SettingsOptions::hybrid_auth::header_google"
-msgid "Google"
-msgstr "Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_status"
-msgid "Enable Google"
-msgstr "Povolit Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_id"
-msgid "Google ID"
-msgstr "Google ID"
-
-msgctxt "SettingsOptions::hybrid_auth::google_secret"
-msgid "Google Secret key"
-msgstr "Tajný klíč pro Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_callback_url"
-msgid "Google callback url"
-msgstr "Adresa pro Google callback"
-
-msgctxt "SettingsOptions::hybrid_auth::header_facebook"
-msgid "Facebook"
-msgstr "Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_status"
-msgid "Enable Facebook"
-msgstr "Povolit Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_id"
-msgid "Facebook ID"
-msgstr "Facebook ID"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_secret"
-msgid "Facebook Secret key"
-msgstr "Tajný klíč pro Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::header_twitter"
-msgid "Twitter"
-msgstr "Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_status"
-msgid "Enable Twitter"
-msgstr "Povolit Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_key"
-msgid "Twitter API key"
-msgstr "Twitter API klíč"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_secret"
-msgid "Twitter Secret key"
-msgstr "Tajný klíč pro Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::header_myspace"
-msgid "MySpace"
-msgstr "MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_status"
-msgid "Enable MySpace"
-msgstr "Povolit MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_key"
-msgid "MySpace API key"
-msgstr "MySpace API klíč"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_secret"
-msgid "MySpace Secret key"
-msgstr "Tajný klíč pro MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::header_linkedin"
-msgid "LinkedIn"
-msgstr "LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_status"
-msgid "Enable LinkedIn"
-msgstr "Povolit LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_key"
-msgid "LinkedIn API key"
-msgstr "LinkedIn API klíč"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_secret"
-msgid "LinkedIn Secret key"
-msgstr "Tajný klíč pro LinkedIn"
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Povoluje autogeneráciu e-mailu v případě, že sociální síť neprojde přes adresu."
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
@@ -198,10 +62,6 @@ msgstr "Úprava poskytovatele"
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
 msgstr "URL adresa pro callback"
-
-msgctxt "Languages::hybrid_auth.need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "Není vyplněno pole \"Heslo\" a několik dalších povinných polí. Prosím, aktualizujte svůj profil."
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
@@ -290,22 +150,6 @@ msgstr "Vytvořit poskytovatele sociální sítě"
 msgctxt "Languages::public_key"
 msgid "Public key"
 msgstr "Veřejný klíč"
-
-msgctxt "SettingsOptions::hybrid_auth::icons_pack"
-msgid "Icons pack"
-msgstr "Soubor ikon"
-
-msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
-msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-msgstr "Adresář s ikonami sociálních sítí. Cesta k adresáři: media/images/addons/addons/hybrid_auth/icons/."
-
-msgctxt "SettingsOptions::hybrid_auth::autogen_email"
-msgid "Autogeneration email"
-msgstr "Autogenerácia e-mailu"
-
-msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
-msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "Povoluje autogeneráciu e-mailu v případě, že sociální síť neprojde přes adresu."
 
 msgctxt "Languages::hybrid_auth::paypal_seamless"
 msgid "Use seamless checkout"

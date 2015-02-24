@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-15 18:00-0500\n"
+"PO-Revision-Date: 2015-02-20 10:02-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -19,161 +19,25 @@ msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
 msgstr "Авторизации в магазине через социальные сети (Facebook, Twitter и т.д.)"
 
-msgctxt "Languages::hybrid_auth_need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "Поле «Пароль» и некоторые другие обязательные поля пусты. Пожалуйста, обновите свой профиль."
-
-msgctxt "Languages::hybrid_auth_social_login"
-msgid "Or sign-in with another identity provider"
-msgstr "или войти через соцсеть"
-
-msgctxt "Languages::hybrid_auth_unspecified_error"
-msgid "Unspecified error"
-msgstr "Неизвестная ошибка"
-
-msgctxt "Languages::hybrid_auth_configuration_error"
-msgid "Social login configuration error"
-msgstr "Ошибка настроек входа через соц. сети"
-
-msgctxt "Languages::hybrid_auth_provider_error_configuration"
-msgid "Provider not properly configured"
-msgstr "Провайдер настроен неверно"
-
-msgctxt "Languages::hybrid_auth_wrong_provider"
-msgid "Unknown or disabled provider"
-msgstr "Неизвестный или неактивный провайдер"
-
-msgctxt "Languages::hybrid_auth_missing_credentials"
-msgid "Missing provider application credentials"
-msgstr "Недостающие данные приложения провайдера"
-
-msgctxt "Languages::hybrid_auth_failed_auth"
-msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "Проверка подлинности завершилась неудачей. Пользователь отменил проверку, или провайдер прервал соединение"
-
-msgctxt "Languages::hybrid_auth_connecting_provider"
-msgid "Contacting <b>[provider]</b>. Please wait..."
-msgstr "Cоединение с <b>[provider]</b>. Пожалуйста, подождите..."
-
-msgctxt "Languages::hybrid_auth_cant_create_profile"
-msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
-msgstr "К сожалению, войти в магазин не получилось. Возможные причины:<br />- Вы ранее авторизовались в магазине, используя другой сервис OpenID, но с тем же адресом эл. почты.<br />- Вы уже зарегистрированы в нашем магазине с использованием этого адреса эл. почты.<br />Пожалуйста, свяжитесь с администрацией магазина для разрешения этой проблемы."
-
-msgctxt "Languages::google_callback_url"
-msgid "Google callback URL"
-msgstr "URL ответа Google (callback URL)"
-
 msgctxt "SettingsSections::hybrid_auth::general"
 msgid "General"
 msgstr "Общие"
 
-msgctxt "SettingsOptions::hybrid_auth::header_openid"
-msgid "OpenID"
-msgstr "OpenID"
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "Иконки"
 
-msgctxt "SettingsOptions::hybrid_auth::openid_status"
-msgid "Enable OpenID"
-msgstr "Включить OpenID"
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "Каталог иконок соц. сетей. Путь к каталогу: media/images/addons/addons/hybrid_auth/icons/."
 
-msgctxt "SettingsOptions::hybrid_auth::header_yahoo"
-msgid "Yahoo"
-msgstr "Yahoo"
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Автоматическая генерация почтового адреса"
 
-msgctxt "SettingsOptions::hybrid_auth::yahoo_status"
-msgid "Enable Yahoo"
-msgstr "Включить Yahoo"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_key"
-msgid "Yahoo ID"
-msgstr "Yahoo ID"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_secret"
-msgid "Yahoo Secret key"
-msgstr "Секретный ключ Yahoo"
-
-msgctxt "SettingsOptions::hybrid_auth::header_google"
-msgid "Google"
-msgstr "Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_status"
-msgid "Enable Google"
-msgstr "Включить Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_id"
-msgid "Google ID"
-msgstr "Google ID"
-
-msgctxt "SettingsOptions::hybrid_auth::google_secret"
-msgid "Google Secret key"
-msgstr "Секретный ключ Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_callback_url"
-msgid "Google callback url"
-msgstr "URL ответа Google (callback URL)"
-
-msgctxt "SettingsOptions::hybrid_auth::header_facebook"
-msgid "Facebook"
-msgstr "Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_status"
-msgid "Enable Facebook"
-msgstr "Включить Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_id"
-msgid "Facebook ID"
-msgstr "Facebook ID"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_secret"
-msgid "Facebook Secret key"
-msgstr "Секретный ключ Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::header_twitter"
-msgid "Twitter"
-msgstr "Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_status"
-msgid "Enable Twitter"
-msgstr "Включить Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_key"
-msgid "Twitter API key"
-msgstr "API-ключ Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_secret"
-msgid "Twitter Secret key"
-msgstr "Секретный ключ Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::header_myspace"
-msgid "MySpace"
-msgstr "MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_status"
-msgid "Enable MySpace"
-msgstr "Включить MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_key"
-msgid "MySpace API key"
-msgstr "API-ключ MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_secret"
-msgid "MySpace Secret key"
-msgstr "Секретный ключ MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::header_linkedin"
-msgid "LinkedIn"
-msgstr "LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_status"
-msgid "Enable LinkedIn"
-msgstr "Включить LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_key"
-msgid "LinkedIn API key"
-msgstr "API-ключ LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_secret"
-msgid "LinkedIn Secret key"
-msgstr "Секретный ключ LinkedIn"
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Генерировать случайный email для создания учетной записи покупателя, если соцсеть не предоставляет таких данных"
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
@@ -198,10 +62,6 @@ msgstr "Редактировать соц. сеть"
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
 msgstr "URL возврата"
-
-msgctxt "Languages::hybrid_auth.need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "Поле «Пароль» и некоторые другие обязательные для заполнения поля пустые. Пожалуйста, обновите Ваш профиль."
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
@@ -290,22 +150,6 @@ msgstr "Добавление соц. провайдеров"
 msgctxt "Languages::public_key"
 msgid "Public key"
 msgstr "Открытый ключ"
-
-msgctxt "SettingsOptions::hybrid_auth::icons_pack"
-msgid "Icons pack"
-msgstr "Иконки"
-
-msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
-msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-msgstr "Каталог иконок соц. сетей. Путь к каталогу: media/images/addons/addons/hybrid_auth/icons/."
-
-msgctxt "SettingsOptions::hybrid_auth::autogen_email"
-msgid "Autogeneration email"
-msgstr "Автоматическая генерация почтового адреса"
-
-msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
-msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "Генерировать случайный email для создания учетной записи покупателя, если соцсеть не предоставляет таких данных"
 
 msgctxt "Languages::hybrid_auth::paypal_seamless"
 msgid "Use seamless checkout"

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-19 12:00-0500\n"
+"PO-Revision-Date: 2015-02-22 17:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -41,11 +41,11 @@ msgstr "Ukupno"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "Instalirani dodaci"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "Pregledaj sve dostupne dodatke"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -1681,7 +1681,7 @@ msgstr "Također preporuča se promjena dozvola pristupa za config.local.php dat
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Promjena inicijalizacije dodataka"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -5305,7 +5305,7 @@ msgstr "Upravljanje"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "Upravljanje dodacima"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7169,7 +7169,7 @@ msgstr "Prikaži korisnike"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Dodaci"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7609,7 +7609,7 @@ msgstr "Poštanski broj kupca (dostava)"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Shipping methods"
+msgstr "Načini dostave"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -10689,7 +10689,7 @@ msgstr "Nijedan proizvod nije pronađen"
 
 msgctxt "Languages::text_found_n_products"
 msgid "Products found: [n]. <a href=\"[href]\">Show</a>"
-msgstr "Products found: [n]. <a href=\"[href]\">Show</a>"
+msgstr "Pronađeni proizvodi: [n]. <a href=\"[href]\"> pokazati</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
@@ -11317,7 +11317,7 @@ msgstr "Ažuriranje popisa instaliranih nadogradnji nije uspjelo"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Vaša trgovina je uspješno nadograđena"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11897,11 +11897,11 @@ msgstr "Trenutno stanje"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Nema dodataka"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Nema dodataka iz drugih izvora"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -15542,11 +15542,11 @@ msgstr "Package contains files that were not described in schema or schema has l
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Nova verzija"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Migracije"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
@@ -15562,7 +15562,7 @@ msgstr "I understand that my local modifications will be permanently lost during
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Promijenit će se"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
@@ -15578,23 +15578,23 @@ msgstr "Execute \"[validator]\" validator"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Kopiranje datoteka"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Pokretanje migracije"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Instalacija jezika"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Napredak ažuriranja"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Prijenos paketa nadogradnje"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15605,12 +15605,12 @@ msgid "Outside navigation"
 msgstr "Outside navigation"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
-msgid "text"
-msgstr "text"
+msgid "Incorrect feature type. Some product features were not updated."
+msgstr "Incorrect feature type. Some product features were not updated."
 
 msgctxt "Languages::exim_error_empty_feature_name"
-msgid "text"
-msgstr "text"
+msgid "Feature name is missing. Some product features were not updated."
+msgstr "Feature name is missing. Some product features were not updated."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"

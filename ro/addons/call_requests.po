@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-04 10:02-0500\n"
+"PO-Revision-Date: 2015-02-20 15:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -33,7 +33,7 @@ msgstr "Rescrie telefon"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr "Highlight first chars"
+msgstr "Evidențiați primul caracter"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -45,15 +45,15 @@ msgstr "Starea comenzii"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Configurare telefon"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Lăsaţi necompletat pentru a utiliza automat modelul de cod bazate pe ţară, sau de tip într-un model personalizat. Utilizaţi spaţii, virgule, +, -, şi cifre. Reţineţi că 9 reprezintă orice cifră; Dacă aveţi nevoie de un 9, tip \\\9. Exemple: + 9 999 99 99 (999), 99999999, 999 999 99 sau +99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Inclusiv paranteza, spatii, etc. Utilizaţi pentru a evidenţia codul țării, prefixul zonal şi telefon prefix."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
@@ -149,5 +149,5 @@ msgstr "Nici un nume specificat"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Call request and buy now with one click form"
+msgstr "Cererea de apel şi cumpara acum cu un singur clic pe formular"
 

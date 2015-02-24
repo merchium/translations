@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-22 03:00-0500\n"
+"PO-Revision-Date: 2015-02-20 10:00-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -19,161 +19,25 @@ msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
 msgstr "Voegt een Sociale Login functie toe; Zo kunnen klanten gebruik maken van Facebook, Twitter, etc. om zich aan te melden in uw webwinkel"
 
-msgctxt "Languages::hybrid_auth_need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "Het veld \"Wachtwoord\" en een aantal andere verplichte velden zijn op dit moment leeg. Update uw profiel a.u.b."
-
-msgctxt "Languages::hybrid_auth_social_login"
-msgid "Or sign-in with another identity provider"
-msgstr "Of aanmelden met een andere identiteits provider"
-
-msgctxt "Languages::hybrid_auth_unspecified_error"
-msgid "Unspecified error"
-msgstr "Onbekende fout"
-
-msgctxt "Languages::hybrid_auth_configuration_error"
-msgid "Social login configuration error"
-msgstr "Sociale login configuratiefout"
-
-msgctxt "Languages::hybrid_auth_provider_error_configuration"
-msgid "Provider not properly configured"
-msgstr "Provider is niet correct  geconfigureerd"
-
-msgctxt "Languages::hybrid_auth_wrong_provider"
-msgid "Unknown or disabled provider"
-msgstr "Onbekende of uitgeschakelde provider"
-
-msgctxt "Languages::hybrid_auth_missing_credentials"
-msgid "Missing provider application credentials"
-msgstr "Ontbrekende provider toepassing referenties"
-
-msgctxt "Languages::hybrid_auth_failed_auth"
-msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "Verificatie is mislukt. De gebruiker heeft de verificatie geannuleerd  of de provider heeft de verbinding geweigerd"
-
-msgctxt "Languages::hybrid_auth_connecting_provider"
-msgid "Contacting <b>[provider]</b>. Please wait..."
-msgstr "Contacteren van<b>[provider]</b>. Even geduld aub..."
-
-msgctxt "Languages::hybrid_auth_cant_create_profile"
-msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
-msgstr "Helaas, is het mislukt om een klant login aan te maken in onze webwinkel en dit om volgende redenen:<br />- U heeft zich vroeger al eens aangemeld in onze webwinkel met gebruik van een andere OpenID provider waarvan uw email hetzelfde is.<br />- U heeft zich al geregistreerd in onze webwinkel met dezelfde email.<br />Contacteer aub een beheerder om dit probleem kunnen oplossen."
-
-msgctxt "Languages::google_callback_url"
-msgid "Google callback URL"
-msgstr "Google callback URL"
-
 msgctxt "SettingsSections::hybrid_auth::general"
 msgid "General"
 msgstr "Algemeen"
 
-msgctxt "SettingsOptions::hybrid_auth::header_openid"
-msgid "OpenID"
-msgstr "OpenID"
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "Icons pack"
 
-msgctxt "SettingsOptions::hybrid_auth::openid_status"
-msgid "Enable OpenID"
-msgstr "OpenID inschakelen"
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
 
-msgctxt "SettingsOptions::hybrid_auth::header_yahoo"
-msgid "Yahoo"
-msgstr "Yahoo"
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Autogeneration email"
 
-msgctxt "SettingsOptions::hybrid_auth::yahoo_status"
-msgid "Enable Yahoo"
-msgstr "Inschakelen van Yahoo"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_key"
-msgid "Yahoo ID"
-msgstr "Yahoo ID"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_secret"
-msgid "Yahoo Secret key"
-msgstr "Yahoo geheime sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::header_google"
-msgid "Google"
-msgstr "Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_status"
-msgid "Enable Google"
-msgstr "Inschakelen van Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_id"
-msgid "Google ID"
-msgstr "Google ID"
-
-msgctxt "SettingsOptions::hybrid_auth::google_secret"
-msgid "Google Secret key"
-msgstr "Google geheime sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::google_callback_url"
-msgid "Google callback url"
-msgstr "Google callback url"
-
-msgctxt "SettingsOptions::hybrid_auth::header_facebook"
-msgid "Facebook"
-msgstr "Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_status"
-msgid "Enable Facebook"
-msgstr "Facebook inschakelen"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_id"
-msgid "Facebook ID"
-msgstr "Facebook-ID"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_secret"
-msgid "Facebook Secret key"
-msgstr "Facebook geheime sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::header_twitter"
-msgid "Twitter"
-msgstr "Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_status"
-msgid "Enable Twitter"
-msgstr "Inschakelen van Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_key"
-msgid "Twitter API key"
-msgstr "Twitter API-sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_secret"
-msgid "Twitter Secret key"
-msgstr "Twitter geheime sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::header_myspace"
-msgid "MySpace"
-msgstr "MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_status"
-msgid "Enable MySpace"
-msgstr "Inschakelen van MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_key"
-msgid "MySpace API key"
-msgstr "MySpace API-sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_secret"
-msgid "MySpace Secret key"
-msgstr "MySpace geheime sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::header_linkedin"
-msgid "LinkedIn"
-msgstr "LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_status"
-msgid "Enable LinkedIn"
-msgstr "Inschakelen van LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_key"
-msgid "LinkedIn API key"
-msgstr "LinkedIn API-sleutel"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_secret"
-msgid "LinkedIn Secret key"
-msgstr "LinkedIn geheime sleutel"
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Enables the email auto generation in case that a social network does not pass the address."
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
@@ -198,10 +62,6 @@ msgstr "Editing provider"
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
 msgstr "Callback URL"
-
-msgctxt "Languages::hybrid_auth.need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
@@ -290,22 +150,6 @@ msgstr "Create social provider"
 msgctxt "Languages::public_key"
 msgid "Public key"
 msgstr "Public key"
-
-msgctxt "SettingsOptions::hybrid_auth::icons_pack"
-msgid "Icons pack"
-msgstr "Icons pack"
-
-msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
-msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-msgstr "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-
-msgctxt "SettingsOptions::hybrid_auth::autogen_email"
-msgid "Autogeneration email"
-msgstr "Autogeneration email"
-
-msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
-msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "Enables the email auto generation in case that a social network does not pass the address."
 
 msgctxt "Languages::hybrid_auth::paypal_seamless"
 msgid "Use seamless checkout"

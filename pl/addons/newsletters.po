@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-17 11:00-0500\n"
+"PO-Revision-Date: 2015-02-20 10:01-0500\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -77,7 +77,7 @@ msgstr "Newsletter nie został wysłany, ponieważ nie znaleziono żadnych adres
 
 msgctxt "Languages::text_newsletter_sent"
 msgid "The newsletter(s) have been sent successfully."
-msgstr "The newsletter(s) have been sent successfully."
+msgstr "Newsletter(y) został wysłany pomyślnie."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
@@ -89,7 +89,7 @@ msgstr "Wysyłanie maila do [email]..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
-msgstr "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "E-mail został pomyślnie dodany do naszej listy mailingowej"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
@@ -97,15 +97,15 @@ msgstr "Twój e-mail jest już zarejestrowany."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
-msgstr "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "Twój e-mail został poprawnie usunięty z naszej listy darmowych aktualizacji e-mail"
 
 msgctxt "Languages::text_subscriber_activated"
 msgid "Your email has been successfully activated"
-msgstr "Your email has been successfully activated"
+msgstr "Twój e-mail został pomyślnie aktywowany"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
-msgstr "The link will be displayed in a live newsletter"
+msgstr "Link będzie wyświetlany w wiadomości e-mail"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
@@ -129,15 +129,15 @@ msgstr "Liczba suskrybentów"
 
 msgctxt "Languages::editing_mailing_list"
 msgid "Editing mailing list"
-msgstr "Editing mailing list"
+msgstr "Edycja listy mailingowej"
 
 msgctxt "Languages::from_name"
 msgid "From name"
-msgstr "From name"
+msgstr "Nazwa wysyłającego"
 
 msgctxt "Languages::from_email"
 msgid "From email"
-msgstr "From email"
+msgstr "Adres wysyłającego"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
@@ -213,7 +213,7 @@ msgstr "Bez szablonu"
 
 msgctxt "Languages::load"
 msgid "Load"
-msgstr "Load"
+msgstr "Załaduj"
 
 msgctxt "Languages::campaign"
 msgid "Campaign"
@@ -225,11 +225,11 @@ msgstr "Wyślij do"
 
 msgctxt "Languages::add_recipients_from_users"
 msgid "Add recipients from users"
-msgstr "Add recipients from users"
+msgstr "Dodaj odbiorców newslettera z listy klientów"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
-msgstr "Customers with abandoned"
+msgstr "Klienci z porzuconym"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
@@ -237,11 +237,11 @@ msgstr "Koszyk lub Lista życzeń"
 
 msgctxt "Languages::which_is"
 msgid "which is"
-msgstr "which is"
+msgstr "który jest"
 
 msgctxt "Languages::days_old"
 msgid "days old"
-msgstr "days old"
+msgstr "Dni"
 
 msgctxt "Languages::send_to_test_email"
 msgid "Send to test email"
@@ -277,43 +277,43 @@ msgstr "Należy do [num] list mailingowych"
 
 msgctxt "Languages::subscribed"
 msgid "Subscribed"
-msgstr "Subscribed"
+msgstr "Należy do list mailingowych"
 
 msgctxt "Languages::text_success_subscription"
 msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
-msgstr "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "Zostałeś zapisany do naszych darmowych powiadomień e-mail o aktualizacjach i promocjach!"
 
 msgctxt "Languages::text_unsubscribe_instructions"
 msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
-msgstr "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "Szanujemy Twoją prywatność i nie wysyłamy niechcianych wiadomości e-mail do użytkowników, którzy nie zapisali się na nasze listy mailingowe. Otrzymałeś ten e-mail, ponieważ zapisałeś się na listę aby otrzymywać darmowe aktualizacje oraz informacje o promocjach. <br /> <br /> Jeżeli chcesz się wypisać, proszę skorzystać z poniższego linku:"
 
 msgctxt "Languages::updates_subscription"
 msgid "updates and promotions subscription"
-msgstr "updates and promotions subscription"
+msgstr "Subskrybcja aktualizacji i promocji"
 
 msgctxt "Languages::ult_shared_with"
 msgid "Shared with:"
-msgstr "Shared with:"
+msgstr "Współdziel z:"
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
 msgid "Email of a sender."
-msgstr "Email of a sender."
+msgstr "Adres e-mail wysyłającego."
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
 msgid "Name of a sender (e.g. company name)."
-msgstr "Name of a sender (e.g. company name)."
+msgstr "Nazwa wysyłającego (np. nazwa firmy)."
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
 msgid "Email to send replies to."
-msgstr "Email to send replies to."
+msgstr "Adres e-mail na który mają być wysyłane odpowiedzi."
 
 msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
 msgid "If several subjects are specified, email subject is randomly picked from this list."
-msgstr "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "Jeśli zostanie zdefiniowanych klika tytułów, będą one wybierane losowo podczas wysyłania newslettera."
 
 msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
 msgid "If the message text contains the unsubscribe link, it will be empty for these users."
-msgstr "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "Jeśli treść wiadomości zawiera link do wypisania z newslettera, dla tych użytkowników będzie on pusty."
 
 msgctxt "Languages::add_mailing_lists"
 msgid "Add mailing list"
@@ -333,7 +333,7 @@ msgstr "Nowi subskrybenci"
 
 msgctxt "SettingsSections::newsletters::general"
 msgid "General"
-msgstr "General"
+msgstr "Główne"
 
 msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
 msgid "Newsletters sent per step"

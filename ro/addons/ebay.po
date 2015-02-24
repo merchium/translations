@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/ebay.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-16 04:02-0500\n"
+"PO-Revision-Date: 2015-02-20 15:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -185,11 +185,11 @@ msgstr "eBay"
 
 msgctxt "Languages::wait_for_categories_cached"
 msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
-msgstr "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "Vă rugăm să aşteptaţi pentru cache-ul categoriilor, va dura aproximativ 3 minute. Înainte de asta, Livrările, plăţile şi politica de returnare vor rămâne libere."
 
 msgctxt "Languages::Some_parameters_is_missing"
 msgid "Some parameters is missing. Please check ebay add-on settings"
-msgstr "Some parameters is missing. Please check ebay add-on settings"
+msgstr "Unii parametri lipsesc. Vă rugăm să verificați setările addon eBay"
 
 msgctxt "Languages::ebay_export_error"
 msgid "An error occurred during product export."
@@ -209,251 +209,251 @@ msgstr "Eroare în timpul importului de comenzi."
 
 msgctxt "Languages::exporting_products_to_ebay"
 msgid "Exporting products to eBay."
-msgstr "Exporting products to eBay."
+msgstr "Exportă produsele la eBay."
 
 msgctxt "Languages::ebay_default_template_not_found"
 msgid "Default template for the [company_name] was not found."
-msgstr "Default template for the [company_name] was not found."
+msgstr "Şablon implicit pentru [company_name] nu a fost găsit."
 
 msgctxt "Languages::delete_this_template"
 msgid "Delete this template"
-msgstr "Delete this template"
+msgstr "Ştergeţi acest şablon"
 
 msgctxt "Languages::test_version"
 msgid "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
-msgstr "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
+msgstr "Utilizaţi o versiune de test a acestui modul, a căror valabilitate s-a încheiat pe data de 7 decembrie 2013. La sfârșitul perioadei de testare, funcţiile modulului nu vor fi disponibile. Puteţi achiziţiona versiunea completă prin intermediul un <a href=\"http://www.cs-cart.com/ebay-synchronization.html\"> HelpDesk</a>"
 
 msgctxt "Languages::list_product_on_tooltip"
 msgid "Choose the region of the ebay auction for which your site will work"
-msgstr "Choose the region of the ebay auction for which your site will work"
+msgstr "Alege regiunea de licitaţie ebay pentru care site-ul va funcţiona"
 
 msgctxt "Languages::use_as_default_tooltip"
 msgid "Use this template for products with no template defined"
-msgstr "Use this template for products with no template defined"
+msgstr "Utilizaţi acest şablon pentru produsele cu nici un şablon definit"
 
 msgctxt "Languages::ebay_root_category_tooltip"
 msgid "The product root category at eBay"
-msgstr "The product root category at eBay"
+msgstr "Categoria de produse rădăcină la eBay"
 
 msgctxt "Languages::ebay_secondary_root_category_tooltip"
 msgid "The additional product root category at ebay"
-msgstr "The additional product root category at ebay"
+msgstr "Categoria de rădăcină de produs suplimentar la ebay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at ebay"
-msgstr "The additional product subcategory at ebay"
+msgstr "Subcategoria de produs suplimentar la ebay"
 
 msgctxt "Languages::shipping_type_tooltip"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "Alegeţi dacă utilizaţi tipul de transport calculate sau plat. Calculează - transport va fi calculat în funcţie de clienţii ZIP adresa, greutatea pachetului, şi tipul de servicii de transport maritim tu oferi; Plat - rata de transport vor fi stabilite"
 
 msgctxt "Languages::domestic_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "Alege serviciul de livrare care va fi folosit pentru livrarea de produse în regiunea interne"
 
 msgctxt "Languages::international_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "Alege serviciul de livrare care va fi folosit pentru livrarea de produse la nivel mondial"
 
 msgctxt "Languages::dispatch_days_tooltip"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr "The period of product delivery to a customer  (in days)"
+msgstr "Perioada de livrare produse unui client (în zile)"
 
 msgctxt "Languages::ebay_payment_method_tooltip"
 msgid "Payment method(s), available for a template"
-msgstr "Payment method(s), available for a template"
+msgstr "Metoda(ele) de plată, disponibile pentru un şablon"
 
 msgctxt "Languages::paypal_email_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "Setari login-contul PayPal"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "Setari login-contul PayPal"
 
 msgctxt "Languages::free_shipping_tooltip"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr "Choose, if you want free shipping to be applied to products in a template"
+msgstr "Alege, dacă doriţi transport gratuit se aplică produselor într-un şablon"
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
+msgstr "Pret transport fix pentru un singur articol (în cazul în care tipul de expediere este plat). Transportul maritim şi manipulare setarea la eBay."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
-msgstr "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
+msgstr "Pret pentru fiecare element suplimentare de transport într-o comandă (fiecare element suplimentare setarea la eBay)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Shipping cost additional"
-msgstr "Shipping cost additional"
+msgstr "Costul de transport  suplimentare"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
-msgstr "The storefront, for which a template will be created"
+msgstr "Magazinului, pentru care va fi creat un şablon"
 
 msgctxt "Languages::shipping_cost_cannot_be_null"
 msgid "Shipping cost must be non-zero"
-msgstr "Shipping cost must be non-zero"
+msgstr "Costul de expediere trebuie să fie non-zero"
 
 msgctxt "Languages::ebay_title"
 msgid "eBay product title"
-msgstr "eBay product title"
+msgstr "titlul de produs eBay"
 
 msgctxt "Languages::ebay_title_tooltip"
 msgid "eBay title the title of the product to be used at eBay"
-msgstr "eBay title the title of the product to be used at eBay"
+msgstr "eBay titlul de produs pentru a fi utilizate la eBay"
 
 msgctxt "Languages::ebay_description"
 msgid "eBay product description"
-msgstr "eBay product description"
+msgstr "Descriere de produs eBay"
 
 msgctxt "Languages::ebay_description_tooltip"
 msgid "eBay description the description of the product to be used at eBay"
-msgstr "eBay description the description of the product to be used at eBay"
+msgstr "eBay Descriere descriere a produsului pentru a fi utilizate la eBay"
 
 msgctxt "Languages::override"
 msgid "Override title and description"
-msgstr "Override title and description"
+msgstr "Suprascrie titlul şi Descrierea"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
-msgstr "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
+msgstr "Alege, dacă doriţi original produs numele şi descrierea va fi înlocuit cu care, specificate în titlul de produs ebay şi câmpurile Descriere produs ebay"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
-msgstr "Return Policy"
+msgstr "Politica de returnare"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "Alege dacă se întoarce sunt permise sau nu pentru produse grupate sub acest şablon"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
-msgstr "Returns Accepted"
+msgstr "Returnări acceptate"
 
 msgctxt "Languages::no_returns_accepted"
 msgid "No returns accepted"
-msgstr "No returns accepted"
+msgstr "Returnările nu sunt acceptate"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
-msgstr "After receiving the item, your buyer should contact you within"
+msgstr "După primirea articolului, cumpărătorul dumneavoastră ar trebui să contactaţi în termen de"
 
 msgctxt "Languages::contact_time_tooltip"
 msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr "Choose the period of time within that the buyer must contact you to approve the purchase reception"
+msgstr "Alege perioada de timp în cadrul că cumpărătorul trebuie să vă contacteze pentru a aproba primirea de cumpărare"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
-msgstr "Refund will be given as"
+msgstr "Restituirea se va acorda ca"
 
 msgctxt "Languages::refund_method_tooltip"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr "Choose the action that will replace the return, if it is not allowed"
+msgstr "Alegeţi acţiunea care va înlocui întoarcerea, dacă nu este permis"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
-msgstr "Money Back"
+msgstr "Banii înapoi"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
-msgstr "Money back or replacement (buyer's choice)"
+msgstr "Bani înapoi sau înlocuire (alegerea Cumparatorului)"
 
 msgctxt "Languages::money_back_or_exchange"
 msgid "Money back or exchange (buyer's choice)"
-msgstr "Money back or exchange (buyer's choice)"
+msgstr "Bani înapoi sau schimb (alegerea Cumparatorului)"
 
 msgctxt "Languages::cost_paid_by"
 msgid "Return shipping will be paid by"
-msgstr "Return shipping will be paid by"
+msgstr "Livrare retur vor fi plătite de"
 
 msgctxt "Languages::cost_paid_by_tooltip"
 msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
+msgstr "Alege, cine va plăti pentru transportul de retur cumpărare - vânzătorul sau cumpărătorul"
 
 msgctxt "Languages::seller"
 msgid "Seller"
-msgstr "Seller"
+msgstr "Vânzător"
 
 msgctxt "Languages::buyer"
 msgid "Buyer"
-msgstr "Buyer"
+msgstr "Cumpărător"
 
 msgctxt "Languages::return_policy_descr"
 msgid "Policy description"
-msgstr "Policy description"
+msgstr "Descriere politică"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
-msgstr "Write the detailed description of your return policy here"
+msgstr "Scrie descrierea detaliată a politicii de returnare aici"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
-msgstr "Large envelope"
+msgstr "Plic mare"
 
 msgctxt "Languages::large_package"
 msgid "Large package"
-msgstr "Large package"
+msgstr "Pachet mare"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
-msgstr "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "Dacă nu ştiţi tipul de pachet, selectaţi opţiunea \"Pachet mare\". Pentru a asigura cele mai precise costul, vi se va cere să introduceţi dimensiunile exacte pachet."
 
 msgctxt "Languages::product_out_of_weight"
 msgid "Products with the [ids] id were not exported because their weight equals zero."
-msgstr "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "Produsele cu ID-ul [ids] nu erau exportate, deoarece greutatea lor este egală cu zero."
 
 msgctxt "Languages::exported_to_ebay"
 msgid "Exported to eBay"
-msgstr "Exported to eBay"
+msgstr "Exportate de la eBay"
 
 msgctxt "Languages::revised_after_the_latest_export"
 msgid "Revised after the latest export"
-msgstr "Revised after the latest export"
+msgstr "Revizuit după ultimul export"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting images to Ebay"
-msgstr "Exporting images to Ebay"
+msgstr "Exportul imaginilor către Ebay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
-msgstr "Package/thick envelope"
+msgstr "Pachet/grosime plic"
 
 msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
-msgstr "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "Nu aveţi permisiunea de a elimina o parte din template-uri, din care face parte un alt proprietar."
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
+msgstr "Numărul licenței curent nu este valid. Suplimentul \"Ebay\" a fost dezactivat. Pentru a re-activa, vă rugăm să verificaţi numărul de licenţă supliment."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Activate add-on"
+msgstr "Activază suplimente"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
+msgstr "Aţi instalat un supliment comercial. Pentru a activa, introduceţi un număr de licenţă al suplimentului în pagina setări."
 
 msgctxt "Languages::ebay_empty_license_number"
 msgid "The add-on license number is empty."
-msgstr "The add-on license number is empty."
+msgstr "Numărul de licenţă supliment este gol."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
-msgstr "Ebay templates not found"
+msgstr "Template-uri eBay nu a fost găsit"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
-msgstr "General"
+msgstr "Implicit"
 
 msgctxt "SettingsOptions::ebay::ebay_license_number"
 msgid "The eBay add-on license number"
-msgstr "The eBay add-on license number"
+msgstr "Numărul de licenţă eBay supliment"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
-msgstr "Notice"
+msgstr "Notificare"
 
 msgctxt "SettingsOptions::ebay::dev_id"
 msgid "eBay DevID"
@@ -477,7 +477,7 @@ msgstr "Sandbox / Production"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "Site implicit"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
@@ -489,25 +489,25 @@ msgstr "Sandbox"
 
 msgctxt "SettingsVariants::ebay::listing_mode::P"
 msgid "Production"
-msgstr "Production"
+msgstr "Producţie"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
-msgstr "Please wait, shipping information is loaded."
+msgstr "Vă rugăm să aşteptaţi, informaţiile de transport sunt încărcate."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
-msgstr "License info"
+msgstr "Informaţii licenţă"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
+msgstr "Acest supliment necesită o licenţă să funcţioneze. Puteţi să achiziţionaţi o licenţă de supliment eBay <a href=\"[ebay_license_url]\" target=\"_blank\"> eBay sincronizarea</a> de pagină."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
-msgstr "View eBay templates"
+msgstr "Vezi  şabloane eBay"
 
 msgctxt "Languages::privileges.manage_ebay_templates"
 msgid "Manage eBay templates"
-msgstr "Manage eBay templates"
+msgstr "Gestionază şabloane eBay"
 

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-01-22 03:01-0500\n"
+"PO-Revision-Date: 2015-02-20 10:01-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -19,161 +19,25 @@ msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
 msgstr "FacebookやTwitterなどのユーザー情報を利用したログイン機能を提供します"
 
-msgctxt "Languages::hybrid_auth_need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "パスワードまたはその他の入力必須フィールドが入力されていません。会員情報を更新してください。"
-
-msgctxt "Languages::hybrid_auth_social_login"
-msgid "Or sign-in with another identity provider"
-msgstr "または以下のサービスを利用してログイン"
-
-msgctxt "Languages::hybrid_auth_unspecified_error"
-msgid "Unspecified error"
-msgstr "不明なエラー"
-
-msgctxt "Languages::hybrid_auth_configuration_error"
-msgid "Social login configuration error"
-msgstr "ソーシャルログイン設定エラー"
-
-msgctxt "Languages::hybrid_auth_provider_error_configuration"
-msgid "Provider not properly configured"
-msgstr "設定が正しく完了していません"
-
-msgctxt "Languages::hybrid_auth_wrong_provider"
-msgid "Unknown or disabled provider"
-msgstr "不明なSNSプロバイダ"
-
-msgctxt "Languages::hybrid_auth_missing_credentials"
-msgid "Missing provider application credentials"
-msgstr "SNSプロバイダの認証情報が正しく設定されていません"
-
-msgctxt "Languages::hybrid_auth_failed_auth"
-msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "お客様による認証手続きキャンセルまたSNSプロバイダにより接続が拒否されたため認証に失敗しました。"
-
-msgctxt "Languages::hybrid_auth_connecting_provider"
-msgid "Contacting <b>[provider]</b>. Please wait..."
-msgstr "<b>[provider]</b> に接続しています。しばらくお待ちください..."
-
-msgctxt "Languages::hybrid_auth_cant_create_profile"
-msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
-msgstr "指定したサービスで使用しているEメールアドレスですでに会員登録済みです。<br />詳しくは当ショップまでお問い合わせください。"
-
-msgctxt "Languages::google_callback_url"
-msgid "Google callback URL"
-msgstr "GoogleコールバックURL"
-
 msgctxt "SettingsSections::hybrid_auth::general"
 msgid "General"
 msgstr "基本設定"
 
-msgctxt "SettingsOptions::hybrid_auth::header_openid"
-msgid "OpenID"
-msgstr "OpenID"
+msgctxt "SettingsOptions::hybrid_auth::icons_pack"
+msgid "Icons pack"
+msgstr "アイコンパック"
 
-msgctxt "SettingsOptions::hybrid_auth::openid_status"
-msgid "Enable OpenID"
-msgstr "OpenIDによるログインを許可"
+msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
+msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "SNSアイコン用パックです。アイコンパックのパス : media/images/addons/addons/hybrid_auth/icons/"
 
-msgctxt "SettingsOptions::hybrid_auth::header_yahoo"
-msgid "Yahoo"
-msgstr "Yahoo"
+msgctxt "SettingsOptions::hybrid_auth::autogen_email"
+msgid "Autogeneration email"
+msgstr "Eメールアドレスの自動生成（非推奨）"
 
-msgctxt "SettingsOptions::hybrid_auth::yahoo_status"
-msgid "Enable Yahoo"
-msgstr "Yahoo IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_key"
-msgid "Yahoo ID"
-msgstr "Yahoo ID"
-
-msgctxt "SettingsOptions::hybrid_auth::yahoo_secret"
-msgid "Yahoo Secret key"
-msgstr "Yahoo Secret key"
-
-msgctxt "SettingsOptions::hybrid_auth::header_google"
-msgid "Google"
-msgstr "Google"
-
-msgctxt "SettingsOptions::hybrid_auth::google_status"
-msgid "Enable Google"
-msgstr "Google IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::google_id"
-msgid "Google ID"
-msgstr "クライアント ID"
-
-msgctxt "SettingsOptions::hybrid_auth::google_secret"
-msgid "Google Secret key"
-msgstr "クライアントシークレット"
-
-msgctxt "SettingsOptions::hybrid_auth::google_callback_url"
-msgid "Google callback url"
-msgstr "コールバックURL"
-
-msgctxt "SettingsOptions::hybrid_auth::header_facebook"
-msgid "Facebook"
-msgstr "Facebook"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_status"
-msgid "Enable Facebook"
-msgstr "Facebook IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_id"
-msgid "Facebook ID"
-msgstr "アプリID/APIキー"
-
-msgctxt "SettingsOptions::hybrid_auth::facebook_secret"
-msgid "Facebook Secret key"
-msgstr "アプリのシークレットキー"
-
-msgctxt "SettingsOptions::hybrid_auth::header_twitter"
-msgid "Twitter"
-msgstr "Twitter"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_status"
-msgid "Enable Twitter"
-msgstr "Twitter IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_key"
-msgid "Twitter API key"
-msgstr "Twitter API key"
-
-msgctxt "SettingsOptions::hybrid_auth::twitter_secret"
-msgid "Twitter Secret key"
-msgstr "Twitter Secret key"
-
-msgctxt "SettingsOptions::hybrid_auth::header_myspace"
-msgid "MySpace"
-msgstr "MySpace"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_status"
-msgid "Enable MySpace"
-msgstr "MySpace IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_key"
-msgid "MySpace API key"
-msgstr "MySpace API key"
-
-msgctxt "SettingsOptions::hybrid_auth::myspace_secret"
-msgid "MySpace Secret key"
-msgstr "MySpace Secret key"
-
-msgctxt "SettingsOptions::hybrid_auth::header_linkedin"
-msgid "LinkedIn"
-msgstr "LinkedIn"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_status"
-msgid "Enable LinkedIn"
-msgstr "LinkedIn IDによるログインを許可"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_key"
-msgid "LinkedIn API key"
-msgstr "LinkedIn API key"
-
-msgctxt "SettingsOptions::hybrid_auth::linkedin_secret"
-msgid "LinkedIn Secret key"
-msgstr "LinkedIn Secret key"
+msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
+msgid "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "SNSサービスからEメールアドレスを取得できない場合に仮のEメールアドレスを自動生成します。（非推奨）"
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
@@ -198,10 +62,6 @@ msgstr "SNSプロバイダの編集"
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
 msgstr "コールバックURL"
-
-msgctxt "Languages::hybrid_auth.need_update_profile"
-msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
-msgstr "\"パスワード\" およびその他の入力必須項目が入力されていません。"
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
@@ -290,22 +150,6 @@ msgstr "ソーシャルログイン機能を提供するSNSプロバイダを管
 msgctxt "Languages::public_key"
 msgid "Public key"
 msgstr "公開鍵"
-
-msgctxt "SettingsOptions::hybrid_auth::icons_pack"
-msgid "Icons pack"
-msgstr "アイコンパック"
-
-msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
-msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-msgstr "SNSアイコン用パックです。アイコンパックのパス : media/images/addons/addons/hybrid_auth/icons/"
-
-msgctxt "SettingsOptions::hybrid_auth::autogen_email"
-msgid "Autogeneration email"
-msgstr "Eメールアドレスの自動生成（非推奨）"
-
-msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
-msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "SNSサービスからEメールアドレスを取得できない場合に仮のEメールアドレスを自動生成します。（非推奨）"
 
 msgctxt "Languages::hybrid_auth::paypal_seamless"
 msgid "Use seamless checkout"

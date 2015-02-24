@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-19 12:01-0500\n"
+"PO-Revision-Date: 2015-02-20 15:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -41,11 +41,11 @@ msgstr "Absolut"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "Suplimente instalate"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "Răsfoiți toate suplimentele disponibile"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -1537,7 +1537,7 @@ msgstr "Cariera"
 
 msgctxt "Languages::carrier_aup"
 msgid "Australia Post"
-msgstr "Australia Post"
+msgstr "Posta Australiana"
 
 msgctxt "Languages::carrier_can"
 msgid "Canada Post"
@@ -1681,7 +1681,7 @@ msgstr "De asemenea, este recomandat sa schimbati permisiunile de acces pentru f
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Schimbare initializare de suplimente"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1873,7 +1873,7 @@ msgstr "Sterge cache"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "Generare cache"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -3089,7 +3089,7 @@ msgstr "Tipul afisarii"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "Numărul de filtru de afisat înainte de derulare"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -5285,7 +5285,7 @@ msgstr "Mainbox simple"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "Subsol universal"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -5305,7 +5305,7 @@ msgstr "Gestionati"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "Administrați suplimente"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7169,7 +7169,7 @@ msgstr "Vizualizati utilizatorii"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Suplimente"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7609,7 +7609,7 @@ msgstr "Cod postal client"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Shipping methods"
+msgstr "Metode de expediere"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -7797,7 +7797,7 @@ msgstr "Reconstruiti cache-ul in mod automat"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Fişierele modificate sunt urmărite în timp real (inclusiv fişierele modificate direct pe server) şi re-cache. Bloc cache-ul va fi dezactivat. Performanța magazinului pote fi uşor afectat. Recomandat pentru a se dezactiva in mod producţie."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8365,7 +8365,7 @@ msgstr "Sir de cautare"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "Căutare pentru produse, clienţi, comenzi şi pagini CMS"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -8857,7 +8857,7 @@ msgstr "Tipul depunerii"
 
 msgctxt "Languages::ship_fedex_drop_off_type_regular_pickup"
 msgid "Regular pickup"
-msgstr "Regular pickup"
+msgstr "Regulate de preluare"
 
 msgctxt "Languages::ship_fedex_drop_off_type_request_courier"
 msgid "Request courier"
@@ -8877,23 +8877,23 @@ msgstr "Hub ID"
 
 msgctxt "Languages::ship_fedex_indicia"
 msgid "Indicia"
-msgstr "Indicia"
+msgstr "Indicii"
 
 msgctxt "Languages::ship_fedex_indicia_media_mail"
 msgid "Media Mail (Packages from 1 to 70 lbs Books, DVDs, CDs, videotapes)"
-msgstr "Media Mail (Packages from 1 to 70 lbs Books, DVDs, CDs, videotapes)"
+msgstr "Media Mail (pachete de la 1 la 70 lbs cărţi, DVD-uri, CD-uri, casete video)"
 
 msgctxt "Languages::ship_fedex_indicia_parcel_select"
 msgid "Parcel Select (Packages from 1 to 70 lbs)"
-msgstr "Parcel Select (Packages from 1 to 70 lbs)"
+msgstr "Parcelă selectaţi (pachete de la 1 la 70 lbs)"
 
 msgctxt "Languages::ship_fedex_indicia_presorted_bound_printed_matter"
 msgid "Bound Printed Matter packages (Packages from 1 to 15 lbs Catalogs, phone books or anything permanently bound)"
-msgstr "Bound Printed Matter packages (Packages from 1 to 15 lbs Catalogs, phone books or anything permanently bound)"
+msgstr "Legat de ambalaje imprimate (pachete de la 1 la 15 lbs cataloage, cărţi de telefon sau orice altceva legat permanent)"
 
 msgctxt "Languages::ship_fedex_indicia_presorted_standard"
 msgid "Standard Mail packages (Packages less than 1 lb)"
-msgstr "Standard Mail packages (Packages less than 1 lb)"
+msgstr "Pachete standard de Mail (pachete mai mică de 1 lb)"
 
 msgctxt "Languages::ship_fedex_length"
 msgid "Length (inches)"
@@ -8905,11 +8905,11 @@ msgstr "Unitate de masura"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_10kg_box"
 msgid "FedEx 10kg Box"
-msgstr "FedEx 10kg Box"
+msgstr "Cutie de 10kg FedEx"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_25kg_box"
 msgid "FedEx 25kg Box"
-msgstr "FedEx 25kg Box"
+msgstr "FedEx cutie 25kg"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_box"
 msgid "FedEx Box"
@@ -8917,7 +8917,7 @@ msgstr "FedEx Box"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_envelope"
 msgid "FedEx Envelope"
-msgstr "FedEx Envelope"
+msgstr "FedEx plic"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_pak"
 msgid "FedEx Pak"
@@ -8933,11 +8933,11 @@ msgstr "Tipul pachetului"
 
 msgctxt "Languages::ship_fedex_smart_post"
 msgid "Smart Post"
-msgstr "Smart Post"
+msgstr "Inteligent Post"
 
 msgctxt "Languages::ship_fedex_special_services"
 msgid "Special service (delivery confirmation)"
-msgstr "Special service (delivery confirmation)"
+msgstr "Servicii speciale (confirmare de livrare)"
 
 msgctxt "Languages::ship_fedex_width"
 msgid "Width (inches)"
@@ -8985,7 +8985,7 @@ msgstr "Prelucrare manuala"
 
 msgctxt "Languages::ship_sp_pc_personal"
 msgid "Personal"
-msgstr "Personal"
+msgstr "Personale"
 
 msgctxt "Languages::ship_sp_pc_signature"
 msgid "Signature"
@@ -9053,7 +9053,7 @@ msgstr "Ambalare"
 
 msgctxt "Languages::ship_temando_readydate"
 msgid "Ready date (days)"
-msgstr "Ready date (days)"
+msgstr "Gata data (zile)"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
@@ -9089,7 +9089,7 @@ msgstr "Tub UPS"
 
 msgctxt "Languages::ship_ups_package_type_04"
 msgid "UPS Pack"
-msgstr "UPS Pack"
+msgstr "Pachet de UPS"
 
 msgctxt "Languages::ship_ups_package_type_21"
 msgid "UPS Express Box"
@@ -9137,7 +9137,7 @@ msgstr "Centrul Serviciului Aerean"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
-msgstr "Container"
+msgstr "Recipient"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
@@ -9169,23 +9169,23 @@ msgstr "Cutie medie cu rata fixa"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
-msgstr "NonRectangular"
+msgstr "Nu este dreptunghiulară"
 
 msgctxt "Languages::ship_usps_container_priority_rectangular"
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr "Dreptunghiulară"
 
 msgctxt "Languages::ship_usps_container_priority_regional_a_rate_box"
 msgid "Regional Rate Box A"
-msgstr "Regional Rate Box A"
+msgstr "Rata regională cutie A"
 
 msgctxt "Languages::ship_usps_container_priority_regional_b_rate_box"
 msgid "Regional Rate Box B"
-msgstr "Regional Rate Box B"
+msgstr "Rata regională cutie B"
 
 msgctxt "Languages::ship_usps_container_priority_regional_c_rate_box"
 msgid "Regional Rate Box C"
-msgstr "Regional Rate Box C"
+msgstr "Rata regională cutie C"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_box"
 msgid "Small Flat Rate Box"
@@ -9193,27 +9193,27 @@ msgstr "Small Flat Rate Box"
 
 msgctxt "Languages::ship_usps_container_priority_padded_flat_rate_envelope"
 msgid "Padded Flat Rate Envelope"
-msgstr "Padded Flat Rate Envelope"
+msgstr "Pret plic plat captusit"
 
 msgctxt "Languages::ship_usps_container_priority_legal_flat_rate_envelope"
 msgid "Legal Flat Rate Envelope"
-msgstr "Legal Flat Rate Envelope"
+msgstr "Legal Flat pret plic"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_envelope"
 msgid "Sm Flat Rate Envelope"
-msgstr "Sm Flat Rate Envelope"
+msgstr "Plic de forfetar SM"
 
 msgctxt "Languages::ship_usps_container_priority_window_flat_rate_envelope"
 msgid "Window Flat Rate Envelope"
-msgstr "Window Flat Rate Envelope"
+msgstr "Fereastra forfetar plic"
 
 msgctxt "Languages::ship_usps_container_priority_gift_card_flat_rate_envelope"
 msgid "Gift Card Flat Rate Envelope"
-msgstr "Gift Card Flat Rate Envelope"
+msgstr "Cadou Card forfetar plic"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
-msgstr "First Class Mail Type"
+msgstr "Tip de Mail clasa întâi"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_flat"
 msgid "Flat"
@@ -9221,7 +9221,7 @@ msgstr "Plat"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_parcel"
 msgid "Parcel"
-msgstr "Parcel"
+msgstr "Parcelă"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
@@ -9357,7 +9357,7 @@ msgstr "Casuta alaturata primului element"
 
 msgctxt "Languages::sidebox_general"
 msgid "Sidebox general"
-msgstr "Sidebox general"
+msgstr "Sidebox universal"
 
 msgctxt "Languages::sidebox_important"
 msgid "Sidebox important"
@@ -9417,7 +9417,7 @@ msgstr "Este permis un singur discount pe un cupon"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
-msgstr "Sitemap"
+msgstr "Harta site-ului"
 
 msgctxt "Languages::sitemap_menu_description"
 msgid "Create additional sections of the customer area sitemap and define the set of links for them."
@@ -9613,7 +9613,7 @@ msgstr "Statistici"
 
 msgctxt "Languages::status"
 msgid "Status"
-msgstr "Status"
+msgstr "Stare"
 
 msgctxt "Languages::status_changed"
 msgid "Status has been changed"
@@ -9661,7 +9661,7 @@ msgstr "Magazin ProfiLineTrading"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
-msgstr "Storefront"
+msgstr "Magazinului"
 
 msgctxt "Languages::storefront_url"
 msgid "Storefront URL"
@@ -9757,7 +9757,7 @@ msgstr "Suma subtotal"
 
 msgctxt "Languages::suburb"
 msgid "Suburb"
-msgstr "Suburb"
+msgstr "Suburbie"
 
 msgctxt "Languages::successful"
 msgid "Successful"
@@ -9829,7 +9829,7 @@ msgstr "Sistem"
 
 msgctxt "Languages::tab"
 msgid "Tab"
-msgstr "Tab"
+msgstr "Fila"
 
 msgctxt "Languages::table"
 msgid "Table"
@@ -9873,7 +9873,7 @@ msgstr "Centimetri"
 
 msgctxt "Languages::temando_feet"
 msgid "feet"
-msgstr "feet"
+msgstr "picioare"
 
 msgctxt "Languages::temando_inches"
 msgid "inches"
@@ -9905,7 +9905,7 @@ msgstr "Cutie"
 
 msgctxt "Languages::temando_package_bunch"
 msgid "Bunch"
-msgstr "Bunch"
+msgstr "Mănunchi"
 
 msgctxt "Languages::temando_package_bundle"
 msgid "Bundle"
@@ -10113,7 +10113,7 @@ msgstr "Aceasta sectiune arata comenzile care nu le-ati vizualizat niciodata."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Sunt suportate următoarele extensii de fişier: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10141,7 +10141,7 @@ msgstr "Trebuie sa fiti un utilizator inregistrat pentru a cumpara"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Recalculează costul de transport"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -10349,7 +10349,7 @@ msgstr "Compania dvs. a fost dezactivata."
 
 msgctxt "Languages::text_conditions_cleared"
 msgid "Table conditions were cleared"
-msgstr "Table conditions were cleared"
+msgstr "Condiţiile de masă au fost eliminate"
 
 msgctxt "Languages::text_confirmation_page_header"
 msgid "This is a confirmation page. You must confirm the operation before it is performed."
@@ -10369,7 +10369,7 @@ msgstr "Logo pentru zona de <b>client</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Nota</b>: Pentru a urmari comenzile dvs. cu DataTrans folosind acest site; trebuie sa urmariti urmatorii pasi:<br /> <br /> -&nbsp;Autentificati-va in condul dvs. de DataTrans <br /> -&nbsp;Dati click pe <u>'Upp Data'</u> link aflat in sectiunea <u>'Upp Administration'</u> <br /> -&nbsp;Setati <u>'Formatul datelor postate in URL'</u> ca <b>'Date in formatul postat'</b>.<br /> -&nbsp;Setati <u>'URL Aprobat'</u> ca:<br /> <b>[post_url]</b><br /> -&nbsp;Dati click pe <u>'Securitate'</u> link link aflat in sectiunea <u>'Administrare Upp'</u> .<br /> -&nbsp;Selectati optiunea <b>'O identificare suplimentara va fi trimisa cu mesaje de plata'</b> .<br /> -&nbsp;Genereaza o semnatura noua digitala utilizand butonul <u>'Genereaza semnatura noua'</u>.<br /> -&nbsp;Setati valoarea generata ca <u>'Semnatura digitala'</u>, camp aflat pe pagina de configurare a site-ului dvs. in cadrul sectiunii DataTrans<br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10457,7 +10457,7 @@ msgstr "<h4>Importare caracteristici ale produsului</h4><code>{$ldelim}%Caracter
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Formatul importatorului de fisiere</h4><code>%Locatia fisierului%</code> unde,<dl class=\"dl-horizontal\"><dt>%Locatia fisierului%<dt><dd>poate fi absoluta sau relativa pe server sau URL</dd></dl><p>Mai multe fisiere trebuie delimitate cu virgula.</p><h5>Exemplu 1:</h5><code>file1.jpg</code><h5>Exemplu 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
@@ -10485,7 +10485,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Separator între valorile varianta de o caracteristică de produs."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10617,7 +10617,7 @@ msgstr "Nici un raspuns de la Skrill nu a fost primit, va rugam astepati.Desi co
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "Implicit, valorile minimă şi maximă de tranzacţii individuale pe contul dvs. sunt după cum urmează: <table cellpadding=\"3\"> <tr><td><b>limitele</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td></tr> <tr><td><b>minim</b></td> <td>1£</td> <td>$1</td> <td>&euro; 1</td></tr> <tr><td><b>maxim</b></td> de <td>£1,000$</td> <td>1500</td> <td>&euro; 1500</td></tr></table> va rugam sa contactati administratorul de cont pentru a solicita limite mai mari pe contul dvs. < br / > < p > vă rugăm să setaţi parametrii următori în comerciant Extranet. Faceţi clic pe Management de cont apoi instalatii: < br / >-răspuns URL: [return_url] < br / >-reveni URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -10689,11 +10689,11 @@ msgstr "Nici un produs gasit"
 
 msgctxt "Languages::text_found_n_products"
 msgid "Products found: [n]. <a href=\"[href]\">Show</a>"
-msgstr "Products found: [n]. <a href=\"[href]\">Show</a>"
+msgstr "Produse găsite: [n]. <a href=\"[href]\"> Arată</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "Filtrele selectate"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -10801,7 +10801,7 @@ msgstr "Informatie de debug"
 
 msgctxt "Languages::text_paysitecash_mode"
 msgid "Mode"
-msgstr "Mode"
+msgstr "Mod"
 
 msgctxt "Languages::text_paysitecash_mode_debug_off"
 msgid "OFF"
@@ -11117,7 +11117,7 @@ msgstr "Magazinul a fost <b>inchis</b>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Unele caracteristici nu sunt disponibile. Fără restricţii de timp implicite, a da un permis număr nu este cerută. < br / > < br / > acest mod poate fi activat la orice ora. < br / > < br / > de a alege acest mod, de asemenea, vă abonaţi la newsletter-ul nostru de ştiri & oferte. Vom trimite e-mailuri despre o dată sau de două ori pe lună. Veţi putea să vă dezabonaţi oricând."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11201,7 +11201,7 @@ msgstr "Urmatoarelor fisiere le-a fost facute back-up"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "Pachetul upgrade pare a fi corupt. Vă rugăm să actualizaţi lista de pachete şi încercaţi să-l descărcaţi din nou"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11317,7 +11317,7 @@ msgstr "Esuare in a actualiza lista de upgrade-uri instalate."
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Magazinul a fost actualizat cu succes"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11329,7 +11329,7 @@ msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"h
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
-msgstr "Upgrade log file is not writable"
+msgstr "Fişierul log de upgrade nu este inscriptibil"
 
 msgctxt "Languages::text_uc_upgrade_needed"
 msgid "You need to upgrade to version <b>[to_version]</b> before applying this upgrade package (your version is <b>[your_version]</b>)."
@@ -11401,7 +11401,7 @@ msgstr "Fundal"
 
 msgctxt "Languages::theme_editor.backgrounds"
 msgid "Backgrounds"
-msgstr "Backgrounds"
+msgstr "Fundaluri"
 
 msgctxt "Languages::theme_editor.background_color"
 msgid "Background color"
@@ -11417,7 +11417,7 @@ msgstr "Corp"
 
 msgctxt "Languages::theme_editor.browse"
 msgid "Browse"
-msgstr "Browse"
+msgstr "Căutați"
 
 msgctxt "Languages::theme_editor.buttons_font"
 msgid "Buttons"
@@ -11453,7 +11453,7 @@ msgstr "Pastel cu nuanta inchisa"
 
 msgctxt "Languages::theme_editor.color_gen_default"
 msgid "Default"
-msgstr "Default"
+msgstr "În mod implicit"
 
 msgctxt "Languages::theme_editor.color_gen_light_pastel"
 msgid "Light pastel"
@@ -11549,11 +11549,11 @@ msgstr "Latime complet"
 
 msgctxt "Languages::theme_editor.general"
 msgid "General"
-msgstr "General"
+msgstr "Implicit"
 
 msgctxt "Languages::theme_editor.general_bg"
 msgid "General"
-msgstr "General"
+msgstr "Implicit"
 
 msgctxt "Languages::theme_editor.gradient"
 msgid "Gradient"
@@ -11573,7 +11573,7 @@ msgstr "Ascunde/Arata temele panoului de editare"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "Denumirea de stil nu poate contine urmatoarele caractere: \"/ # % ? * : ; { } \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -11641,7 +11641,7 @@ msgstr "Pozitie"
 
 msgctxt "Languages::theme_editor.styles"
 msgid "Styles"
-msgstr "Styles"
+msgstr "Stiluri"
 
 msgctxt "Languages::theme_editor.style"
 msgid "Style"
@@ -11669,7 +11669,7 @@ msgstr "Buton primar"
 
 msgctxt "Languages::theme_editor.tertiary_button"
 msgid "Tertiary button"
-msgstr "Tertiary button"
+msgstr "Butonul terţiar"
 
 msgctxt "Languages::theme_editor.repeat"
 msgid "Repeat"
@@ -11713,7 +11713,7 @@ msgstr "Colturi rotunjite"
 
 msgctxt "Languages::theme_editor.scroll"
 msgid "Scroll"
-msgstr "Scroll"
+msgstr "Parcurgere"
 
 msgctxt "Languages::theme_editor.secondary_button"
 msgid "Secondary button"
@@ -11721,7 +11721,7 @@ msgstr "Buton secundar"
 
 msgctxt "Languages::theme_editor.sidebar"
 msgid "Sidebar"
-msgstr "Sidebar"
+msgstr "Bara laterală"
 
 msgctxt "Languages::theme_editor.text_align"
 msgid "Text alignment"
@@ -11745,7 +11745,7 @@ msgstr "Teme"
 
 msgctxt "Languages::theme_editor.top_panel"
 msgid "Top panel"
-msgstr "Top panel"
+msgstr "Panou de top"
 
 msgctxt "Languages::theme_editor.top_panel_links"
 msgid "Top panel links"
@@ -11809,7 +11809,7 @@ msgstr "Semn Ths"
 
 msgctxt "Languages::thumb"
 msgid "Thumbnail"
-msgstr "Thumbnail"
+msgstr "Miniatura"
 
 msgctxt "Languages::thumbnail"
 msgid "Thumbnail"
@@ -11837,11 +11837,11 @@ msgstr "Timp"
 
 msgctxt "Languages::timeout"
 msgid "Timeout"
-msgstr "Timeout"
+msgstr "Pauză"
 
 msgctxt "Languages::Timestamp"
 msgid "Timestamp"
-msgstr "Timestamp"
+msgstr "Marcaj de timp"
 
 msgctxt "Languages::time_interval"
 msgid "Time interval"
@@ -11889,7 +11889,7 @@ msgstr "Instrumente"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Calcul suplimente"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11897,11 +11897,11 @@ msgstr "Situatia actuala"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Fără suplimente"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Nici un supliment aferent terților"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -12061,7 +12061,7 @@ msgstr "Arbore"
 
 msgctxt "Languages::trial"
 msgid "Trial"
-msgstr "Trial"
+msgstr "De probă"
 
 msgctxt "Languages::trial_mode_mve_disabled"
 msgid "Trial mode is not available anymore since you have a valid license activated for this installation"
@@ -12081,7 +12081,7 @@ msgstr "Adevarat"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgstr "Arbitrare text pentru a fi afişate împreună cu titlul de metoda de transport."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12109,7 +12109,7 @@ msgstr "Tinta URL. Poate fi un URL extern, un magazin de URL-ul interior sau o e
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Clasa CSS definite de utilizator vor fi adăugate la elementul de meniu, astfel încât acest lucru va permite să se definească punctul de meniu cu propriul stil CSS."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12189,11 +12189,11 @@ msgstr "Produsele nedescarcabile cu greutate zero, sunt tratate ca avand greutat
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Categorii pentru a fi afişate în breadcrumbs navigare."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Urmăriţi în stoc produsul cantitate. Permite \"Enable inventar de urmărire\" opţiune (Setări-> General) pentru a modifica."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12209,7 +12209,7 @@ msgstr "In mod implicit, modelul care este definit in setarile pentru principala
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Arată această caracteristică pe lista de  produs pe paginile cu descrierea produsului."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12249,7 +12249,7 @@ msgstr "Perioade de analizat (zi, saptamana, luna, an)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
+msgstr "Parametru sortarea valorilor. Acesta trebuie să se refere la valoarea pentru a afişa param (ex. costurile produs — Total costul sau numărul de produse — numărul de articole)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -12345,11 +12345,11 @@ msgstr "Bloc Unic HTML"
 
 msgctxt "Languages::unit"
 msgid "Unit"
-msgstr "Unit"
+msgstr "Unitate"
 
 msgctxt "Languages::united_kingdom"
 msgid "United Kingdom"
-msgstr "United Kingdom"
+msgstr "Marea Britanie"
 
 msgctxt "Languages::unit_price"
 msgid "Unit price"
@@ -12501,7 +12501,7 @@ msgstr "Serviciul Unit de colete"
 
 msgctxt "Languages::url"
 msgid "URL"
-msgstr "URL"
+msgstr "URL-UL"
 
 msgctxt "Languages::user"
 msgid "User"
@@ -12557,7 +12557,7 @@ msgstr "Gestionati conturile utilizatorilor inregistrati la magazin."
 
 msgctxt "Languages::user_type"
 msgid "User type"
-msgstr "User type"
+msgstr "Tip de utilizator"
 
 msgctxt "Languages::user_account_info"
 msgid "User account information"
@@ -12625,7 +12625,7 @@ msgstr "Utilizati link-ul paginii curente"
 
 msgctxt "Languages::use_custom_view"
 msgid "Use custom view"
-msgstr "Use custom view"
+msgstr "Utilizați vedere personalizată"
 
 msgctxt "Languages::use_custom_weight_settings"
 msgid "Use custom weight settings"
@@ -12657,7 +12657,7 @@ msgstr "Mare"
 
 msgctxt "Languages::usps_package_size_regular"
 msgid "Regular"
-msgstr "Regular"
+msgstr "Obișnuit"
 
 msgctxt "Languages::usps_service_certificate_of_mailing"
 msgid "Certificate of mailing"
@@ -12745,7 +12745,7 @@ msgstr "Confirmare secret word"
 
 msgctxt "Languages::valid_thru"
 msgid "Valid thru (mm/yy)"
-msgstr "Valid thru (mm/yy)"
+msgstr "Valid prin (ll/aa)"
 
 msgctxt "Languages::value"
 msgid "Value"
@@ -13093,7 +13093,7 @@ msgstr "Codul Widget"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\"> Ce este?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13121,7 +13121,7 @@ msgstr "Secrete MD5 pentru tranzactii"
 
 msgctxt "Languages::wrapper"
 msgid "Wrapper"
-msgstr "Wrapper"
+msgstr "Ambalaj"
 
 msgctxt "Languages::write"
 msgid "Write"
@@ -13189,7 +13189,7 @@ msgstr "Nu permiteți adăugarea în coș"
 
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
-msgstr "Choose a file in the PO or ZIP format"
+msgstr "Selectaţi un fişier în format PO sau ZIP"
 
 msgctxt "Languages::text_free_mode_activated"
 msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
@@ -13261,7 +13261,7 @@ msgstr "Dezvoltare"
 
 msgctxt "Languages::check_po_file"
 msgid "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
-msgstr "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
+msgstr "PO-fişier conţine erori de sintaxa sau structura incorecte. Vă rugăm să re-verificați şi încărcaţi din nou."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13269,7 +13269,7 @@ msgstr "Delimitator optiuni"
 
 msgctxt "Languages::text_product_option_delimiter"
 msgid "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
-msgstr "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
+msgstr "Delimitator pentru opțiunile de produs cu o combinație de opțiune (e.g. \"Color: Red, Size: Small\")"
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
@@ -13357,19 +13357,19 @@ msgstr "Scroll pe pagina"
 
 msgctxt "Languages::payments.paypal_adv_layout"
 msgid "Layout"
-msgstr "Layout"
+msgstr "Aranjare în pagină"
 
 msgctxt "Languages::payments.layout_a"
 msgid "Layout A"
-msgstr "Layout A"
+msgstr "Aranjare în pagină A"
 
 msgctxt "Languages::payments.layout_b"
 msgid "Layout B"
-msgstr "Layout B"
+msgstr "Aranjare în pagină B"
 
 msgctxt "Languages::payments.layout_c"
 msgid "Layout C"
-msgstr "Layout C"
+msgstr "Aranjare în pagină C"
 
 msgctxt "Languages::payments.eway_rapidapi_rsp.header_text"
 msgid "Header text"
@@ -13417,7 +13417,7 @@ msgstr "Informatii tema"
 
 msgctxt "Languages::developer"
 msgid "Developer"
-msgstr "Developer"
+msgstr "Dezvoltator"
 
 msgctxt "Languages::theme_styles_and_layouts"
 msgid "Theme styles and layouts"
@@ -13445,7 +13445,7 @@ msgstr "Actualizati layout-ul curent"
 
 msgctxt "Languages::get_social"
 msgid "Get social"
-msgstr "Get social"
+msgstr "Obţine comunicare"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
@@ -13453,7 +13453,7 @@ msgstr "Searchanise add-on a fost dezactivat automat in timpul upgradelui pentru
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
-msgstr "Sorry, the store is temporarily closed for maintenance."
+msgstr "Ne pare rău, Magazinul este temporar închis pentru întreţinere."
 
 msgctxt "Languages::theme_editor.presets"
 msgid "Presets"
@@ -13477,7 +13477,7 @@ msgstr "Presetarea cu acest nume deja exista. Va rugam sa alegeti o alta preseta
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "Numele prestabilit nu poate conține următoarele caractere: \"/ # % ? * : ; { } \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13485,7 +13485,7 @@ msgstr "Convertește în CSS"
 
 msgctxt "Languages::theme_editor.text_convert_to_css"
 msgid "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
-msgstr "<p>Generate CSS files from LESS (for manual editing).</p><p>IMPORTANT: You won't be able to use the Theme editor to customize the storefront!</p><p><i>The original LESS files will be backed up and you will be able to restore them later</i></p>"
+msgstr "<p>Generază fişiere CSS din LESS (pentru editarea manuală).</p><p>IMPORTANT: nu veţi putea să utilizaţi editorul de temă pentru a personaliza magazinului!</p><p><i>Fisierele originale LESS vor fi salvate şi va fi capabil de a restabili mai târziu</i></p>"
 
 msgctxt "Languages::theme_editor.enable_less"
 msgid "Enable LESS"
@@ -13493,39 +13493,39 @@ msgstr "Activează LESS"
 
 msgctxt "Languages::theme_editor.warning_css_changes_will_be_reverted"
 msgid "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
-msgstr "<p>You should switch back to LESS to be able to use the Theme editor, because it deals with LESS files instead of plain CSS.</p><p><strong>Important:</strong> All CSS files will be overwritten during the restore! Custom CSS modifications will be saved in the backup directory.</p>"
+msgstr "<p>Ar trebui să comutaţi înapoi la LESS de a putea utiliza editorul de temă, pentru că se ocupă cu mai puţin de fişiere în loc de simplu CSS.</p><p><strong>Important:</strong> toate CSS fişiere vor fi suprascrise în timpul restaurării! Personalizat CSS modificări vor fi salvate în directorul backup.</p>"
 
 msgctxt "Languages::theme_editor.confirm_enable_less"
 msgid "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
-msgstr "Your CSS modifications will be backed up and overwritten. Are you sure to continue with the LESS restore?"
+msgstr "Modificările CSS va fi susţinută şi suprascrise. Sunteţi sigur de a continua cu mai puţin de restaurare?"
 
 msgctxt "Languages::theme_editor.error_theme_converted_to_css"
 msgid "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
-msgstr "Compiled CSS files do not support styling. Restore LESS in the <a target=\"_blank\" href=\"[url]\">Theme editor</a> to be able to change styles."
+msgstr "Compilate de fişiere CSS nu acceptă styling. Restabili mai puţin în <a target=\"_blank\" href=\"[url]\"> Tematica editor</a> pentru a modifica stiluri."
 
 msgctxt "Languages::need_product_name"
 msgid "You have to specify product name"
-msgstr "You have to specify product name"
+msgstr "Trebuie să specificaţi numele produsului"
 
 msgctxt "Languages::api_required_field"
 msgid "The [field] field is required"
-msgstr "The [field] field is required"
+msgstr "Domeniul [field] este necesară"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Actualizare traduceri"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
-msgstr "Language code in the PO file does not match that of the updated language"
+msgstr "Codul de limbă în fişierul PO nu se potriveşte cu cea actualizata limbii"
 
 msgctxt "Languages::error_class_phar_data_not_found"
 msgid "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
-msgstr "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
+msgstr "Clasa PharData nu a fost găsit. Citeşte mai mult: <a href=\"https://php.net/manual/en/class.phardata.php\"> https://php.net/manual/en/class.phardata.php</a>"
 
 msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
-msgstr "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
+msgstr "ZipArchive clasei nu a fost găsit. Citeşte mai mult: <a href=\"https://php.net/manual/en/class.ziparchive.php\"> https://php.net/manual/en/class.ziparchive.php</a>"
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13533,11 +13533,11 @@ msgstr "Arhiveaza"
 
 msgctxt "Languages::marketplace"
 msgid "Marketplace"
-msgstr "Marketplace"
+msgstr "Piață"
 
 msgctxt "Languages::marketplace_find_more"
 msgid "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
-msgstr "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
+msgstr "Găseşte mai multe suplimente şi teme în <a href=\"[href]\" target=\"_blank\"> piaţă</a>"
 
 msgctxt "Languages::extract_archive"
 msgid "Extract archive"
@@ -13557,43 +13557,43 @@ msgstr "Packing slip bulk print"
 
 msgctxt "Languages::bulk_print_pdf"
 msgid "Invoice bulk print (PDF)"
-msgstr "Invoice bulk print (PDF)"
+msgstr "Imprimare facturi in masa (PDF)"
 
 msgctxt "Languages::text_all_categories_included"
 msgid "All categories included"
-msgstr "All categories included"
+msgstr "Toate categoriile incluse"
 
 msgctxt "Languages::text_all_products_included"
 msgid "All products included"
-msgstr "All products included"
+msgstr "Toate produsele incluse"
 
 msgctxt "Languages::usergroup_registered"
 msgid "Registered users"
-msgstr "Registered users"
+msgstr "Utilizatorii înregistraţi"
 
 msgctxt "Languages::person_name"
 msgid "Name"
-msgstr "Name"
+msgstr "Nume"
 
 msgctxt "Languages::promotions.cond_any"
 msgid "any"
-msgstr "any"
+msgstr "orice"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "all"
+msgstr "toate"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
-msgstr "true"
+msgstr "adevărat"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"
-msgstr "false"
+msgstr "fals"
 
 msgctxt "Languages::text_select_vendor"
 msgid "Please select a store first"
-msgstr "Please select a store first"
+msgstr "Vă rugăm să selectaţi mai întâi un magazin"
 
 msgctxt "SettingsSections::Appearance"
 msgid "Appearance"
@@ -13629,7 +13629,7 @@ msgstr "Setări securitate"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Procesare"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
@@ -13637,7 +13637,7 @@ msgstr "Harta site-ului"
 
 msgctxt "SettingsSections::Stores"
 msgid "Stores"
-msgstr "Stores"
+msgstr "Magazine"
 
 msgctxt "SettingsSections::Thumbnails"
 msgid "Thumbnails"
@@ -13665,7 +13665,7 @@ msgstr "Activați conexiunea securizată pentru autentificare, profil și pagina
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
-msgstr "Keep HTTPS connection once a secure page is visited"
+msgstr "Păstraţi conexiune HTTPS odată ce o pagină securizată este vizitată"
 
 msgctxt "SettingsOptions::disable_shipping"
 msgid "Disable shipping"
@@ -13673,7 +13673,7 @@ msgstr "Dezactivare transport"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Procesori de transporturi"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -13737,7 +13737,7 @@ msgstr "Formatul intervalelor de timp"
 
 msgctxt "SettingsOptions::share_users"
 msgid "Share users among stores"
-msgstr "Share users among stores"
+msgstr "Cota de utilizatori printre magazinele"
 
 msgctxt "SettingsOptions::log_type_general"
 msgid "General"
@@ -13881,7 +13881,7 @@ msgstr "Dimensiunea maximă a fontului"
 
 msgctxt "SettingsOptions::store_mode"
 msgid "Close storefront"
-msgstr "Close storefront"
+msgstr "Închide magazinul"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
@@ -13893,7 +13893,7 @@ msgstr "Cheia de acces pentru magazinul închis. Folosiți: http://www.example.c
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Reconstruiti cache-ul in mod automat"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
@@ -13909,15 +13909,15 @@ msgstr "Notificare vizitatori despre folosirea cookie-urilor"
 
 msgctxt "SettingsOptions::tax_calculation"
 msgid "Tax calculation method based on"
-msgstr "Tax calculation method based on"
+msgstr "Metoda de calcul a impozitului pe baza"
 
 msgctxt "SettingsOptions::feedback_type"
 msgid "Help us improve software"
-msgstr "Help us improve software"
+msgstr "Ne ajutați la îmbunătățirea software-ului"
 
 msgctxt "SettingsOptions::auto_check_updates"
 msgid "Check for updates automatically"
-msgstr "Check for updates automatically"
+msgstr "Căuta actualizări automat"
 
 msgctxt "SettingsOptions::ftp_directory"
 msgid "Directory"
@@ -13933,7 +13933,7 @@ msgstr "Numărul de telefon al companiei"
 
 msgctxt "SettingsOptions::default_wysiwyg_editor"
 msgid "Default wysiwyg editor"
-msgstr "Default wysiwyg editor"
+msgstr "Editor wysiwyg implicit"
 
 msgctxt "SettingsOptions::mailer_smtp_auth"
 msgid "Use SMTP authentication"
@@ -14041,11 +14041,11 @@ msgstr "Adresa de e-mail departamentului de utilizatori"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Utilizați pentru"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
-msgstr "Products list (category, search, etc) thumbnail width"
+msgstr "Produse lista (categorie, căutare, etc) lăţimea miniaturii"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
@@ -14057,7 +14057,7 @@ msgstr "Adresa de e-mail a Administratorului"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
-msgstr "Products list (category, search, etc) thumbnail height"
+msgstr "Produse lista (categorie, căutare, etc) lăţimea miniaturii"
 
 msgctxt "SettingsOptions::company_orders_department"
 msgid "Order department e-mail address"
@@ -14069,7 +14069,7 @@ msgstr "Telefonul implicit"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
-msgstr "Product details page thumbnail width"
+msgstr "Detalii produs pagina lăţimea miniaturii"
 
 msgctxt "SettingsOptions::header_7004"
 msgid "Catalog"
@@ -14089,7 +14089,7 @@ msgstr "Activează urmărirea inventarului"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
-msgstr "Product details page thumbnail height"
+msgstr "Inaltime de miniatură produs detalii filme"
 
 msgctxt "SettingsOptions::allow_negative_amount"
 msgid "Allow negative amount in inventory"
@@ -14097,11 +14097,11 @@ msgstr "Permite suma negativă în inventar"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_width"
 msgid "Product quick view thumbnail width"
-msgstr "Product quick view thumbnail width"
+msgstr "Produs vizualizare rapidă lăţimea miniaturii"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_height"
 msgid "Product quick view thumbnail height"
-msgstr "Product quick view thumbnail height"
+msgstr "Inaltime miniatură produs vizualizare rapidă"
 
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
@@ -14145,7 +14145,7 @@ msgstr "Afișează produse care sunt în afara stocului"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_width"
 msgid "Categories list thumbnail width"
-msgstr "Categories list thumbnail width"
+msgstr "Categorii lista lăţimea miniaturii"
 
 msgctxt "SettingsOptions::taxes_using_default_address"
 msgid "Estimate taxes using default address on cart/checkout pages"
@@ -14173,27 +14173,27 @@ msgstr "Folosiți \"Taxatorul de valoare\" pentru câmpul Cantitate"
 
 msgctxt "SettingsOptions::top_pagination"
 msgid "Display the 'Pagination section' on the top of the listed object"
-msgstr "Display the 'Pagination section' on the top of the listed object"
+msgstr "Afișează \"secțiunea paginare\" pe partea de sus a obiectului listat"
 
 msgctxt "SettingsOptions::default_image_previewer"
 msgid "Default image previewer"
-msgstr "Default image previewer"
+msgstr "Previzualizare imagine implicită"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_height"
 msgid "Categories list thumbnail height"
-msgstr "Categories list thumbnail height"
+msgstr "Lista de categoriile miniatură înălţime"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Product detailed page view"
+msgstr "Vizualizare pagina detaliată de produse"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
-msgstr "Display product details in tabs"
+msgstr "Afișare detalii produs în file"
 
 msgctxt "SettingsOptions::display_track_orders"
 msgid "Display track my orders section"
-msgstr "Display track my orders section"
+msgstr "Afişare urmăriţi secţiunea meu de comenzi"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
@@ -14201,19 +14201,19 @@ msgstr "Setări aspect listă produse"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Available product list views"
+msgstr "Vizionări de lista disponibile"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Product list default view"
+msgstr "Vizualizare implicită produs lista"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Use the selected view for current category or search page only"
+msgstr "Folosește layout-ul selectat pentru categoria curetă sau doar pentru pagina de căutare"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
-msgstr "Available product list sortings"
+msgstr "Produs disponibil in lista de sortare"
 
 msgctxt "SettingsOptions::default_products_sorting"
 msgid "Product list default sorting"
@@ -14221,11 +14221,11 @@ msgstr "Criteriul implicit pentru lista de produse"
 
 msgctxt "SettingsOptions::enable_quick_view"
 msgid "Enable quick view"
-msgstr "Enable quick view"
+msgstr "Activează vizualizare rapidă"
 
 msgctxt "SettingsOptions::header_10080"
 msgid "Common settings"
-msgstr "Common settings"
+msgstr "Setări comune"
 
 msgctxt "SettingsOptions::date_format"
 msgid "Date format"
@@ -14253,7 +14253,7 @@ msgstr "Fus orar"
 
 msgctxt "SettingsOptions::category_detailed_image_width"
 msgid "Detailed category image width"
-msgstr "Detailed category image width"
+msgstr "Categorie detaliata lățime imagine"
 
 msgctxt "SettingsOptions::use_single_coupon"
 msgid "Allow customers to use single discount coupon only"
@@ -14297,7 +14297,7 @@ msgstr "Dezactivează procesarea anonimă"
 
 msgctxt "SettingsOptions::checkout_redirect"
 msgid "Allow checkout only from the Cart content page"
-msgstr "Allow checkout only from the Cart content page"
+msgstr "Permite plateste doar de pe pagina de continut cos"
 
 msgctxt "SettingsOptions::allow_usergroup_signup"
 msgid "Allow customer to signup for user group"
@@ -14317,7 +14317,7 @@ msgstr "Modificările nu au fost salvate."
 
 msgctxt "SettingsOptions::show_menu_descriptions"
 msgid "Show menu description"
-msgstr "Show menu description"
+msgstr "Arată meniu descriere"
 
 msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
@@ -14345,11 +14345,11 @@ msgstr "Estimează costul transportului"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Periteți oaspeților să-și creeze un cont după plasarea comenzii cu succes"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
-msgstr "Disregard product options when calculating quantity discounts"
+msgstr "Nu ia în considerare opţiunile de produs atunci când calculează cantitatea reduceri"
 
 msgctxt "SettingsOptions::header_8057"
 msgid "Proxy server for outgoing connections"
@@ -14381,91 +14381,91 @@ msgstr "Caută de asemenea în"
 
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
-msgstr "Use Encrypted Connection"
+msgstr "Utilizare conexiune criptată"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Configuraţi \"Sign in\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "The first checkout step can be hidden only if it doesn't have any required contact info fields."
+msgstr "Primul pas vanzare poate fi ascunsă numai în cazul în care nu are toate câmpurile necesare informaţii de contact."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Implicit opțiunea de \"client nou\" secţiunea \"Sign in\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step (the first active method will be used by default)"
-msgstr "Display \"Shipping method\" step (the first active method will be used by default)"
+msgstr "Afişare pas \"Metoda de transport\" (prima metodă activă va fi folosit implicit)"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step (the first active method will be used by default)"
-msgstr "Display \"Payment method\" step (the first active method will be used by default)"
+msgstr "Afişare pas \"Metoda de transport\" (prima metodă activă va fi folosit implicit)"
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Permite vânzarea de produse downloadabile"
 
 msgctxt "SettingsTooltips::secure_checkout"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Certificat SSL este necesar pentru a fi instalat pe server"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Certificat SSL este necesar pentru a fi instalat pe server"
 
 msgctxt "SettingsTooltips::store_access_key"
 msgid "Use: http://www.example.com/index.php?store_access_key=key_value"
-msgstr "Use: http://www.example.com/index.php?store_access_key=key_value"
+msgstr "Utilizare: http://www.example.com/index.php?store_access_key=key_value"
 
 msgctxt "SettingsTooltips::order_start_id"
 msgid "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
-msgstr "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
+msgstr "Introduceţi un număr între 1 și 10.000.000 (utilizati doar cifre) sau lăsaţi gol pentru auto-umplere."
 
 msgctxt "SettingsTooltips::user_multiple_profiles"
 msgid "Shipping and billing addresses"
-msgstr "Shipping and billing addresses"
+msgstr "Transport și adrese de facturare"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
-msgstr "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
+msgstr "Lăsaţi gol pentru fundal transparent (necesită PHP GD biblioteci versiune > 2.0.1)"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Certificat SSL este necesar pentru a fi instalat pe server"
 
 msgctxt "SettingsTooltips::checkout_redirect"
 msgid "When the customer clicks on any Checkout button/link in the store"
-msgstr "When the customer clicks on any Checkout button/link in the store"
+msgstr "Atunci când clientul face clic pe orice butonul/link-ul din magazin pentru a merge la casă"
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
+msgstr "Urmăriţi modificările în timp real şi automat re-cache fişierele modificate (funcţionează cu fişiere modificate direct pe server, de asemenea.) Pot afecta uşor magazin de performanţă. Recomandat pentru a dezactiva de producţie."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
-msgstr "If you disable this check box, description of menu items will be hidden"
+msgstr "Dacă dezactivaţi această casetă de selectare, descrierea de elemente de meniu vor fi ascunse"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Nevoie doar de informații cu privire la înregistrarea de contact"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
-msgstr "Default"
+msgstr "În mod implicit"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
-msgstr "Manual feedback"
+msgstr "Feedback-ul manual"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
-msgstr "Automatic feedback"
+msgstr "Feedback-ul automat"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
-msgstr "29/09/2005 (day/month/year)"
+msgstr "29/09/2005 (zi/lună/an)"
 
 msgctxt "SettingsVariants::time_format::%H:%M"
 msgid "15:43"
@@ -14473,35 +14473,35 @@ msgstr "15:43"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::allow_shopping"
 msgid "Allow"
-msgstr "Allow"
+msgstr "Permite"
 
 msgctxt "SettingsVariants::string_type::digits"
 msgid "Digits only"
-msgstr "Digits only"
+msgstr "Doar cifre"
 
 msgctxt "SettingsVariants::calendar_date_format::month_first"
 msgid "09/30/2008 (month/day/year)"
-msgstr "09/30/2008 (month/day/year)"
+msgstr "09/30/2008 (lună/zi/calendar)"
 
 msgctxt "SettingsVariants::calendar_week_format::sunday_first"
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "Duminică"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
-msgstr "Billing first"
+msgstr "Facturarea prima (ca ordonare)"
 
 msgctxt "SettingsVariants::log_type_general::runtime"
 msgid "Runtime"
-msgstr "Runtime"
+msgstr "Timp de execuție"
 
 msgctxt "SettingsVariants::default_state_update_for_all::not_active"
 msgid "Not Active"
-msgstr "Not Active"
+msgstr "Nu este activ"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
-msgstr "29-09-2005 (day-month-year)"
+msgstr "29-09-2005 (zi-lună-an)"
 
 msgctxt "SettingsVariants::time_format::%H.%M"
 msgid "15.43"
@@ -14509,39 +14509,39 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "Produse cu transport"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
-msgstr "Hide the \"Add to cart\" button"
+msgstr "Ascunde butonul \"Adaugă în coș\""
 
 msgctxt "SettingsVariants::string_type::letters"
 msgid "Letters only"
-msgstr "Letters only"
+msgstr "Doar litere"
 
 msgctxt "SettingsVariants::calendar_date_format::day_first"
 msgid "30/09/2008 (day/month/year)"
-msgstr "30/09/2008 (day/month/year)"
+msgstr "30/09/2008 (zi/lună/an)"
 
 msgctxt "SettingsVariants::calendar_week_format::monday_first"
 msgid "Monday"
-msgstr "Monday"
+msgstr "Luni"
 
 msgctxt "SettingsVariants::address_position::shipping_first"
 msgid "Shipping first"
-msgstr "Shipping first"
+msgstr "Livrarea prima (ca ordonare)"
 
 msgctxt "SettingsVariants::log_type_general::deprecated"
 msgid "Deprecated features"
-msgstr "Deprecated features"
+msgstr "Caracteristici depreciate"
 
 msgctxt "SettingsVariants::default_state_update_for_all::active"
 msgid "Active"
-msgstr "Active"
+msgstr "Activ"
 
 msgctxt "SettingsVariants::date_format::%d.%m.%Y"
 msgid "29.09.2005 (day.month.year)"
-msgstr "29.09.2005 (day.month.year)"
+msgstr "29.09.2005 (zi.lună.an)"
 
 msgctxt "SettingsVariants::time_format::%I:%M %p"
 msgid "3:43 PM"
@@ -14549,19 +14549,19 @@ msgstr "3:43 PM"
 
 msgctxt "SettingsVariants::min_order_amount_type::only_products"
 msgid "Products"
-msgstr "Products"
+msgstr "Produse"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
-msgstr "Hide price and the \"Add to cart\" button"
+msgstr "Ascunde prețul și butonul \"Adaugă în coș\""
 
 msgctxt "SettingsVariants::string_type::mixed"
 msgid "Mixed"
-msgstr "Mixed"
+msgstr "Amestecate"
 
 msgctxt "SettingsVariants::date_format::%m/%d/%Y"
 msgid "09/29/2005 (month/day/year)"
-msgstr "09/29/2005 (month/day/year)"
+msgstr "09/29/2005 (lună/zi/an)"
 
 msgctxt "SettingsVariants::time_format::%I.%M %p"
 msgid "3.43 PM"
@@ -14569,55 +14569,55 @@ msgstr "3.43 PM"
 
 msgctxt "SettingsVariants::log_type_orders::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crea"
 
 msgctxt "SettingsVariants::log_type_orders::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Ştergeţi"
 
 msgctxt "SettingsVariants::log_type_orders::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualizați"
 
 msgctxt "SettingsVariants::log_type_products::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Creați"
 
 msgctxt "SettingsVariants::log_type_products::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Ştergeţi"
 
 msgctxt "SettingsVariants::log_type_products::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualizare"
 
 msgctxt "SettingsVariants::log_type_users::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crea"
 
 msgctxt "SettingsVariants::log_type_users::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Ştergeţi"
 
 msgctxt "SettingsVariants::log_type_users::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualizare"
 
 msgctxt "SettingsVariants::log_type_categories::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Creați"
 
 msgctxt "SettingsVariants::log_type_categories::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Ştergeţi"
 
 msgctxt "SettingsVariants::log_type_categories::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualizați"
 
 msgctxt "SettingsVariants::date_format::%m-%d-%Y"
 msgid "09-29-2005 (month-day-year)"
-msgstr "09-29-2005 (month-day-year)"
+msgstr "09-29-2005 (lună-zi-an)"
 
 msgctxt "SettingsVariants::time_format::%H:%M:%S"
 msgid "15:43:55"
@@ -14625,39 +14625,39 @@ msgstr "15:43:55"
 
 msgctxt "SettingsVariants::month::%B, %Y"
 msgid "January, 2006"
-msgstr "January, 2006"
+msgstr "Ianuarie, 2006"
 
 msgctxt "SettingsVariants::log_type_orders::status"
 msgid "Change"
-msgstr "Change"
+msgstr "Schimbați"
 
 msgctxt "SettingsVariants::log_type_users::session"
 msgid "Session"
-msgstr "Session"
+msgstr "Sesiune"
 
 msgctxt "SettingsVariants::log_type_users::failed_login"
 msgid "Failed logins"
-msgstr "Failed logins"
+msgstr "Autentificări eșuate"
 
 msgctxt "SettingsVariants::log_type_products::low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "Stoc redus"
 
 msgctxt "SettingsVariants::log_type_database::restore"
 msgid "Restore"
-msgstr "Restore"
+msgstr "Restaurați"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Copie de rezervă"
 
 msgctxt "SettingsVariants::log_type_database::optimize"
 msgid "Optimize"
-msgstr "Optimize"
+msgstr "Optimizare"
 
 msgctxt "SettingsVariants::log_type_database::error"
 msgid "Errors"
-msgstr "Errors"
+msgstr "Erori"
 
 msgctxt "SettingsVariants::log_type_requests::http"
 msgid "HTTP/HTTPS"
@@ -14665,7 +14665,7 @@ msgstr "HTTP/HTTPS"
 
 msgctxt "SettingsVariants::date_format::%m.%d.%Y"
 msgid "09.29.2005 (month.day.year)"
-msgstr "09.29.2005 (month.day.year)"
+msgstr "09.29.2005 (lună.zi.an)"
 
 msgctxt "SettingsVariants::time_format::%H.%M.%S"
 msgid "15.43.55"
@@ -14673,7 +14673,7 @@ msgstr "15.43.55"
 
 msgctxt "SettingsVariants::date_format::%Y/%m/%d"
 msgid "2005/09/29 (year/month/day)"
-msgstr "2005/09/29 (year/month/day)"
+msgstr "2005/09/29 (an/lună/zi)"
 
 msgctxt "SettingsVariants::time_format::%I:%M:%S %p"
 msgid "3:43:55 PM"
@@ -14681,7 +14681,7 @@ msgstr "3:43:55 PM"
 
 msgctxt "SettingsVariants::date_format::%Y-%m-%d"
 msgid "2005-09-29 (year-month-day)"
-msgstr "2005-09-29 (year-month-day)"
+msgstr "2005-09-29 (an-lună-zi)"
 
 msgctxt "SettingsVariants::time_format::%I.%M.%S %p"
 msgid "3.43.55 PM"
@@ -14689,35 +14689,35 @@ msgstr "3.43.55 PM"
 
 msgctxt "SettingsVariants::date_format::%Y.%m.%d"
 msgid "2005.09.29 (year.month.day)"
-msgstr "2005.09.29 (year.month.day)"
+msgstr "2005.09.29 (an.lună.zi)"
 
 msgctxt "SettingsVariants::exception_style::hide"
 msgid "Hide exception"
-msgstr "Hide exception"
+msgstr "Ascunde excepție"
 
 msgctxt "SettingsVariants::alternative_currency::use_only_selected"
 msgid "Show prices in selected currency only"
-msgstr "Show prices in selected currency only"
+msgstr "Arată prețurile în moneda selectată"
 
 msgctxt "SettingsVariants::date_format::%b %e, %Y"
 msgid "Sep 29, 2005 (month day, year)"
-msgstr "Sep 29, 2005 (month day, year)"
+msgstr "Sep 29, 2005 (lună zi, an)"
 
 msgctxt "SettingsVariants::default_products_sorting::product"
 msgid "Product name"
-msgstr "Product name"
+msgstr "Numele produsului"
 
 msgctxt "SettingsVariants::day::%a, %b %e"
 msgid "Tue, Jan 3"
-msgstr "Tue, Jan 3"
+msgstr "Mar, Ian 3"
 
 msgctxt "SettingsVariants::week::%U"
 msgid "1 week"
-msgstr "1 week"
+msgstr "1 săptămână"
 
 msgctxt "SettingsVariants::month::%B"
 msgid "January"
-msgstr "January"
+msgstr "Ianuarie"
 
 msgctxt "SettingsVariants::year::%Y"
 msgid "2006"
@@ -14725,43 +14725,43 @@ msgstr "2006"
 
 msgctxt "SettingsVariants::mailer_send_method::smtp"
 msgid "via SMTP server"
-msgstr "via SMTP server"
+msgstr "prin serverul SMTP"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
-msgstr "(GMT-12:00) International Date Line West"
+msgstr "(GMT-12:00) International data Line West"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
-msgstr "Unit price"
+msgstr "Preţ unitar"
 
 msgctxt "SettingsVariants::date_format::%d %b %Y"
 msgid "29 Sep 2005 (day month year)"
-msgstr "29 Sep 2005 (day month year)"
+msgstr "29 Sep 2005 (zi lună an)"
 
 msgctxt "SettingsVariants::date_format::%A, %B %e, %Y"
 msgid "Thursday, September 29, 2005 (day of week, month day, year)"
-msgstr "Thursday, September 29, 2005 (day of week, month day, year)"
+msgstr "Joi, Septembrie 29, 2005 (ziua săptămânii, Numle lunii, an)"
 
 msgctxt "SettingsVariants::date_format::%A, %e %B %Y"
 msgid "Thursday, 29 September 2005 (day of week, day month year)"
-msgstr "Thursday, 29 September 2005 (day of week, day month year)"
+msgstr "Joi, 29 Septembrie 2005 (zi a săptămânii, Numele lunii an)"
 
 msgctxt "SettingsVariants::day::%B %e, %Y"
 msgid "January 3, 2006"
-msgstr "January 3, 2006"
+msgstr "3 ianuarie, 2006"
 
 msgctxt "SettingsVariants::exception_style::warning"
 msgid "Show warning on exception"
-msgstr "Show warning on exception"
+msgstr "Afișează avertisment în cazul unei excepții"
 
 msgctxt "SettingsVariants::alternative_currency::use_selected_and_alternative"
 msgid "Show prices in default and selected currencies"
-msgstr "Show prices in default and selected currencies"
+msgstr "Arată prețurile în mod implicit și monedele selectate"
 
 msgctxt "SettingsVariants::default_products_sorting::price"
 msgid "Price"
-msgstr "Price"
+msgstr "Preț"
 
 msgctxt "SettingsVariants::day::%m.%e.%y"
 msgid "01.03.06"
@@ -14781,7 +14781,7 @@ msgstr "06"
 
 msgctxt "SettingsVariants::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "prin funcția mail oferită de php"
 
 msgctxt "SettingsVariants::timezone::Pacific/Apia"
 msgid "(GMT-11:00) Midway Island, Samoa"
@@ -14793,11 +14793,11 @@ msgstr "Subtotal"
 
 msgctxt "SettingsVariants::default_products_sorting::null"
 msgid "None"
-msgstr "None"
+msgstr "Verificarea nu s-a realizat"
 
 msgctxt "SettingsVariants::day::%a %b %e, %Y"
 msgid "Tue Jan 3, 2006"
-msgstr "Tue Jan 3, 2006"
+msgstr "Mar Ian 3, 2006"
 
 msgctxt "SettingsVariants::week::%U, %b"
 msgid "1, Jan"
@@ -14805,11 +14805,11 @@ msgstr "1, Jan"
 
 msgctxt "SettingsVariants::month::%b"
 msgid "Jan"
-msgstr "Jan"
+msgstr "Ian"
 
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "prin programul sendmail"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -14817,7 +14817,7 @@ msgstr "(GMT-10:00) Hawaii"
 
 msgctxt "SettingsVariants::day::%b %e"
 msgid "Jan 3"
-msgstr "Jan 3"
+msgstr "Ian 3"
 
 msgctxt "SettingsVariants::month::%m-%Y"
 msgid "01-2006"
@@ -14829,11 +14829,11 @@ msgstr "(GMT-09:00) Alaska"
 
 msgctxt "SettingsVariants::timezone::America/Los_Angeles"
 msgid "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
-msgstr "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
+msgstr "(GMT-08:00) Ora Pacificului (U.S. & Canada); Tijuana"
 
 msgctxt "SettingsVariants::timezone::America/Denver"
 msgid "(GMT-07:00) Mountain Time (US & Canada)"
-msgstr "(GMT-07:00) Mountain Time (US & Canada)"
+msgstr "(GMT-07:00) Timp de munte (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Chihuahua"
 msgid "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
@@ -14853,19 +14853,19 @@ msgstr "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
 
 msgctxt "SettingsVariants::timezone::America/Chicago"
 msgid "(GMT-06:00) Central Time (US & Canada)"
-msgstr "(GMT-06:00) Central Time (US & Canada)"
+msgstr "(GMT-06:00) Ora centrală (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Guatemala"
 msgid "(GMT-06:00) Central America"
-msgstr "(GMT-06:00) Central America"
+msgstr "(GMT-06:00) America Centrală"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+5"
 msgid "(GMT-05:00) Indiana (East)"
-msgstr "(GMT-05:00) Indiana (East)"
+msgstr "(GMT-05:00) Indiana (est)"
 
 msgctxt "SettingsVariants::timezone::America/New_York"
 msgid "(GMT-05:00) Eastern Time (US & Canada)"
-msgstr "(GMT-05:00) Eastern Time (US & Canada)"
+msgstr "(GMT-05:00) Eastern Time (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Bogota"
 msgid "(GMT-05:00) Bogota, Lima, Quito"
@@ -14881,7 +14881,7 @@ msgstr "(GMT-04:00) Caracas, La Paz"
 
 msgctxt "SettingsVariants::timezone::America/Halifax"
 msgid "(GMT-04:00) Atlantic Time (Canada)"
-msgstr "(GMT-04:00) Atlantic Time (Canada)"
+msgstr "(GMT-04:00) Timp Atlantic (Canada)"
 
 msgctxt "SettingsVariants::timezone::America/St_Johns"
 msgid "(GMT-03:30) Newfoundland"
@@ -14889,7 +14889,7 @@ msgstr "(GMT-03:30) Newfoundland"
 
 msgctxt "SettingsVariants::timezone::America/Godthab"
 msgid "(GMT-03:00) Greenland"
-msgstr "(GMT-03:00) Greenland"
+msgstr "(GMT-03:00) Groenlanda"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+3"
 msgid "(GMT-03:00) Buenos Aires, Georgetown"
@@ -14901,15 +14901,15 @@ msgstr "(GMT-03:00) Brasilia"
 
 msgctxt "SettingsVariants::timezone::Atlantic/South_Georgia"
 msgid "(GMT-02:00) Mid-Atlantic"
-msgstr "(GMT-02:00) Mid-Atlantic"
+msgstr "(GMT-02:00) Mijlocul Atlanticului"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Cape_Verde"
 msgid "(GMT-01:00) Cape Verde Is."
-msgstr "(GMT-01:00) Cape Verde Is."
+msgstr "(GMT-01:00) Is. Capul Verde"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
-msgstr "(GMT-01:00) Azores"
+msgstr "(GMT-01:00) Azore"
 
 msgctxt "SettingsVariants::timezone::Africa/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
@@ -14917,195 +14917,195 @@ msgstr "(GMT) Casablanca, Monrovia"
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
-msgstr "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+msgstr "(GMT) Greenwich Mean Time: Dublin, Edinburgh, Lisabona, Londra"
 
 msgctxt "SettingsVariants::timezone::Europe/Berlin"
 msgid "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
-msgstr "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+msgstr "(GMT + 01:00) Amsterdam, Berlin, Berna, Roma, Stockholm, Viena"
 
 msgctxt "SettingsVariants::timezone::Europe/Budapest"
 msgid "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
-msgstr "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+msgstr "(GMT + 01:00) Belgrad, Bratislava, Budapesta, Ljubljana, Praga"
 
 msgctxt "SettingsVariants::timezone::Europe/Paris"
 msgid "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
-msgstr "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
+msgstr "(GMT + 01:00) Bruxelles, Copenhaga, Madrid, Paris"
 
 msgctxt "SettingsVariants::timezone::Europe/Warsaw"
 msgid "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
-msgstr "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+msgstr "(GMT + 01:00) Sarajevo, Skopje, Varsovia, Zagreb"
 
 msgctxt "SettingsVariants::timezone::Africa/Lagos"
 msgid "(GMT+01:00) West Central Africa"
-msgstr "(GMT+01:00) West Central Africa"
+msgstr "(GMT + 01:00) Vest Africa Centrală"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
+msgstr "(GMT + 02:00) Atena, Beirut, Istanbul, Minsk"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Bucharest"
+msgstr "(GMT + 02:00) București"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
-msgstr "(GMT+02:00) Cairo"
+msgstr "(GMT + 02:00) Cairo"
 
 msgctxt "SettingsVariants::timezone::Africa/Johannesburg"
 msgid "(GMT+02:00) Harare, Pretoria"
-msgstr "(GMT+02:00) Harare, Pretoria"
+msgstr "(GMT + 02:00) Harare, Pretoria"
 
 msgctxt "SettingsVariants::timezone::Europe/Kiev"
 msgid "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
-msgstr "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+msgstr "(GMT + 02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius"
 
 msgctxt "SettingsVariants::timezone::Asia/Jerusalem"
 msgid "(GMT+02:00) Jerusalem"
-msgstr "(GMT+02:00) Jerusalem"
+msgstr "(GMT + 02:00) Jerusalem"
 
 msgctxt "SettingsVariants::timezone::Asia/Baghdad"
 msgid "(GMT+03:00) Baghdad"
-msgstr "(GMT+03:00) Baghdad"
+msgstr "(GMT + 03:00) Bagdad"
 
 msgctxt "SettingsVariants::timezone::Asia/Riyadh"
 msgid "(GMT+03:00) Kuwait, Riyadh"
-msgstr "(GMT+03:00) Kuwait, Riyadh"
+msgstr "(GMT + 03:00) Kuweit, Riyadh"
 
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
-msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+msgstr "(GMT + 03:00) Moscova, St.Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
-msgstr "(GMT+03:00) Nairobi"
+msgstr "(GMT + 03:00) Nairobi"
 
 msgctxt "SettingsVariants::timezone::Asia/Tehran"
 msgid "(GMT+03:30) Tehran"
-msgstr "(GMT+03:30) Tehran"
+msgstr "(GMT + 03:30) Teheran"
 
 msgctxt "SettingsVariants::timezone::Asia/Dubai"
 msgid "(GMT+04:00) Abu Dhabi, Muscat"
-msgstr "(GMT+04:00) Abu Dhabi, Muscat"
+msgstr "(GMT + 04:00) Abu Dhabi, Muscat"
 
 msgctxt "SettingsVariants::timezone::Asia/Yerevan"
 msgid "(GMT+04:00) Baku, Tbilisi, Yerevan"
-msgstr "(GMT+04:00) Baku, Tbilisi, Yerevan"
+msgstr "(GMT + 04:00) Baku, Tbilisi, Yerevan"
 
 msgctxt "SettingsVariants::timezone::Asia/Kabul"
 msgid "(GMT+04:30) Kabul"
-msgstr "(GMT+04:30) Kabul"
+msgstr "(GMT + 04:30) Kabul"
 
 msgctxt "SettingsVariants::timezone::Asia/Yekaterinburg"
 msgid "(GMT+05:00) Ekaterinburg"
-msgstr "(GMT+05:00) Ekaterinburg"
+msgstr "(GMT + 05:00) Ekaterinburg"
 
 msgctxt "SettingsVariants::timezone::Asia/Tashkent"
 msgid "(GMT+05:00) Islamabad, Karachi, Tashkent"
-msgstr "(GMT+05:00) Islamabad, Karachi, Tashkent"
+msgstr "(GMT + 05:00) Islamabad, Karachi, Tașkent"
 
 msgctxt "SettingsVariants::timezone::Asia/Calcutta"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
-msgstr "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+msgstr "(GMT + 05:30) Chennai, Kolkata, Mumbai, New Delhi"
 
 msgctxt "SettingsVariants::timezone::Asia/Katmandu"
 msgid "(GMT+05:45) Kathmandu"
-msgstr "(GMT+05:45) Kathmandu"
+msgstr "(GMT + 05:45) Kathmandu"
 
 msgctxt "SettingsVariants::timezone::Asia/Novosibirsk"
 msgid "(GMT+06:00) Almaty, Novosibirsk"
-msgstr "(GMT+06:00) Almaty, Novosibirsk"
+msgstr "(GMT + 06:00) Almatî, Novosibirsk"
 
 msgctxt "SettingsVariants::timezone::Asia/Dhaka"
 msgid "(GMT+06:00) Astana, Dhaka"
-msgstr "(GMT+06:00) Astana, Dhaka"
+msgstr "(GMT + 06:00) Astana, Dhaka"
 
 msgctxt "SettingsVariants::timezone::Asia/Colombo"
 msgid "(GMT+06:00) Sri Jayawardenepura"
-msgstr "(GMT+06:00) Sri Jayawardenepura"
+msgstr "(GMT + 06:00) Sri Jayawardenepura"
 
 msgctxt "SettingsVariants::timezone::Asia/Rangoon"
 msgid "(GMT+06:30) Rangoon"
-msgstr "(GMT+06:30) Rangoon"
+msgstr "(GMT + 06:30) Rangoon"
 
 msgctxt "SettingsVariants::timezone::Asia/Bangkok"
 msgid "(GMT+07:00) Bangkok, Hanoi, Jakarta"
-msgstr "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+msgstr "(GMT + 07:00) Bangkok, Hanoi, Jakarta"
 
 msgctxt "SettingsVariants::timezone::Asia/Krasnoyarsk"
 msgid "(GMT+07:00) Krasnoyarsk"
-msgstr "(GMT+07:00) Krasnoyarsk"
+msgstr "(GMT + 07:00) Krasnoyarsk"
 
 msgctxt "SettingsVariants::timezone::Asia/Shanghai"
 msgid "(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
-msgstr "(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+msgstr "(GMT + 08:00) Beijing, Chongqing, Hong Kong, Urumqi"
 
 msgctxt "SettingsVariants::timezone::Asia/Irkutsk"
 msgid "(GMT+08:00) Irkutsk, Ulaan Bataar"
-msgstr "(GMT+08:00) Irkutsk, Ulaan Bataar"
+msgstr "(GMT + 08:00) Irkutsk, Ulaɣan Bataar"
 
 msgctxt "SettingsVariants::timezone::Asia/Singapore"
 msgid "(GMT+08:00) Kuala Lumpur, Singapore"
-msgstr "(GMT+08:00) Kuala Lumpur, Singapore"
+msgstr "(GMT + 08:00) Kuala Lumpur, Singapore"
 
 msgctxt "SettingsVariants::timezone::Australia/Perth"
 msgid "(GMT+08:00) Perth"
-msgstr "(GMT+08:00) Perth"
+msgstr "(GMT + 08:00) Perth"
 
 msgctxt "SettingsVariants::timezone::Asia/Taipei"
 msgid "(GMT+08:00) Taipei"
-msgstr "(GMT+08:00) Taipei"
+msgstr "(GMT + 08:00) Taipei"
 
 msgctxt "SettingsVariants::timezone::Asia/Tokyo"
 msgid "(GMT+09:00) Osaka, Sapporo, Tokyo"
-msgstr "(GMT+09:00) Osaka, Sapporo, Tokyo"
+msgstr "(GMT + 09:00) Osaka, Sapporo, Tokyo"
 
 msgctxt "SettingsVariants::timezone::Asia/Seoul"
 msgid "(GMT+09:00) Seoul"
-msgstr "(GMT+09:00) Seoul"
+msgstr "(GMT + 09:00) Seul"
 
 msgctxt "SettingsVariants::timezone::Asia/Yakutsk"
 msgid "(GMT+09:00) Yakutsk"
-msgstr "(GMT+09:00) Yakutsk"
+msgstr "(GMT + 09:00) Yakutsk"
 
 msgctxt "SettingsVariants::timezone::Australia/Adelaide"
 msgid "(GMT+09:30) Adelaide"
-msgstr "(GMT+09:30) Adelaide"
+msgstr "(GMT + 09:30) Adelaide"
 
 msgctxt "SettingsVariants::timezone::Australia/Darwin"
 msgid "(GMT+09:30) Darwin"
-msgstr "(GMT+09:30) Darwin"
+msgstr "(GMT + 09:30) Darwin"
 
 msgctxt "SettingsVariants::timezone::Australia/Brisbane"
 msgid "(GMT+10:00) Brisbane"
-msgstr "(GMT+10:00) Brisbane"
+msgstr "(GMT + 10:00) Brisbane"
 
 msgctxt "SettingsVariants::timezone::Australia/Sydney"
 msgid "(GMT+10:00) Canberra, Melbourne, Sydney"
-msgstr "(GMT+10:00) Canberra, Melbourne, Sydney"
+msgstr "(GMT + 10:00) Canberra, Melbourne, Sydney"
 
 msgctxt "SettingsVariants::timezone::Pacific/Port_Moresby"
 msgid "(GMT+10:00) Guam, Port Moresby"
-msgstr "(GMT+10:00) Guam, Port Moresby"
+msgstr "(GMT + 10:00) GUAM, Port Moresby"
 
 msgctxt "SettingsVariants::timezone::Australia/Hobart"
 msgid "(GMT+10:00) Hobart"
-msgstr "(GMT+10:00) Hobart"
+msgstr "(GMT + 10:00) Hobart"
 
 msgctxt "SettingsVariants::timezone::Asia/Vladivostok"
 msgid "(GMT+10:00) Vladivostok"
-msgstr "(GMT+10:00) Vladivostok"
+msgstr "(GMT + 10:00) Vladivostok"
 
 msgctxt "SettingsVariants::timezone::Pacific/Guadalcanal"
 msgid "(GMT+11:00) Magadan, Solomon Is., New Caledonia"
-msgstr "(GMT+11:00) Magadan, Solomon Is., New Caledonia"
+msgstr "(GMT + 11:00) Magadan, Solomon Is., Noua Caledonie"
 
 msgctxt "SettingsVariants::timezone::Pacific/Auckland"
 msgid "(GMT+12:00) Auckland, Wellington"
-msgstr "(GMT+12:00) Auckland, Wellington"
+msgstr "(GMT + 12:00) Auckland, Wellington"
 
 msgctxt "SettingsVariants::timezone::Pacific/Fiji"
 msgid "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
-msgstr "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
+msgstr "(GMT + 12:00) Fiji, Kamciatka, Marshall este."
 
 msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
@@ -15113,11 +15113,11 @@ msgstr "(GMT+13:00) Nuku'alofa"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Require only contact information on registration"
+msgstr "Nevoie doar de informații cu privire la înregistrarea de contact"
 
 msgctxt "Languages::views"
 msgid "Views"
-msgstr "Views"
+msgstr "Vizualizări"
 
 msgctxt "ProfileFields::firstname"
 msgid "First name"
@@ -15209,27 +15209,27 @@ msgstr "Zip/Cod poștal"
 
 msgctxt "ProfileFields::b_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "Telefon"
 
 msgctxt "ProfileFields::s_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "Telefon"
 
 msgctxt "ProfileFields::email"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "Poştă electronică"
 
 msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
-msgstr "Address type"
+msgstr "Tipul adresei"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr "Product must belong to some category created by the owner company."
+msgstr "Produsul trebuie să aparţin unei categoria creat de compania proprietar."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
-msgstr "None"
+msgstr "Niciunul"
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::tls"
 msgid "TLS"
@@ -15241,103 +15241,103 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Afişa mai întâi \"Client nou\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Afişa mai întâi \"Client existent\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Ascunde pas complet"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Înregistrați-vă"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Platiti fara crearea unui cont"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
-msgstr "Last year"
+msgstr "Anul trecut"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "Magazin închis"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "Magazin <br/> închis"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Copie la alte locaţii"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Custom HTML cod"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Acest cod HTML va fi pus între &lt; cap &gt;&lt; / cap &gt; Tag-uri"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Aceasta va şterge toate selectat categoria produselor, precum şi subcategoriile sale şi produsele lor."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Aceasta va şterge toate categoriile produselor selectate, precum şi subcategoriile sale şi produsele lor."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Restaurare original"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Set de configurare particularizată"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Utilizare implicit bloc de configurare"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Fişierele private"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Fişiere publice"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "Șabloane"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Vă rugăm să furnizați acest URL de la administratorul de cont Realex Payments"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Vă rugăm să furnizați adresa IP a serverului la administratorul de cont Realex Payments"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Decontare"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Soluţionare întârziat"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Auto-reglat"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Realex catre CS-Cart comanda statutul de conversie harta"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
@@ -15345,51 +15345,51 @@ msgstr "Subaccount"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Răspunderea Shift"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Răspunderea Shift necesare"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Mesaj 3-D securizate"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Realex cont a fost suspendat. Contacta Realex suport pentru mai multe informaţii."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Formarea de mesaj XML incorect sau conţinut"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Eroare cu sisteme Realex"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Eroare cu sistemele bancare"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Cardul raportat este pierdut sau furat"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Sesizare de la bancă"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "AVS codul poştal"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "AVS adresa"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
-msgstr "TSS"
+msgstr "SINDROMUL DE SOC TOXIC (TSS)"
 
 msgctxt "Languages::payments.realex.eci"
 msgid "ECI"
@@ -15405,67 +15405,67 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Mesajul rezultat"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Codul rezultat"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Tranzactie PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "Tranzacţie Order ID"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Potrivire"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Nu corespunde"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problema cu verificarea"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Imposibilitatea de a verifica"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Potrivire parţială"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Această plată este disponibilă pentru acest tip de carduri de credit."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "Valorile incorecte 'Valid thru' câmpuri."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Formularul de autentificare"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Creaţi şi să editaţi pagina de profil"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Formularul de procesare (a informațiilor utilizatorului)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Formular urmărire comandă"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "SEO setările de magazin."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15473,27 +15473,27 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Editare: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Editare robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Restabiliţi implicit robots.txt"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Eroare de validare date din datele cardului de Credit. Numărul cardului de Credit a fost incorect, sau la data expirării sau codul de verificare Card."
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Opţiunea excepţii"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Filtre orizontale"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15502,117 +15502,117 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "Upgrade conector [connector_id] întors de date incorecte"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "Pachetul de upgrade a fost descărcat şi gata pentru a instala"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "Conector upgrade nu a fost găsit"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "Imposibil de citit pachetul schemă (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "Pachetul de conţinut schemă nu a fost găsit"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Pachet de schemă nu este o JSON valabil"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Interzis: Supliment încearcă să actualizaţi fişierele principale ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Pachetul conţine migraţii care nu au fost descrise în schemă sau schemă a link-uri la migraţie fişiere lipsă"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Pachetul conţine limbi care nu au fost descrise în schemă sau schemă a link-uri la limbi fişiere lipsă"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Pachetul conţine fişierele care nu au fost descrise în schemă sau schemă a link-uri la fişiere lipsă"
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Noua versiune"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Migraţii"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Problema de permisiuni"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Modificări locale"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Am înțeles că modificările mele locale vor fi pierdute definitiv în timpul actualizării"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Va fi schimbat"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Vor fi şterse"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Pachet upgrade validare"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Executa validator \"[validator]\""
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Copiaţi fişierele"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Execută migraţii"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Instalaţi traduceri"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Actualizare progres"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Încărcaţi pachet upgrade"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Încărcarea pachet upgrade vă permite să aplicaţi HotFixes sau supliment upgrade-uri. Aveţi posibilitatea să încărcaţi un pachet de upgrade de a alege o tgz, gz, zip format de arhivă şi făcând clic pe încărcare."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "În afara de navigare"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
-msgid "text"
-msgstr "text"
+msgid "Incorrect feature type. Some product features were not updated."
+msgstr "Incorecte caracteristică tip. Unele caracteristici de produse nu au fost actualizate."
 
 msgctxt "Languages::exim_error_empty_feature_name"
-msgid "text"
-msgstr "text"
+msgid "Feature name is missing. Some product features were not updated."
+msgstr "Lipsește numele de facilitate. Unele caracteristici de produse nu au fost actualizate."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "Cel puţin un magazinului trebuie să rămână"
 
