@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-20 10:01-0500\n"
+"PO-Revision-Date: 2015-02-24 14:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1176,8 +1176,8 @@ msgid "Minimal width"
 msgstr "Minimalna szerokość"
 
 msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
-msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
-msgstr "Zmiana układu, gdy jest układ graficzny jest przekształcany w CSS nie jest dozwolone. Proszę włączyć w tryb LESS <a target=\"_blank\" href=\"[url]\">Edytor układu graficznego</a>."
+msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Zmiana wyglądu gdy temat został skonwertowany do CSS nie jest dozwolone. Proszę włączyć tryb LESS w <a target=\"_blank\" class=\"cm-post\" href=\"[url]\"> edytorze grafiki</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -3925,7 +3925,7 @@ msgstr "Eksport lokacji"
 
 msgctxt "Languages::export_options"
 msgid "Export options"
-msgstr "Eksport opcji"
+msgstr "Opcje eksportu"
 
 msgctxt "Languages::export_selected"
 msgid "Export selected"
@@ -12463,6 +12463,14 @@ msgstr "Aktualizacja"
 msgctxt "Languages::upgrade_center"
 msgid "Upgrade center"
 msgstr "Centrum aktualizacji"
+
+msgctxt "Languages::upgrade_center.validation_issue"
+msgid "Validation issue"
+msgstr "Problem podczas sprawdzania poprawności"
+
+msgctxt "Languages::upgrade_center.validator_fail_result"
+msgid "Validator \"[validator_name]\" returned fail status"
+msgstr "Walidator \"[validator_name]\" zwrócił błędny status"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."

@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-21 10:00-0500\n"
+"PO-Revision-Date: 2015-02-24 11:03-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1176,8 +1176,8 @@ msgid "Minimal width"
 msgstr "Minimal width"
 
 msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
-msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" href=\"[url]\">Theme editor</a>."
+msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -10693,7 +10693,7 @@ msgstr "Products found: [n]. <a href=\"[href]\">Show</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "Seçili filtreler"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -11317,7 +11317,7 @@ msgstr "Failed to update the list of installed upgrades"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Mağazanız başarıyla yükseltildi"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11889,7 +11889,7 @@ msgstr "Araçlar"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Eklentiler sayısı"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11901,7 +11901,7 @@ msgstr "Eklenti yok"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Hiç bir üçüncü parti eklenti yok"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -12462,6 +12462,14 @@ msgstr "Güncelle"
 msgctxt "Languages::upgrade_center"
 msgid "Upgrade center"
 msgstr "Güncelleme merkezi"
+
+msgctxt "Languages::upgrade_center.validation_issue"
+msgid "Validation issue"
+msgstr "Doğrulama sorunu"
+
+msgctxt "Languages::upgrade_center.validator_fail_result"
+msgid "Validator \"[validator_name]\" returned fail status"
+msgstr "Validator \"[validator_name]\" returned fail status"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -15493,7 +15501,7 @@ msgstr "Seçenek istisnaları"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Yatay filtreler"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15542,31 +15550,31 @@ msgstr "Package contains files that were not described in schema or schema has l
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Yeni sürüm"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Geçişler"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "İzin sorunu"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Yerel değişiklikler"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Yükseltme sırasında yerel değişikliklerimin kalıcı olarak kaybolacağını kabul ediyorum"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Değiştirilecek"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Silinecek"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
@@ -15578,23 +15586,23 @@ msgstr "Execute \"[validator]\" validator"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Dosyaları kopyala"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Geçişleri çalıştır"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Dilleri yükle"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Yükseltme süreci"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Yükseltme paketini yükle"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15602,7 +15610,7 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Site dışı gezinti"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
@@ -15614,5 +15622,5 @@ msgstr "Feature name is missing. Some product features were not updated."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "En az bir dükkandan kalmalıdır"
 

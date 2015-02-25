@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/price_list.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-20 15:00-0500\n"
+"PO-Revision-Date: 2015-02-24 06:00-0500\n"
 
 msgctxt "Addons::name::price_list"
 msgid "Price list"
@@ -110,4 +110,12 @@ msgstr "Clear cache"
 msgctxt "SettingsOptions::price_list::clear_url"
 msgid "Clear cache"
 msgstr "Clear cache"
+
+msgctxt "SettingsOptions::price_list::disable_images_in_xml"
+msgid "Exclude images from XLS price lists"
+msgstr "Exclude images from XLS price lists"
+
+msgctxt "SettingsTooltips::price_list::disable_images_in_xml"
+msgid "Generating an XLS price list with images can freeze your server. Disable at your own risk."
+msgstr "Generating an XLS price list with images can freeze your server. Disable at your own risk."
 
