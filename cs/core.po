@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-26 09:00-0500\n"
+"PO-Revision-Date: 2015-03-01 11:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1175,7 +1175,7 @@ msgctxt "Languages::block_manager.min_width"
 msgid "Minimal width"
 msgstr "Minimální šířka"
 
-msgctxt "Languages::block_manager.error_changing_layout_in_css_mode"
+msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
 msgstr "Nastavení rozvržení nelze změnit, pokud je téma převedeno na CSS. Umožnit LESS režim v <a target=\"_blank\" href=\"[url]\">Theme editoru</a>."
 
@@ -12469,7 +12469,7 @@ msgstr "Ověření problému"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "Validator \"[validator_name]\" vrátil stav selhání"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."

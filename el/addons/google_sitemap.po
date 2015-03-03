@@ -9,7 +9,7 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-File: /addons/google_sitemap.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-16 04:01-0500\n"
+"PO-Revision-Date: 2015-03-01 15:00-0500\n"
 
 msgctxt "Addons::name::google_sitemap"
 msgid "Google sitemap"
@@ -21,15 +21,15 @@ msgstr "Δημιουργεί ένα sitemap.xml για Google"
 
 msgctxt "Languages::google_sitemap.text_regenerate"
 msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
-msgstr "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Εάν προστέθηκαν ή αλλάξαν, προϊόντα, κατηγορίες, κλπ  παρακαλώ <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\"> ξαναδημιουργήστε το sitemap</a> < br / > < br / > [sitemap_available_in_customer]"
 
 msgctxt "Languages::google_sitemap.text_select_storefront"
 msgid "To generate a sitemap, please select storefront first."
-msgstr "To generate a sitemap, please select storefront first."
+msgstr "Για να δημιουργήσετε ένα sitemap, επιλέξτε πρώτα κατάστημα."
 
 msgctxt "Languages::sitemap_available_in_customer"
 msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
-msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Το Sitemap είναι διαθέσιμο σ' αυτό το σύνδεσμο: <a href=\"[sitemap_url]\"> [sitemap_url]</a> < br / > < br / > Το Sitemap είναι προσβάσιμα από το URL <a href=\"[http_location]/sitemap.xml\"> [http_location]/sitemap.xml</a>"
 
 msgctxt "Languages::always"
 msgid "Always"
@@ -61,11 +61,11 @@ msgstr "Ποτέ"
 
 msgctxt "Languages::google_sitemap.generate_map"
 msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
-msgstr "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "Το sitemap δεν δημιουργήθηκε ακόμη. Παρακαλώ πηγαίνετε στις ρυθμίσεις του πρόσθετου και πατήστε το κουμπί \"Επαναδημιουργία ενός sitemap\"."
 
 msgctxt "Languages::google_sitemap.map_generated"
 msgid "The sitemap was generated successfully"
-msgstr "The sitemap was generated successfully"
+msgstr "Το sitemap δημιουργήθηκε με επιτυχία"
 
 msgctxt "SettingsSections::google_sitemap::general"
 msgid "General"
