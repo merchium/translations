@@ -4140,10 +4140,6 @@ msgctxt "Languages::footer"
 msgid "Footer"
 msgstr "Footer"
 
-msgctxt "Languages::footer_container_not_used"
-msgid "This container is NOT used. Footer container from the default location will be used instead. Set this location as default to use this container as footer for all locations."
-msgstr "This container is NOT used. Footer container from the default location will be used instead. Set this location as default to use this container as footer for all locations."
-
 msgctxt "Languages::for"
 msgid "for"
 msgstr "for"
@@ -4407,10 +4403,6 @@ msgstr "Has invoice"
 msgctxt "Languages::header"
 msgid "Header"
 msgstr "Header"
-
-msgctxt "Languages::header_container_not_used"
-msgid "This container is NOT used. Header container from the default location will be used instead. Set this location as default to use this container as header for all locations."
-msgstr "This container is NOT used. Header container from the default location will be used instead. Set this location as default to use this container as header for all locations."
 
 msgctxt "Languages::header_image"
 msgid "Header image"
@@ -11904,9 +11896,9 @@ msgctxt "Languages::tooltip"
 msgid "Tooltip"
 msgstr "Tooltip"
 
-msgctxt "Languages::top_container_not_used"
-msgid "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
-msgstr "This container is NOT used. Top panel container from the default location will be used instead. Set this location as default to use this container as top panel for all locations."
+msgctxt "Languages::container_not_used"
+msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -15540,6 +15532,10 @@ msgstr "Package contains languages that were not described in schema or schema h
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
 msgstr "Package contains files that were not described in schema or schema has links to missing files"
+
+msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
+msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
 
 msgctxt "Languages::new_version"
 msgid "New version"
