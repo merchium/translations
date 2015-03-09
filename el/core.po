@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-05 18:00-0500\n"
+"PO-Revision-Date: 2015-03-08 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -226,7 +226,7 @@ msgstr "Προσθήκη μπόνους"
 
 msgctxt "Languages::add_cart_promotion"
 msgid "Add cart promotion"
-msgstr "Προσθήκη promotion κάρτας"
+msgstr "Προσθήκη Προώθησης Καλαθιού"
 
 msgctxt "Languages::add_catalog_promotion"
 msgid "Add catalog promotion"
@@ -1144,6 +1144,14 @@ msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
 msgstr "Κυρίως Περιεχόμενο (loaded by controller)"
 
+msgctxt "Languages::block_search_field"
+msgid "Search field"
+msgstr "Πεδίο Αναζήτησης"
+
+msgctxt "Languages::block_search_field_description"
+msgid "Product search input field"
+msgstr "Πεδίο εισαγωγής Αναζήτησης Προϊόντων"
+
 msgctxt "Languages::block_manager"
 msgid "Block manager"
 msgstr "Διαχείριση μπλοκ"
@@ -1426,11 +1434,11 @@ msgstr "bytes"
 
 msgctxt "Languages::by_fixed"
 msgid "by fixed amount"
-msgstr "από σταθερά ποσά"
+msgstr "από σταθερό ποσό"
 
 msgctxt "Languages::by_percentage"
 msgid "by percentage of the original price"
-msgstr "Με ποσοστό επί της αρχικής τιμής"
+msgstr "Σε ποσοστό της αρχικής τιμής"
 
 msgctxt "Languages::C128A"
 msgid "Code 128 is a high-density barcode symbology.<br/>Used extensively worldwide.<br/>Code 128 is designed to encode 128 full ASCII characters.<br/>Code 128-A - 0-9, A-Z, ASCII control codes, special characters.<br/>Code 128-B - 0-9, A-Z, a-z, special characters.<br/>Code 128-C - 00-99 (double density encoding of numeric only data).<br/>"
@@ -9246,7 +9254,7 @@ msgstr "ΛΑΘΟΣ"
 
 msgctxt "Languages::ship_usps_machinable_true"
 msgid "True"
-msgstr "ΣΩΣΤΟ"
+msgstr "Αληθές"
 
 msgctxt "Languages::ship_usps_mailtype"
 msgid "Type of Mail"
@@ -10681,8 +10689,8 @@ msgid "No products found"
 msgstr "Δεν Βρέθηκαν Προϊόντα!"
 
 msgctxt "Languages::text_found_n_products"
-msgid "Products found: [n]. <a href=\"[href]\">Show</a>"
-msgstr "Προϊόντα που βρέθηκαν: [n]. <a href=\"[href]\"> Εμφάνιση</a>"
+msgid "<a href=\"[href]\">Products found: [n]. Show</a>"
+msgstr "<a href=\"[href]\"> προϊόντα που βρέθηκαν: [n]. Εμφάνιση</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
@@ -11006,7 +11014,7 @@ msgstr "Επιλογή αρχείου"
 
 msgctxt "Languages::text_select_range"
 msgid "You can select a range to export (otherwise all [name] will be exported)"
-msgstr "Μπορείτε να επιλέξτε μια σειρά για την εξαγωγή (διαφορετικά όλα τα [ονόματα], θα εξαχθούν)"
+msgstr "Μπορείτε να επιλέξτε μια σειρά για την εξαγωγή (διαφορετικά θα εξαχθεί όλη η λίστα για [name] )"
 
 msgctxt "Languages::text_share_product_features_tooltip"
 msgid "Attention! Some data will not be copied during this operation: the categories set in filters will be lost even if you copy all categories. Please, fix categories manually."
@@ -13586,7 +13594,7 @@ msgstr "όλα"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
-msgstr "true"
+msgstr "αληθές"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"

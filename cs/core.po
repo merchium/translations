@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-05 07:00-0500\n"
+"PO-Revision-Date: 2015-03-07 05:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1143,6 +1143,14 @@ msgstr "Hlavní"
 msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
 msgstr "Hlavní obsah (loaded by controller)"
+
+msgctxt "Languages::block_search_field"
+msgid "Search field"
+msgstr "Vyhledávací pole"
+
+msgctxt "Languages::block_search_field_description"
+msgid "Product search input field"
+msgstr "Vstupní pole pro hledání produktu"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
@@ -10681,8 +10689,8 @@ msgid "No products found"
 msgstr "Žádné produkty nenalezeny"
 
 msgctxt "Languages::text_found_n_products"
-msgid "Products found: [n]. <a href=\"[href]\">Show</a>"
-msgstr "Nalezených výrobků: [n]. <a href=\"[href]\">Zobrazit</a>"
+msgid "<a href=\"[href]\">Products found: [n]. Show</a>"
+msgstr "<a href=\"[href]\">Nalezené výrobky: [n]. Zobrazit</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
@@ -11906,7 +11914,7 @@ msgstr "Tip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Tento kontejner se NEpoužívá. Namísto toho se použije kontejner \"[container]\" z výchozího umístění. Nastavte toto místo jako výchozí \"[container]\" na všech místech."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -15543,7 +15551,7 @@ msgstr "Balíček obsahuje soubory, které nebyly popsány v schéma nebo schém
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "Balení obsahuje pre/post skripty, které nebyly popsány v schématu nebo schéma obsahuje odkazy na chybějící soubory"
 
 msgctxt "Languages::new_version"
 msgid "New version"
