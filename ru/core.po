@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-06 11:02-0500\n"
+"PO-Revision-Date: 2015-03-11 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -42,11 +42,11 @@ msgstr "Фиксированная"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "Установленные модули"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "Просмотреть все доступные модули"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -1146,11 +1146,11 @@ msgstr "Главное содержимое (подгружается при п�
 
 msgctxt "Languages::block_search_field"
 msgid "Search field"
-msgstr "Search field"
+msgstr "Поле поиска"
 
 msgctxt "Languages::block_search_field_description"
 msgid "Product search input field"
-msgstr "Product search input field"
+msgstr "Поле ввода поиска товаров"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
@@ -1186,7 +1186,7 @@ msgstr "Минимальная ширина"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Нельзя изменить настройки макета, если стили темы сконвертированы в CSS. Включите режим LESS в <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Редакторе тем</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -1690,7 +1690,7 @@ msgstr "Также рекомендуется установить права д
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Изменить инициализацию модулей"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -3098,7 +3098,7 @@ msgstr "Тип отображения"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "Кол-во отображаемых вариантов фильтра перед прокруткой"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -5286,7 +5286,7 @@ msgstr "Упрощённый основной контейнер"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "Подвал: обычный контейнер"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -5306,7 +5306,7 @@ msgstr "Редактировать"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "Управление модулями"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7170,7 +7170,7 @@ msgstr "Просмотр пользователей"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Дополнения"
+msgstr "Модули"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7798,7 +7798,7 @@ msgstr "Обновлять кэш автоматически"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Автоматически очищать кэш для измененных файлов (включая измененные напрямую на сервере). Кеширование блоков будет отключено. Возможно незначительное снижение скорости работы магазина. Рекомендуется отключить после внесения всех изменений в тему."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8366,7 +8366,7 @@ msgstr "Строка для поиска"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "Поиск среди товаров, покупателей, заказов и CMS-страниц"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -10694,7 +10694,7 @@ msgstr "<a href=\"[href]\">Найдено товаров: [n]. Показать<
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "Выбранные фильтры"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -11118,7 +11118,7 @@ msgstr "Магазин был <b>закрыт</b>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Некоторые функции недоступны. Нет ограничения по времени, номер лицензии не требуется.<br /><br />Этот режим можно включить в любой момент.<br /><br />Выбирая этот режим, вы подписываетесь на нашу рассылку. Мы делаем рассылку не чаще двух раз в месяц. Вы сможете отписаться в любой момент."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11202,7 +11202,7 @@ msgstr "Следующие файлы были зарезервированы"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "Пакет обновлений поврежден. Пожалуйста, обновите список обновлений и попробуйте еще раз"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11318,7 +11318,7 @@ msgstr "Не удалось обновить список установленн
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Магазин обновлен"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11890,7 +11890,7 @@ msgstr "Инструменты"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Количество модулей"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11898,11 +11898,11 @@ msgstr "Текущее состояние"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Нет модулей"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Нет сторонних модулей"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -11914,7 +11914,7 @@ msgstr "Подсказка"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Этот контейнер не используется. Вместо него используется контейнер «[container]» со страницы макета по умолчанию. Чтобы использовать контейнер «[container]» с этой страницы на всех страницах макета, выберите эту страницу страницей по умолчанию."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12110,7 +12110,7 @@ msgstr "Целевой URL. Может быть внешней ссылкой, �
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "CSS класс будет добавлен к пункту меню. Это позволит задать CSS правила для конкретного пункта меню."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12466,11 +12466,11 @@ msgstr "Центр обновлений"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "Ошибка при валидации"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "Проверка «[validator_name]» завершилась неудачно"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -13682,7 +13682,7 @@ msgstr "Отключить доставку"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Службы доставки"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14050,7 +14050,7 @@ msgstr "Email отдела по работе с клиентами"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Использовать для"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -15458,19 +15458,19 @@ msgstr "Неверные значения полей «Valid thru»."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Форма авторизации"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Форма создания и редактирования профиля"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Форма оформления заказа (информация о пользователе)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Форма отслеживания заказа"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
@@ -15498,11 +15498,11 @@ msgstr "Ошибка проверки данных кредитной карты
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Исключения комбинаций опций"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Горизонтальные фильтры"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15511,47 +15511,47 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "Коннектор [connector_id] вернул некорректные данные"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "Пакет обновлений загружен и готов к установке"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "Коннектор не найден"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "Не удалось прочитать схему пакета (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "Схема содержимого пакета не найдена"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Схема пакета не является допустимым JSON"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Запрещено: Модуль пытается обновить основные файлы ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Пакет содержит миграции, которые не описаны в схеме, или в схеме есть ссылки на отсутствующие файлы миграции"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Пакет содержит языки, которые не описаны в схеме, или в схеме есть ссылки на отсутствующие файлы языков"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Пакет содержит файлы, которые не описаны в схеме, или в схеме есть ссылки на отсутствующие файлы"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "Пакет содержит пре- или пост-скрипты, которые не описаны в схеме, или в схеме есть ссылки на отсутствующие файлы"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15559,19 +15559,19 @@ msgstr "Новая версия"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Перемещение"
+msgstr "Миграции"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Проблема с привилегиями"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Локальные изменения"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Я понимаю, что локальные изменения будут потеряны во время обновления"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
@@ -15583,11 +15583,11 @@ msgstr "Будут удалены"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Проверки пакета обновлений"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Выполнить проверку «[validator]»"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15595,19 +15595,19 @@ msgstr "Копирование файлов"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Запуск перемещения"
+msgstr "Запуск миграции"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Установить языки"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Статус обновления"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Загрузить пакет обновлений"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15623,9 +15623,9 @@ msgstr "Incorrect feature type. Some product features were not updated."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Имя компонента отсутствует. Некоторые функции продукта не были обновлены."
+msgstr "Название характеристики отсутствует. Некоторые характеристики товара не были обновлены."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "По крайней мере один магазин должен оставаться"
+msgstr "Один магазин должен остаться"
 
