@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-11 11:00-0400\n"
+"PO-Revision-Date: 2015-03-12 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1386,7 +1386,7 @@ msgstr "تنبيه ترقية المتصفح"
 
 msgctxt "Languages::bucket"
 msgid "Bucket"
-msgstr "Bucket"
+msgstr "مقدار كبير"
 
 msgctxt "Languages::bulk_category_addition"
 msgid "Bulk category addition"
@@ -1882,7 +1882,7 @@ msgstr "إفراغ الكاش"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "توليد ملفات مؤقتة"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -2158,7 +2158,7 @@ msgstr "جار تحويل البيانات في الجدول [table]"
 
 msgctxt "Languages::copyright_shopping_cart"
 msgid "[product] - Shopping Cart Software"
-msgstr "[product] - Shopping Cart Software"
+msgstr "[product] - برنامج سلة التسوق"
 
 msgctxt "Languages::copy_from_layout"
 msgid "Copy data from layout"
@@ -2290,7 +2290,7 @@ msgstr "البطاقة الائتمانية"
 
 msgctxt "Languages::credit_card_info"
 msgid "This number is printed in the signature area on the back of the card. It is the 3 digits AFTER the credit card number."
-msgstr "This number is printed in the signature area on the back of the card. It is the 3 digits AFTER the credit card number."
+msgstr "الرقم المطبوع بجانب مكان الإمضاء على ظهر كارت الإئتمان. 3 ارقام مكتوبة بعد رقم كارت الإئتمان"
 
 msgctxt "Languages::credit_memo"
 msgid "Credit memo"
@@ -2422,15 +2422,15 @@ msgstr "دولار هونج كونجي"
 
 msgctxt "Languages::currency_code_hrk"
 msgid "HRK"
-msgstr "HRK"
+msgstr "كرونا كرواتية"
 
 msgctxt "Languages::currency_code_huf"
 msgid "Hungarian Forint"
-msgstr "Hungarian Forint"
+msgstr "فورنت مجري"
 
 msgctxt "Languages::currency_code_ils"
 msgid "Israel New Shequel"
-msgstr "Israel New Shequel"
+msgstr "شيكل لدولة الإحتلال الإسرائيلي"
 
 msgctxt "Languages::currency_code_inr"
 msgid "Indian Rupee"
@@ -3098,7 +3098,7 @@ msgstr "نوع العرض"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "عدد الفلاتر الظاهرة يختلف قبل القائمة"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3898,11 +3898,11 @@ msgstr "منتهية"
 
 msgctxt "Languages::expirepreauth"
 msgid "Preauthorization"
-msgstr "Preauthorization"
+msgstr "إذن مسبق"
 
 msgctxt "Languages::expirepreauth_description"
 msgid "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
-msgstr "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
+msgstr "الإذن المسبق يقوم بتعليق المبلغ لأيام. اكبر قيمة هي 30 يوم. With the \"Sale\" request type, leave this field empty."
 
 msgctxt "Languages::expiry_date"
 msgid "Expiration date"
@@ -4010,7 +4010,7 @@ msgstr "عرض في قائمة المنتج"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Show in header on the product details page"
+msgstr "إظهار في رأس الصفحة الخاصة بالمنتج"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4198,7 +4198,7 @@ msgstr "لكل طلبات الشراء في هذه الصفحة"
 
 msgctxt "Languages::fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "قابل للكسر"
 
 msgctxt "Languages::free"
 msgid "Free"
@@ -6134,7 +6134,7 @@ msgstr "غير متصل"
 
 msgctxt "Languages::offset"
 msgid "Offset"
-msgstr "Offset"
+msgstr "اوفست"
 
 msgctxt "Languages::ok"
 msgid "OK"
@@ -6834,11 +6834,11 @@ msgstr "رقم الصندوق البريدي"
 
 msgctxt "Languages::preauth"
 msgid "Preauth"
-msgstr "Preauth"
+msgstr "إذن مسبق"
 
 msgctxt "Languages::preauthorization"
 msgid "Preauthorization"
-msgstr "Preauthorization"
+msgstr "إذن مسبق"
 
 msgctxt "Languages::prefix"
 msgid "Prefix"
@@ -7418,7 +7418,7 @@ msgstr "المنتج <strong>[product]</strong> يحتوي على تركيبة �
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "المنتج <strong>[product]</strong> له مواصفات مختلفة غير متاحة حالياً، لذلك تم حذفها من سلة المشتريات"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -8602,11 +8602,11 @@ msgstr "لقد قمت مؤخراً بإنشاء متجر إلكتروني بدع
 
 msgctxt "Languages::sharedsec"
 msgid "SharedSec"
-msgstr "SharedSec"
+msgstr "مشاركة السر"
 
 msgctxt "Languages::shared_secret"
 msgid "Shared Secret"
-msgstr "Shared Secret"
+msgstr "مشاركة السر"
 
 msgctxt "Languages::sha_sign"
 msgid "SHA-1 Signature"
@@ -8958,115 +8958,115 @@ msgstr "إشعار بالتوصيل (فقط للعملاء المسجلين)"
 
 msgctxt "Languages::ship_sp_l_cash_on_delivery"
 msgid "Cash on delivery (for registered mail only)"
-msgstr "Cash on delivery (for registered mail only)"
+msgstr "الدفع عن الإستلام (فقط للعملاء المسجلين)"
 
 msgctxt "Languages::ship_sp_l_personal_delivery"
 msgid "Personal delivery (for registered mail only)"
-msgstr "Personal delivery (for registered mail only)"
+msgstr "التوصيل الشخصي (فقط للعملاء المسجلين)"
 
 msgctxt "Languages::ship_sp_l_registered_mail"
 msgid "Registered mail"
-msgstr "Registered mail"
+msgstr "بريد مسجل"
 
 msgctxt "Languages::ship_sp_pc_assurance"
 msgid "Assurance"
-msgstr "Assurance"
+msgstr "تأكيد"
 
 msgctxt "Languages::ship_sp_pc_cash_on_delivery"
 msgid "Cash on delivery (COD)"
-msgstr "Cash on delivery (COD)"
+msgstr "الدفع عند الإستلام"
 
 msgctxt "Languages::ship_sp_pc_fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "قابل للكسر"
 
 msgctxt "Languages::ship_sp_pc_manual_handling"
 msgid "Manual handling"
-msgstr "Manual handling"
+msgstr "معاملة يدوية"
 
 msgctxt "Languages::ship_sp_pc_personal"
 msgid "Personal"
-msgstr "Personal"
+msgstr "شخصي"
 
 msgctxt "Languages::ship_sp_pc_signature"
 msgid "Signature"
-msgstr "Signature"
+msgstr "إمضاء"
 
 msgctxt "Languages::ship_sp_pp_additional_insurance"
 msgid "Additional insurance (up to CHF 3000.-)"
-msgstr "Additional insurance (up to CHF 3000.-)"
+msgstr "تأمين إضافي (حتى 3000 CHF-)"
 
 msgctxt "Languages::ship_sp_pp_bulky_goods"
 msgid "Bulky goods"
-msgstr "Bulky goods"
+msgstr "البضائع ذات الحجم الكبير"
 
 msgctxt "Languages::ship_sp_pp_cash_on_delivery"
 msgid "Cash on delivery (ECONOMY only)"
-msgstr "Cash on delivery (ECONOMY only)"
+msgstr "الدفع عند الإستلام (الإقتصادي فقط)"
 
 msgctxt "Languages::ship_sp_pp_manual_processing"
 msgid "Manual processing"
-msgstr "Manual processing"
+msgstr "معالجة يدوية"
 
 msgctxt "Languages::ship_sp_ur_additional_insurance"
 msgid "Additional insurance for URGENT goods  (up to CHF 3000.-)"
-msgstr "Additional insurance for URGENT goods  (up to CHF 3000.-)"
+msgstr "تأمين إضافي للبضائع المهمة (حتى 3000 CHF)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
-msgstr "Cannot use this shipping method for the international delivery"
+msgstr "لا يمكن إستخدم وسيلة التوصيل هذه للشحن الدولي"
 
 msgctxt "Languages::ship_swisspost_error_private_delivery"
 msgid "Cannot use this shipping method for the private delivery"
-msgstr "Cannot use this shipping method for the private delivery"
+msgstr "لا يمكن إستخدم وسيلة التوصيل هذه للشحن الخاص"
 
 msgctxt "Languages::ship_swisspost_heavy_package"
 msgid "The package is too heavy"
-msgstr "The package is too heavy"
+msgstr "الشحنة ثقيلة للغاية"
 
 msgctxt "Languages::ship_swisspost_unable_to_open_additional_services"
 msgid "Cannot open the additional_services.csv file"
-msgstr "Cannot open the additional_services.csv file"
+msgstr "لا يمكن فتح ملف الخدمات الإضافية additional_services.csv"
 
 msgctxt "Languages::ship_swisspost_unable_to_open_service"
 msgid "Cannot open the [code] file"
-msgstr "Cannot open the [code] file"
+msgstr "لا يمكن فتح ملف [code]"
 
 msgctxt "Languages::ship_temando_height"
 msgid "Package height"
-msgstr "Package height"
+msgstr "إرتفاع الشحنة"
 
 msgctxt "Languages::ship_temando_length"
 msgid "Package length"
-msgstr "Package length"
+msgstr "طول الشحنة"
 
 msgctxt "Languages::ship_temando_measurement"
 msgid "Package measurement"
-msgstr "Package measurement"
+msgstr "قياس الشحنة"
 
 msgctxt "Languages::ship_temando_method"
 msgid "Delivery method"
-msgstr "Delivery method"
+msgstr "طريقة التوصيل"
 
 msgctxt "Languages::ship_temando_package"
 msgid "Packaging"
-msgstr "Packaging"
+msgstr "الشحن"
 
 msgctxt "Languages::ship_temando_readydate"
 msgid "Ready date (days)"
-msgstr "Ready date (days)"
+msgstr "تاريخ الإستعداد"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
-msgstr "Class of the item being sent"
+msgstr "فئة من البند الذي تم إرساله"
 
 msgctxt "Languages::ship_temando_weight_measurement"
 msgid "Weight measurement type"
-msgstr "Weight measurement type"
+msgstr "نوع قياس الوزن"
 
 msgctxt "Languages::ship_temando_width"
 msgid "Package width"
-msgstr "Package width"
+msgstr "عرض الشحنة"
 
 msgctxt "Languages::ship_to"
 msgid "Ship to"
@@ -9106,99 +9106,99 @@ msgstr "UPS 10Kg Box"
 
 msgctxt "Languages::ship_ups_pickup_type"
 msgid "Pickup type"
-msgstr "Pickup type"
+msgstr "نوع الإستلام من المكان المخصص للشحن"
 
 msgctxt "Languages::ship_ups_pickup_type_01"
 msgid "Daily Pickup"
-msgstr "Daily Pickup"
+msgstr "الإستلام اليومي من المكان المخصص للشحن"
 
 msgctxt "Languages::ship_ups_pickup_type_03"
 msgid "Customer Counter"
-msgstr "Customer Counter"
+msgstr "عداد العملاء"
 
 msgctxt "Languages::ship_ups_pickup_type_06"
 msgid "One Time Pickup"
-msgstr "One Time Pickup"
+msgstr "إستلام مرة واحدة فقط من المكان المخصص للشحن"
 
 msgctxt "Languages::ship_ups_pickup_type_07"
 msgid "On Call Air"
-msgstr "On Call Air"
+msgstr "إتصال جوي"
 
 msgctxt "Languages::ship_ups_pickup_type_11"
 msgid "Suggested Retail Rates"
-msgstr "Suggested Retail Rates"
+msgstr "أسعار البيع المقترحة"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
-msgstr "Letter Center"
+msgstr "المركز الإلكتروني"
 
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
-msgstr "Air Service Center"
+msgstr "مركز الخدمات الجوية"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
-msgstr "Container"
+msgstr "حاوية"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
-msgstr "Container (Express)"
+msgstr "حاوية سريعة"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
-msgstr "Flat Rate Envelope"
+msgstr "ظرف بالسعر الموحد"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
-msgstr "Container (Priority Mail)"
+msgstr "حاوية مخصوصة"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
-msgstr "Flat Rate Box"
+msgstr "صندوق بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_envelope"
 msgid "Flat Rate Letter"
-msgstr "Flat Rate Letter"
+msgstr "جواب بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_lg_flat_rate_box"
 msgid "Large Flat Rate Box"
-msgstr "Large Flat Rate Box"
+msgstr "صندوق كبير بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_md_flat_rate_box"
 msgid "Medium Flat Rate Box"
-msgstr "Medium Flat Rate Box"
+msgstr "صندوق وسط بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
-msgstr "NonRectangular"
+msgstr "غير مستطيل"
 
 msgctxt "Languages::ship_usps_container_priority_rectangular"
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr "مستطيل"
 
 msgctxt "Languages::ship_usps_container_priority_regional_a_rate_box"
 msgid "Regional Rate Box A"
-msgstr "Regional Rate Box A"
+msgstr "صندوق من فئة الإقليم A"
 
 msgctxt "Languages::ship_usps_container_priority_regional_b_rate_box"
 msgid "Regional Rate Box B"
-msgstr "Regional Rate Box B"
+msgstr "صندوق من فئة الإقليم  B"
 
 msgctxt "Languages::ship_usps_container_priority_regional_c_rate_box"
 msgid "Regional Rate Box C"
-msgstr "Regional Rate Box C"
+msgstr "صندوق من فئة الإقليم  C"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_box"
 msgid "Small Flat Rate Box"
-msgstr "Small Flat Rate Box"
+msgstr "صندوق صغير بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_padded_flat_rate_envelope"
 msgid "Padded Flat Rate Envelope"
-msgstr "Padded Flat Rate Envelope"
+msgstr "ظرف مفلق بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_legal_flat_rate_envelope"
 msgid "Legal Flat Rate Envelope"
-msgstr "Legal Flat Rate Envelope"
+msgstr "ظرف قانوني بسعر موحد"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_envelope"
 msgid "Sm Flat Rate Envelope"
@@ -9210,55 +9210,55 @@ msgstr "Window Flat Rate Envelope"
 
 msgctxt "Languages::ship_usps_container_priority_gift_card_flat_rate_envelope"
 msgid "Gift Card Flat Rate Envelope"
-msgstr "Gift Card Flat Rate Envelope"
+msgstr "ظرف قسيمة هدايا بسعر موحد"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
-msgstr "First Class Mail Type"
+msgstr "بريد درجة أولى"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_flat"
 msgid "Flat"
-msgstr "Flat"
+msgstr "سعر موحد"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_parcel"
 msgid "Parcel"
-msgstr "Parcel"
+msgstr "حزمة"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
-msgstr "Package girth"
+msgstr "حجم الشحنة"
 
 msgctxt "Languages::ship_usps_intl_package_height"
 msgid "Package height"
-msgstr "Package height"
+msgstr "إرتفاع الشحنة"
 
 msgctxt "Languages::ship_usps_intl_package_length"
 msgid "Package length"
-msgstr "Package length"
+msgstr "طول الشحنة"
 
 msgctxt "Languages::ship_usps_intl_package_size"
 msgid "Package size"
-msgstr "Package size"
+msgstr "مقاس الشحنة"
 
 msgctxt "Languages::ship_usps_intl_package_width"
 msgid "Package width"
-msgstr "Package width"
+msgstr "عرض الشحنة"
 
 msgctxt "Languages::ship_usps_machinable"
 msgid "Machinable (First-Class Mail or Standard Post)"
-msgstr "Machinable (First-Class Mail or Standard Post)"
+msgstr "آلي (بريد درجة أولى او بريد عادي)"
 
 msgctxt "Languages::ship_usps_machinable_false"
 msgid "False"
-msgstr "False"
+msgstr "غير صحيح"
 
 msgctxt "Languages::ship_usps_machinable_true"
 msgid "True"
-msgstr "True"
+msgstr "صحيح"
 
 msgctxt "Languages::ship_usps_mailtype"
 msgid "Type of Mail"
-msgstr "Type of Mail"
+msgstr "نوع البريد"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
@@ -9270,19 +9270,19 @@ msgstr "Postcards or Aerogrammes"
 
 msgctxt "Languages::ship_usps_package_size"
 msgid "Package Size (length + girth, inches)"
-msgstr "Package Size (length + girth, inches)"
+msgstr "مقاس الشحنة (الطول+  الحجم بالبوصة)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
-msgstr "Large (84..108)"
+msgstr "كبير (84..108)"
 
 msgctxt "Languages::ship_usps_package_size_oversize"
 msgid "Oversize (108..130)"
-msgstr "Oversize (108..130)"
+msgstr "كبير جداً (108..130)"
 
 msgctxt "Languages::ship_usps_package_size_regular"
 msgid "Regular (0..84)"
-msgstr "Regular (0..84)"
+msgstr "عادي (0..84)"
 
 msgctxt "Languages::ship_usps_priority_girth"
 msgid "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
@@ -9446,7 +9446,7 @@ msgstr "تخطي الدفع"
 
 msgctxt "Languages::skrill_customer_id"
 msgid "Skrill Customer ID"
-msgstr "Skrill Customer ID"
+msgstr "الرقم التعريفي لمستخدم سكريل"
 
 msgctxt "Languages::sku"
 msgid "CODE"
@@ -9870,19 +9870,19 @@ msgstr "معدلات الضريبة"
 
 msgctxt "Languages::temando_centimetres"
 msgid "centimetres"
-msgstr "centimetres"
+msgstr "سنتي ميتر"
 
 msgctxt "Languages::temando_feet"
 msgid "feet"
-msgstr "feet"
+msgstr "قدم"
 
 msgctxt "Languages::temando_inches"
 msgid "inches"
-msgstr "inches"
+msgstr "بوصة"
 
 msgctxt "Languages::temando_method_depottodepot"
 msgid "Depot to Depot"
-msgstr "Depot to Depot"
+msgstr "من المستوع للمستودع"
 
 msgctxt "Languages::temando_method_doortodoor"
 msgid "Door to Door"
@@ -9890,55 +9890,55 @@ msgstr "Door to Door"
 
 msgctxt "Languages::temando_metres"
 msgid "metres"
-msgstr "metres"
+msgstr "متر"
 
 msgctxt "Languages::temando_package_backpack"
 msgid "Backpack"
-msgstr "Backpack"
+msgstr "حقيبة ظهر"
 
 msgctxt "Languages::temando_package_bale"
 msgid "Bale"
-msgstr "Bale"
+msgstr "رزمة ضخمة"
 
 msgctxt "Languages::temando_package_box"
 msgid "Box"
-msgstr "Box"
+msgstr "صندوق"
 
 msgctxt "Languages::temando_package_bunch"
 msgid "Bunch"
-msgstr "Bunch"
+msgstr "باقة"
 
 msgctxt "Languages::temando_package_bundle"
 msgid "Bundle"
-msgstr "Bundle"
+msgstr "حزمة"
 
 msgctxt "Languages::temando_package_carton"
 msgid "Carton"
-msgstr "Carton"
+msgstr "كرتون"
 
 msgctxt "Languages::temando_package_crate"
 msgid "Crate"
-msgstr "Crate"
+msgstr "قفص"
 
 msgctxt "Languages::temando_package_cylinder"
 msgid "Cylinder"
-msgstr "Cylinder"
+msgstr "أسطوانة"
 
 msgctxt "Languages::temando_package_documentenvelope"
 msgid "Document Envelope"
-msgstr "Document Envelope"
+msgstr "ظرف مستندات"
 
 msgctxt "Languages::temando_package_drum"
 msgid "Drum"
-msgstr "Drum"
+msgstr "طبل"
 
 msgctxt "Languages::temando_package_flatpack"
 msgid "Flat Pack"
-msgstr "Flat Pack"
+msgstr "تغليف موحد"
 
 msgctxt "Languages::temando_package_letter"
 msgid "Letter"
-msgstr "Letter"
+msgstr "جواب"
 
 msgctxt "Languages::temando_package_pail"
 msgid "Pail"
@@ -10006,19 +10006,19 @@ msgstr "Temando system"
 
 msgctxt "Languages::temando_weight_grams"
 msgid "Grams"
-msgstr "Grams"
+msgstr "جرام"
 
 msgctxt "Languages::temando_weight_kilograms"
 msgid "Kilograms"
-msgstr "Kilograms"
+msgstr "كيلو جرام"
 
 msgctxt "Languages::temando_weight_ounces"
 msgid "Ounces"
-msgstr "Ounces"
+msgstr "أوقية"
 
 msgctxt "Languages::temando_weight_pounds"
 msgid "Pounds"
-msgstr "Pounds"
+msgstr "رطل"
 
 msgctxt "Languages::template"
 msgid "Template"
@@ -14390,7 +14390,7 @@ msgstr "البحث أيضاً في"
 
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
-msgstr "Use Encrypted Connection"
+msgstr "إستخدام إتصال مشفر"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
@@ -14462,15 +14462,15 @@ msgstr "معلومات الاتصال فقط هي الإجبارية للتسج�
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
-msgstr "Default"
+msgstr "إفتراضي"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
-msgstr "Manual feedback"
+msgstr "رد فعل يدوي"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
-msgstr "Automatic feedback"
+msgstr "رد فعل أوتوماتيكي"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
@@ -14482,11 +14482,11 @@ msgstr "15:43"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::allow_shopping"
 msgid "Allow"
-msgstr "Allow"
+msgstr "سماح"
 
 msgctxt "SettingsVariants::string_type::digits"
 msgid "Digits only"
-msgstr "Digits only"
+msgstr "أرقام فقط"
 
 msgctxt "SettingsVariants::calendar_date_format::month_first"
 msgid "09/30/2008 (month/day/year)"
@@ -14494,11 +14494,11 @@ msgstr "09/30/2008 (month/day/year)"
 
 msgctxt "SettingsVariants::calendar_week_format::sunday_first"
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "الأحد"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
-msgstr "Billing first"
+msgstr "الفوترة أولاً"
 
 msgctxt "SettingsVariants::log_type_general::runtime"
 msgid "Runtime"
@@ -14506,7 +14506,7 @@ msgstr "Runtime"
 
 msgctxt "SettingsVariants::default_state_update_for_all::not_active"
 msgid "Not Active"
-msgstr "Not Active"
+msgstr "غير مفعل"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
@@ -14518,7 +14518,7 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "المنتجات مع الشحن"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
@@ -15126,111 +15126,111 @@ msgstr "معلومات الاتصال فقط هي الإجبارية للتسج�
 
 msgctxt "Languages::views"
 msgid "Views"
-msgstr "Views"
+msgstr "المشاهدات"
 
 msgctxt "ProfileFields::firstname"
 msgid "First name"
-msgstr "First name"
+msgstr "الإسم الأول"
 
 msgctxt "ProfileFields::lastname"
 msgid "Last name"
-msgstr "Last name"
+msgstr "إسم العائلة"
 
 msgctxt "ProfileFields::company"
 msgid "Company"
-msgstr "Company"
+msgstr "الشركة"
 
 msgctxt "ProfileFields::phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "الهاتف"
 
 msgctxt "ProfileFields::fax"
 msgid "Fax"
-msgstr "Fax"
+msgstr "الفاكس"
 
 msgctxt "ProfileFields::url"
 msgid "URL"
-msgstr "URL"
+msgstr "عنوان الصفحة"
 
 msgctxt "ProfileFields::b_firstname"
 msgid "First name"
-msgstr "First name"
+msgstr "الإسم الأول"
 
 msgctxt "ProfileFields::s_firstname"
 msgid "First name"
-msgstr "First name"
+msgstr "الإسم الأول"
 
 msgctxt "ProfileFields::b_lastname"
 msgid "Last name"
-msgstr "Last name"
+msgstr "إسم العائلة"
 
 msgctxt "ProfileFields::s_lastname"
 msgid "Last name"
-msgstr "Last name"
+msgstr "إسم العائلة"
 
 msgctxt "ProfileFields::b_address"
 msgid "Address"
-msgstr "Address"
+msgstr "العنوان"
 
 msgctxt "ProfileFields::b_address_2"
 msgid "Address"
-msgstr "Address"
+msgstr "العنوان"
 
 msgctxt "ProfileFields::s_address"
 msgid "Address"
-msgstr "Address"
+msgstr "العنوان"
 
 msgctxt "ProfileFields::s_address_2"
 msgid "Address"
-msgstr "Address"
+msgstr "العنوان"
 
 msgctxt "ProfileFields::b_city"
 msgid "City"
-msgstr "City"
+msgstr "المدينة"
 
 msgctxt "ProfileFields::s_city"
 msgid "City"
-msgstr "City"
+msgstr "المدينة"
 
 msgctxt "ProfileFields::b_state"
 msgid "State/province"
-msgstr "State/province"
+msgstr "المحافظة"
 
 msgctxt "ProfileFields::s_state"
 msgid "State/province"
-msgstr "State/province"
+msgstr "المحافظة"
 
 msgctxt "ProfileFields::b_country"
 msgid "Country"
-msgstr "Country"
+msgstr "الدولة"
 
 msgctxt "ProfileFields::s_country"
 msgid "Country"
-msgstr "Country"
+msgstr "الدولة"
 
 msgctxt "ProfileFields::b_zipcode"
 msgid "Zip/postal code"
-msgstr "Zip/postal code"
+msgstr "الرمز البريدي"
 
 msgctxt "ProfileFields::s_zipcode"
 msgid "Zip/postal code"
-msgstr "Zip/postal code"
+msgstr "الرمز البريدي"
 
 msgctxt "ProfileFields::b_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "الهاتف"
 
 msgctxt "ProfileFields::s_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "الهاتف"
 
 msgctxt "ProfileFields::email"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "البريد الإلكتروني"
 
 msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
-msgstr "Address type"
+msgstr "نوع العنوان"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
@@ -15258,31 +15258,31 @@ msgstr "Display \"Returning customer\" first"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "إخفاء الخطوة بالكامل"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "تسجيل"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "المحاسبة كضيف"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
-msgstr "Last year"
+msgstr "السنة الماضية"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "المتجر مغلق"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "المتجر<br/>مغلق"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "نسخ لأماكن أخرى"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
@@ -15314,7 +15314,7 @@ msgstr "Use default block configuration"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "ملفات خاصة"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
@@ -15322,7 +15322,7 @@ msgstr "Public files"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "قوالب"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
