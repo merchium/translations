@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-13 10:00-0400\n"
+"PO-Revision-Date: 2015-03-15 15:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -130,7 +130,7 @@ msgstr "Aktivní propagace"
 
 msgctxt "Languages::act_on_behalf"
 msgid "Act on behalf of"
-msgstr "Jednat v zastoupení"
+msgstr "Zákon jménem"
 
 msgctxt "Languages::add"
 msgid "Add"
@@ -350,7 +350,7 @@ msgstr "Přidat lokalitu"
 
 msgctxt "Languages::add_location"
 msgid "Add location"
-msgstr "Přidat umístní"
+msgstr "Přidat umístění"
 
 msgctxt "Languages::add_menu"
 msgid "Add menu"
@@ -570,7 +570,7 @@ msgstr "Vyžaduje smlouvu"
 
 msgctxt "Languages::all"
 msgid "All"
-msgstr "všechny"
+msgstr "Všechny"
 
 msgctxt "Languages::allowed"
 msgid "Allowed"
@@ -1270,7 +1270,7 @@ msgstr "Možnosti filtrování produktů"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
-msgstr "nastaveníblokování"
+msgstr "Nastavení bloku"
 
 msgctxt "Languages::block_shipping_methods"
 msgid "Shipping methods"
@@ -1442,15 +1442,15 @@ msgstr "procent z původní ceny"
 
 msgctxt "Languages::C128A"
 msgid "Code 128 is a high-density barcode symbology.<br/>Used extensively worldwide.<br/>Code 128 is designed to encode 128 full ASCII characters.<br/>Code 128-A - 0-9, A-Z, ASCII control codes, special characters.<br/>Code 128-B - 0-9, A-Z, a-z, special characters.<br/>Code 128-C - 00-99 (double density encoding of numeric only data).<br/>"
-msgstr "Kód 128 ja velkokapacitní  symbolika čárového kódu.<br/>"
+msgstr "Kód 128 čárového kódu s vysokou hustotou.<br/>Používá se po celém světě.<br/>Code 128 je navržen tak, aby kódoval úplné znakové sady ASCII.<br/>Kód 128 zahrnuje 0-9, AZ, kódy Control ASCII speciální znaky.<br/>Code 128-B obsahuje 0-9, az, AZ, speciální znaky.<br/>128 C kód obsahuje znaky 00-99 (pouze kódování údaje double density).<br/>"
 
 msgctxt "Languages::C128B"
 msgid "Code 128 is a high-density barcode symbology.<br/>Used extensively worldwide.<br/>Code 128 is designed to encode 128 full ASCII characters.<br/>Code 128-A - 0-9, A-Z, ASCII control codes, special characters.<br/>Code 128-B - 0-9, A-Z, a-z, special characters.<br/>Code 128-C - 00-99 (double density encoding of numeric only data).<br/>"
-msgstr "Kód 128 ja velkokapacitní  symbolika čárového kódu.<br/>"
+msgstr "Kód 128 čárového kódu s vysokou hustotou.<br/>Používá se po celém světě.<br/>Code 128 je navržen tak, aby kódoval úplné znakové sady ASCII.<br/>Kód 128 zahrnuje 0-9, AZ, kódy Control ASCII speciální znaky.<br/>Code 128-B obsahuje 0-9, az, AZ, speciální znaky.<br/>128 C kód obsahuje znaky 00-99 (pouze kódování údaje double density).<br/>"
 
 msgctxt "Languages::C128C"
 msgid "Code 128 is a high-density barcode symbology.<br/>Used extensively worldwide.<br/>Code 128 is designed to encode 128 full ASCII characters.<br/>Code 128-A - 0-9, A-Z, ASCII control codes, special characters.<br/>Code 128-B - 0-9, A-Z, a-z, special characters.<br/>Code 128-C - 00-99 (double density encoding of numeric only data).<br/>"
-msgstr "Kód 128 ja velkokapacitní  symbolika čárového kódu.<br/>"
+msgstr "Kód 128 čárového kódu s vysokou hustotou.<br/>Používá se po celém světě.<br/>Code 128 je navržen tak, aby kódoval úplné znakové sady ASCII.<br/>Kód 128 zahrnuje 0-9, AZ, kódy Control ASCII speciální znaky.<br/>Code 128-B obsahuje 0-9, az, AZ, speciální znaky.<br/>128 C kód obsahuje znaky 00-99 (pouze kódování údaje double density).<br/>"
 
 msgctxt "Languages::C39"
 msgid "Known also as USS Code 39, 3 of 9.<br/>Code 39 can encode alphanumeric characters.<br/>The symbology is used in non-retail environment.<br/>Code 39 is designed to encode 26 upper case letters, 10 digits and 7 special characters."
@@ -1866,7 +1866,7 @@ msgstr "Historie"
 
 msgctxt "Languages::clean_logs"
 msgid "Clean logs"
-msgstr "Vyčistit log"
+msgstr "Vyčistit protokoly"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2982,7 +2982,7 @@ msgstr "CVV2 ověření opovědi"
 
 msgctxt "Languages::design"
 msgid "Design"
-msgstr "Návrh"
+msgstr "Design"
 
 msgctxt "Languages::design_mode"
 msgid "Design mode"
@@ -4350,7 +4350,7 @@ msgstr "Google base"
 
 msgctxt "Languages::google_base_export_notice"
 msgid "<b>Note:</b> You can setup Tax and Shipping rates on the <a href=\"http://www.google.com/merchants/taxshippingsettings\">Tax and shipping summary</a> page in your Google merchant center."
-msgstr "<b>Note:</b> You can setup Tax and Shipping rates on the <a href=\"http://www.google.com/merchants/taxshippingsettings\">Tax and shipping summary</a> page in your Google merchant ccster."
+msgstr "<b>Poznámka:</b> Můžete nastavit daně a přepravní sazby na stránce <a href=\"http://www.google.com/merchants/taxshippingsettings\">Daňové a  přepravní shrnutí</a> v Google Merchant Center."
 
 msgctxt "Languages::goto_theme_configuration"
 msgid "Browse themes"
@@ -5166,7 +5166,7 @@ msgstr "Adersa (URL) umstění loga"
 
 msgctxt "Languages::logs"
 msgid "Logs"
-msgstr "Logi"
+msgstr "Protokoly"
 
 msgctxt "Languages::log_action_backup"
 msgid "backup"
@@ -6006,11 +6006,11 @@ msgstr "E-mailová adresa byla změněna zákazníkem v jeho/jejím profilu. Zat
 
 msgctxt "Languages::notify_customer"
 msgid "Notify customer"
-msgstr "Zaslat info zákazníkovi."
+msgstr "Zaslat info zákazníkovi"
 
 msgctxt "Languages::notify_orders_department"
 msgid "Notify orders department"
-msgstr "Upozornit objednávky oddělení"
+msgstr "Oznámit objednávky oddělení"
 
 msgctxt "Languages::notify_user"
 msgid "Notify user"
@@ -8154,7 +8154,7 @@ msgstr "Objednat znovu"
 
 msgctxt "Languages::right"
 msgid "Right"
-msgstr "Pravý"
+msgstr "Vpravo"
 
 msgctxt "Languages::right_to_left_orientation"
 msgid "Right to left orientation"
@@ -10186,7 +10186,7 @@ msgstr "Tato sekce umožňuje spravovat soubory ze zálohy.<br />- Pro obnovu da
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
-msgstr "The same as the shipping address"
+msgstr "Fakturace a dodací adresy jsou stejné"
 
 msgctxt "Languages::text_block_trial_notice"
 msgid "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
@@ -11038,7 +11038,7 @@ msgstr "Abyste mohli sdílet akce, ujistěte se, že sdílíte i příslušné p
 
 msgctxt "Languages::text_shipping_packages_info"
 msgid "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
-msgstr "To cssure a more precise shipping rate estimation, the products have becs separated into packages as defined by the product settings and the shipping method configuration. The following info is for refercstial use only"
+msgstr "Chcete-li zajistit přesnější výpočet nákladů na přepravu zboží, produkty byly rozděleny do obalů, jak je definováno nastavení zařízení a konfiguraci způsob dopravy. Následující informace je určena pouze pro referenční použití"
 
 msgctxt "Languages::text_shipping_rates_changed"
 msgid "Shipping rates were changed"
@@ -14434,7 +14434,7 @@ msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
 msgctxt "SettingsTooltips::store_access_key"
 msgid "Use: http://www.example.com/index.php?store_access_key=key_value"
-msgstr "Použijté: http://www.example.com/index.php?store_access_key=key_value"
+msgstr "Použití: http://www.example.com/index.php?store_access_key=key_value"
 
 msgctxt "SettingsTooltips::order_start_id"
 msgid "Enter a number between 1 and 10,000,000 (use digits only) or leave empty for auto-filling."
@@ -14454,7 +14454,7 @@ msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
 msgctxt "SettingsTooltips::checkout_redirect"
 msgid "When the customer clicks on any Checkout button/link in the store"
-msgstr "Když zákazník klikne na kterékoliv tlačítko/odkaz v obchodě"
+msgstr "Když zákazník klikne na kterékoliv pokladní tlačítko/odkaz v obchodě"
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."

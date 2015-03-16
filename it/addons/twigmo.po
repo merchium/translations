@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: it\n"
 "X-Crowdin-File: /addons/twigmo.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-09 09:00-0500\n"
+"PO-Revision-Date: 2015-03-13 16:00-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -37,7 +38,7 @@ msgstr "Aggiorna"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Notifiche push"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -737,7 +738,7 @@ msgstr "Mobile app"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
-msgstr "QR code for the app<br>login page"
+msgstr "Codice QR per l'app <br>pagina di login"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
@@ -773,57 +774,57 @@ msgstr "Aggiungi account"
 
 msgctxt "Languages::twapp_pull_to_refresh"
 msgid "Pull to refresh"
-msgstr "Pull to refresh"
+msgstr "Tirare per aggiornare"
 
 msgctxt "Languages::twapp_release_to_refresh"
 msgid "Release to refresh"
-msgstr "Release to refresh"
+msgstr "Rilascia per aggiornare"
 
 msgctxt "Languages::twapp_could_not_connect"
 msgid "Could not connect to the Twigmo add-on at [URL]."
-msgstr "Could not connect to the Twigmo add-on at [URL]."
+msgstr "Impossibile connettersi al componente aggiuntivo Twigmo tramite [URL]."
 
 msgctxt "Languages::twgadmin_push_notifications"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Notifiche push"
 
 msgctxt "Languages::twgadmin_send_push_notifications"
 msgid "Send push notifications to your mobile store app users"
-msgstr "Send push notifications to your mobile store app users"
+msgstr "Inviare le notifiche push agli utenti dell'app mobile"
 
 msgctxt "Languages::twgadmin_select_store_short"
 msgid "Select a store"
-msgstr "Select a store"
+msgstr "Selezionare un negozio"
 
 msgctxt "Languages::twgadmin_push_notification_text"
 msgid "Push notification text"
-msgstr "Push notification text"
+msgstr "Testo di notifica push"
 
 msgctxt "Languages::twgadmin_push_notification_comment"
 msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
-msgstr "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
+msgstr "Fare riferimento alle politiche di <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\"> Apple</a> e <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\"> Google</a> per l'invio di annunci e le notifiche push. L'app mobile può violare queste politiche."
 
 msgctxt "Languages::twgadmin_push_will_send_to"
 msgid "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
-msgstr "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
+msgstr "Questo messaggio verrà inviato a iOS <b>[ios_amount]</b> e <b>[android_amount]</b> gli utenti Android di app store."
 
 msgctxt "Languages::twgadmin_push_has_uploaded"
 msgid "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
-msgstr "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
+msgstr "Il tuo messaggio è stato caricato sul server e ha iniziato a inviare il messaggio agli utenti mobile app (si può richiedere fino a un'ora a seconda del numero di utenti)."
 
 msgctxt "Languages::twgadmin_send_push"
 msgid "Send push notifications about order status update to the mobile store app users"
-msgstr "Send push notifications about order status update to the mobile store app users"
+msgstr "Inviare le notifiche push sull'aggiornamento di stato ordine agli utenti app mobile"
 
 msgctxt "Languages::twgadmin_send_push_error"
 msgid "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
-msgstr "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
+msgstr "Oops, qualcosa è andato storto. Noi non possiamo confermare che il tuo messaggio è stato inviato. Si prega di <a href=\"http://support.twigmo.com\" target=\"_blank\"> contattare il team di supporto Twigmo</a> per risolvere il problema."
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_android"
 msgid "[This order was placed via Twigmo Mobile Application for Android]"
-msgstr "[This order was placed via Twigmo Mobile Application for Android]"
+msgstr "[Questo ordine è stato effettuato via Twigmo applicazione Mobile per Android]"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
 msgid "[This order was placed via Twigmo Mobile Application for iOS]"
-msgstr "[This order was placed via Twigmo Mobile Application for iOS]"
+msgstr "[Questo ordine è stato effettuato via Twigmo Mobile applicazione per iOS]"
 
