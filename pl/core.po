@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-17 09:01-0400\n"
+"PO-Revision-Date: 2015-03-18 13:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1710,7 +1710,7 @@ msgstr "Zmień prawa"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Sprawdź uprawnienia"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2730,7 +2730,7 @@ msgstr "Zmiany w bazie danych"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Kopia zapasowa/przywracanie"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "Kopia zapasowa/Odzyskanie bazy danych"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Kopia zapasowa/przywracanie"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Tworzenie kopii zapasowych"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3974,7 +3974,7 @@ msgstr "Dodatkowe usługi"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Dodatkowe foldery"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7014,7 +7014,7 @@ msgstr "Tworzenie zamówienia"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Kopia zapasowa/przywracanie"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -10194,7 +10194,7 @@ msgstr "Twoja instytucja finansowa nie może autoryzować tej transakcji. W celu
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "W celu pobrania kopii zapasowej, kliknij ikonę zębatki i wybierz opcję Pobierz"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -14431,19 +14431,19 @@ msgstr "Domyślnie opcja \"Nowy klient\" w sekcji \"Zaloguj\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Wyświetl krok \"Metoda wysyłki\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Jeśli ukryte, pierwsza aktywna metoda zostanie użyta."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Wyświetl krok \"Metoda płatności\""
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Jeśli ukryte, pierwsza aktywna metoda zostanie użyta."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -15664,9 +15664,9 @@ msgstr "Co najmniej jeden sklep musi pozostać"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Plik nie może zostać przywrócony. Dozwolone są tylko pliki z rozszerzeniem .sql, .zip i .tgz."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Nie można zapisać do pliku <b>[file]</b>. Ustaw ręcznie uprawnienia do zapisu lub sprawdź dostęp FTP do serwera w sekcji <a href=\"[url]\"> \"Centrum aktualizacji\"</a>"
 
