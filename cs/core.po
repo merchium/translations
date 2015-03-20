@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-18 10:00-0400\n"
+"PO-Revision-Date: 2015-03-19 12:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1710,7 +1710,7 @@ msgstr "Změnit oprávnění"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Zkontrolujte oprávnění"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2730,7 +2730,7 @@ msgstr "Změny dat v databázi"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Zálohování/Obnovení"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "DB Záloha/Obnova"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Zálohování/Obnovení"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Vytvořit záložní kopii"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3974,7 +3974,7 @@ msgstr "Extra služby"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Další složky"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7014,7 +7014,7 @@ msgstr "Vytvořit objednávku"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Zálohování/Obnovení"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -10194,7 +10194,7 @@ msgstr "Vaše finanční instituce nemohla úspěšně ověřit tuto transakci. 
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "Chcete-li stáhnout zálohy, klepněte na ikona ozubeného kola a zvolte možnost Stáhnout"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -12504,6 +12504,10 @@ msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
 msgstr "Aktualizace jsou dostupné pouze v režimech <strong>Úplný</strong> a <strong>Zdarma</strong>.<br /><br />Licenční režim lze změnit v Nastaveních → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licenční režim</a>."
 
+msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
+msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Není možné připravit souboru restore.php. Soubor \"var/upgrade/restore.php\" byl místně upraven/přejmenován/odstraněn. Obnovit původní restore.php soubor před upgradem."
+
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
 msgstr "Je potřeba aktualizace Flash Playeru"
@@ -14430,19 +14434,19 @@ msgstr "Standardní volba pro sekci \"Nový zákazník\" na \"Přihlaste se\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Zobrazit krok \"Způsob dopravy\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Pokud je skrytý, je použita první aktivní metoda."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Zobrazit krok \"Způsob platby\""
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Pokud je skrytý, je použita první aktivní metoda."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -15663,9 +15667,13 @@ msgstr "Alespoň jeden obchod musí zůstat"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Soubor nelze obnovit. Jen soubory .sql, .zip a .tgz jsou povoleny."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Nelze zapisovat do souboru <b>[file]</b>. Nastavení oprávnění k zápisu ručně zkontrolujte nebo zkontrolujte FTP přístup k serveru v <a href=\"[url]\">\"Centrum aktualizace\"</a>"
+
+msgctxt "Languages::uc_restore_email"
+msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
 
