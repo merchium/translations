@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-19 12:00-0400\n"
+"PO-Revision-Date: 2015-03-22 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3714,7 +3714,7 @@ msgstr "Formát obrázků <b>[format]</b> není podporován GD knihovnou, která
 
 msgctxt "Languages::error_incorrect_login"
 msgid "The username or password you have entered is invalid. Please try again."
-msgstr "Zadané jméno nebo heslo nejsou platné, zkuste to prosím znovu."
+msgstr "Zadané jméno nebo heslo nejsou platné. Zkuste to, prosím, znovu."
 
 msgctxt "Languages::error_invalid_emails"
 msgid "The following email addresses are invalid: <b>[emails]</b>"
@@ -3726,7 +3726,7 @@ msgstr "Ve vybraném jazyce již kód ([code]) existuje. Prosím, zadejte jiný 
 
 msgctxt "Languages::error_login_not_exists"
 msgid "The username you have entered does not match any account in our store. Please make sure you have entered the correct username and try again."
-msgstr "Uživatelské jméno, které jste vložil/a se neshoduje s žádným účtem v našem obchodě. Ujistěte se prosím, že jste správně vložil/a uživatelské jméno spojené s vaším účtem a zkuste to znovu."
+msgstr "Uživatelské jméno, které jste vložil/a se neshoduje s žádným účtem v našem obchodě. Ujistěte se, prosím, že jste správně vložil/a uživatelské jméno spojené s vaším účtem a zkuste to znovu."
 
 msgctxt "Languages::error_message_not_sent"
 msgid "Message could not be sent.<br />Mailer Error:"
@@ -3786,7 +3786,7 @@ msgstr "Nebyl nalezen soubor s popisem motivu (\"manifest\"). Instalace byla zru
 
 msgctxt "Languages::error_user_exists"
 msgid "The username or email you have chosen already exists. Please try another one."
-msgstr "Uživatelské jméno nebo e-mail již existuje zkuste prosím jinou alternativu"
+msgstr "Uživatelské jméno nebo e-mail již existuje. Zkuste, prosím, jinou alternativu."
 
 msgctxt "Languages::error_validator_color"
 msgid "The color code in the <b>[field]</b> field is invalid."
@@ -15675,5 +15675,5 @@ msgstr "Nelze zapisovat do souboru <b>[file]</b>. Nastavení oprávnění k záp
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Databáze a soubory ve vašem obchodě byly zálohovány před upgradem. Záložní soubor obsahuje celou databázi a všechny soubory s výjimkou snímků. Záložní archiv byl uložen na serveru: [backup_file].</p><p>Před upgradem váš obchod byl uzavřen. Zkontrolujte, zda jeho spuštění je v pořádku po aktualizaci a <a href=\"[settings_section]\">otevřte jej</a>.</p><p>Pokud se něco pokazilo během upgradu, jděte do svého admin panelu, <strong>Administrace → Databáze/Obnovit</strong>, a zálohu obnovte. Nemůžete-li mít přístup k admin panelu, použijte tento odkaz k obnovění poslední zálohy: [restore_link]. Důležité: následující odkaz bude okamžitě zahájen proces obnovy. Použijte ho pouze v případě, že nemůžete přistoupit k admin panelu!</p>"
 
