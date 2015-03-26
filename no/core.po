@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-19 12:02-0400\n"
+"PO-Revision-Date: 2015-03-25 12:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1710,7 +1710,7 @@ msgstr "Endre tillatelser"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Kontroller rettighetene"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2730,7 +2730,7 @@ msgstr "Database dataendringer"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhetskopier/gjenopprett"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "DB Backup/Gjenopprett"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhetskopier/gjenopprett"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Lag sikkerhetskopi"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3974,7 +3974,7 @@ msgstr "Ekstra tjenester"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Ekstra mapper"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7014,7 +7014,7 @@ msgstr "Opprett ordre"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhetskopier/gjenopprett"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -10194,7 +10194,7 @@ msgstr "Din finansinstitusjon har indikert at de ikke kunne godkjenne denne tran
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "For å laste ned denne sikkerhetskopien, klikk på gear-ikonet og velg Last ned"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -12506,7 +12506,7 @@ msgstr "Oppgraderinger er bare tilgjengelig i <strong>Full</strong> og <strong>F
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Kan ikke klargjøre restore.php filen. Filen \"var/upgrade/restore.php\" er lokalt endret/omdøpt/fjernet. Gjenopprett den lokale restore.php filen før oppgraderingen."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -14425,8 +14425,8 @@ msgid "Configure \"Sign in\" step"
 msgstr "Konfigurer \"Logg inn\" trinn"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
-msgid "The first checkout step can be hidden only if it doesn't have any required contact info fields."
-msgstr "Det første utsjekkings trinnet kan bare skjules hvis det ikke har påkrevde kontakt info felt."
+msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14434,19 +14434,19 @@ msgstr "Standard valg for \"Ny kunde\" seksjonen ved \"Logg inn\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Vis \"Forsendelsesmåte\" trinn"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Hvis skjult, vil den første aktive metoden brukes som standard."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Vis \"Betalingsmåte\" trinn"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Hvis skjult, vil den første aktive metoden brukes som standard."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -15667,7 +15667,7 @@ msgstr "Minst én nettbutikk må være igjen"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Filen kan ikke gjenopprettes. Kun .sql, zip og .tgz filer er tillatt."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
