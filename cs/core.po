@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-25 12:00-0400\n"
+"PO-Revision-Date: 2015-03-27 03:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -15676,4 +15676,8 @@ msgstr "Nelze zapisovat do souboru <b>[file]</b>. Nastavení oprávnění k záp
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
 msgstr "<p>Databáze a soubory ve vašem obchodě byly zálohovány před upgradem. Záložní soubor obsahuje celou databázi a všechny soubory s výjimkou snímků. Záložní archiv byl uložen na serveru: [backup_file].</p><p>Před upgradem váš obchod byl uzavřen. Zkontrolujte, zda jeho spuštění je v pořádku po aktualizaci a <a href=\"[settings_section]\">otevřte jej</a>.</p><p>Pokud se něco pokazilo během upgradu, jděte do svého admin panelu, <strong>Administrace → Databáze/Obnovit</strong>, a zálohu obnovte. Nemůžete-li mít přístup k admin panelu, použijte tento odkaz k obnovění poslední zálohy: [restore_link]. Důležité: následující odkaz bude okamžitě zahájen proces obnovy. Použijte ho pouze v případě, že nemůžete přistoupit k admin panelu!</p>"
+
+msgctxt "Languages::error_features_too_many_variants"
+msgid "Search by features is not available due to the excessive number of variants."
+msgstr "Search by features is not available due to the excessive number of variants."
 
