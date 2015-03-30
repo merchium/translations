@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-27 15:00-0400\n"
+"PO-Revision-Date: 2015-03-30 05:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1144,14 +1144,6 @@ msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
 msgstr "Ana içerik (kontrolör tarafından yüklenen)"
 
-msgctxt "Languages::block_search_field"
-msgid "Search field"
-msgstr "Arama alanı"
-
-msgctxt "Languages::block_search_field_description"
-msgid "Product search input field"
-msgstr "Ürün Arama giriş alanı"
-
 msgctxt "Languages::block_manager"
 msgid "Block manager"
 msgstr "Blok yönetimi"
@@ -1690,7 +1682,7 @@ msgstr "config.local.php dosyasının erişim iznini değiştirmeniz tavsiye edi
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Değişiklik eklentileri başlatma"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1710,7 +1702,7 @@ msgstr "İzinleri değiştir"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "İzinleri denetleyin"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2730,7 +2722,7 @@ msgstr "Veri tabanı veri değişiklikleri"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Yedekleme/Geri yükleme"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2766,11 @@ msgstr "DB Yedekleme/Yükleme"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Yedekleme/Geri yükleme"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Yedek Oluştur"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3118,7 +3110,7 @@ msgstr "Gösterim tipi"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "Filtre çeşitleri önce kaydırma sayısı"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3974,7 +3966,7 @@ msgstr "Extra services"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Ek klasörler"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7014,7 +7006,7 @@ msgstr "Create order"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Yedekleme/Geri yükleme"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -14434,7 +14426,7 @@ msgstr "\"Oturum Aç\"ta bulunan \"Yeni müşteri\" bölümü için varsayılan 
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Adım \"sevkiyat yöntemi\" görüntüleme"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -15619,11 +15611,11 @@ msgstr "Silinecek"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Yükseltme paketini doğrulayıcıları"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "\"[validator]\" durumu doğrulayıcısı'nı yürütmek"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15647,7 +15639,7 @@ msgstr "Yükseltme paketini yükle"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Yükseltme paketini yükleme düzeltmeleri veya eklenti yükseltmeleri uygulamanıza olanak sağlar. Sen-ebilmek upload bir yükseltme paketi bir tgz gz, seçerek zip formatında Arşiv ve tıkırtı Upload."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15667,17 +15659,17 @@ msgstr "En az bir dükkandan kalmalıdır"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Dosya geri yüklenemiyor. Yalnızca .sql, .zip ve .tgz dosyaları izin verilir."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "<b>[file]</b> için dosya yazılamıyor. Yazılabilir izinlerini el ile ayarlamak veya <a href=\"[url]\"> \"Yükseltme center\"</a> bölümünde sunucunuza FTP erişimi denetleme"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Mağazanızın veritabanını ve dosyaları sırt yukarıya yükseltmeden önce. Yedek arşiv, tüm veritabanını ve görüntüleri hariç tüm dosyaları içerir. Yedek arşiv sunucunuzda depolanan: [backup_file].</p><p>Yükseltme işleminden önce senin dükkan kapalı. Bu yükseltme ve <a href=\"[settings_section]\"> bunu aç</a> sonra iyi çalışıp çalışmadığını kontrol edin.</p><p>Yükseltme sırasında bir şeyler ters giderse, senin admin paneline gidin <strong>Yönetim → yedekleme/geri yükleme</strong>, yedeği geri yükleme yüklemek için.</p><p>Yönetim panelinize erişemiyorsanız son yedeğini geri yüklemek için bu bağlantıyı kullanın: [restore_link]. Önemli: Bu bağlantı hemen geri yükleme işlemi başlatılır. Yalnızca yönetim panelinize erişemiyorsanız kullanma!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Özelliklere göre ara türevleri aşırı sayıda nedeniyle kullanılamaz."
 

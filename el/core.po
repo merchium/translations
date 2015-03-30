@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-27 03:00-0400\n"
+"PO-Revision-Date: 2015-03-30 05:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1143,14 +1143,6 @@ msgstr "Κυρίως"
 msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
 msgstr "Κυρίως Περιεχόμενο (loaded by controller)"
-
-msgctxt "Languages::block_search_field"
-msgid "Search field"
-msgstr "Πεδίο Αναζήτησης"
-
-msgctxt "Languages::block_search_field_description"
-msgid "Product search input field"
-msgstr "Πεδίο εισαγωγής Αναζήτησης Προϊόντων"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
@@ -7566,7 +7558,7 @@ msgstr "Κατηγορίες"
 
 msgctxt "Languages::promotion_cond_country"
 msgid "Customer country (shipping)"
-msgstr "Χώρα πελάτη"
+msgstr "Χώρα πελάτη (αποστολή)"
 
 msgctxt "Languages::promotion_cond_coupon_code"
 msgid "Coupon code"
@@ -7606,7 +7598,7 @@ msgstr "Αγορασμένα προϊόντα"
 
 msgctxt "Languages::promotion_cond_state"
 msgid "Customer state (shipping)"
-msgstr "Κατάσταση πελάτη"
+msgstr "Νομός πελάτη (αποστολή)"
 
 msgctxt "Languages::promotion_cond_subtotal"
 msgid "Order subtotal"
@@ -7630,7 +7622,7 @@ msgstr "Χρήστες"
 
 msgctxt "Languages::promotion_cond_zip_postal_code"
 msgid "Customer zip/postal code (shipping)"
-msgstr "Ταχυδρομικός κώδικας πελάτη"
+msgstr "Ταχυδρομικός κώδικας πελάτη (αποστολή)"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
@@ -15679,5 +15671,5 @@ msgstr "<p> Η βάση δεδομένων του καταστήματός σα�
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Η Αναζήτηση ανά χαρακτηριστικό δεν είναι διαθέσιμη λόγω του υπερβολικού αριθμού των παραλλαγών."
 
