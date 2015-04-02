@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-31 23:01-0400\n"
+"PO-Revision-Date: 2015-04-01 15:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -12474,7 +12474,7 @@ msgstr "Oppgrader"
 
 msgctxt "Languages::upgrade_center"
 msgid "Upgrade center"
-msgstr "Senter for oppgradering"
+msgstr "Oppdateringssenter"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -14414,7 +14414,7 @@ msgstr "Konfigurer \"Logg inn\" trinn"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Dette trinnet kan bare skjules hvis det ikke har påkrevde profilfelt og hvis anonym utsjekking er satt som tillatt."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -15659,7 +15659,7 @@ msgstr "Filen kan ikke gjenopprettes. Kun .sql, zip og .tgz filer er tillatt."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Kan ikke skrive til filen <b>[file]</b>. Angi skrivetillatelser manuelt eller sjekk FTP-tilgangen til serveren i <a href=\"[url]\">\"Oppgraderingssenteret\"</a> section"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
@@ -15667,5 +15667,5 @@ msgstr "<p>Your store's database and files has been backed up before the upgrade
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Søk etter funksjoner er ikke tilgjengelig på grunn av for høyt antall av varianter."
 
