@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-03 09:01-0400\n"
+"PO-Revision-Date: 2015-04-05 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -14462,7 +14462,7 @@ msgstr "Leverings og faktura-adresse"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "La stå tomt for gjennomsiktig bakgrunn"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15663,7 +15663,7 @@ msgstr "Kan ikke skrive til filen <b>[file]</b>. Angi skrivetillatelser manuelt 
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Din butikks database og filer har blitt sikkerhetskopiert før oppgraderingen. Sikkerhetskopien inkluderer hele databasen og alle filer unntatt bilder. Sikkerhetskopien er lagret på serveren din: [backup_file].</p><p>Før oppgraderingen, ble butikken din stengt. Sjekk at alt fungerer som det skal etter oppgraderingen og <a href=\"[settings_section]\">åpne den igjen</a>.</p><p>Hvis noe går galt under oppgraderingen, kan du gå til ditt adminpanel, <strong>Administrasjon → Backup/Gjenopprett</strong>, for å gjenopprette sikkerhetskopien.</p><p>Hvis du ikke får tilgang til ditt adminpanel, bruke denne koblingen til å gjenopprette siste sikkerhetskopi: [restore_link]. Viktig: Ved å følge denne linken vil gjenopprettingsprosessen starte umiddelbart. Bruk den kun hvis du ikke får tilgang til adminpanelet!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."

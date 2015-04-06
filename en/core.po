@@ -14453,8 +14453,8 @@ msgid "Shipping and billing addresses"
 msgstr "Shipping and billing addresses"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
-msgid "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
-msgstr "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
+msgid "Leave empty for transparent background"
+msgstr "Leave empty for transparent background"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15650,8 +15650,8 @@ msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
 msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
-msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href="[url]">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href="[url]">\"Upgrade center\"</a> section"
+msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
