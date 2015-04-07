@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-07 04:34-0400\n"
+"PO-Revision-Date: 2015-03-30 05:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1702,7 +1702,7 @@ msgstr "Изменить права доступа"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Проверить права"
+msgstr "Check permissions"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2722,7 +2722,7 @@ msgstr "Изменения в данных БД"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Резервное копирование и восстановление"
+msgstr "Backup/Restore"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2766,11 +2766,11 @@ msgstr "Резервиров./Восстановл. БД"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Резервное копирование и восстановление"
+msgstr "Backup/Restore"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Создать резервную копию"
+msgstr "Create backup"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3966,7 +3966,7 @@ msgstr "Дополнительные сервисы"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Дополнительные папки"
+msgstr "Extra folders"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7006,7 +7006,7 @@ msgstr "Создание заказа"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Резервное копирование и восстановление"
+msgstr "Backup/Restore"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -10186,7 +10186,7 @@ msgstr "Авторизация этой транзакции не прошла. 
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "Чтобы скачать этот архив, нажмите на значок шестеренки и выберите Скачать"
+msgstr "To download this backup, click the gear icon and select Download"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10703,6 +10703,10 @@ msgstr "Товары не заданы"
 msgctxt "Languages::text_no_products_found"
 msgid "No products found"
 msgstr "Товары не найдены"
+
+msgctxt "Languages::text_found_n_products"
+msgid "<a href=\"[href]\">Products found: [n]. Show</a>"
+msgstr "<a href=\"[href]\">Найдено товаров: [n]. Показать</a>"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
@@ -12494,7 +12498,7 @@ msgstr "Обновления доступны только в <strong>Полно
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Не удается подготовить файл restore.php. Файл «var/upgrade/restore.php» был изменен/переименован или удален. Восстановите исходный файл restore.php перед обновлением."
+msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -14414,7 +14418,7 @@ msgstr "Настройка шага авторизации"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "Этот шаг может быть скрыт, только если в нем нет обязательных для заполнения полей и разрешено оформление заказа без регистрации."
+msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14461,8 +14465,8 @@ msgid "Shipping and billing addresses"
 msgstr "Адреса доставки и плательщика"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
-msgid "Leave empty for transparent background"
-msgstr "Оставьте пустым для прозрачного фона"
+msgid "Leave empty for transparent background (requires PHP GD library version > 2.0.1)"
+msgstr "Оставьте пустым для прозрачного фона (требуется PHP GD библиотека версии > 2.0.1)"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15655,11 +15659,11 @@ msgstr "Один магазин должен остаться"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "Файл не может быть восстановлен. Разрешены только файлы форматов .sql, .zip и .tgz."
+msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Не удается записать в файл <b>[file]</b>. Установите права на запись вручную или проверьте FTP доступ к вашему серверу в разделе <a href=\"[url]\">\"Центр обновления\"</a>"
+msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
@@ -15667,5 +15671,5 @@ msgstr "<p>Your store's database and files has been backed up before the upgrade
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Поиск по характеристикам не доступен из-за чрезмерного количества вариантов."
+msgstr "Search by features is not available due to the excessive number of variants."
 
