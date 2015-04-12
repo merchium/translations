@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-18 10:02-0400\n"
+"PO-Revision-Date: 2015-04-10 11:00-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -40,6 +40,14 @@ msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
 msgid "Instant payment notification settings"
 msgstr "即時支払い通知(IPN)の設定"
 
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal order status conversion map"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal logo settings"
+
 msgctxt "Languages::text_paypal_surcharge"
 msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
 msgstr "<b>注意:</b> PayPalの <a href='https://www.paypal.com/jp/webapps/mpp/ua/useragreement-full?locale.x=ja_JP' target='_blank'>ユーザー規約</a> (3.4 追加料金の非設定)により、支払い手数料の加算が禁止されています。 CS-Cartにて設定した各種手数料はPaypal決済時に無視されますのでご注意ください。"
@@ -47,10 +55,6 @@ msgstr "<b>注意:</b> PayPalの <a href='https://www.paypal.com/jp/webapps/mpp/
 msgctxt "Languages::txn_id"
 msgid "Transaction ID"
 msgstr "トランザクションID"
-
-msgctxt "Languages::text_paypal_logo_uploader"
-msgid "PayPal logo settings"
-msgstr "Paypalページに表示するロゴの設定"
 
 msgctxt "Languages::paypal_logo"
 msgid "PayPal logo"
@@ -75,8 +79,4 @@ msgstr "注文時の通貨とPaypal決済で指定した通貨が異なります
 msgctxt "Languages::pp_total_is_incorrect"
 msgid "Payment total is different than the order total."
 msgstr "注文合計金額とPaypalにて決済した金額が異なります。"
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status conversion map"
-msgstr "ペイパルとCS-Cartの注文ステータスマッピング"
 

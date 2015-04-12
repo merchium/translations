@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-18 10:00-0400\n"
+"PO-Revision-Date: 2015-04-10 11:00-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -40,6 +40,14 @@ msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
 msgid "Instant payment notification settings"
 msgstr "Øjeblikkelig betalingsmeddelelsesindstillinger"
 
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal order status conversion map"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal logo settings"
+
 msgctxt "Languages::text_paypal_surcharge"
 msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
 msgstr "<b>Bemærk:</b> Ifølge PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'> politikken</a> (4.6) understøttes tillæg ikke."
@@ -47,10 +55,6 @@ msgstr "<b>Bemærk:</b> Ifølge PayPal <a href='https://www.paypal.com/webapps/m
 msgctxt "Languages::txn_id"
 msgid "Transaction ID"
 msgstr "Transaktions-ID"
-
-msgctxt "Languages::text_paypal_logo_uploader"
-msgid "PayPal logo settings"
-msgstr "PayPal logoindstillinger"
 
 msgctxt "Languages::paypal_logo"
 msgid "PayPal logo"
@@ -75,8 +79,4 @@ msgstr "Valutaen brugt til betaling er anderledes end valutaen på ordren."
 msgctxt "Languages::pp_total_is_incorrect"
 msgid "Payment total is different than the order total."
 msgstr "Samlede betaling er anderledes end ordretotal."
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status conversion map"
-msgstr "PayPal ordrestatus konverteringskort"
 

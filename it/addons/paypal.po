@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-27 01:00-0400\n"
+"PO-Revision-Date: 2015-04-10 11:00-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -40,6 +40,14 @@ msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
 msgid "Instant payment notification settings"
 msgstr "Impostazioni di notifica immediata del pagamento"
 
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal order status conversion map"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal logo settings"
+
 msgctxt "Languages::text_paypal_surcharge"
 msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
 msgstr "<b>Nota:</b> Secondo la <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>Politica di PayPal</a> (4.6), i supplementi non sono supportati."
@@ -47,10 +55,6 @@ msgstr "<b>Nota:</b> Secondo la <a href='https://www.paypal.com/webapps/mpp/ua/u
 msgctxt "Languages::txn_id"
 msgid "Transaction ID"
 msgstr "ID transazione"
-
-msgctxt "Languages::text_paypal_logo_uploader"
-msgid "PayPal logo settings"
-msgstr "Impostazioni del logo PayPal"
 
 msgctxt "Languages::paypal_logo"
 msgid "PayPal logo"
@@ -75,8 +79,4 @@ msgstr "La valuta utilizzata per il pagamento è diversa da quella presente nell
 msgctxt "Languages::pp_total_is_incorrect"
 msgid "Payment total is different than the order total."
 msgstr "Il pagamento totale è diverso rispetto al totale dell'ordine."
-
-msgctxt "Languages::text_paypal_status_map"
-msgid "PayPal order status conversion map"
-msgstr "Mappatura stati ordine di PayPal"
 
