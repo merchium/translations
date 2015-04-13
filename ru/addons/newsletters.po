@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-03-23 11:02-0400\n"
+"PO-Revision-Date: 2015-04-13 09:10-0400\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -322,7 +322,7 @@ msgstr "Добавить список рассылки"
 
 msgctxt "Languages::manage_subscribers"
 msgid "Manage subscribers"
-msgstr "Manage subscribers"
+msgstr "Подписчики"
 
 msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
@@ -395,4 +395,24 @@ msgstr "с помощью PHP-функции mail"
 msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
 msgid "use default settings"
 msgstr "использовать настройки по умолчанию"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "Promotions"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "Choose a promotion whose promo code will be given at subscription"
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "No promotion"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "Customer is subscribed"
 

@@ -10,11 +10,11 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-13 08:00-0400\n"
+"PO-Revision-Date: 2015-04-13 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
-msgstr "Čeština"
+msgstr "Lokalizovaný název jazyka"
 
 msgctxt "Languages::2co_enable_fraud_verification"
 msgid "Enable support of fraud notification"
@@ -22,7 +22,7 @@ msgstr "Povolit oznamování podvodů"
 
 msgctxt "Languages::2co_fraud_fail"
 msgid "Status for orders with failed fraud review"
-msgstr "Status pro objednávky, které nebyly zkontrolovány pro podvod"
+msgstr "Stav objednávek z neúspěšného ověření za podvod"
 
 msgctxt "Languages::2co_fraud_wait"
 msgid "Status for orders waiting for fraud review"
@@ -198,7 +198,7 @@ msgstr "Adresy"
 
 msgctxt "Languages::address_2"
 msgid "Address (line 2)"
-msgstr "Adresa (2)"
+msgstr "Adresa (řádek 2)"
 
 msgctxt "Languages::address_commercial"
 msgid "Commercial"
@@ -206,7 +206,7 @@ msgstr "Komerční"
 
 msgctxt "Languages::address_residential"
 msgid "Residential"
-msgstr "Residential"
+msgstr "Obytný"
 
 msgctxt "Languages::address_type"
 msgid "Address type"
@@ -230,7 +230,7 @@ msgstr "Přidat propagaci"
 
 msgctxt "Languages::add_catalog_promotion"
 msgid "Add catalog promotion"
-msgstr "Přidat slevu(na zboží)"
+msgstr "Přidat slevu (na zboží)"
 
 msgctxt "Languages::add_categories"
 msgid "Add categories"
@@ -314,7 +314,7 @@ msgstr "Přidat globální možnosti"
 
 msgctxt "Languages::add_grid_block"
 msgid "Add grid or block"
-msgstr "Přidání mřížky nebo blok"
+msgstr "Přidát mřížku nebo blok"
 
 msgctxt "Languages::add_group"
 msgid "Add group"
@@ -326,7 +326,7 @@ msgstr "Přidat položku"
 
 msgctxt "Languages::add_items"
 msgid "Add [items]"
-msgstr "Přidat položky"
+msgstr "Přidat [items]"
 
 msgctxt "Languages::add_language"
 msgid "Add language"
@@ -366,11 +366,11 @@ msgstr "Přidat novou vlastnost"
 
 msgctxt "Languages::add_new_order"
 msgid "Adding new order"
-msgstr "Přidání nového řádu"
+msgstr "Přidání nové objednávky"
 
 msgctxt "Languages::add_new_variant"
 msgid "Add new variant"
-msgstr "Přidat nové možnosti"
+msgstr "Přidat novou variantu"
 
 msgctxt "Languages::add_option"
 msgid "Add option"
@@ -422,15 +422,15 @@ msgstr "Přidat produkty a zavřít"
 
 msgctxt "Languages::add_products_to_section"
 msgid "Add product(s) to this section"
-msgstr "Přidat produkty do sekce"
+msgstr "Přidat zboží do této sekce"
 
 msgctxt "Languages::add_product_filter"
 msgid "Add product filter"
-msgstr "Přidat filtr produktu"
+msgstr "Přidat filtr produktů"
 
 msgctxt "Languages::add_promotions"
 msgid "Add promotions"
-msgstr "Přidání akce"
+msgstr "Přidání propagace"
 
 msgctxt "Languages::add_report"
 msgid "Add report"
@@ -446,7 +446,7 @@ msgstr "Přidat vybrané do košíku"
 
 msgctxt "Languages::add_shipping_method"
 msgid "Add shipping method"
-msgstr "Přidat metodu dopravy"
+msgstr "Přidat způsob dopravy"
 
 msgctxt "Languages::add_site_map_section"
 msgid "Add sitemap section"
@@ -470,11 +470,11 @@ msgstr "Přidat odběratele"
 
 msgctxt "Languages::add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
-msgstr "Přidat odběratele z uživatele"
+msgstr "Přidejte účastníky ze seznamu uživatelů"
 
 msgctxt "Languages::add_tab"
 msgid "Add tab"
-msgstr "Přidat kartu"
+msgstr "Přidat tab"
 
 msgctxt "Languages::add_tax"
 msgid "Add tax"
@@ -482,11 +482,11 @@ msgstr "Přidat daň"
 
 msgctxt "Languages::add_to_cart"
 msgid "Add to cart"
-msgstr "Do košíku"
+msgstr "Přidat do košíku"
 
 msgctxt "Languages::add_to_compare_list"
 msgid "Add to compare list"
-msgstr "Přidat do seznamu k porovnání"
+msgstr "Přidat do seznamu porovnání"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -494,7 +494,7 @@ msgstr "Přidat uživatele"
 
 msgctxt "Languages::add_users"
 msgid "Add users"
-msgstr "Přidat uživatelé"
+msgstr "Přidat uživatele"
 
 msgctxt "Languages::add_users_and_close"
 msgid "Add users and close"
@@ -558,7 +558,7 @@ msgstr "Po úplném zaplacení"
 
 msgctxt "Languages::after_sum"
 msgid "After sum"
-msgstr "Po sumě"
+msgstr "Po součtu"
 
 msgctxt "Languages::agent_id"
 msgid "Agent ID"
@@ -586,11 +586,11 @@ msgstr "Povolené přípony"
 
 msgctxt "Languages::allowed_extensions_hint"
 msgid "Leave this field empty to allow uploading of all file types, or input allowed extensions separated by comma (e.g. jpg,bmp,gif,pdf)"
-msgstr "Ponechte toto pole prázdné, aby umožnilo stahování všech typů souborů, nebo zadejte platné rozšíření, oddělených čárkami (např: jpg, bmp, gif, pdf)"
+msgstr "Nechte toto pole prázdné, aby bylo povoleno nahrávání umožňují všech typů souborů, nebo zadejte povolené rozšíření oddělené čárkami (např. jpg, bmp, gif, pdf)"
 
 msgctxt "Languages::allow_api_access"
 msgid "Yes, allow this user to use the API"
-msgstr "Ano, Povolit tomuto uživateli používat API"
+msgstr "Ano, aby tento uživatel používal rozhraní API"
 
 msgctxt "Languages::allow_return_registration"
 msgid "Allow return registration"
@@ -602,7 +602,7 @@ msgstr "Všechny kategorie"
 
 msgctxt "Languages::all_downloads"
 msgid "All downloads"
-msgstr "Všechna stažení"
+msgstr "Všechny soubory ke stažení"
 
 msgctxt "Languages::all_features"
 msgid "All features"
@@ -610,7 +610,7 @@ msgstr "Všechny vlastnosti"
 
 msgctxt "Languages::all_filters"
 msgid "All product filters"
-msgstr "Všechny filtry produktu"
+msgstr "Všechny filtry produktů"
 
 msgctxt "Languages::all_pages"
 msgid "All pages"
@@ -630,11 +630,11 @@ msgstr "Všechna tato slova"
 
 msgctxt "Languages::also_bought"
 msgid "Also bought"
-msgstr "Také si koupil"
+msgstr "Také koupili"
 
 msgctxt "Languages::alt_text"
 msgid "Alternative text/title"
-msgstr "Náhradní text"
+msgstr "Alternativní text/název"
 
 msgctxt "Languages::american_express"
 msgid "American Express"
@@ -658,7 +658,7 @@ msgstr "Množství bylo zvýšeno o"
 
 msgctxt "Languages::anonymous"
 msgid "Anonymous"
-msgstr "Anonym"
+msgstr "Anonymní"
 
 msgctxt "Languages::answer"
 msgid "Answer"
@@ -666,7 +666,7 @@ msgstr "Odpověď"
 
 msgctxt "Languages::any"
 msgid "Any"
-msgstr "Nějaké"
+msgstr "Jakýkoli"
 
 msgctxt "Languages::any_date"
 msgid "Any date"
@@ -674,7 +674,7 @@ msgstr "Jakékoliv datum"
 
 msgctxt "Languages::any_option_combinations"
 msgid "Any option combinations"
-msgstr "Jakékoliv kombinace nastavení"
+msgstr "Jakékoliv možnost kombinace"
 
 msgctxt "Languages::any_status"
 msgid "Any status"
@@ -730,11 +730,11 @@ msgstr "API heslo"
 
 msgctxt "Languages::api_shipments_not_allow_update"
 msgid "Only the tracking_number and carrier params can be updated with the setting 'Allow multiple shipments for a single order' set"
-msgstr "Pouze parametry tracking_number a carrier params může být aktualizována, aby zahrnovala nastavení \"Povolit separační objednávky do několika zásilek\""
+msgstr "Pouze tracking_numbe a carrier params mohou být aktualizovány s nastavením 'Povolit více zásilek v rámci jedné objednávky'"
 
 msgctxt "Languages::api_user"
 msgid "API user"
-msgstr "Uživatelské rozhraní API"
+msgstr "Uživatel API"
 
 msgctxt "Languages::appearance"
 msgid "Appearance"
@@ -794,7 +794,7 @@ msgstr "Arabština"
 
 msgctxt "Languages::arrows"
 msgid "Arrows"
-msgstr "Šipky"
+msgstr "Šípy"
 
 msgctxt "Languages::asc"
 msgid "asc."
@@ -838,7 +838,7 @@ msgstr "Pouze autorizované"
 
 msgctxt "Languages::auth_code"
 msgid "Auth code"
-msgstr "Ověření kódu"
+msgstr "Auth kód"
 
 msgctxt "Languages::auth_info"
 msgid "Authentication information"
@@ -882,11 +882,11 @@ msgstr "Dostupné"
 
 msgctxt "Languages::available_views"
 msgid "Available views"
-msgstr "Dostupná zobrazení"
+msgstr "K dispozici zobrazení"
 
 msgctxt "Languages::available_since"
 msgid "Avail since"
-msgstr "Dostupné od"
+msgstr "Dostupnost od"
 
 msgctxt "Languages::installed_themes"
 msgid "Installed themes"
@@ -906,7 +906,7 @@ msgstr "Dostupné od"
 
 msgctxt "Languages::avail_till"
 msgid "Available till"
-msgstr "Dostupné do"
+msgstr "K dispozici do"
 
 msgctxt "Languages::average"
 msgid "Average"
@@ -962,7 +962,7 @@ msgstr "Zálohovat  schéma datábaze"
 
 msgctxt "Languages::back_in_stock_notification_footer"
 msgid "Welcome to purchase!"
-msgstr "Vítejte na nákup!"
+msgstr "Vítejte na nákupu!"
 
 msgctxt "Languages::back_in_stock_notification_header"
 msgid "We are writing to inform you that the following product is back in stock in our store:"
@@ -1054,7 +1054,7 @@ msgstr "Tento blok již existuje v této mřížce"
 
 msgctxt "Languages::block_breadcrumbs"
 msgid "Breadcrumbs"
-msgstr "Breadcrumbs"
+msgstr "Lišta"
 
 msgctxt "Languages::block_breadcrumbs_description"
 msgid "Navigation breadcrumbs"
@@ -1142,7 +1142,7 @@ msgstr "Hlavní"
 
 msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
-msgstr "Hlavní obsah (loaded by controller)"
+msgstr "Hlavní obsah (naložený regulátorem)"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
@@ -1246,7 +1246,7 @@ msgstr "Způsob platby"
 
 msgctxt "Languages::block_payment_methods_description"
 msgid "Available payment methods"
-msgstr "Dostupné platební metody"
+msgstr "Dostupné způsoby platby"
 
 msgctxt "Languages::block_products"
 msgid "Products"
@@ -1254,7 +1254,7 @@ msgstr "Produkty"
 
 msgctxt "Languages::block_product_filters"
 msgid "Product filters"
-msgstr "Filtry produktu"
+msgstr "Filtry produktů"
 
 msgctxt "Languages::block_product_filters_description"
 msgid "Product filtering options"
@@ -1334,15 +1334,15 @@ msgstr "Nakoupené množství"
 
 msgctxt "Languages::box_height"
 msgid "Box height"
-msgstr "Box výška"
+msgstr "Výška rámečku"
 
 msgctxt "Languages::box_length"
 msgid "Box length"
-msgstr "Box délka"
+msgstr "Délka rámečku"
 
 msgctxt "Languages::box_width"
 msgid "Box width"
-msgstr "Box šířka"
+msgstr "Šířka rámečku"
 
 msgctxt "Languages::brand"
 msgid "Brand"
@@ -1370,7 +1370,7 @@ msgstr "Prohlížet..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>Zjistili jsme, že prohlížeč který používáte není plně podporován naším Admin Panel. Můžete zobrazit tuto lokalitu pomocí svého aktuálního prohlížeče, ale to se nemusí zobrazovat správně a nebudete moci plně využít všechny funkce.</p><br><p>Admin Panel je optimalizován pomocí těchto prohlížečů:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 a vyšší</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (Nejnovější verze)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (Poslední verze)</a></li></ul><br><p>Klikněte na jeden z odkazů na stažení prohlížeče dle vašeho výběru. Po dokončení stahování, nainstalujte prohlížeč spuštěním instalačního programu.</p><br><p>Pokud nemůžete inovovat svůj prohlížeč teď, budete mít stále přístup k Admin Panel, ale nebudete moci plně využít všechny funkce.<br><a href=\"[url]\">Pokračovat</a></p>"
+msgstr "<p>Zjistili jsme, že prohlížeč který používáte není plně podporován naším Admin Panelem. Můžete zobrazit tuto lokalitu pomocí svého aktuálního prohlížeče, ale to se nemusí zobrazovat správně a nebudete moci plně využít všechny funkce.</p><br><p>Admin Panel je optimalizován pomocí těchto prohlížečů:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 a vyšší</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (Nejnovější verze)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (Poslední verze)</a></li></ul><br><p>Klikněte na jeden z odkazů na stažení prohlížeče dle vašeho výběru. Po dokončení stahování, nainstalujte prohlížeč spuštěním instalačního programu.</p><br><p>Pokud nemůžete inovovat svůj prohlížeč teď, budete mít stále přístup k Admin Panel, ale nebudete moci plně využít všechny funkce.<br><a href=\"[url]\">Pokračovat</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -1414,7 +1414,7 @@ msgstr "Nakoupit předem"
 
 msgctxt "Languages::buy_now"
 msgid "Buy now"
-msgstr "Buy Now"
+msgstr "Kup nyní"
 
 msgctxt "Languages::by"
 msgid "by"
@@ -1422,7 +1422,7 @@ msgstr "od"
 
 msgctxt "Languages::bytes"
 msgid "bytes"
-msgstr "byty"
+msgstr "bajtů"
 
 msgctxt "Languages::by_fixed"
 msgid "by fixed amount"
@@ -1466,7 +1466,7 @@ msgstr "Kalendář"
 
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
-msgstr "To activate the Canada post shipping processor you must have the Canadian Dollar currency enabled."
+msgstr "Chcete-li povolit Kanadskou dopravu, musíte mít povolen měnu Kanadský dolar."
 
 msgctxt "Languages::cancel"
 msgid "Cancel"
@@ -1502,7 +1502,7 @@ msgstr "Nelze odstranit aktivní šablonu"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
-msgstr "Nelze zapisovat do složky<b>[file]</b>. Ověřte CHMOD práva zápisu"
+msgstr "Nelze zapisovat do složky<b>[file]</b>. Ověřte CHMOD práva zápisu."
 
 msgctxt "Languages::cant_save_percentage_price"
 msgid "You can not use percentage value for base price."
@@ -1650,11 +1650,11 @@ msgstr "CDN nastavení"
 
 msgctxt "Languages::central"
 msgid "Central"
-msgstr "Ústřední"
+msgstr "Centrální"
 
 msgctxt "Languages::central_content"
 msgid "Central content"
-msgstr "Ústřední obsah"
+msgstr "Centrální obsah"
 
 msgctxt "Languages::certificate"
 msgid "Certificate"
@@ -1694,7 +1694,7 @@ msgstr "Prosím, změňte své heslo"
 
 msgctxt "Languages::change_password_notification_body"
 msgid "Your password to access the admin panel of the [store] store was last changed [days] days ago. For security reasons, please change your password. In order to do this, please follow the link:"
-msgstr "Vaše heslo pro přístup do admin panelu[store] obchodu bylo naposledy změněno před [days]. Kvuli vyšší bezpěčnosti , změnte prosím Vaše heslo. Pro změnu klikněte zde:"
+msgstr "Vaše heslo pro přístup do admin panelu [store] obchodu bylo naposledy změněno před [days]. Kvuli vyšší bezpěčnosti , změnte, prosím, vaše heslo. Pro změnu klikněte zde:"
 
 msgctxt "Languages::change_permissions"
 msgid "Change permissions"
@@ -1838,7 +1838,7 @@ msgstr "Vyberte svou zemi"
 
 msgctxt "Languages::choose_your_store_mode"
 msgid "Please choose your licensing mode"
-msgstr "Vyberte si prosím váš způsob licencování"
+msgstr "Vyberte si, prosím, váš způsob licencování"
 
 msgctxt "Languages::cities"
 msgid "Cities"
@@ -1854,7 +1854,7 @@ msgstr "třídy"
 
 msgctxt "Languages::clean"
 msgid "clean"
-msgstr "Vyčistit"
+msgstr "vyčistit"
 
 msgctxt "Languages::cleanup_history"
 msgid "Clean up history"
@@ -1958,7 +1958,7 @@ msgstr "Koeficient"
 
 msgctxt "Languages::collapse_bg_color"
 msgid "Collapse background color"
-msgstr "Barva pozadí Collapse"
+msgstr "Barva Collapse pozadí"
 
 msgctxt "Languages::collapse_sublist_of_items"
 msgid "Collapse the sublist of items"
@@ -1966,7 +1966,7 @@ msgstr "Zhroucení subseznamu položek"
 
 msgctxt "Languages::collapse_text_color"
 msgid "Collapse text color"
-msgstr "Barva textu Collapse"
+msgstr "Barva Collapse textu"
 
 msgctxt "Languages::color"
 msgid "Color"
@@ -2018,7 +2018,7 @@ msgstr "Firma"
 
 msgctxt "Languages::company_address"
 msgid "Company address"
-msgstr "Adresa firmy"
+msgstr "Adresa společnosti"
 
 msgctxt "Languages::company_name"
 msgid "Company name"
@@ -14347,10 +14347,6 @@ msgstr "Zobrazit popis menu"
 msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
 msgstr "Čas zobrazení oznámení (pro vypnutí automatického skrývání zadejte 0)"
-
-msgctxt "SettingsOptions::use_email_as_login"
-msgid "User e-mail is used as login"
-msgstr "E-mail uživatele se používá jako přihlašovací jméno"
 
 msgctxt "SettingsOptions::quick_registration"
 msgid "Quick registration"
