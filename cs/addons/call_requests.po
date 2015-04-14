@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-13 10:00-0400\n"
+"PO-Revision-Date: 2015-04-14 09:00-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -163,4 +163,16 @@ msgstr "Uložení telefonního čísla a formulář pro žádosti o volání"
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
 msgstr "Formulář žádosti o volání"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "The convenient call time is between [time_from] and [time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
 

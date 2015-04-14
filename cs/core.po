@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-13 10:00-0400\n"
+"PO-Revision-Date: 2015-04-14 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2014,7 +2014,7 @@ msgstr "Kompaktní seznam"
 
 msgctxt "Languages::company"
 msgid "Company"
-msgstr "Firma"
+msgstr "Společnost"
 
 msgctxt "Languages::company_address"
 msgid "Company address"
@@ -2030,7 +2030,7 @@ msgstr "Vybraná společnost nebyla nalezena."
 
 msgctxt "Languages::company_phone"
 msgid "Company phone"
-msgstr "Telefon"
+msgstr "Telefon společnosti"
 
 msgctxt "Languages::company_settings"
 msgid "Company settings"
@@ -2094,7 +2094,7 @@ msgstr "Potvrzovací dialog"
 
 msgctxt "Languages::confirm_password"
 msgid "Confirm password"
-msgstr "Potvrdit heslo"
+msgstr "Potvrďte heslo"
 
 msgctxt "Languages::conflicts"
 msgid "Conflicts"
@@ -2106,7 +2106,7 @@ msgstr "Gratulujeme!"
 
 msgctxt "Languages::connection_ticket"
 msgid "Connection ticket"
-msgstr "Oznámení spojení"
+msgstr "Připojení vstupenka"
 
 msgctxt "Languages::contact_information"
 msgid "Contact information"
@@ -2114,7 +2114,7 @@ msgstr "Kontaktní informace"
 
 msgctxt "Languages::contact_us_for_price"
 msgid "Contact us for a price"
-msgstr "[Novinka - cena ještě nebyla stanovena. V případě zájmu nás prosím kontaktujte.]"
+msgstr "Kontaktujte nás pro cenu"
 
 msgctxt "Languages::container_options"
 msgid "Container options"
@@ -2154,7 +2154,7 @@ msgstr "Konvertuji data v tabulce [table]"
 
 msgctxt "Languages::copyright_shopping_cart"
 msgid "[product] - Shopping Cart Software"
-msgstr "ID3"
+msgstr "[product] - Nákupní Košík Software"
 
 msgctxt "Languages::copy_from_layout"
 msgid "Copy data from layout"
@@ -2202,11 +2202,11 @@ msgstr "Tento kupon byl již použit"
 
 msgctxt "Languages::coupon_code"
 msgid "Coupon code"
-msgstr "Kód kuponu"
+msgstr "Kupon kód"
 
 msgctxt "Languages::cpi_hash_key"
 msgid "CPI Hash Key"
-msgstr "CPI symbol klíče"
+msgstr "CPI Hash klíče"
 
 msgctxt "Languages::create"
 msgid "Create"
@@ -2318,7 +2318,7 @@ msgstr "CSV soubor"
 
 msgctxt "Languages::currencies"
 msgid "Currencies"
-msgstr "Měna"
+msgstr "Měny"
 
 msgctxt "Languages::currency"
 msgid "Currency"
@@ -2618,7 +2618,7 @@ msgstr "Aktuální cesta"
 
 msgctxt "Languages::text_file_editor_notice"
 msgid "You can upload and download files via <a href=\"[href]\">File Editor</a>"
-msgstr "Můžete nahrávat a stahovat soubory přes <a href=\"[href]\"> Editor souborů</a>"
+msgstr "Můžete nahrávat a stahovat soubory přes <a href=\"[href]\">Editor souborů</a>"
 
 msgctxt "Languages::current_period"
 msgid "Current Period"
@@ -2658,11 +2658,11 @@ msgstr "Zákaznické ID"
 
 msgctxt "Languages::customer_info"
 msgid "Customer information"
-msgstr "Záaznické info"
+msgstr "Informace o zákaznících"
 
 msgctxt "Languages::customer_information"
 msgid "Customer information"
-msgstr "Zákaznické informace"
+msgstr "Informace o zákaznících"
 
 msgctxt "Languages::customer_notes"
 msgid "Customer notes"
@@ -2674,7 +2674,7 @@ msgstr "Podpis zákazníka"
 
 msgctxt "Languages::customer_text_letter_footer"
 msgid "Thank you for using our shopping cart."
-msgstr "Děkujeme za Vaši objednávku."
+msgstr "Děkujeme za vaši objednávku."
 
 msgctxt "Languages::customize"
 msgid "Customize"
@@ -2694,7 +2694,7 @@ msgstr "Vlastní rozsah"
 
 msgctxt "Languages::cutted_product_codes"
 msgid "The following product codes are too long and were cut to 32 figures:"
-msgstr "Následující kódy výrobků jsou příliš dlouhé a byla zkrácena na 32 znaků:"
+msgstr "Následující kódy výrobků jsou příliš dlouhé a byly zkráceny na 32 znaků:"
 
 msgctxt "Languages::cvv2"
 msgid "CVV/CVC"
@@ -2730,11 +2730,11 @@ msgstr "Změny ve struktuře databáze"
 
 msgctxt "Languages::datatrans_caa"
 msgid "Authorization with immediate settlement"
-msgstr "Okamžitá autorizace"
+msgstr "Autorizace s okamžitým vypořádáním"
 
 msgctxt "Languages::datatrans_noa"
 msgid "Authorization only"
-msgstr "Jen autorizace"
+msgstr "Pouze autorizace"
 
 msgctxt "Languages::datatrans_sign"
 msgid "Digital signature"
@@ -2798,7 +2798,7 @@ msgstr "Odmítnuto"
 
 msgctxt "Languages::decline_selected"
 msgid "Decline selected"
-msgstr "Odmítnout vybrané"
+msgstr "Pokles vybraného"
 
 msgctxt "Languages::decorator"
 msgid "Decorator"
@@ -2839,6 +2839,10 @@ msgstr "Rodič ([default])"
 msgctxt "Languages::default_template"
 msgid "Default template"
 msgstr "Základní předloha"
+
+msgctxt "Languages::bigpicture_template"
+msgid "The big picture"
+msgstr "The big picture"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -2934,7 +2938,7 @@ msgstr "Ukázka"
 
 msgctxt "Languages::demo_mode"
 msgid "Demo mode is enabled"
-msgstr "Demo mode je povolen"
+msgstr "Demo režim je povolen"
 
 msgctxt "Languages::demo_mode_content_text"
 msgid "<p>The cart is working in the <b>DEMO</b> mode and this functionality is disabled.</p>"
@@ -2954,7 +2958,7 @@ msgstr "Přejít do obchodu"
 
 msgctxt "Languages::demo_panel.demo_will_be_reset_in"
 msgid "Demo will be reset in:"
-msgstr "Demo Store bude obnovena:"
+msgstr "Demo bude resetováno:"
 
 msgctxt "Languages::denied"
 msgid "Denied"
@@ -2978,11 +2982,11 @@ msgstr "Popis"
 
 msgctxt "Languages::descr_avs"
 msgid "AVS verification response"
-msgstr "AVS ověření opovědi"
+msgstr "AVS reakce ověření"
 
 msgctxt "Languages::descr_cvv"
 msgid "CVV2 verification response"
-msgstr "CVV2 ověření opovědi"
+msgstr "CVV2 reakce ověření"
 
 msgctxt "Languages::design"
 msgid "Design"
@@ -2990,7 +2994,7 @@ msgstr "Design"
 
 msgctxt "Languages::design_mode"
 msgid "Design mode"
-msgstr "Designový mód"
+msgstr "Návrhovém režimu"
 
 msgctxt "Languages::desired_amount"
 msgid "Desired quantity"
@@ -3078,7 +3082,7 @@ msgstr "Slevový kupon"
 
 msgctxt "Languages::discount_coupon_code"
 msgid "Discount coupon code"
-msgstr "Zadejte kód slevovéhé kuponu"
+msgstr "Zadejte kód slevového kuponu"
 
 msgctxt "Languages::dispatch"
 msgid "Dispatch"
@@ -3094,7 +3098,7 @@ msgstr "Zobrazit dolní tlačítka"
 
 msgctxt "Languages::display_delete_icons"
 msgid "Display delete icons"
-msgstr "Zobrazit ikony pro odstraňování"
+msgstr "Zobrazení smazat ikony"
 
 msgctxt "Languages::display_message"
 msgid "Display message"
@@ -3126,11 +3130,11 @@ msgstr "Hotovo"
 
 msgctxt "Languages::dont_track"
 msgid "Do not track"
-msgstr "nesledovat cestu"
+msgstr "Nesledovat cestu"
 
 msgctxt "Languages::dont_use_cardinal"
 msgid "Don't use Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
-msgstr "Don't use Cardinal Ccstinel&reg; for 3-D Secure Payer Authcstication"
+msgstr "Nepoužívat Cardinal Centinel&reg; pro 3-D Secure Payer ověření pravosti"
 
 msgctxt "Languages::dots"
 msgid "Dots"
@@ -3138,7 +3142,7 @@ msgstr "Tečky"
 
 msgctxt "Languages::down"
 msgid "Down"
-msgstr "Dole"
+msgstr "Dolů"
 
 msgctxt "Languages::download"
 msgid "Download"
@@ -3158,11 +3162,11 @@ msgstr "Stáhnout"
 
 msgctxt "Languages::downloads_max_left"
 msgid "Downloads (max./left)"
-msgstr "Stáhnout max /do leva"
+msgstr "Stáhnout (max /vlevo)"
 
 msgctxt "Languages::download_key_expiry"
 msgid "Download key expiry"
-msgstr "Stáhnout vypršení platnosti klíče"
+msgstr "Ke stažení klíče uplynutí doby platnosti"
 
 msgctxt "Languages::download_link_expired"
 msgid "The download link is expired or is not ready."
@@ -3210,11 +3214,11 @@ msgstr "Smazat všechny soubory existujících produktů před importováním"
 
 msgctxt "Languages::dump_cant_create_file"
 msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "Nelze vytvořit soubor pro výpis databáze. Zkontrolujte prosím oprávnění k adresáři \"var/database/backup\" ."
+msgstr "Nelze vytvořit soubor pro výpis databáze. Zkontrolujte, prosím, oprávnění k adresáři \"var/database/backup\" ."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
-msgstr "Soubor, který se snažíte uložit do backup databáze nelze zapsat. Zkontrolujte prosím oprávnění."
+msgstr "Soubor, který se snažíte uložit do backup databáze nelze zapsat. Zkontrolujte, prosím, oprávnění."
 
 msgctxt "Languages::duplicate"
 msgid "Duplicate transactions"
@@ -3530,7 +3534,7 @@ msgstr "Zadejte kód"
 
 msgctxt "Languages::enter_data"
 msgid "Enter data"
-msgstr "Zadat data"
+msgstr "Zadejte údaje"
 
 msgctxt "Languages::enter_email"
 msgid "Enter e-mail address"
@@ -3586,7 +3590,7 @@ msgstr "Chybné jméno"
 
 msgctxt "Languages::error_account_disabled"
 msgid "Your account is disabled. Please contact the store administration."
-msgstr "Váš účet nebyl povolen. Prosím kontaktujte adminstrátora obchodu."
+msgstr "Váš účet nebyl povolen. Prosím, kontaktujte adminstrátora obchodu."
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this company manually."
@@ -3594,7 +3598,7 @@ msgstr "Účet správce nebyl vytvořen. Tato e-mailová adresa je používána 
 
 msgctxt "Languages::error_ajax"
 msgid "Oops, something went wrong ([error]). Please try again."
-msgstr "Pozor, někde se stala chyba ([error]). Prosím zkuste to znovu."
+msgstr "Pozor, někde se stala chyba ([error]). Prosím, zkuste to znovu."
 
 msgctxt "Languages::error_area_access_denied"
 msgid "You are not allowed to login to this area."
@@ -3602,15 +3606,15 @@ msgstr "Přístup byl odepřen."
 
 msgctxt "Languages::error_confirmation_code_invalid"
 msgid "Incorrect or missing confirmation code."
-msgstr "Opravte prosím uvedenou chybu a akci zopakujte."
+msgstr "Opravte, prosím, uvedenou chybu a akci zopakujte."
 
 msgctxt "Languages::error_curl_not_exists"
 msgid "<b>Warning!</b><br />Your server <b>does not</b> support the PHP cURL extension. <b>[method]</b> will not be operational. Please contact your hosting provider."
-msgstr "<b>Upozornění!</b><br />PHP CURL rozšíření <b>není</b> podporováno vaším serverem. <b>[method]</b> nebude v provozu. Kontaktujte prosím Vašeho hosting providera."
+msgstr "<b>Upozornění!</b><br />PHP CURL rozšíření <b>není</b> podporováno vaším serverem. <b>[method]</b> nebude v provozu. Kontaktujte, prosím, vašeho poskytovatele hostingu."
 
 msgctxt "Languages::error_curl_ssl_not_exists"
 msgid "<b>Warning!</b><br />The PHP cURL extension is compiled <b>without</b> SSL support on your server. <b>[method]</b> will not be operational. Please contact your hosting provider."
-msgstr "<b>Upozornění!</b><br />PHP CURL sestavené rozšíření je <b>bez</b> SSL podpory na vašem serveru. <b>[method]</b> nebude v provozu. Kontaktujte prosím vašeho hosting providera."
+msgstr "<b>Upozornění!</b><br />PHP CURL sestavené rozšíření je <b>bez</b> SSL podpory na vašem serveru. <b>[method]</b> nebude v provozu. Kontaktujte, prosím, vašeho poskytovatele hostingu."
 
 msgctxt "Languages::error_currency_exists"
 msgid "Currency with code <b>[code]</b> already exists"
@@ -3626,7 +3630,7 @@ msgstr "Layout, který používá toto téma je nastaven jako výchozí. Prosím
 
 msgctxt "Languages::error_demo_mode"
 msgid "The cart is working in the <b>DEMO</b> mode and this functionality is disabled."
-msgstr "Obchod pracuje v demo módu <b>DEMO</b>a tytzto funkce jsou zakázány."
+msgstr "Obchod pracuje v demo módu <b>DEMO</b> a tyto funkce jsou zakázány."
 
 msgctxt "Languages::error_empty_company_name"
 msgid "Company name cannot be empty"
@@ -3634,7 +3638,7 @@ msgstr "Název společnosti nesmí být prázdný"
 
 msgctxt "Languages::error_exim_cant_open_file"
 msgid "Cannot open uploaded file"
-msgstr "Nemohu otevřít stažený soubor"
+msgstr "Nelze otevřít nahraný soubor"
 
 msgctxt "Languages::error_exim_cant_read_file"
 msgid "Cannot read uploaded file"
@@ -3658,7 +3662,7 @@ msgstr "Separator v souboru CSV není ten, který jste si vybral"
 
 msgctxt "Languages::error_exim_invalid_count_langs"
 msgid "Multi-language line count mismatch: different number of lines for different languages provided."
-msgstr "Mnohojajazykový počet řádků neshoda: různý počet řádků poskytovaný pro různé jazyky."
+msgstr "Mnohojazykový počet řádků neshoda: různý počet řádků poskytovaný pro různé jazyky."
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
@@ -3750,19 +3754,19 @@ msgstr "Heslo musí obsahovat písmena a číslice."
 
 msgctxt "Languages::error_password_expired"
 msgid "Your password has expired. You must change your password now."
-msgstr "Vaše  heslo již vypršelo. Musíte  změnit  své  heslo."
+msgstr "Vaše heslo již vypršelo. Musíte změnit své heslo."
 
 msgctxt "Languages::error_password_expired_change"
 msgid "Your password has expired. <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
-msgstr "Platnost Vašeho hesla vypršela. <p><a href=\"[link]\" class=\"underlined\"><b>Změnit heslo &#155;&#155;</b></a></p>"
+msgstr "Platnost vašeho hesla vypršela.<p><a href=\"[link]\" class=\"underlined\"><b>Změnit heslo &#155;&#155;</b></a></p>"
 
 msgctxt "Languages::error_password_min_symbols"
 msgid "The password must contain at least <b>[number]</b> characters."
-msgstr "Heslo musí obsahovat  alespoň  <b>  [číslo] </ b>."
+msgstr "Heslo musí obsahovat alespoň <b>[number]</b> znaků."
 
 msgctxt "Languages::error_password_was_used"
 msgid "Your new password must not coincide with any of those four passwords used before. Please use another password."
-msgstr "Vaše nové heslo  se nesmí shodovat s žádným z těchto čtyř hesel používaných dříve. Použijte prosím jiné heslo."
+msgstr "Vaše nové heslo se nesmí shodovat s žádným z těchto čtyř hesel používaných dříve. Použijte, prosím, jiné heslo."
 
 msgctxt "Languages::error_permissions_not_changed"
 msgid "Cannot change permissions"
@@ -3770,7 +3774,7 @@ msgstr "Nelze změnit oprávnění"
 
 msgctxt "Languages::error_status_not_changed"
 msgid "Error while updating the status. Status was not changed."
-msgstr "Při updatu statusu došlo k chybě. Status nebyl změněn"
+msgstr "Při updatu statusu došlo k chybě. Status nebyl změněn."
 
 msgctxt "Languages::error_theme_manifest_missed"
 msgid "Theme description file (\"manifest\") was not found. Installation canceled."
@@ -3786,7 +3790,7 @@ msgstr "Kód barvy v poli <b>[field]</b> je neplatný."
 
 msgctxt "Languages::error_validator_email"
 msgid "The email address in the <b>[field]</b> field is invalid."
-msgstr "E-mailová adresa  <b>[field]</b> není platná."
+msgstr "E-mailová adresa <b>[field]</b> není platná."
 
 msgctxt "Languages::error_validator_integer"
 msgid "The value of the <b>[field]</b> field is invalid. It should be integer."
@@ -3798,11 +3802,11 @@ msgstr "Hodnota tohoto <b>[field]</b> pole je neplatná."
 
 msgctxt "Languages::error_validator_multiple"
 msgid "The <b>[field]</b> field does not contain the selected options."
-msgstr "Pro toto pole<b>[field]</b> nebyly vybrány volby"
+msgstr "Pro toto pole <b>[field]</b> nebyly vybrány volby."
 
 msgctxt "Languages::error_validator_password"
 msgid "The passwords in the <b>[field2]</b> and <b>[field]</b> fields do not match."
-msgstr "Heslo v polích <b>[field2]</b> a<b>[field1]</b> se neshodují"
+msgstr "Heslo v polích <b>[field2]</b> a <b>[field]</b> se neshodují."
 
 msgctxt "Languages::error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555."
@@ -3810,11 +3814,11 @@ msgstr "Pole <b>[field]</b> je neplatné. Správný formát je 00420 606 666 neb
 
 msgctxt "Languages::error_validator_phone_number"
 msgid "It is required to use the following format for this payment method: 555 555 5555."
-msgstr "It is required to use the following format for this paymcst method: 555 555 5555."
+msgstr "To je nutné použít následující formát pro tento způsob platby: 555 555 5555."
 
 msgctxt "Languages::error_validator_required"
 msgid "The <b>[field]</b> field is mandatory."
-msgstr "Pole <b>[field] </b> nesmí být prázdné."
+msgstr "Pole <b>[field]</b> nesmí být prázdné."
 
 msgctxt "Languages::error_validator_zipcode"
 msgid "The ZIP / Postal code in the <b>[field]</b> field is incorrect. The correct format is [extra]."
@@ -3830,7 +3834,7 @@ msgstr "CVV/CVC je příliš krátký."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
-msgstr "Přesný výraz"
+msgstr "Přesná fráze"
 
 msgctxt "Languages::excellent"
 msgid "Excellent!"
@@ -3854,7 +3858,7 @@ msgstr "Nemůže být vybrána žádná varianta"
 
 msgctxt "Languages::exception_disregard"
 msgid "Any variant"
-msgstr "žádná varianta"
+msgstr "Žádná varianta"
 
 msgctxt "Languages::exception_error"
 msgid "ERROR"
@@ -3898,7 +3902,7 @@ msgstr "Rozšířený"
 
 msgctxt "Languages::expand_collapse_list"
 msgid "Expand / collapse the list of items"
-msgstr "Rozšířit/ stáhnout seznam položek"
+msgstr "Rozbalit / sbalit seznam položek"
 
 msgctxt "Languages::expand_sublist_of_items"
 msgid "Expand the sublist of items"
@@ -3978,11 +3982,11 @@ msgstr "Neúspěšný"
 
 msgctxt "Languages::fair"
 msgid "Fair"
-msgstr "Podprůměrný!"
+msgstr "Podprůměrný"
 
 msgctxt "Languages::false"
 msgid "False"
-msgstr "nepravdivé"
+msgstr "Nepravdivé"
 
 msgctxt "Languages::faroese"
 msgid "Faroese"
@@ -4090,7 +4094,7 @@ msgstr "Tento soubor nemá klíč ke stažení."
 
 msgctxt "Languages::file_download_limit_exceeded"
 msgid "The file cannot be downloaded because the download limit equal to [limit] is exceeded."
-msgstr "Tento soubor nemůže být stažen ,protože vypršel limit [limit] pro jeho stažení."
+msgstr "Tento soubor nemůže být stažen, protože vypršel limit [limit] pro jeho stažení."
 
 msgctxt "Languages::file_is_too_large"
 msgid "File is too large. Max uploading size is [size]."
@@ -4222,7 +4226,7 @@ msgstr "Zdarma"
 
 msgctxt "Languages::free_products"
 msgid "Free products"
-msgstr "Můžete použít certifikát na dané produkty"
+msgstr "Bezplatné produkty"
 
 msgctxt "Languages::free_shipping"
 msgid "Free shipping"
@@ -4370,7 +4374,7 @@ msgstr "Odstranit téma"
 
 msgctxt "Languages::go_back"
 msgid "Go back"
-msgstr "Jít zpět"
+msgstr "Vrátit se"
 
 msgctxt "Languages::go_to_the_admin_homepage"
 msgid "Go to the admin homepage"
@@ -4382,7 +4386,7 @@ msgstr "Jít na hlavní stránku"
 
 msgctxt "Languages::grams_in_the_unit_of_weight"
 msgid "Grams in the unit of weight defined by the weight symbol"
-msgstr "Váhová jednotka gramu je definována  váhovým symbolem"
+msgstr "Váhová jednotka gramu je definována váhovým symbolem"
 
 msgctxt "Languages::graphic"
 msgid "Graphic"
@@ -4474,7 +4478,7 @@ msgstr "Schovat možosti"
 
 msgctxt "Languages::hide_option_completely"
 msgid "Hide option completely"
-msgstr "Schovat úplně možnosti"
+msgstr "Skrýt možnost zcela"
 
 msgctxt "Languages::home"
 msgid "Home"
@@ -4514,7 +4518,7 @@ msgstr "Maďarština"
 
 msgctxt "Languages::I25"
 msgid "Interleaved 2 of 5 is based on Standard 2 of 5 symbology.<br/>Interleaved 2 of 5 is designed to encode only 10 digits."
-msgstr "Prokládání 2 z 5 je založen na standardní 2 z 5 symbolice.<br/>"
+msgstr "Prokládání 2 z 5 je založeno na standardní 2 z 5 symbolice.<br/>Interleaved 2 z 5 je navrženo tak, aby kódovalo jen 10 číslic."
 
 msgctxt "Languages::icon"
 msgid "Icon"
@@ -4522,7 +4526,7 @@ msgstr "Ikona"
 
 msgctxt "Languages::id"
 msgid "ID"
-msgstr "číslo"
+msgstr "ID"
 
 msgctxt "Languages::identifier"
 msgid "PayBox identifier"
@@ -4626,7 +4630,7 @@ msgstr "Nesprávně vyplněné hlášení"
 
 msgctxt "Languages::incorrect_price_warning"
 msgid "Product has not been added to the cart. Please enter the correct price."
-msgstr "Produkt nebyl přidán do košíku.Vložte prosím správnou cenu."
+msgstr "Produkt nebyl přidán do košíku.Vložte, prosím, správnou cenu."
 
 msgctxt "Languages::increase"
 msgid "Increase"
@@ -4634,7 +4638,7 @@ msgstr "Navýšit"
 
 msgctxt "Languages::inc_tax"
 msgid "inc tax"
-msgstr "včt.DPH"
+msgstr "včt. DPH"
 
 msgctxt "Languages::index"
 msgid "Home page"
@@ -4646,11 +4650,11 @@ msgstr "Důležité informace"
 
 msgctxt "Languages::inner_hint"
 msgid "Inner hint"
-msgstr "vnitřní nápověda"
+msgstr "Vnitřní nápověda"
 
 msgctxt "Languages::input_field"
 msgid "Input field"
-msgstr "Vložit pole"
+msgstr "Vstupní pole"
 
 msgctxt "Languages::insert_block"
 msgid "Add block"
@@ -4678,11 +4682,11 @@ msgstr "Nainstalované"
 
 msgctxt "Languages::installed_upgrades"
 msgid "Installed upgrades"
-msgstr "Upgrade instalován"
+msgstr "Nainstalované aktualizace"
 
 msgctxt "Languages::welcome_screen.administrator_info"
 msgid "To access the administrator area, use the e-mail (<b>[email]</b>) and the password you have entered earlier."
-msgstr "Pro přístup k administračním panelu, použijte e-mail (<b>[email]</b>) a dříve zadané heslo."
+msgstr "Pro přístup k administračním panelu použijte e-mail (<b>[email]</b>) a dříve zadané heslo."
 
 msgctxt "Languages::welcome_screen.go_admin_panel"
 msgid "Go to the administration panel"
@@ -4734,7 +4738,7 @@ msgstr "Pozvaní"
 
 msgctxt "Languages::invoice"
 msgid "Invoice"
-msgstr "OBJEDNÁVKA"
+msgstr "Faktura"
 
 msgctxt "Languages::invoices"
 msgid "Invoices"
@@ -4750,7 +4754,7 @@ msgstr "ID Faktury"
 
 msgctxt "Languages::invoice_title"
 msgid "INVOICE"
-msgstr "Objednávka"
+msgstr "FAKTÚRA"
 
 msgctxt "Languages::in_progress"
 msgid "In progress"
@@ -4782,7 +4786,7 @@ msgstr "je opět skladem!"
 
 msgctxt "Languages::is_pbp"
 msgid "Allow payment by points"
-msgstr "Povolit placení body"
+msgstr "Povolit platbu body"
 
 msgctxt "Languages::italian"
 msgid "Italian"
@@ -4798,7 +4802,7 @@ msgstr "Cena v závislosti na počtu objednaných produktů"
 
 msgctxt "Languages::items_in_box"
 msgid "Items in a box"
-msgstr "Položky v poli"
+msgstr "Položky ve schránce"
 
 msgctxt "Languages::items_in_cart"
 msgid "You have [n] item in your cart|You have [n] items in your cart"
@@ -4878,7 +4882,7 @@ msgstr "Barva textu popisku"
 
 msgctxt "Languages::landing_header"
 msgid "Your order has been received"
-msgstr "Objednávka - dokončení"
+msgstr "Vaše objednávka byla přijata"
 
 msgctxt "Languages::language"
 msgid "Language"
@@ -4898,7 +4902,7 @@ msgstr "Kód jazyka"
 
 msgctxt "Languages::language_variable"
 msgid "Language variable"
-msgstr "nastavení jazyka"
+msgstr "Nastavení jazyka"
 
 msgctxt "Languages::language_variables"
 msgid "Language variables"
@@ -4910,7 +4914,7 @@ msgstr "Poslední 4 číslice číslo sociálního zabezpečení"
 
 msgctxt "Languages::last_24hours"
 msgid "Last 24 hours"
-msgstr "Poslední den"
+msgstr "Za posledních 24 hodin"
 
 msgctxt "Languages::last_days"
 msgid "Last days"
@@ -4934,15 +4938,15 @@ msgstr "Poslední objednávka"
 
 msgctxt "Languages::latitude"
 msgid "Latitude"
-msgstr "Šířka"
+msgstr "Zeměpisná šířka"
 
 msgctxt "Languages::layout"
 msgid "Layout"
-msgstr "Platba"
+msgstr "Dispozice"
 
 msgctxt "Languages::layouts"
 msgid "Layouts"
-msgstr "Rozložení"
+msgstr "Rozvržení"
 
 msgctxt "Languages::lbl_amazon_aws_access_public_key"
 msgid "AWS access public key"
@@ -4982,7 +4986,7 @@ msgstr "Oranžová"
 
 msgctxt "Languages::lbl_amazon_color_tan"
 msgid "Tan"
-msgstr "žlutohnědé"
+msgstr "Žlutohnědá barva"
 
 msgctxt "Languages::lbl_amazon_color_white"
 msgid "White"
@@ -5042,7 +5046,7 @@ msgstr "Licenční číslo nemůže být prázdné"
 
 msgctxt "Languages::limit"
 msgid "Limit"
-msgstr "Max.počet prvků"
+msgstr "Max. počet prvků"
 
 msgctxt "Languages::line"
 msgid "Line"
@@ -5050,7 +5054,7 @@ msgstr "Řádka"
 
 msgctxt "Languages::linear"
 msgid "Linear"
-msgstr "Čárový"
+msgstr "Přímočarý"
 
 msgctxt "Languages::link"
 msgid "Link"
@@ -5114,7 +5118,7 @@ msgstr "Seznam bez možnosti"
 
 msgctxt "Languages::live"
 msgid "Live"
-msgstr "Činný"
+msgstr "Živý"
 
 msgctxt "Languages::live_preview"
 msgid "Live preview"
@@ -5122,7 +5126,7 @@ msgstr "Živý náhled"
 
 msgctxt "Languages::loading"
 msgid "Loading..."
-msgstr "Zpracovávám ..."
+msgstr "Zpracovávám..."
 
 msgctxt "Languages::local"
 msgid "Local"
@@ -5154,7 +5158,7 @@ msgstr "Správa souboru lokalit, které jsou použity ve vašem obchodě."
 
 msgctxt "Languages::loggedin_time"
 msgid "Logged in time"
-msgstr "Přihlášen v čas"
+msgstr "Přihlášen v čase"
 
 msgctxt "Languages::logging"
 msgid "Logging"
@@ -5198,7 +5202,7 @@ msgstr "chyba"
 
 msgctxt "Languages::log_action_failed_login"
 msgid "failed login"
-msgstr "Neúspěšné přihlášení"
+msgstr "neúspěšné přihlášení"
 
 msgctxt "Languages::log_action_http"
 msgid "http/https request"
@@ -5246,7 +5250,7 @@ msgstr "Databaze"
 
 msgctxt "Languages::log_type_general"
 msgid "general"
-msgstr "Obecné"
+msgstr "obecné"
 
 msgctxt "Languages::log_type_orders"
 msgid "Orders"
@@ -5266,11 +5270,11 @@ msgstr "Uživatelé"
 
 msgctxt "Languages::longitude"
 msgid "Longitude"
-msgstr "Délka"
+msgstr "Zeměpisná délka"
 
 msgctxt "Languages::low_stock_subj"
 msgid "Low inventory of \"[product]\""
-msgstr "Nízké zásoby na skladě pro"
+msgstr "Nízké zásoby na skladě pro \"[product]\""
 
 msgctxt "Languages::mac_key"
 msgid "Mac key"
@@ -5278,11 +5282,11 @@ msgstr "Mac klíč"
 
 msgctxt "Languages::mailing_lists"
 msgid "Mailing lists"
-msgstr "Seznamy adres"
+msgstr "Poštovní seznamy"
 
 msgctxt "Languages::mail_message"
 msgid "Mail message"
-msgstr "Emailová zpráva"
+msgstr "Mailové zprávy"
 
 msgctxt "Languages::mail_subject"
 msgid "Mail subject"
@@ -5330,7 +5334,7 @@ msgstr "Správce bloků"
 
 msgctxt "Languages::manage_categories"
 msgid "Manage categories"
-msgstr "Správce kategorií"
+msgstr "Správa kategorií"
 
 msgctxt "Languages::manage_existing_block"
 msgid "Edit Existing Blocks"
@@ -5358,7 +5362,7 @@ msgstr "Správce produktů"
 
 msgctxt "Languages::manage_reports"
 msgid "Manage reports"
-msgstr "Reporty"
+msgstr "Správa zpráv"
 
 msgctxt "Languages::manage_shippings"
 msgid "Shipping methods"
@@ -5366,7 +5370,7 @@ msgstr "Způsob odběru zboží"
 
 msgctxt "Languages::manage_sitemap"
 msgid "Manage sitemap"
-msgstr "nastavení mapy webu"
+msgstr "Nastavení mapy webu"
 
 msgctxt "Languages::manage_stores"
 msgid "Manage stores"
@@ -5414,7 +5418,7 @@ msgstr "Počet položek"
 
 msgctxt "Languages::max_order_qty"
 msgid "Maximum order quantity"
-msgstr "Maximální počet objednávky"
+msgstr "Maximální počet objednávek"
 
 msgctxt "Languages::max_uploading_file_size"
 msgid "Max uploading file size"
@@ -5498,7 +5502,7 @@ msgstr "PIN velkoobchodníka"
 
 msgctxt "Languages::merchant_response_was_not_received"
 msgid "No response from the merchant received. Please check this transaction manually."
-msgstr "Odpověď od obchodníka nebyla přijata.Zkontrolujte prosím tuto transakci ručně."
+msgstr "Odpověď od obchodníka nebyla přijata. Zkontrolujte, prosím, tuto transakci ručně."
 
 msgctxt "Languages::merchant_site_id"
 msgid "Merchant site ID"
@@ -5554,11 +5558,11 @@ msgstr "minut(m)"
 
 msgctxt "Languages::min_order_qty"
 msgid "Minimum order quantity"
-msgstr "Minimální počet objednávky"
+msgstr "Minimální množství pro objednávku"
 
 msgctxt "Languages::missing_variants_handling"
 msgid "Missing variants handling"
-msgstr "Chybějící varianty"
+msgstr "Chybějící varianty manipulace"
 
 msgctxt "Languages::modifier"
 msgid "Modifier"
@@ -5690,7 +5694,7 @@ msgstr "[více]"
 
 msgctxt "Languages::more_sign_in_options"
 msgid "Back to more sign in options"
-msgstr "Zpátky do voleb více značek"
+msgstr "Zpět na větší znamení v možnostech"
 
 msgctxt "Languages::more_than"
 msgid "More than"
@@ -5874,7 +5878,7 @@ msgstr "Nová výplata"
 
 msgctxt "Languages::new_post"
 msgid "New post"
-msgstr "Nová pošta"
+msgstr "Nový příspěvek"
 
 msgctxt "Languages::new_product"
 msgid "New product"
@@ -5910,7 +5914,7 @@ msgstr "Nová sekce"
 
 msgctxt "Languages::new_shipment"
 msgid "New shipment"
-msgstr "Obsah balení"
+msgstr "Nová zásilka"
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -5918,7 +5922,7 @@ msgstr "Nová zásilka byla vytvořena"
 
 msgctxt "Languages::new_shipping_method"
 msgid "New shipping method"
-msgstr "Nová dopravní metoda"
+msgstr "Nový způsob dopravy"
 
 msgctxt "Languages::new_site_map_section"
 msgid "New sitemap section"
@@ -5930,7 +5934,7 @@ msgstr "Nové stát(y) pro vybrané země"
 
 msgctxt "Languages::new_status"
 msgid "New status"
-msgstr "Nový stav"
+msgstr "Nový status"
 
 msgctxt "Languages::new_tab"
 msgid "New tab"
@@ -5970,7 +5974,7 @@ msgstr "Ne"
 
 msgctxt "Languages::nocombination"
 msgid "Unfortunately this combination is not accessible"
-msgstr "Bohužel tato kombinace není přístupná"
+msgstr "Bohužel, tato kombinace není přístupná"
 
 msgctxt "Languages::none"
 msgid "None"
@@ -6002,11 +6006,11 @@ msgstr "Zpráva"
 
 msgctxt "Languages::notice_too_many_decimals"
 msgid "You have specified [DECIMALS] decimal places for [CURRENCY]. The maximum number of supported decimal places is 2. Further values will be displayed as zeros."
-msgstr "You have specified [DECIMALS] decimal places for [CURRcsCY]. The maximum number of supported decimal places is 2. Further values will be displayed as zeros."
+msgstr "Zadali jste [DECIMALS] desetinných míst pro [CURRENCY]. Maximální počet podporovaných desetinných míst je 2. Další hodnoty se zobrazí jako nuly."
 
 msgctxt "Languages::notice_undeliverable_products_removed"
 msgid "Undeliverable products have been removed from your cart. You may proceed with the purchase."
-msgstr "Undeliverable products have becs removed from your cart. You may proceed with the purchase."
+msgstr "Nedoručitelné výrobky byly odebrány z nákupního košíku. Můžete pokračovat v nákupu."
 
 msgctxt "Languages::notice_update_customer_details"
 msgid "The customer updated the email address in the profile. Select the check box to update the order details:"
@@ -6102,15 +6106,15 @@ msgstr "Není požadována doprava"
 
 msgctxt "Languages::no_such_coupon"
 msgid "The entered code cannot be applied, because it does not meet the requirements."
-msgstr "Neexistuje takový slevový kupon. <br /> Zkuste prosím znovu."
+msgstr "Zadaný kód nelze použít, protože nesplňuje požadavky."
 
 msgctxt "Languages::no_themes_available"
 msgid "No themes available"
-msgstr "Žádné šablonyk dispozici"
+msgstr "Žádné šablony k dispozici"
 
 msgctxt "Languages::no_users_found"
 msgid "No users found"
-msgstr "Žádní uživatelé nebyli nalezeni."
+msgstr "Žádní uživatelé nebyli nalezeni"
 
 msgctxt "Languages::number"
 msgid "Number"
@@ -6130,7 +6134,7 @@ msgstr "Objekt neexistuje"
 
 msgctxt "Languages::object_exists"
 msgid "Object of the same name already exists. Do you want to overwrite it?"
-msgstr "Objekt se stejným jménem již existuje.Přejete si jej přepsat?"
+msgstr "Objekt se stejným jménem již existuje. Přejete si jej přepsat?"
 
 msgctxt "Languages::object_not_found"
 msgid "The [object] not found"
@@ -6138,7 +6142,7 @@ msgstr "[object] nebyl nalezen"
 
 msgctxt "Languages::of"
 msgid "of"
-msgstr "z"
+msgstr "na"
 
 msgctxt "Languages::off"
 msgid "Off"
@@ -6154,7 +6158,7 @@ msgstr "Posun"
 
 msgctxt "Languages::ok"
 msgid "OK"
-msgstr "Ok"
+msgstr "OK"
 
 msgctxt "Languages::old_price"
 msgid "Old price"
@@ -6178,7 +6182,7 @@ msgstr "Jenom online"
 
 msgctxt "Languages::on_off"
 msgid "On/Off"
-msgstr "Zapnuto/vypnuto"
+msgstr "Zapnuto/Vypnuto"
 
 msgctxt "Languages::on_site_template_editing"
 msgid "On-site template editing"
@@ -6222,7 +6226,7 @@ msgstr "Volby"
 
 msgctxt "Languages::options_for"
 msgid "Options for"
-msgstr "nastavení pro"
+msgstr "Nastavení pro"
 
 msgctxt "Languages::options_have_been_applied_to_products"
 msgid "Options have been successfully applied to the selected products"
@@ -6234,7 +6238,7 @@ msgstr "Zobrazit, přidat nebo upravit globální nastavení produktů a jejich 
 
 msgctxt "Languages::options_settings"
 msgid "Options settings"
-msgstr "nastavení možností"
+msgstr "Nastavení možností"
 
 msgctxt "Languages::options_type"
 msgid "Options type"
@@ -6246,7 +6250,7 @@ msgstr "Kombinace voleb"
 
 msgctxt "Languages::option_name"
 msgid "Option name"
-msgstr "Nazev volby"
+msgstr "Název volby"
 
 msgctxt "Languages::option_unlinked"
 msgid "Global option \"[option_name]\" has been deactivated for the product"
@@ -6334,7 +6338,7 @@ msgstr "Správa objednávek"
 
 msgctxt "Languages::order_placed"
 msgid "Order placed"
-msgstr "Objednávka odeslána"
+msgstr "Objednávka"
 
 msgctxt "Languages::order_prefix"
 msgid "Order prefix"
@@ -6398,11 +6402,11 @@ msgstr "Výstup"
 
 msgctxt "Languages::out_of_stock_actions"
 msgid "Out of stock actions"
-msgstr "Out of stock actions"
+msgstr "Vyprodaná akce"
 
 msgctxt "Languages::out_of_stock_products"
 msgid "Out of stock"
-msgstr "Není skladem"
+msgstr "Vyprodáno"
 
 msgctxt "Languages::override_by_dispatch"
 msgid "Override locations by dispatch"
@@ -6426,7 +6430,7 @@ msgstr "Prosím, napište \"Souhlasím\" nebo \"Nesouhlasím\" v příslušném 
 
 msgctxt "Languages::p21agree_tooltip"
 msgid "By typing AGREE in the below box I am providing my signature as authorization to Payment21&reg; to electronically debit my account for the amount I have entered. I also understand and expressly authorize the merchant, if my eCheck payment is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck payment plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this payment transaction."
-msgstr "By typing AGREE in the below box I am providing my signature as authorization to Paymcst21&reg; to electronically debit my account for the amount I have cstered. I also understand and expressly authorize the merchant, if my eCheck paymcst is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck paymcst plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this paymcst transaction."
+msgstr "Zadáním souhlasu v boxu dole poskytujem můj podpis jako povolení Payment21&reg; na elektronicky debetní účet za sumu kterou jsem zadal. Také pochopili a výslovně povoluji obchodníkovi, zda moje eCheck platby je zneuctili vrátil z jakéhokoli důvodu, elektronicky debetní mé úvahy eCheck platby plus poplatek NSF nepřesahuje státu maximální zákonný limit. Budou vytisknout nebo uložit tuto stránku pro mé záznamy. Mohu zavolat 1-888-770-0850 24/7 podporu s případnými dotazy týkající se této platební transakce."
 
 msgctxt "Languages::package"
 msgid "Package"
@@ -6462,7 +6466,7 @@ msgstr "Stránky"
 
 msgctxt "Languages::page_cloned"
 msgid "The page <b>[page]</b> has been cloned successfully. Now you can edit the new page"
-msgstr "Tato stránka  <b>[page]</b> byla uspěšně naklonována.Nyní můžete novou stránku editovoat"
+msgstr "Tato stránka  <b>[page]</b> byla uspěšně naklonována. Nyní můžete novou stránku editovoat"
 
 msgctxt "Languages::page_id"
 msgid "Page ID"
@@ -6530,7 +6534,7 @@ msgstr "Společník"
 
 msgctxt "Languages::passphrase"
 msgid "Pass-phrase"
-msgstr "návrh-výraz"
+msgstr "Přístupové heslo"
 
 msgctxt "Languages::passport_number"
 msgid "Passport number"
@@ -6546,7 +6550,7 @@ msgstr "Plná cesta k souborům \"atos\""
 
 msgctxt "Languages::pause_delay"
 msgid "Pause delay (in seconds)"
-msgstr "Zpoždění pauzy"
+msgstr "Pausa zpoždění (v sekundách)"
 
 msgctxt "Languages::payflowcolor"
 msgid "Payflow color"
@@ -6634,7 +6638,7 @@ msgstr "Platební kategorie"
 
 msgctxt "Languages::payment_category_note"
 msgid "Payment categories tabs will NOT be displayed if all the active payments belong to the same category"
-msgstr "Platební karty kategorie se nezobrazí pokud všechny aktivní platby spadají do stejné kategorie"
+msgstr "Platební kategorie Karty se nezobrazí, pokud jsou všechny aktivní platby spadají do stejné kategorie"
 
 msgctxt "Languages::payment_details"
 msgid "Payment details"
@@ -6782,7 +6786,7 @@ msgstr "Prosím, zadejte zde číslo licence"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
-msgstr "Prosím jednu vyberte"
+msgstr "Prosím, zvolte jednu z možností"
 
 msgctxt "Languages::please_sign_in"
 msgid "Please sign in"
@@ -6794,11 +6798,11 @@ msgstr "Polština"
 
 msgctxt "Languages::poor"
 msgid "Poor"
-msgstr "Špatný!"
+msgstr "Špatný"
 
 msgctxt "Languages::popularity"
 msgid "Popularity"
-msgstr "oblíbenosti"
+msgstr "Oblíbenost"
 
 msgctxt "Languages::popup"
 msgid "Popup"
@@ -6898,7 +6902,7 @@ msgstr "Předchozí"
 
 msgctxt "Languages::price"
 msgid "Price"
-msgstr "cena"
+msgstr "Cena"
 
 msgctxt "Languages::price_decreased"
 msgid "Price has been decreased by"
@@ -6990,11 +6994,11 @@ msgstr "Nastavení soukromých zákazníků"
 
 msgctxt "Languages::privilege"
 msgid "Privilege"
-msgstr "Právo"
+msgstr "Výsada"
 
 msgctxt "Languages::privileges"
 msgid "Privileges"
-msgstr "Práva"
+msgstr "Výsady"
 
 msgctxt "Languages::privileges.change_order_status"
 msgid "Change order status"
@@ -7254,7 +7258,7 @@ msgstr "Obchodné účty poskytované Cardsaveom, <a href=\"http://www.cardsave.
 
 msgctxt "Languages::processor_description_p21"
 msgid "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
-msgstr "<b>P21 Simple API</b> csables you to accept check paymcsts. It offers the industry's most comprehcssive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@paymcst21.com\">support@paymcst21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.paymcst21.com\" target=\"_blank\">www.paymcst21.com</a>"
+msgstr "<b>P21 jednoduchého API</b> umožňuje akceptovat plateb šekem. Nabízí průmysl nejvíce komplexní sadu kontrola obrazu tvorby a zúčtování řešení. S 21 Podívejte se dostanete vaše finanční prostředky ve stejný den šekem nebo přímý vklad.<br/><br/>Chcete-li aktivovat možnost zkontrolovat 21, prosím, kontaktujte nás mailem na: <a href=\"mailto:support@payment21.com\"> support@payment21.com</a> nebo telefonicky na: 1 -888-770-0850 (US Toll Free) nebo 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\"> www.payment21.com</a>"
 
 msgctxt "Languages::processor_id"
 msgid "Processor ID"
@@ -7298,7 +7302,7 @@ msgstr "Pro dodávky nebyly vybrány výrobky"
 
 msgctxt "Languages::products_found"
 msgid "Products found"
-msgstr "Produkty nalezeny"
+msgstr "Nalezené produkty"
 
 msgctxt "Languages::products_grid"
 msgid "Products grid"
@@ -7322,7 +7326,7 @@ msgstr "Zobrazit, přidávat a upravovat produkty, které jsou zobrazeny pro ná
 
 msgctxt "Languages::products_required"
 msgid "Please add product(s)"
-msgstr "Prosím přidejte produkt (y)"
+msgstr "Prosím, přidejte produkt (y)"
 
 msgctxt "Languages::products_stat"
 msgid "Product statistics"
@@ -7334,7 +7338,7 @@ msgstr "Váha produktů"
 
 msgctxt "Languages::products_were_sent"
 msgid "The products have been sent out to you. The order information is given below"
-msgstr "Tyto výrobky byly zaslány na Vaši adresu. Informace o objednání tady dole"
+msgstr "Tyto výrobky byly zaslány na vaši adresu. Informace o pořadí je uvedeno níže"
 
 msgctxt "Languages::product_added_to_cart"
 msgid "The product was added to your cart"
@@ -7346,7 +7350,7 @@ msgstr "Produkt byl přidán do listu porovnání"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
-msgstr "Produkt nemuže být přidán do košíku.Překontrolujte, jestli jsou splněny všechny podmnky pro uploadované soubory."
+msgstr "Produkt nemuže být přidán do košíku. Překontrolujte, jestli jsou splněny všechny podmnky pro uploadované soubory"
 
 msgctxt "Languages::product_code"
 msgid "Product code"
@@ -7362,7 +7366,7 @@ msgstr "Kombinace produktů"
 
 msgctxt "Languages::product_coming_soon"
 msgid "This product can't be added to cart now. It will be available on [avail_date]"
-msgstr "Tento produkt nemůže být nyní přidán do košíku.Bude to možné [avail_date]"
+msgstr "Tento produkt nemůže být nyní přidán do košíku. Bude to možné [avail_date]"
 
 msgctxt "Languages::product_coming_soon_add"
 msgid "This product will be shipped on [avail_date]"
@@ -7418,15 +7422,15 @@ msgstr "Název produktu"
 
 msgctxt "Languages::product_notification_subscribed"
 msgid "You have been subscribed to the product in stock notifications"
-msgstr "You have becs subscribed to the product in stock notifications"
+msgstr "Byli jste přihlášeni k odběru produktu oznámeních na skladě"
 
 msgctxt "Languages::product_notification_unsubscribed"
 msgid "You have been unsubscribed from the product in stock notifications"
-msgstr "You have becs unsubscribed from the product in stock notifications"
+msgstr "Byli jste odhlásili z výrobku oznámeních na skladě"
 
 msgctxt "Languages::product_options"
 msgid "Product options"
-msgstr "nastavení produktu"
+msgstr "Nastavení produktu"
 
 msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
@@ -7446,15 +7450,15 @@ msgstr "Předplatné produktu"
 
 msgctxt "Languages::product_summary"
 msgid "Product summary"
-msgstr "Shrnutí produktu"
+msgstr "Přehled produktů"
 
 msgctxt "Languages::product_tabs"
 msgid "Product tabs"
-msgstr "Tabulky produktu"
+msgstr "Tabulky produktů"
 
 msgctxt "Languages::product_type"
 msgid "Product type"
-msgstr "Typy  produktu"
+msgstr "Typy produktů"
 
 msgctxt "Languages::profile"
 msgid "Profile"
@@ -7558,7 +7562,7 @@ msgstr "Kategorie"
 
 msgctxt "Languages::promotion_cond_country"
 msgid "Customer country (shipping)"
-msgstr "Země"
+msgstr "Zákazník - země (poštovné)"
 
 msgctxt "Languages::promotion_cond_coupon_code"
 msgid "Coupon code"
@@ -7582,7 +7586,7 @@ msgstr "Způsob platby"
 
 msgctxt "Languages::promotion_cond_price"
 msgid "Product price"
-msgstr "Cena"
+msgstr "Cena produktu"
 
 msgctxt "Languages::promotion_cond_products"
 msgid "Products"
@@ -7598,7 +7602,7 @@ msgstr "Zakoupené zboží"
 
 msgctxt "Languages::promotion_cond_state"
 msgid "Customer state (shipping)"
-msgstr "Stát zákazníka"
+msgstr "Zákazníka - stát (poštovné)"
 
 msgctxt "Languages::promotion_cond_subtotal"
 msgid "Order subtotal"
@@ -7666,7 +7670,7 @@ msgstr "neobsahuje"
 
 msgctxt "Languages::promotion_op_neq"
 msgid "not equal"
-msgstr "nestejný"
+msgstr "není rovno"
 
 msgctxt "Languages::promotion_op_nin"
 msgid "not in"
@@ -8074,7 +8078,7 @@ msgstr "Požadavek"
 
 msgctxt "Languages::requests_count"
 msgid "Requests count"
-msgstr "Účet přání"
+msgstr "Počítat žádosti"
 
 msgctxt "Languages::requesttype"
 msgid "Request type"
@@ -8106,7 +8110,7 @@ msgstr "Resetovat heslo"
 
 msgctxt "Languages::resolved"
 msgid "Resolved"
-msgstr "Rozhodnutý"
+msgstr "Vyřešeno"
 
 msgctxt "Languages::response"
 msgid "Response"
@@ -8170,7 +8174,7 @@ msgstr "Orientace zprava doleva"
 
 msgctxt "Languages::risk_checking"
 msgid "Risk checking is in process. Please try reloading this page in a minute."
-msgstr "Oěřování... Prosím pokuste se znovu načíst tuto stránku během jedné minuty."
+msgstr "Kontrola rizik je v procesu. Zkuste, prosím, stránku znovu načíst za minutu."
 
 msgctxt "Languages::risk_information"
 msgid "Risk information"
@@ -8214,7 +8218,7 @@ msgstr "Prodej"
 
 msgctxt "Languages::sales"
 msgid "Sales"
-msgstr "Prodej"
+msgstr "Odbyt"
 
 msgctxt "Languages::sales_commission"
 msgid "Sales commission"
@@ -8242,7 +8246,7 @@ msgstr "Uložená vyhledávání"
 
 msgctxt "Languages::save_and_close"
 msgid "Save and close"
-msgstr "Uložit & zavřít"
+msgstr "Uložit a zavřít"
 
 msgctxt "Languages::save_as"
 msgid "Save As..."
@@ -8266,15 +8270,15 @@ msgstr "Uložit předlohu jako"
 
 msgctxt "Languages::save_process_payment"
 msgid "Save and process payment"
-msgstr "Uložit a zaplatit"
+msgstr "Uložit a proces platby"
 
 msgctxt "Languages::save_this_search_as"
 msgid "Save this search as"
-msgstr "Vyhledávání uložit jako"
+msgstr "Uložit toto hledání jako"
 
 msgctxt "Languages::scb_text_notice"
 msgid "Please send the following URL to the SCB support to be set as PostbackURL: <br /><b>[return_url]</b>"
-msgstr "Pošlete prosím následující URL na  SCB podporu pro nastavení jako PostbackURL: <br /><b>[return_url]</b>"
+msgstr "Pošlete, prosím, následující URL na  SCB podporu pro nastavení jako PostbackURL: <br /><b>[return_url]</b>"
 
 msgctxt "Languages::screen"
 msgid "Screen"
@@ -8286,7 +8290,7 @@ msgstr "Rozlišení obrazovky"
 
 msgctxt "Languages::script"
 msgid "Script"
-msgstr "Text"
+msgstr "Skript"
 
 msgctxt "Languages::tmpl_scroller"
 msgid "Scroller"
@@ -8338,7 +8342,7 @@ msgstr "Hledat podle váhy"
 
 msgctxt "Languages::search_engine"
 msgid "Search engine"
-msgstr "Search engine (vyhledávač)"
+msgstr "Vyhledávač"
 
 msgctxt "Languages::search_for_pattern"
 msgid "Search for pattern"
@@ -8426,7 +8430,7 @@ msgstr "Bezpečnost"
 
 msgctxt "Languages::secure_checkout"
 msgid "Secure checkout"
-msgstr "Pokladna"
+msgstr "Zabezpečená pokladna"
 
 msgctxt "Languages::secure_storefront_url"
 msgid "Secure storefront URL"
@@ -8490,7 +8494,7 @@ msgstr "Vybrat jazyk popisu"
 
 msgctxt "Languages::select_fields_to_edit"
 msgid "Select fields to edit"
-msgstr "Editoat vybraná pole"
+msgstr "Editovat vybraná pole"
 
 msgctxt "Languages::select_file"
 msgid "Select file"
@@ -8582,7 +8586,7 @@ msgstr "Server"
 
 msgctxt "Languages::service_not_available"
 msgid "This service is not available."
-msgstr "Tato sluba nen dostupná"
+msgstr "Tato sluba není dostupná."
 
 msgctxt "Languages::settings"
 msgid "Settings"
@@ -8626,7 +8630,7 @@ msgstr "Sdílený klíč"
 
 msgctxt "Languages::sha_sign"
 msgid "SHA-1 Signature"
-msgstr "SHA-1 znak"
+msgstr "SHA-1 podpis"
 
 msgctxt "Languages::shipment"
 msgid "Shipment"
@@ -8962,7 +8966,7 @@ msgstr "Šířka (palce)"
 
 msgctxt "Languages::ship_height"
 msgid "Package height (cm)"
-msgstr "Balíček výška (cm)"
+msgstr "Výška balení (cm)"
 
 msgctxt "Languages::ship_length"
 msgid "Package length (cm)"
@@ -9026,7 +9030,7 @@ msgstr "Ruční zpracování"
 
 msgctxt "Languages::ship_sp_ur_additional_insurance"
 msgid "Additional insurance for URGENT goods  (up to CHF 3000.-)"
-msgstr "Additional insurance for URGcsT goods  (up to CHF 3000.-)"
+msgstr "Doplňkové pojištění pro naléhavé potřeby (až do CHF 3000.-)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
@@ -9098,7 +9102,7 @@ msgstr "UPS sazby přístupový klíč"
 
 msgctxt "Languages::ship_ups_package_type_01"
 msgid "UPS letter/ UPS Express Envelope"
-msgstr "UPS letter/ UPS Express csvelope"
+msgstr "UPS dopis/ UPS Expresní obálka"
 
 msgctxt "Languages::ship_ups_package_type_03"
 msgid "UPS Tube"
@@ -9110,7 +9114,7 @@ msgstr "UPS Pack"
 
 msgctxt "Languages::ship_ups_package_type_21"
 msgid "UPS Express Box"
-msgstr "UPS Express Box"
+msgstr "UPS Expresní Box"
 
 msgctxt "Languages::ship_ups_package_type_24"
 msgid "UPS 25Kg Box"
@@ -9126,7 +9130,7 @@ msgstr "Typ nákladu"
 
 msgctxt "Languages::ship_ups_pickup_type_01"
 msgid "Daily Pickup"
-msgstr "Denní náklad"
+msgstr "Denní dodávka"
 
 msgctxt "Languages::ship_ups_pickup_type_03"
 msgid "Customer Counter"
@@ -9146,11 +9150,11 @@ msgstr "Doporučené maloobchodní ceny"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
-msgstr "Letter Ccster"
+msgstr "Dopis centrum"
 
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
-msgstr "Air Service Ccster"
+msgstr "Vzduch Servisní centrum"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9158,31 +9162,31 @@ msgstr "Kontejner"
 
 msgctxt "Languages::ship_usps_container_express"
 msgid "Container (Express)"
-msgstr "Kontejner (Express)"
+msgstr "Kontejner (Expres)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
-msgstr "Paušální obálky"
+msgstr "Jednotná sazba obálky"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
-msgstr "Kontejner (Priority Mail)"
+msgstr "Kontejner (priorita pošta)"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
-msgstr "Paušální Box"
+msgstr "Paušální poplatek Box"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_envelope"
 msgid "Flat Rate Letter"
-msgstr "Paušální list"
+msgstr "Paušální poplatek dopis"
 
 msgctxt "Languages::ship_usps_container_priority_lg_flat_rate_box"
 msgid "Large Flat Rate Box"
-msgstr "Velký paušálně Box"
+msgstr "Velký paušální poplatek Box"
 
 msgctxt "Languages::ship_usps_container_priority_md_flat_rate_box"
 msgid "Medium Flat Rate Box"
-msgstr "Středně paušální Box"
+msgstr "Středně paušální poplatek Box"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
@@ -9206,27 +9210,27 @@ msgstr "Regionální míry Box C"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_box"
 msgid "Small Flat Rate Box"
-msgstr "Malý paušální Box"
+msgstr "Malý paušální poplatek Box"
 
 msgctxt "Languages::ship_usps_container_priority_padded_flat_rate_envelope"
 msgid "Padded Flat Rate Envelope"
-msgstr "Polstrované paušálně obálky"
+msgstr "Vycpaný paušální poplatek obálky"
 
 msgctxt "Languages::ship_usps_container_priority_legal_flat_rate_envelope"
 msgid "Legal Flat Rate Envelope"
-msgstr "Právní paušálně obálky"
+msgstr "Právní paušální poplatek obálky"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_envelope"
 msgid "Sm Flat Rate Envelope"
-msgstr "SM paušálně obálky"
+msgstr "SM paušální poplatek obálky"
 
 msgctxt "Languages::ship_usps_container_priority_window_flat_rate_envelope"
 msgid "Window Flat Rate Envelope"
-msgstr "Okno paušálně obálky"
+msgstr "Okno paušální poplatek obálky"
 
 msgctxt "Languages::ship_usps_container_priority_gift_card_flat_rate_envelope"
 msgid "Gift Card Flat Rate Envelope"
-msgstr "Dar karty paušálně obálky"
+msgstr "Dárková poukázka paušální poplatek obálky"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
@@ -9262,7 +9266,7 @@ msgstr "Šířka balíku"
 
 msgctxt "Languages::ship_usps_machinable"
 msgid "Machinable (First-Class Mail or Standard Post)"
-msgstr "Machinable (First-Class Mail or Parcel Post)"
+msgstr "Strojově zpracovatelné (First-Class Mail nebo Parcel Post)"
 
 msgctxt "Languages::ship_usps_machinable_false"
 msgid "False"
@@ -9278,7 +9282,7 @@ msgstr "Typ korespondence"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
-msgstr "Pro nevidomé"
+msgstr "Záležitost pro nevidomé"
 
 msgctxt "Languages::ship_usps_mailtype_postcards_or_aerogrammes"
 msgid "Postcards or Aerogrammes"
@@ -9286,7 +9290,7 @@ msgstr "Pohlednice nebo speciální letecké dopisy"
 
 msgctxt "Languages::ship_usps_package_size"
 msgid "Package Size (length + girth, inches)"
-msgstr "Package Size (lcsgth + girth, inches)"
+msgstr "Rozměry balení (délka + obvod, palce)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
@@ -9302,19 +9306,19 @@ msgstr "Normální (0..84)"
 
 msgctxt "Languages::ship_usps_priority_girth"
 msgid "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
-msgstr "Priority Mail (Velikost: Large Container: neobdélníkové) Obvod (palců)"
+msgstr "Přednost pošta (Velikost: Large Container: neobdélníkové) Obvod (palců)"
 
 msgctxt "Languages::ship_usps_priority_height"
 msgid "Priority Mail (Size:Large) Height (inches)"
-msgstr "Priority Mail (velikost: Large) Výška (palců)"
+msgstr "Přednost pošta (velikost: Large) Výška (palců)"
 
 msgctxt "Languages::ship_usps_priority_length"
 msgid "Priority Mail (Size:Large) Length (inches)"
-msgstr "Priority Mail (velikost: Large) Výška (palců)"
+msgstr "Přednost pošta (velikost: Large) Výška (palců)"
 
 msgctxt "Languages::ship_usps_priority_width"
 msgid "Priority Mail (Size:Large) Width (inches)"
-msgstr "Priority Mail (velikost: Large) Šířka (palců)"
+msgstr "Přednost pošta (velikost: Large) Šířka (palců)"
 
 msgctxt "Languages::ship_usps_username"
 msgid "User ID"
@@ -9346,7 +9350,7 @@ msgstr "Ukázat vše"
 
 msgctxt "Languages::show_items_in_line"
 msgid "Show items inline"
-msgstr "Zobrazit položky v textu řádku"
+msgstr "Zobrazit položky inline"
 
 msgctxt "Languages::show_menu_on_mouse_over"
 msgid "Show menu on mouse over"
@@ -9398,7 +9402,7 @@ msgstr "Přihlaste se jako jiný uživatel"
 
 msgctxt "Languages::sign_in_to_buy"
 msgid "Please sign in to buy"
-msgstr "Pro nakupování se prosím přihlašte"
+msgstr "Pro nakupování se, prosím, přihlašte"
 
 msgctxt "Languages::sign_in_to_view_price"
 msgid "[Sign in to view price]"
@@ -9434,7 +9438,7 @@ msgstr "Je povolen pouze kupon pro jednotlivou slevu"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
-msgstr "Site Map"
+msgstr "Mapa Stránek"
 
 msgctxt "Languages::sitemap_menu_description"
 msgid "Create additional sections of the customer area sitemap and define the set of links for them."
@@ -9442,7 +9446,7 @@ msgstr "Vytvořte další sekce v zákaznické oblasti sitemap a definujte nasta
 
 msgctxt "Languages::sitemap_settings"
 msgid "Sitemap settings"
-msgstr "Nastavení sitemap"
+msgstr "Mapa stránek - nastavení"
 
 msgctxt "Languages::site_number"
 msgid "Site number (EPT)"
@@ -9490,7 +9494,7 @@ msgstr "Zákazník [name] byl registrován"
 
 msgctxt "Languages::sms_for_the_sum"
 msgid "to the amount of"
-msgstr "z množství"
+msgstr "do výše"
 
 msgctxt "Languages::sms_order_placed"
 msgid "has been placed"
@@ -9562,7 +9566,7 @@ msgstr "Specifické nastavení"
 
 msgctxt "Languages::specify_url"
 msgid "Specify URL"
-msgstr "Specifikace URL"
+msgstr "Zadejte adresu URL"
 
 msgctxt "Languages::speed"
 msgid "Speed"
@@ -9590,11 +9594,11 @@ msgstr "Začátek"
 
 msgctxt "Languages::start_communication"
 msgid "Start communication"
-msgstr "Chcete se zeptat ?"
+msgstr "Začátek komunikace"
 
 msgctxt "Languages::start_date"
 msgid "Start date"
-msgstr "Den začátku"
+msgstr "Datum zahájení"
 
 msgctxt "Languages::start_price"
 msgid "Start price"
@@ -9602,11 +9606,11 @@ msgstr "Počáteční cena"
 
 msgctxt "Languages::state"
 msgid "State/Province"
-msgstr "Stát/provincie"
+msgstr "Stát/Provincie"
 
 msgctxt "Languages::states"
 msgid "States"
-msgstr "Části země"
+msgstr "Státy"
 
 msgctxt "Languages::states_menu_description"
 msgid "Manage the set of states that are supported in your store."
@@ -9622,7 +9626,7 @@ msgstr "Statická data"
 
 msgctxt "Languages::static_data_use_item"
 msgid "Use the \"Link text\" and \"URL\" values from this item in the storefront"
-msgstr "Použijte \"odkaz text\" a \"URL\" hodnotu z vybrané položky"
+msgstr "Použijte \"text odkazu\" a \"URL\" hodnotu z vybrané položky"
 
 msgctxt "Languages::statistics"
 msgid "Statistics"
@@ -9638,7 +9642,7 @@ msgstr "Stav byl změněn"
 
 msgctxt "Languages::status_changed_after_process_payment"
 msgid "Order status was set according to the payment processing result"
-msgstr "Stav objednávky byl instalován v souladu s výsledkem zpracování platby"
+msgstr "Stav objednávky byl nastaven podle výsledku zpracování plateb"
 
 msgctxt "Languages::stay_connected"
 msgid "Stay Connected"
@@ -9670,19 +9674,19 @@ msgstr "Pozastavit ostatní pravidla"
 
 msgctxt "Languages::storage"
 msgid "Storage"
-msgstr "Skladovací prostor"
+msgstr "Uložení"
 
 msgctxt "Languages::store"
 msgid "Store"
-msgstr "CS-Cart obchod"
+msgstr "Obchod"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
-msgstr "Výkladní skříň"
+msgstr "Výklad"
 
 msgctxt "Languages::storefront_url"
 msgid "Storefront URL"
-msgstr "URL výklad obchodu"
+msgstr "URL výkladu"
 
 msgctxt "Languages::storefront_url_already_exists"
 msgid "The value of the <strong>Storefront URL</strong> parameter mentioned by you already belongs to another company."
@@ -9690,7 +9694,7 @@ msgstr "Hodnota parametru <strong>Secure storefront URL</strong> jež jste zadal
 
 msgctxt "Languages::storefront_url_not_defined"
 msgid "Storefront URL not defined"
-msgstr "URL veřejné stránky obchodu není definováno"
+msgstr "URL výkladu není definováno"
 
 msgctxt "Languages::stores"
 msgid "Stores"
@@ -9766,7 +9770,7 @@ msgstr "Předplatné"
 
 msgctxt "Languages::subtotal"
 msgid "Subtotal"
-msgstr "zboží celkem za"
+msgstr "Mezisoučet"
 
 msgctxt "Languages::subtotal_sum"
 msgid "Subtotal sum"
@@ -9810,11 +9814,11 @@ msgstr "Dodavatelé"
 
 msgctxt "Languages::supplier_id"
 msgid "Supplier"
-msgstr "Dodavatelovo ID"
+msgstr "Dodavatel"
 
 msgctxt "Languages::surcharge"
 msgid "Surcharge"
-msgstr "Poplatek"
+msgstr "Příplatek"
 
 msgctxt "Languages::surcharge_title"
 msgid "Surcharge title"
@@ -9994,7 +9998,7 @@ msgstr "Trubice"
 
 msgctxt "Languages::temando_package_unpackaged"
 msgid "Unpackaged or N/A"
-msgstr "Nebalené nebo N/A"
+msgstr "Nezabalené nebo N/A"
 
 msgctxt "Languages::temando_package_wheel"
 msgid "Wheel/Tyre"
@@ -10074,7 +10078,7 @@ msgstr "Text"
 
 msgctxt "Languages::textarea"
 msgid "Text area"
-msgstr "textová oblast"
+msgstr "Textová oblast"
 
 msgctxt "Languages::text_2checkout_notice"
 msgid "<b>Note</b>: In order to track your 2Checkout orders with the shopping cart software you have to take these steps:<br /><br />-&nbsp;Log in to your 2Checkout account<br />-&nbsp;Click on <u>'Site management'</u> in the <u>'Account'</u> section.<br />-&nbsp;Select <b>'Given links back to my website'</b> option in the <u>'Direct Return'</u> subsection <br />-&nbsp;Set <u>'Approved URL'</u> and <u>'Pending URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret Word'</u>. The Secret Word is known only to the seller and 2CheckOut.<br />"
@@ -10090,7 +10094,7 @@ msgstr "(zobrazeno v pop up okně)"
 
 msgctxt "Languages::text_additional_thumbnail"
 msgid "(displayed on product details page in \"Additional images\")"
-msgstr "(zobrazeno na stránce detailů produktu v 'Dodatečné obrázky')"
+msgstr "(zobrazeno na stránce detailů produktu v \"Další obrázky\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
@@ -10098,7 +10102,7 @@ msgstr "Modul \"[addon_name]\" je nekompatibilní s následujícími moduly: [ad
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Tyto doplňky budou automaticky zakázána."
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Tyto doplňky budou automaticky zakázány."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
@@ -10134,11 +10138,11 @@ msgstr "Jsou podporovány následující přípony souborů: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Ccstral Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept paymcsts through Amazon Checkout in your store"
+msgstr "Důležité! Musíte zadat URL vašeho obchodu <b>[callback_url]</b> jako URL obchodníka na webových stránkách Amazon 's Seller Central (Settings>Checkout Pipeline Settings). V opačném případě nebudete moci ve vašem obchodě přijímat platby přes Amazon Checkout"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
-msgstr "No response from Amazon Checkout has becs received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has becs successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
+msgstr "Amazon Checkout zatím neodpovídá, čekejte prosím. Je možné že objednávka nebyla vytvořena v obchodě, ale že byla úspěšně vytvořena a vybavená přes Amazon Checkout. Kontaktujte, prosím, personál obchodu a sdělte jim ID objednávky, které vám zadal Amazon"
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
@@ -10146,7 +10150,7 @@ msgstr "Počet položek ve vašem nákupním košíku se liší od počtu zbož�
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to csable the production mode on Amazon's Seller Ccstral website whcs you are ready to go live."
+msgstr "Pro účely testování může být obchodnická URL HTTP odkazem do vašeho obchodu, ale mód ostrého provozu vyžaduje zabezpečené připojení a musíte tedy použít HTTPS odkaz. Když budete připraveni začít s ostrou provozem, nezapomeňte také v Amazon 's Seller Central aktivovat Production mode."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
@@ -10162,7 +10166,7 @@ msgstr "Přepočítat přepravní náklady"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
-msgstr "Gratulujeme Vám! Získali jste následující akci(s)"
+msgstr "Aplikovaná propagace"
 
 msgctxt "Languages::text_are_you_sure_to_delete_file"
 msgid "Are you sure you want to delete the item?"
@@ -10174,7 +10178,7 @@ msgstr "Jste si jist/a, že chcete pokračovat?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
-msgstr "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rcsame the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rcsame the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogcsactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogcsactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
+msgstr "<b>Poznámka</b><br />1. Poukázku, kterou jste obdrželi na disku zkopírujte do adresáře [home_path]. Přejmenujte poukázku na certif.fr. [my_merchant_id], kde [my_merchant_id] je číslo vaší stránky.<br />2. Přejmenujte soubor s parametry obchodu (parmcom.014213245611111 file) na parmcom. [my_merchant_id].<br />3. Upravte soubor <b>pathfile</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>D_LOGO![some_dir]!</u>' nahraďte '<u>D_LOGO![http_path]/logo/!</u>'<br />- Řádek' <u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u> 'nahraďte' <u>F_DEFAULT! [home_path]/parmcom .sogenactif!</u> '<br />- Řádek' <u>F_PARAM![/some_dirs/parmcom]!</u> 'nahraďte' <u>F_PARAM![home_path]/parmcom!</u> ' <br />- Řádek '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' nahraďte '<u>F_CERTIFICATE![home_path]/certif!</u>' <br />4. Upravte soubor <b>parmcom. [some_number]</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>AUTO_RESPONSE_URL![some_url]!</u>' nahraďte '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Řádek' <u>CANCEL_URL![some_url]!</u> 'nahraďte' <u>CANCEL_URL! [ok_url]!</u>'<br />- Řádek '<u>RETURN_URL![some_url]!</u>' nahraďte '<u>RETURN_URL![ok_url]!</u>'<br />"
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
@@ -10198,39 +10202,39 @@ msgstr "Fakturace a dodací adresy jsou stejné"
 
 msgctxt "Languages::text_block_trial_notice"
 msgid "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
-msgstr "Your 30-day evaluation period has expired. Please purchase the full commercial license (www.cs-cart.com/licenses.html) or remove the software from your server."
+msgstr "Vaše 30denní zkušební doba uplynula. Zakupte si, prosím, licenci ([href]), nebo odeberte software z vašeho serveru."
 
 msgctxt "Languages::text_cannot_create_directory"
 msgid "Cannot create the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Nelze vytvořit adresář <b>[directory]</b>. Zkontrolujte prosím oprávnění."
+msgstr "Nelze vytvořit adresář <b>[directory]</b>. Zkontrolujte, prosím, oprávnění."
 
 msgctxt "Languages::text_cannot_create_file"
 msgid "Cannot create the file <b>[file]</b>. Please check the directory permissions."
-msgstr "Nelze vytvořit soubor <b>[file]</b>. Zkontrolujte prosím oprávnění k adresáři."
+msgstr "Nelze vytvořit soubor <b>[file]</b>. Zkontrolujte. prosím, oprávnění k adresáři."
 
 msgctxt "Languages::text_cannot_delete_directory"
 msgid "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Nelze smazat adresář <b>[directory]</b>. Zkontrolujte prosím oprávnění."
+msgstr "Nelze smazat adresář <b>[directory]</b>. Zkontrolujte, prosím, oprávnění."
 
 msgctxt "Languages::text_cannot_delete_file"
 msgid "Cannot delete the file <b>[file]</b>. Please check the permissions."
-msgstr "Nelze smazat soubor <b>[file]</b>. Zkontrolujte prosím oprávnění."
+msgstr "Nelze smazat soubor <b>[file]</b>. Zkontrolujte, prosím, oprávnění."
 
 msgctxt "Languages::text_cannot_rename_directory"
 msgid "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Nelze přejmenovat adresář <b>[directory]</b>. Zkontrolujte oprávnění."
+msgstr "Nelze přejmenovat adresář <b>[directory]</b>. Zkontrolujte, prosím, oprávnění."
 
 msgctxt "Languages::text_cannot_rename_file"
 msgid "Cannot rename the file <b>[file]</b>. Please check the permissions."
-msgstr "Nelze přejmenovat soubor <b>[file]</b>. Zkontrolujte oprávnění."
+msgstr "Nelze přejmenovat soubor <b>[file]</b>. Zkontrolujte, prosim, oprávnění."
 
 msgctxt "Languages::text_cannot_restore_directory"
 msgid "Cannot restore the directory <b>[directory]</b> from the repository. Please check if the repository exists."
-msgstr "Nelze obnovit adresář <b>[directory]</b> z archivu. Zkontrolujte prosím, zda archiv existuje."
+msgstr "Nelze obnovit adresář <b>[directory]</b> z archivu. Zkontrolujte, prosím, zda archiv existuje."
 
 msgctxt "Languages::text_cannot_restore_file"
 msgid "Cannot restore file <b>[file]</b> from the repository. Please check if the repository exists."
-msgstr "Nelze obnovit soubor <b>[file]</b> z archivu. Zkontrolujte prosím, zda archiv existuje."
+msgstr "Nelze obnovit soubor <b>[file]</b> z archivu. Zkontrolujte, prosím, zda archiv existuje."
 
 msgctxt "Languages::text_can_be_used_once"
 msgid "This coupon can be used only once. You have already applied it."
@@ -10242,7 +10246,7 @@ msgstr "Množství produktu <b>[product]</b> v košíku bylo změněno."
 
 msgctxt "Languages::text_cart_amount_corrected"
 msgid "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
-msgstr "Počet produktů ve skladu není dostatečný pro vaši objednávku. Množství produktu <b>[product]</b> bylo změněno ve vašem košíku."
+msgstr "Počet produktů ve skladu není dostatečný pro vaši objednávku. Množství produktů <b>[product]</b> bylo změněno ve vašem košíku."
 
 msgctxt "Languages::text_cart_empty"
 msgid "Your cart is empty"
@@ -10262,7 +10266,7 @@ msgstr "Množství zboží dostupné není dost pro vaši objednávku"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
-msgstr "<b>[product]</b> má nulové zásoby a nelze ji přidat do košíku"
+msgstr "<b>[product]</b> má nulové zásoby a nelze jej přidat do košíku"
 
 msgctxt "Languages::text_cart_zero_inventory_and_removed"
 msgid "<b>[product]</b> has zero inventory and is removed from the cart"
@@ -10310,7 +10314,7 @@ msgstr "Vaše změny byly uloženy."
 
 msgctxt "Languages::text_change_password"
 msgid "You are now logged in to your account. Please change the password and click the \"Save\" button."
-msgstr "Jste nyní připojen/a k vašemu účtu. Změňte prosím heslo a stiskněte tlačítko \"Aktualizovat\"."
+msgstr "Jste nyní připojen/a k vašemu účtu. Změňte, prosím, heslo a stiskněte tlačítko \"Aktualizovat\"."
 
 msgctxt "Languages::text_checkout_new_profile_notice"
 msgid "If you are a new customer, we need to know your personal details."
@@ -10330,15 +10334,15 @@ msgstr "Pro více informací klikněte zde"
 
 msgctxt "Languages::text_cmcic_notice"
 msgid "Please set the following URL as the <b>CGI2</b>: <b>[postback_url]</b>"
-msgstr "Nastavte prosím následující  URL jako <b>CGI2</b>: <b>[postback_url]</b>"
+msgstr "Nastavte, prosím, následující  URL jako <b>CGI2</b>: <b>[postback_url]</b>"
 
 msgctxt "Languages::text_cmpi_frame_message"
 msgid "For your security, please fill out the form below to complete your order. Do not click the Refresh or Back button, or this transaction may be interrupted or canceled."
-msgstr "Pro bezpečnost vyplňte prosím formulář pro uzaření Vaší objednávky.Neklikejte na obnovovací tlačítko nebo tlačítko zpět nebo by mohla být tato transakce narušena nebo úplně zrušena."
+msgstr "Pro bezpečnost vyplňte, prosím, formulář pro uzaření vaší objednávky. Neklikejte na obnovovací tlačítko nebo tlačítko zpět nebo by mohla být tato transakce narušena nebo úplně zrušena."
 
 msgctxt "Languages::text_cmpi_go_back"
 msgid "Go back"
-msgstr "Jdi zpět"
+msgstr "Vrátit se"
 
 msgctxt "Languages::text_combination_out_of_stock"
 msgid "No products with the selected options in stock"
@@ -10346,11 +10350,11 @@ msgstr "Výrobky s vybranými možnostmi nejsou na skladě"
 
 msgctxt "Languages::text_companies_activated"
 msgid "Selected companies have been activated"
-msgstr "Selected companies have becs activated"
+msgstr "Byly aktivovány vybrané společnosti"
 
 msgctxt "Languages::text_companies_disabled"
 msgid "Selected companies have been disabled"
-msgstr "Selected companies have becs disabled"
+msgstr "Vybrané společnosti byly zakázány"
 
 msgctxt "Languages::text_company_status_active_subj"
 msgid "Your company was activated."
@@ -10374,11 +10378,11 @@ msgstr "Toto je stránka s potvrzením. Je třeba potvrdit operaci dříve, než
 
 msgctxt "Languages::text_confirm_passwd_recovery"
 msgid "Please follow this link to confirm your password recovery procedure"
-msgstr "Sledujte prosím tento odkaz pro potvrzení postupu znovunabytí vašeho hesla."
+msgstr "Sledujte, prosím, tento odkaz pro potvrzení postupu znovunabytí vašeho hesla"
 
 msgctxt "Languages::text_csrf_attack"
 msgid "Access denied: Possible CSRF attack"
-msgstr "Access dcsied: Possible CSRF attack"
+msgstr "Přístup dcsied: Možná CSRF útok"
 
 msgctxt "Languages::text_customer_area_logo"
 msgid "Logo for the <b>customer</b> area"
@@ -10398,7 +10402,7 @@ msgstr "Body použité v objednávce byly odečteny z vašeho účtu."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Poznámka:</b> Pošlete prosím následující informace na DeltaPay podporu:<br />Stránky platby: '<u>[payment_url]</u>'<br />Úspěšná stránka: '<u>[result_url]</u>'<br />Zrušit stránku: '<u>[result_url]</u>'<br />Zrušit stránku: '<u>[result_url]</u>'<br />"
+msgstr "<b>Poznámka:</b> Pošlete, prosím, následující informace na DeltaPay podporu:<br />Stránky platby: '<u>[payment_url]</u>'<br />Úspěšná stránka: '<u>[result_url]</u>'<br />Zrušit stránku: '<u>[result_url]</u>'<br />Zrušit stránku: '<u>[result_url]</u>'<br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
@@ -10414,7 +10418,7 @@ msgstr "Adresář <b>[directory]</b> byl úspěšně smazán"
 
 msgctxt "Languages::text_directory_renamed"
 msgid "The directory <b>[directory]</b> has been successfully renamed to <b>[to_directory]</b>"
-msgstr "Adresář <b>[directory]</b> byla úspěšně přejmenována na <b>[to_directory]</b>"
+msgstr "Adresář <b>[directory]</b> byl úspěšně přejmenován na <b>[to_directory]</b>"
 
 msgctxt "Languages::text_directory_restored"
 msgid "The directory <b>[directory]</b> has been restored from the repository"
@@ -13676,17 +13680,13 @@ msgctxt "SettingsOptions::company_name"
 msgid "Company name"
 msgstr "Název firmy"
 
-msgctxt "SettingsOptions::secure_checkout"
-msgid "Enable secure connection at checkout"
-msgstr "Povolit zabezpečené připojení na pokladně"
-
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
 msgstr "Povolit zabezpečené připojení v administračním panelu"
 
-msgctxt "SettingsOptions::secure_auth"
-msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "Povolit zabezpečené připojení k ověřování profilu a objednávky stránek"
+msgctxt "SettingsOptions::secure_storefront"
+msgid "Enable secure connection for the storefront"
+msgstr "Povolit zabezpečené připojení k storefront"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14436,7 +14436,7 @@ msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Povolit prodávání produktů ke stažení"
 
-msgctxt "SettingsTooltips::secure_checkout"
+msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "Na vašem serveru musí být nainstalován SSL certifikát"
 
@@ -15287,6 +15287,18 @@ msgstr "Registrace"
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Jednorázový nákup"
+
+msgctxt "SettingsVariants::secure_storefront::none"
+msgid "Disable"
+msgstr "Zakázat"
+
+msgctxt "SettingsVariants::secure_storefront::partial"
+msgid "Secure profile, checkout and order pages"
+msgstr "Secure profile, checkout and order pages"
+
+msgctxt "SettingsVariants::secure_storefront::full"
+msgid "Secure full site"
+msgstr "Secure full site"
 
 msgctxt "Languages::last_year"
 msgid "Last year"

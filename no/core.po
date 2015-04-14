@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-13 09:09-0400\n"
+"PO-Revision-Date: 2015-04-14 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2839,6 +2839,10 @@ msgstr "Overliggende nivå ([default])"
 msgctxt "Languages::default_template"
 msgid "Default template"
 msgstr "Standardmal"
+
+msgctxt "Languages::bigpicture_template"
+msgid "The big picture"
+msgstr "Det store bildet"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -7058,7 +7062,7 @@ msgstr "Administrer ordrestatuser"
 
 msgctxt "Languages::privileges.manage_pages"
 msgid "Manage pages"
-msgstr "Administrer sider"
+msgstr "Administrer nettsider"
 
 msgctxt "Languages::privileges.manage_payments"
 msgid "Manage payments"
@@ -7106,11 +7110,11 @@ msgstr "På-siden live redigering"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
-msgstr "Behandle brukergrupper"
+msgstr "Administrer brukergrupper"
 
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
-msgstr "Behandle brukere"
+msgstr "Administrer brukere"
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -13676,17 +13680,13 @@ msgctxt "SettingsOptions::company_name"
 msgid "Company name"
 msgstr "Firmanavn"
 
-msgctxt "SettingsOptions::secure_checkout"
-msgid "Enable secure connection at checkout"
-msgstr "Aktiver sikker tilkobling ved utsjekking"
-
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
 msgstr "Aktiver sikker tilkobling i adminpanelet"
 
-msgctxt "SettingsOptions::secure_auth"
-msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "Aktiver sikker tilkobling for autentisering, profilsider og bestillingssider"
+msgctxt "SettingsOptions::secure_storefront"
+msgid "Enable secure connection for the storefront"
+msgstr "Aktiver sikker tilkobling for butikk forsiden"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14436,7 +14436,7 @@ msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Aktiver salg av nedlastbare produkter"
 
-msgctxt "SettingsTooltips::secure_checkout"
+msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "SSL-sertifikat må være installert på serveren din"
 
@@ -15287,6 +15287,18 @@ msgstr "Registrer deg"
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Sjekk ut som gjest"
+
+msgctxt "SettingsVariants::secure_storefront::none"
+msgid "Disable"
+msgstr "Deaktiver"
+
+msgctxt "SettingsVariants::secure_storefront::partial"
+msgid "Secure profile, checkout and order pages"
+msgstr "Sikker profil, utsjekking og ordresider"
+
+msgctxt "SettingsVariants::secure_storefront::full"
+msgid "Secure full site"
+msgstr "Sikre alle nettsider"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
