@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-14 09:00-0400\n"
+"PO-Revision-Date: 2015-04-14 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10434,7 +10434,7 @@ msgstr "Úpravy textu"
 
 msgctxt "Languages::text_edp_product"
 msgid "This product is electronically distributed"
-msgstr "tento produkt je distribuován elektronicky"
+msgstr "Tento produkt je distribuován elektronicky"
 
 msgctxt "Languages::text_ekey_not_valid"
 msgid "The confirmation link is invalid or has expired."
@@ -10474,7 +10474,8 @@ msgstr "Níže je uveden seznam polí, které mohou být exportovány.  <b>Zvýr
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
-msgstr "<b>Formát importu vlastností produktu</b><code>%Feature name%: %Feature value%</code>where,<p>%Feature name% - the name of feature,<br />%Feature value% - the feature value</p><p>Several features must be delimited by semicolon.</p><b>Example:</b><br /><code>ISBN: 1233423423; Release date: 05/05/07</code><p>Please note that you need to create features on <a href=\"{$index_script}?{$target_name}=product_features\">Product features</a> page before applying them to the products.</p>"
+msgstr "<h4>Format dovoz pro vlastnosti výrobku</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%), %Charakteristika%: %Typ Feature%[%Feature value%]</code> kde <dl class=\"dl-horizontální\"><dt>%Feature ID%</dt><dd>je ID vlastnost</dd><dt>%Group name%</dt><dd>Názov skupiny vlastnosti</dd><dt>%Feature název%</dt><dd>Názov vlastnosti</dd><dt>%Typ Feature%</dt><dd>typ vlastnosti (C - zaškrtávacie police, M - viacero zaškrtávacích políčok, s - pole s výberom textů, N - pól s výberom Čísla, E - Rozšířené pólový s výberom, T - jednoduchý text, ON - číslo, D - datum)</dd><dt>%Feature hodnoty%</dt><dd>Hodnota funkce (může být několik hodnota oddělených čárkou)</dd></dl><p>\n"
+"Několik vlastnosti musi být oddělených středníkem</p><h5>napríklad:</h5><code>ISBN: T [1233423423]; Datum vydání: D [5.5.07] Barvě: S [Red]</code>"
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
@@ -10494,7 +10495,7 @@ msgstr "<b>Formát importu voleb produktu</b><code>%Option name%: %Option type%[
 
 msgctxt "Languages::text_exim_utf8_file_format"
 msgid "Please make sure that the file you are importing has UTF-8 charset for correct import"
-msgstr "Ujistěte se prosím ,že soubory které importujete mají správný UTF-8 formát."
+msgstr "Ujistěte se, prosím, že soubory které importujete mají správný UTF-8 formát"
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
@@ -10510,11 +10511,11 @@ msgstr "Oddělovač mezi variantami hodnotami funkce produktu."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
-msgstr "The parameters that will be scst to our server to analyze the functionality and the currcst configuration are listed below.<br />Please note that no personal or financial information will be scst. After you get acquainted with the list of the parameters, click on \"Scsd\".<br />"
+msgstr "Parametry, které budou odeslány na našem serveru analyzovat funkčnost a aktuální konfigurace jsou uvedeny níže.<br />Vezměte prosím na vědomí, že žádné osobní nebo finanční informace nebudou zaslány. Poté, co se seznámí se seznamem parametrů, klikněte na tlačítko \"Odeslat\".<br />"
 
 msgctxt "Languages::text_files_directory"
 msgid "Directory where product files are located. This will be used if the \"File\" field data is specified without a path."
-msgstr "Adresář, kde jsou umístěny soubory produktu. Toto bude použito jestliže pole data \"Soubor\" nebylosprávně specifikováno ; musí být absolutní cesta"
+msgstr "Adresář, kde jsou umístěny soubory produktu. Tento adresa bude použit v případě, že \"soubor\" datové pole je specifikován bez cesty."
 
 msgctxt "Languages::text_file_created"
 msgid "The file <b>[file]</b> has been successfully created"
@@ -10562,7 +10563,7 @@ msgstr "Není dovoleno nahrávat soubory s velikostí větší než <b>[size]</b
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
-msgstr "Please complete your paymcst below.<br />This is a secure paymcst page, served from a secure location."
+msgstr "Prosím, dokončete svou platbu.<br />Toto je zajištěna platební stránka, obsluhována z bezpečné lokace."
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -10574,11 +10575,11 @@ msgstr "<p>V nastaveních obchodníka Gate2Shop, prosím, nastavte následujíc�
 
 msgctxt "Languages::text_gd_not_avail"
 msgid "GD library is <b>not</b> installed on your server. Please contact your hosting provider. <br />Charts can be represented only as tables (chart type \"Table\")."
-msgstr "GD knihovna <b>NenÍ NAINSTALOVÁNA</b> na vašem serveru. Kontaktujte prosím vašeho providera. <br />Pouze typ \"Tabulka\"  lze použít pro tabulky."
+msgstr "GD knihovna <b>NenÍ NAINSTALOVÁNA</b> na vašem serveru. Kontaktujte, prosím, vašeho providera.<br />Pouze typ \"Tabulka\"  lze použít pro tabulky."
 
 msgctxt "Languages::text_hsbc_notice"
 msgid "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory: [cart_dir] (shell command \"chmod -R 755\")."
-msgstr "<b>Client ID  -</b> Your Client ID - a decimal value between 0 and 999999999, or a valid Client alias of the form UK12345678CUR. <br /> Note, the alias is case sensitive. <br /> <b>Important note for UNIX users:</b><br /> Please make sure you have appropriate permissions for the following directory:[cart_dir]/payments (shell command ''chmod -R 755'')."
+msgstr "<b>ID klienta -</b>Vaše ID klienta - číselná hodnota mezi 0 a 999999999, nebo platný alias klienta ve formě UK12345678CUR.<br />Poznámka: Alias je citlivý na velká a malá písmena. <br /><b>Důležitá poznámka pro uživatele UNIX:</b><br />Prosím, ujistěte se, že máte přístupová práva k následujícímu adresáři: [cart_dir] (příkaz \"chmod -R 755\")."
 
 msgctxt "Languages::text_ideal_basic_notice"
 msgid "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</u> in the <u>'Profile'</u> section.<br />-&nbsp;Set the option <u>'Notification'</u> to <b>'XML'</b><br />-&nbsp;Set <u>'Notification URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret key'</u>. The Secret key is known only to the seller and iDEAL."
@@ -10586,7 +10587,7 @@ msgstr "-&nbsp;Připojení k iDEAL účtu<br />-&nbsp;Klikněte na <u>'Zabezpeč
 
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
-msgstr "Adresář, kde jsou umístěny obrázky. Tento adresář bude použit v případě, že soubor obrázků nebude specifikován ;cesta  musí být úplná"
+msgstr "Adresář, kde jsou umístěny obrázky. To bude možné použít, pokud soubor je zadán bez cesty."
 
 msgctxt "Languages::text_innovative_notice"
 msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
@@ -10618,7 +10619,7 @@ msgstr "<h4>Není registrovaným členem?</h4><p>Vytvoření nového účtu je s
 
 msgctxt "Languages::text_login_to_add_to_cart"
 msgid "This product cannot be added to the<br>cart because you are not logged in."
-msgstr "Tento produkt nemůže být přidán do <br> košíku protože nejste přihlášen"
+msgstr "Tento produkt nemůže být přidán do<br>košíku, protože nejste přihlášen."
 
 msgctxt "Languages::text_mail_area_logo"
 msgid "Logo for <b>invoices</b>"
@@ -10626,7 +10627,7 @@ msgstr "Logo pro <b>objednávku</b>"
 
 msgctxt "Languages::text_mandatory_fields"
 msgid "<p class=\"mandatory-fields\">The fields marked with <span class=\"required\">*</span> are mandatory</p>"
-msgstr "<P class=mandatory-fields>Pole označená <SPAN class=required>*</SPAN> jsou povinná</P>"
+msgstr "<p class=mandatory-fields>Pole označená <span class=required>*</span> jsou povinná</p>"
 
 msgctxt "Languages::text_max_limit_of_parameters"
 msgid "Maximum value of the \"limit\" field cannot exceed 25 unless the chart type is \"Table\". Limit of this chart has been corrected."
@@ -10634,11 +10635,11 @@ msgstr "Maximální hodnota pole \"limit\" nemůže překročit 25 jestliže typ
 
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
-msgstr "No response from MoneyBookers has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by MoneyBookers. Please contact the store staff and tell them the order ID as provided by MoneyBookers"
+msgstr "Skrill zatím neodpovídá, čekejte prosím. Je možné že objednávka nebyla vytvořena v obchodě, ale že byla úspěšně vytvořena a vybavená přes službu Skrill. Kontaktujte, prosím, personál obchodu a sdělte jim ID objednávky, které vám zadal Skrill"
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Základní nastavení, minimální a maximální hodnoty  jednotlivých transakcí na vašem účtu jsou ukázány níže:<table cellpadding=\"3\"><tr><td><b> Limity      </b></td><td>   GBP  </td><td>   USD   </td><td>   EUR   </td><tr><td><b> Minimum </b></td><td>  Ł1</td><td > $1</td><td> &#65533;1</td></tr><tr><td><b> Maximum </b></td><td>  Ł1,000 </td><td> $1500 </td><td> &#65533;1500 </td></tr><table>Při požadavku vyššího limitu na vašem účtu kontaktujte prosím vašeho správce účtu.<br /><p>Nastavte prosím následující parametry ve Velkoobchodním Extranetu. Klikněte na Správa účtu a potom Instalace:<br /> - Odpovědní URL: [return_url]<br /> - Zpáteční URL: [return_url]</p>"
+msgstr "Základní nastavení, minimální a maximální hodnoty  jednotlivých transakcí na vašem účtu jsou ukázány níže:<table cellpadding=\"3\"><tr><td><b>Limity</b></td><td>GBP</td><td>USD</td><td>EUR</td><tr><td><b>Minimum</b></td><td>Ł1</td><td>$1</td><td>&#65533;1</td></tr><tr><td><b>Maximum</b></td><td>Ł1,000</td><td>$1500</td><td>&#65533;1500</td></tr><table>Při požadavku vyššího limitu na vašem účtu kontaktujte, prosím, vašeho správce účtu.<br /><p>Nastavte, prosím, následující parametry ve Velkoobchodním Extranetu. Klikněte na Správa účtu a potom Instalace:<br /> - Odpovědní URL: [return_url]<br /> - Zpáteční URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -10658,7 +10659,7 @@ msgstr "Profil \"[user_login]\" byl nově vytvořen, zkontrolujte osobní údaje
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
-msgstr "Nic nenašel"
+msgstr "Nic nalezeno"
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
@@ -10734,7 +10735,7 @@ msgstr "Zadejte svůj SHA-1 podpis zde konfiguraci Ogoni.<br /><br />Nové Ogoni
 
 msgctxt "Languages::text_ogoneweb_notice"
 msgid "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
-msgstr "Nastavte prosím náseldující URL v sekci Technické Inforamce na Ogone konfiguraci jako <b> Url pro odpověď</b> pro všechny případy (\"přijato\", \"přidržení\", \"nejisté\", \"zrušeno klientem\", \"příliš mnoho zamítnutí  nabyvatelem\"): <b>[r_url]</b><br /> Také vložte SHA-1 oba podpisy: zde  a na  Ogone Konfiguraci. Potom vyberte Typ požadavku: \"Vytvořit tento požadavek na pozadí a  odložený\"."
+msgstr "Nastavte, prosím, náseldující URL v sekci Technické Inforamce na Ogone konfiguraci jako <b> Url pro odpověď</b> pro všechny případy (\"přijato\", \"přidržení\", \"nejisté\", \"zrušeno klientem\", \"příliš mnoho zamítnutí  nabyvatelem\"): <b>[r_url]</b><br /> Také vložte SHA-1 oba podpisy: zde  a na  Ogone Konfiguraci. Potom vyberte Typ požadavku: \"Vytvořit tento požadavek na pozadí a  odložený\"."
 
 msgctxt "Languages::text_options_no_inventory"
 msgid "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
@@ -10742,7 +10743,7 @@ msgstr "Chcete-li vytvořit kombinace možností, musíte mít alespoň u jedné
 
 msgctxt "Languages::text_order_backordered"
 msgid "Your order has been backordered. We will contact you at the first opportunity."
-msgstr "Vaše objednávka nebyla vyřízená. Prosím kontaktujte nás."
+msgstr "Vaše objednávka nebyla vyřízená. Prosím, kontaktujte nás."
 
 msgctxt "Languages::text_order_placed_error"
 msgid "Your order has been declined by the payment processor. Please review your information and contact store administration."
@@ -10762,15 +10763,15 @@ msgstr "Objednávka byla úspěšně uložena"
 
 msgctxt "Languages::text_order_status_notification"
 msgid "Please note that the notification of changing the status  will be sent depending on the settings of this status"
-msgstr "Please note that the notification about changing the status  will be sent depending on the settings of this status"
+msgstr "Upozorňujeme, že notifikace o změně stavu bude zaslána v závislosti na nastavení tohoto stavu"
 
 msgctxt "Languages::text_out_of_stock"
 msgid "Out of stock"
-msgstr "Není skladem"
+msgstr "Vyprodáno"
 
 msgctxt "Languages::text_pages_cloned"
 msgid "The pages have been cloned successfully. Below the list of new pages."
-msgstr "The pages have becs cloned successfully. Below the list of new pages."
+msgstr "Stránky byly úspěšně naklonované. Seznam nových stránek je níže."
 
 msgctxt "Languages::text_pages_have_been_deleted"
 msgid "Pages have been deleted successfully."
@@ -10786,15 +10787,15 @@ msgstr "Stránka byla úspěšně odstraněna."
 
 msgctxt "Languages::text_page_loading"
 msgid "Loading... Your request is being processed, please wait."
-msgstr "Zpracovávám ... Váš požadavek se vyřizuje, prosím čekejte."
+msgstr "Zpracovávám ... Váš požadavek se vyřizuje, prosím, čekejte."
 
 msgctxt "Languages::text_password_recovery_instructions_sent"
 msgid "Password recovery instructions have been sent to your email."
-msgstr "Pokyny pro obnovení hesla byly odeslány na Váš email."
+msgstr "Pokyny pro obnovení hesla byly odeslány na váš email."
 
 msgctxt "Languages::text_pay4later_notice"
 msgid "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
-msgstr "<b>Poznámka</b>: Abyste mohli pomocí vašeho softwaru sledovat Pay4Later objednávky, musíte provést následující kroky:<br /><br /> -&nbsp;Přihlaste se do Pay4Later BackOffice<br /> -&nbsp;Klikněte na odkaz <u>'Settings/Installations'</u> v sekci <u>'Quick Links'</u>.<br /> -&nbsp;Nastavte <u>'Return URL (Verified)'</u> na: <br /><b>[verified_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Decline)'</u> na: <br /><b>[decline_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Refer)'</u> na: <br /><b>[refer_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Cancel)'</u> na: <br/><b>[cancel_url]</b><br /> -&nbsp;Nastavte <u>'CSN URL'</u> na:<br /><b>[process_url]</b><br /> -&nbsp;Klikněte na tlačítko <u>'Save Changes'</u><br />"
+msgstr "<b>Poznámka</b>: Abyste mohli pomocí vašeho softwaru sledovat Pay4Later objednávky, musíte provést následující kroky:<br /><br /> -&nbsp;Přihlaste se do Pay4Later BackOffice<br /> -&nbsp;Klikněte na odkaz <u>'Settings/Installations'</u> v sekci <u>'Quick Links'</u>.<br /> -&nbsp;Nastavte <u>'Return URL (Verified)'</u> na: <br /><b>[verified_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Decline)'</u> na: <br /><b>[decline_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Refer)'</u> na: <br /><b>[refer_url]</b><br /> -&nbsp;Nastavte <u>'Return URL (Cancel)'</u> na: <br/><b>[cancel_url]</b><br /> -&nbsp;Nastavte <u>'CSN URL'</u> na:<br /><b>[process_url]</b><br /> -&nbsp;Klikněte na tlačítko <u>'Uložit změny'</u><br />"
 
 msgctxt "Languages::text_paybox_notice"
 msgid "<b>Note:</b> Please download the file modulev2.cgi from the PayBox server, copy it to the <b>[paybox_dir]</b> directory <u>in binary mode</u> and make it executable. <br />Run the following command:<br /><b><i>chmod 755 modulev2.cgi</b></i><br /><br />Also ask &#8220;Paybox&#8221; service to add the following URL to the database as &#8220;Callback URL&#8221;:<br /><b>[callback_url]</b>"
@@ -10810,7 +10811,7 @@ msgstr "Platbu nelze odstranit."
 
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
-msgstr "Počkejte, prosím, než jsou zpracovávány Vaše platební údaje..."
+msgstr "Počkejte, prosím, než jsou zpracovávány vaše platební údaje..."
 
 msgctxt "Languages::text_paysitecash_debug"
 msgid "Debug Information"
@@ -10850,7 +10851,7 @@ msgstr "Nezobrazovat vybranou měnu"
 
 msgctxt "Languages::text_paysitecash_notice"
 msgid "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
-msgstr "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after paymcst return url:</b><br/>[sucess_url]<br/><br/><b>canceled paymcst url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
+msgstr "Zadejte, prosím, tyto URL pole do vaší konfigurace Pays Cash:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>po zaplacení vratné url:</b><br/>[sucess_url]<br/><br/><b>zrušena platba url:</b><br/>[cancel_url]<br/><br/><b>Back Office potvrzení url:</b><br/>[confirm_url]"
 
 msgctxt "Languages::text_paysitecash_processor"
 msgid "Processor"
@@ -10862,7 +10863,7 @@ msgstr "Stránky ID"
 
 msgctxt "Languages::text_payway_notice"
 msgid "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
-msgstr "Please set up the following parameters in PayWay backend: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
+msgstr "Prosím, zadejte následující parametry v nastaveních PayWay: <p> Browser Return URL Pro platby: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: ponechte prázdné </p>"
 
 msgctxt "Languages::text_permissions_changed"
 msgid "Permissions changed"
