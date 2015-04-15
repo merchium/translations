@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-14 10:00-0400\n"
+"PO-Revision-Date: 2015-04-15 09:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2842,7 +2842,7 @@ msgstr "Základní předloha"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Velký obrázek"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -10178,7 +10178,7 @@ msgstr "Jste si jist/a, že chcete pokračovat?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
-msgstr "<b>Poznámka</b><br />1. Poukázku, kterou jste obdrželi na disku zkopírujte do adresáře [home_path]. Přejmenujte poukázku na certif.fr. [my_merchant_id], kde [my_merchant_id] je číslo vaší stránky.<br />2. Přejmenujte soubor s parametry obchodu (parmcom.014213245611111 file) na parmcom. [my_merchant_id].<br />3. Upravte soubor <b>pathfile</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>D_LOGO![some_dir]!</u>' nahraďte '<u>D_LOGO![http_path]/logo/!</u>'<br />- Řádek' <u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u> 'nahraďte' <u>F_DEFAULT! [home_path]/parmcom .sogenactif!</u> '<br />- Řádek' <u>F_PARAM![/some_dirs/parmcom]!</u> 'nahraďte' <u>F_PARAM![home_path]/parmcom!</u> ' <br />- Řádek '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' nahraďte '<u>F_CERTIFICATE![home_path]/certif!</u>' <br />4. Upravte soubor <b>parmcom. [some_number]</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>AUTO_RESPONSE_URL![some_url]!</u>' nahraďte '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Řádek' <u>CANCEL_URL![some_url]!</u> 'nahraďte' <u>CANCEL_URL! [ok_url]!</u>'<br />- Řádek '<u>RETURN_URL![some_url]!</u>' nahraďte '<u>RETURN_URL![ok_url]!</u>'<br />"
+msgstr "<b>Poznámka</b><br />1. Poukázku, kterou jste obdrželi na disku zkopírujte do adresáře [home_path]. Přejmenujte poukázku na certif.fr. [my_merchant_id], kde [my_merchant_id] je číslo vaší stránky.<br />2. Přejmenujte soubor s parametry obchodu (parmcom.014213245611111 file) na parmcom. [my_merchant_id].<br />3. Upravte soubor <b>pathfile</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>D_LOGO![some_dir]!</u>' nahraďte '<u>D_LOGO![http_path]/logo/!</u>'<br />- Řádek' <u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u> 'nahraďte' <u>F_DEFAULT! [home_path]/parmcom .sogenactif!</u>'<br />- Řádek' <u>F_PARAM![/some_dirs/parmcom]!</u> 'nahraďte' <u>F_PARAM![home_path]/parmcom!</u>'<br />- Řádek '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' nahraďte '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Upravte soubor <b>parmcom. [some_number]</b> v adresáři <b>[home_path]</b><br />- Řádek '<u>AUTO_RESPONSE_URL![some_url]!</u>' nahraďte '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Řádek' <u>CANCEL_URL![some_url]!</u> 'nahraďte' <u>CANCEL_URL! [ok_url]!</u>'<br />- Řádek '<u>RETURN_URL![some_url]!</u>' nahraďte '<u>RETURN_URL![ok_url]!</u>'<br />"
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
@@ -10871,11 +10871,11 @@ msgstr "Oprávnění změněno"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Note:</b> Please scsd the following information to the paymcst support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr "<b>Poznámka:</b> Pošlete, prosím, následující údaje platební podpoře:<br /> webové stránky URL: '<u>[website_url]</u>'<br /> Odkazující URL: '<u>[referrer_url]</u>'<br /> Úspěch URL:' <u>[success_url]</u>'<br /> Selhání URL:' <u>[failure_url]</u>'<br /> Backlink URL:' <u>[backlink_url]</u>'<br /> IP Adresa:' <u>[ip_address]</u>'<br /><br /> Metoda Response:' <u>[response_method]</u>'<br /><br />"
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
-msgstr "Zpracovávám ... Pozice jsou měněny, prosím čekejte."
+msgstr "Zpracovávám... Pozice jsou aktualizovány, počkejte, prosím."
 
 msgctxt "Languages::text_prettyphoto"
 msgid "prettyPhoto"
@@ -10891,7 +10891,7 @@ msgstr "Následující produkty byly přidány do obchodu:"
 
 msgctxt "Languages::text_products_cloned"
 msgid "The products have been cloned successfully. Below the list of new products"
-msgstr "The products have becs cloned successfully. Below the list of new products"
+msgstr "Zboží bylo úspěšně naklonované. Seznam nového zboží se nachází níže"
 
 msgctxt "Languages::text_products_have_been_deleted"
 msgid "Products have been deleted successfully."
@@ -10959,7 +10959,7 @@ msgstr "jestliže [set] tyto podmínky jsou [set_value]"
 
 msgctxt "Languages::text_proxypay_notice"
 msgid "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
-msgstr "Validation script:&nbsp;&nbsp;&nbsp;<b> [cart_url]/payments/cc_processors/proxypay3_validation.php</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b> [cart_url]/payments/cc_processors/proxypay3_confirmation.php</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> [cart_url]/payments/cc_processors/proxypay3_ok.php</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [cart_url]/payments/cc_processors/proxypay3_nok.php</b><br />"
+msgstr "Ověření script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Potvrzovací script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> [ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 
 msgctxt "Languages::text_qbms_notice"
 msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
@@ -10979,7 +10979,7 @@ msgstr "<p>Pokud jste zapomněli vaše heslo, zadejte do pole svou e-mailovou ad
 
 msgctxt "Languages::text_recover_password_notice"
 msgid "Enter your email address to receive a new login key and a link to sign in and change your password."
-msgstr "Vložte prosím vaše údaje. Systém bude resetovat vaše staré heslo a zašle nové na vaši e-mailovou adresu."
+msgstr "Vložte, prosím, vaše údaje. Systém bude resetovat vaše staré heslo a zašle nové na vaši e-mailovou adresu."
 
 msgctxt "Languages::text_recover_password_title"
 msgid "Reset password"
@@ -10991,15 +10991,15 @@ msgstr "Redaktor"
 
 msgctxt "Languages::text_remove_additional_images"
 msgid "When importing additional images of an updated product, existing images of this product will be deleted before import"
-msgstr "Whcs importing additional images of an updated product, existing images of this product will be deleted before import"
+msgstr "Před importem dalších obrázků aktualizovaného produktu budou stávající obrázky odstraněny"
 
 msgctxt "Languages::text_remove_backup_files"
 msgid "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
-msgstr "Varování! Jestliže odeberete zálohovací soubory , nebude již možné  obnovit předešlou instalaci verze  CS-Cart . Ujistěte se , že nainstalovaná verze pracuje v pořádku a soubory zálohované databáze jsou na bezpečném místě."
+msgstr "Varování! Jestliže odeberete zálohovací soubory, nebude již možné obnovit předešlou instalaci verze  CS-Cart . Ujistěte se, že nainstalovaná verze pracuje v pořádku a soubory zálohované databáze jsou na bezpečném místě."
 
 msgctxt "Languages::text_required_group_product"
 msgid "Please select a product for the required group [group_name]"
-msgstr "Vyberte prosím produkt z požadované skupiny [group_name]"
+msgstr "Vyberte, prosím, produkt z požadované skupiny [group_name]"
 
 msgctxt "Languages::text_reset_inventory_description"
 msgid "Quantity of all products in the store will be reset."
@@ -11011,15 +11011,15 @@ msgstr "Jste si jist/a, že chcete obnovit šablonu?"
 
 msgctxt "Languages::text_sagepay_dir_notice"
 msgid "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
-msgstr "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please csable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
+msgstr "<b>Poznámka:</b>Povolte, prosím, možnost 3D Secure Fraud Checking ve vašem SagePay GSP Direct účtu, abyste mohli sledovat vaše SagePay objednávky."
 
 msgctxt "Languages::text_sagepay_notice"
 msgid "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
-msgstr "Use <b> testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p> <b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p> <b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
+msgstr "Použijte <b>test vendor</b> as <b>Název dodavatele</b> pro zkušební účely<br /><p><b>PLATBA</b> - druh transakce je použit pro získání autorizace z banky a vybavení transakce časné následující ráno, zavazujíce se že finance budou ze zákazníkovy karty odebrány.<br /></p><p><b> odložený </b> - transakce NEJSOU odeslány do banky pro dokončení dříve než jejich propustil přihlášením do SagePay GSP Admin Interface, nalezením transakce a klepnutím na tlačítko Release.</p>"
 
 msgctxt "Languages::text_secret_key_notice"
 msgid "Please complete this field with any non-empty value. It will increase the security of transactions."
-msgstr "Please fill this field with any non-empty value. It will increase the security of transactions."
+msgstr "Prosím, vyplňte toto pole s jakýmkoli non-prázdnou hodnotou. To zvýší bezpečnost transakcí."
 
 msgctxt "Languages::text_select_fields2edit_note"
 msgid "You are able to modify several items at once. Select the check boxes corresponding to the fields you wish to edit, and click on Modify Selected."
@@ -11075,7 +11075,7 @@ msgstr "Pokud jste si zvolili měnu, která není základní měnou v našem obc
 
 msgctxt "Languages::text_skrill_email_is_not_registered"
 msgid "Specified email address is not registered in Skrill."
-msgstr "Uvedená e-mailová adresa není v Skrill zaregistrována."
+msgstr "Stanovená e-mailová adresa není registrován v Skrill."
 
 msgctxt "Languages::text_skrill_email_is_registered"
 msgid "Specified email address is registered in Skrill."
@@ -11159,11 +11159,11 @@ msgstr "Poplatek <b>[tax]</b> byl odebrán ze všech produktů"
 
 msgctxt "Languages::text_template_changed"
 msgid "Your changes have not been saved.Press OK to save changes or Cancel to discard them."
-msgstr "Provedené změny nebyly uloženy.Kliknutím na tlačítko OK uložte změny zahodit."
+msgstr "Provedené změny nebyly uloženy. Stisknutím tlačítka OK uložit změny nebo zrušit aby se jich zbavil."
 
 msgctxt "Languages::text_thaiepay_notice"
 msgid "<p>Please set the following values in the Thaiepay merchant settings:</p><p>Return Url: <b>[return_url]</b></p><p>Status: <b>Yes (it is important!)</b></p><p>Post Back Url: <b>[postback_url]</b></p><p>Main Parameter: <b>\"total\" must be checked</b> - it will increase the security of transactions</p><p>Additional Parameter: it is obligatory for successful processing of transactions. For example, you can set <b>name=completed</b> and <b>value=some_secret_word</b>. Copy these values to these form fields: \"Additional parameter Name\" and \"Additional parameter Value\".</p>"
-msgstr "Vaše zpětná URL je <b>[return_url]</b>"
+msgstr "<p>V Thai ePay merchant settings prosím nastavte následující hodnoty:</p><p>Návrat Url: <b>[return_url] </b></p><p>Status:<b>Ano (důležité!)</b></p><p>Post Back Url: <b>[postback_url]</b></p><p>Main Parametr:<b>\"total\" musí být zaškrtnuto</b> - zvýší to zabezpečení vašich transakcí</p><p>Additional Parametr: je povinný pro úspěšné zpracování transakcí. Například můžete nastavit <b>name=completed</b> a <b> value=some_secret_word</b>. Zkopírujte tyto hodnoty do polí: \"Additional parametr Name\" a \"Additional parametr Value\".</p>"
 
 msgctxt "Languages::text_thumbnail_manual_loading"
 msgid "Thumbnails will be generated from detailed images automatically, but you can also <a id=\"[id]\" class=\"[class]\">upload them manually.</a>"
@@ -11203,19 +11203,19 @@ msgstr "Transakce byla zrušena zákazníkem"
 
 msgctxt "Languages::text_transaction_declined"
 msgid "Transaction was declined by the payment processor or was canceled by the customer"
-msgstr "Transakce byla odmítnuta platebním procesorem  nebo zrušena zákazníkem"
+msgstr "Transakce byla odmítnuta platebním procesorem nebo zrušena zákazníkem"
 
 msgctxt "Languages::text_uc_another_update_process_running"
 msgid "Possibly another upgrade process is running.<br />Please wait until it is finished.<br />If the process has finished with an error, you can remove the file [filename] and try to restart the upgrade.<br /><a href=\"[url]\">Remove the lock file and restart the upgrade</a>"
-msgstr "Another upgrade process is running"
+msgstr "Pravděpodobně probíhá jiný proces aktualizace.<br />Prosím, vyčkejte dokud se dokončí.<br />Pokud proces aktualizace skončil chybou, smažte soubor [filename] a zkuste aktualizaci znovu.<br /><a href=\"[url]\">Odstraňte zamykací soubor a restartujte aktualizaci</a>"
 
 msgctxt "Languages::text_uc_backup_database"
 msgid "The following database tables have been backed up"
-msgstr "Databáze byla zálohována"
+msgstr "Následující databázové tabulky byly zálohovány"
 
 msgctxt "Languages::text_uc_backup_files"
 msgid "The following files have been backed up"
-msgstr "Soubory byly zálohovány"
+msgstr "Následující soubory byly zálohovány"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
@@ -11235,7 +11235,7 @@ msgstr "Následující soubory mají místní modifikaci.Tyto soubory budou zaz�
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
-msgstr "Vaše verze softwaru  byla úspěšně zkontrolována. Nyní je připravena pro aktualizaci."
+msgstr "Vaše verze softwaru [product] byla úspěšně zkontrolována. Nyní je připravena pro aktualizaci."
 
 msgctxt "Languages::text_uc_conflicts"
 msgid "The following files had local modifications"
@@ -11243,11 +11243,11 @@ msgstr "Následující soubor byl místně změněn"
 
 msgctxt "Languages::text_uc_db_right_needed"
 msgid "Not enough permissions to update database. Please assign the following privileges to your database user [db_user]: [priviliges]."
-msgstr "Not csough permissions to update database. Please assign the following privileges to your database user [db_user]: [priviliges]."
+msgstr "Nedostatek oprávnění k aktualizaci databáze. Udělte, prosím, následující pravomoci uživateli [db_user]: [priviliges]."
 
 msgctxt "Languages::text_uc_emergency_restore"
 msgid "Attention! Please copy and save the URL below - you can use it to restore your store if upgrade fails.<br /><b>[href]</b>"
-msgstr "Pozor! Prosím, zkopírujte si a uložte tuto URL adresu - můžete ji použít pro obnovení obchodu pokud aktualizace selže.<br /><b>[href]</b>"
+msgstr "Pozor! Prosím, zkopírujte si a uložte tuto URL adresu - můžete jej použít pro obnovení úložiště v případě inovace nezdaří.<br /><b>[href]</b>"
 
 msgctxt "Languages::text_uc_failed_to_backup_tables"
 msgid "The database tables have not been backed up"
@@ -11271,11 +11271,11 @@ msgstr "Připojení FTP se nezdařilo"
 
 msgctxt "Languages::text_uc_ftp_connect_failed"
 msgid "Cannot connect to FTP server. Please check if the host name is correct"
-msgstr "Není možné se přpojit k FTP serveru. Překontrolujte prosím Vaše Hostname"
+msgstr "Není možné se přpojit k FTP serveru. Překontrolujte prosím vaše Hostname"
 
 msgctxt "Languages::text_uc_ftp_login_failed"
 msgid "Cannot log in to FTP server. Please check if username and password are correct"
-msgstr "Není možné se přpojit k FTP serveru. Překontrolujte prosím Vaše uživatelské jméno a heslo"
+msgstr "Není možné se přpojit k FTP serveru. Překontrolujte prosím vaše uživatelské jméno a heslo"
 
 msgctxt "Languages::text_uc_ftp_needed"
 msgid "FTP credentials to access the files and set proper permissions automatically"
@@ -11307,7 +11307,7 @@ msgstr "Na disku není dostatek místa pro zálohování databáze"
 
 msgctxt "Languages::text_uc_no_ftp_module"
 msgid "It seems that no FTP module is installed on your server. You cannot use FTP until this module is installed"
-msgstr "Není nainstalován žádný FTP modul na Vašem serveru.Proto nemůžete FTP použít"
+msgstr "Není nainstalován žádný FTP modul na vašem serveru. Proto nemůžete FTP použít"
 
 msgctxt "Languages::text_uc_unable_to_create_upgrade_folder"
 msgid "Failed to create an upgrade folder"
@@ -11375,7 +11375,7 @@ msgstr "Na stránce je používána měna kterou platební systém nepodporuje. 
 
 msgctxt "Languages::text_upgrade_available"
 msgid "A new version of [product] is available. If you want to upgrade to the latest version now, click <a href=\"[link]\">here</a>."
-msgstr "Je k dispozici nová verze produktu [product]. Pokud chcete provést upgrade na nejnovější verzi nyní, klikněte <a href=\"[link]\"> zde</a>."
+msgstr "Je k dispozici nová verze produktu [product]. Pokud chcete provést upgrade na nejnovější verzi nyní, klikněte <a href=\"[link]\">zde</a>."
 
 msgctxt "Languages::text_usergroup_activated"
 msgid "The user group level you requested has been activated"
@@ -11391,7 +11391,7 @@ msgstr "Zákazník požaduje uživatelskou skupinu."
 
 msgctxt "Languages::text_worldpay_notice"
 msgid "Configure your WorldPay account before using the payment.<br /><br />Go to the WorldPay administration page and switch to the Installation section.<br /><br />Fill the fields as follows:<br /><br />Payment Response URL: <b>[return_url]</b><br />Payment Response Password: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />MD5 secret for transactions: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />SignatureFields: <b>instId:amount:currency:cartId</b>"
-msgstr "Použijte prosím následující URL jako url pro opětné vyvolání: <br /><b>[return_url]</b>"
+msgstr "Před použitím této metody platby nakonfigurujte svůj WorldPay účet.<br /><br />Jděte na stránku s nastaveními WorldPay a do sekce Installation.<br /><br />Pole vyplňte následovně:<br /><br />Payment Response URL: <b>[return_url]</b><br />Payment Response Password: <b>Vymyslete si tajné slovo.</b> Totéž slovo musíte zadat v příslušném poli níže<br />MD5 secret for transactions : <b>Vymyslete si tajné slovo.</b> Totéž slovo musíte zadat v příslušném poli níže<br />SignatureFields: <b>instId: amount: currency: cartId</b>"
 
 msgctxt "Languages::text_zipcodes_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>98?78</b> &nbsp;&nbsp;(corresponds to 98878, 98378, 98978, etc)<br /><b>12*</b>&nbsp;&nbsp; (corresponds to 12345, 12876, 12098, etc..)"
@@ -11643,7 +11643,7 @@ msgstr "Vypnuto"
 
 msgctxt "Languages::theme_editor.on"
 msgid "On"
-msgstr "Zapnout"
+msgstr "Zapnuto"
 
 msgctxt "Languages::theme_editor.out_of_stock"
 msgid "Out of stock"
@@ -11823,7 +11823,7 @@ msgstr "Tento rok"
 
 msgctxt "Languages::ths_sign"
 msgid "Ths sign"
-msgstr "Ths sign"
+msgstr "Oddělovač tisíců"
 
 msgctxt "Languages::thumb"
 msgid "Thumbnail"
@@ -11843,7 +11843,7 @@ msgstr "Náhledy byly odstraněny"
 
 msgctxt "Languages::thumbnail_width"
 msgid "Thumbnail width in scroller"
-msgstr "šířka náhledu v otočném okně"
+msgstr "Šířka náhledu v otočném okně"
 
 msgctxt "Languages::tier_account"
 msgid "tier account"
@@ -11895,7 +11895,7 @@ msgstr "Vyhledávací pole"
 
 msgctxt "Languages::to"
 msgid "TO"
-msgstr "To"
+msgstr "TO"
 
 msgctxt "Languages::today"
 msgid "Today"
@@ -11903,7 +11903,7 @@ msgstr "Dnes"
 
 msgctxt "Languages::tools"
 msgid "Tools"
-msgstr "Nastavení"
+msgstr "Nástroje"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
@@ -11927,7 +11927,7 @@ msgstr "Obnovit výchozí"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
-msgstr "Tip"
+msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
@@ -11979,7 +11979,7 @@ msgstr "Aplikovat na všechny subkategorie"
 
 msgctxt "Languages::to_date"
 msgid "Date through"
-msgstr "Datovat po"
+msgstr "Datum prostřednictvím"
 
 msgctxt "Languages::to_fixed"
 msgid "to fixed amount"
@@ -12011,7 +12011,7 @@ msgstr "Stav objednávky"
 
 msgctxt "Languages::track_orders"
 msgid "Track orders"
-msgstr "Sledování objednávek"
+msgstr "Sledování objednávky"
 
 msgctxt "Languages::track_request_subj"
 msgid "Order tracking"
@@ -12067,11 +12067,11 @@ msgstr "Adresa URL transakce"
 
 msgctxt "Languages::translate"
 msgid "Translate"
-msgstr "Překlad"
+msgstr "Přeložit"
 
 msgctxt "Languages::translations"
 msgid "Translations"
-msgstr "Překlad"
+msgstr "Překlady"
 
 msgctxt "Languages::tree"
 msgid "Tree"
@@ -12091,11 +12091,11 @@ msgstr "Nelze aktivovat zkušební režim"
 
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "This <strong>trial version</strong> of CS-Cart shopping cart software is <a href=\"http://www.cs-cart.com/license-trial.html\" target=\"_blank\">licensed for a 30-day evaluation</a>. After this period is over, you must either <a href=\"http://www.cs-cart.com/order-now.html\" target=\"_blank\">purchase the full commercial license</a> or remove your copy CS-Cart Trial.<p style=\"color: #cc0000;\">Modifying, removing, hiding, or make this message barely visible is illegal and may cause legal action.</p>"
+msgstr "Váš obchod je ve zkušebním režimu.<br /><br />Na konci 30denní zkušební lhůty bude automaticky aktivován režim Zdarma.<br /><br />Pro zachování přístupu ke všem funkcím po vypršení zkušební doby si zakupte licenci a <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivujte si plnou verzi</a>."
 
 msgctxt "Languages::true"
 msgid "True"
-msgstr "pravdivé"
+msgstr "Pravda"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
@@ -12107,7 +12107,7 @@ msgstr "Titulek stránky zobrazena na panelu prohlížeče."
 
 msgctxt "Languages::ttc_popularity"
 msgid "Product popularity rating based on how many times the storefront has been viewed, number of additions to cart and number of purchases."
-msgstr "Ukazatel popularity produktu je založen na tom , jak často byl produkt v obchodě viděn,kolikrát byl přidán do košíku a kolikrát byl produkt zakoupen."
+msgstr "Ukazatel popularity produktu je založen na tom, jak často byl produkt v obchodě viděn, kolikrát byl přidán do košíku a kolikrát byl produkt zakoupen."
 
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
@@ -12167,15 +12167,15 @@ msgstr "Oddělovač tisíců."
 
 msgctxt "Languages::tt_views_database_manage_backup_data"
 msgid "If enabled, the database backup file includes the actual table data."
-msgstr "If enabled, the database backup file includes the actual table data."
+msgstr "Pokud je povoleno, záložní soubor databáze obsahuje aktuální data tabulky."
 
 msgctxt "Languages::tt_views_database_manage_backup_schema"
 msgid "If enabled, the database backup file keeps the table structure."
-msgstr "If enabled, the database backup file keeps the table structure."
+msgstr "Pokud je povoleno, záložní soubor databáze udržuje strukturu tabulky."
 
 msgctxt "Languages::tt_views_exim_export_output"
 msgid "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screen\" - to display the file's contents, \"Server\" - to save the file on the server file system."
-msgstr "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screcs\" - to display the file's contcsts, \"Server\" - to save the file on the server file system."
+msgstr "Vyberte si, co chcete se souborem udělat: \"Stáhnout\" - stáhněte soubor přímo do počítače, \"Prohlížet\" - zobrazte obsah souboru, \"Server\" - uložte soubor ve svém serveru."
 
 msgctxt "Languages::tt_views_languages_manage_language_code"
 msgid "Two-letter code of the language."
@@ -12243,11 +12243,11 @@ msgstr "Přípona, která následuje po vlastnostech produktu."
 
 msgctxt "Languages::tt_views_product_options_update_incorrect_filling_message"
 msgid "Message that is displayed if the entered data is incorrect."
-msgstr "Message that is displayed if the cstered data is incorrect."
+msgstr "Zpráva, která se zobrazí v případě, že zadané údaje jsou správné."
 
 msgctxt "Languages::tt_views_product_options_update_inner_hint"
 msgid "A note that indicates the value to be entered."
-msgstr "A note that indicates the value to be cstered."
+msgstr "Poznámka která udává hodnotu, kterou je třeba vložit."
 
 msgctxt "Languages::tt_views_product_options_update_inventory"
 msgid "If enabled, the option is taken into account when forming the product inventory."
@@ -12439,7 +12439,7 @@ msgstr "Aktualizovat skupinu"
 
 msgctxt "Languages::update_period_expired"
 msgid "<p class=\"text-error\">Your upgrade subscription has expired, so this software upgrade cannot be installed. You can prolongate your subscription in the <a href=\"[url]\">Customer Help Desk</a>.</p><p>Please note that it is not mandatory: you can continue using this software with no limitation even without an upgrade subscription.</p>"
-msgstr "Access to this upgrade and to all future upgrades is closed. You can purchase an upgrade subscription plan at <a href=\"[helpdesk_url]\">Customer Help Desk</a>"
+msgstr "<p class=\"text-error\">Vaše předplatné pro aktualizace vypršelo a bohužel tedy nemůžete nainstalovat tento software. Předplatné si můžete prodloužit na <a href=\"[url]\">Customer Help Desk</a>.</p><p>Toto není povinen krok: software můžete dále používat bez omezení i bez předplatného aktualizací.</p>"
 
 msgctxt "Languages::update_products"
 msgid "Update products"
@@ -12451,7 +12451,7 @@ msgstr "Aktualizovat profil"
 
 msgctxt "Languages::update_profile_notification"
 msgid "Your profile has been updated."
-msgstr "Váš profil byl aktualizován"
+msgstr "Váš profil byl aktualizován."
 
 msgctxt "Languages::update_profile_notification_header"
 msgid "Your profile has been updated"
@@ -12507,7 +12507,7 @@ msgstr "Je potřeba aktualizace Flash Playeru"
 
 msgctxt "Languages::upgrade_is_not_avail"
 msgid "<p class=\"text-error\">This upgrade is not available for your [product] license. Please contact our <a href=\"[href]\">support team</a> to update your license status.</p>"
-msgstr "This upgrade is not available for your CS-Cart license. Please contact <a href=\"[helpdesk_url]\">CS-Cart support team</a> to update your license status."
+msgstr "<p class=\"text-error\">Tato aktualizace není dostupná pro vaši licenci [product]. Kontaktujte, prosím, náš <a href=\"[href]\">podpůrný tým</a> pro aktualizaci stavu vaší licence.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12531,7 +12531,7 @@ msgstr "United Parcel Service"
 
 msgctxt "Languages::url"
 msgid "URL"
-msgstr "Adresa URL"
+msgstr "URL"
 
 msgctxt "Languages::user"
 msgid "User"
@@ -12591,11 +12591,11 @@ msgstr "Typ uživatele"
 
 msgctxt "Languages::user_account_info"
 msgid "User account information"
-msgstr "Informace o účtu"
+msgstr "Informace o uživatelském kontě"
 
 msgctxt "Languages::user_account_information"
 msgid "User account information"
-msgstr "Info o uživatelském účtu"
+msgstr "Informace o uživatelském kontě"
 
 msgctxt "Languages::user_cannot_be_deleted"
 msgid "Sorry, user with id [user_id] can not be deleted."
@@ -12643,7 +12643,7 @@ msgstr "Použijte vhodné období"
 
 msgctxt "Languages::use_cardinal"
 msgid "Use Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
-msgstr "Use Cardinal Ccstinel&reg; for 3-D Secure Payer Authcstication"
+msgstr "Použijte Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
 
 msgctxt "Languages::use_coupons_commission"
 msgid "Coupon commission"
@@ -12695,11 +12695,11 @@ msgstr "Osvědčení o poštovném"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_for_firm_mailing_books"
 msgid "Certificate of mailing for firm mailing books"
-msgstr "Osvědčení o mailing pro firemní e-mailové knihy"
+msgstr "Certificate of mailing pro pevné poštovní knihy"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_per_individual_article"
 msgid "Certificate of mailing per individual article"
-msgstr "Osvědčení o zasílání na individuální článek"
+msgstr "Certificate of mailing pro jednotlivé články"
 
 msgctxt "Languages::usps_service_certified"
 msgid "Certified"
@@ -12707,11 +12707,11 @@ msgstr "Certifikováno"
 
 msgctxt "Languages::usps_service_collect_on_delivery"
 msgid "Collect on delivery"
-msgstr "Dobírka"
+msgstr "Na dobírku"
 
 msgctxt "Languages::usps_service_delivery_confirmation"
 msgid "USPS Tracking/Delivery confirmation"
-msgstr "Delivery confirmation"
+msgstr "USPS Sledování / Potvrzení doručení"
 
 msgctxt "Languages::usps_service_edelivery_confirmation"
 msgid "e-Delivery Confirmation"
@@ -12867,7 +12867,7 @@ msgstr "Zobrazit kategorie"
 
 msgctxt "Languages::view_compare_list"
 msgid "Compare list"
-msgstr "View compare list"
+msgstr "Porovnejte seznam"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -12947,7 +12947,7 @@ msgstr "Varování"
 
 msgctxt "Languages::warning_default_language_disabled"
 msgid "The default language defined in your settings has been disabled or deleted. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
-msgstr "The default language defined in your settings has been disabled or deleted. Please update settings on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
+msgstr "Jazyk, který jste v nastaveních definovali jako výchozí, byl zapnutý nebo odstraněn. Aktualizujte, prosím, výchozí jazyk frontendu na následující stránce: <a href=\"[link]\"> Nastavení :: Vzhled</a>"
 
 msgctxt "Languages::default_language_status"
 msgid "Status of the Default language cannot be changed"
@@ -13011,7 +13011,7 @@ msgstr "E-Mail/Objednávka ID nebyla v databázi nalezena."
 
 msgctxt "Languages::warning_variants_removal"
 msgid "Clicking on Save will remove product feature values."
-msgstr "Clicking on Save will remove product variants."
+msgstr "Kliknutím na tlačítko Uložit odstranit hodnoty vlastností produktu."
 
 msgctxt "Languages::website"
 msgid "Website"
@@ -13115,7 +13115,7 @@ msgstr "Skvělá práce!"
 
 msgctxt "Languages::what_is_cvv2"
 msgid "What is CVV/CVC"
-msgstr "Co je cvv2"
+msgstr "Co je CVV/CVC"
 
 msgctxt "Languages::widget_code"
 msgid "Widget code"
@@ -13179,7 +13179,7 @@ msgstr "Vaše jméno"
 
 msgctxt "Languages::your_range"
 msgid "Your range"
-msgstr "Vaše rozmezí"
+msgstr "Tento dosah"
 
 msgctxt "Languages::you_have_no_permissions"
 msgid "You have no permissions"
@@ -13195,11 +13195,11 @@ msgstr "Akce s nulovou cenou"
 
 msgctxt "Languages::zipcodes"
 msgid "Zip/Postal codes"
-msgstr "Poštovní směrovací číslo"
+msgstr "Zip/Poštovní směrovací čísla"
 
 msgctxt "Languages::zip_postal_code"
 msgid "Zip/postal code"
-msgstr "Poštovní směrovací číslo"
+msgstr "Zip/Poštovní směrovací číslo"
 
 msgctxt "Languages::zone"
 msgid "Zone"
@@ -13207,7 +13207,7 @@ msgstr "Zóna"
 
 msgctxt "Languages::zpa_ask_price"
 msgid "Ask customer to enter the price"
-msgstr "Ask customer to cster the price"
+msgstr "Požádat zákazníka, aby zadal cenu"
 
 msgctxt "Languages::zpa_permit"
 msgid "Allow customers to add the product to cart"
@@ -13311,7 +13311,7 @@ msgstr "Nahrát téma"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
-msgstr "Upload a instalace nového tématu je skvělý způsob jak personalizovat váš obchod. Téma můžete uploadovat tak, že vyberete archiv formátu [exts] a kliknete na <strong>Uploadovat </strong>."
+msgstr "Nahrávání a instalace nového tématu je skvělý způsob jak personalizovat váš obchod. Téma můžete uploadovat tak, že vyberete archiv formátu [exts] a kliknete na <strong>Uploadovat </strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13611,7 +13611,7 @@ msgstr "jakýkoliv"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "Všechno"
+msgstr "všechno"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
@@ -13723,7 +13723,7 @@ msgstr "Způsob odesílání e-mailů"
 
 msgctxt "SettingsOptions::width"
 msgid "Image width"
-msgstr "Width,px"
+msgstr "Šířka obrázku"
 
 msgctxt "SettingsOptions::log_type_orders"
 msgid "Orders"
@@ -13791,7 +13791,7 @@ msgstr "Zobrazit pouze kategorie kořenové úrovni odkazy v sekci \"kategorií\
 
 msgctxt "SettingsOptions::height"
 msgid "Image height"
-msgstr "Height,px"
+msgstr "Výška obrazku"
 
 msgctxt "SettingsOptions::admin_passwords_must_contain_mix"
 msgid "Administrator password must contain both letters and numbers"
@@ -13911,7 +13911,7 @@ msgstr "Uzavření obchodu"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
-msgstr "Cron password"
+msgstr "Přístupový klíč ke cron skriptu, který posílá e-mailové oznámení o změně hesla. Použití: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
@@ -14531,7 +14531,7 @@ msgstr "Neaktivní"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
-msgstr "29-09-2005 (den měsíc rok)"
+msgstr "29-09-2005 (den-měsíc-rok)"
 
 msgctxt "SettingsVariants::time_format::%H.%M"
 msgid "15.43"
@@ -14647,7 +14647,7 @@ msgstr "Aktualizovat"
 
 msgctxt "SettingsVariants::date_format::%m-%d-%Y"
 msgid "09-29-2005 (month-day-year)"
-msgstr "09-29-2005 (měsíc den rok)"
+msgstr "09-29-2005 (měsíc-den-rok)"
 
 msgctxt "SettingsVariants::time_format::%H:%M:%S"
 msgid "15:43:55"
@@ -15427,7 +15427,7 @@ msgstr "AVS PSČ"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS adresa"
+msgstr "AVS Adresa"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15608,7 +15608,7 @@ msgstr "Chápu, že mé místní úpravy budou navždy ztraceny během upgradu"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Změní se"
+msgstr "Bude změněno"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
