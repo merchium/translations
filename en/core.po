@@ -1853,8 +1853,8 @@ msgid "Clean up history"
 msgstr "Clean up history"
 
 msgctxt "Languages::clean_logs"
-msgid "Clean logs"
-msgstr "Clean logs"
+msgid "Clear logs"
+msgstr "Clear logs"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2831,6 +2831,10 @@ msgstr "Parent ([default])"
 msgctxt "Languages::default_template"
 msgid "Default template"
 msgstr "Default template"
+
+msgctxt "Languages::bigpicture_template"
+msgid "The big picture"
+msgstr "The big picture"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -12269,8 +12273,8 @@ msgid "Domain name that you want to use instead of the CloudFront domain name fo
 msgstr "Domain name that you want to use instead of the CloudFront domain name for the URLs for your files. You also need to create a CNAME record with your DNS service to route queries to CloudFront host (it will be displayed on this page after you enter account information)."
 
 msgctxt "Languages::tt_views_storage_cdn_key"
-msgid "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
+msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -13668,17 +13672,13 @@ msgctxt "SettingsOptions::company_name"
 msgid "Company name"
 msgstr "Company name"
 
-msgctxt "SettingsOptions::secure_checkout"
-msgid "Enable secure connection at checkout"
-msgstr "Enable secure connection at checkout"
-
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
 msgstr "Enable secure connection in the administration panel"
 
-msgctxt "SettingsOptions::secure_auth"
-msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "Enable secure connection for authentication, profile and orders pages"
+msgctxt "SettingsOptions::secure_storefront"
+msgid "Enable secure connection for the storefront"
+msgstr "Enable secure connection for the storefront"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14340,10 +14340,6 @@ msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
 msgstr "Notice displaying time (to turn off the autohide function enter 0)"
 
-msgctxt "SettingsOptions::use_email_as_login"
-msgid "User e-mail is used as login"
-msgstr "User e-mail is used as login"
-
 msgctxt "SettingsOptions::quick_registration"
 msgid "Quick registration"
 msgstr "Quick registration"
@@ -14432,7 +14428,7 @@ msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Enable selling downloadable products"
 
-msgctxt "SettingsTooltips::secure_checkout"
+msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "SSL certificate is required to be installed on your server"
 
@@ -15284,6 +15280,18 @@ msgstr "Register"
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Checkout as guest"
+
+msgctxt "SettingsVariants::secure_storefront::none"
+msgid "Disable"
+msgstr "Disable"
+
+msgctxt "SettingsVariants::secure_storefront::partial"
+msgid "Secure profile, checkout and order pages"
+msgstr "Secure profile, checkout and order pages"
+
+msgctxt "SettingsVariants::secure_storefront::full"
+msgid "Secure full site"
+msgstr "Secure full site"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
