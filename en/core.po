@@ -1528,6 +1528,38 @@ msgctxt "Languages::carrier"
 msgid "Carrier"
 msgstr "Carrier"
 
+msgctxt "Languages::carrier_aup"
+msgid "Australia Post"
+msgstr "Australia Post"
+
+msgctxt "Languages::carrier_can"
+msgid "Canada Post"
+msgstr "Canada Post"
+
+msgctxt "Languages::carrier_dhl"
+msgid "DHL"
+msgstr "DHL"
+
+msgctxt "Languages::carrier_fedex"
+msgid "FedEx"
+msgstr "FedEx"
+
+msgctxt "Languages::carrier_swisspost"
+msgid "SwissPost"
+msgstr "SwissPost"
+
+msgctxt "Languages::carrier_temando"
+msgid "Temando"
+msgstr "Temando"
+
+msgctxt "Languages::carrier_ups"
+msgid "UPS"
+msgstr "UPS"
+
+msgctxt "Languages::carrier_usps"
+msgid "USPS"
+msgstr "USPS"
+
 msgctxt "Languages::cart"
 msgid "Cart"
 msgstr "Cart"
@@ -1821,8 +1853,8 @@ msgid "Clean up history"
 msgstr "Clean up history"
 
 msgctxt "Languages::clean_logs"
-msgid "Clean logs"
-msgstr "Clean logs"
+msgid "Clear logs"
+msgstr "Clear logs"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2221,8 +2253,8 @@ msgid "Create a new profile"
 msgstr "Create a new profile"
 
 msgctxt "Languages::create_profile_notification_header"
-msgid "Thank you for becoming a registered user at our store. Below you will find your account information."
-msgstr "Thank you for becoming a registered user at our store. Below you will find your account information."
+msgid "Thank you for becoming a registered user at"
+msgstr "Thank you for becoming a registered user at"
 
 msgctxt "Languages::create_table"
 msgid "Create New Table"
@@ -2799,6 +2831,10 @@ msgstr "Parent ([default])"
 msgctxt "Languages::default_template"
 msgid "Default template"
 msgstr "Default template"
+
+msgctxt "Languages::bigpicture_template"
+msgid "The big picture"
+msgstr "The big picture"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -5849,8 +5885,8 @@ msgid "New profile field"
 msgstr "New profile field"
 
 msgctxt "Languages::new_profile_notification"
-msgid "New profile notification"
-msgstr "New profile notification"
+msgid "New [user_type] profile notification"
+msgstr "New [user_type] profile notification"
 
 msgctxt "Languages::new_promotion"
 msgid "New promotion"
@@ -10609,8 +10645,8 @@ msgid "One user can have multiple profiles. For example, one for personal orders
 msgstr "One user can have multiple profiles. For example, one for personal orders and another for office needs."
 
 msgctxt "Languages::text_new_user_activation"
-msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br /><a href=\"[url]\">[url]</a>"
-msgstr "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br /><a href=\"[url]\">[url]</a>"
+msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
+msgstr "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
@@ -10885,8 +10921,8 @@ msgid "(displayed on products list and product details pages)"
 msgstr "(displayed on products list and product details pages)"
 
 msgctxt "Languages::text_profile_activated"
-msgid "Your profile has now been activated, you may login using the credentials you received in the previous e-mail."
-msgstr "Your profile has now been activated, you may login using the credentials you received in the previous e-mail."
+msgid "Your profile has now been activated, you may login using the username you received in the previous e-mail."
+msgstr "Your profile has now been activated, you may login using the username you received in the previous e-mail."
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
@@ -11333,16 +11369,16 @@ msgid "A new version of [product] is available. If you want to upgrade to the la
 msgstr "A new version of [product] is available. If you want to upgrade to the latest version now, click <a href=\"[link]\">here</a>."
 
 msgctxt "Languages::text_usergroup_activated"
-msgid "The following user groups have been activated for your account: [usergroups]."
-msgstr "The following user groups have been activated for your account: [usergroups]."
+msgid "The user group level you requested has been activated"
+msgstr "The user group level you requested has been activated"
 
 msgctxt "Languages::text_usergroup_disactivated"
-msgid "The following user groups have been removed from your account: [usergroups]."
-msgstr "The following user groups have been removed from your account: [usergroups]."
+msgid "Your user group level has been deactivated. Please contact us for more information."
+msgstr "Your user group level has been deactivated. Please contact us for more information."
 
 msgctxt "Languages::text_usergroup_request"
-msgid "The <b>[usergroup]</b> group was requested by [name] ([email])."
-msgstr "The <b>[usergroup]</b> group was requested by [name] ([email])."
+msgid "Customer requested user group."
+msgstr "Customer requested user group."
 
 msgctxt "Languages::text_worldpay_notice"
 msgid "Configure your WorldPay account before using the payment.<br /><br />Go to the WorldPay administration page and switch to the Installation section.<br /><br />Fill the fields as follows:<br /><br />Payment Response URL: <b>[return_url]</b><br />Payment Response Password: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />MD5 secret for transactions: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />SignatureFields: <b>instId:amount:currency:cartId</b>"
@@ -11755,6 +11791,10 @@ msgstr "Other fonts"
 msgctxt "Languages::theme_editor_mode"
 msgid "Theme editor mode"
 msgstr "Theme editor mode"
+
+msgctxt "Languages::theme_editor.create_style_first"
+msgid "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "You cannot modify this parameter for default styles. Create a new one first"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -12237,8 +12277,8 @@ msgid "Domain name that you want to use instead of the CloudFront domain name fo
 msgstr "Domain name that you want to use instead of the CloudFront domain name for the URLs for your files. You also need to create a CNAME record with your DNS service to route queries to CloudFront host (it will be displayed on this page after you enter account information)."
 
 msgctxt "Languages::tt_views_storage_cdn_key"
-msgid "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
+msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -13636,17 +13676,13 @@ msgctxt "SettingsOptions::company_name"
 msgid "Company name"
 msgstr "Company name"
 
-msgctxt "SettingsOptions::secure_checkout"
-msgid "Enable secure connection at checkout"
-msgstr "Enable secure connection at checkout"
-
 msgctxt "SettingsOptions::secure_admin"
 msgid "Enable secure connection in the administration panel"
 msgstr "Enable secure connection in the administration panel"
 
-msgctxt "SettingsOptions::secure_auth"
-msgid "Enable secure connection for authentication, profile and orders pages"
-msgstr "Enable secure connection for authentication, profile and orders pages"
+msgctxt "SettingsOptions::secure_storefront"
+msgid "Enable secure connection for the storefront"
+msgstr "Enable secure connection for the storefront"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14308,10 +14344,6 @@ msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
 msgstr "Notice displaying time (to turn off the autohide function enter 0)"
 
-msgctxt "SettingsOptions::use_email_as_login"
-msgid "User e-mail is used as login"
-msgstr "User e-mail is used as login"
-
 msgctxt "SettingsOptions::quick_registration"
 msgid "Quick registration"
 msgstr "Quick registration"
@@ -14400,7 +14432,7 @@ msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Enable selling downloadable products"
 
-msgctxt "SettingsTooltips::secure_checkout"
+msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
 msgstr "SSL certificate is required to be installed on your server"
 
@@ -15253,6 +15285,18 @@ msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
 msgstr "Checkout as guest"
 
+msgctxt "SettingsVariants::secure_storefront::none"
+msgid "Disable"
+msgstr "Disable"
+
+msgctxt "SettingsVariants::secure_storefront::partial"
+msgid "Secure profile, checkout and order pages"
+msgstr "Secure profile, checkout and order pages"
+
+msgctxt "SettingsVariants::secure_storefront::full"
+msgid "Secure full site"
+msgstr "Secure full site"
+
 msgctxt "Languages::last_year"
 msgid "Last year"
 msgstr "Last year"
@@ -15624,114 +15668,6 @@ msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions man
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
 msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-
-msgctxt "Languages::email_templates"
-msgid "Email templates"
-msgstr "Email templates"
-
-msgctxt "Languages::editing_email_template"
-msgid "Editing email template"
-msgstr "Editing email template"
-
-msgctxt "Languages::customer_notifications"
-msgid "Customer notifications"
-msgstr "Customer notifications"
-
-msgctxt "Languages::admin_notifications"
-msgid "Administrator notifications"
-msgstr "Administrator notifications"
-
-msgctxt "Languages::subject"
-msgid "Subject"
-msgstr "Subject"
-
-msgctxt "Languages::variables"
-msgid "Variables"
-msgstr "Variables"
-
-msgctxt "Languages::variables"
-msgid "Variables"
-msgstr "Variables"
-
-msgctxt "Languages::send_test_email"
-msgid "Send test email"
-msgstr "Send test email"
-
-msgctxt "Languages::text_test_email_sent"
-msgid "Test email was sent to <b>[email]</b> address."
-msgstr "Test email was sent to <b>[email]</b> address."
-
-msgctxt "Languages::editing_global_vars"
-msgid "Editing global variables"
-msgstr "Editing global variables"
-
-msgctxt "Languages::global_vars"
-msgid "Global variables"
-msgstr "Global variables"
-
-msgctxt "Languages::email_template.activate_profile"
-msgid "User profile requires activation"
-msgstr "User profile requires activation"
-
-msgctxt "Languages::email_template.back_in_stock_notification"
-msgid "Back in stock notification"
-msgstr "Back in stock notification"
-
-msgctxt "Languages::email_template.create_profile"
-msgid "User profile creation"
-msgstr "User profile creation"
-
-msgctxt "Languages::email_template.edp_access"
-msgid "Orders: access to downloadable products"
-msgstr "Orders: access to downloadable products"
-
-msgctxt "Languages::email_template.give_coupon"
-msgid "Promotions: coupon"
-msgstr "Promotions: coupon"
-
-msgctxt "Languages::email_template.low_stock"
-msgid "Product low stock notification"
-msgstr "Product low stock notification"
-
-msgctxt "Languages::email_template.order_notification"
-msgid "Order notification"
-msgstr "Order notification"
-
-msgctxt "Languages::email_template.profile_activated"
-msgid "User profile activation"
-msgstr "User profile activation"
-
-msgctxt "Languages::email_template.recover_password"
-msgid "Password recovery"
-msgstr "Password recovery"
-
-msgctxt "Languages::email_template.reminder"
-msgid "Admin password expiration"
-msgstr "Admin password expiration"
-
-msgctxt "Languages::email_template.shipment_products"
-msgid "Orders: products shipped"
-msgstr "Orders: products shipped"
-
-msgctxt "Languages::email_template.track"
-msgid "Orders: tracking"
-msgstr "Orders: tracking"
-
-msgctxt "Languages::email_template.update_profile"
-msgid "User profile update"
-msgstr "User profile update"
-
-msgctxt "Languages::email_template.usergroup_activation"
-msgid "User group activation"
-msgstr "User group activation"
-
-msgctxt "Languages::email_template.usergroup_disactivation"
-msgid "User group disactivation"
-msgstr "User group disactivation"
-
-msgctxt "Languages::email_template.usergroup_request"
-msgid "User group request"
-msgstr "User group request"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
