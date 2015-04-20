@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Language: pt_BR\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: pt-PT\n"
 "X-Crowdin-File: /addons/data_feeds.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-05 08:00-0500\n"
+"PO-Revision-Date: 2015-04-19 18:00-0400\n"
 
 msgctxt "Addons::name::data_feeds"
 msgid "Data feeds"
@@ -17,7 +18,7 @@ msgstr "Feeds de dados"
 
 msgctxt "Addons::description::data_feeds"
 msgid "Makes it possible to create product data feeds in CSV"
-msgstr "Torna possível criar feeds de dados do produto em CSV"
+msgstr "Torna possível criar feeds de dados de produto em CSV"
 
 msgctxt "Languages::data_feeds"
 msgid "Data feeds"
@@ -29,7 +30,7 @@ msgstr "Feeds de dados"
 
 msgctxt "Languages::export_by_cron"
 msgid "Export by cron"
-msgstr "Exportação por cron"
+msgstr "Exportação pelo cron"
 
 msgctxt "Languages::export_by_cron_to"
 msgid "Export by cron to"
@@ -37,7 +38,7 @@ msgstr "Exportação pelo cron para"
 
 msgctxt "Languages::add_new_datafeed"
 msgid "New data feed"
-msgstr "Novo feed de dados"
+msgstr "Novos feed de dados"
 
 msgctxt "Languages::add_datafeed"
 msgid "Add data feed"
@@ -57,15 +58,15 @@ msgstr "Servidor FTP"
 
 msgctxt "Languages::ftp_url_hint"
 msgid "The format is: FTPHOST[:PORT][/DIRECTORY]. Example: ftp.yourhost.com:21/home/username/folder"
-msgstr "O formato é: FTPHOST[:PORT][/DIRECTORY]. Exemplo: ftp.yourhost.com:21/home/username/folder"
+msgstr "O formato é: FTPHOST [: porta][/DIRECTORY]. Exemplo: ftp.yourhost.com:21/home/username/folder"
 
 msgctxt "Languages::ftp_user"
 msgid "FTP username"
-msgstr "Usuário do FTP"
+msgstr "Nome de usuário FTP"
 
 msgctxt "Languages::ftp_pass"
 msgid "FTP password"
-msgstr "Senha do FTP"
+msgstr "Senha FTP"
 
 msgctxt "Languages::fields"
 msgid "Fields"
@@ -77,19 +78,19 @@ msgstr "Nome do campo"
 
 msgctxt "Languages::field_type"
 msgid "Field type"
-msgstr "Tipo do campo"
+msgstr "Tipo de campo"
 
 msgctxt "Languages::map_fields"
 msgid "Fields mapping"
-msgstr "Mapeamento dos campos"
+msgstr "Mapeamento de campos"
 
 msgctxt "Languages::update_datafeed"
 msgid "Editing data feed"
-msgstr "Alterando feed de dados"
+msgstr "Edição de feed de dados"
 
 msgctxt "Languages::export_cron_hint"
 msgid "Use the following line to run the script according to schedule"
-msgstr "Use a seguinte linha para executar o script de acordo com o agendamento"
+msgstr "Use a seguinte linha para executar o script de acordo com o cronograma"
 
 msgctxt "Languages::exported_items"
 msgid "Exported items"
@@ -97,7 +98,7 @@ msgstr "Itens exportados"
 
 msgctxt "Languages::ftp_connection_problem"
 msgid "Unable connect to FTP server. Please, check FTP connection information"
-msgstr "Não é possível conectar ao servidor FTP. Por favor, verifique as informações de conexão do FTP"
+msgstr "Não é possível conectar ao servidor FTP. Por favor, verificar informações de conexão FTP"
 
 msgctxt "Languages::categories_products"
 msgid "Products from categories"
@@ -109,11 +110,11 @@ msgstr "Download"
 
 msgctxt "Languages::upload_to_ftp"
 msgid "Upload to FTP server"
-msgstr "Enviar para o servidor FTP"
+msgstr "Fazer o upload para o servidor FTP"
 
 msgctxt "Languages::cron_export"
 msgid "Cron export settings"
-msgstr "Configurações de exportação do cron"
+msgstr "Configurações de exportação de cron"
 
 msgctxt "Languages::export_to_server"
 msgid "Export to server"
@@ -121,7 +122,7 @@ msgstr "Exportar para o servidor"
 
 msgctxt "Languages::export_to_ftp"
 msgid "FTP server options"
-msgstr "Opções do servidor FTP"
+msgstr "Opções de servidor FTP"
 
 msgctxt "Languages::ftp"
 msgid "FTP"
@@ -129,7 +130,7 @@ msgstr "FTP"
 
 msgctxt "Languages::check_server_export_settings"
 msgid "Check server export settings"
-msgstr "Verifique as configurações de exportação do servidor"
+msgstr "Verifique as configurações de exportação de servidor"
 
 msgctxt "Languages::exclude_disabled_products"
 msgid "Exclude disabled products"
