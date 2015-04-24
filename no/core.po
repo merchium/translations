@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-16 06:02-0400\n"
+"PO-Revision-Date: 2015-04-23 06:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2842,7 +2842,7 @@ msgstr "Standardmal"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "Det store bildet"
+msgstr "Stort produktbilde"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -11802,7 +11802,7 @@ msgstr "Mal redigerer modus"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "Du kan ikke endre denne parameteren for standardstiler. Opprett en ny først"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -12967,10 +12967,6 @@ msgstr "Den sikre tilkoblingen mislyktes. Vennligst sjekk HTTPS innstillinger i 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
 msgstr "Det anbefales sterkt at du endrer navn på standard <b>admin.php</b> skript (sjekk <a href=\"http://kb.cs-cart.com/adminarea-protection\" target=\"_blank\">Knowledge Base</a>) av sikkerhetsmessige grunner."
-
-msgctxt "Languages::warning_insecure_password"
-msgid "The password must be different from the username! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
-msgstr "Passordet må være forskjellig fra brukernavnet! <p><a href=\"[link]\" class=\"underlined\"><b>Bytt passord &#155;&#155;</b></a></p>"
 
 msgctxt "Languages::warning_insecure_password_email"
 msgid "The password must be different from the E-mail! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
@@ -15358,7 +15354,7 @@ msgstr "Offentlige filer"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Maler"
+msgstr "Templates"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"

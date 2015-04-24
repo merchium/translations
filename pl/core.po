@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-16 06:02-0400\n"
+"PO-Revision-Date: 2015-04-23 07:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2842,7 +2842,7 @@ msgstr "Domyślny szablon"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Duże zdjęcie"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -11803,7 +11803,7 @@ msgstr "Tryb pracy edytora wyglądu"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "Nie można modyfikować tego parametru dla domyślnego stylu. Najpierw utworzyć nowy element"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -12969,10 +12969,6 @@ msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
 msgstr "Gorąco polecamy abyś zmienił nazwę domyślnego skryptu <b>admin.php</b> ze względu na bezpieczeństwo. (zobacz dokumentację <a href=\"http://kb2.cs-cart.com/adminarea-protection\" target=\"_blank\">)"
 
-msgctxt "Languages::warning_insecure_password"
-msgid "The password must be different from the username! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
-msgstr "Hasło nie może być nazwą użytkownika!<p><a href=\"[link]\" class=\"underlined\"><b>Zmień hasło &#155;&#155;</b></a></p>"
-
 msgctxt "Languages::warning_insecure_password_email"
 msgid "The password must be different from the E-mail! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
 msgstr "Hasło nie może być nazwą użytkownika!<p><a href=\"[link]\" class=\"underlined\"><b>Zmień hasło</b></a></p>"
@@ -13691,7 +13687,7 @@ msgstr "Przejdź na bezpieczne połączenie w panelu administracyjnym (wymagany 
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Włącz szyfrowane połączenie dla sklepu"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14443,7 +14439,7 @@ msgstr "Umożliwia sprzedaż produktów do pobrania"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Wymagany jest zainstalowany Certyfikat SSL na serwerze"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -15299,7 +15295,7 @@ msgstr "Zablokowane"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "Bezpieczne strony profilu oraz zamówienia"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
