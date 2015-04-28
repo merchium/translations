@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-04-23 06:01-0400\n"
+"PO-Revision-Date: 2015-04-28 11:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -42,11 +42,11 @@ msgstr "Absoluut"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "Geïnstalleerde plug-ins"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "Blader door alle beschikbare plug-ins"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -62,19 +62,19 @@ msgstr "U heeft geen rechten om deze pagina te bezoeken."
 
 msgctxt "Languages::account"
 msgid "Account"
-msgstr "Account"
+msgstr "Klantprofiel"
 
 msgctxt "Languages::account_name"
 msgid "Account name"
-msgstr "Account naam"
+msgstr "Klantprofiel naam"
 
 msgctxt "Languages::account_number"
 msgid "Account number"
-msgstr "Accountnummer"
+msgstr "Klantprofiel nummer"
 
 msgctxt "Languages::account_type"
 msgid "Account type"
-msgstr "Account type"
+msgstr "Profiel type"
 
 msgctxt "Languages::acquirerid"
 msgid "Acquirer ID"
@@ -642,7 +642,7 @@ msgstr "American Express"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "De CVV veiligheidscode bevindt zich boven het creditcard nummer (aan de rechter of linker kant van de creditcard)."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -850,7 +850,7 @@ msgstr "Automatisch"
 
 msgctxt "Languages::auto_set_permissions_via_ftp"
 msgid "Auto-set permissions via FTP"
-msgstr "Automatisch instellen rechten via FTP"
+msgstr "Rechten automatisch instellen via FTP"
 
 msgctxt "Languages::avail"
 msgid "Available"
@@ -930,7 +930,7 @@ msgstr "Backtrace"
 
 msgctxt "Languages::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Back-up"
 
 msgctxt "Languages::backupping_data"
 msgid "Backing up data for"
@@ -942,23 +942,23 @@ msgstr "Backing up schema voor"
 
 msgctxt "Languages::backup_data"
 msgid "Backup database data"
-msgstr "Backup database gegevens"
+msgstr "Back-up maken van database gegevens"
 
 msgctxt "Languages::backup_filename"
 msgid "Backup file name"
-msgstr "Backup bestandsnaam"
+msgstr "Back-up bestandsnaam"
 
 msgctxt "Languages::backup_files"
 msgid "Backup files"
-msgstr "Backup bestanden"
+msgstr "Back-up bestanden"
 
 msgctxt "Languages::backup_options"
 msgid "Backup options"
-msgstr "Backup opties"
+msgstr "Back-up opties"
 
 msgctxt "Languages::backup_schema"
 msgid "Backup database schema"
-msgstr "Backup database schema"
+msgstr "Back-up maken van database schema"
 
 msgctxt "Languages::back_in_stock_notification_footer"
 msgid "Welcome to purchase!"
@@ -1502,7 +1502,7 @@ msgstr "Kan het actieve thema niet verwijderen"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
-msgstr "Kan niet naar bestand <b>[file]</b> schrijven: check bestand en/of map-permissies."
+msgstr "Kan niet naar bestand <b>[file]</b> schrijven: controleer rechten van bestanden en/of mappen."
 
 msgctxt "Languages::cant_save_percentage_price"
 msgid "You can not use percentage value for base price."
@@ -1698,11 +1698,11 @@ msgstr "Uw wachtwoord voor het beheerpaneel van de webwinkel [store] is [days] d
 
 msgctxt "Languages::change_permissions"
 msgid "Change permissions"
-msgstr "Wijzig permissies"
+msgstr "Rechten wijzigen"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Rechten controleren"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1862,7 +1862,7 @@ msgstr "Geschiedenis opschonen"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Logbestanden opschonen"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2066,11 +2066,11 @@ msgstr "Voltooid"
 
 msgctxt "Languages::compressing_backup"
 msgid "Compressing backup file"
-msgstr "Inpakken backup-bestand"
+msgstr "Back-up inpakken"
 
 msgctxt "Languages::compress_dump"
 msgid "Compress backup file"
-msgstr "Inpakken backup"
+msgstr "Back-up inpakken"
 
 msgctxt "Languages::condition"
 msgid "Condition"
@@ -2230,7 +2230,7 @@ msgstr "Aanmaken en sluiten"
 
 msgctxt "Languages::create_file"
 msgid "Create file"
-msgstr "Aanmaken bestand"
+msgstr "Bestand aanmaken"
 
 msgctxt "Languages::create_folder"
 msgid "Create folder"
@@ -2242,7 +2242,7 @@ msgstr "Snel afrekenen zonder klantprofiel aan te maken"
 
 msgctxt "Languages::create_new_account"
 msgid "Create a permanent account and use it for checkout"
-msgstr "Maak een klantprofiel aan zodat u de volgende keer gemakkelijk kunt inloggen"
+msgstr "Maak een klantprofiel aan zodat u de volgende keer eenvoudig kunt inloggen"
 
 msgctxt "Languages::create_new_block"
 msgid "Create New Block"
@@ -2722,7 +2722,7 @@ msgstr "Wijzigingen databasegegevens"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Back-up/Herstel"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2762,15 +2762,15 @@ msgstr "dagen"
 
 msgctxt "Languages::db_backup_restore"
 msgid "DB Backup/Restore"
-msgstr "DB Backup/Herstel"
+msgstr "Database Back-up/Herstel"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Back-up/Herstel"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Back-up aanmaken"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2842,7 +2842,7 @@ msgstr "Standaard sjabloon"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "De grote afbeelding"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3114,7 +3114,7 @@ msgstr "Weergave type"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "Aantal getoonde filteropties voor de scroll"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3214,11 +3214,11 @@ msgstr "Verwijder alle bestaande producten voor het importeren"
 
 msgctxt "Languages::dump_cant_create_file"
 msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "Kan bestand voor database-dump niet aanmaken. Check permissies tbv \"var/database\"-map in de CS-Cart installatie."
+msgstr "Kan database-dump niet aanmaken. Controleer de rechten van de \"var/database\"-map in de CS-Cart installatie."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
-msgstr "Het bestand waarin u de database backup wilt schrijven is niet schrijfbaar: check de permissies."
+msgstr "Het bestand waarin u de database back-up wilt schrijven is niet schrijfbaar: controleer de rechten."
 
 msgctxt "Languages::duplicate"
 msgid "Duplicate transactions"
@@ -3590,11 +3590,11 @@ msgstr "Fout naam"
 
 msgctxt "Languages::error_account_disabled"
 msgid "Your account is disabled. Please contact the store administration."
-msgstr "Uw account is geblokkeerd. Neem a.u.b. contact op met de site-beheerder."
+msgstr "Uw klantprofiel is geblokkeerd. Neem a.u.b. contact op met de beheerder."
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this company manually."
-msgstr "Beheerder account is niet aangemaakt. Het e-mailadres behoort toe aan een andere gebruiker. U kunt handmatig de beheerder toevoegen voor dit bedrijf."
+msgstr "Beheerdersprofiel is niet aangemaakt. Het e-mailadres behoort toe aan een andere gebruiker. U kunt handmatig de beheerder toevoegen voor dit bedrijf."
 
 msgctxt "Languages::error_ajax"
 msgid "Oops, something went wrong ([error]). Please try again."
@@ -3770,7 +3770,7 @@ msgstr "Uw nieuwe wachtwoord mag niet overeenkomen met één van de 4 eerder geb
 
 msgctxt "Languages::error_permissions_not_changed"
 msgid "Cannot change permissions"
-msgstr "Kan rechten niet aanpassen"
+msgstr "Rechten kunnen niet worden aangepast"
 
 msgctxt "Languages::error_status_not_changed"
 msgid "Error while updating the status. Status was not changed."
@@ -3970,7 +3970,7 @@ msgstr "Extra diensten"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Extra map"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -5326,7 +5326,7 @@ msgstr "Beheer"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "Plug-ins beheren"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -6238,7 +6238,7 @@ msgstr "Productopties in uw webwinkel beheren"
 
 msgctxt "Languages::options_settings"
 msgid "Options settings"
-msgstr "Optie instellingen"
+msgstr "Instellingen van opties"
 
 msgctxt "Languages::options_type"
 msgid "Options type"
@@ -7010,7 +7010,7 @@ msgstr "Nieuwe bestelling"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Back-up/Herstel"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7118,7 +7118,7 @@ msgstr "Gebruikers beheren"
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
-msgstr "Update instellingen"
+msgstr "Instellingen updaten"
 
 msgctxt "Languages::privileges.upgrade_store"
 msgid "Upgrade store"
@@ -7190,7 +7190,7 @@ msgstr "Gebruikers bekijken"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Plug-ins"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7934,7 +7934,7 @@ msgstr "Geregistreerde klanten"
 
 msgctxt "Languages::register_new_account"
 msgid "Register for a new account"
-msgstr "Registreer voor een nieuw account"
+msgstr "Registreer voor een nieuw klantprofiel"
 
 msgctxt "Languages::register_profile"
 msgid "Register profile"
@@ -7966,7 +7966,7 @@ msgstr "Verwijder"
 
 msgctxt "Languages::remove_backup_files"
 msgid "Remove backup files"
-msgstr "Backup bestanden verwijderen"
+msgstr "Back-up bestanden verwijderen"
 
 msgctxt "Languages::remove_cc_info"
 msgid "Remove CC info"
@@ -8386,7 +8386,7 @@ msgstr "Zoek-opmaak"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "Naar producten, klanten, bestellingen en pagina's zoeken"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -8442,7 +8442,7 @@ msgstr "De waarde van de <strong>veilige webwinkel URL</strong> parameter door u
 
 msgctxt "Languages::security_settings"
 msgid "Security settings"
-msgstr "Veiligheids instellingen"
+msgstr "Beveiligingsinstellingen"
 
 msgctxt "Languages::see_demo"
 msgid "See demo"
@@ -9446,7 +9446,7 @@ msgstr "Genereer voor uw webwinkel een sitemap.xml bestand voor zoekmachines."
 
 msgctxt "Languages::sitemap_settings"
 msgid "Sitemap settings"
-msgstr "Site map instellingen"
+msgstr "Sitemap instellingen"
 
 msgctxt "Languages::site_number"
 msgid "Site number (EPT)"
@@ -10190,11 +10190,11 @@ msgstr "Uw financiële instelling heeft aangegeven dat de transactie niet kon wo
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "Klik op het tandwieltje en selecteer Downloaden om deze back-up te downloaden"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
-msgstr "In dit gedeelte kunnen backup-bestanden worden beheerd.<br />- Om de database te herstellen klik op het aankruisvakje naast de te herstellen backup en klik op Herstellen.<br />- Om backup-bestanden te verwijderen klik op het aankruisvakje naast de te verwijderen bestanden en klik op Verwijderen.<br />- Klik op de bestandsnaam om een bestand te downloaden."
+msgstr "In dit gedeelte kunnen back-up bestanden worden beheerd.<br />- Om de database te herstellen klik op het selectievakje naast de te herstellen back-up en klik op Herstellen.<br />- Om back-up bestanden te verwijderen klik op het selectievakje naast de te verwijderen bestanden en klik op Verwijderen.<br />- Klik op de bestandsnaam om een bestand te downloaden."
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
@@ -10206,27 +10206,27 @@ msgstr "Uw 30-dagen evaluatie periode is verlopen. Koop een licentie (www.cs-car
 
 msgctxt "Languages::text_cannot_create_directory"
 msgid "Cannot create the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Kan map <b>[directory]</b> niet aanmaken. Controleer a.u.b. de permissies."
+msgstr "Kan de map <b>[directory]</b> niet aanmaken. Controleer de rechten."
 
 msgctxt "Languages::text_cannot_create_file"
 msgid "Cannot create the file <b>[file]</b>. Please check the directory permissions."
-msgstr "kan bestand <b>[file]</b> niet aanmaken. Controleer a.u.b. de map-permissies."
+msgstr "Kan het bestand <b>[file]</b> niet aanmaken. Controleer de rechten van de map."
 
 msgctxt "Languages::text_cannot_delete_directory"
 msgid "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Map <b>[directory]</b> kan niet worden verwijderd. Controleer de rechten."
+msgstr "De map <b>[directory]</b> kan niet worden verwijderd. Controleer de rechten."
 
 msgctxt "Languages::text_cannot_delete_file"
 msgid "Cannot delete the file <b>[file]</b>. Please check the permissions."
-msgstr "Bestand <b>[file]</b> kan niet worden verwijderd. Controleer de rechten."
+msgstr "Het bestand <b>[file]</b> kan niet worden verwijderd. Controleer de rechten."
 
 msgctxt "Languages::text_cannot_rename_directory"
 msgid "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Kan de map <b>[directory]</b> niet hernoemen. Controleer a.u.b. de permissies."
+msgstr "Kan de map <b>[directory]</b> niet hernoemen. Controleer de rechten van de map."
 
 msgctxt "Languages::text_cannot_rename_file"
 msgid "Cannot rename the file <b>[file]</b>. Please check the permissions."
-msgstr "Kan bestand <b>[file]</b> niet hernoemen. Controleer a.u.b. de permissies."
+msgstr "Kan bestand <b>[file]</b> niet hernoemen. Controleer de rechten van het bestand."
 
 msgctxt "Languages::text_cannot_restore_directory"
 msgid "Cannot restore the directory <b>[directory]</b> from the repository. Please check if the repository exists."
@@ -10614,7 +10614,7 @@ msgstr "Tekst links"
 
 msgctxt "Languages::text_login_form"
 msgid "<h4>Not a registered member?</h4><p>Creating a new account is easy and takes less than a minute.</p>"
-msgstr "<h4>Nog geen account?</h4><p>Een account aanmaken is eenvoudig en kost slechts minder dan een minuut van uw tijd.</p>"
+msgstr "<h4>Nog geen klantprofiel?</h4><p>Een profiel aanmaken is eenvoudig en kost nog geen minuut van uw tijd.</p>"
 
 msgctxt "Languages::text_login_to_add_to_cart"
 msgid "This product cannot be added to the<br>cart because you are not logged in."
@@ -10711,7 +10711,7 @@ msgstr "Geen producten gevonden"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "Geselecteerde filters"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -10995,7 +10995,7 @@ msgstr "Wanneer er extra afbeeldingen van een bijgewerkt product worden geïmpor
 
 msgctxt "Languages::text_remove_backup_files"
 msgid "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
-msgstr "Waarschuwing! Wanneer u de backup bestanden verwijderd kunt u uw vorige CS-Cart installatie niet meer herstellen. Ben er zeker van dat de geïnstalleerde CS-Cart goed werkt, en dat de backup database bestanden op een veilige plaats staan."
+msgstr "Waarschuwing! Wanneer de back-up bestanden worden verwijderd is de vorige CS-Cart installatie niet meer te herstellen. Ben er zeker van dat de geïnstalleerde CS-Cart goed werkt, en dat de back-up van de database bestanden op een veilige plaats staan."
 
 msgctxt "Languages::text_required_group_product"
 msgid "Please select a product for the required group [group_name]"
@@ -11335,7 +11335,7 @@ msgstr "Updaten van de lijst van geïnstalleerde upgrades mislukt"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Uw webshop is geüpgraded"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11851,7 +11851,7 @@ msgstr "Breedte miniatuur in scroller"
 
 msgctxt "Languages::tier_account"
 msgid "tier account"
-msgstr "niveau account"
+msgstr "niveau profiel"
 
 msgctxt "Languages::time"
 msgid "Time"
@@ -11911,7 +11911,7 @@ msgstr "Gereedschappen"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Aantal plug-ins"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11919,11 +11919,11 @@ msgstr "Huidige status"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Geen plug-ins"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Geen plug-ins van derden"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -12171,11 +12171,11 @@ msgstr "Duizendtallen scheidingsteken"
 
 msgctxt "Languages::tt_views_database_manage_backup_data"
 msgid "If enabled, the database backup file includes the actual table data."
-msgstr "Indien ingeschakeld bevat een back-up database bestand de data (gegevens) in de database."
+msgstr "De back-up van de database bevat, indien ingeschakeld, de actuele gegevens."
 
 msgctxt "Languages::tt_views_database_manage_backup_schema"
 msgid "If enabled, the database backup file keeps the table structure."
-msgstr "Indien ingeschakeld bevat een back-up database bestand de tabhel-structuur."
+msgstr "De back-up van de database behoudt, indien ingeschakeld, de tabelstructuur."
 
 msgctxt "Languages::tt_views_exim_export_output"
 msgid "Choose an action on the file: \"Direct download\" - to save the file on the local computer, \"Screen\" - to display the file's contents, \"Server\" - to save the file on the server file system."
@@ -12487,7 +12487,7 @@ msgstr "Upgrade centrum"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "Validatie probleem"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
@@ -12499,7 +12499,7 @@ msgstr "Upgrade is niet mogelijk wegens een bestand-integriteit controle fout. N
 
 msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
-msgstr "UPgrades zijn alleen beschikbaar in <strong>Volledige</strong> en <strong>Gratis</strong> licentie mode.<br /><br />De licentie mode kan gewijzigd worden onder instellingen → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licentie mode</a>."
+msgstr "Upgrades zijn alleen beschikbaar in <strong>Volledige</strong> en <strong>Gratis</strong> licentie mode.<br /><br />De licentie mode kan gewijzigd worden onder instellingen → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licentie mode</a>."
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
@@ -12599,7 +12599,7 @@ msgstr "Gebruikersaccount info"
 
 msgctxt "Languages::user_account_information"
 msgid "User account information"
-msgstr "Gebruikersaccount informatie"
+msgstr "Klantprofiel informatie"
 
 msgctxt "Languages::user_cannot_be_deleted"
 msgid "Sorry, user with id [user_id] can not be deleted."
@@ -13115,7 +13115,7 @@ msgstr "Goed gedaan!"
 
 msgctxt "Languages::what_is_cvv2"
 msgid "What is CVV/CVC"
-msgstr "Wat is cvv2"
+msgstr "Wat is CVV"
 
 msgctxt "Languages::widget_code"
 msgid "Widget code"
@@ -13371,11 +13371,11 @@ msgstr "PHP versie ([version]) wordt niet ondersteund. Minimaal: [min]. Maximaal
 
 msgctxt "Languages::checking_extension_should_be_installed"
 msgid "The [extension] extension should be installed on your server for correct add-on operation."
-msgstr "De [extension] plugin moet op de server worden geïnstalleerd voor een correcte werking."
+msgstr "De [extension] plug-in moet op de server worden geïnstalleerd voor een correcte werking."
 
 msgctxt "Languages::checking_extension_should_be_removed"
 msgid "The [extension] extension should be removed from your server for correct add-on operation."
-msgstr "De [extension] plugin moet van der server worden verwijderd voor een correcte werking."
+msgstr "De [extension] plug-in moet van der server worden verwijderd voor een correcte werking."
 
 msgctxt "Languages::checking_extension_version_is_not_suitable"
 msgid "The [extension] version ([version]) is not supported by the add-on. Minimal: [min]. Maximal: [max]."
@@ -13479,7 +13479,7 @@ msgstr "Volg ons via social media"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
-msgstr "De Searchanise plugin is automatisch uitgeschakeld tijdens het updaten om verkeerde zoekresultaten te vermijden. Het is mogelijk de plugin op elk gewenst moment weer te activeren op de <a href=\"[url]\">Plugin</a>-pagina."
+msgstr "De Searchanise plug-in is automatisch uitgeschakeld tijdens het updaten om verkeerde zoekresultaten te vermijden. Het is mogelijk de plug-in op elk gewenst moment weer te activeren op de <a href=\"[url]\">Plug-in</a>-pagina."
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
@@ -14411,7 +14411,7 @@ msgstr "Registratie configureren"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Deze stap kan worden verborgen indien er geen verplichte contact velden zijn en anoniem afrekenen is toegestaan."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14419,7 +14419,7 @@ msgstr "Standaard optie voor het \"Nieuwe klant\" gedeelte tijdens het registrer
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Stap \"verzendmethode\" weergeven"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -14427,11 +14427,11 @@ msgstr "If hidden, the first active method will be used by default."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "De stap \"betaalmethode\" weergeven"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Indien verborgen zal de eerste actieve methode worden gebruikt als standaard."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -14439,7 +14439,7 @@ msgstr "Verkoop van downloadbare producten inschakelen"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Een SSL-certificaat dient geïnstalleerd te worden op de server"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14459,7 +14459,7 @@ msgstr "Verzend- en factuuradres"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "Leeg laten voor een transparante achtergrond"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -14679,7 +14679,7 @@ msgstr "Herstellen"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Back-up"
 
 msgctxt "SettingsVariants::log_type_database::optimize"
 msgid "Optimize"
@@ -15291,7 +15291,7 @@ msgstr "Afrekenen"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Uitschakelen"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
@@ -15299,7 +15299,7 @@ msgstr "Secure profile, checkout and order pages"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "Beveiligde volledige site"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15507,7 +15507,7 @@ msgstr "Volg mijn bestelling formulier"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "Instellingen zoekmachine optimalisatie van de webwinkel."
+msgstr "Instellingen voor zoekmachine-optimalisatie van de webwinkel."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15531,11 +15531,11 @@ msgstr "Fout in de gegevens validatie van de creditcard. Het nummer, de vervalda
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Optie uitzonderingen"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Horizontale filters"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15588,7 +15588,7 @@ msgstr "Package contains pre/post scripts that were not described in schema or s
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Nieuwe versie"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
@@ -15596,23 +15596,23 @@ msgstr "Migrations"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Probleem met rechten"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Lokale wijzigingen"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Ik begrijp dat mijn lokale wijzigingen permanent verloren gaan tijdens de upgrade"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Wordt gewijzigd"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Wordt verwijderd"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
@@ -15624,15 +15624,15 @@ msgstr "Execute \"[validator]\" validator"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Bestanden kopiëren"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Migraties uitvoeren"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Talen installeren"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
@@ -15640,7 +15640,7 @@ msgstr "Upgrade progress"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Upgrade pakket uploaden"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15648,7 +15648,7 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Navigatie van buitenaf"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
@@ -15660,21 +15660,21 @@ msgstr "Feature name is missing. Some product features were not updated."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "Minimaal één webshop moet blijven"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Het bestand kan niet worden hersteld. Alleen .sql, .zip en .tgz bestanden zijn toegestaan."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Naar het bestand <b>[file]</b> schrijven is niet mogelijk. Stel de schrijfrechten handmatig in of controleer de FTP-toegang naar de server in het <a href=\"[url]\">\"Upgrade gedeelte\"</a>"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Er is van de database en bestanden van de webshop een back-up gemaakt. De back-up omvat de gehele database en alle bestanden met uitzondering van afbeeldingen. De back-up is opgeslagen op de server: [backup_file].</p><p>Voor de upgrade werd de webshop gesloten. Controleer of deze weer werkt en <a href=\"[settings_section]\">open de webshop</a>.</p><p>Ga naar het beheerpaneel, <strong>Administratie → Back-up/Herstel</strong> om de back-up te herstellen, indien er iets mis ging tijdens de upgrade.</p><p>Gebruik deze link om de laatste back-up te herstellen indien het beheerpaneel niet bereikbaar is: [restore_link]. Belangrijk: Het gebruik van deze link start onmiddellijk het herstelproces. Gebruik de link alleen als het beheerpaneel niet bereikbaar is.</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Op kenmerken zoeken is niet beschikbaar vanwege het buitensporig aantal varianten."
 
