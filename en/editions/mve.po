@@ -33,8 +33,8 @@ msgid "List of vendor's administrators, registered users with a vendor account."
 msgstr "List of vendor's administrators, registered users with a vendor account."
 
 msgctxt "Languages::vendor_candidate_notification"
-msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
-msgstr "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
@@ -383,3 +383,15 @@ msgstr "Vendor products"
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
 msgstr "Vendor filters"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "Apply for vendor"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "Company status change"
+
+msgctxt "Languages::email_template.payment_notification"
+msgid "Company payment"
+msgstr "Company payment"
