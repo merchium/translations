@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-14 10:08-0400\n"
+"PO-Revision-Date: 2015-05-15 05:21-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1262,11 +1262,11 @@ msgstr "Параметры фильтрации товаров"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Фильтры продуктов для домашней страницы"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Параметры фильтрации, отображаемые на домашней странице"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1870,7 +1870,7 @@ msgstr "Очистить историю"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Очистить логи"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2850,7 +2850,7 @@ msgstr "Стандартный шаблон"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Большая картинка"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -11810,7 +11810,7 @@ msgstr "Режим редактора тем"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "Нельзя изменить этот параметр для стилей по умолчанию. Сначала создайте новый"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -12294,7 +12294,7 @@ msgstr "Имя домена, которое можно использовать 
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "Ключ доступа AWS. Чтобы получить ключ доступа и секретный ключ - прочитайте руководство по этой ссылке: <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a>."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -13694,7 +13694,7 @@ msgstr "Включить безопасное соединение в панел
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Безопасное соединение для витрины"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14446,7 +14446,7 @@ msgstr "Включить продажу цифровых товаров"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "на сервере должен быть установлен SSL сертификат"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -15298,15 +15298,15 @@ msgstr "Оформить заказ как гость"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Выключить"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "Безопасное соединение для страниц профиля и оформления заказа"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "Безопасное соединение для всего сайта"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
