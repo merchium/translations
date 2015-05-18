@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-14 10:06-0400\n"
+"PO-Revision-Date: 2015-05-18 12:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -642,7 +642,7 @@ msgstr "American Express"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "A CVV a bankkártya hátulján található 3 számjegyű kód."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -1178,23 +1178,23 @@ msgstr "Minimális szélesség"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Amikor az arculat CSS-re konvertált, nem lehet elrendezést változtatni. Engedélyezze a LESS módot az  <a target=\"_blank\" href=\"[url]\">arculat szerkesztőben</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "Elrendezés hozzáadása"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "Elrendezés szerkesztése"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "Új elrendezés oldal"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "Elrendezés oldalak"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1262,11 +1262,11 @@ msgstr "Termék szűrő opciók"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "A kezdőlap termékszűrői"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "A kezdőlapon megjelenített termékszűrő opciók"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1690,7 +1690,7 @@ msgstr "Ajánlott a config.local.php fájl jogosultságát megváltoztatni. 644 
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Bővítmény inicializálás megváltoztatása"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1710,7 +1710,7 @@ msgstr "Jogosultságok megváltoztatása"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Engedélyek ellenőrzése"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -3122,7 +3122,7 @@ msgstr "Megjelenítés típusa"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "A kijelzett szűrési variánsok száma görgetés nélkül"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3220,9 +3220,9 @@ msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
 msgstr "Összes létező termék törlése importálás előtt"
 
-msgctxt "Languages::dump_cant_create_file"
-msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "Nem lehet létrehozni az adatbázismentést. Kérjük ellenőrizze a \"var/database\" jogosultságát."
+msgctxt "Languages::cant_create_backup_file"
+msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "A biztonsági mentés fájl nem feltölthető. Kérlek, ellenőrizd a telepítésed \"var/backups\" mappájához tartozó jogokat."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3978,7 +3978,7 @@ msgstr "Extra szolgáltatások"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "További mappák"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -4018,7 +4018,7 @@ msgstr "Tulajdonságok"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "A tulajdonság variánsok határolója"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4074,7 +4074,7 @@ msgstr "Fájlok"
 
 msgctxt "Languages::sell_files"
 msgid "Files to sell"
-msgstr "Files to sell"
+msgstr "Eladandó fájlok"
 
 msgctxt "Languages::filesize"
 msgid "File size"
@@ -5314,7 +5314,7 @@ msgstr "Alapdoboz szimpla"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "Általános lábléc"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7446,7 +7446,7 @@ msgstr "A <strong>[product]</strong> -hez megadott termék kombinációk érvén
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "A <strong>[product]</strong> terméknek olyan opciói vagy opció variánsai vannak, amelyek már nem elérhetőek, így azt eltávolítottuk a kosárból"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -7826,7 +7826,7 @@ msgstr "Gyorsítótár automatikus újraépítése"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "A módosított fájlokat valós időben követjük (a közvetlenül a szerveren módosított fájlokkal együtt) és újra cache-eljük. A blokkok gyorstárazása ki lesz kapcsolva. Ez kis mértékben befolyásolhatja az áruház teljesítményét. Éles üzemmódban javasolt a kikapcsolása."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8394,7 +8394,7 @@ msgstr "Kifejezés keresése"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "Termékek, vásárlók, megrendelése és tartalom oldalak keresése"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -9163,6 +9163,26 @@ msgstr "Letter Center"
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
 msgstr "Air Service Center"
+
+msgctxt "Languages::ship_ups_delivery_confirmation"
+msgid "No Signature"
+msgstr "Nincs aláírás"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_signature"
+msgid "Signature Required"
+msgstr "Aláírás szükséges"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
+msgid "Adult Signature Required"
+msgstr "Felnőtt aláírása szükséges"
+
+msgctxt "Languages::ship_ups_use_delivery_confirmation"
+msgid "Use Delivery confirmation"
+msgstr "Használjon Kézbesítési Visszaigazolást"
+
+msgctxt "Languages::ship_ups_dcist_type"
+msgid "Confirmation type"
+msgstr "Megerősítés típusa"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -10142,7 +10162,7 @@ msgstr "Itt láthatóak azok a rendelések, melyek még nem kerültek megtekint�
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Az alábbi kiterjesztések támogatottak: <strong>[ext]</strong>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10198,7 +10218,7 @@ msgstr "A pénzintézet jelzése alapján nem tudta sikeresen hitelesíteni ezt 
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "Biztonsági másolat letöltéséhez kattintson a fogaskerék ikonra, és válassza a Letöltést"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10398,7 +10418,7 @@ msgstr "Logo az <b>áruházi</b> felülethez"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b>Megjegyzés</b>: A Datatrans rendelések webáruházban történő követéséhez a következő lépések végrehajtása szükséges:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10486,7 +10506,7 @@ msgstr "<h4>Termék tulajdonság importálási formátum </h4><code>{$ldelim}%Tu
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Fájl importálási formátum</h4><code>%File location%</code> ahol, <dl class=\"dl-horizontal\"> <dt>%File location%<dt> <dd>lehet abszolút, vagy relatív hivatkozás a szerveren, vagy URL</dd> </dl> <p>Több fájl elválasztása vesszővel lehetséges.</p> <h5>Példa 1:</h5><code>fájl.jpg</code><h5>Példa 2:</h5><code>mentes/fajl1.zip, kepek/fajl2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
@@ -10514,7 +10534,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "A terméktulajdonság variánsok értékei közötti határoló."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10646,7 +10666,8 @@ msgstr "Még nem érkezett válasz a Skrill-től, kérjük várjon. Habár az á
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "A fiókjához tartozó tranzakciók minimális és maximális értékei alapértelmezés szerint a következőek:<table cellpadding=\"3\"><tr><td><b>Limitek</b></td><td>GBP</td><td>USD</td><td>EUR</td><tr><td><b> Minimum </b></td><td> &pound;1</td><td > $1</td><td> &euro;1</td></tr><tr><td><b> Maximum </b></td><td> &pound;1,000 </td><td> $1500 </td><td> &euro;1500 </td></tr></table>\n"
+"Vegye fel a kapcsolatot a fiókkezelőjével, ha magasabb limiteket szeretne.<br /><p>Állítsa be a következő paramétereket a Merchant Extranet-ben. Kattintson az Account Management-re és az Installations-re:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -11142,7 +11163,7 @@ msgstr "Az áruház <strong>bezárva</strong>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Néhány tulajdonság nem elérhető. Nincs időkorlát, licenckód nem szükséges.<br /><br />Ez az üzemmód bármikor aktiválható.<br /><br />Ha ezt az üzemmódot választod, azzal feliratkozol a hírek és ajánlatok újságunkra. Az e-maileket havonta egyszer vagy kétszer küldjük, amiről bármikor leiratkozhat."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"

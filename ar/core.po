@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-14 10:05-0400\n"
+"PO-Revision-Date: 2015-05-15 11:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3220,9 +3220,9 @@ msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
 msgstr "حذف كل ملفات المنتجات قبل الاستيراد"
 
-msgctxt "Languages::dump_cant_create_file"
-msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "لا يمكن إنشاء ملف نسخة قاعدة البيانات. يرجى مراجعة تصريح المجلد \"var/database\"."
+msgctxt "Languages::cant_create_backup_file"
+msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -9163,6 +9163,26 @@ msgstr "المركز الإلكتروني"
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
 msgstr "مركز الخدمات الجوية"
+
+msgctxt "Languages::ship_ups_delivery_confirmation"
+msgid "No Signature"
+msgstr "No Signature"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_signature"
+msgid "Signature Required"
+msgstr "Signature Required"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
+msgid "Adult Signature Required"
+msgstr "Adult Signature Required"
+
+msgctxt "Languages::ship_ups_use_delivery_confirmation"
+msgid "Use Delivery confirmation"
+msgstr "Use Delivery confirmation"
+
+msgctxt "Languages::ship_ups_dcist_type"
+msgid "Confirmation type"
+msgstr "Confirmation type"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"

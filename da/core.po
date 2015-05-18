@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-14 10:06-0400\n"
+"PO-Revision-Date: 2015-05-17 18:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -42,11 +42,11 @@ msgstr "Fuldstændig"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "Installerede tilføjelser"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "Gennemse alle tilgængelige tilføjelser"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -642,7 +642,7 @@ msgstr "American Express"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "CVV er på bag- eller forsiden af kortet ovenfor kreditkortnummeret (enten til højre eller venstre på kreditkortet)."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -1178,7 +1178,7 @@ msgstr "Minimal bredde"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Skiftende layout når temaet er konverteret til CSS er ikke tilladt. Venligst aktiver mindre tilstand i <a target=\"_blank\" class=\"cm-post\" href=\"[url]\"> tema-editor</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -1262,11 +1262,11 @@ msgstr "Produktfiltreringsindstillinger"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Produkt filtre til startside"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Produkt filtreringsmuligheder, vises på startsiden"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1690,7 +1690,7 @@ msgstr "Det anbefales også at ændre adgangstilladelserne til filen config.loca
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "Ændre tilføjelser initialisering"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1710,7 +1710,7 @@ msgstr "Ændre tilladelser"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Kontrollér tilladelser"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1870,7 +1870,7 @@ msgstr "Ryd op i historie"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "ryd log"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2730,7 +2730,7 @@ msgstr "Ændringer i databasen"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhedskopiering/gendannelse"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "DB Backup/Gendan"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhedskopiering/gendannelse"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Ny sikkerhedskopi/backup"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2850,7 +2850,7 @@ msgstr "Standardskabelon"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Det store billede"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3220,9 +3220,9 @@ msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
 msgstr "Slet alle eksisterende produkt filer før import"
 
-msgctxt "Languages::dump_cant_create_file"
-msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "Kan ikke oprette fil til database dump. Undersøg rettighederne til \"var / database / backup\""
+msgctxt "Languages::cant_create_backup_file"
+msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Kan ikke uploade backup-fil. Kontroller tilladelser til mappen \"var/backups\" i din installation."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3978,7 +3978,7 @@ msgstr "Ekstra services"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Ekstra mapper"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -5334,7 +5334,7 @@ msgstr "Styre"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "Administrere tilføjelsesprogrammer"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7018,7 +7018,7 @@ msgstr "Opret ordre"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sikkerhedskopiering/gendannelse"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7198,7 +7198,7 @@ msgstr "Vis bruger"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Tilføjelser"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7826,7 +7826,7 @@ msgstr "Genopbygge cache automatisk"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Ændrede filer er spores i realtid (herunder filer ændret direkte på serveren) og genlagret. Blok lagring vil blive deaktiveret. Butiks ydeevne kan påvirkes lidt. Anbefales for at deaktivere på produktion."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8394,7 +8394,7 @@ msgstr "Søg string"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "Søg efter produkter, kunder, ordrer og CMS sider"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -9163,6 +9163,26 @@ msgstr "Brev Center"
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
 msgstr "Air Service Center"
+
+msgctxt "Languages::ship_ups_delivery_confirmation"
+msgid "No Signature"
+msgstr "Ingen signatur"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_signature"
+msgid "Signature Required"
+msgstr "Underskrift kræves"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
+msgid "Adult Signature Required"
+msgstr "Voksen signatur kræves"
+
+msgctxt "Languages::ship_ups_use_delivery_confirmation"
+msgid "Use Delivery confirmation"
+msgstr "Brug leveringsbekræftelse"
+
+msgctxt "Languages::ship_ups_dcist_type"
+msgid "Confirmation type"
+msgstr "Bekræftelsestype"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -10198,7 +10218,7 @@ msgstr "Dit pengeinstitut har oplyst, at det ikke kunne godkendes ved denne tran
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "For at downloade denne sikkerhedskopi, skal du klikke på tandhjulsikonet, og vælg Download"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10718,7 +10738,7 @@ msgstr "Ingen produkter fundet"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "Valgte filtre"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -11226,7 +11246,7 @@ msgstr "Følgende filer er blevet bakket op"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "Opgraderingspakken synes at være brudt. Venligst opdatere pakker liste og prøv at hente det igen"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11810,7 +11830,7 @@ msgstr "Tema redaktør mode"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "Du kan ikke ændre denne parameter for standardtypografier. Opret en ny først"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11918,7 +11938,7 @@ msgstr "Værktøj"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Tilføjelserstæller"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11926,11 +11946,11 @@ msgstr "Aktuelle tilstand"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Ingen tilføjelser"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "Ingen tredjepart tilføjelser"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -11942,7 +11962,7 @@ msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Denne beholder er ikke brugt. \"[container]\" container fra standardplaceringen vil blive brugt i stedet. Angive denne placering som standard at bruge denne container som \"[container]\" for alle lokationer."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12294,7 +12314,7 @@ msgstr "Domænenavn, du vil bruge i stedet for CloudFront domænenavn til URL-ad
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "AWS adgang nøgle-ID. Se <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\"> http://amzn.to/1sT9aw0</a> at lære hvordan du får nøglen og hemmelig nøgle."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12494,11 +12514,11 @@ msgstr "opgradere center"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "Valideringsproblem"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "Validator \"[validator_name]\" returnerede fejlstatus"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12510,7 +12530,7 @@ msgstr "Opgraderinger er kun tilgængelig i <strong>fuld</strong> og <strong>gra
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Ikke i stand til at forberede restore.php fil. Filen \"var/upgrade/restore.php\" var lokalt ændret/omdøbt/fjernet. Gendan den oprindelige restore.php fil før opgraderingen."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -13694,7 +13714,7 @@ msgstr "Aktiver sikker forbindelse i administrationen panelet (SSL-certifikat er
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Aktiver sikker forbindelse for butiksfacade"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -13706,7 +13726,7 @@ msgstr "Deaktiver levering"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Leveringsprocessorer"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14418,7 +14438,7 @@ msgstr "Konfigurere \"Log på\" trin"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Dette trin kan være skjult, hvis den ikke har nogen nødvendig kontakt info felter og anonymt checkout er tilladt."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14426,19 +14446,19 @@ msgstr "Standardindstillingen for den \"ny kunde\" sektionen på \"Log ind\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Vis \"Shipping metode\" trin"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Hvis skjult, vil den første aktive metode blive anvendt som standard."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Vis \"Payment method\" trin"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Hvis skjult, vil den første aktive metode blive anvendt som standard."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -14446,7 +14466,7 @@ msgstr "Aktivere at sælge downloadable produkter"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "SSL-certifikatet er obligatorisk for at være installeret på din server"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14466,7 +14486,7 @@ msgstr "Adresser på forsendelses- og faktureringsoplysninger"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "Lad være tom for gennemsigtig baggrund"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15298,15 +15318,15 @@ msgstr "Til kassen som gæst"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Deaktiver"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "Sikker profil, checkout og ordrersider"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "Sikker fuld websted"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15551,47 +15571,47 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "Opgraderings [connector_id] returnerede forkerte data"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "Opgraderingspakken er blevet downloadet og klar til at installere"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "Opgraderings konnektor ikke fundet"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "Ikke i stand til at læse pakke skema (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "Pakke indhold skema ikke fundet"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Pakke skemaet er ikke en gyldig JSON"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Forbudt: Tilføjelse forsøger at opgradere kernefiler ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Pakken indeholder migreringer, der ikke var beskrevet i skemaet eller skema har links til manglende migrationsfiler"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Pakken indeholder sprog, der ikke var beskrevet i skemaet eller skema har links til manglende sprogfiler"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Pakken indeholder filer, der ikke var beskrevet i skemaet eller skema har links til manglende filer"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "Pakken indeholder pre/post-scripts, der ikke var beskrevet i skemaet eller skema har links til manglende filer"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15603,85 +15623,85 @@ msgstr "Migrations"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Tilladelser problem"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Lokale ændringer"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Jeg forstår, at min lokale ændringer vil være permanent tabt under opgraderingen"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Vil blive ændret"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Vil blive slettet"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Opgraderingspakke validatorer"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Udføre \"[validator]\" validator"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Kopiere filer"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Køre migrationer"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Installer sprog"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Opgradere fremskridt"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Uploade opgraderingspakke"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Uploade opgraderingspakke gør din i stand til at anvende HotFixes eller tilføjelse opgraderinger. Du kan uploade en opgraderingspakke ved at vælge en tgz, gz, zip format arkiv og klikke på Upload."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Udenfor navigation"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Incorrect feature type. Some product features were not updated."
+msgstr "Forkert funktionstype. Nogle produktfunktioner blev ikke opdateret."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Feature name is missing. Some product features were not updated."
+msgstr "Funktionsnavnet mangler. Nogle produktfunktioner blev ikke opdateret."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "Mindst én butiksfacade skal forblive"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Filen kan ikke gendannes. Eneste .sql, .zip og .tgz filer er tilladt."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Der kan ikke skrives til filen <b>[file]</b>. Angive de skrivbare tilladelser manuelt eller kontrollere FTP adgang til din server i afsnittet <a href=\"[url]\"> \"Opgradere center\"</a>"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Din butik database og filer er blevet sikkerhedskopieret før opgraderingen. Den sikkerhedskopi arkiv omfatter hele databasen og alle filer undtagen billeder. Den backup arkiv er blevet gemt på din server: [backup_file].</p> <p>Før opgraderingen, din butik blev lukket. Kontroller, hvis det kører fint efter opgradering og <a href=\"[settings_section]\"> åbne det</a>.</p> <p>Hvis noget går galt under opgraderingen, skal du gå til din admin panel, <strong>Administration → sikkerhedskopiering/gendannelse</strong>, gendanne sikkerhedskopien.</p> <p>Hvis du ikke kan få adgang til din admin panel, bruge dette link til at gendanne den sidste sikkerhedskopi: [restore_link]. Vigtigt: dette link vil straks indlede gendannelsesprocessen. Brug det kun hvis du ikke kan få adgang til din admin panel!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Søg efter funktioner er ikke tilgængelige på grund af overdreven antal af varianter."
 

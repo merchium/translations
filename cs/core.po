@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-14 10:05-0400\n"
+"PO-Revision-Date: 2015-05-17 09:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1262,11 +1262,11 @@ msgstr "Možnosti filtrování produktů"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Filtry produktu pro domovskou stránku"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Produkt filtrování zobrazených na domovské stránce"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -3220,9 +3220,9 @@ msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
 msgstr "Smazat všechny soubory existujících produktů před importováním"
 
-msgctxt "Languages::dump_cant_create_file"
-msgid "Cannot create file for database dump. Please check permissions for the \"var/database\" directory of your installation."
-msgstr "Nelze vytvořit soubor pro výpis databáze. Zkontrolujte, prosím, oprávnění k adresáři \"var/database/backup\" ."
+msgctxt "Languages::cant_create_backup_file"
+msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Nelze nahrát záložní soubor.  Prosím, zkontrolujte oprávnění pro \"var/backups\" adresáři vaší instalace."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -9163,6 +9163,26 @@ msgstr "Dopis centrum"
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
 msgstr "Vzduch Servisní centrum"
+
+msgctxt "Languages::ship_ups_delivery_confirmation"
+msgid "No Signature"
+msgstr "Žádný podpis"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_signature"
+msgid "Signature Required"
+msgstr "Požadovaný podpis"
+
+msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
+msgid "Adult Signature Required"
+msgstr "Požadovaný dospělý podpis"
+
+msgctxt "Languages::ship_ups_use_delivery_confirmation"
+msgid "Use Delivery confirmation"
+msgstr "Použít doručení potvrzení"
+
+msgctxt "Languages::ship_ups_dcist_type"
+msgid "Confirmation type"
+msgstr "Typ potvrzení"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
