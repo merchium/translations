@@ -10,11 +10,11 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-18 12:03-0400\n"
+"PO-Revision-Date: 2015-05-19 03:04-0400\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
-msgstr "Newsletters"
+msgstr "Hírlevelek"
 
 msgctxt "Addons::description::newsletters"
 msgid "Lets you configure newsletter sending"
@@ -22,31 +22,31 @@ msgstr "Lets you configure newsletter sending"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
-msgstr "Create and send newsletters to your customer."
+msgstr "Hozzon létre, és küldjön hírleveleket vevőinek."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
-msgstr "Plain"
+msgstr "Sima"
 
 msgctxt "Languages::text_signup_for_subscriptions"
 msgid "Sign up for our newsletters!"
-msgstr "Sign up for our newsletters!"
+msgstr "Iratkozzon fel hírlevelünkre!"
 
 msgctxt "Languages::tmpl_subscription"
 msgid "Newsletters: subscription form"
-msgstr "Newsletters: subscription form"
+msgstr "Hírlevél-feliratkozási űrlap"
 
 msgctxt "Languages::unsubscribe_link"
 msgid "Unsubscribe link"
-msgstr "Unsubscribe link"
+msgstr "Leiratkozási link"
 
 msgctxt "Languages::ne_add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
-msgstr "Add subscribers from the list of users"
+msgstr "Feliratkozók hozzáadása listából"
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "<b>[email]</b> is already in the subscribers list"
+msgstr "Az alábbi e-mail cím már a feliratkozottak között szerepel: <strong>[email]</strong>"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
@@ -54,23 +54,23 @@ msgstr "Some mailing lists from the input file could not be found in the databas
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
-msgstr "Subscribers"
+msgstr "Feliratkozók"
 
 msgctxt "Languages::block_mailing_lists"
 msgid "Newsletter subscription"
-msgstr "Newsletter subscription"
+msgstr "Hírlevél feliratkozás"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
-msgstr "Email field for newsletter subscription"
+msgstr "Hírlevél feliratkozás e-mail mező"
 
 msgctxt "Languages::privileges.view_newsletters"
 msgid "View newsletters"
-msgstr "View newsletters"
+msgstr "Hírlevelek megtekintése"
 
 msgctxt "Languages::privileges.manage_newsletters"
 msgid "Manage newsletters"
-msgstr "Manage newsletters"
+msgstr "Hírlevelek kezelése"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
@@ -78,39 +78,39 @@ msgstr "Newsletter hasn't been sent because no recipients were found matching th
 
 msgctxt "Languages::text_newsletter_sent"
 msgid "The newsletter(s) have been sent successfully."
-msgstr "The newsletter(s) have been sent successfully."
+msgstr "Hírlevel(ek) sikeresen elküldve."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr "E-mail cannot be empty"
+msgstr "E-mail cím nem lehet üres"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
-msgstr "Sending email to [email]..."
+msgstr "E-mail küldése [email] címre..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
-msgstr "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "Sikeresen feliratkozott ingyenes hírlevelünkre"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
-msgstr "Your e-mail is already subscribed."
+msgstr "Az e-mail címe már szerepel listánkon."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
-msgstr "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "E-mail címét sikeresen eltávolítottuk ingyenes hírlevelünk listájáról"
 
 msgctxt "Languages::text_subscriber_activated"
 msgid "Your email has been successfully activated"
-msgstr "Your email has been successfully activated"
+msgstr "E-mail címe sikeresen aktiválva"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
-msgstr "The link will be displayed in a live newsletter"
+msgstr "A link az éles hírlevélben jelenik meg"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
-msgstr "Newsletters"
+msgstr "Hírlevelek"
 
 msgctxt "Languages::autoresponders"
 msgid "Autoresponders"
@@ -118,23 +118,23 @@ msgstr "Autoresponders"
 
 msgctxt "Languages::campaigns"
 msgid "Campaigns"
-msgstr "Campaigns"
+msgstr "Kampányok"
 
 msgctxt "Languages::sent"
 msgid "Sent"
-msgstr "Sent"
+msgstr "Küldött"
 
 msgctxt "Languages::subscribers_num"
 msgid "Number of subscribers"
-msgstr "Number of subscribers"
+msgstr "Feliratkozók száma"
 
 msgctxt "Languages::editing_mailing_list"
 msgid "Editing mailing list"
-msgstr "Editing mailing list"
+msgstr "Levelezési lista szerkesztése"
 
 msgctxt "Languages::from_name"
 msgid "From name"
-msgstr "From name"
+msgstr "Küldő neve"
 
 msgctxt "Languages::from_email"
 msgid "From email"
@@ -142,11 +142,11 @@ msgstr "From email"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr "Reply to"
+msgstr "Válasz e-mail"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
-msgstr "Confirmation email"
+msgstr "Megerősítő e-mail"
 
 msgctxt "Languages::no_autoresponder"
 msgid "No autoresponder"
@@ -166,19 +166,19 @@ msgstr "Show on separate page"
 
 msgctxt "Languages::campaign_stats"
 msgid "Campaign statistics"
-msgstr "Campaign statistics"
+msgstr "Kampány statisztikák"
 
 msgctxt "Languages::add_campaign"
 msgid "Add campaign"
-msgstr "Add campaign"
+msgstr "Kampány hozzáadása"
 
 msgctxt "Languages::new_campaign"
 msgid "New campaign"
-msgstr "New campaign"
+msgstr "Új kampány"
 
 msgctxt "Languages::newsletter_templates"
 msgid "Newsletter templates"
-msgstr "Newsletter templates"
+msgstr "Hírlevél sablonok"
 
 msgctxt "Languages::newsletter_autoresponders"
 msgid "Newsletter autoresponders"
@@ -186,15 +186,15 @@ msgstr "Newsletter autoresponders"
 
 msgctxt "Languages::subject"
 msgid "Subject"
-msgstr "Subject"
+msgstr "Tárgy"
 
 msgctxt "Languages::add_newsletter"
 msgid "Add newsletter"
-msgstr "Add newsletter"
+msgstr "Hírlevél hozzáadása"
 
 msgctxt "Languages::add_template"
 msgid "Add template"
-msgstr "Add template"
+msgstr "Sablon hozzáadása"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
@@ -202,15 +202,15 @@ msgstr "Add autoresponder"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
-msgstr "Random subjects (one per line)"
+msgstr "Random tárgyak (soronként egyet)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
-msgstr "HTML body"
+msgstr "HTML szöveg"
 
 msgctxt "Languages::no_template"
 msgid "No template"
-msgstr "No template"
+msgstr "Nincs sablon"
 
 msgctxt "Languages::load"
 msgid "Load"
