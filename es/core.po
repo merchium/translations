@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-20 10:03-0400\n"
+"PO-Revision-Date: 2015-05-21 03:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3634,7 +3634,7 @@ msgstr "Uno de sus frontales utiliza este tema. Por favor seleccione otro tema a
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
-msgstr "El diseño que usa este tema esta marcado por defecto.Por favor active otro tema como \"por defecto\"."
+msgstr "El diseño que usa este tema esta marcado por defecto. Por favor active otro tema como \"por defecto\"."
 
 msgctxt "Languages::error_demo_mode"
 msgid "The cart is working in the <b>DEMO</b> mode and this functionality is disabled."
@@ -3670,7 +3670,7 @@ msgstr "El delimitador en el archivo CSV difiere del que usted seleccionó"
 
 msgctxt "Languages::error_exim_invalid_count_langs"
 msgid "Multi-language line count mismatch: different number of lines for different languages provided."
-msgstr "Desajuste en recuento de líneas multi-idioma: sumiistrado diferente número de lineas para diferentes idiomas."
+msgstr "Desajuste en recuento de líneas multi-idioma: suministrado diferente número de lineas para diferentes idiomas."
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
@@ -3838,7 +3838,7 @@ msgstr "La empresa con el correo electrónico que ha elegido ya existe, por favo
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr "CVV/CVC is too short."
+msgstr "CVV/CVC demasiado corto."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3862,7 +3862,7 @@ msgstr "Tipo de excepciones"
 
 msgctxt "Languages::exception_disabled"
 msgid "No variant can be selected"
-msgstr "No variant can be selected"
+msgstr "No se puede seleccionar ninguna variante"
 
 msgctxt "Languages::exception_disregard"
 msgid "Any variant"
@@ -3882,7 +3882,7 @@ msgstr "Esta combinación de excepciones ya existe"
 
 msgctxt "Languages::exception_title"
 msgid "Oops!<br />We were unable to find what you were looking for."
-msgstr "Oops!<br />We were unable to find what you were looking for."
+msgstr "Oops!<br />No hemos encontrado lo que buscaba."
 
 msgctxt "Languages::exchange_rate"
 msgid "Live exchange rates"
@@ -3926,7 +3926,7 @@ msgstr "Autorización previa"
 
 msgctxt "Languages::expirepreauth_description"
 msgid "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
-msgstr "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
+msgstr "Límite de días en espera de preautorización, El valor máximo es 30 días. Con el tipo de petición \"Venta\", deje este campo vacío."
 
 msgctxt "Languages::expiry_date"
 msgid "Expiration date"
@@ -3954,7 +3954,7 @@ msgstr "Exportar datos"
 
 msgctxt "Languages::export_locations"
 msgid "Export locations"
-msgstr "Export locations"
+msgstr "Exportar ubicaciones"
 
 msgctxt "Languages::export_options"
 msgid "Export options"
@@ -4018,11 +4018,11 @@ msgstr "Características"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "Delimitador de variantes de características"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
-msgstr "Add and manage extra product fields."
+msgstr "Añadir y gestionar campos adicionales de producto."
 
 msgctxt "Languages::feature_code"
 msgid "Feature code"
@@ -4038,15 +4038,15 @@ msgstr "Mostrar en la lista de productos"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Show in header on the product details page"
+msgstr "Mostrar en el encabezado de la página de detalles del producto"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
-msgstr "Show on the Features tab"
+msgstr "Muestran en la ficha de características"
 
 msgctxt "Languages::feedback_is_sent_successfully"
 msgid "The feedback has been sent successfully."
-msgstr "The feedback has been sent successfully."
+msgstr "La respuesta ha sido enviada con éxito."
 
 msgctxt "Languages::feedback_values"
 msgid "Feedback values"
@@ -4102,7 +4102,7 @@ msgstr "Este archivo no tiene una clave de descarga."
 
 msgctxt "Languages::file_download_limit_exceeded"
 msgid "The file cannot be downloaded because the download limit equal to [limit] is exceeded."
-msgstr "The file cannot be downloaded because the download limit equal to [limit] is exceeded."
+msgstr "El archivo no se puede descargar porque el límite de [limit] de descargas se ha excedido."
 
 msgctxt "Languages::file_is_too_large"
 msgid "File is too large. Max uploading size is [size]."
@@ -4526,7 +4526,7 @@ msgstr "Húngaro"
 
 msgctxt "Languages::I25"
 msgid "Interleaved 2 of 5 is based on Standard 2 of 5 symbology.<br/>Interleaved 2 of 5 is designed to encode only 10 digits."
-msgstr "Interleaved 2 of 5 is based on Standard 2 of 5 symbology.<br/>Interleaved 2 of 5 is designed to encode only 10 digits."
+msgstr "Intercalado 2 de 5 se basa en la Simbología Estándar 2 de 5. <br/> Intercalado 2 de 5 está diseñado para codificar 10 dígitos."
 
 msgctxt "Languages::icon"
 msgid "Icon"
@@ -4842,19 +4842,19 @@ msgstr "Únete"
 
 msgctxt "Languages::json_error_ctrl_char"
 msgid "Control character error, possibly incorrectly encoded"
-msgstr "Control character error, possibly incorrectly encoded"
+msgstr "Error de carácter de control, posiblemente incorrectamente codificado"
 
 msgctxt "Languages::json_error_depth"
 msgid "The maximum stack depth has been exceeded"
-msgstr "The maximum stack depth has been exceeded"
+msgstr "Se ha excedido la profundidad máxima de la pila"
 
 msgctxt "Languages::json_error_state_mismatch"
 msgid "Invalid or malformed JSON"
-msgstr "Invalid or malformed JSON"
+msgstr "JSON malformado o no válido"
 
 msgctxt "Languages::json_error_syntax"
 msgid "Syntax error, malformed JSON"
-msgstr "Syntax error, malformed JSON"
+msgstr "Error de sintaxis, JSON malformado"
 
 msgctxt "Languages::json_error_unknown"
 msgid "Unknown JSON error"
@@ -4862,7 +4862,7 @@ msgstr "Error JSON desconocido"
 
 msgctxt "Languages::json_error_utf8"
 msgid "Malformed UTF-8 characters, possibly incorrectly encoded"
-msgstr "Malformed UTF-8 characters, possibly incorrectly encoded"
+msgstr "Caracteres UTF-8 malformados, posiblemente incorrectamente codificados"
 
 msgctxt "Languages::key"
 msgid "Key"
@@ -4870,11 +4870,11 @@ msgstr "Clave"
 
 msgctxt "Languages::key1_for_md5"
 msgid "Auth key 1 for md5"
-msgstr "Auth key 1 for md5"
+msgstr "Clave de auth 1 para md5"
 
 msgctxt "Languages::key2_for_md5"
 msgid "Auth key 2 for md5"
-msgstr "Auth key 2 for md5"
+msgstr "Clave de auth 2 para md5"
 
 msgctxt "Languages::keywords"
 msgid "Keywords"
@@ -4886,7 +4886,7 @@ msgstr "Coreano"
 
 msgctxt "Languages::label_text_color"
 msgid "Label text color"
-msgstr "Label text color"
+msgstr "Color del texto de la etiqueta"
 
 msgctxt "Languages::landing_header"
 msgid "Your order has been received"
@@ -4898,7 +4898,7 @@ msgstr "Lenguaje"
 
 msgctxt "Languages::languagecode"
 msgid "Language code"
-msgstr "Language code"
+msgstr "Código de idioma"
 
 msgctxt "Languages::languages"
 msgid "Languages"
@@ -4958,11 +4958,11 @@ msgstr "Diseños"
 
 msgctxt "Languages::lbl_amazon_aws_access_public_key"
 msgid "AWS access public key"
-msgstr "AWS access public key"
+msgstr "Clave pública de acceso AWS"
 
 msgctxt "Languages::lbl_amazon_aws_access_secret_key"
 msgid "AWS access secret key"
-msgstr "AWS access secret key"
+msgstr "Clave secreta de acceso AWS"
 
 msgctxt "Languages::lbl_amazon_background_color"
 msgid "Background color"
@@ -5002,7 +5002,7 @@ msgstr "Blanco"
 
 msgctxt "Languages::lbl_amazon_process_order_on_failure"
 msgid "Process order on callback failure"
-msgstr "Process order on callback failure"
+msgstr "Procesar pedido en fallo de devolución de llamada"
 
 msgctxt "Languages::lbl_amazon_size_large"
 msgid "Large"
@@ -5082,7 +5082,7 @@ msgstr "Enlaces"
 
 msgctxt "Languages::links_thumb"
 msgid "Links thumb"
-msgstr "Links thumb"
+msgstr "Enlaces de miniatura"
 
 msgctxt "Languages::link_text"
 msgid "Link text"
@@ -5118,7 +5118,7 @@ msgstr "Precio de lista"
 
 msgctxt "Languages::list_quantity_count"
 msgid "List quantity count"
-msgstr "List quantity count"
+msgstr "Listar recuento de cantidad"
 
 msgctxt "Languages::tmpl_list_without_options"
 msgid "List without options"
@@ -5166,7 +5166,7 @@ msgstr "Administrar el conjunto de ubicaciones que son soportadas en la tienda."
 
 msgctxt "Languages::loggedin_time"
 msgid "Logged in time"
-msgstr "Logged in time"
+msgstr "Tiempo conectado"
 
 msgctxt "Languages::logging"
 msgid "Logging"
