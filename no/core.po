@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-20 10:05-0400\n"
+"PO-Revision-Date: 2015-05-22 20:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1262,11 +1262,11 @@ msgstr "Produktfilter valg"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Produktfiltre for home page"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Produktfilter alternativer, som vises på home page"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -3222,7 +3222,7 @@ msgstr "Slett alle eksisterende produktfiler før import"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Kan ikke laste opp sikkerhetskopifilen. Kontroller tillatelsene for mappen \"var/backup\" for din installasjon."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -9166,23 +9166,23 @@ msgstr "Luftfartsenter"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Ingen signatur"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Signatur kreves"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Signatur fra voksen kreves"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Bruk Leveringsbekreftelse"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Bekreftelse type"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -12470,7 +12470,7 @@ msgstr "Oppdater gruppe"
 
 msgctxt "Languages::update_period_expired"
 msgid "<p class=\"text-error\">Your upgrade subscription has expired, so this software upgrade cannot be installed. You can prolongate your subscription in the <a href=\"[url]\">Customer Help Desk</a>.</p><p>Please note that it is not mandatory: you can continue using this software with no limitation even without an upgrade subscription.</p>"
-msgstr "<p class=\"text-error\">Tilgang til denne oppgraderingen, og til alle fremtidige oppgraderinger er stengt. Du kan kjøpe et oppgraderingsabonnement på  <a href=\"[url]\">Customer Help Desk</a></p>"
+msgstr "<p class=\"text-error\">Tilgang til denne oppgraderingen, og til alle fremtidige oppgraderinger er stengt. Du kan kjøpe et oppgraderingsabonnement på  <a href=\"[url]\">Customer Help Desk</a>.</p><p>Vær oppmerksom på at det ikke er obligatorisk: du kan fortsette å bruke denne programvaren uten begrensning, selv uten et oppgraderingsabonnement.</p>"
 
 msgctxt "Languages::update_products"
 msgid "Update products"
@@ -12530,7 +12530,7 @@ msgstr "Oppgraderinger er bare tilgjengelig i <strong>Full</strong> og <strong>F
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Kan ikke klargjøre restore.php filen. Filen \"var/upgrade/restore.php\" er lokalt endret/omdøpt/fjernet. Gjenopprett den originale restore.php filen før oppgraderingen."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"

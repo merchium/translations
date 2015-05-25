@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-21 03:03-0400\n"
+"PO-Revision-Date: 2015-05-25 04:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -5446,15 +5446,15 @@ msgstr "El valor de la moneda recibido en la petición de estatus difiere del re
 
 msgctxt "Languages::mb_md5_hashes_not_match"
 msgid "The md5 hash value received in status request differs from the calculated one"
-msgstr "The md5 hash value received in status request differs from the calculated one"
+msgstr "El valor del hash md5 recibido en solicitud de estado difiere del calculado"
 
 msgctxt "Languages::mb_transaction_id"
 msgid "MB Transaction ID"
-msgstr "MB Transaction ID"
+msgstr "ID de transacción MB"
 
 msgctxt "Languages::md5_checksum_failed"
 msgid "MD5 checksum failed"
-msgstr "MD5 checksum failed"
+msgstr "Error en comprobación de suma de MD5"
 
 msgctxt "Languages::md5_hash_value"
 msgid "MD5 hash value"
@@ -5482,7 +5482,7 @@ msgstr "Correo electrónico de notificación del comerciante"
 
 msgctxt "Languages::merchant_firstname"
 msgid "Merchant first name"
-msgstr "Merchant first name"
+msgstr "Nombre del comercio"
 
 msgctxt "Languages::merchant_id"
 msgid "Merchant ID"
@@ -5494,11 +5494,11 @@ msgstr "Clave del comerciante"
 
 msgctxt "Languages::merchant_lastname"
 msgid "Merchant last name"
-msgstr "Merchant last name"
+msgstr "Apellido de Comercio"
 
 msgctxt "Languages::merchant_login"
 msgid "Merchant login"
-msgstr "Merchant login"
+msgstr "Inicio de sesión del comercio"
 
 msgctxt "Languages::merchant_name"
 msgid "Merchant name"
@@ -5510,11 +5510,11 @@ msgstr "PIN del comerciante"
 
 msgctxt "Languages::merchant_response_was_not_received"
 msgid "No response from the merchant received. Please check this transaction manually."
-msgstr "No response from the merchant received. Please check this transaction manually."
+msgstr "No se ha recibido respuesta del comerciante. Por favor revise esta transacción manualmente."
 
 msgctxt "Languages::merchant_site_id"
 msgid "Merchant site ID"
-msgstr "Merchant site ID"
+msgstr "ID del sitio del comercio"
 
 msgctxt "Languages::merchant_warrior_api_key"
 msgid "API Key."
@@ -5522,11 +5522,11 @@ msgstr "Clave API."
 
 msgctxt "Languages::merchant_warrior_api_passphrase"
 msgid "API Passphrase."
-msgstr "API Passphrase."
+msgstr "Frase de paso de API."
 
 msgctxt "Languages::merge"
 msgid "Merge"
-msgstr "Merge"
+msgstr "Fusionar"
 
 msgctxt "Languages::message"
 msgid "Message"
@@ -5550,7 +5550,7 @@ msgstr "Método"
 
 msgctxt "Languages::minimized"
 msgid "Minimized"
-msgstr "Minimized"
+msgstr "Minimizado"
 
 msgctxt "Languages::minimum_commission_payment"
 msgid "Minimum commission payment"
@@ -5562,15 +5562,15 @@ msgstr "Mínimo de Ítems en caja"
 
 msgctxt "Languages::minutes"
 msgid "minute(s)"
-msgstr "minute(s)"
+msgstr "minuto(s)"
 
 msgctxt "Languages::min_order_qty"
 msgid "Minimum order quantity"
-msgstr "Minimum order quantity"
+msgstr "Cantidad mínima de pedido"
 
 msgctxt "Languages::missing_variants_handling"
 msgid "Missing variants handling"
-msgstr "Missing variants handling"
+msgstr "Gestión de variantes ausentes"
 
 msgctxt "Languages::modifier"
 msgid "Modifier"
@@ -5702,7 +5702,7 @@ msgstr "[más]"
 
 msgctxt "Languages::more_sign_in_options"
 msgid "Back to more sign in options"
-msgstr "Back to more sign in options"
+msgstr "Regresar a más opciones de inicio de sesión"
 
 msgctxt "Languages::more_than"
 msgid "More than"
@@ -5746,7 +5746,7 @@ msgstr "<p style=\"font-size:10px;\">Para seleccionar más de una entrada, deje 
 
 msgctxt "Languages::multiupload"
 msgid "Multiupload"
-msgstr "Multiupload"
+msgstr "Multicarga"
 
 msgctxt "Languages::my_account"
 msgid "My account"
@@ -6198,7 +6198,7 @@ msgstr "Editar plantilla in situ"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Edición en vivo sobre el sitio"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -6597,11 +6597,11 @@ msgstr "Tipo de letra"
 
 msgctxt "Languages::payments.epdq.hash_error"
 msgid "Sorry, the hash string does not match"
-msgstr "Sorry, the hash string does not match"
+msgstr "Perdón, la cadena hash no coincide"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
-msgstr "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
+msgstr "<ol><li><p>Introduzca la siguiente URL en la sección \"Información técnica\"→\"Información de transacción\" de la área de administración de ePDQ:</p><p>para los pagos \"acceptados\" y \"cancelados\": [url]</p></li><li>Asegúrese que el \"Tiempo de la petición\" está a \"Siempre online\", y que el \"Método de petición\" está a \"POST\"</li><li>Defina el valor de la  \"Frase de paso SHA-OUT\" en la área de administración según su preferencia en la sección \"Verificación de datos y origen\", y también en el campo \"Frase de paso\" de debajoo</li><li>Asegúrese que la opción \"Código de operación por defecto\" de la área de administración de ePDQ tiene el mismo valor que la opción \"Tipo de transacción\" de debajo</li><li>Establezca el parámetro \"Hash algorithm\" a \"SHA-1\" en la sección \"Parámetros globales de seguridad\" de la área de administración de ePDQ</li></ol>"
 
 msgctxt "Languages::payments.epdq.pspid"
 msgid "EPDQ pspid"
@@ -6609,11 +6609,11 @@ msgstr "EPDQ pspid"
 
 msgctxt "Languages::payments.epdq.tbl_bgcolor"
 msgid "Table background color"
-msgstr "Table background color"
+msgstr "Color de fondo de la tabla"
 
 msgctxt "Languages::payments.epdq.tbl_textcolor"
 msgid "Table text color"
-msgstr "Table text color"
+msgstr "Color del texto de tabla"
 
 msgctxt "Languages::payments.epdq.textcolor"
 msgid "Text color"
@@ -6625,7 +6625,7 @@ msgstr "Título"
 
 msgctxt "Languages::payments.signin_to_checkout"
 msgid "<a href=[url]>Sign in</a> to check out"
-msgstr "<a href=[url]>Sign in</a> to check out"
+msgstr "<a href=[url]> Regístrese</a> para pagar"
 
 msgctxt "Languages::payments_tab1"
 msgid "Credit card"
@@ -6633,7 +6633,7 @@ msgstr "Tarjeta de crédito"
 
 msgctxt "Languages::payments_tab2"
 msgid "Internet Payments"
-msgstr "Internet Payments"
+msgstr "Pagos de Internet"
 
 msgctxt "Languages::payments_tab3"
 msgid "Other Payment Options"
@@ -6649,7 +6649,7 @@ msgstr "Categoría de pago"
 
 msgctxt "Languages::payment_category_note"
 msgid "Payment categories tabs will NOT be displayed if all the active payments belong to the same category"
-msgstr "Payment categories tabs will NOT be displayed if all the active payments belong to the same category"
+msgstr "Las pestañas de categorías de pagos NO se mostrarán si todos los métodos de pago activos pertenecen a la misma categoría"
 
 msgctxt "Languages::payment_details"
 msgid "Payment details"
@@ -6681,7 +6681,7 @@ msgstr "Métodos de pago"
 
 msgctxt "Languages::payment_response_password"
 msgid "Payment Response password"
-msgstr "Payment Response password"
+msgstr "Contraseña de respuesta de pago"
 
 msgctxt "Languages::payment_surcharge"
 msgid "Payment surcharge"
@@ -6693,7 +6693,7 @@ msgstr "Tipo de pago"
 
 msgctxt "Languages::paypal_authentication_method"
 msgid "PayPal authentication method"
-msgstr "PayPal authentication method"
+msgstr "Método de autenticación de PayPal"
 
 msgctxt "Languages::paypal_item_name"
 msgid "Name of the item (or a name for the Shopping Cart)"
@@ -6701,7 +6701,7 @@ msgstr "Nombre del artículo (o un nombre para el Carro)."
 
 msgctxt "Languages::paypal_security_error"
 msgid "Your order was not placed: the recipient PayPal account is wrong."
-msgstr "Your order was not placed: the recipient PayPal account is wrong."
+msgstr "Su pedido no se registró: el destinatario de la cuenta PayPal es erróneo."
 
 msgctxt "Languages::pay_from_email"
 msgid "Customer email"
@@ -6713,7 +6713,7 @@ msgstr "Pagar pedido otra vez"
 
 msgctxt "Languages::pay_to_email"
 msgid "Email address of the Merchant"
-msgstr "Email address of the Merchant"
+msgstr "Dirección de correo electrónico del comerciante"
 
 msgctxt "Languages::pending"
 msgid "Pending"
@@ -6781,7 +6781,7 @@ msgstr "Realizando la compra"
 
 msgctxt "Languages::plain"
 msgid "Plain"
-msgstr "Plain"
+msgstr "Llano"
 
 msgctxt "Languages::platform"
 msgid "Platform"
@@ -6793,7 +6793,7 @@ msgstr "Por favor tenga paciencia"
 
 msgctxt "Languages::please_enter_license_here"
 msgid "Please enter license number here"
-msgstr "Please enter license number here"
+msgstr "Por favor, introduzca aquí su número licencia"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -6801,7 +6801,7 @@ msgstr "Por favor, selecciona uno"
 
 msgctxt "Languages::please_sign_in"
 msgid "Please sign in"
-msgstr "Please sign in"
+msgstr "Por favor acceda"
 
 msgctxt "Languages::polish"
 msgid "Polish"
@@ -6837,7 +6837,7 @@ msgstr "Posición"
 
 msgctxt "Languages::positions_updated"
 msgid "Positions of items were updated"
-msgstr "Positions of items were updated"
+msgstr "Se actualizaron las posiciones de los ítems"
 
 msgctxt "Languages::position_short"
 msgid "Pos."
@@ -6865,7 +6865,7 @@ msgstr "Código postal"
 
 msgctxt "Languages::preauth"
 msgid "Preauth"
-msgstr "Preauth"
+msgstr "PreAuth"
 
 msgctxt "Languages::preauthorization"
 msgid "Preauthorization"
@@ -6873,11 +6873,11 @@ msgstr "Autorización previa"
 
 msgctxt "Languages::prefix"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "Prefijo"
 
 msgctxt "Languages::preshared_key"
 msgid "PreShared Key"
-msgstr "PreShared Key"
+msgstr "Clave PreShared"
 
 msgctxt "Languages::prev"
 msgid "Prev."
@@ -6917,11 +6917,11 @@ msgstr "Precio"
 
 msgctxt "Languages::price_decreased"
 msgid "Price has been decreased by"
-msgstr "Price has been decreased by"
+msgstr "El precio ha sido reducido en"
 
 msgctxt "Languages::price_dec_sign_delimiter"
 msgid "Price decimal separator"
-msgstr "Price decimal separator"
+msgstr "Separador decimal precio"
 
 msgctxt "Languages::price_includes_tax"
 msgid "Price includes tax"
@@ -6929,7 +6929,7 @@ msgstr "Impuestos incluidos en precio"
 
 msgctxt "Languages::price_increased"
 msgid "Price has been increased by"
-msgstr "Price has been increased by"
+msgstr "El precio se ha incrementado en"
 
 msgctxt "Languages::price_in_points"
 msgid "Price in points"
@@ -6957,7 +6957,7 @@ msgstr "Imprimir tarjeta"
 
 msgctxt "Languages::print_credit_memo"
 msgid "Print credit memo"
-msgstr "Print credit memo"
+msgstr "Imprimir nota de crédito"
 
 msgctxt "Languages::print_invoice"
 msgid "Print invoice"
@@ -6969,7 +6969,7 @@ msgstr "Imprimir detalle de pedido"
 
 msgctxt "Languages::print_packing_slip"
 msgid "Print packing slip"
-msgstr "Print packing slip"
+msgstr "Imprimir albaranes"
 
 msgctxt "Languages::print_pdf_packing_slip"
 msgid "Print packing slip (pdf)"
@@ -6977,15 +6977,15 @@ msgstr "Imprimir hoja de embalaje (pdf)"
 
 msgctxt "Languages::print_pdf_credit_memo"
 msgid "Print credit memo (pdf)"
-msgstr "Print credit memo (pdf)"
+msgstr "Imprimir nota de crédito (pdf)"
 
 msgctxt "Languages::print_pdf_invoice"
 msgid "Print invoice (pdf)"
-msgstr "Print invoice (pdf)"
+msgstr "Imprimir factura (pdf)"
 
 msgctxt "Languages::print_pdf_order_details"
 msgid "Print order details (pdf)"
-msgstr "Print order details (pdf)"
+msgstr "Imprimir detalles del pedido (pdf)"
 
 msgctxt "Languages::print_slip"
 msgid "Print slip"
@@ -7001,7 +7001,7 @@ msgstr "Privado"
 
 msgctxt "Languages::private_customer_settings"
 msgid "Private customer settings"
-msgstr "Private customer settings"
+msgstr "Ajustes privados del cliente"
 
 msgctxt "Languages::privilege"
 msgid "Privilege"
@@ -7021,7 +7021,7 @@ msgstr "Crear pedido"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Copia de Seguridad/Restaurar"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7101,11 +7101,11 @@ msgstr "Gestionar datos estáticos"
 
 msgctxt "Languages::privileges.manage_storage"
 msgid "Manage storage"
-msgstr "Manage storage"
+msgstr "Administrar inventario"
 
 msgctxt "Languages::privileges.manage_stores"
 msgid "Manage stores"
-msgstr "Manage stores"
+msgstr "Administrar tiendas"
 
 msgctxt "Languages::privileges.manage_taxes"
 msgid "Manage taxes"
@@ -7117,11 +7117,11 @@ msgstr "Administrar temas"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
-msgstr "On-site live editing"
+msgstr "Edición en vivo sobre el sitio"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
-msgstr "Manage user groups"
+msgstr "Administrar grupos de usuarios"
 
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
@@ -7265,15 +7265,15 @@ msgstr "Procesado"
 
 msgctxt "Languages::processor_description_cardsave"
 msgid "Merchant Accounts provided by Cardsave, <a href=\"http://www.cardsave.net\">www.cardsave.net</a><br/><br/>Email: <a href='mailto:ecomm@cardsave.net'>ecomm@cardsave.net</a>"
-msgstr "Merchant Accounts provided by Cardsave, <a href=\"http://www.cardsave.net\">www.cardsave.net</a><br/><br/>Email: <a href='mailto:ecomm@cardsave.net'>ecomm@cardsave.net</a>"
+msgstr "Cuentas de Comerciante proporcionadas por Cardsave, <a href=\"http://www.cardsave.net\">www.cardsave.net</a><br/><br/>Email: <a href='mailto:ecomm@cardsave.net'>ecomm@cardsave.net</a>"
 
 msgctxt "Languages::processor_description_p21"
 msgid "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
-msgstr "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
+msgstr "<b>P21API Simple</b>permite aceptar pagos por cheque. Ofrece la suite más completa de creación de imagen y soluciones de liquidación. Con Check 21, recibirá los fondos en el mismo día por cheque o depósito en cuenta.<br/><br/>Para activar la opción Check 21, por favor contacte por email a:<a href=\"mailto:support@payment21.com\">support@payment21.com</a>o por teléfono a:  1-888-770-0850 (sin gastos des de USA) o 0041-71-740-1629 (Internacional).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
 
 msgctxt "Languages::processor_id"
 msgid "Processor ID"
-msgstr "Processor ID"
+msgstr "ID del procesador"
 
 msgctxt "Languages::process_selected"
 msgid "Process selected"
@@ -7289,7 +7289,7 @@ msgstr "Artículos"
 
 msgctxt "Languages::products2"
 msgid "Products2"
-msgstr "Products2"
+msgstr "Productos2"
 
 msgctxt "Languages::products_added_to_cart"
 msgid "The products were added to your cart"
@@ -7317,7 +7317,7 @@ msgstr "Artículo(s) encontrado(s)"
 
 msgctxt "Languages::products_grid"
 msgid "Products grid"
-msgstr "Products grid"
+msgstr "Grid de productos"
 
 msgctxt "Languages::products_information"
 msgid "Products information"
@@ -7329,7 +7329,7 @@ msgstr "Productos en carro"
 
 msgctxt "Languages::products_links_type"
 msgid "Products links type"
-msgstr "Products links type"
+msgstr "Tipo de enlaces de producto"
 
 msgctxt "Languages::products_menu_description"
 msgid "View, add and edit products that are shown to visitors of your store."
@@ -7353,7 +7353,7 @@ msgstr "Los productos han sido enviados. La información del pedido aparece a co
 
 msgctxt "Languages::product_added_to_cart"
 msgid "The product was added to your cart"
-msgstr "The product was added to your cart"
+msgstr "El producto ha sido añadido a su carrito"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Compare list"
@@ -7433,11 +7433,11 @@ msgstr "Nombre del artículo"
 
 msgctxt "Languages::product_notification_subscribed"
 msgid "You have been subscribed to the product in stock notifications"
-msgstr "You have been subscribed to the product in stock notifications"
+msgstr "Se ha suscrito a las notificaciones de disponibilidad de existencia del producto"
 
 msgctxt "Languages::product_notification_unsubscribed"
 msgid "You have been unsubscribed from the product in stock notifications"
-msgstr "You have been unsubscribed from the product in stock notifications"
+msgstr "Se ha dado de baja de las notificaciones de disponibilidad de existencias del producto"
 
 msgctxt "Languages::product_options"
 msgid "Product options"
@@ -7449,7 +7449,7 @@ msgstr "El producto <strong>[product]</strong> tiene opciones que están incluid
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
+msgstr "El producto <strong>[product]</strong>tiene opciones o variantes de opciones que ya no están disponibles, por lo que se ha quitado del carro"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -7457,7 +7457,7 @@ msgstr "Producto(s)"
 
 msgctxt "Languages::product_subscriptions"
 msgid "Product subscriptions"
-msgstr "Product subscriptions"
+msgstr "Suscripciones de producto"
 
 msgctxt "Languages::product_summary"
 msgid "Product summary"
@@ -7465,7 +7465,7 @@ msgstr "Sumario de producto"
 
 msgctxt "Languages::product_tabs"
 msgid "Product tabs"
-msgstr "Product tabs"
+msgstr "Pestañas de producto"
 
 msgctxt "Languages::product_type"
 msgid "Product type"
@@ -7477,7 +7477,7 @@ msgstr "Perfil"
 
 msgctxt "Languages::profiles"
 msgid "Profiles"
-msgstr "Profiles"
+msgstr "Perfiles"
 
 msgctxt "Languages::profile_activated"
 msgid "Profile activated"
