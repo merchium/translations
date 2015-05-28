@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-25 04:03-0400\n"
+"PO-Revision-Date: 2015-05-28 04:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7493,7 +7493,7 @@ msgstr "Campos del perfil"
 
 msgctxt "Languages::profile_fields_menu_description"
 msgid "Configure the set of fields included in the profile forms."
-msgstr "Configure the set of fields included in the profile forms."
+msgstr "Configure el conjunto de campos incluidos en los formularios de perfil."
 
 msgctxt "Languages::profile_info"
 msgid "Profile information"
@@ -7505,7 +7505,7 @@ msgstr "Nombre del perfil"
 
 msgctxt "Languages::project_id"
 msgid "Project ID"
-msgstr "Project ID"
+msgstr "ID de proyecto"
 
 msgctxt "Languages::project_password"
 msgid "Project password"
@@ -7545,7 +7545,7 @@ msgstr "Gastos de envío gratis"
 
 msgctxt "Languages::promotion_bonus_give_coupon"
 msgid "Give coupon"
-msgstr "Give coupon"
+msgstr "Dar cupón"
 
 msgctxt "Languages::promotion_bonus_give_points"
 msgid "Give points"
@@ -7553,7 +7553,7 @@ msgstr "Dar puntos"
 
 msgctxt "Languages::promotion_bonus_give_usergroup"
 msgid "Give user group"
-msgstr "Give user group"
+msgstr "Otorgar grupo de usuarios"
 
 msgctxt "Languages::promotion_bonus_order_discount"
 msgid "Order discount"
@@ -7565,7 +7565,7 @@ msgstr "Descuento del producto"
 
 msgctxt "Languages::promotion_cond_auto_coupons"
 msgid "Automatically generated coupon codes"
-msgstr "Automatically generated coupon codes"
+msgstr "Códigos de cupón generados automáticamente"
 
 msgctxt "Languages::promotion_cond_categories"
 msgid "Categories"
@@ -7573,7 +7573,7 @@ msgstr "Categorías"
 
 msgctxt "Languages::promotion_cond_country"
 msgid "Customer country (shipping)"
-msgstr "Customer country (shipping)"
+msgstr "País del cliente (envío)"
 
 msgctxt "Languages::promotion_cond_coupon_code"
 msgid "Coupon code"
@@ -7613,7 +7613,7 @@ msgstr "Productos comprados"
 
 msgctxt "Languages::promotion_cond_state"
 msgid "Customer state (shipping)"
-msgstr "Customer state (shipping)"
+msgstr "Estado del cliente (envío)"
 
 msgctxt "Languages::promotion_cond_subtotal"
 msgid "Order subtotal"
@@ -7625,7 +7625,7 @@ msgstr "Total del pedido"
 
 msgctxt "Languages::promotion_cond_total_weight"
 msgid "Total products weight in the cart"
-msgstr "Total products weight in the cart"
+msgstr "Peso total de productos en el carro"
 
 msgctxt "Languages::promotion_cond_usergroup"
 msgid "User group"
@@ -7637,7 +7637,7 @@ msgstr "Usuarios"
 
 msgctxt "Languages::promotion_cond_zip_postal_code"
 msgid "Customer zip/postal code (shipping)"
-msgstr "Customer zip/postal code (shipping)"
+msgstr "Código postal del cliente (envío)"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
@@ -7733,7 +7733,7 @@ msgstr "Descuentos por cantidad"
 
 msgctxt "Languages::qty_discount_type_tooltip"
 msgid "Fixed amount/Percentage to be taken off the price"
-msgstr "Fixed amount/Percentage to be taken off the price"
+msgstr "Importe/porcentaje fijo que se quitará del precio"
 
 msgctxt "Languages::quantity"
 msgid "Quantity"
@@ -7741,7 +7741,7 @@ msgstr "Cantidad"
 
 msgctxt "Languages::quantity_step"
 msgid "Quantity step"
-msgstr "Quantity step"
+msgstr "Salto de cantidad"
 
 msgctxt "Languages::query"
 msgid "Query"
@@ -7761,7 +7761,7 @@ msgstr "Menú rápido"
 
 msgctxt "Languages::quick_product_viewer"
 msgid "Quick product viewer"
-msgstr "Quick product viewer"
+msgstr "Visor rápido de producto"
 
 msgctxt "Languages::quick_view"
 msgid "Quick view"
@@ -7769,7 +7769,7 @@ msgstr "Vista rápida"
 
 msgctxt "Languages::radiogroup"
 msgid "Radio group"
-msgstr "Radio group"
+msgstr "Grupo de radiobuttons"
 
 msgctxt "Languages::random"
 msgid "Random"
@@ -7777,7 +7777,7 @@ msgstr "Aleatorio"
 
 msgctxt "Languages::rank_number"
 msgid "Rank ('machine') number"
-msgstr "Rank ('machine') number"
+msgstr "Número de rank ('machine')"
 
 msgctxt "Languages::rates_depend_on"
 msgid "Rates depend on"
@@ -7801,7 +7801,7 @@ msgstr "Valor de la tarifa"
 
 msgctxt "Languages::read"
 msgid "Read"
-msgstr "Read"
+msgstr "Leer"
 
 msgctxt "Languages::readme"
 msgid "Readme"
@@ -7825,11 +7825,11 @@ msgstr "Respuesta del procesador del pago"
 
 msgctxt "Languages::rebuild_cache_automatically"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Reconstruir caché automáticamente"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "Los archivos modificados son rastreados en tiempo real (incluyendo los archivos modificados directamente en el servidor) y actualizados en la caché. Se desactivará la cahés de bloques. El rendimiento de la tienda puede verse afectado levemente. Se recomienda deshabilitar en producción."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -7845,15 +7845,15 @@ msgstr "Recalcular tasas"
 
 msgctxt "Languages::recalculate_totals"
 msgid "Recalculate totals"
-msgstr "Recalculate totals"
+msgstr "Recalcular totales"
 
 msgctxt "Languages::recent_activity"
 msgid "Recent activity"
-msgstr "Recent activity"
+msgstr "Actividad reciente"
 
 msgctxt "Languages::recent_orders"
 msgid "Recent orders"
-msgstr "Recent orders"
+msgstr "Pedidos recientes"
 
 msgctxt "Languages::recent_products"
 msgid "Recently viewed"
@@ -7865,7 +7865,7 @@ msgstr "Destinatario"
 
 msgctxt "Languages::recipients_name"
 msgid "Recipient`s Name"
-msgstr "Recipient`s Name"
+msgstr "Nombre del destinatario"
 
 msgctxt "Languages::recipient_description"
 msgid "Description of the Merchant"
@@ -7889,11 +7889,11 @@ msgstr "Recurrentemente"
 
 msgctxt "Languages::redirect_customer_from_storefront"
 msgid "Redirect visitors of this storefront to the one that has countries to which the visitors' IP addresses belong defined"
-msgstr "Redirect visitors of this storefront to the one that has countries to which the visitors' IP addresses belong defined"
+msgstr "Redirigir los visitantes de esta tienda a la que tenga definidos países para las direcciones IP de los visitantes"
 
 msgctxt "Languages::referrers"
 msgid "Referrers"
-msgstr "Referrers"
+msgstr "Referenciadores"
 
 msgctxt "Languages::referrer_domain"
 msgid "Referrer domain"
@@ -7901,7 +7901,7 @@ msgstr "Dominio Referrer"
 
 msgctxt "Languages::refresh_packages_list"
 msgid "Refresh packages list"
-msgstr "Refresh packages list"
+msgstr "Actualizar lista de paquetes"
 
 msgctxt "Languages::refund"
 msgid "Refund"
@@ -7909,7 +7909,7 @@ msgstr "Reembolso"
 
 msgctxt "Languages::refunded"
 msgid "Refunded"
-msgstr "Refunded"
+msgstr "Reembolsado"
 
 msgctxt "Languages::refunded_amount"
 msgid "Refunded amount"
@@ -7921,7 +7921,7 @@ msgstr "RegExp"
 
 msgctxt "Languages::regexp_hint"
 msgid "If you are using the regexp checking, it is necessary to set a prompting message informing of the incorrect filling of the field, otherwise, the checking will not be performed"
-msgstr "If you are using the regexp checking, it is necessary to set a prompting message informing of the incorrect filling of the field, otherwise, the checking will not be performed"
+msgstr "Si utiliza una comprobación por regexp, es necesario establecer un mensaje informando del llenado incorrecto del campo, de lo contrario la comprobación no se realizará"
 
 msgctxt "Languages::region"
 msgid "Region"
@@ -7945,7 +7945,7 @@ msgstr "Clientes registrados"
 
 msgctxt "Languages::register_new_account"
 msgid "Register for a new account"
-msgstr "Register for a new account"
+msgstr "Registrar una nueva cuenta"
 
 msgctxt "Languages::register_profile"
 msgid "Register profile"
@@ -7953,7 +7953,7 @@ msgstr "Registrar perfil"
 
 msgctxt "Languages::registration"
 msgid "Registration"
-msgstr "Registration"
+msgstr "Registro"
 
 msgctxt "Languages::regnumber"
 msgid "Registration number"
@@ -7965,7 +7965,7 @@ msgstr "Pedido relacionado"
 
 msgctxt "Languages::release_date"
 msgid "Release date"
-msgstr "Release date"
+msgstr "Fecha de lanzamiento"
 
 msgctxt "Languages::remember_me"
 msgid "Remember me"
@@ -7977,7 +7977,7 @@ msgstr "Borrar"
 
 msgctxt "Languages::remove_backup_files"
 msgid "Remove backup files"
-msgstr "Remove backup files"
+msgstr "Eliminar archivos de copia de seguridad"
 
 msgctxt "Languages::remove_cc_info"
 msgid "Remove CC info"
@@ -8093,7 +8093,7 @@ msgstr "Cuenta de peticiones"
 
 msgctxt "Languages::requesttype"
 msgid "Request type"
-msgstr "Request type"
+msgstr "Tipo de solicitud"
 
 msgctxt "Languages::request_account_name"
 msgid "Requested account name"
@@ -8109,11 +8109,11 @@ msgstr "Reset"
 
 msgctxt "Languages::reset_filter"
 msgid "Reset filter"
-msgstr "Reset filter"
+msgstr "Reiniciar filtro"
 
 msgctxt "Languages::reset_inventory"
 msgid "Reset inventory"
-msgstr "Reset inventory"
+msgstr "Reiniciar inventario"
 
 msgctxt "Languages::reset_password"
 msgid "Reset password"
@@ -8121,7 +8121,7 @@ msgstr "Resetear contraseña"
 
 msgctxt "Languages::resolved"
 msgid "Resolved"
-msgstr "Resolved"
+msgstr "Resuelto"
 
 msgctxt "Languages::response"
 msgid "Response"
@@ -8133,7 +8133,7 @@ msgstr "Restaurar"
 
 msgctxt "Languages::restore_default"
 msgid "Use default value"
-msgstr "Use default value"
+msgstr "Usar valor por defecto"
 
 msgctxt "Languages::restore_from_repository"
 msgid "Restore from the repository"
@@ -8153,27 +8153,27 @@ msgstr "Volver a vista normal"
 
 msgctxt "Languages::returning_customer"
 msgid "Returning customer"
-msgstr "Returning customer"
+msgstr "Cliente registrado"
 
 msgctxt "Languages::return_url_target"
 msgid "Return URL target"
-msgstr "Return URL target"
+msgstr "URL destino de retorno"
 
 msgctxt "Languages::reuse"
 msgid "Reuse"
-msgstr "Reuse"
+msgstr "Reusar"
 
 msgctxt "Languages::reversed"
 msgid "Reversed"
-msgstr "Reversed"
+msgstr "Revertida"
 
 msgctxt "Languages::revert"
 msgid "Revert"
-msgstr "Revert"
+msgstr "Revertir"
 
 msgctxt "Languages::re_order"
 msgid "Reorder this order"
-msgstr "Reorder this order"
+msgstr "Repetir este pedido"
 
 msgctxt "Languages::right"
 msgid "Right"
@@ -8189,11 +8189,11 @@ msgstr "Se está comprobando el riesgo. Por favor, intenta recargar esta página
 
 msgctxt "Languages::risk_information"
 msgid "Risk information"
-msgstr "Risk information"
+msgstr "Información de riesgo"
 
 msgctxt "Languages::romanian"
 msgid "Romanian"
-msgstr "Romanian"
+msgstr "Rumano"
 
 msgctxt "Languages::root_category"
 msgid "Root category"
@@ -8209,11 +8209,11 @@ msgstr "Nivel de la pagina"
 
 msgctxt "Languages::round_to"
 msgid "Round to"
-msgstr "Round to"
+msgstr "Redondear a"
 
 msgctxt "Languages::routing_code"
 msgid "Routing Number"
-msgstr "Routing Number"
+msgstr "Número de enrutamiento"
 
 msgctxt "Languages::runtime"
 msgid "Runtime"
@@ -8253,15 +8253,15 @@ msgstr "Guardar"
 
 msgctxt "Languages::saved_search"
 msgid "Saved searches"
-msgstr "Saved searches"
+msgstr "Búsquedas guardadas"
 
 msgctxt "Languages::save_and_close"
 msgid "Save and close"
-msgstr "Save and close"
+msgstr "Guardar y cierrar"
 
 msgctxt "Languages::save_as"
 msgid "Save As..."
-msgstr "Save As..."
+msgstr "Guardar como..."
 
 msgctxt "Languages::save_changes"
 msgid "Save changes"
@@ -8289,7 +8289,7 @@ msgstr "Guardar esta búsqueda como"
 
 msgctxt "Languages::scb_text_notice"
 msgid "Please send the following URL to the SCB support to be set as PostbackURL: <br /><b>[return_url]</b>"
-msgstr "Please send the following URL to the SCB support to be set as PostbackURL: <br /><b>[return_url]</b>"
+msgstr "Por favor, envíe la siguiente URL al soporte de SCB para establecerla como PostbackURL: <br /><b>[return_url]</b>"
 
 msgctxt "Languages::screen"
 msgid "Screen"
@@ -8309,7 +8309,7 @@ msgstr "Scroller"
 
 msgctxt "Languages::scroller_direction"
 msgid "Auto-scroll direction"
-msgstr "Auto-scroll direction"
+msgstr "Dirección de desplazamiento automático"
 
 msgctxt "Languages::search"
 msgid "Search"
@@ -8325,7 +8325,7 @@ msgstr "Buscar por pedido"
 
 msgctxt "Languages::search_by_owner"
 msgid "Search by owner"
-msgstr "Search by owner"
+msgstr "Búsqueda por el propietario"
 
 msgctxt "Languages::search_by_price"
 msgid "Search by price"
@@ -8449,7 +8449,7 @@ msgstr "URL de la tienda segura"
 
 msgctxt "Languages::secure_storefront_url_already_exists"
 msgid "The value of the <strong>Secure storefront URL</strong> parameter mentioned by you already belongs to another company."
-msgstr "The value of the <strong>Secure storefront URL</strong> parameter mentioned by you already belongs to another company."
+msgstr "El valor del parámetro <strong>URL de tienda segura</strong> mencionado por usted ya pertenece a otra empresa."
 
 msgctxt "Languages::security_settings"
 msgid "Security settings"
@@ -8609,11 +8609,11 @@ msgstr "Asistente de configuración"
 
 msgctxt "Languages::settings_wizard_close_tooltip"
 msgid "Wizard will be possible to re-open in the menu 'Settings -> Settings wizard'."
-msgstr "Wizard will be possible to re-open in the menu 'Settings -> Settings wizard'."
+msgstr "Será posible volver a abrir el asistente en el menú 'Configuración de-> asistente de configuración'."
 
 msgctxt "Languages::settings_wizard_title"
 msgid "Settings wizard: Step [current_step] of [total_steps]"
-msgstr "Settings wizard: Step [current_step] of [total_steps]"
+msgstr "Asistente de configuración: paso [current_step] de [total_steps]"
 
 msgctxt "Languages::share"
 msgid "Share"
@@ -8621,15 +8621,15 @@ msgstr "Compartir"
 
 msgctxt "Languages::share.congratulations_first_order"
 msgid "Congratulations on you first complete order."
-msgstr "Congratulations on you first complete order."
+msgstr "Felicidades por su primer pedido completo."
 
 msgctxt "Languages::share.first_order_tweet"
 msgid "Wow! The first complete order in my [product]-powered store"
-msgstr "Wow! The first complete order in my [product]-powered store"
+msgstr "¡ Uau! El primer pedido completo en mi tienda [product]"
 
 msgctxt "Languages::share.installation_tweet"
 msgid "I have just created an online store with [product_name]"
-msgstr "I have just created an online store with [product_name]"
+msgstr "He creado una tienda online con [product_name]"
 
 msgctxt "Languages::sharedsec"
 msgid "SharedSec"
@@ -8637,7 +8637,7 @@ msgstr "SharedSec"
 
 msgctxt "Languages::shared_secret"
 msgid "Shared Secret"
-msgstr "Shared Secret"
+msgstr "Secreto Shared"
 
 msgctxt "Languages::sha_sign"
 msgid "SHA-1 Signature"
@@ -8769,31 +8769,31 @@ msgstr "Servicio de transporte"
 
 msgctxt "Languages::shipping_tips"
 msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
+msgstr "<p>Los productos con existencias se enviarán una vez se verifique el pago. El servicio de mensajería es responsable por los bienes durante el transporte.</p><p>Por favor, abra el paquete de su pedido cuando lo reciba. Si hay algún daño, reclame al servicio de transporte.</p><p>Cuestiones? Contacte el servicio de atención al cliente al 123-12-23</p>"
 
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
-msgstr "Delivery Confirmation cost"
+msgstr "Coste de confirmación de entrega"
 
 msgctxt "Languages::ship_aup_delivery_confirmation_international_cost"
 msgid "Delivery Confirmation International cost"
-msgstr "Delivery Confirmation International cost"
+msgstr "Coste de confirmación de entrega internacional"
 
 msgctxt "Languages::ship_aup_rpi_fee"
 msgid "Registered Post International Parcels fee"
-msgstr "Registered Post International Parcels fee"
+msgstr "Tasa registrada de Post Internacional Parcels"
 
 msgctxt "Languages::ship_aup_use_delivery_confirmation"
 msgid "Use Delivery Confirmation"
-msgstr "Use Delivery Confirmation"
+msgstr "Usar confirmación de entrega"
 
 msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
-msgstr "Merchant ID"
+msgstr "ID del comerciante"
 
 msgctxt "Languages::ship_dhl_additional_protection"
 msgid "Additional protection"
-msgstr "Additional protection"
+msgstr "Protección adicional"
 
 msgctxt "Languages::ship_dhl_additional_protection_ap"
 msgid "Asset Protection"
@@ -8801,7 +8801,7 @@ msgstr "Protección de activo"
 
 msgctxt "Languages::ship_dhl_additional_protection_nr"
 msgid "Not required"
-msgstr "Not required"
+msgstr "No se requiere"
 
 msgctxt "Languages::ship_dhl_cod_method"
 msgid "COD payment method"
@@ -8813,15 +8813,15 @@ msgstr "Cheque o Letra de crédito"
 
 msgctxt "Languages::ship_dhl_cod_method_p"
 msgid "Personal or Company Check"
-msgstr "Personal or Company Check"
+msgstr "Cheque personal o de la empresa"
 
 msgctxt "Languages::ship_dhl_cod_payment"
 msgid "Use COD payment"
-msgstr "Use COD payment"
+msgstr "Usar pago contrareembolso"
 
 msgctxt "Languages::ship_dhl_cod_value"
 msgid "COD surcharge"
-msgstr "COD surcharge"
+msgstr "Recargo de contrareembolso"
 
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
@@ -8829,75 +8829,75 @@ msgstr "Alto del paquete (pulgadas)"
 
 msgctxt "Languages::ship_dhl_intl_ship_key"
 msgid "Shipping key (international)"
-msgstr "Shipping key (international)"
+msgstr "Clave de envío (internacional)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
-msgstr "Package length (inches)"
+msgstr "Longitud del paquete (pulgadas)"
 
 msgctxt "Languages::ship_dhl_shipment_type"
 msgid "Shipment type"
-msgstr "Shipment type"
+msgstr "Tipo de envío"
 
 msgctxt "Languages::ship_dhl_ship_hazardous"
 msgid "Ship hazardous materials"
-msgstr "Ship hazardous materials"
+msgstr "Enviar materiales peligrosos"
 
 msgctxt "Languages::ship_dhl_ship_key"
 msgid "Shipping key"
-msgstr "Shipping key"
+msgstr "Clave de envío"
 
 msgctxt "Languages::ship_dhl_system_id"
 msgid "System ID"
-msgstr "System ID"
+msgstr "ID del sistema"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
-msgstr "Package width (inches)"
+msgstr "Ancho del paquete (pulgadas)"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement"
 msgid "Ancillary Endorsements"
-msgstr "Ancillary Endorsements"
+msgstr "Avales auxiliares"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_address_correction"
 msgid "Address Service Requested"
-msgstr "Address Service Requested"
+msgstr "Dirección servicio solicitado"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_carrier_leave_if_no_response"
 msgid "Carrier Leave If No Response"
-msgstr "Carrier Leave If No Response"
+msgstr "Dejar transporte si no hay respuesta"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_change_service"
 msgid "Change Service Requested"
-msgstr "Change Service Requested"
+msgstr "Petición de cambio de servicio"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_forwarding_service"
 msgid "Forwarding Service Requested"
-msgstr "Forwarding Service Requested"
+msgstr "Solicitado servicio de reenvío"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_return_delivery"
 msgid "Return Service Requested"
-msgstr "Return Service Requested"
+msgstr "Servicio de devolución solicitado"
 
 msgctxt "Languages::ship_fedex_customer_manifest_id"
 msgid "Customer manifest ID"
-msgstr "Customer manifest ID"
+msgstr "ID de manifiesto del cliente"
 
 msgctxt "Languages::ship_fedex_drop_off_type"
 msgid "Drop Off Type"
-msgstr "Drop Off Type"
+msgstr "Tipo de desprendimiento"
 
 msgctxt "Languages::ship_fedex_drop_off_type_regular_pickup"
 msgid "Regular pickup"
-msgstr "Regular pickup"
+msgstr "Recolección regular"
 
 msgctxt "Languages::ship_fedex_drop_off_type_request_courier"
 msgid "Request courier"
-msgstr "Request courier"
+msgstr "Solicitud de mensajería"
 
 msgctxt "Languages::ship_fedex_drop_off_type_station"
 msgid "Drop at station"
-msgstr "Drop at station"
+msgstr "Dejar en la estación"
 
 msgctxt "Languages::ship_fedex_height"
 msgid "Height (inches)"
@@ -8905,7 +8905,7 @@ msgstr "Height(inches)"
 
 msgctxt "Languages::ship_fedex_hub_id"
 msgid "Hub ID"
-msgstr "Hub ID"
+msgstr "ID de hub"
 
 msgctxt "Languages::ship_fedex_indicia"
 msgid "Indicia"
@@ -8917,15 +8917,15 @@ msgstr "Media Mail (Paquetes de 1 a 70 libras Libros, DVDs, CDs, cintas de video
 
 msgctxt "Languages::ship_fedex_indicia_parcel_select"
 msgid "Parcel Select (Packages from 1 to 70 lbs)"
-msgstr "Parcel Select (Packages from 1 to 70 lbs)"
+msgstr "Parcela Select (paquetes de 1 a 70 libras)"
 
 msgctxt "Languages::ship_fedex_indicia_presorted_bound_printed_matter"
 msgid "Bound Printed Matter packages (Packages from 1 to 15 lbs Catalogs, phone books or anything permanently bound)"
-msgstr "Bound Printed Matter packages (Packages from 1 to 15 lbs Catalogs, phone books or anything permanently bound)"
+msgstr "Atado de paquetes de material impreso (paquetes de 1 a 15 libras catálogos, directorios telefónicos o algo enquadernado permanentemente)"
 
 msgctxt "Languages::ship_fedex_indicia_presorted_standard"
 msgid "Standard Mail packages (Packages less than 1 lb)"
-msgstr "Standard Mail packages (Packages less than 1 lb)"
+msgstr "Paquetes estándar de correo (paquetes de menos de 1 libra)"
 
 msgctxt "Languages::ship_fedex_length"
 msgid "Length (inches)"
@@ -8933,7 +8933,7 @@ msgstr "Length(inches)"
 
 msgctxt "Languages::ship_fedex_meter_number"
 msgid "Meter number"
-msgstr "Meter number"
+msgstr "Número de medidor"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_10kg_box"
 msgid "FedEx 10kg Box"
@@ -8945,11 +8945,11 @@ msgstr "FedEx 25kg Box"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_box"
 msgid "FedEx Box"
-msgstr "FedEx Box"
+msgstr "Caja de FedEx"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_envelope"
 msgid "FedEx Envelope"
-msgstr "FedEx Envelope"
+msgstr "Sobre FedEx"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_pak"
 msgid "FedEx Pak"
@@ -8957,7 +8957,7 @@ msgstr "FedEx Pak"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_tube"
 msgid "FedEx Tube"
-msgstr "FedEx Tube"
+msgstr "Tubo de FedEx"
 
 msgctxt "Languages::ship_fedex_package_type_your_packaging"
 msgid "Your packaging"
@@ -9001,7 +9001,7 @@ msgstr "E-mail registrado"
 
 msgctxt "Languages::ship_sp_pc_assurance"
 msgid "Assurance"
-msgstr "Assurance"
+msgstr "Seguro"
 
 msgctxt "Languages::ship_sp_pc_cash_on_delivery"
 msgid "Cash on delivery (COD)"
@@ -9013,7 +9013,7 @@ msgstr "Frágil"
 
 msgctxt "Languages::ship_sp_pc_manual_handling"
 msgid "Manual handling"
-msgstr "Manual handling"
+msgstr "Manejo manual"
 
 msgctxt "Languages::ship_sp_pc_personal"
 msgid "Personal"
@@ -9025,7 +9025,7 @@ msgstr "Firma"
 
 msgctxt "Languages::ship_sp_pp_additional_insurance"
 msgid "Additional insurance (up to CHF 3000.-)"
-msgstr "Additional insurance (up to CHF 3000.-)"
+msgstr "Seguro adicional (hasta 3000 CHF.-)"
 
 msgctxt "Languages::ship_sp_pp_bulky_goods"
 msgid "Bulky goods"
@@ -9033,7 +9033,7 @@ msgstr "Artículos voluminosos"
 
 msgctxt "Languages::ship_sp_pp_cash_on_delivery"
 msgid "Cash on delivery (ECONOMY only)"
-msgstr "Cash on delivery (ECONOMY only)"
+msgstr "Contrareembolso (sólo en ECONOMY)"
 
 msgctxt "Languages::ship_sp_pp_manual_processing"
 msgid "Manual processing"
@@ -9041,15 +9041,15 @@ msgstr "Procesamiento manual"
 
 msgctxt "Languages::ship_sp_ur_additional_insurance"
 msgid "Additional insurance for URGENT goods  (up to CHF 3000.-)"
-msgstr "Additional insurance for URGENT goods  (up to CHF 3000.-)"
+msgstr "Seguro adicional para mercancías urgentes (hasta 3000 CHF.-)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
-msgstr "Cannot use this shipping method for the international delivery"
+msgstr "No puede utilizar este método de envío para la entrega internacional"
 
 msgctxt "Languages::ship_swisspost_error_private_delivery"
 msgid "Cannot use this shipping method for the private delivery"
-msgstr "Cannot use this shipping method for the private delivery"
+msgstr "No puede utilizar este método de envío para la entrega privada"
 
 msgctxt "Languages::ship_swisspost_heavy_package"
 msgid "The package is too heavy"
@@ -9085,15 +9085,15 @@ msgstr "Embalaje"
 
 msgctxt "Languages::ship_temando_readydate"
 msgid "Ready date (days)"
-msgstr "Ready date (days)"
+msgstr "Data lista (días)"
 
 msgctxt "Languages::ship_temando_subclass"
 msgid "Class of the item being sent"
-msgstr "Class of the item being sent"
+msgstr "Clase del elemento enviado"
 
 msgctxt "Languages::ship_temando_weight_measurement"
 msgid "Weight measurement type"
-msgstr "Weight measurement type"
+msgstr "Tipo de medida de peso"
 
 msgctxt "Languages::ship_temando_width"
 msgid "Package width"
@@ -9109,19 +9109,19 @@ msgstr "Enviar a una dirección diferente"
 
 msgctxt "Languages::ship_ups_access_key"
 msgid "UPS Rates Access Key"
-msgstr "UPS Rates Access Key"
+msgstr "Clave de acceso a tarifas UPS"
 
 msgctxt "Languages::ship_ups_package_type_01"
 msgid "UPS letter/ UPS Express Envelope"
-msgstr "UPS letter/ UPS Express Envelope"
+msgstr "Carta UPS/UPS Express sobre"
 
 msgctxt "Languages::ship_ups_package_type_03"
 msgid "UPS Tube"
-msgstr "UPS Tube"
+msgstr "Tubo UPS"
 
 msgctxt "Languages::ship_ups_package_type_04"
 msgid "UPS Pack"
-msgstr "UPS Pack"
+msgstr "Paquete UPS"
 
 msgctxt "Languages::ship_ups_package_type_21"
 msgid "UPS Express Box"
@@ -9129,15 +9129,15 @@ msgstr "UPS Express Box"
 
 msgctxt "Languages::ship_ups_package_type_24"
 msgid "UPS 25Kg Box"
-msgstr "UPS 25Kg Box"
+msgstr "UPS caja 25Kg"
 
 msgctxt "Languages::ship_ups_package_type_25"
 msgid "UPS 10Kg Box"
-msgstr "UPS 10Kg Box"
+msgstr "UPS caja 10Kg"
 
 msgctxt "Languages::ship_ups_pickup_type"
 msgid "Pickup type"
-msgstr "Pickup type"
+msgstr "Tipo recogida"
 
 msgctxt "Languages::ship_ups_pickup_type_01"
 msgid "Daily Pickup"
@@ -9157,35 +9157,35 @@ msgstr "On Call Air"
 
 msgctxt "Languages::ship_ups_pickup_type_11"
 msgid "Suggested Retail Rates"
-msgstr "Suggested Retail Rates"
+msgstr "Tarifas minoristas sugeridas"
 
 msgctxt "Languages::ship_ups_pickup_type_19"
 msgid "Letter Center"
-msgstr "Letter Center"
+msgstr "Centro de cartas"
 
 msgctxt "Languages::ship_ups_pickup_type_20"
 msgid "Air Service Center"
-msgstr "Air Service Center"
+msgstr "Centro de servicio de aire"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Sin firma"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Firma requerida"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Firma de adulto requerida"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Usar confirmación de entrega"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Tipo de confirmación"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9197,27 +9197,27 @@ msgstr "Container (Express)"
 
 msgctxt "Languages::ship_usps_container_express_flat_rate_envelope"
 msgid "Flat Rate Envelope"
-msgstr "Flat Rate Envelope"
+msgstr "Sobre de tarifa plana"
 
 msgctxt "Languages::ship_usps_container_priority"
 msgid "Container (Priority Mail)"
-msgstr "Container (Priority Mail)"
+msgstr "Contenedor (Priority Mail)"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_box"
 msgid "Flat Rate Box"
-msgstr "Flat Rate Box"
+msgstr "Caja de tarifa plana"
 
 msgctxt "Languages::ship_usps_container_priority_flat_rate_envelope"
 msgid "Flat Rate Letter"
-msgstr "Flat Rate Letter"
+msgstr "Carta de tarifa plana"
 
 msgctxt "Languages::ship_usps_container_priority_lg_flat_rate_box"
 msgid "Large Flat Rate Box"
-msgstr "Large Flat Rate Box"
+msgstr "Caja grande de tarifa plana"
 
 msgctxt "Languages::ship_usps_container_priority_md_flat_rate_box"
 msgid "Medium Flat Rate Box"
-msgstr "Medium Flat Rate Box"
+msgstr "Caja mediana de tarifa plana"
 
 msgctxt "Languages::ship_usps_container_priority_nonrectangular"
 msgid "NonRectangular"
@@ -9229,11 +9229,11 @@ msgstr "Rectangular"
 
 msgctxt "Languages::ship_usps_container_priority_regional_a_rate_box"
 msgid "Regional Rate Box A"
-msgstr "Regional Rate Box A"
+msgstr "Tarifa regional caja A"
 
 msgctxt "Languages::ship_usps_container_priority_regional_b_rate_box"
 msgid "Regional Rate Box B"
-msgstr "Regional Rate Box B"
+msgstr "Tarifa regional caja B"
 
 msgctxt "Languages::ship_usps_container_priority_regional_c_rate_box"
 msgid "Regional Rate Box C"
@@ -9265,7 +9265,7 @@ msgstr "Sobre tarjeta regalo tarifa plana"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
-msgstr "First Class Mail Type"
+msgstr "Tipo de correo de primera clase"
 
 msgctxt "Languages::ship_usps_first_class_mail_type_flat"
 msgid "Flat"
@@ -9277,7 +9277,7 @@ msgstr "Parcel"
 
 msgctxt "Languages::ship_usps_intl_package_girth"
 msgid "Package girth"
-msgstr "Package girth"
+msgstr "Circunferencia de paquete"
 
 msgctxt "Languages::ship_usps_intl_package_height"
 msgid "Package height"
@@ -9285,11 +9285,11 @@ msgstr "Alto del paquete"
 
 msgctxt "Languages::ship_usps_intl_package_length"
 msgid "Package length"
-msgstr "Package length"
+msgstr "Longitud del paquete"
 
 msgctxt "Languages::ship_usps_intl_package_size"
 msgid "Package size"
-msgstr "Package size"
+msgstr "Tamaño del paquete"
 
 msgctxt "Languages::ship_usps_intl_package_width"
 msgid "Package width"
@@ -9297,19 +9297,19 @@ msgstr "Ancho de paquete"
 
 msgctxt "Languages::ship_usps_machinable"
 msgid "Machinable (First-Class Mail or Standard Post)"
-msgstr "Machinable (First-Class Mail or Standard Post)"
+msgstr "Mecanizable (correo de primera clase o poste estándar)"
 
 msgctxt "Languages::ship_usps_machinable_false"
 msgid "False"
-msgstr "False"
+msgstr "Falso"
 
 msgctxt "Languages::ship_usps_machinable_true"
 msgid "True"
-msgstr "True"
+msgstr "Verdadero"
 
 msgctxt "Languages::ship_usps_mailtype"
 msgid "Type of Mail"
-msgstr "Type of Mail"
+msgstr "Tipo de correo"
 
 msgctxt "Languages::ship_usps_mailtype_matter_for_the_blind"
 msgid "Matter for the Blind"
@@ -9933,7 +9933,7 @@ msgstr "pulgadas"
 
 msgctxt "Languages::temando_method_depottodepot"
 msgid "Depot to Depot"
-msgstr "Depot to Depot"
+msgstr "Depósito a depósito"
 
 msgctxt "Languages::temando_method_doortodoor"
 msgid "Door to Door"
@@ -9949,7 +9949,7 @@ msgstr "Mochila"
 
 msgctxt "Languages::temando_package_bale"
 msgid "Bale"
-msgstr "Bale"
+msgstr "Bala"
 
 msgctxt "Languages::temando_package_box"
 msgid "Box"
@@ -9957,27 +9957,27 @@ msgstr "Caja"
 
 msgctxt "Languages::temando_package_bunch"
 msgid "Bunch"
-msgstr "Bunch"
+msgstr "Grupo"
 
 msgctxt "Languages::temando_package_bundle"
 msgid "Bundle"
-msgstr "Bundle"
+msgstr "Fajo"
 
 msgctxt "Languages::temando_package_carton"
 msgid "Carton"
-msgstr "Carton"
+msgstr "Cartón"
 
 msgctxt "Languages::temando_package_crate"
 msgid "Crate"
-msgstr "Crate"
+msgstr "Caja"
 
 msgctxt "Languages::temando_package_cylinder"
 msgid "Cylinder"
-msgstr "Cylinder"
+msgstr "Cilindro"
 
 msgctxt "Languages::temando_package_documentenvelope"
 msgid "Document Envelope"
-msgstr "Document Envelope"
+msgstr "Sobre de documento"
 
 msgctxt "Languages::temando_package_drum"
 msgid "Drum"
@@ -9997,7 +9997,7 @@ msgstr "Cubo"
 
 msgctxt "Languages::temando_package_pallet"
 msgid "Pallet"
-msgstr "Pallet"
+msgstr "Palet"
 
 msgctxt "Languages::temando_package_parcel"
 msgid "Parcel"
@@ -10013,11 +10013,11 @@ msgstr "Rodillo"
 
 msgctxt "Languages::temando_package_satchel"
 msgid "Satchel/Bag"
-msgstr "Satchel/Bag"
+msgstr "Cartera/Bolsa"
 
 msgctxt "Languages::temando_package_skid"
 msgid "Skid"
-msgstr "Skid"
+msgstr "Varadera (Skid)"
 
 msgctxt "Languages::temando_package_suitcase"
 msgid "Suitcase"
@@ -10029,15 +10029,15 @@ msgstr "Tubo"
 
 msgctxt "Languages::temando_package_unpackaged"
 msgid "Unpackaged or N/A"
-msgstr "Unpackaged or N/A"
+msgstr "No envasado o N/A"
 
 msgctxt "Languages::temando_package_wheel"
 msgid "Wheel/Tyre"
-msgstr "Wheel/Tyre"
+msgstr "Rueda/neumático"
 
 msgctxt "Languages::temando_subclass_excessbaggage"
 msgid "Excess Baggage"
-msgstr "Excess Baggage"
+msgstr "Exceso de equipaje"
 
 msgctxt "Languages::temando_subclass_furniture"
 msgid "Furniture"
@@ -10053,7 +10053,7 @@ msgstr "Otros (etc.)"
 
 msgctxt "Languages::temando_system"
 msgid "Temando system"
-msgstr "Temando system"
+msgstr "Sistema temando"
 
 msgctxt "Languages::temando_weight_grams"
 msgid "Grams"
@@ -10113,7 +10113,7 @@ msgstr "Área de texto"
 
 msgctxt "Languages::text_2checkout_notice"
 msgid "<b>Note</b>: In order to track your 2Checkout orders with the shopping cart software you have to take these steps:<br /><br />-&nbsp;Log in to your 2Checkout account<br />-&nbsp;Click on <u>'Site management'</u> in the <u>'Account'</u> section.<br />-&nbsp;Select <b>'Given links back to my website'</b> option in the <u>'Direct Return'</u> subsection <br />-&nbsp;Set <u>'Approved URL'</u> and <u>'Pending URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret Word'</u>. The Secret Word is known only to the seller and 2CheckOut.<br />"
-msgstr "<b>Note</b>: In order to track your 2Checkout orders with the shopping cart software you have to take these steps:<br /><br />-&nbsp;Log in to your 2Checkout account<br />-&nbsp;Click on <u>'Site management'</u> in the <u>'Account'</u> section.<br />-&nbsp;Select <b>'Given links back to my website'</b> option in the <u>'Direct Return'</u> subsection <br />-&nbsp;Set <u>'Approved URL'</u> and <u>'Pending URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret Word'</u>. The Secret Word is known only to the seller and 2CheckOut.<br />"
+msgstr "<b>Nota</b>: Para poder seguir sus pedidos con 2Chekout en el software de comercio electrónico debe seguir los siguientes pasos:<br /><br />-&nbsp;Acceda a su cuenta 2Checkout<br />-&nbsp;Haga clic en <u>\"Gestión del sitio'</u>en la sección<u>'Cuenta'</u>.<br />-&nbsp;Seleccione la opción<b>'Enlaces otorgados de vuelta a mi sitio web'</b>en la subsección<u>'Dirigir retorno'</u><br />-&nbsp;Establezca<u>'URL aprovada'</u> y <u>'URL pendiente'</u> a: <br /><b>[return_url]</b><br />-&nbsp;Establezca <u>'Palabra secreta'</u>. La palabra secreta solamente es conocida por el vendedor y 2Checkout.<br />"
 
 msgctxt "Languages::text_2co_ins"
 msgid "Instant Notification Service (INS)"
