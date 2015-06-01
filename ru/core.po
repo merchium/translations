@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-01 06:05-0400\n"
+"PO-Revision-Date: 2015-06-01 11:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -6906,7 +6906,7 @@ msgstr "Предыдущий год"
 
 msgctxt "Languages::prev_page"
 msgid "Prev"
-msgstr "Предыдущая"
+msgstr "Назад"
 
 msgctxt "Languages::price"
 msgid "Price"
@@ -11289,8 +11289,8 @@ msgid "FTP transfer failed"
 msgstr "Не удалось передать файлы по FTP"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
-msgid "The software was not found in the specified directory"
-msgstr "ПО не найдено в указанной директории"
+msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
