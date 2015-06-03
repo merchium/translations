@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/saas.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-02 09:05-0400\n"
+"PO-Revision-Date: 2015-06-02 10:05-0400\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -59,6 +59,10 @@ msgstr "Бесплатно"
 msgctxt "Languages::saas.active"
 msgid "Active"
 msgstr "Включен"
+
+msgctxt "Languages::saas.not_available"
+msgid "Not available"
+msgstr "Не доступен"
 
 msgctxt "Languages::saas.upgrade"
 msgid "Upgrade"
@@ -907,15 +911,15 @@ msgstr "Готовы передать магазин клиенту? Поздр�
 
 msgctxt "Languages::saas.convert_to_live_store_note"
 msgid "Name the store and type your client's email and the password for them to access the admin panel."
-msgstr "Name the store and type your client's email and the password for them to access the admin panel."
+msgstr "Введите название магазина, e-mail клиента и пароль для доступа в панель администратора."
 
 msgctxt "Languages::saas.convert_to_live_store_note_2"
 msgid "Note that you will not be able to log in to the admin panel after you passed the ownership to the client."
-msgstr "Note that you will not be able to log in to the admin panel after you passed the ownership to the client."
+msgstr "Вы не сможете войти в панель администратора после передачи магазина новому владельцу."
 
 msgctxt "Languages::saas.convert"
 msgid "Convert"
-msgstr "Convert"
+msgstr "Выбрать"
 
 msgctxt "Languages::saas.plan"
 msgid "Plan"
@@ -936,4 +940,16 @@ msgstr "E-mail"
 msgctxt "Languages::saas.password"
 msgid "Password"
 msgstr "Пароль"
+
+msgctxt "Languages::saas.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "Слишком много товаров ([actual]/[allowed])"
+
+msgctxt "Languages::saas.many_storefronts_text"
+msgid "Too many storefronts ([actual]/[allowed])"
+msgstr "Слишком много витрин ([actual]/[allowed])"
+
+msgctxt "Languages::saas.private_apps"
+msgid "Private apps"
+msgstr "Приватные приложения"
 
