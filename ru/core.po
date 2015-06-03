@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-02 11:07-0400\n"
+"PO-Revision-Date: 2015-06-03 12:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2054,7 +2054,7 @@ msgstr "Список сравнения"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Перейти к списку сравнения"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3222,7 +3222,7 @@ msgstr "Удалить все существующие файлы товаров
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Не удалось загрузить архив с резервной копией. Проверьте права доступа у папки var/backups."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -9166,23 +9166,23 @@ msgstr "Центр авиаперевозок"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Без подписи"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Требуется подпись"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Требуется подпись взрослого"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Подтверждение доставки"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Тип подтверждения"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -11290,7 +11290,7 @@ msgstr "Не удалось передать файлы по FTP"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "Не удалось найти инсталляцию в указанной директории. Проверьте FTP-путь к директории."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -12530,7 +12530,7 @@ msgstr "Обновления доступны только в <strong>Полно
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Не удалось обновить файл restore.php. Файл var/upgrade/restore.php был изменен или удален. Восстановите исходный файл перед тем как продолжить обновление."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
