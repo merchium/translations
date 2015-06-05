@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-03 14:05-0400\n"
+"PO-Revision-Date: 2015-06-03 21:04-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -22,23 +22,23 @@ msgstr "Lets you import data from any existing version of CS-Cart from 2.2.4 (ex
 
 msgctxt "Languages::store_import.full_path_installation_directory"
 msgid "Full path to the store installation directory"
-msgstr "Full path to the store installation directory"
+msgstr "Повний шлях до каталогу установки магазину"
 
 msgctxt "Languages::store_import.start_new_store_import"
 msgid "Start new store import"
-msgstr "Start new store import"
+msgstr "Розпочати новий імпорт магазину"
 
 msgctxt "Languages::store_import.first_step"
 msgid "Select store"
-msgstr "Select store"
+msgstr "Виберіть магазин"
 
 msgctxt "Languages::store_import.second_step"
 msgid "Validate and import"
-msgstr "Validate and import"
+msgstr "Перевіряти та імпортувати"
 
 msgctxt "Languages::store_import.cannot_connect_to_database_server"
 msgid "Cannot connect to the database server"
-msgstr "Cannot connect to the database server"
+msgstr "Не вдалося підключитися до сервера баз даних"
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
@@ -46,7 +46,7 @@ msgstr "Cannot start actualizing data due to Storefront/Vendor changes"
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>The store import is complete!</p>"
+msgstr "<p>Імпорт магазину завершено!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
@@ -62,31 +62,31 @@ msgstr "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] 
 
 msgctxt "Languages::store_import.actualize_data"
 msgid "Actualize data"
-msgstr "Actualize data"
+msgstr "Актуалізація даних"
 
 msgctxt "Languages::store_import.import_from"
 msgid "Import from"
-msgstr "Import from"
+msgstr "Імпортувати з"
 
 msgctxt "Languages::store_import.complete_store_import"
 msgid "Complete Store import"
-msgstr "Complete Store import"
+msgstr "Завершити імпорт магазину"
 
 msgctxt "Languages::store_import.import_data"
 msgid "Import data"
-msgstr "Import data"
+msgstr "Імпорт даних"
 
 msgctxt "Languages::store_import.complete_configuration"
 msgid "Proceed to actualizing data"
-msgstr "Proceed to actualizing data"
+msgstr "Приступити до актуалізації даних"
 
 msgctxt "Languages::store_import.admin_url"
 msgid "Admin panel URL"
-msgstr "Admin panel URL"
+msgstr "URL адмін панелі"
 
 msgctxt "Languages::store_import.companies_count"
 msgid "Number of storefronts"
-msgstr "Number of storefronts"
+msgstr "Кількість вітрин"
 
 msgctxt "Languages::store_import.store_import"
 msgid "Store import"
@@ -106,19 +106,19 @@ msgstr "Enter the full path to the installation root directory of the store you 
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
-msgstr "Configure your store"
+msgstr "Налаштувати ваш магазин"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"
-msgstr "Finish store import"
+msgstr "Фінальний крок"
 
 msgctxt "Languages::store_import.storefront_url"
 msgid "Storefront URL"
-msgstr "Storefront URL"
+msgstr "URL вітрини крамниці"
 
 msgctxt "Languages::store_import.secure_storefront_url"
 msgid "Secure storefront URL"
-msgstr "Secure storefront URL"
+msgstr "Безпечний URL вітрини крамниці"
 
 msgctxt "Languages::store_import.db_host"
 msgid "Database host"
@@ -126,15 +126,15 @@ msgstr "Database host"
 
 msgctxt "Languages::store_import.db_name"
 msgid "Database name"
-msgstr "Database name"
+msgstr "Назва бази даних"
 
 msgctxt "Languages::store_import.db_user"
 msgid "Database user"
-msgstr "Database user"
+msgstr "Користувач бази даних"
 
 msgctxt "Languages::store_import.table_prefix"
 msgid "Table prefix"
-msgstr "Table prefix"
+msgstr "Префікс таблиці"
 
 msgctxt "Languages::store_import.fill_form"
 msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
@@ -154,11 +154,11 @@ msgstr "[product_name] [product_version] [product_edition]"
 
 msgctxt "Languages::store_import.from"
 msgid "From:"
-msgstr "From:"
+msgstr "Із:"
 
 msgctxt "Languages::store_import.text_to"
 msgid "To: [product_edition] [product_version]"
-msgstr "To: [product_edition] [product_version]"
+msgstr "В: [product_edition] [product_version]"
 
 msgctxt "Languages::store_import.edition_mapping_failed"
 msgid "Import from this edition is not supported"
@@ -374,11 +374,11 @@ msgstr "<ul><li>Go to <a href=\"[manage_languages_link]\">Languages</a> language
 
 msgctxt "Languages::store_import.progress_title"
 msgid "Upgrading to [to]"
-msgstr "Upgrading to [to]"
+msgstr "Оновлення до [to]"
 
 msgctxt "Languages::store_import.updating_data"
 msgid "Updating data"
-msgstr "Updating data"
+msgstr "Оновлення даних"
 
 msgctxt "Languages::store_import.converting_orders"
 msgid "Converting orders"
@@ -390,15 +390,15 @@ msgstr "Store import failed"
 
 msgctxt "Languages::store_import.cloning_database"
 msgid "Cloning database"
-msgstr "Cloning database"
+msgstr "Клонування бази даних"
 
 msgctxt "Languages::store_import.updating_languages"
 msgid "Updating languages"
-msgstr "Updating languages"
+msgstr "Оновлення мов"
 
 msgctxt "Languages::store_import.done"
 msgid "Done"
-msgstr "Done"
+msgstr "Готово"
 
 msgctxt "Languages::store_import.class_not_found"
 msgid "Import from this version is not supported"
@@ -406,7 +406,7 @@ msgstr "Import from this version is not supported"
 
 msgctxt "Languages::store_import.processing_addons"
 msgid "Updating add-ons"
-msgstr "Updating add-ons"
+msgstr "Оновлення додатків"
 
 msgctxt "Languages::store_import.actualization_completed"
 msgid "Actualization completed"
@@ -430,7 +430,7 @@ msgstr "Store import has been canceled to prevent the loss of data. Could not co
 
 msgctxt "SettingsSections::store_import::general"
 msgid "General"
-msgstr "General"
+msgstr "Загальні"
 
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"

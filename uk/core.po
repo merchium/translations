@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-03 14:05-0400\n"
+"PO-Revision-Date: 2015-06-03 21:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10792,7 +10792,7 @@ msgstr "Замовлення було успішно збережено."
 
 msgctxt "Languages::text_order_status_notification"
 msgid "Please note that the notification of changing the status  will be sent depending on the settings of this status"
-msgstr "Please note that the notification of changing the status  will be sent depending on the settings of this status"
+msgstr "Примітка: Повідомлення про зміну статусу замовлення буде відправлено в залежності від налаштувань цього статусу"
 
 msgctxt "Languages::text_out_of_stock"
 msgid "Out of stock"
@@ -12228,7 +12228,7 @@ msgstr "Leave empty to use the 'Payment surcharge' as a title"
 
 msgctxt "Languages::tt_views_payments_update_template"
 msgid "Template responsible for displaying supplementary fields for the payment method."
-msgstr "Template responsible for displaying supplementary fields for the payment method."
+msgstr "Шаблон, який відповідає за відображення додаткових полів для способу оплати."
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_items_in_box"
 msgid "Use this field to define the minimum and maximum number of product items to be shipped in a separate box. Enter a non-zero value and specify the box dimensions below."
@@ -12248,7 +12248,7 @@ msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\"
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
-msgstr "Manufacturer suggested retail price."
+msgstr "Рекомендована виробником роздрібна ціна."
 
 msgctxt "Languages::tt_views_products_update_out_of_stock_actions"
 msgid "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
@@ -12768,7 +12768,7 @@ msgstr "Рекомендований лист"
 
 msgctxt "Languages::usps_service_registered_without_insurance"
 msgid "Registered without insurance"
-msgstr "Registered without insurance"
+msgstr "Зареєстровано без страховки"
 
 msgctxt "Languages::usps_service_registered_with_insurance"
 msgid "Registered with insurance"
@@ -13164,7 +13164,7 @@ msgstr "Без зображення"
 
 msgctxt "Languages::with_contact_information"
 msgid "With contact information only"
-msgstr "With contact information only"
+msgstr "Тільки з контактною інформацією"
 
 msgctxt "Languages::world"
 msgid "World"
@@ -13240,7 +13240,7 @@ msgstr "Попросити замовника вказати вартість"
 
 msgctxt "Languages::zpa_permit"
 msgid "Allow customers to add the product to cart"
-msgstr "Allow customers to add the product to cart"
+msgstr "Дозволити додати товар у кошик"
 
 msgctxt "Languages::zpa_refuse"
 msgid "Do not allow customers to add the product to cart"
@@ -13948,11 +13948,11 @@ msgstr "Ключ доступу до тимчасово закритої кра�
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "Відновити кеш-пам'ять автоматично"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
-msgstr "Initial order ID value"
+msgstr "Початковий номер замовлення"
 
 msgctxt "SettingsOptions::use_shipments"
 msgid "Allow multiple shipments for a single order"
@@ -14328,7 +14328,7 @@ msgstr "Users/cart"
 
 msgctxt "SettingsOptions::user_multiple_profiles"
 msgid "Allow users to create multiple profiles for one account"
-msgstr "Allow users to create multiple profiles for one account"
+msgstr "Дозволити користувачам можливість створення декількох профілів для одного облікового запису"
 
 msgctxt "SettingsOptions::calendar_week_format"
 msgid "Calendar week starts from"
@@ -14348,7 +14348,7 @@ msgstr "Allow shopping for unlogged customers"
 
 msgctxt "SettingsOptions::disable_anonymous_checkout"
 msgid "Disable anonymous checkout"
-msgstr "Disable anonymous checkout"
+msgstr "Покупець повинен зареєструватися або увійти, щоб оформити замовлення"
 
 msgctxt "SettingsOptions::checkout_redirect"
 msgid "Allow checkout only from the Cart content page"
@@ -14549,7 +14549,7 @@ msgstr "Неділя"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
-msgstr "Billing first"
+msgstr "Спочатку адреса платника"
 
 msgctxt "SettingsVariants::log_type_general::runtime"
 msgid "Runtime"
@@ -14569,7 +14569,7 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "Товари з доставкою"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
@@ -14613,7 +14613,7 @@ msgstr "Товари"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
-msgstr "Hide price and the \"Add to cart\" button"
+msgstr "Ховати ціну і кнопку додавання товару в корзину"
 
 msgctxt "SettingsVariants::string_type::mixed"
 msgid "Mixed"
@@ -15610,11 +15610,11 @@ msgstr "Пакет містить мови, для яких не були опи
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Пакет містить файли, які не описані в схемі, або в схемі є посилання на відсутні файли"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "Пакет містить пре- або пост-скрипти, які не описані в схемі, або в схемі є посилання на відсутні файли"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15634,7 +15634,7 @@ msgstr "Локальні модифікацій"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Я розумію, що локальні зміни будуть втрачені під час оновлення"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
@@ -15650,7 +15650,7 @@ msgstr "Перевірка пакета оновлень"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Виконати перевірку «[validator]»"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15674,7 +15674,7 @@ msgstr "Завантажити пакет оновлення"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Завантажте пакет оновлень, щоб застосувати хотфиксов або оновити модуль. Виберіть архів у форматі tgz, gz або zip і натисніть Завантажити."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15682,11 +15682,11 @@ msgstr "Зовнішня навігація"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Incorrect feature type. Some product features were not updated."
+msgstr "Некоректний тип характеристики. Деякі характеристики не оновлені."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Feature name is missing. Some product features were not updated."
+msgstr "Назва характеристики відсутня. Деякі характеристики товару не були поновлені."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
@@ -15698,11 +15698,11 @@ msgstr "Файл не можна відновити. Дозволяється л
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Не вдається записати у файл <b>[file]</b>. Встановіть права на запис вручну або перевірте FTP доступ до вашого сервера в розділі <a href=\"[url]\"> \"Центр оновлення\" </a>"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>База даних і файли магазини були збережені в резервної копії перед оновленням. У резервної копії зберігається вся база даних і всі файли за винятком картинок. Архів з резервною копією знаходиться на вашому сервері: [backup_file]. </p><p>Магазин був закритий для оновлення. Після того як оновлення завершиться, перевірте, що магазин працює і <a href=\"[settings_section]\"> відкрийте його</a>.</p><p>Якщо щось пішло не так, перейдіть на сторінку <strong>Адміністрування → Резервне копіювання і відновлення </strong> в панелі адміністратора і відновіть магазин з резервної копії. </p><p> Якщо ви не можете увійти в панель адміністратора, перейдіть за цим посиланням, щоб відновити останню резервну копію: [restore_link]. Важливо: коли ви перейдете за цим посиланням, відразу запуститься процес відновлення магазину. Використовуйте її, тільки якщо не можете увійти в панель адміністратора! </p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
