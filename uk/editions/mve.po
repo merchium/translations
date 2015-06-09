@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 05:05-0400\n"
+"PO-Revision-Date: 2015-06-09 07:04-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -42,7 +42,7 @@ msgstr "Список адміністраторів продавця, зареє
 
 msgctxt "Languages::vendor_candidate_notification"
 msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
-msgstr "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
+msgstr "Привіт <br/><br/>У вас з'явився новий продавець у вашому магазині. Цей обліковий запис знаходиться на розгляді, поки ви не затвердите його. Пройдіть <a>за цим посиланням, щоб переглянути дані облікового запису</a>."
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
@@ -62,7 +62,7 @@ msgstr "Виберіть нового власника для профілю ц�
 
 msgctxt "Languages::warning_merging_companies"
 msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
-msgstr "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "Об'єднання двох компаній видалить [company_name] з бази даних, і всі дані профілю (продукти, замовлення, способи доставки, покупці, акції і т.д.) будуть переведені на обліковий запис цієї компанії"
 
 msgctxt "Languages::all_vendors"
 msgid "All vendors"
@@ -214,7 +214,7 @@ msgstr "Ваш запит на створення облікового запи�
 
 msgctxt "Languages::text_company_status_new_to_pending"
 msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
-msgstr "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "Вітаємо, ваш запит на створення облікового запису продавця був схвалений. Після того, як ми переглянемо вашу інформацію, ми опублікуємо її на нашому сайті."
 
 msgctxt "Languages::text_company_status_pending_subj"
 msgid "Your company is waiting for approval."
@@ -222,7 +222,7 @@ msgstr "Ваша компанія чекає на затвердження."
 
 msgctxt "Languages::text_company_status_pending_to_active"
 msgid "Your profile changes for vendor [company] were approved."
-msgstr "Your profile changes for vendor [company] were approved."
+msgstr "Зміни Вашого облікового запису продавця [company] були схвалені."
 
 msgctxt "Languages::text_error_adding_request"
 msgid "Error while adding the request."
@@ -234,15 +234,15 @@ msgstr "Новий платіж було створено"
 
 msgctxt "Languages::text_not_approved_vendors"
 msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
-msgstr "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "У Вас є продавці, які очікують підтвердження. Подивитися їх список можна за <a href=\"[link]\">цим посиланням</a>."
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
-msgstr "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
+msgstr "Всі функції доступні протягом 30 днів з моменту активації. Введення номера ліцензії не потрібно.<br /><br />Через 30 днів після активації даний режим стане недоступним.<br /><br />"
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
-msgstr "Your request was successfully added. You will receive the email with the answer later."
+msgstr "Ваш запит був успішно відправлений. Ви отримаєте лист з відповіддю пізніше."
 
 msgctxt "Languages::total_amount_due"
 msgid "Total amount due"
@@ -258,11 +258,11 @@ msgstr "Загальний невиплачений залишок"
 
 msgctxt "Languages::tt_views_payments_update_taxes"
 msgid "If payment surcharge is taken from vendors, taxes are not calculated"
-msgstr "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "Якщо приймається доплата від способу оплати з продавців, податки нараховані будуть"
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
-msgstr "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "Не вдалося видалити обліковий запис продавця, так як в базі даних присутні замовлення, в яких придбані товари цього продавця. Щоб видалити цього продавця, спочатку видаліть згадані замовлення."
 
 msgctxt "Languages::vendor"
 msgid "Vendor"
@@ -330,11 +330,11 @@ msgstr "Постачальників на сторінку"
 
 msgctxt "SettingsOptions::apply_for_vendor"
 msgid "Allow users to apply for vendor account"
-msgstr "Allow users to apply for vendor account"
+msgstr "Дозволити користувачеві створити обліковий запис продавця"
 
 msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-msgstr "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "Автоматично створювати обліковий запис адміністратора для нового підтвердженого продавця. (Якщо включена настройка \"Дозволити користувачеві створити обліковий запис продавця\")"
 
 msgctxt "SettingsOptions::include_shipping"
 msgid "Include shipping cost in vendors commission"
@@ -342,7 +342,7 @@ msgstr "Включити вартість доставки в комісію п�
 
 msgctxt "SettingsOptions::include_payment_surcharge"
 msgid "Take payment surcharge from vendors"
-msgstr "Take payment surcharge from vendors"
+msgstr "Приймати доплату від способу оплати з продавців"
 
 msgctxt "SettingsOptions::commissions_header"
 msgid "Commissions"
@@ -354,7 +354,7 @@ msgstr "Показати постачальника на сторінці про
 
 msgctxt "SettingsTooltips::include_payment_surcharge"
 msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
+msgstr "Якщо включено, то покупці не зможуть побачити доплату, і вона не буде застосована до загальної вартості замовлення"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
