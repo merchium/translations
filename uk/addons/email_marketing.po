@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/email_marketing.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 04:04-0400\n"
+"PO-Revision-Date: 2015-06-09 05:05-0400\n"
 
 msgctxt "Addons::name::email_marketing"
 msgid "E-mail marketing"
@@ -38,15 +38,15 @@ msgstr "Потрібно підтвердження електронної по�
 
 msgctxt "Languages::email_marketing.text_subscription_pending"
 msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
-msgstr "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
+msgstr "Дякуємо, що підписалися на нашу розсилку. <p>Вам вислано електронного листа для підтвердження підписки. Будь ласка, перейдіть по посиланню в цьому листі, щоб підтвердити підписку.</p>"
 
 msgctxt "Languages::email_marketing.confirm_subscription"
 msgid "Please confirm subscription"
-msgstr "Please confirm subscription"
+msgstr "Будь ласка, підтвердіть підписку"
 
 msgctxt "Languages::email_marketing.text_confirm_subscription"
 msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
-msgstr "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
+msgstr "Ми отримали запит на підписку від вас. Будь ласка, підтвердіть його :<p><a href=\"[href]\">Натисніть тут для підтвердження підписки на нашу інформаційну розсилку</a> </p>кщо ви отримали це повідомлення помилково, просто видаліть його. Ви не будете підписані, поки не пройдете по посиланню вище."
 
 msgctxt "Languages::email_marketing.subscription_confirmed_2"
 msgid "Subscription confirmed"
@@ -54,7 +54,7 @@ msgstr "Підписку підтверждено"
 
 msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
 msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
-msgstr "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "Ваша підписка на нашу розсилку підтверджена. Спасибі!"
 
 msgctxt "Languages::email_marketing.email_subscribed"
 msgid "You were subscribed to our newsletter"
@@ -62,7 +62,7 @@ msgstr "Ви були підписані на нашу розсилку"
 
 msgctxt "Languages::email_marketing.text_email_subscribed"
 msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Спасибі за те, що підписалися на нашу розсилку. <p>Якщо ви більше не хочете отримувати наші листи, <a href=\"[href]\">натисніть тут, щоб відписатися </a>.</p>"
 
 msgctxt "Languages::email_marketing.email_subscribed_2optin"
 msgid "Subscription confirmed"
@@ -70,11 +70,11 @@ msgstr "Підписку підтверждено"
 
 msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
 msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
-msgstr "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Ваша підписка на нашу інформаційну розсилку підтверджена. <p>Якщо ви більше не хочете отримувати наші листи, <a href=\"[href]\">натисніть тут, щоб відписатися</a>.</p>"
 
 msgctxt "Languages::email_marketing.unsubscribe_successful"
 msgid "Unsubscribe successful"
-msgstr "Unsubscribe successful"
+msgstr "Ви успішно відписалися від інформаційної розсилки"
 
 msgctxt "Languages::email_marketing.text_unsubscribe_successful"
 msgid "Your email has been removed from our list."
@@ -118,7 +118,7 @@ msgstr "Перегляд модуля «Email-маркетинг»"
 
 msgctxt "Languages::email_marketing.error_no_list"
 msgid "Please select mailing list in add-on settings to start import"
-msgstr "Please select mailing list in add-on settings to start import"
+msgstr "щоб почати імпорт контактів, виберіть список розсилки в налаштуваннях модуля"
 
 msgctxt "SettingsSections::email_marketing::general"
 msgid "General"
@@ -134,7 +134,7 @@ msgstr "MadMimi"
 
 msgctxt "SettingsOptions::email_marketing::em_show_on_checkout"
 msgid "Newsletter checkbox on checkout"
-msgstr "Newsletter checkbox on checkout"
+msgstr "Показувати прапорець підписки на сторінці оплати"
 
 msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
 msgid "Tick off by default"
@@ -150,7 +150,7 @@ msgstr "Відправити вітальний лист з посиланням
 
 msgctxt "SettingsOptions::email_marketing::em_service"
 msgid "Email integration provider"
-msgstr "Email integration provider"
+msgstr "Сервіс поштової розсилки"
 
 msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
 msgid "API key"

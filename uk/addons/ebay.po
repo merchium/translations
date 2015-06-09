@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 04:04-0400\n"
+"PO-Revision-Date: 2015-06-09 05:05-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -310,15 +310,15 @@ msgstr "Опис продукту eBay"
 
 msgctxt "Languages::ebay_description_tooltip"
 msgid "eBay description the description of the product to be used at eBay"
-msgstr "eBay description the description of the product to be used at eBay"
+msgstr "Опис товару на стороні eBay"
 
 msgctxt "Languages::override"
 msgid "Override title and description"
-msgstr "Override title and description"
+msgstr "Замінити назву і опис"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
-msgstr "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
+msgstr "Замінити вихідні назву і опис значеннями для eBay"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
@@ -326,7 +326,7 @@ msgstr "Політика повернення"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "Дозволити або заборонити повернення товарів в цьому шаблоні"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -338,19 +338,19 @@ msgstr "Повернення не приймаються"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
-msgstr "After receiving the item, your buyer should contact you within"
+msgstr "Після отримання товару, покупець повинен зв'язатися з вами протягом"
 
 msgctxt "Languages::contact_time_tooltip"
 msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr "Choose the period of time within that the buyer must contact you to approve the purchase reception"
+msgstr "Період часу, протягом якого покупець повинен з вами зв'язатися для підтвердження покупки"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
-msgstr "Refund will be given as"
+msgstr "вид компенсації"
 
 msgctxt "Languages::refund_method_tooltip"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr "Choose the action that will replace the return, if it is not allowed"
+msgstr "Заміна поверненню, якщо він не дозволений"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -358,19 +358,19 @@ msgstr "Повернення грошей"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
-msgstr "Money back or replacement (buyer's choice)"
+msgstr "Повернення грошей або заміна (за вибором покупця)"
 
 msgctxt "Languages::money_back_or_exchange"
 msgid "Money back or exchange (buyer's choice)"
-msgstr "Money back or exchange (buyer's choice)"
+msgstr "Повернення грошей або заміна (за вибором покупця)"
 
 msgctxt "Languages::cost_paid_by"
 msgid "Return shipping will be paid by"
-msgstr "Return shipping will be paid by"
+msgstr "Хто оплачує доставку при поверненні"
 
 msgctxt "Languages::cost_paid_by_tooltip"
 msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
+msgstr "Виберіть, хто оплачує вартість доставки при поверненні товару - продавець чи покупець"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -386,7 +386,7 @@ msgstr "Опис політики"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
-msgstr "Write the detailed description of your return policy here"
+msgstr "Детальний опис вашої політики повернення товарів"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -398,11 +398,11 @@ msgstr "Великий пакет"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
-msgstr "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "Якщо ви не знаєте, який тип упаковки вибрати, виберіть «Великий пакет». Щоб забезпечити найбільш точне обчислення вартості, вам треба буде ввести точний розмір пакета."
 
 msgctxt "Languages::product_out_of_weight"
 msgid "Products with the [ids] id were not exported because their weight equals zero."
-msgstr "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "Товари з ID [ids] були експортовані, тому що їх вага дорівнює нулю."
 
 msgctxt "Languages::exported_to_ebay"
 msgid "Exported to eBay"
@@ -410,23 +410,23 @@ msgstr "Експорт до eBay"
 
 msgctxt "Languages::revised_after_the_latest_export"
 msgid "Revised after the latest export"
-msgstr "Revised after the latest export"
+msgstr "Змінено після останнього експорту"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting images to Ebay"
-msgstr "Exporting images to Ebay"
+msgstr "Експорт зображень у eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
-msgstr "Package/thick envelope"
+msgstr "Пакет/товстий конверт"
 
 msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
-msgstr "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "У вас недостатньо прав, щоб видаляти шаблони, які належать іншому власнику."
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
+msgstr "Поточний номер ліцензії недійсний. Модуль «Синхронізація з eBay» був відключений. Щоб знову включити його, перевірте номер ліцензії."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
@@ -434,11 +434,11 @@ msgstr "Активувати додаток"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
+msgstr "Ви встановили платний модуль. Щоб активувати його, введіть номер ліцензії на сторінці налаштувань модуля."
 
 msgctxt "Languages::ebay_empty_license_number"
 msgid "The add-on license number is empty."
-msgstr "The add-on license number is empty."
+msgstr "Номер ліцензії модуля порожній."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
@@ -494,7 +494,7 @@ msgstr "Живий сайт"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
-msgstr "Please wait, shipping information is loaded."
+msgstr "Будь ласка, зачекайте, завантажується інформація про доставку."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
@@ -502,11 +502,11 @@ msgstr "Інформація про ліцензію"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
+msgstr "Це платний модуль. Ви можете придбати ліцензію на сторінці <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Синхронізація</a>."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
-msgstr "View eBay templates"
+msgstr "Перегляд шаблонів модуля eBay"
 
 msgctxt "Languages::privileges.manage_ebay_templates"
 msgid "Manage eBay templates"

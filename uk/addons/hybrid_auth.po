@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 04:04-0400\n"
+"PO-Revision-Date: 2015-06-09 05:05-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -18,7 +18,7 @@ msgstr "Логування через соціальні мережі"
 
 msgctxt "Addons::description::hybrid_auth"
 msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
-msgstr "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Авторизації в магазині через соціальні мережі (Facebook, Twitter і т.д.)"
 
 msgctxt "SettingsSections::hybrid_auth::general"
 msgid "General"
@@ -26,11 +26,11 @@ msgstr "Загальні"
 
 msgctxt "SettingsOptions::hybrid_auth::icons_pack"
 msgid "Icons pack"
-msgstr "Icons pack"
+msgstr "Пак іконок"
 
 msgctxt "SettingsTooltips::hybrid_auth::icons_pack"
 msgid "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
-msgstr "Directory with the social networks icons. A path to the directory: media/images/addons/addons/hybrid_auth/icons/."
+msgstr "Каталог іконок соц. мереж. Шлях до каталогу: media/images/addons/addons/hybrid_auth/icons/."
 
 msgctxt "SettingsOptions::hybrid_auth::autogen_email"
 msgid "Autogeneration email"
@@ -38,7 +38,7 @@ msgstr "Автогенерація електронного листа"
 
 msgctxt "SettingsTooltips::hybrid_auth::autogen_email"
 msgid "Enables the email auto generation in case that a social network does not pass the address."
-msgstr "Enables the email auto generation in case that a social network does not pass the address."
+msgstr "Генерувати випадковий email для створення облікового запису покупця, якщо соцмережа не надає таких даних."
 
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
@@ -50,23 +50,23 @@ msgstr "Постачальники"
 
 msgctxt "Languages::hybrid_auth.add_provider"
 msgid "Add provider"
-msgstr "Add provider"
+msgstr "Добавити соц. мережу"
 
 msgctxt "Languages::hybrid_auth.new_provider"
 msgid "New provider"
-msgstr "New provider"
+msgstr "Нова соц. мережа"
 
 msgctxt "Languages::hybrid_auth.editing_provider"
 msgid "Editing provider"
-msgstr "Editing provider"
+msgstr "Редагувати соц. мережу"
 
 msgctxt "Languages::hybrid_auth.callback_url"
 msgid "Callback URL"
-msgstr "Callback URL"
+msgstr "URL повернення"
 
 msgctxt "Languages::hybrid_auth.social_login"
 msgid "Or sign-in with another identity provider"
-msgstr "Or sign-in with another identity provider"
+msgstr "Увійти через соц. мережу"
 
 msgctxt "Languages::hybrid_auth.unspecified_error"
 msgid "Unspecified error"
@@ -78,19 +78,19 @@ msgstr "Помилка конфігурації Hybriauth"
 
 msgctxt "Languages::hybrid_auth.provider_error_configuration"
 msgid "Provider not properly configured"
-msgstr "Provider not properly configured"
+msgstr "Неправильні налаштування соц. мережі"
 
 msgctxt "Languages::hybrid_auth.wrong_provider"
 msgid "Unknown or disabled provider"
-msgstr "Unknown or disabled provider"
+msgstr "Невідомий або неактивний провайдер"
 
 msgctxt "Languages::hybrid_auth.missing_credentials"
 msgid "Missing provider application credentials"
-msgstr "Missing provider application credentials"
+msgstr "Не вказані дані для підключення до соцмережі"
 
 msgctxt "Languages::hybrid_auth.failed_auth"
 msgid "Authentication failed. The user has canceled the authentication or the provider refused the connection"
-msgstr "Authentication failed. The user has canceled the authentication or the provider refused the connection"
+msgstr "Перевірка автентичності завершилася невдачею. Користувач скасував перевірку, або провайдер перервав з'єднання"
 
 msgctxt "Languages::hybrid_auth.connecting_provider"
 msgid "Contacting <b>[provider]</b>. Please wait..."
