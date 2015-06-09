@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-08 15:04-0400\n"
+"PO-Revision-Date: 2015-06-09 04:04-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -18,7 +18,7 @@ msgstr "Запити на дзвінки"
 
 msgctxt "Addons::description::call_requests"
 msgid "Adds a call-requests system"
-msgstr "Adds a call-requests system"
+msgstr "Покупка в один клік і зворотний дзвінок"
 
 msgctxt "SettingsSections::call_requests::general"
 msgid "General"
@@ -46,23 +46,23 @@ msgstr "Статус замовлення"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Телефонна маска"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Залиште порожнім для автоматичного вибору шаблону по країні. У власному шаблоні можна використовувати пробіли, коми, +, - і цифри. 9 означає будь-яку цифру. Використовуйте \\\\9 для дев'ятки. Приклади: +9 (999) 999 99 99, 99999999, 999 999 99 or + 99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Включаючи дужки, пробіли та інші символи. Використовуйте для підсвічування коду країни та міста чи коду оператора в мобільному номері."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
-msgstr "Manage Call requests"
+msgstr "Управління зворотними дзвінками"
 
 msgctxt "Languages::privileges.view_call_requests"
 msgid "View Call requests"
-msgstr "View Call requests"
+msgstr "Перегляд зворотних дзвінків"
 
 msgctxt "Languages::call_requests"
 msgid "Call requests"
@@ -94,7 +94,7 @@ msgstr "Ми отримали ваш запит! Створено замовле
 
 msgctxt "Languages::call_requests.phone_from_settings"
 msgid "Phone from settings"
-msgstr "Phone from settings"
+msgstr "Телефон з налаштувань"
 
 msgctxt "Languages::call_requests.enter_phone_or_email_text"
 msgid "Please enter your phone number or email (for our manager to contact you)"
@@ -118,7 +118,7 @@ msgstr "Немає відповіді"
 
 msgctxt "Languages::call_requests.responsible"
 msgid "Responsible"
-msgstr "Responsible"
+msgstr "Відповідальний"
 
 msgctxt "Languages::call_requests.notes"
 msgid "Notes"
@@ -130,7 +130,7 @@ msgstr "Запитаний товар"
 
 msgctxt "Languages::call_requests.convenient_time"
 msgid "Сonvenient time"
-msgstr "Сonvenient time"
+msgstr "Зручний час"
 
 msgctxt "Languages::call_requests.awaiting_call"
 msgid "Awaiting call"
@@ -138,19 +138,19 @@ msgstr "Очікує на дзвінок"
 
 msgctxt "Languages::call_requests.order_exists"
 msgid "Order exists"
-msgstr "Order exists"
+msgstr "Замовлення існує"
 
 msgctxt "Languages::call_requests.person_name_and_phone"
 msgid "Name and phone"
-msgstr "Name and phone"
+msgstr "Ім'я та телефон"
 
 msgctxt "Languages::call_requests.no_name_specified"
 msgid "No name specified"
-msgstr "No name specified"
+msgstr "Ім'я не вказано"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Call request and buy now with one click form"
+msgstr "Форм зворотного дзвінка і покупки в 1 клік"
 
 msgctxt "Languages::block_call_request"
 msgid "Call request"
@@ -158,15 +158,15 @@ msgstr "Запити викликів"
 
 msgctxt "Languages::block_call_request_description"
 msgid "Store phone number and form for requesting a call"
-msgstr "Store phone number and form for requesting a call"
+msgstr "Телефон магазину і форма для замовлення дзвінка"
 
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
-msgstr "Call request form"
+msgstr "Зворотній дзвінок"
 
 msgctxt "Languages::call_requests.text_call_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Клієнт [customer] - <a href=\"[href]\">очікує вашого дзвінка</a> на номер [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
@@ -174,5 +174,5 @@ msgstr "Зручний час для звінка від [time_from] до [time_
 
 msgctxt "Languages::call_requests.text_buy_with_one_click_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Клієнт [customer] - <a href=\"[href]\">чекає вашого дзвінка</a> на номер [phone_number], щодо купівлі товару <a href=\"[product_href]\">[product_name]</a>."
 

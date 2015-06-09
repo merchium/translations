@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/saas.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-02 10:05-0400\n"
+"PO-Revision-Date: 2015-06-08 16:05-0400\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -406,8 +406,12 @@ msgid "Plan upgrade is required"
 msgstr "Требуется другой план подписки"
 
 msgctxt "Languages::saas.promo_text"
+msgid "Please upgrade your plan"
+msgstr "Please upgrade your plan"
+
+msgctxt "Languages::saas.promo_text_extended"
 msgid "Please upgrade your plan to use this feature"
-msgstr "Пожалуйста, перейдите на более продвинутый тариф, чтобы получить доступ к этой функции"
+msgstr "Please upgrade your plan to use this feature"
 
 msgctxt "Languages::saas.account"
 msgid "Merchium account"
@@ -948,6 +952,14 @@ msgstr "Слишком много товаров ([actual]/[allowed])"
 msgctxt "Languages::saas.many_storefronts_text"
 msgid "Too many storefronts ([actual]/[allowed])"
 msgstr "Слишком много витрин ([actual]/[allowed])"
+
+msgctxt "Languages::saas.too_much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "Too much revenue ([actual]/[allowed])"
+
+msgctxt "Languages::saas.too_big_file_text"
+msgid "The file is too big ([actual]/[allowed])"
+msgstr "The file is too big ([actual]/[allowed])"
 
 msgctxt "Languages::saas.private_apps"
 msgid "Private apps"

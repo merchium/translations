@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-08 15:04-0400\n"
+"PO-Revision-Date: 2015-06-09 04:04-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -18,35 +18,35 @@ msgstr "Синхронізація з eBay"
 
 msgctxt "Addons::description::ebay"
 msgid "Synchronizes products and orders with an eBay account."
-msgstr "Synchronizes products and orders with an eBay account."
+msgstr "Синхронізація товарів і замовлень з обліковим записом eBay."
 
 msgctxt "Languages::paypal_required_and_selected"
 msgid "For the selected eBay category PayPal payment method is required. It is selected automatically."
-msgstr "For the selected eBay category PayPal payment method is required. It is selected automatically."
+msgstr "Для вибраної категорії eBay потрібен спосіб оплати PayPal. Він був обраний автоматично."
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Wait for shippings cached. Mean time to 3 minutes"
-msgstr "Wait for shippings cached. Mean time to 3 minutes"
+msgstr "Очікування кешування методів доставки. Середній час - 3 хвилини"
 
 msgctxt "Languages::ebay_duration"
 msgid "Listing duration"
-msgstr "Listing duration"
+msgstr "Тривалість доступності лота"
 
 msgctxt "Languages::list_products_on"
 msgid "List products on"
-msgstr "List products on"
+msgstr "Показувати товари"
 
 msgctxt "Languages::private_listing"
 msgid "Private listing"
-msgstr "Private listing"
+msgstr "Приватний список"
 
 msgctxt "Languages::use_as_default"
 msgid "Use as default"
-msgstr "Use as default"
+msgstr "Використовувати за промовчанням"
 
 msgctxt "Languages::ebay_root_category"
 msgid "eBay Root category"
-msgstr "eBay Root category"
+msgstr "Коренева категорія eBay"
 
 msgctxt "Languages::ebay_category"
 msgid "eBay Category"
@@ -54,7 +54,7 @@ msgstr "eBay категорія"
 
 msgctxt "Languages::ebay_root_sec_category"
 msgid "eBay Secondary root category"
-msgstr "eBay Secondary root category"
+msgstr "Додаткова коренева категорія eBay"
 
 msgctxt "Languages::ebay_sec_category"
 msgid "eBay Secondary category"
@@ -62,39 +62,39 @@ msgstr "Друга категорія eBay"
 
 msgctxt "Languages::quantity_to_sell"
 msgid "Quantity to sell"
-msgstr "Quantity to sell"
+msgstr "Кількість на продаж"
 
 msgctxt "Languages::just_one"
 msgid "Just one"
-msgstr "Just one"
+msgstr "Лише один"
 
 msgctxt "Languages::more_than_one"
 msgid "More than one"
-msgstr "More than one"
+msgstr "Більше одного"
 
 msgctxt "Languages::use_main_image"
 msgid "Export product images"
-msgstr "Export product images"
+msgstr "Експортувати зображення товарів"
 
 msgctxt "Languages::selling_method"
 msgid "Selling method"
-msgstr "Selling method"
+msgstr "Спосіб продажу"
 
 msgctxt "Languages::online_auction"
 msgid "Online auction"
-msgstr "Online auction"
+msgstr "Інтернет-аукціон"
 
 msgctxt "Languages::buy_it_now"
 msgid "Buy it now"
-msgstr "Buy it now"
+msgstr "Купити зараз"
 
 msgctxt "Languages::ebay_requests"
 msgid "eBay requests"
-msgstr "eBay requests"
+msgstr "eBay запити"
 
 msgctxt "Languages::log_type_ebay_requests"
 msgid "eBay requests"
-msgstr "eBay requests"
+msgstr "eBay запити"
 
 msgctxt "Languages::errors"
 msgid "Errors"
@@ -110,75 +110,75 @@ msgstr "Код помилки"
 
 msgctxt "Languages::editing_ebay_template"
 msgid "Editing eBay template"
-msgstr "Editing eBay template"
+msgstr "Редагування eBay шаблону"
 
 msgctxt "Languages::new_ebay_template"
 msgid "New eBay template"
-msgstr "New eBay template"
+msgstr "Новий шаблон eBay"
 
 msgctxt "Languages::ebay_templates"
 msgid "eBay templates"
-msgstr "eBay templates"
+msgstr "eBay шаблони"
 
 msgctxt "Languages::ebay_registration_notice"
 msgid "In order to get this information you need first to register your Developer account <a href=\"https://developer.ebay.com/join/\">here</a>.<br /><br />After you registered, you will receive the \"DevID\", \"AppID\" and \"CertID\" keys. So you have to generate the special \"Token\" in order to use this API. In order to generate the \"Token\", please click the \"Get a User Token\" link at the bottom of \"My account\" page (tools box) or follow <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">this link</a>.<br /><br />Please complete this form with the given credentials."
-msgstr "In order to get this information you need first to register your Developer account <a href=\"https://developer.ebay.com/join/\">here</a>.<br /><br />After you registered, you will receive the \"DevID\", \"AppID\" and \"CertID\" keys. So you have to generate the special \"Token\" in order to use this API. In order to generate the \"Token\", please click the \"Get a User Token\" link at the bottom of \"My account\" page (tools box) or follow <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">this link</a>.<br /><br />Please complete this form with the given credentials."
+msgstr "Щоб отримати доступ до цієї інформації, зареєструйте обліковий запис розробника <a href=\"https://developer.ebay.com/join/\">тут</a>.<br /><br />Після реєстрації ви отримаєте ключі DevID, AppID і CertID. Для використання цього API вам необхідно згенерувати спеціальний токен (Token). Щоб зробити це, натисніть на посилання «Get a User Token» на сторінці «My account» (на сайті eBay) чи пройдіть за <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">цим посиланням</a>.<br /><br />Потім введіть отримані дані в цю форму."
 
 msgctxt "Languages::add_ebay_template"
 msgid "Add eBay template"
-msgstr "Add eBay template"
+msgstr "Додати eBay шаблон"
 
 msgctxt "Languages::shipping_type"
 msgid "Shipping type"
-msgstr "Shipping type"
+msgstr "Тип доставки"
 
 msgctxt "Languages::flat"
 msgid "Flat"
-msgstr "Flat"
+msgstr "Фіксована"
 
 msgctxt "Languages::calculated"
 msgid "Calculated"
-msgstr "Calculated"
+msgstr "Розраховується"
 
 msgctxt "Languages::domestic_shipping_service"
 msgid "Domestic shipping service"
-msgstr "Domestic shipping service"
+msgstr "Внутрішня служба доставки"
 
 msgctxt "Languages::international_shipping_service"
 msgid "International shipping service"
-msgstr "International shipping service"
+msgstr "Міжнародна служба доставки"
 
 msgctxt "Languages::dispatch_days"
 msgid "Dispatch days"
-msgstr "Dispatch days"
+msgstr "Дні відправки"
 
 msgctxt "Languages::ebay_payment_methods"
 msgid "eBay payment methods"
-msgstr "eBay payment methods"
+msgstr "Способи оплати eBay"
 
 msgctxt "Languages::paypal_email"
 msgid "PayPal email"
-msgstr "PayPal email"
+msgstr "PayPal e-mail"
 
 msgctxt "Languages::ebay_category_condition"
 msgid "eBay category condition"
-msgstr "eBay category condition"
+msgstr "Стан категорії eBay"
 
 msgctxt "Languages::export_to_ebay"
 msgid "Export to eBay"
-msgstr "Export to eBay"
+msgstr "Експорт до eBay"
 
 msgctxt "Languages::ebay_template"
 msgid "eBay template"
-msgstr "eBay template"
+msgstr "eBay шаблони"
 
 msgctxt "Languages::ebay_orders"
 msgid "eBay orders"
-msgstr "eBay orders"
+msgstr "замовлення eBay"
 
 msgctxt "Languages::get_ebay_orders"
 msgid "Get eBay orders"
-msgstr "Get eBay orders"
+msgstr "Отримати замовлення eBay"
 
 msgctxt "Languages::ebay"
 msgid "eBay"
@@ -186,11 +186,11 @@ msgstr "eBay"
 
 msgctxt "Languages::wait_for_categories_cached"
 msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
-msgstr "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "Будь ласка, зачекайте, поки створюється кеш для категорій - це займе близько 3 хвилин. До цього моменту у вкладках Доставка, Оплата і політика повернення нічого не буде відображатиметься."
 
 msgctxt "Languages::Some_parameters_is_missing"
 msgid "Some parameters is missing. Please check ebay add-on settings"
-msgstr "Some parameters is missing. Please check ebay add-on settings"
+msgstr "Бракує параметрів. Перевірте налаштування модуля «Синхронізація з eBay»"
 
 msgctxt "Languages::ebay_export_error"
 msgid "An error occurred during product export."
@@ -198,115 +198,115 @@ msgstr "Під час експорту продукції сталася пом�
 
 msgctxt "Languages::ebay_success_products_notice"
 msgid "Products have been successfully exported."
-msgstr "Products have been successfully exported."
+msgstr "Товари були успішно експортовані."
 
 msgctxt "Languages::ebay_success_orders_notice"
 msgid "Orders have been successfully imported."
-msgstr "Orders have been successfully imported."
+msgstr "Замовлення були успішно експортовані."
 
 msgctxt "Languages::ebay_failed_orders_notice"
 msgid "An error occurred during order import."
-msgstr "An error occurred during order import."
+msgstr "При імпорті замовлень сталася помилка."
 
 msgctxt "Languages::exporting_products_to_ebay"
 msgid "Exporting products to eBay."
-msgstr "Exporting products to eBay."
+msgstr "Експорт товарів у eBay."
 
 msgctxt "Languages::ebay_default_template_not_found"
 msgid "Default template for the [company_name] was not found."
-msgstr "Default template for the [company_name] was not found."
+msgstr "Шаблон за замовчуванням для [company_name] що не знайдено."
 
 msgctxt "Languages::delete_this_template"
 msgid "Delete this template"
-msgstr "Delete this template"
+msgstr "Видалити цей шаблон"
 
 msgctxt "Languages::test_version"
 msgid "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
-msgstr "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
+msgstr "Ви використовуєте тестову версію модуля, її валідність минула 7 грудня 2013. Після тестового періоду функції модуля недоступні. Придбати повну версію ви можете через портал <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
 
 msgctxt "Languages::list_product_on_tooltip"
 msgid "Choose the region of the ebay auction for which your site will work"
-msgstr "Choose the region of the ebay auction for which your site will work"
+msgstr "Оберіть регіон аукціону eBay"
 
 msgctxt "Languages::use_as_default_tooltip"
 msgid "Use this template for products with no template defined"
-msgstr "Use this template for products with no template defined"
+msgstr "Використовувати цей шаблон для продуктів без шаблону"
 
 msgctxt "Languages::ebay_root_category_tooltip"
 msgid "The product root category at eBay"
-msgstr "The product root category at eBay"
+msgstr "Коренева категорія товарів на стороні eBay"
 
 msgctxt "Languages::ebay_secondary_root_category_tooltip"
 msgid "The additional product root category at ebay"
-msgstr "The additional product root category at ebay"
+msgstr "Додаткова категорія товарів на стороні eBay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at ebay"
-msgstr "The additional product subcategory at ebay"
+msgstr "Додаткова категорія товарів на стороні eBay"
 
 msgctxt "Languages::shipping_type_tooltip"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "Використовувати фіксовану вартість доставки або обчислювати її автоматично, виходячи з поштового індексу покупця, ваги посилки та обраної поштової служби"
 
 msgctxt "Languages::domestic_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "Служба доставки всередині країни"
 
 msgctxt "Languages::international_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "Служба доставки для міжнародних відправлень"
 
 msgctxt "Languages::dispatch_days_tooltip"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr "The period of product delivery to a customer  (in days)"
+msgstr "Час доставки товару покупцеві (в днях)"
 
 msgctxt "Languages::ebay_payment_method_tooltip"
 msgid "Payment method(s), available for a template"
-msgstr "Payment method(s), available for a template"
+msgstr "Способи оплати, доступні для шаблону"
 
 msgctxt "Languages::paypal_email_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "Адреса ел. пошти для входу в обліковий запис PayPal"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
-msgstr "Define login of the PayPal account"
+msgstr "Адреса ел. пошти для входу в обліковий запис PayPal"
 
 msgctxt "Languages::free_shipping_tooltip"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr "Choose, if you want free shipping to be applied to products in a template"
+msgstr "Включити або виключити безкоштовну доставку товарів у шаблоні"
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
+msgstr "Фіксована ціна доставки однієї одиниці (якщо вартість доставки «Фіксована»). Відповідає настройка «Shipping and handling» на стороні eBay."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
-msgstr "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
+msgstr "Ціна доставки кожної додаткової одиниці в замовленні. Відповідає налаштуванні «Each additional item» на стороні eBay"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Shipping cost additional"
-msgstr "Shipping cost additional"
+msgstr "Додаткова вартість доставки"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
-msgstr "The storefront, for which a template will be created"
+msgstr "Вітрина, для якої буде створений шаблон"
 
 msgctxt "Languages::shipping_cost_cannot_be_null"
 msgid "Shipping cost must be non-zero"
-msgstr "Shipping cost must be non-zero"
+msgstr "Вартість доставки повинна бути більше нуля"
 
 msgctxt "Languages::ebay_title"
 msgid "eBay product title"
-msgstr "eBay product title"
+msgstr "Назва продукту eBay"
 
 msgctxt "Languages::ebay_title_tooltip"
 msgid "eBay title the title of the product to be used at eBay"
-msgstr "eBay title the title of the product to be used at eBay"
+msgstr "Назва товару на стороні eBay"
 
 msgctxt "Languages::ebay_description"
 msgid "eBay product description"
-msgstr "eBay product description"
+msgstr "Опис продукту eBay"
 
 msgctxt "Languages::ebay_description_tooltip"
 msgid "eBay description the description of the product to be used at eBay"
@@ -322,7 +322,7 @@ msgstr "Choose, if you want the original product name and description to be repl
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
-msgstr "Return Policy"
+msgstr "Політика повернення"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
@@ -330,11 +330,11 @@ msgstr "Choose whether returns are allowed or not for products grouped under thi
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
-msgstr "Returns Accepted"
+msgstr "Повернення приймаються"
 
 msgctxt "Languages::no_returns_accepted"
 msgid "No returns accepted"
-msgstr "No returns accepted"
+msgstr "Повернення не приймаються"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
@@ -354,7 +354,7 @@ msgstr "Choose the action that will replace the return, if it is not allowed"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
-msgstr "Money Back"
+msgstr "Повернення грошей"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
@@ -374,15 +374,15 @@ msgstr "Choose, who will pay for the shipping of the return purchase - the selle
 
 msgctxt "Languages::seller"
 msgid "Seller"
-msgstr "Seller"
+msgstr "Продавець"
 
 msgctxt "Languages::buyer"
 msgid "Buyer"
-msgstr "Buyer"
+msgstr "Покупець"
 
 msgctxt "Languages::return_policy_descr"
 msgid "Policy description"
-msgstr "Policy description"
+msgstr "Опис політики"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
@@ -390,11 +390,11 @@ msgstr "Write the detailed description of your return policy here"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
-msgstr "Large envelope"
+msgstr "Великий конверт"
 
 msgctxt "Languages::large_package"
 msgid "Large package"
-msgstr "Large package"
+msgstr "Великий пакет"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
@@ -406,7 +406,7 @@ msgstr "Products with the [ids] id were not exported because their weight equals
 
 msgctxt "Languages::exported_to_ebay"
 msgid "Exported to eBay"
-msgstr "Exported to eBay"
+msgstr "Експорт до eBay"
 
 msgctxt "Languages::revised_after_the_latest_export"
 msgid "Revised after the latest export"
@@ -430,7 +430,7 @@ msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled.
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Activate add-on"
+msgstr "Активувати додаток"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
@@ -442,19 +442,19 @@ msgstr "The add-on license number is empty."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
-msgstr "Ebay templates not found"
+msgstr "EBay шаблонів не знайдено"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
-msgstr "General"
+msgstr "Загальні"
 
 msgctxt "SettingsOptions::ebay::ebay_license_number"
 msgid "The eBay add-on license number"
-msgstr "The eBay add-on license number"
+msgstr "Номер ліцензії модуля eBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
-msgstr "Notice"
+msgstr "Сповіщення"
 
 msgctxt "SettingsOptions::ebay::dev_id"
 msgid "eBay DevID"
@@ -474,23 +474,23 @@ msgstr "eBay User Token"
 
 msgctxt "SettingsOptions::ebay::listing_mode"
 msgid "Sandbox / Production"
-msgstr "Sandbox / Production"
+msgstr "Пісочниця / живий сайт"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "Сайт за промовчанням"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
-msgstr "eBay timestamp"
+msgstr "eBay позначка часу"
 
 msgctxt "SettingsVariants::ebay::listing_mode::S"
 msgid "Sandbox"
-msgstr "Sandbox"
+msgstr "Пісочниця"
 
 msgctxt "SettingsVariants::ebay::listing_mode::P"
 msgid "Production"
-msgstr "Production"
+msgstr "Живий сайт"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
@@ -498,7 +498,7 @@ msgstr "Please wait, shipping information is loaded."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
-msgstr "License info"
+msgstr "Інформація про ліцензію"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
@@ -510,5 +510,5 @@ msgstr "View eBay templates"
 
 msgctxt "Languages::privileges.manage_ebay_templates"
 msgid "Manage eBay templates"
-msgstr "Manage eBay templates"
+msgstr "Керувати eBay шаблонами"
 
