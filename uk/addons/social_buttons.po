@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/social_buttons.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 07:04-0400\n"
+"PO-Revision-Date: 2015-06-09 09:04-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -18,7 +18,7 @@ msgstr "Соціальна кнопки"
 
 msgctxt "Addons::description::social_buttons"
 msgid "Social media and e-mail share buttons (Twitter, Facebook, etc.)"
-msgstr "Social media and e-mail share buttons (Twitter, Facebook, etc.)"
+msgstr "Додає кнопки популярних соц. сервісів (Twitter, Facebook і т.д.)"
 
 msgctxt "Languages::use_for_email_share"
 msgid "Send to friend form"
@@ -38,7 +38,7 @@ msgstr "Діяльність"
 
 msgctxt "Languages::fb_businesses"
 msgid "Businesses"
-msgstr "Businesses"
+msgstr "Бізнес"
 
 msgctxt "Languages::fb_groups"
 msgid "Groups"
@@ -122,7 +122,7 @@ msgstr "Відображати кнопку \"Twitter\""
 
 msgctxt "SettingsOptions::social_buttons::twitter_via"
 msgid "Via"
-msgstr "Via"
+msgstr "за допомогою"
 
 msgctxt "SettingsOptions::social_buttons::twitter_size"
 msgid "Button size"
@@ -130,7 +130,7 @@ msgstr "Розмір кнопки"
 
 msgctxt "SettingsOptions::social_buttons::twitter_display_count"
 msgid "Display count"
-msgstr "Display count"
+msgstr "Показувати лічильник"
 
 msgctxt "SettingsOptions::social_buttons::twitter_display_on"
 msgid "Display on"
@@ -150,11 +150,11 @@ msgstr "Facebook app ID"
 
 msgctxt "SettingsOptions::social_buttons::facebook_href"
 msgid "The URL of the page to like"
-msgstr "The URL of the page to like"
+msgstr "URL сторінки, яка буде згадана в повідомленні"
 
 msgctxt "SettingsOptions::social_buttons::facebook_send"
 msgid "Include a Send button with the Like button"
-msgstr "Include a Send button with the Like button"
+msgstr "Показувати кнопку «Відправити» разом з кнопкою «Мені подобається»"
 
 msgctxt "SettingsOptions::social_buttons::facebook_width"
 msgid "Width of the Like button (px)"
@@ -170,7 +170,7 @@ msgstr "Відображати фотографії профілю"
 
 msgctxt "SettingsOptions::social_buttons::facebook_action"
 msgid "Button verb"
-msgstr "Button verb"
+msgstr "Напис на кнопці"
 
 msgctxt "SettingsOptions::social_buttons::facebook_lang"
 msgid "Language"
@@ -234,7 +234,7 @@ msgstr "Відображення на"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
-msgstr "User name to attribute the Tweet to (i.e. 'via @username')"
+msgstr "Ім'я користувача, яке буде згадано в повідомленнях (через @username)"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
 msgid "Specify any Facebook app ID, otherwise the button will not be shown"
@@ -762,7 +762,7 @@ msgstr "Жоден"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::bubble"
 msgid "Bubble"
-msgstr "Bubble"
+msgstr "Бабл"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::inline"
 msgid "Inline"
@@ -774,19 +774,19 @@ msgstr "Ліворуч"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Праворуч"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::top"
 msgid "Top"
-msgstr "Top"
+msgstr "Вгорі"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Праворуч"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::bottom"
 msgid "Bottom"
-msgstr "Bottom"
+msgstr "Донизу"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::left"
 msgid "Left"
@@ -834,7 +834,7 @@ msgstr "Малий"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_size::28"
 msgid "Large"
-msgstr "Large"
+msgstr "Великий"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_shape"
 msgid "Shape"
@@ -846,7 +846,7 @@ msgstr "Прямокутні"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
 msgid "Circular"
-msgstr "Circular"
+msgstr "Коло"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_color"
 msgid "Color"

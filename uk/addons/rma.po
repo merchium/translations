@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/rma.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 07:04-0400\n"
+"PO-Revision-Date: 2015-06-09 09:04-0400\n"
 
 msgctxt "Addons::name::rma"
 msgid "RMA"
@@ -30,7 +30,7 @@ msgstr "Повернення"
 
 msgctxt "Languages::no_return_requests_found"
 msgid "No return requests found"
-msgstr "No return requests found"
+msgstr "Запити на повернення не знайдені"
 
 msgctxt "Languages::returned_product"
 msgid "Returned product"
@@ -42,27 +42,27 @@ msgstr "Повернуті"
 
 msgctxt "Languages::returns_info"
 msgid "Returns info"
-msgstr "Returns info"
+msgstr "Інформація про повернення"
 
 msgctxt "Languages::return_info"
 msgid "Return information"
-msgstr "Return information"
+msgstr "Інформація про повернення"
 
 msgctxt "Languages::order_returns"
 msgid "Order returns"
-msgstr "Order returns"
+msgstr "Повернення замовлення"
 
 msgctxt "Languages::return_registration"
 msgid "Request a replacement or a refund"
-msgstr "Request a replacement or a refund"
+msgstr "Запросити заміну або повернення грошей"
 
 msgctxt "Languages::return_requests"
 msgid "Return requests"
-msgstr "Return requests"
+msgstr "Запити на повернення"
 
 msgctxt "Languages::return_requests_menu_description"
 msgid "View and process return requests from orders placed on your web site."
-msgstr "View and process return requests from orders placed on your web site."
+msgstr "Перегляд та обробка запитів на повернення по замовленнях, зроблених у вашому магазині."
 
 msgctxt "Languages::return_status"
 msgid "Return status"
@@ -74,7 +74,7 @@ msgstr "Період повернення"
 
 msgctxt "Languages::what_you_would_like_to_do"
 msgid "What would you like to do"
-msgstr "What would you like to do"
+msgstr "Що б ви хотіли зробити"
 
 msgctxt "Languages::rma_notify_supplier"
 msgid "Notify supplier"
@@ -90,11 +90,11 @@ msgstr "Нова причина"
 
 msgctxt "Languages::type_comment"
 msgid "Type comments here"
-msgstr "Type comments here"
+msgstr "Залишити коментар"
 
 msgctxt "Languages::return_requests_note"
 msgid "Go to the list of your return requests"
-msgstr "Go to the list of your return requests"
+msgstr "Перейти до списку запитів на повернення товарів"
 
 msgctxt "Languages::privileges.manage_rma"
 msgid "Manage RMA system"
@@ -102,7 +102,7 @@ msgstr "Управління системою повернення товарі�
 
 msgctxt "Languages::text_return_change_warning"
 msgid "The status of return #[return_id] will be changed"
-msgstr "The status of return #[return_id] will be changed"
+msgstr "Статус повернення #[return_id] буде змінено"
 
 msgctxt "Languages::returnable"
 msgid "Returnable"
@@ -110,27 +110,27 @@ msgstr "Можливе повернення"
 
 msgctxt "Languages::returnable_product"
 msgid "Returnable product"
-msgstr "Returnable product"
+msgstr "Товар, що повертається"
 
 msgctxt "Languages::rma_request_statuses"
 msgid "RMA request statuses"
-msgstr "RMA request statuses"
+msgstr "Статуси запитів на повернення"
 
 msgctxt "Languages::return_products_information"
 msgid "Return products information"
-msgstr "Return products information"
+msgstr "Інформація про товари на повернення"
 
 msgctxt "Languages::declined_products_information"
 msgid "Declined products information"
-msgstr "Declined products information"
+msgstr "Інформація про відхилені товари"
 
 msgctxt "Languages::rma_reasons"
 msgid "RMA reasons"
-msgstr "RMA reasons"
+msgstr "Причини повернення"
 
 msgctxt "Languages::rma_actions"
 msgid "RMA actions"
-msgstr "RMA actions"
+msgstr "Варіанти компенсації"
 
 msgctxt "Languages::rma"
 msgid "RMA"
@@ -138,7 +138,7 @@ msgstr "Повернення товарів"
 
 msgctxt "Languages::return_period_days"
 msgid "Return period (days)"
-msgstr "Return period (days)"
+msgstr "Час повернення (в днях)"
 
 msgctxt "Languages::all_actions"
 msgid "All actions"
@@ -146,19 +146,19 @@ msgstr "Всі дії"
 
 msgctxt "Languages::order_total_will_changed"
 msgid "The order total will be changed by"
-msgstr "The order total will be changed by"
+msgstr "Сума замовлення буде змінена на"
 
 msgctxt "Languages::shipping_costs_will_changed"
 msgid "Shipping costs will be changed by"
-msgstr "Shipping costs will be changed by"
+msgstr "Вартість доставки змінюватиметься по"
 
 msgctxt "Languages::decline_products"
 msgid "Decline products"
-msgstr "Decline products"
+msgstr "Відхилити товари"
 
 msgctxt "Languages::create_gift_certificate"
 msgid "Create gift certificate"
-msgstr "Create gift certificate"
+msgstr "Створити подарунковий сертифікат"
 
 msgctxt "Languages::accept_products"
 msgid "Accept products"
@@ -170,11 +170,11 @@ msgstr "Перерахувати замовлення"
 
 msgctxt "Languages::manually_recalculate_order"
 msgid "Recalculate the order manually"
-msgstr "Recalculate the order manually"
+msgstr "Перерахувати замовлення вручну"
 
 msgctxt "Languages::dont_recalculate_order"
 msgid "Do not recalculate order"
-msgstr "Do not recalculate order"
+msgstr "Не перераховувати замовлення"
 
 msgctxt "Languages::delete_this_return"
 msgid "Delete this return"
@@ -182,11 +182,11 @@ msgstr "Видалити це повернення"
 
 msgctxt "Languages::update_totals_and_inventory"
 msgid "Update totals and inventory"
-msgstr "Update totals and inventory"
+msgstr "Оновити підсумкові суми і кількість товару на складі"
 
 msgctxt "Languages::request_statuses"
 msgid "request statuses"
-msgstr "request statuses"
+msgstr "статуси запитів"
 
 msgctxt "SettingsSections::rma::general"
 msgid "General"
@@ -194,9 +194,9 @@ msgstr "Загальні"
 
 msgctxt "SettingsOptions::rma::display_product_return_period"
 msgid "Display product return period"
-msgstr "Display product return period"
+msgstr "Відображати період повернення товару"
 
 msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
 msgid "Do not take weekends into account when calculating product return period"
-msgstr "Do not take weekends into account when calculating product return period"
+msgstr "Не враховувати вихідні при підрахунку періоду повернення товару"
 
