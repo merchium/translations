@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-10 11:06-0400\n"
+"PO-Revision-Date: 2015-06-14 20:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "У кошик"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Додати до списку порівняння"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -2051,11 +2051,11 @@ msgstr "Порівняти"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Cписок порівняння"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "До списку порівняння"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3619,11 +3619,11 @@ msgstr "Код підтвердження неправильний або від
 
 msgctxt "Languages::error_curl_not_exists"
 msgid "<b>Warning!</b><br />Your server <b>does not</b> support the PHP cURL extension. <b>[method]</b> will not be operational. Please contact your hosting provider."
-msgstr "<b>Увага!</b> < br / > ваш сервер <b>не</b> підтримує розширення cURL PHP. <b>[method]</b> не буде виконано. Будь ласка, зв'яжіться з вашим хостинг-провайдером."
+msgstr "<b>Увага!</b><br/>ваш сервер <b>не</b> підтримує розширення cURL PHP. <b>[method]</b> не буде виконано. Будь ласка, зв'яжіться з вашим хостинг-провайдером."
 
 msgctxt "Languages::error_curl_ssl_not_exists"
 msgid "<b>Warning!</b><br />The PHP cURL extension is compiled <b>without</b> SSL support on your server. <b>[method]</b> will not be operational. Please contact your hosting provider."
-msgstr "<b>Увага!</b> < br / > модуль cURL PHP <b>без</b>  SSL підтримки . <b>[method]</b> не буде виконано. Будь ласка, зв'яжіться з вашим хостинг-провайдером."
+msgstr "<b>Увага!</b><br/> модуль cURL PHP <b>без</b>  SSL підтримки . <b>[method]</b> не буде виконано. Будь ласка, зв'яжіться з вашим хостинг-провайдером."
 
 msgctxt "Languages::error_currency_exists"
 msgid "Currency with code <b>[code]</b> already exists"
@@ -3883,7 +3883,7 @@ msgstr "Ця комбінація виключень вже існує"
 
 msgctxt "Languages::exception_title"
 msgid "Oops!<br />We were unable to find what you were looking for."
-msgstr "Ой!< br / >не вдалося знайти те, що ви шукали."
+msgstr "Ой!<br/>не вдалося знайти те, що ви шукали."
 
 msgctxt "Languages::exchange_rate"
 msgid "Live exchange rates"
@@ -7355,7 +7355,7 @@ msgstr "Товар був доданий до кошику"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Продукт був доданий до списку порівнянь"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7423,7 +7423,7 @@ msgstr "Цей продукт вже знаходиться в кошику"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Цей продукт вже є у списку порівнянь"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -10208,7 +10208,7 @@ msgstr "Справді продовжити?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
-msgstr "<b>Примітка:</b> < br / > 1. Копіювати ваш сертифікат, який ви отримали на диску до каталогу [home_path]. Перейменуйте сертифікат на certif.fr.[my_merchant_id], де [my_merchant_id] це ваш веб-сайт номер. < br > 2. Перейменувати файл параметрів магазину (parmcom.014213245611111 файл) parmcom.[my_merchant_id].<br / > 3. Редагування <b>pathfile</b> файлу в каталозі <b>[home_path]</b> < br / >-замінити рядок ' <u>D_LOGO![some_dir]!</u>' з ' <u>D_LOGO![http_path]/логотип /!</u>' < br / >-замінити рядок ' <u>F_DEFAULT! [ / some_dirs/parmcom.sogenactif]!</u>' з ' <u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>' < br / >-замінити рядок ' <u>F_PARAM! [ / some_dirs/parmcom]!</u>' з ' <u>F_PARAM! [home_path]/parmcom!</u>' < br / >-замінити рядок ' <u>F_CERTIFICATE! [ / some_dirs/сертифік]!</u>' з ' <u>F_CERTIFICATE! [home_path]/сертифік!</u>' < br / > 4. Редагування <b>parmcom.[some_number]</b> файлу в каталозі <b>[home_path]</b> < br / >-замінити рядок ' <u>AUTO_RESPONSE_URL![some_url]!</u>' з ' <u>AUTO_RESPONSE_URL![auto_url]!</u>' < br / >-замінити рядок ' <u>CANCEL_URL! [some_url]!</u>' з ' <u>CANCEL_URL![ok_url]!</u>' < br / >-замінити рядок ' <u>RETURN_URL! [some_url]!</u>' з ' <u>RETURN_URL! [ok_url]!</u>' < br / >"
+msgstr "<b>Примітка:</b> <br/> 1. Копіювати ваш сертифікат, який ви отримали на диску до каталогу [home_path]. Перейменуйте сертифікат на certif.fr.[my_merchant_id], де [my_merchant_id] це ваш веб-сайт номер. <br /> 2. Перейменувати файл параметрів магазину (parmcom.014213245611111 файл) parmcom.[my_merchant_id].<br/> 3. Редагування <b>pathfile</b> файлу в каталозі <b>[home_path]</b> <br/>-замінити рядок ' <u>D_LOGO![some_dir]!</u>' з ' <u>D_LOGO![http_path]/логотип /!</u>' <br />-замінити рядок ' <u>F_DEFAULT! [/some_dirs/parmcom.sogenactif]!</u>' з ' <u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>' <br/>-замінити рядок ' <u>F_PARAM! [/some_dirs/parmcom]!</u>' з ' <u>F_PARAM! [home_path]/parmcom!</u>' <br/>-замінити рядок '<u>F_CERTIFICATE! [/some_dirs/сертифік]!</u>' з ' <u>F_CERTIFICATE! [home_path]/сертифік!</u>' <br/> 4. Редагування <b>parmcom.[some_number]</b> файлу в каталозі <b>[home_path]</b> <br/>-замінити рядок ' <u>AUTO_RESPONSE_URL![some_url]!</u>' з ' <u>AUTO_RESPONSE_URL![auto_url]!</u>' <br />-замінити рядок ' <u>CANCEL_URL! [some_url]!</u>' з ' <u>CANCEL_URL![ok_url]!</u>' <br />-замінити рядок ' <u>RETURN_URL! [some_url]!</u>' з ' <u>RETURN_URL! [ok_url]!</u>' <br/>"
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
@@ -10224,7 +10224,7 @@ msgstr "Щоб завантажити резервну копію, натисн�
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
-msgstr "Цей розділ дає змогу керувати вашими резервними копіями файлів. < br / > - для відновлення бази даних, установіть прапорець біля імені відповідного файлу і натисніть кнопку відновити. < br / > – щоб видалити файли, установіть прапорці біля файлів, які потрібно видалити та натисніть кнопку Видалити. < br / > – щоб завантажити файл на локальному комп'ютері, клацніть на назві файлу."
+msgstr "Цей розділ дає змогу керувати вашими резервними копіями файлів. <br /> - для відновлення бази даних, установіть прапорець біля імені відповідного файлу і натисніть кнопку відновити. <br /> – щоб видалити файли, установіть прапорці біля файлів, які потрібно видалити та натисніть кнопку Видалити. <br/> – щоб завантажити файл на локальному комп'ютері, клацніть на назві файлу."
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
@@ -10436,7 +10436,7 @@ msgstr "<b>Примітка:</b> Будь ласка, надішліть нас�
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
-msgstr "Змінитити \"Успішний лінк\": <b>[success_url]</b> < br / > Змінити \"Посилання відміни\" на: <b>[abort_url]</b> < br / > Додати нове HTTP сповіщення і змінити \"URL Оповіщення\": <b>[notification_url]</b> < br / > Активувати перевірку вводу і змінити \"Хеш алгоритм\" для 'SHA1 < br / >"
+msgstr "Змінитити \"Успішний лінк\": <b>[success_url]</b> <br /> Змінити \"Посилання відміни\" на: <b>[abort_url]</b> <br /> Додати нове HTTP сповіщення і змінити \"URL Оповіщення\": <b>[notification_url]</b> <br /> Активувати перевірку вводу і змінити \"Хеш алгоритм\" для 'SHA1 <br />"
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
@@ -12900,7 +12900,7 @@ msgstr "Переглянути категорії"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Cписок порівняння"
 
 msgctxt "Languages::view_details"
 msgid "View details"

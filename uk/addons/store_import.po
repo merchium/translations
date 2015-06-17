@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-09 09:04-0400\n"
+"PO-Revision-Date: 2015-06-14 20:04-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -42,7 +42,7 @@ msgstr "Не вдалося підключитися до сервера баз 
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
-msgstr "Cannot start actualizing data due to Storefront/Vendor changes"
+msgstr "Неможливо розпочати актуалізацію даних, бо були внесені зміни у вітрину / продавця"
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
@@ -102,7 +102,7 @@ msgstr "перевірити шлях"
 
 msgctxt "Languages::store_import.local_store_tooltip"
 msgid "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
-msgstr "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
+msgstr "Введіть повний шлях до директорії встановленого магазину, який ви хочете імпортувати. Наприклад, \"/var/www/examplestore\" в UNIX-подібних системах або \"C:\\examplestore\" в Windows"
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
@@ -162,7 +162,7 @@ msgstr "В: [product_edition] [product_version]"
 
 msgctxt "Languages::store_import.edition_mapping_failed"
 msgid "Import from this edition is not supported"
-msgstr "Import from this edition is not supported"
+msgstr "Імпорт з цієї редакції не підтримується"
 
 msgctxt "Languages::store_import.configuration_test_failed"
 msgid "Configuration test failed"
@@ -170,15 +170,15 @@ msgstr "Помилка перевірки конфігурації"
 
 msgctxt "Languages::store_import.wrong_table_prefix"
 msgid "Store tables with the specified prefix are missing in the specified database."
-msgstr "Store tables with the specified prefix are missing in the specified database."
+msgstr "Таблиці магазину з вказаним префіксом відсутні у зазначеній базі."
 
 msgctxt "Languages::store_import.path_does_not_exist"
 msgid "The specified directory does not exist. Please check if the path you entered is correct."
-msgstr "The specified directory does not exist. Please check if the path you entered is correct."
+msgstr "Зазначена директорія не існує. Будь ласка, перевірте, що ви ввели правильний шлях."
 
 msgctxt "Languages::store_import.this_is_not_cart_path"
 msgid "The specified directory is not a valid store installation root folder."
-msgstr "The specified directory is not a valid store installation root folder."
+msgstr "Зазначена директорія не є валидной кореневої Директорією встановленого магазину."
 
 msgctxt "Languages::store_import.text_configuration"
 msgid "<p><h4>The data from the old store was successfully imported.</h4><br/>You are now free to leave the Store import tool and customize the settings and design of your store. First of all, do the following:</p>"
@@ -418,7 +418,7 @@ msgstr "При актуалізації даних сталася помилка
 
 msgctxt "Languages::store_import.invalid_license"
 msgid "Sorry, the data import is impossible: no valid upgrade subscription found (read more about the <a title=\"Store Import: License Requirements\" target=\"_blank\" href=\"http://kb.cs-cart.com/store-import#license-requirements\">license requirements</a> for a store import).<br /><br />Contact us at <a href=\"mailto:sales@cs-cart.com\">sales@cs-cart.com</a> if you have any questions."
-msgstr "Sorry, the data import is impossible: no valid upgrade subscription found (read more about the <a title=\"Store Import: License Requirements\" target=\"_blank\" href=\"http://kb.cs-cart.com/store-import#license-requirements\">license requirements</a> for a store import).<br /><br />Contact us at <a href=\"mailto:sales@cs-cart.com\">sales@cs-cart.com</a> if you have any questions."
+msgstr "На жаль, імпорт даних неможливий, так як не вдалося знайти підходящої підписки на оновлення (дізнайтеся більше про <a title=\"Store Import: License Requirements\" target=\"_blank\" href=\"http://kb.cs-cart.com/store-import#license-requirements\">необхідних умов для імпорту</a>).<br /><br />Зв'яжіться з нами за адресою <a href=\"mailto:sales@cs-cart.com\">sales@cs-cart.com</a>, якщо у вас є питання."
 
 msgctxt "Languages::store_import.cant_connect_to_imported"
 msgid "Store import has been canceled to prevent the loss of data. Could not connect to the imported database. Please contact tech support."
