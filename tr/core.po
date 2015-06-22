@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-10 11:06-0400\n"
+"PO-Revision-Date: 2015-06-19 06:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Sepete ekle"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Karşılaştırma listesine ekle"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1262,11 +1262,11 @@ msgstr "Ürün filtreleme seçenekleri"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Ana sayfa için ürün filtresi"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Giriş sayfasında görüntülenen Ürün Filtreleme seçenekleri"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1870,7 +1870,7 @@ msgstr "Geçmişi temizle"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Logları temizle"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2050,11 +2050,11 @@ msgstr "Karşılaştır"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Karşılaştırma listesi"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Ürün karşılaştırma listesine git"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2850,7 +2850,7 @@ msgstr "Varsayılan template"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Büyük resim"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3222,7 +3222,7 @@ msgstr "Yüklemeden önce tüm mevcut dosyaları sil"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Yedekleme dosyası yüklenemiyor. Lütfen kurulum dosyanızda bulunan var/backups dosyası izinlerinizi kontrol edin."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -7354,7 +7354,7 @@ msgstr "Ürün sepetinize eklendi"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Ürün karşılaştıma listenize eklendi"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7422,7 +7422,7 @@ msgstr "Bu ürün sepetinizde mevcut"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Bu ürün karşılaştırma listenizde mevcut"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -9166,15 +9166,15 @@ msgstr "Air Service Center"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "İmza yok"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "İmza gerekli"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Yetişkin imzası gerekli"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
@@ -9182,7 +9182,7 @@ msgstr "Use Delivery confirmation"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Onay türü"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -15671,7 +15671,7 @@ msgstr "Yükseltme paketini yükle"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Yükseltme paketini yükleme düzeltmeleri veya eklenti yükseltmeleri uygulamanıza olanak sağlar. Sen-ebilmek upload bir yükseltme paketi bir tgz gz, seçerek zip formatında Arşiv ve tıkırtı Upload."
+msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
