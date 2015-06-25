@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-25 05:04-0400\n"
+"PO-Revision-Date: 2015-06-25 11:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3676,9 +3676,9 @@ msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
 msgstr "The following fields are mandatory and cannot be removed from the layout:"
 
-msgctxt "Languages::error_exim_no_data_exported"
-msgid "No data exported"
-msgstr "Không có dữ liệu được xuất"
+msgctxt "Languages::error_exim_no_data_exported_new"
+msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -9178,7 +9178,7 @@ msgstr "Adult Signature Required"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Sử dụng xác nhận giao hàng"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
@@ -9222,7 +9222,7 @@ msgstr "NonRectangular"
 
 msgctxt "Languages::ship_usps_container_priority_rectangular"
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr "Hình chữ nhật"
 
 msgctxt "Languages::ship_usps_container_priority_regional_a_rate_box"
 msgid "Regional Rate Box A"
@@ -9318,19 +9318,19 @@ msgstr "Postcards or Aerogrammes"
 
 msgctxt "Languages::ship_usps_package_size"
 msgid "Package Size (length + girth, inches)"
-msgstr "Package Size (length + girth, inches)"
+msgstr "Kích thước gói (chiều dài + chu vi, inch)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
-msgstr "Large (84..108)"
+msgstr "Lớn (84..108)"
 
 msgctxt "Languages::ship_usps_package_size_oversize"
 msgid "Oversize (108..130)"
-msgstr "Oversize (108..130)"
+msgstr "Quá cỡ (108..130)"
 
 msgctxt "Languages::ship_usps_package_size_regular"
 msgid "Regular (0..84)"
-msgstr "Regular (0..84)"
+msgstr "Thường (0..84)"
 
 msgctxt "Languages::ship_usps_priority_girth"
 msgid "Priority Mail (Size:Large, Container:NonRectangular) Girth (inches)"
@@ -9350,15 +9350,15 @@ msgstr "Priority Mail (Size:Large) Width (inches)"
 
 msgctxt "Languages::ship_usps_username"
 msgid "User ID"
-msgstr "User ID"
+msgstr "ID người dùng"
 
 msgctxt "Languages::ship_width"
 msgid "Package width (cm)"
-msgstr "Package width (cm)"
+msgstr "Chiều rộng gói (cm)"
 
 msgctxt "Languages::short_description"
 msgid "Short description"
-msgstr "Short description"
+msgstr "Mô tả ngắn"
 
 msgctxt "Languages::short_hour"
 msgid "h."
@@ -9366,15 +9366,15 @@ msgstr "h."
 
 msgctxt "Languages::short_list"
 msgid "Short list"
-msgstr "Short list"
+msgstr "Danh sách ngắn"
 
 msgctxt "Languages::show"
 msgid "Show"
-msgstr "Show"
+msgstr "Hiển thị"
 
 msgctxt "Languages::show_all"
 msgid "Show all"
-msgstr "Show all"
+msgstr "Hiển thị tất cả"
 
 msgctxt "Languages::show_items_in_line"
 msgid "Show items inline"
@@ -9382,15 +9382,15 @@ msgstr "Show items inline"
 
 msgctxt "Languages::show_menu_on_mouse_over"
 msgid "Show menu on mouse over"
-msgstr "Show menu on mouse over"
+msgstr "Hiển thị menu khi di chuột lên"
 
 msgctxt "Languages::show_orders"
 msgid "Show orders"
-msgstr "Show orders"
+msgstr "HIển thị đơn hàng"
 
 msgctxt "Languages::show_price"
 msgid "Show price"
-msgstr "Show price"
+msgstr "Hiển thị giá"
 
 msgctxt "Languages::show_rate_for_destination"
 msgid "Show rates for location"
@@ -9398,7 +9398,7 @@ msgstr "Show rates for location"
 
 msgctxt "Languages::show_tab_in_popup"
 msgid "Show this tab in a popup window"
-msgstr "Show this tab in a popup window"
+msgstr "Hiển thị tab này trong một cửa sổ popup"
 
 msgctxt "Languages::tmpl_sidebox_1_item"
 msgid "Side box first item"
@@ -9414,7 +9414,7 @@ msgstr "Sidebox important"
 
 msgctxt "Languages::signature"
 msgid "Signature"
-msgstr "Signature"
+msgstr "Chữ ký"
 
 msgctxt "Languages::signed_in_as"
 msgid "Signed in as"
@@ -9422,43 +9422,43 @@ msgstr "Signed in as"
 
 msgctxt "Languages::sign_in"
 msgid "Sign in"
-msgstr "Sign in"
+msgstr "Đăng nhập"
 
 msgctxt "Languages::sign_in_as_different"
 msgid "Sign in as a different user"
-msgstr "Sign in as a different user"
+msgstr "Đăng nhập như người dùng khác"
 
 msgctxt "Languages::sign_in_to_buy"
 msgid "Please sign in to buy"
-msgstr "Please sign in to buy"
+msgstr "Vui lòng đăng nhập để mua"
 
 msgctxt "Languages::sign_in_to_view_price"
 msgid "[Sign in to view price]"
-msgstr "[Sign in to view price]"
+msgstr "[Đăng nhập để xem giá]"
 
 msgctxt "Languages::sign_out"
 msgid "Sign out"
-msgstr "Sign out"
+msgstr "Thoát"
 
 msgctxt "Languages::sign_up_for_notification"
 msgid "Sign up for notification"
-msgstr "Sign up for notification"
+msgstr "Đăng ký thông báo"
 
 msgctxt "Languages::similar_only"
 msgid "Similar only"
-msgstr "Similar only"
+msgstr "Chỉ giống nhau"
 
 msgctxt "Languages::simple_ultimate_companies_selector"
 msgid "Please contact the technical support"
-msgstr "Please contact the technical support"
+msgstr "Xin vui lòng liên hệ với bộ phận hỗ trợ kỹ thuật"
 
 msgctxt "Languages::simultaneous"
 msgid "Simultaneous"
-msgstr "Simultaneous"
+msgstr "Đồng thời"
 
 msgctxt "Languages::single"
 msgid "Single"
-msgstr "Single"
+msgstr "Đơn"
 
 msgctxt "Languages::single_coupon_is_allowed"
 msgid "Single discount coupon is allowed only"
@@ -9466,7 +9466,7 @@ msgstr "Single discount coupon is allowed only"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
-msgstr "Sitemap"
+msgstr "Sơ đồ trang web"
 
 msgctxt "Languages::sitemap_menu_description"
 msgid "Create additional sections of the customer area sitemap and define the set of links for them."
@@ -9474,23 +9474,23 @@ msgstr "Create additional sections of the customer area sitemap and define the s
 
 msgctxt "Languages::sitemap_settings"
 msgid "Sitemap settings"
-msgstr "Sitemap settings"
+msgstr "Cài đặt sơ đồ trang"
 
 msgctxt "Languages::site_number"
 msgid "Site number (EPT)"
-msgstr "Site number (EPT)"
+msgstr "Số trang web (EPT)"
 
 msgctxt "Languages::size"
 msgid "Size"
-msgstr "Size"
+msgstr "Kích thước"
 
 msgctxt "Languages::skiplastpage"
 msgid "Skip the last page"
-msgstr "Skip the last page"
+msgstr "Bỏ qua trang trước"
 
 msgctxt "Languages::skip_payment"
 msgid "Skip payment"
-msgstr "Skip payment"
+msgstr "Bỏ qua thanh toán"
 
 msgctxt "Languages::skrill_customer_id"
 msgid "Skrill Customer ID"
@@ -9498,23 +9498,23 @@ msgstr "Skrill Customer ID"
 
 msgctxt "Languages::sku"
 msgid "CODE"
-msgstr "CODE"
+msgstr "MÃ"
 
 msgctxt "Languages::slovak"
 msgid "Slovak"
-msgstr "Slovak"
+msgstr "Tiếng Slovak"
 
 msgctxt "Languages::slow"
 msgid "Slow"
-msgstr "Slow"
+msgstr "Chậm"
 
 msgctxt "Languages::small_items"
 msgid "Small items"
-msgstr "Small items"
+msgstr "Mục nhỏ"
 
 msgctxt "Languages::smarty_block"
 msgid "HTML block with Smarty support"
-msgstr "HTML block with Smarty support"
+msgstr "Khối HTML với hỗ trợ Smarty"
 
 msgctxt "Languages::sms_customer_registered"
 msgid "Customer [name] has been registered."
@@ -9662,147 +9662,147 @@ msgstr "Statistics"
 
 msgctxt "Languages::status"
 msgid "Status"
-msgstr "Status"
+msgstr "Trạng thái"
 
 msgctxt "Languages::status_changed"
 msgid "Status has been changed"
-msgstr "Status has been changed"
+msgstr "Trạng thái đã được thay đổi"
 
 msgctxt "Languages::status_changed_after_process_payment"
 msgid "Order status was set according to the payment processing result"
-msgstr "Order status was set according to the payment processing result"
+msgstr "Trạng thái đơn hàng đã được thiết lập theo xử lý kết quả thanh toán"
 
 msgctxt "Languages::stay_connected"
 msgid "Stay Connected"
-msgstr "Stay Connected"
+msgstr "Giữ kết nối"
 
 msgctxt "Languages::stay_connected_notice"
 msgid "Enter your email address to receive special offers and promotions."
-msgstr "Enter your email address to receive special offers and promotions."
+msgstr "Nhập địa chỉ email của bạn để nhận các thông tin khuyến mãi đặc biệt."
 
 msgctxt "Languages::step_four"
 msgid "Step 4"
-msgstr "Step 4"
+msgstr "Bước 4"
 
 msgctxt "Languages::step_one"
 msgid "Step 1"
-msgstr "Step 1"
+msgstr "Bước 1"
 
 msgctxt "Languages::step_three"
 msgid "Step 3"
-msgstr "Step 3"
+msgstr "Bước 3"
 
 msgctxt "Languages::step_two"
 msgid "Step 2"
-msgstr "Step 2"
+msgstr "Bước 2"
 
 msgctxt "Languages::stop_other_rules"
 msgid "Stop other rules"
-msgstr "Stop other rules"
+msgstr "Dừng các quy tắc khác"
 
 msgctxt "Languages::storage"
 msgid "Storage"
-msgstr "Storage"
+msgstr "Lưu trữ"
 
 msgctxt "Languages::store"
 msgid "Store"
-msgstr "Store"
+msgstr "Cửa hàng"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
-msgstr "Storefront"
+msgstr "Cửa hàng"
 
 msgctxt "Languages::storefront_url"
 msgid "Storefront URL"
-msgstr "Storefront URL"
+msgstr "URL trang chủ"
 
 msgctxt "Languages::storefront_url_already_exists"
 msgid "The value of the <strong>Storefront URL</strong> parameter mentioned by you already belongs to another company."
-msgstr "The value of the <strong>Storefront URL</strong> parameter mentioned by you already belongs to another company."
+msgstr "Giá trị của các tham số <strong>URL trang an toàn</strong> được đề cập bởi bạn đã thuộc về một công ty khác."
 
 msgctxt "Languages::storefront_url_not_defined"
 msgid "Storefront URL not defined"
-msgstr "Storefront URL not defined"
+msgstr "URL trang không xác định"
 
 msgctxt "Languages::stores"
 msgid "Stores"
-msgstr "Stores"
+msgstr "Cửa hàng"
 
 msgctxt "Languages::store_locator"
 msgid "Store locator"
-msgstr "Store locator"
+msgstr "Địa điểm cửa hàng"
 
 msgctxt "Languages::store_mode"
 msgid "Licensing mode"
-msgstr "Licensing mode"
+msgstr "Chế độ cấp phép"
 
 msgctxt "Languages::store_mode_changed"
 msgid "Licensing mode has been changed"
-msgstr "Licensing mode has been changed"
+msgstr "Chế độ cấp phép đã được thay đổi"
 
 msgctxt "Languages::store_number"
 msgid "Store number"
-msgstr "Store number"
+msgstr "Số cửa hàng"
 
 msgctxt "Languages::store_object_denied"
 msgid "The [object_type] [object_name] is unavailable for this store."
-msgstr "The [object_type] [object_name] is unavailable for this store."
+msgstr "Đối tượng [object_type] [object_name] là không có sẵn cho cửa hàng này."
 
 msgctxt "Languages::store_theme"
 msgid "Storefront theme"
-msgstr "Storefront theme"
+msgstr "Chủ đề trang"
 
 msgctxt "Languages::store_mode_will_be_changed_to_free"
 msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Kiểm tra cài đặt trọn vẹn không thành công. Cửa hàng của bạn sẽ chuyển sang chế độ miễn phí trong vòng 2 ngày. Xin vui lòng liên hệ với <a href=\"[href]\">bộ phận hỗ trợ</a> của chúng tôi"
 
 msgctxt "Languages::store_mode_will_be_changed_to_trial"
 msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Kiểm tra cài đặt trọn vẹn không thành công. Cửa hàng của bạn sẽ chuyển sang chế độ miễn phí trong vòng 2 ngày. Xin vui lòng liên hệ với <a href=\"[href]\">bộ phận hỗ trợ</a> của chúng tôi"
 
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
-msgstr "Subcategories"
+msgstr "Danh mục con"
 
 msgctxt "Languages::submit"
 msgid "Submit"
-msgstr "Submit"
+msgstr "Gửi"
 
 msgctxt "Languages::submit_my_order"
 msgid "Submit my order"
-msgstr "Submit my order"
+msgstr "Gửi đơn hàng của tôi"
 
 msgctxt "Languages::subpages"
 msgid "Subpages"
-msgstr "Subpages"
+msgstr "Trang con"
 
 msgctxt "Languages::subscribe"
 msgid "Subscribe"
-msgstr "Subscribe"
+msgstr "Đăng ký"
 
 msgctxt "Languages::subscriber"
 msgid "Subscriber"
-msgstr "Subscriber"
+msgstr "Đăng ký nhận tin"
 
 msgctxt "Languages::subscribers"
 msgid "Subscribers"
-msgstr "Subscribers"
+msgstr "Đăng ký nhận tin"
 
 msgctxt "Languages::subscriber_email"
 msgid "Subscriber email"
-msgstr "Subscriber email"
+msgstr "Email đăng ký nhận tin"
 
 msgctxt "Languages::subscriptions"
 msgid "Subscriptions"
-msgstr "Subscriptions"
+msgstr "Đăng ký nhận tin"
 
 msgctxt "Languages::subtotal"
 msgid "Subtotal"
-msgstr "Subtotal"
+msgstr "Tổng"
 
 msgctxt "Languages::subtotal_sum"
 msgid "Subtotal sum"
-msgstr "Subtotal sum"
+msgstr "Tổng tóm tắt"
 
 msgctxt "Languages::suburb"
 msgid "Suburb"
@@ -9810,55 +9810,55 @@ msgstr "Suburb"
 
 msgctxt "Languages::successful"
 msgid "Successful"
-msgstr "Successful"
+msgstr "Thành công"
 
 msgctxt "Languages::successfully_registered"
 msgid "Successfully registered"
-msgstr "Successfully registered"
+msgstr "Đăng ký thành công"
 
 msgctxt "Languages::successful_login"
 msgid "You have been successfully logged in."
-msgstr "You have been successfully logged in."
+msgstr "Bạn đã đăng nhập thành công."
 
 msgctxt "Languages::success_registration_text"
 msgid "Congratulations! The registration was successful!<br/>Now, you have full access to all the store features. Click on \"My account\" to see them."
-msgstr "Congratulations! The registration was successful!<br/>Now, you have full access to all the store features. Click on \"My account\" to see them."
+msgstr "Xin chúc mừng! Việc đăng ký đã thành công! <br/> Bây giờ, bạn có thể truy cập vào tất cả các tính năng cửa hàng. Bấm vào \"Tài khoản của tôi\" để nhìn thấy chúng."
 
 msgctxt "Languages::suffix"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "Hậu tố"
 
 msgctxt "Languages::summary"
 msgid "Summary"
-msgstr "Summary"
+msgstr "Tóm tắt"
 
 msgctxt "Languages::supplier"
 msgid "Supplier"
-msgstr "Supplier"
+msgstr "Nhà cung cấp"
 
 msgctxt "Languages::suppliers"
 msgid "Suppliers"
-msgstr "Suppliers"
+msgstr "Nhà cung cấp"
 
 msgctxt "Languages::supplier_id"
 msgid "Supplier"
-msgstr "Supplier"
+msgstr "Nhà cung cấp"
 
 msgctxt "Languages::surcharge"
 msgid "Surcharge"
-msgstr "Surcharge"
+msgstr "Phụ phí"
 
 msgctxt "Languages::surcharge_title"
 msgid "Surcharge title"
-msgstr "Surcharge title"
+msgstr "Tiêu đề phụ phí"
 
 msgctxt "Languages::sweden"
 msgid "Sweden"
-msgstr "Sweden"
+msgstr "Thuỵ Điển"
 
 msgctxt "Languages::swedish"
 msgid "Swedish"
-msgstr "Swedish"
+msgstr "Tiếng Thụy Điển"
 
 msgctxt "Languages::swing"
 msgid "Swing"
@@ -10058,19 +10058,19 @@ msgstr "Grams"
 
 msgctxt "Languages::temando_weight_kilograms"
 msgid "Kilograms"
-msgstr "Kilograms"
+msgstr "Kilogram"
 
 msgctxt "Languages::temando_weight_ounces"
 msgid "Ounces"
-msgstr "Ounces"
+msgstr "Ounce"
 
 msgctxt "Languages::temando_weight_pounds"
 msgid "Pounds"
-msgstr "Pounds"
+msgstr "Bảng Anh"
 
 msgctxt "Languages::template"
 msgid "Template"
-msgstr "Template"
+msgstr "Mẫu giao diện"
 
 msgctxt "Languages::templates_tree"
 msgid "Templates tree"
@@ -10078,35 +10078,35 @@ msgstr "Templates tree"
 
 msgctxt "Languages::file_editor"
 msgid "File editor"
-msgstr "File editor"
+msgstr "Trình soạn thảo tập tin"
 
 msgctxt "Languages::terminal"
 msgid "Terminal"
-msgstr "Terminal"
+msgstr "Thiết bị đầu cuối"
 
 msgctxt "Languages::terminal_id"
 msgid "Terminal ID"
-msgstr "Terminal ID"
+msgstr "ID thiết bị đầu cuối"
 
 msgctxt "Languages::test"
 msgid "Test"
-msgstr "Test"
+msgstr "Thử nghiệm"
 
 msgctxt "Languages::test_live_mode"
 msgid "Test/Live mode"
-msgstr "Test/Live mode"
+msgstr "Chế độ Thử nghiệm/Trực tiếp"
 
 msgctxt "Languages::test_mode"
 msgid "Test mode"
-msgstr "Test mode"
+msgstr "Chế độ thử nghiệm"
 
 msgctxt "Languages::text"
 msgid "Text"
-msgstr "Text"
+msgstr "Văn bản"
 
 msgctxt "Languages::textarea"
 msgid "Text area"
-msgstr "Text area"
+msgstr "Khu vực văn bản"
 
 msgctxt "Languages::text_2checkout_notice"
 msgid "<b>Note</b>: In order to track your 2Checkout orders with the shopping cart software you have to take these steps:<br /><br />-&nbsp;Log in to your 2Checkout account<br />-&nbsp;Click on <u>'Site management'</u> in the <u>'Account'</u> section.<br />-&nbsp;Select <b>'Given links back to my website'</b> option in the <u>'Direct Return'</u> subsection <br />-&nbsp;Set <u>'Approved URL'</u> and <u>'Pending URL'</u> to:<br /><b>[return_url]</b><br />-&nbsp;Set <u>'Secret Word'</u>. The Secret Word is known only to the seller and 2CheckOut.<br />"
@@ -10114,55 +10114,55 @@ msgstr "<b>Note</b>: In order to track your 2Checkout orders with the shopping c
 
 msgctxt "Languages::text_2co_ins"
 msgid "Instant Notification Service (INS)"
-msgstr "Instant Notification Service (INS)"
+msgstr "Dịch vụ thông báo ngay lập tức (INS)"
 
 msgctxt "Languages::text_additional_detailed_image"
 msgid "(displayed in popup window)"
-msgstr "(displayed in popup window)"
+msgstr "(hiển thị trong cửa sổ bật lên)"
 
 msgctxt "Languages::text_additional_thumbnail"
 msgid "(displayed on product details page in \"Additional images\")"
-msgstr "(displayed on product details page in \"Additional images\")"
+msgstr "(hiển thị trên trang chi tiết sản phẩm trong \"Hình ảnh bổ sung\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
+msgstr "Tiện ích \"[addon_name]\" là không tương thích với các tiện ích sau đây: [addons]. Nó không thể được kích hoạt"
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
+msgstr "Tiện ích \"[addon_name]\" là không tương thích với các tiện ích sau đây: [addons]. Các tiện ích sẽ được tự động vô hiệu hóa."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
+msgstr "Tiện ích \"[addon_name]\" là không tương thích với các tiện ích sau đây: [addons]. Nó đã không được được kích hoạt. Kích hoạt nó bằng tay và tất cả các tiện ích không tương thích sẽ được tự động vô hiệu."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
-msgstr "The <b>\"[addon]\"</b> add-on has been installed successfully"
+msgstr "Tiện ích <b>\"[addon]\"</b> đã được cài đặt thành công"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
-msgstr "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
+msgstr "Tiện ích không được cài đặt bởi vì có sự phụ thuộc vào tiện ích [addon] được thiết lập cho nó. Xin vui lòng cài đặt tiện ích [addon] trước."
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "The <b>\"[addon]\"</b> add-on has been uninstalled."
+msgstr "Tiện ích <b>\"[addon]\"</b> đã được gỡ cài đặt."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
-msgstr "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
+msgstr "Tiện ích không thể gỡ cài đặt bởi vì tiện ích sau đây phụ thuộc vào nó: [addons]"
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
-msgstr "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
+msgstr "Bạn có thể sử dụng ký tự đại diện trong lĩnh vực này: <br /> <b>'? '</b> - bất kỳ ký tự đơn; <b>'* '</b> - bất kỳ số lượng các ký tự. <br /> <br /> <u>ví dụ:</u> < br / > <b>* đường phố</b> (tương ứng với 1st Street, 102 Street, vv)"
 
 msgctxt "Languages::text_admin_new_orders"
 msgid "This section shows the orders you have never viewed."
-msgstr "This section shows the orders you have never viewed."
+msgstr "Phần này cho thấy các đơn đặt hàng bạn đã chưa bao giờ được xem."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Các phần tập tin mở rộng sau đây được hỗ trợ: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10170,39 +10170,39 @@ msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as th
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
-msgstr "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
+msgstr "Không có phản ứng từ Amazon Checkout đã nhận được hay chưa, xin vui lòng chờ. Mặc dù đơn hàng có thể không được tạo ra trong cửa hàng, có thể nó đã được tạo thành công và xử lý bởi Amazon Checkout. Xin vui lòng liên hệ với nhân viên cửa hàng và nói với họ ID đơn đặt hàng theo quy định của Amazon"
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
-msgstr "Number of products in your cart differs from the number of products in the Amazon request."
+msgstr "Số lượng sản phẩm trong giỏ hàng của bạn khác với số lượng sản phẩm trong yêu cầu Amazon."
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
+msgstr "Cho mục đích thử nghiệm, URL Thương gia có thể là liên kết HTTP đến cửa hàng của bạn, nhưng chế độ trực tiếp là yêu cầu kết nối an toàn và bạn phải sử dụng liên kết HTTPS. Ngoài ra, nhớ kích hoạt chế độ sản phẩm trên trang web của Amazon Seller Central khi bạn đã sẵn sàng để bán trực tiếp."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
-msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
+msgstr "<b>Lưu ý:</b> Theo Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'> chính sách</a> (B4.2), phụ phí không được hỗ trợ. Bất kỳ phụ phí bạn đã cài sẽ bị bỏ qua khi Amazon Checkout được sử dụng."
 
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
-msgstr "You must be a registered user to proceed to checkout"
+msgstr "Bạn phải là người dùng đã đăng ký để tiến hành thanh toán"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "Tính lại phí vận chuyển"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
-msgstr "Applied promotions"
+msgstr "Áp dụng chương trình khuyến mãi"
 
 msgctxt "Languages::text_are_you_sure_to_delete_file"
 msgid "Are you sure you want to delete the item?"
-msgstr "Are you sure you want to delete the item?"
+msgstr "Bạn có chắc bạn muốn xóa mục không?"
 
 msgctxt "Languages::text_are_you_sure_to_proceed"
 msgid "Are you sure you want to proceed?"
-msgstr "Are you sure you want to proceed?"
+msgstr "Bạn có chắc bạn muốn tiếp tục không?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
@@ -10218,7 +10218,7 @@ msgstr "Your financial institution has indicated that it could not successfully 
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "Để tải xuống bản sao lưu này, nhấp vào biểu tượng bánh răng và chọn tải về"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10226,35 +10226,35 @@ msgstr "This section allows you to manage your backup files.<br />- To restore t
 
 msgctxt "Languages::text_billing_same_with_shipping"
 msgid "Billing and shipping addresses are the same"
-msgstr "Billing and shipping addresses are the same"
+msgstr "Địa chỉ Thanh toán và Vận chuyển là giống nhau"
 
 msgctxt "Languages::text_block_trial_notice"
 msgid "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
-msgstr "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
+msgstr "Giai đoạn dùng thử 30 ngày của bạn đã hết hạn. Xin vui lòng, mua một giấy phép ([href]) hoặc loại bỏ phần mềm khỏi máy chủ của bạn."
 
 msgctxt "Languages::text_cannot_create_directory"
 msgid "Cannot create the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot create the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Không thể tạo thư mục <b>[directory]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_create_file"
 msgid "Cannot create the file <b>[file]</b>. Please check the directory permissions."
-msgstr "Cannot create the file <b>[file]</b>. Please check the directory permissions."
+msgstr "Không thể tạo tập tin <b>[file]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_delete_directory"
 msgid "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot delete the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Không thể xoá thư mục <b>[directory]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_delete_file"
 msgid "Cannot delete the file <b>[file]</b>. Please check the permissions."
-msgstr "Cannot delete the file <b>[file]</b>. Please check the permissions."
+msgstr "Không thể xóa tập tin <b>[file]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_rename_directory"
 msgid "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
-msgstr "Cannot rename the directory <b>[directory]</b>. Please check the permissions."
+msgstr "Không thể đổi tên thư mục <b>[directory]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_rename_file"
 msgid "Cannot rename the file <b>[file]</b>. Please check the permissions."
-msgstr "Cannot rename the file <b>[file]</b>. Please check the permissions."
+msgstr "Không thể đổi tên tập tin <b>[file]</b>. Xin vui lòng kiểm tra quyền truy cập."
 
 msgctxt "Languages::text_cannot_restore_directory"
 msgid "Cannot restore the directory <b>[directory]</b> from the repository. Please check if the repository exists."
@@ -10426,11 +10426,11 @@ msgstr "Your changes have not been saved.Press OK to continue, or Cancel to stay
 
 msgctxt "Languages::text_decrease_points_in_use"
 msgid "The points used in the order were subtracted from user account."
-msgstr "The points used in the order were subtracted from user account."
+msgstr "Điểm được sử dụng theo đươn hàng được trừ từ tài khoản người dùng."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
+msgstr "<b>Lưu ý:</b> Xin vui lòng gửi các thông tin sau để hỗ trợ DeltaPay: <br /> Trang thanh toán: ' <u>[payment_url]'</u> <br /> Trang thành công: ' <u>[result_url]'</u> <br / > Trang thất bại: ' <u>[result_url]'</u> <br /> Trang hủy bỏ: ' <u>[result_url]'</u> <br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
@@ -10454,23 +10454,23 @@ msgstr "The directory <b>[directory]</b> has been restored from the repository"
 
 msgctxt "Languages::text_downloads_empty"
 msgid "Your downloads list is empty"
-msgstr "Your downloads list is empty"
+msgstr "Danh sách tải về của bạn chưa có mục nào"
 
 msgctxt "Languages::text_editing"
 msgid "Text editing"
-msgstr "Text editing"
+msgstr "Chỉnh sửa văn bản"
 
 msgctxt "Languages::text_edp_product"
 msgid "This product is electronically distributed"
-msgstr "This product is electronically distributed"
+msgstr "Sản phẩm này phân phối trực tuyến và có thể tải về"
 
 msgctxt "Languages::text_ekey_not_valid"
 msgid "The confirmation link is invalid or has expired."
-msgstr "The confirmation link is invalid or has expired."
+msgstr "Liên kết xác nhận là không hợp lệ hoặc đã hết hạn."
 
 msgctxt "Languages::text_email_sent"
 msgid "E-mail has been sent successfully."
-msgstr "E-mail has been sent successfully."
+msgstr "Email đã được gửi thành công."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
@@ -10482,23 +10482,23 @@ msgstr "Please send the following URL to the eNPS manager as a response URL for 
 
 msgctxt "Languages::text_enter_filename"
 msgid "Please enter a new file name"
-msgstr "Please enter a new file name"
+msgstr "Xin vui lòng nhập tên tập tin mới"
 
 msgctxt "Languages::text_exim_data_exported"
 msgid "Data is exported successfully"
-msgstr "Data is exported successfully"
+msgstr "Dữ liệu được xuất thành công"
 
 msgctxt "Languages::text_exim_data_imported"
 msgid "Data is imported successfully.<br />New objects - <b>[new]</b>;<br />Updated objects - <b>[exist]</b>;<br />Skipped objects - <b>[skipped]</b>;<br />Total - <b>[total]</b>."
-msgstr "Data is imported successfully.<br />New objects - <b>[new]</b>;<br />Updated objects - <b>[exist]</b>;<br />Skipped objects - <b>[skipped]</b>;<br />Total - <b>[total]</b>."
+msgstr "Dữ liệu được nhập thành công. <br /> Các đối tượng mới - <b>[new]</b>; <br /> Cập nhật các đối tượng - <b>[exist]</b>; <br /> Bỏ qua các đối tượng - <b>[skipped]</b>; <br /> Tổng số - <b>[total]</b>."
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Data is imported successfully."
+msgstr "Dữ liệu được nhập thành công."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
-msgstr "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
+msgstr "Dưới đây là danh sách các mục có thể được xuất dữ liệu. Các mục <b>được đánh dấu</b> là không bắt buộc."
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
