@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-25 10:04-0400\n"
+"PO-Revision-Date: 2015-07-03 03:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3678,7 +3678,7 @@ msgstr "Následující pole jsou požadována a nemohou být odstraněna z návr
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Žádná data exportována. Nesprávný export rozsahu je pravděpodobně příčinou tohoto problému. <a class=\"cm-post\" href=\"[url]\">Zrušte export rozsahu</a> a zkuste to znovu"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -11177,6 +11177,10 @@ msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
 msgstr "Neomezený přístup ke všem funkcím během 30denní zkušební doby, počínaje od momentu aktivace.<br /><br />Na konci 30denní zkušební doby se tento režim vypne a automaticky bude aktivován režim Zdarma.<br /><br />"
 
+msgctxt "Languages::text_store_mode_trial_rb"
+msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Všechny funkce jsou k dispozici v průběhu 30 dnů po stažení instalačního balíčku. Nemusíte zadávat licenční klíč.<br /><br />Po uplynutí zkušební doby 30-dnů je konce, budete muset koupit licenci nebo zadat licenční klíč, pokud již máte jeden.<br /><br />"
+
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
 msgstr "Poplatek <b>[tax]</b> byl použit na všechny produkty"
@@ -12124,6 +12128,22 @@ msgstr "Nelze aktivovat zkušební režim"
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
 msgstr "Váš obchod je ve zkušebním režimu.<br /><br />Na konci 30denní zkušební lhůty bude automaticky aktivován režim Zdarma.<br /><br />Pro zachování přístupu ke všem funkcím po vypršení zkušební doby si zakupte licenci a <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivujte si plnou verzi</a>."
+
+msgctxt "Languages::trial_expired"
+msgid "Your trial version of [product] is finished"
+msgstr "Vaše zkušební verze [product] je dokončena"
+
+msgctxt "Languages::text_input_license_code"
+msgid "To continue working with [product] enter the license key"
+msgstr "Chcete-li pokračovat v práci s [product], zadejte licenční klíč"
+
+msgctxt "Languages::text_buy_new_license"
+msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Pokud nemáte licenční klíč, můžete si jej koupit na našich oficiálních stránkách<br/>[buy_license]"
+
+msgctxt "Languages::buy_license"
+msgid "Buy the license"
+msgstr "Koupit licenci"
 
 msgctxt "Languages::true"
 msgid "True"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/reward_points.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-23 16:03-0400\n"
+"PO-Revision-Date: 2015-07-01 05:03-0400\n"
 
 msgctxt "Addons::name::reward_points"
 msgid "Reward points"
@@ -18,7 +18,7 @@ msgstr "Puntos de recompensa"
 
 msgctxt "Addons::description::reward_points"
 msgid "Lets customers earn and spend points for purchases"
-msgstr "Lets customers earn and spend points for purchases"
+msgstr "Permite a los clientes ganar y gastar puntos para compras"
 
 msgctxt "Languages::reward_points"
 msgid "Reward points"
@@ -30,11 +30,11 @@ msgstr "Registro de puntos de recompensa"
 
 msgctxt "Languages::reward_points_menu_description"
 msgid "Assign global reward points in your store."
-msgstr "Assign global reward points in your store."
+msgstr "Asignar puntos de recompensa global en su tienda."
 
 msgctxt "Languages::promotion_cond_reward_points"
 msgid "Points on user account"
-msgstr "Points on user account"
+msgstr "Puntos de cuenta de usuario"
 
 msgctxt "Languages::points"
 msgid "Points"
@@ -46,11 +46,19 @@ msgstr "Puntos en uso"
 
 msgctxt "Languages::points_in_use_lower"
 msgid "points in use"
-msgstr "points in use"
+msgstr "Puntos en uso"
 
 msgctxt "Languages::points_lower"
 msgid "points"
 msgstr "puntos"
+
+msgctxt "Languages::points_in_use_lowercase"
+msgid "[n] point in use|[n] points in use"
+msgstr "punto de [n] en puntos use|[n] en uso"
+
+msgctxt "Languages::points_lowercase"
+msgid "[n] point|[n] points"
+msgstr "[n] point|[n] puntos"
 
 msgctxt "Languages::points_to_use"
 msgid "Points to use"
@@ -114,11 +122,11 @@ msgstr "El estado del pedido no ha sido cambiado porque el usuario no tenía bas
 
 msgctxt "Languages::price_in_points_increased"
 msgid "Price in points has been increased by"
-msgstr "Price in points has been increased by"
+msgstr "Precio en puntos se ha incrementado en"
 
 msgctxt "Languages::price_in_points_decreased"
 msgid "Price in points has been decreased by"
-msgstr "Price in points has been decreased by"
+msgstr "Precio en puntos se ha reducido por"
 
 msgctxt "Languages::earned_points"
 msgid "Points earned per product"
@@ -130,7 +138,7 @@ msgstr "Anule el valor global de puntos para todos los productos de esta categor
 
 msgctxt "Languages::amount_type"
 msgid "Amount type"
-msgstr "Amount type"
+msgstr "Tipo de cantidad"
 
 msgctxt "Languages::maximum"
 msgid "Maximum"
@@ -162,7 +170,7 @@ msgstr "Cambiar puntos"
 
 msgctxt "Languages::add_subtract_points"
 msgid "Add & subtract points"
-msgstr "Add & subtract points"
+msgstr "Añadir y restar puntos"
 
 msgctxt "Languages::cleanup_log"
 msgid "Cleanup log"
@@ -182,7 +190,7 @@ msgstr "han sido restados de su cuenta."
 
 msgctxt "Languages::privileges.manage_reward_points"
 msgid "Manage reward points system"
-msgstr "Manage reward points system"
+msgstr "Administrar el sistema de puntos de recompensa"
 
 msgctxt "SettingsSections::reward_points::general"
 msgid "General"
@@ -206,11 +214,11 @@ msgstr "\"Puntos\" son recalculados teniendo descuentos en cuenta"
 
 msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
 msgid "\"Price in points\" is recalculated taking into account order discounts"
-msgstr "\"Price in points\" is recalculated taking into account order discounts"
+msgstr "\"Precio en puntos\" es recalculado teniendo en cuenta los descuentos"
 
 msgctxt "SettingsOptions::reward_points::reward_points_order_discount"
 msgid "\"Points\" is recalculated taking into account order discounts"
-msgstr "\"Points\" is recalculated taking into account order discounts"
+msgstr "\"Puntos\" se vuelve a calcular teniendo en cuenta descuentos de orden"
 
 msgctxt "SettingsOptions::reward_points::higher_level_extract"
 msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
@@ -222,7 +230,7 @@ msgstr "Si varios puntos de recompensa pueden ser aplicados, elegir"
 
 msgctxt "SettingsOptions::reward_points::consider_zero_values"
 msgid "Apply zero reward point values"
-msgstr "Apply zero reward point values"
+msgstr "Aplicar valores de cero puntos de recompensa"
 
 msgctxt "SettingsOptions::reward_points::log_per_page"
 msgid "Log lines per page"
@@ -230,21 +238,21 @@ msgstr "Líneas de registro por página"
 
 msgctxt "SettingsTooltips::reward_points::consider_zero_values"
 msgid "The reward points rules with the zero values should be considered"
-msgstr "The reward points rules with the zero values should be considered"
+msgstr "El Reglamento de puntos de recompensa con los valores cero se debe considerar"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
 msgid "Absolute minimal value"
-msgstr "Absolute minimal value"
+msgstr "Valor mínimo absoluto"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
 msgid "Minimal percentage value"
-msgstr "Minimal percentage value"
+msgstr "Porcentaje mínimo de valor"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
 msgid "Absolute maximal value"
-msgstr "Absolute maximal value"
+msgstr "Valor máximo absoluto"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
 msgid "Maximal percentage value"
-msgstr "Maximal percentage value"
+msgstr "Porcentaje mínimo de valor"
 

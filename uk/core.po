@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-25 10:06-0400\n"
+"PO-Revision-Date: 2015-07-02 10:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11178,6 +11178,10 @@ msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
 msgstr "Всі функції доступні протягом 30 днів з моменту активації. Введення номера ліцензії не потрібно. <br /><br />Через 30 днів після активації цей режим стане недоступний, і автоматично активується Безкоштовний режим.<br /><br />"
 
+msgctxt "Languages::text_store_mode_trial_rb"
+msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
 msgstr "Податок <b>[tax]</b> був застосований до всіх товарів"
@@ -12125,6 +12129,22 @@ msgstr "Пробний період не може бути включено"
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
 msgstr "Магазин працює в пробному режимі. <br /><br />Після закінчення 30-денного пробного періоду магазин буде автоматично переведено на Безкоштовний режим. <br /><br />Для того щоб зберегти повний доступ до всіх функцій магазину після закінчення пробного періоду і назавжди прибрати це повідомлення, придбайте ліцензію і <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">активуйте Повний режим</a>."
+
+msgctxt "Languages::trial_expired"
+msgid "Your trial version of [product] is finished"
+msgstr "Your trial version of [product] is finished"
+
+msgctxt "Languages::text_input_license_code"
+msgid "To continue working with [product] enter the license key"
+msgstr "To continue working with [product] enter the license key"
+
+msgctxt "Languages::text_buy_new_license"
+msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+
+msgctxt "Languages::buy_license"
+msgid "Buy the license"
+msgstr "Buy the license"
 
 msgctxt "Languages::true"
 msgid "True"

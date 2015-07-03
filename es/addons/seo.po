@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/seo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-23 16:03-0400\n"
+"PO-Revision-Date: 2015-07-01 05:03-0400\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -18,11 +18,11 @@ msgstr "SEO"
 
 msgctxt "Addons::description::seo"
 msgid "Adds Search engine-friendly URLs support"
-msgstr "Adds Search engine-friendly URLs support"
+msgstr "Agrega compatibilidad con búsqueda motor-friendly URLs"
 
 msgctxt "Languages::seo_rules_menu_description"
 msgid "Use this section to define global rules for the URLs rewritten in your store."
-msgstr "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Utilice esta sección para definir normas globales para las URLs reescritas en su tienda."
 
 msgctxt "Languages::seo.redirects_manager_menu_description"
 msgid "Manages redirect rules from old URLs"
@@ -30,7 +30,7 @@ msgstr "Gestiona las reglas de redirección desde URLs antiguas"
 
 msgctxt "Languages::controller_description"
 msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
-msgstr "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Si desea especificar un nombre de SEO para la URL, por ejemplo, http://example.com/index.php?dispatch= <b>categories.catalog</b>, deberás entrar el valor \"<b>categories.catalog</b>\" en el campo \"<b>el valor del parámetro\"despacho\"de la URL</b>\" y especificar el nombre SEO en el campo \"<b>nombre SEO</b>\"."
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
@@ -38,15 +38,15 @@ msgstr "Nombre SEO"
 
 msgctxt "Languages::warning_seo_urls_disabled"
 msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
-msgstr "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO-friendly URLs están deshabilitadas. Compruebe la configuración de su servidor web y URL manipulación motor."
 
 msgctxt "Languages::dispatch_value"
 msgid "Dispatch value"
-msgstr "Dispatch value"
+msgstr "Valor de envío"
 
 msgctxt "Languages::url_dispatch_part"
 msgid "The value of the \"dispatch\" parameter from the URL"
-msgstr "The value of the \"dispatch\" parameter from the URL"
+msgstr "El valor del parámetro \"despacho\" de la URL"
 
 msgctxt "Languages::new_rule"
 msgid "New rule"
@@ -86,31 +86,31 @@ msgstr "Redirección nueva"
 
 msgctxt "Languages::seo.error_old_url_exists"
 msgid "The URL you're redirecting from is already exist"
-msgstr "The URL you're redirecting from is already exist"
+msgstr "La URL está redireccionando desde ya se existen"
 
 msgctxt "Languages::seo.rich_snippets"
 msgid "Google rich snippets preview"
-msgstr "Google rich snippets preview"
+msgstr "Google los fragmentos enriquecidos de previsualización"
 
 msgctxt "Languages::seo.rich_snippets_rating"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Valorar"
 
 msgctxt "Languages::seo.rich_snippets_reviews"
 msgid "[n] review|[n] reviews"
-msgstr "[n] review|[n] reviews"
+msgstr "[n] revisión|[n] comentarios"
 
 msgctxt "Languages::seo.create_redirect"
 msgid "Create redirect from old URL"
-msgstr "Create redirect from old URL"
+msgstr "Crear redirección de URL vieja"
 
 msgctxt "Languages::seo.error_incorrect_url"
 msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Formato incorrecto para la dirección URL <b>[url]</b>. Por ejemplo, si su URL es <b>http://example.com/path/to/object</b>, necesita entrar <b>en/ruta/a/objeto</b>"
 
 msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
 msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
-msgstr "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Por ejemplo, si su URL es <b>http://example.com/path/to/object</b>, necesita entrar <b>en/ruta/a/objeto</b>"
 
 msgctxt "SettingsSections::seo::general"
 msgid "General"
@@ -126,11 +126,11 @@ msgstr "Tipo de SEO àra Categorías, Fabricantes y Temas"
 
 msgctxt "SettingsOptions::seo::seo_page_type"
 msgid "Page SEO URL format"
-msgstr "Page SEO URL format"
+msgstr "Formato página SEO URL"
 
 msgctxt "SettingsOptions::seo::seo_other_type"
 msgid "Other SEO URL format"
-msgstr "Other SEO URL format"
+msgstr "Otro formato de URL SEO"
 
 msgctxt "SettingsOptions::seo::seo_language"
 msgid "Show language in the URL"

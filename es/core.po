@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-25 10:03-0400\n"
+"PO-Revision-Date: 2015-07-02 10:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Añadir al carrito"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Añadir a la lista de comparación"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -2050,11 +2050,11 @@ msgstr "Comparar"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista de comparación"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Ir a la lista de comparación de productos"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3678,7 +3678,7 @@ msgstr "Los campos siguientes son requeridos y no pueden ser quitados del diseñ
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "No hay datos exportados. El rango de exportación incorrecta es probablemente la causa de este problema. <a class=\"cm-post\" href=\"[url]\"> Borrar </a> rango de exportación, vuelva a intentarlo"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -7357,7 +7357,7 @@ msgstr "El producto ha sido añadido a su carrito"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "El producto fue agregado a tu lista de comparación"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7425,7 +7425,7 @@ msgstr "Este producto ya está en el carro"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Este producto ya está en la lista de comparación"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -10137,11 +10137,11 @@ msgstr "El complemento \"[addon_name]\" es incompatible con los siguientes compl
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
+msgstr "\"[addon_name]\" es incompatible con los siguientes complementos: [addons]. No pudo ser habilitado. Habilitar manualmente y todos los complementos incompatibles se desactivará automáticamente."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
-msgstr "The <b>\"[addon]\"</b> add-on has been installed successfully"
+msgstr "El complemento <b>\"[addon]\"</b> se ha instalado con éxito"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
@@ -10149,11 +10149,11 @@ msgstr "El complemento no se puede instalar porque depende del complemento [addo
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "The <b>\"[addon]\"</b> add-on has been uninstalled."
+msgstr "Se ha desinstalado el complemento <b>\"[addon]\"</b>."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
-msgstr "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
+msgstr "El complemento no se puede desinstalar ya dependen de los siguientes complementos: [addons]"
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
@@ -10165,15 +10165,15 @@ msgstr "Esta sección le muestra pedidos que nunca ha visto."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "Son compatibles las siguientes extensiones de archivo: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
+msgstr "Importante! Debe especificar la dirección URL de su tienda <b>[callback_url]</b> como la dirección URL Mercante en vendedor de la Amazon Central Web (Configuración> Configuración de conducto de Pedido). De lo contrario, usted no será capaz de aceptar pagos a través de Amazon Checkout en su tienda"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
-msgstr "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
+msgstr "Respuesta de pago de Amazon no ha sido recibido todavía, por favor, mantenga. Aunque la orden no puede ser creada en la tienda como fin, es muy probable que ha sido exitosamente creada y procesada por Amazon Checkout. Por favor, póngase en contacto con el personal de la tienda y les digo el order ID proporcionado por Amazon"
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
@@ -10181,11 +10181,11 @@ msgstr "El numero de productos en tu carrito difiere del numero de productos en 
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
+msgstr "Para propósitos de prueba, la URL de comerciante puede ser el enlace HTTP a tu tienda, pero el modo live requiere conexión segura y se debe utilizar el enlace HTTPS. También, recuerde habilitar el modo de producción en el sitio web Central de vendedor de Amazon cuando esté listo para irse a vivir."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
-msgstr "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
+msgstr "<b>Nota:</b> Según la Amazonía <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'> política</a> (B4.2), recargos no son compatibles. Cualquier recargos que puede selecionar se omitirá cuando se utiliza Amazon Checkout."
 
 msgctxt "Languages::text_anonymous_checkout"
 msgid "You must be a registered user to proceed to checkout"
@@ -10213,7 +10213,7 @@ msgstr "<b>Note:</b><br />1. Copy your certificate, which you were sent on the d
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
-msgstr "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
+msgstr "<span style=\"color:#FF2222\"> ADVERTENCIA!</span> La ruta a atos archivos deben consistir en no más de 60 símbolos, de lo contrario por favor copie la carpeta atos_files a un directorio padre, por ejemplo en el directorio de base de carro. También por favor, asegúrese de que el directorio de archivos de atos tiene todos los permisos."
 
 msgctxt "Languages::text_authentication_failed_message"
 msgid "Your financial institution has indicated that it could not successfully authenticate this transaction. To protect against unauthorized use, this card cannot be used to complete your purchase. You may complete the purchase by selecting another form of payment."
@@ -10293,7 +10293,7 @@ msgstr "La cantidad máxima para el \"[product]\" es <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_not_enough_inventory"
 msgid "The number of products in the inventory is not enough for your order"
-msgstr "The number of products in the inventory is not enough for your order"
+msgstr "El número de productos en el inventario no es suficiente para su orden"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
@@ -10329,11 +10329,11 @@ msgstr "Conectando a <b>[processor]</b>..."
 
 msgctxt "Languages::text_cdn_check"
 msgid "<strong>Attention!</strong> Please test some static URL, e.g. <a href=\"[url]\">[url]</a>, to ensure it's working before enabling CDN (you can enable it after storage became active). It usually takes 10-15 minutes to activate storage (the \"Status\" field should display \"Active\", refresh page for updates)."
-msgstr "<strong>Attention!</strong> Please test some static URL, e.g. <a href=\"[url]\">[url]</a>, to ensure it's working before enabling CDN (you can enable it after storage became active). It usually takes 10-15 minutes to activate storage (the \"Status\" field should display \"Active\", refresh page for updates)."
+msgstr "<strong>Atención!</strong> Por favor, prueba algunas URL estática, por ejemplo <a href=\"[url]\"> [url]</a>, para asegurar que funcione antes de habilitar la CDN (usted puede habilitarlo después de almacenamiento llegó a ser activo). Tarda generalmente 10-15 minutos para activar el almacenamiento (el campo \"Estado\" debe mostrar \"Activo\", actualización de página para las actualizaciones)."
 
 msgctxt "Languages::text_cdn_setup"
 msgid "CDN was set up successfully."
-msgstr "CDN was set up successfully."
+msgstr "CDN fue creada con éxito."
 
 msgctxt "Languages::text_changes_not_saved"
 msgid "Your changes have not been saved."
@@ -10341,7 +10341,7 @@ msgstr "Tus cambios no han sido guardados."
 
 msgctxt "Languages::text_changes_saved"
 msgid "Your changes have been saved."
-msgstr "Your changes have been saved."
+msgstr "Los cambios han sido guardados!"
 
 msgctxt "Languages::text_change_password"
 msgid "You are now logged in to your account. Please change the password and click the \"Save\" button."
@@ -10377,7 +10377,7 @@ msgstr "Volver"
 
 msgctxt "Languages::text_combination_out_of_stock"
 msgid "No products with the selected options in stock"
-msgstr "No products with the selected options in stock"
+msgstr "Hay productos con las opciones seleccionadas en la acción"
 
 msgctxt "Languages::text_companies_activated"
 msgid "Selected companies have been activated"
@@ -10393,11 +10393,11 @@ msgstr "Tu empresa ha sido activada."
 
 msgctxt "Languages::text_company_status_changed"
 msgid "Status of your company [company] was changed to [status]."
-msgstr "Status of your company [company] was changed to [status]."
+msgstr "Estado de su [company] de la compañía fue cambiado a [status]."
 
 msgctxt "Languages::text_company_status_disabled_subj"
 msgid "Your company was disabled."
-msgstr "Your company was disabled."
+msgstr "Su empresa fue desactivada."
 
 msgctxt "Languages::text_conditions_cleared"
 msgid "Table conditions were cleared"
@@ -10421,11 +10421,11 @@ msgstr "Logo para área de <b>clientes</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr "<b> Nota: </b>: Con el fin de realizar un seguimiento de sus pedidos Datatrans con el software de carrito de la compra que hay que seguir los siguientes pasos: <br/> <br /> - &nbsp; Acceda a su cuenta de Datatrans <br /> - &nbsp; Haga clic en el enlace <u> 'Upp de datos' </u> en la sección <u> 'Administración Upp' </u> <br/> - &nbsp;. Set <u> 'formato de datos URL post' </u> <b> 'los datos en forma de HTML \"</b> <br/> - &nbsp; Set <u>' URL post '</u> a:. <br/> <b> [post_url] </b> <br/> - &nbsp; Haga clic en el enlace <u> \"Seguridad\" </u> en la sección <u> 'Administración Upp' </u> <br /> - &nbsp;. Seleccione el <b> 'Una identificación comerciante adicional se envía con mensajes de pago' </b> <br/> - &nbsp;.. Generar nueva firma digital utilizando el botón <u> 'Generar nuevo signo' </u> <br/> - &nbsp; Set genera valor al campo <u> \"firma digital\" </u> en la página de configuración de pago Datatrans en su <br/> tienda"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
-msgstr "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
+msgstr "Los cambios no se han salvado. Pulse OK para continuar o cancelar para permanecer en la página actual."
 
 msgctxt "Languages::text_decrease_points_in_use"
 msgid "The points used in the order were subtracted from user account."
@@ -10433,11 +10433,11 @@ msgstr "Los puntos usados en el pedido fueron restados de la cuenta de usuario."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
+msgstr "<b>Nota:</b> Por favor envíe la siguiente información para el apoyo DeltaPay: <br /> página de Pago: '<u>[payment_url]</u>'<br />Página de éxito: '<u>[result_url]</u>'<br /> Página de falla de: '<u>[result_url]</u>'<br />Cancelar página: '<u>[result_url]</u>'<br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
-msgstr "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
+msgstr "Definir 'Vínculo de éxito': <b>[success_url]</b> <br /> Set 'Interrupción link' a: <b>[abort_url]</b> <br /> agregue nuevas notificaciones de HTTP y establezca 'URL de notificación' en: <b>[notification_url]</b> <br /> Activar cheque entrada y 'Hash Algoritm' a la 'SHA1' <br />"
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
@@ -10477,7 +10477,7 @@ msgstr "E-mail enviado con éxito"
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
-msgstr "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
+msgstr "Por favor añadir estos campos de URL en la configuración de forma de pago de comercio electrónico de eMerchantPay: <br/> <br/> <b>BackReturn URL:</b> <br/>[backreturn_url] <br/> <br/> <b>personalizado aprobación URL:</b> <br/>[notify_url] <br/> <br/> <b>Custom disminución URL:</b> <br/>[decline_url] <br/> <br/> <b>Activar notificación URL:</b> <br/>[process_url]"
 
 msgctxt "Languages::text_enets_notice"
 msgid "Please send the following URL to the eNPS manager as a response URL for all the three cases (success, failure, cancel): [r_url]"
@@ -10497,7 +10497,7 @@ msgstr "Los datos fueron importados con éxito.<br />Objetos nuevos - <b>[new]</
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Data is imported successfully."
+msgstr "Datos exportados con éxito."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
@@ -10505,11 +10505,11 @@ msgstr "Abajo está la lista de los campos que pueden ser exportados. Los campos
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
-msgstr "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
+msgstr "<h4>Formato de importación de características</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>donde,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>el ID de la característica</dd><dt>%Group name%</dt><dd>el nombre del grupo de características</dd><dt>%Feature name%</dt><dd>el nombre de la característica</dd><dt>%Feature type%</dt><dd>el tipo de característica (C - checkbox, M - múltiples checkboxes, S - caja de selección de texto, N - caja de selección de número, E - caja de selección extendida, T - texto simple, O - número, D - fecha)</dd><dt>%Feature value%</dt><dd>el valor de la característica (múltiples valores deben ser delimitados por comas)</dd></dl><p>Varias características pueden ser delimitadas por punto y coma.</p><h5>Ejemplo:</h5><code>ISBN: T[1233423423]; Fecha de lanzamiento: D[05/05/07]; Color: S[Red]</code>"
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr "<h4>Formato del archivo de importación</h4><code>%File location%</code> donde, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>puede ser una ruta absoluta o relativa del servidor o una URL</dd> </dl> <p>Varios archivos pueden ser delimitados por coma.</p> <h5>Ejemplo1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
@@ -10525,11 +10525,11 @@ msgstr "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rd
 
 msgctxt "Languages::text_exim_utf8_file_format"
 msgid "Please make sure that the file you are importing has UTF-8 charset for correct import"
-msgstr "Please make sure that the file you are importing has UTF-8 charset for correct import"
+msgstr "Por favor, asegúrese de que el archivo que está importando tiene charset UTF-8 para la correcta importación"
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
-msgstr "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
+msgstr "Por desgracia, su suscripción para el software [product] es sobre. Por favor renovar tan pronto como sea posible para evitar la suspensión del programa."
 
 msgctxt "Languages::tmpl_text_fancybox"
 msgid "FancyBox"
@@ -10537,7 +10537,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "Delimitador entre valores variantes de una característica del producto."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10581,7 +10581,7 @@ msgstr "No esta permitido crear/cargar/renombrar archivos de tipo MIME <b>[mime]
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr "Esta funcionalidad sólo está disponible en el <strong>modo completo</strong>. <br/> <br/> Para tener acceso completo a todas las funciones, compra una licencia y <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> activar el modo completo</a>."
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10589,11 +10589,11 @@ msgstr "No esta permitido subir archivos con extensión <b>.[ext]</b>. Las exten
 
 msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
-msgstr "It is not allowed to upload files with size more than <b>[size]</b>"
+msgstr "No está permitido subir archivos con tamaño más <b>[size]</b>"
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
-msgstr "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
+msgstr "Por favor complete el siguiente pago.<br /> esta es una página de pago seguro, desde un lugar seguro."
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -10601,7 +10601,7 @@ msgstr "<strong>Modo Full</strong> es requerido."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
-msgstr "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
+msgstr "<p>Configure los valores siguientes en la configuración mercantil Gate2Shop:</p> <p>Éxito, error y cancela la URL: <b>[result_url]</b></p> <p>Copia la dirección URL: <b>[back_url]</b></p>"
 
 msgctxt "Languages::text_gd_not_avail"
 msgid "GD library is <b>not</b> installed on your server. Please contact your hosting provider. <br />Charts can be represented only as tables (chart type \"Table\")."
@@ -10625,7 +10625,7 @@ msgstr "Usted puede usar la información de cuenta siguiente para probar objetiv
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
-msgstr "You have entered an invalid URL"
+msgstr "Ha introducido una URL no válida"
 
 msgctxt "Languages::text_items_added"
 msgid "The items were added successfully"
@@ -10665,11 +10665,11 @@ msgstr "Max value of \"limit\" field can not exceed 25 if chart type isn't equal
 
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
-msgstr "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
+msgstr "Respuesta de pago de Amazon no ha sido recibido todavía, por favor, mantenga. Aunque la orden no puede ser creada en la tienda como fin, es muy probable que ha sido exitosamente creada y procesada por Amazon Checkout. Por favor, póngase en contacto con el personal de la tienda y les digo el order ID proporcionado por Amazon"
 
 msgctxt "Languages::text_mcpe_notice"
 msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
+msgstr "Por defecto, los valores mínimos y máximos de las transacciones individuales en su cuenta son como se muestra a continuación:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimo</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximo</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table>por favor, póngase en contacto con su ejecutivo de cuenta para solicitar límites más altos en su cuenta <br/> <p> por favor, ajuste el siguientes parámetros en la Extranet Mercante. Haga clic en Gestión de Cuenta luego Instalaciones:<br/> - URL Respuesta: [return_url]<br/> - URL de devolución: [return_url] </p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
@@ -10693,7 +10693,7 @@ msgstr "Nada encontrado"
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "It is not allowed to upload files with the <b>.[ext]</b> extension here."
+msgstr "No está permitido subir archivos con la extensión de la <b>.[ext]</b> aquí."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
@@ -10761,15 +10761,15 @@ msgstr "<b>[total]</b> [name] será exportado."
 
 msgctxt "Languages::text_ogonedirect_notice"
 msgid "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
-msgstr "Enter SHA-1 Signature both: here and on the Ogone Configuration.<br /><br />For new Ogone accounts created since May 11th, 2010, the new SHA policy is automatically active. <br/>Please do not forget to select the \"Use new SHA signature policy\" checkbox."
+msgstr "Entrar firma SHA-1 ambos: aquí y en la configuración de Ogone.<br /><br /> para nuevas cuentas de Ogone, creadas desde el 11 de mayo de 2010, la nueva política SHA es automáticamente. <br/>Por favor, no olvide seleccionar la casilla de verificación \"Usar nueva política de firma SHA\"."
 
 msgctxt "Languages::text_ogoneweb_notice"
 msgid "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
-msgstr "Please set the following URL in the Technical Information section on the Ogone Configuration as a <b>Response Url</b> for all cases (\"accepted\", \"on hold\", \"uncertain\", \"canceled by the client\", \"too many rejections by the acquirer\"): <b>[r_url]</b><br /> Also enter SHA-1 Signature both: here and on the Ogone Configuration. Then select Request Type: \"Make this request in background and deferred\"."
+msgstr "Configure la dirección URL siguiente en la sección de información técnica en la configuración de Ogone como una <b>Url de respuesta</b> para todos los casos (\"aceptada\", \"en espera\", \"incierto\", \"cancelado por el cliente\", \"demasiados rechazos por el adquirente\"): <b>[r_url]</b><br /> también introducir firma SHA-1 ambos: aquí y en la configuración de Ogone. Seleccione tipo de solicitud: \"Hacer esta petición en segundo plano y diferidos\"."
 
 msgctxt "Languages::text_options_no_inventory"
 msgid "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
-msgstr "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
+msgstr "Con el fin de crear combinaciones de opción, debe tener la casilla de «Inventario», seleccionada para la opción de al menos un producto."
 
 msgctxt "Languages::text_order_backordered"
 msgid "Your order has been backordered. We will contact you at the first opportunity."
@@ -10793,7 +10793,7 @@ msgstr "El pedido ha sido guardado con éxito."
 
 msgctxt "Languages::text_order_status_notification"
 msgid "Please note that the notification of changing the status  will be sent depending on the settings of this status"
-msgstr "Please note that the notification of changing the status  will be sent depending on the settings of this status"
+msgstr "Tenga en cuenta que se enviará la notificación de cambiar el estado dependiendo de la configuración de este estado"
 
 msgctxt "Languages::text_out_of_stock"
 msgid "Out of stock"
@@ -10801,7 +10801,7 @@ msgstr "Agotado"
 
 msgctxt "Languages::text_pages_cloned"
 msgid "The pages have been cloned successfully. Below the list of new pages."
-msgstr "The pages have been cloned successfully. Below the list of new pages."
+msgstr "Las páginas han sido clonadas con éxito. A continuación la lista de páginas nuevas."
 
 msgctxt "Languages::text_pages_have_been_deleted"
 msgid "Pages have been deleted successfully."
@@ -10869,7 +10869,7 @@ msgstr "Prueba"
 
 msgctxt "Languages::text_paysitecash_nocurrencies"
 msgid "Currency mode"
-msgstr "Currency mode"
+msgstr "Modo de moneda"
 
 msgctxt "Languages::text_paysitecash_nocurrencies_no"
 msgid "Allow customer select any of supported currency"
@@ -10885,15 +10885,15 @@ msgstr "Please add these URL fields in your Paysite Cash configuration:<br/><br/
 
 msgctxt "Languages::text_paysitecash_processor"
 msgid "Processor"
-msgstr "Processor"
+msgstr "Procesado"
 
 msgctxt "Languages::text_paysitecash_site_id"
 msgid "Site ID"
-msgstr "Site ID"
+msgstr "ID de sitio"
 
 msgctxt "Languages::text_payway_notice"
 msgid "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
-msgstr "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
+msgstr "Configure los siguientes parámetros en PayWay back-end: <p>navegador devolver URL Pre pago: <b>[prepayment]</b> <br/> URL del explorador regresar: <b>[return]</b> <br/> notificación URL: <b>[notify]</b><br/> notificación tipo: Deje vacío</p>"
 
 msgctxt "Languages::text_permissions_changed"
 msgid "Permissions changed"
@@ -10901,7 +10901,7 @@ msgstr "Permisos cambiados"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr "<b>Nota:</b> Por favor envíe la siguiente información para el soporte de pago:<br/> URL del sitio web: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> éxito URL: '<u>[success_url]</u>'<br />  falta URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br />  Dirección IP: '<u>[ip_address]</u>'<br /><br /> método de respuesta: '<u>[response_method]</u>'<br /><br />"
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
@@ -10949,7 +10949,7 @@ msgstr "El archivo del producto fue eliminado"
 
 msgctxt "Languages::text_product_filters_were_disabled"
 msgid "The following <a href=\"[url]\" target=\"_blank\">product filters</a> were disabled: [filters_list]."
-msgstr "The following <a href=\"[url]\" target=\"_blank\">product filters</a> were disabled: [filters_list]."
+msgstr "Se deshabilitaron los siguientes <a href=\"[url]\" target=\"_blank\"> filtros de producto</a>: [filters_list]."
 
 msgctxt "Languages::text_product_has_been_deleted"
 msgid "Product has been deleted successfully."
@@ -10965,11 +10965,11 @@ msgstr "Su perfil ha sido activado, usted puede entrar al sistema usando el nomb
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
-msgstr "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
+msgstr "<h4>Beneficios de convertirse en un miembro registrado</h4> <ul><li>Iniciar sesión en cualquier momento para comprobar Estados de orden</li> <li>personalizar sus compras</li> <li>acelerar futuras compras</li></ul>"
 
 msgctxt "Languages::text_profile_details"
 msgid "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
-msgstr "<h4>Profile details</h4><p>On this page you can modify your login credentials and personal data to be used during future purchases.</p><p>To keep your account secure we recommend to avoid creating passwords that use:</p><ul><li>Dictionary words in any language.</li><li>Words spelled backwards, common misspellings, and abbreviations.</li><li>Sequences or repeated characters. Examples: 12345678, 222222, abcdefg, or adjacent letters on your keyboard (qwerty).</li><li>Personal information. Your name, birthday, driver's license, passport number, or similar information.</li></ul>"
+msgstr "<h4>Datos de perfil</h4> <p>En esta página usted puede modificar sus credenciales y los datos personales para ser utilizado en futuras compras.</p> <p>Para mantener tu cuenta segura le recomendamos que Evite crear contraseñas que utilizan:</p> <ul><li>Palabras de diccionario en cualquier idioma.</li> <li>Palabras deletreado al revés, faltas de ortografía comunes y abreviaturas.</li> Secuencias <li>o caracteres repetidos. Ejemplos: 12345678, 222222, abcdefg, o letras adyacentes en el teclado (qwerty).</li> <li>Información personal. Su nombre, cumpleaños, licencia de conducir, pasaporte o información similar.</li></ul>"
 
 msgctxt "Languages::text_profile_is_created"
 msgid "The account has been created successfully."
@@ -11033,7 +11033,7 @@ msgstr "Por favor seleccione un producto para el grupo requerido [group_name]"
 
 msgctxt "Languages::text_reset_inventory_description"
 msgid "Quantity of all products in the store will be reset."
-msgstr "Quantity of all products in the store will be reset."
+msgstr "Se restablecerá la cantidad de todos los productos en la tienda."
 
 msgctxt "Languages::text_restore_question"
 msgid "Are you sure that you want to restore the template?"
@@ -11041,11 +11041,11 @@ msgstr "Estas seguro que quieres restablecer la plantilla?"
 
 msgctxt "Languages::text_sagepay_dir_notice"
 msgid "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
-msgstr "<b>Note:</b> In order to track your SagePay orders by the shopping cart software, please enable the 3D Secure Fraud Checking Option for your SagePay VSP Direct account."
+msgstr "<b>Nota:</b> Con el fin de rastrear sus pedidos de SagePay por el software de carro de compras, por favor, active el seguro fraude control opción 3D para tu cuenta de SagePay VSP directa."
 
 msgctxt "Languages::text_sagepay_notice"
 msgid "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
-msgstr "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
+msgstr "Utilizar <b>testvendor</b> como <b>Nombre del proveedor</b> para los propósitos de prueba <br/> <p><b>pago</b> - tipo de transacción se utiliza para obtener una autorización del Banco, y luego resolver la transacción temprano a la mañana siguiente, comprometer los fondos de tarjeta su cliente <br/></p> <p><b>diferido</b> - transacciones no se envían al Banco para completar hasta LIBERARLAS accediendo a la interfaz del administrador de SagePay VSP , encontrar la transacción y haga clic en el botón de liberación.</p>"
 
 msgctxt "Languages::text_secret_key_notice"
 msgid "Please complete this field with any non-empty value. It will increase the security of transactions."
@@ -11065,19 +11065,19 @@ msgstr "Usted puede seleccionar el rango a exportar (de lo contrario todos los [
 
 msgctxt "Languages::text_share_product_features_tooltip"
 msgid "Attention! Some data will not be copied during this operation: the categories set in filters will be lost even if you copy all categories. Please, fix categories manually."
-msgstr "Attention! Some data will not be copied during this operation: the categories set in filters will be lost even if you copy all categories. Please, fix categories manually."
+msgstr "¡ Atención! No se copiarán algunos datos durante esta operación: las categorías en los filtros se perderán incluso si copia todas las categorías. ¿Por favor, arreglar categorías manualmente."
 
 msgctxt "Languages::text_share_product_filters_tooltip"
 msgid "Attention! Some data will not be copied during this operation: the categories set in features will be lost even if you copy all categories. Please, fix categories manually."
-msgstr "Attention! Some data will not be copied during this operation: the categories set in features will be lost even if you copy all categories. Please, fix categories manually."
+msgstr "¡ Atención! No se copiarán algunos datos durante esta operación: las categorías en los filtros se perderán incluso si copia todas las categorías. ¿Por favor, arreglar categorías manualmente."
 
 msgctxt "Languages::text_share_promotions_tooltip"
 msgid "In order to share promotions make sure the respective products are also shared (check Share products below)"
-msgstr "In order to share promotions make sure the respective products are also shared (check Share products below)"
+msgstr "Para compartir promociones Asegúrese de que también se comparten los productos respectivos (ver a continuación compartir productos)"
 
 msgctxt "Languages::text_shipping_packages_info"
 msgid "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
-msgstr "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
+msgstr "Para asegurar una estimación de la tarifa de envío más precisos, los productos han sido separados en paquetes según la definición de la configuración del producto y la configuración del método de envío. La siguiente información es sólo para uso referencial"
 
 msgctxt "Languages::text_shipping_rates_changed"
 msgid "Shipping rates were changed"
@@ -11165,7 +11165,7 @@ msgstr "La tienda se ha <b>cerrado</b>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "Algunas características no están disponibles. No hay restricciones de tiempo implícita, no se requiere el número de licencia. <br /> <br /> Este modo se puede activar en cualquier momento. <br /> <br /> Al elegir este modo también se suscribe a nuestro boletín de noticias y ofertas. Enviamos los mensajes de correo electrónico una vez o dos veces al mes. Podrás darte de baja en cualquier momento."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11178,6 +11178,10 @@ msgstr "La tienda se ha <b>abierto</b>"
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
 msgstr "Acceso completo a todas las características durante el período de prueba de 30 días, desde el momento de la activación. <br/><br/> Después de los 30 días de prueba, este modo ya no estará disponible y el modo Free se activará automáticamente. <br/><br/>"
+
+msgctxt "Languages::text_store_mode_trial_rb"
+msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11249,7 +11253,7 @@ msgstr "Los siguientes archivos han sido respaldados"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "El paquete de actualización parece estar roto. Por favor, actualice la lista de paquetes y tratar de descargarlo de nuevo"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11293,7 +11297,7 @@ msgstr "Falló la transferencia FTP"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "No hemos podido encontrar CS-Cart instalación en el directorio especificado. Por favor, asegúrese de que ha entrado en el directorio FTP correcta."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11365,7 +11369,7 @@ msgstr "No se pudo recuperar la lista de actualizaciones instaladas"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "Su tienda se ha actualizado con éxito"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11621,7 +11625,7 @@ msgstr "Mostrar/ocultar panel de edición de tema"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "El nombre del estilo no puede contener los siguientes carácteres: \"/ # % ? * : ; { } \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -11717,7 +11721,7 @@ msgstr "Botón primario"
 
 msgctxt "Languages::theme_editor.tertiary_button"
 msgid "Tertiary button"
-msgstr "Tertiary button"
+msgstr "Botón de terciario"
 
 msgctxt "Languages::theme_editor.repeat"
 msgid "Repeat"
@@ -11761,7 +11765,7 @@ msgstr "Cantos redondeados"
 
 msgctxt "Languages::theme_editor.scroll"
 msgid "Scroll"
-msgstr "Scroll"
+msgstr "Desplazamiento"
 
 msgctxt "Languages::theme_editor.secondary_button"
 msgid "Secondary button"
@@ -11833,7 +11837,7 @@ msgstr "Modo editor de tema"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "No se puede modificar este parámetro para los estilos predeterminados. Crear un nuevo primero"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11929,7 +11933,7 @@ msgstr "Campo de búsqueda"
 
 msgctxt "Languages::to"
 msgid "TO"
-msgstr "TO"
+msgstr "Para"
 
 msgctxt "Languages::today"
 msgid "Today"
@@ -11941,7 +11945,7 @@ msgstr "Herramientas"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Complementos para contar"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11949,11 +11953,11 @@ msgstr "Estado actual"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "Sin complementos"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "No hay complementos de terceros"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -11965,7 +11969,7 @@ msgstr "Ayuda"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Este contenedor no se utiliza. \"[container]\" contenedor de la ubicación predeterminada se utilizará en su lugar. Establecer esta ubicación como predeterminada para usar este contenedor como \"[container]\" para todas las ubicaciones."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -11993,7 +11997,7 @@ msgstr "Coste total"
 
 msgctxt "Languages::total_items"
 msgid "Total items"
-msgstr "Total items"
+msgstr "Total de artículos"
 
 msgctxt "Languages::total_price"
 msgid "Total price"
@@ -12127,13 +12131,29 @@ msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
 msgstr "La tienda está en modo de prueba.<br /><br />Cuando termine el período de 30 días de prueba, se activará automáticamente el modo Free.<br /><br />Para mantener todas las funciones después del período de prueba y ocultar permanentemente este mensaje, debes comprar una licencia y <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activar el modo Full."
 
+msgctxt "Languages::trial_expired"
+msgid "Your trial version of [product] is finished"
+msgstr "Your trial version of [product] is finished"
+
+msgctxt "Languages::text_input_license_code"
+msgid "To continue working with [product] enter the license key"
+msgstr "To continue working with [product] enter the license key"
+
+msgctxt "Languages::text_buy_new_license"
+msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+
+msgctxt "Languages::buy_license"
+msgid "Buy the license"
+msgstr "Buy the license"
+
 msgctxt "Languages::true"
 msgid "True"
 msgstr "Verdadero"
 
 msgctxt "Languages::ttc_delivery_time"
 msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgstr "Texto arbitrario a mostrar junto con el título de método de envío."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12161,7 +12181,7 @@ msgstr "URL de destino. Puede ser una URL externa, una URL interna de la tienda 
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Clase CSS definida por el usuario se agregará al elemento de menú, así que esto le permitirá definir el elemento de menú con su propio estilo CSS."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12241,11 +12261,11 @@ msgstr "Los productos no descargables con peso cero se tratan como si tuvieran e
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "Categorías que se mostrarán los enlaces de navegación."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Seguir en cantidades resultantes de stock del producto. Active la opción \"Activar seguimiento de inventario\" (Ajustes -> General) para modificar."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12261,7 +12281,7 @@ msgstr "Por defecto, se usará la plantilla definida en los ajustes de la catego
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Mostrar esta función en la lista de productos a lo largo de las páginas con la descripción del producto."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12301,7 +12321,7 @@ msgstr "Períodos a analizar (día, semana, mes, año)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
+msgstr "Parámetro para ordenar los valores por. Debe relacionarse con el valor a mostrar param (por ejemplo, los costos totales de producto-coste o número de productos-número de objetos)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -12317,7 +12337,7 @@ msgstr "Nombre de dominio para usar en sustitución del nombre de dominio de Clo
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "ID de clave de acceso para AWS. Consulta <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> para saber como obtener la clave y la clave secreta."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12517,11 +12537,11 @@ msgstr "Centro de actualizaciones"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "Número de validación"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "Validador \"[validator_name]\" devolvió un error de estado"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12533,7 +12553,7 @@ msgstr "Las actualizaciones solo están disponibles en los modos de licencia<str
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "No se puede preparar el archivo restore.php. Archivo \"var/upgrade/restore.php\" era localmente modificado retitulado/eliminado. Restaurar el archivo original de restore.php antes de la actualización."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -12561,7 +12581,7 @@ msgstr "Enviar fichero"
 
 msgctxt "Languages::ups"
 msgid "United Parcel Service"
-msgstr "United Parcel Service"
+msgstr "Servicio unido del paquete"
 
 msgctxt "Languages::url"
 msgid "URL"
@@ -12621,7 +12641,7 @@ msgstr "Gestionar cuentas de usuario registrados en la tienda"
 
 msgctxt "Languages::user_type"
 msgid "User type"
-msgstr "User type"
+msgstr "Tipo de usuario"
 
 msgctxt "Languages::user_account_info"
 msgid "User account information"
@@ -12689,7 +12709,7 @@ msgstr "Usar enlace de la página actual"
 
 msgctxt "Languages::use_custom_view"
 msgid "Use custom view"
-msgstr "Use custom view"
+msgstr "Utilice vista personalizada"
 
 msgctxt "Languages::use_custom_weight_settings"
 msgid "Use custom weight settings"
@@ -12901,7 +12921,7 @@ msgstr "Ver categorías"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista de comparación"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13153,7 +13173,7 @@ msgstr "Código del widget"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\"> ¿Qué es?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13249,7 +13269,7 @@ msgstr "NO permitir añadir el producto al carro"
 
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
-msgstr "Choose a file in the PO or ZIP format"
+msgstr "Seleccione un archivo en el formato PO o ZIP"
 
 msgctxt "Languages::text_free_mode_activated"
 msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
@@ -13321,7 +13341,7 @@ msgstr "Desarrollo"
 
 msgctxt "Languages::check_po_file"
 msgid "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
-msgstr "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
+msgstr "PO-archivo contiene errores de sintaxis o estructura incorrecta. Por favor, vuelva a comprobarlo y subir otra vez."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13329,7 +13349,7 @@ msgstr "Separador de opciones"
 
 msgctxt "Languages::text_product_option_delimiter"
 msgid "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
-msgstr "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
+msgstr "\"Separador de opciones de producto dentro de una combinación (ej. \"Color: Rojo, Tamaño: Pequeño\")\""
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
@@ -13517,7 +13537,7 @@ msgstr "Lo lamentamos, pero la tienda se encuentra temporalmente cerrada."
 
 msgctxt "Languages::theme_editor.presets"
 msgid "Presets"
-msgstr "Presets"
+msgstr "Preajustes"
 
 msgctxt "Languages::theme_editor.preset_data_cannot_be_saved"
 msgid "Preset data cannot be saved. You should set write permissions for <b>[theme_dir]</b> directory to fix this issue."
@@ -13537,7 +13557,7 @@ msgstr "Ya existe un Preset con este nombre. Por favor elije otro."
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "Nombre predefinido no puede contener los siguientes caracteres: \"/ #% *:; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13573,7 +13593,7 @@ msgstr "El campo [field] es requerido"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Actualización de traducciones"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -13593,7 +13613,7 @@ msgstr "Crear archivo"
 
 msgctxt "Languages::marketplace"
 msgid "Marketplace"
-msgstr "Marketplace"
+msgstr "Mercado"
 
 msgctxt "Languages::marketplace_find_more"
 msgid "Find more add-ons and themes in <a href=\"[href]\" target=\"_blank\">Marketplace</a>"
@@ -13609,15 +13629,15 @@ msgstr "SEO"
 
 msgctxt "Languages::text_magnific"
 msgid "MagnificPopup"
-msgstr "MagnificPopup"
+msgstr "Magnífico emergente"
 
 msgctxt "Languages::bulk_print_packing_slip"
 msgid "Packing slip bulk print"
-msgstr "Packing slip bulk print"
+msgstr "Embalaje de impresión mayor deslizamiento"
 
 msgctxt "Languages::bulk_print_pdf"
 msgid "Invoice bulk print (PDF)"
-msgstr "Invoice bulk print (PDF)"
+msgstr "Impresión mayor factura (PDF)"
 
 msgctxt "Languages::text_all_categories_included"
 msgid "All categories included"
@@ -13633,23 +13653,23 @@ msgstr "Usuarios registrados"
 
 msgctxt "Languages::person_name"
 msgid "Name"
-msgstr "Name"
+msgstr "Nombre"
 
 msgctxt "Languages::promotions.cond_any"
 msgid "any"
-msgstr "any"
+msgstr "cualquier"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "all"
+msgstr "Todos"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
-msgstr "true"
+msgstr "Verdadero"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"
-msgstr "false"
+msgstr "Falso"
 
 msgctxt "Languages::text_select_vendor"
 msgid "Please select a store first"
@@ -13689,7 +13709,7 @@ msgstr "Ajustes de seguridad"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "Pasar por Caja"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
@@ -13717,7 +13737,7 @@ msgstr "Utilizar conexión segura en la zona del admin"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Permitir la conexión segura de la tienda"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -13729,7 +13749,7 @@ msgstr "Inhabilitar todos los métodos de envío"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Procesadores de envios"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -13837,11 +13857,11 @@ msgstr "Configuración servidor FTP"
 
 msgctxt "SettingsOptions::default_state_update_for_all"
 msgid "Default state of the \"Update for all stores\" icon"
-msgstr "Default state of the \"Update for all stores\" icon"
+msgstr "Estado por defecto del icono \"Actualización para todas las tiendas\""
 
 msgctxt "SettingsOptions::ftp_hostname"
 msgid "Hostname"
-msgstr "Hostname"
+msgstr "Nombre de host"
 
 msgctxt "SettingsOptions::weight_symbol"
 msgid "Weight symbol"
@@ -13861,7 +13881,7 @@ msgstr "Semana"
 
 msgctxt "SettingsOptions::mailer_smtp_host"
 msgid "SMTP host"
-msgstr "SMTP host"
+msgstr "Host SMTP"
 
 msgctxt "SettingsOptions::string_length"
 msgid "String length"
@@ -13941,7 +13961,7 @@ msgstr "Cerrat tienda"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
-msgstr "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
+msgstr "Llave de acceso al script cron que envía correo electrónico notificaciones de cambio de contraseña. Uso: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
@@ -14097,7 +14117,7 @@ msgstr "E-mail departamento de atencion al cliente"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "Usar para"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14241,7 +14261,7 @@ msgstr "Alto de miniatura en lista de categorías"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Product detailed page view"
+msgstr "Pagina de producto de vista detallada"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
@@ -14257,15 +14277,15 @@ msgstr "Ajustes del diseño de listas de producto"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Available product list views"
+msgstr "Vistas de lista de productos disponibles"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Product list default view"
+msgstr "Ver lista de productos por defecto"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Use the selected view for current category or search page only"
+msgstr "Utilice la vista seleccionada por categoría o búsqueda página actual sólo"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
@@ -14397,7 +14417,7 @@ msgstr "Calcular gastos de envío en la página del carro"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Permitir que un invitado cree una cuenta después de completar un pedido"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14433,43 +14453,43 @@ msgstr "Buscar también en"
 
 msgctxt "SettingsOptions::mailer_smtp_ecrypted_connection"
 msgid "Use Encrypted Connection"
-msgstr "Use Encrypted Connection"
+msgstr "Usar conexión cifrada"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "Configure \"Iniciar sesión\" paso"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Este paso sólo puede ser ocultado si no tiene ningún campos de información de contacto requeridos y se permite la comprobación en el anonimato."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "Opción por defecto para la sección \"Nuevo cliente\" en el \"Iniciar sesión\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Mostrar el paso de \"Método de envío\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Si oculta, se utilizará el primer método activo por defecto."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Visualización la etapa \"Método de pago\""
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Si oculta, el primer método activo se utilizará de forma predeterminada."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "Permiten vender productos descargables"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Se requiere certificado SSL para ser instalado en su servidor"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14489,7 +14509,7 @@ msgstr "Direcciones de envío y facturación"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "Dejar en blanco para el fondo transparente"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -14513,19 +14533,19 @@ msgstr "Solicitar solo información de contacto en el registro"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
-msgstr "Default"
+msgstr "Por defecto"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
-msgstr "Manual feedback"
+msgstr "Comentarios manual"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
-msgstr "Automatic feedback"
+msgstr "Feedback automático"
 
 msgctxt "SettingsVariants::date_format::%d/%m/%Y"
 msgid "29/09/2005 (day/month/year)"
-msgstr "29/09/2005 (day/month/year)"
+msgstr "29/09/2005 (día/mes/año)"
 
 msgctxt "SettingsVariants::time_format::%H:%M"
 msgid "15:43"
@@ -14533,35 +14553,35 @@ msgstr "15:43"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::allow_shopping"
 msgid "Allow"
-msgstr "Allow"
+msgstr "Permitir"
 
 msgctxt "SettingsVariants::string_type::digits"
 msgid "Digits only"
-msgstr "Digits only"
+msgstr "Sólo dígitos"
 
 msgctxt "SettingsVariants::calendar_date_format::month_first"
 msgid "09/30/2008 (month/day/year)"
-msgstr "09/30/2008 (month/day/year)"
+msgstr "09/30/2008 (mes/día/año)"
 
 msgctxt "SettingsVariants::calendar_week_format::sunday_first"
 msgid "Sunday"
-msgstr "Sunday"
+msgstr "Domingo"
 
 msgctxt "SettingsVariants::address_position::billing_first"
 msgid "Billing first"
-msgstr "Billing first"
+msgstr "Facturación primero"
 
 msgctxt "SettingsVariants::log_type_general::runtime"
 msgid "Runtime"
-msgstr "Runtime"
+msgstr "Tiempo de ejecución"
 
 msgctxt "SettingsVariants::default_state_update_for_all::not_active"
 msgid "Not Active"
-msgstr "Not Active"
+msgstr "No activo"
 
 msgctxt "SettingsVariants::date_format::%d-%m-%Y"
 msgid "29-09-2005 (day-month-year)"
-msgstr "29-09-2005 (day-month-year)"
+msgstr "29-09-2005 (dia-mes-año)"
 
 msgctxt "SettingsVariants::time_format::%H.%M"
 msgid "15.43"
@@ -14569,39 +14589,39 @@ msgstr "15.43"
 
 msgctxt "SettingsVariants::min_order_amount_type::products_with_shippings"
 msgid "Products with shipping"
-msgstr "Products with shipping"
+msgstr "Productos con envío"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_add_to_cart"
 msgid "Hide the \"Add to cart\" button"
-msgstr "Hide the \"Add to cart\" button"
+msgstr "Ocultar el botón \"Añadir al carrito\""
 
 msgctxt "SettingsVariants::string_type::letters"
 msgid "Letters only"
-msgstr "Letters only"
+msgstr "Sólo letras"
 
 msgctxt "SettingsVariants::calendar_date_format::day_first"
 msgid "30/09/2008 (day/month/year)"
-msgstr "30/09/2008 (day/month/year)"
+msgstr "30/09/2008 (día/mes/año)"
 
 msgctxt "SettingsVariants::calendar_week_format::monday_first"
 msgid "Monday"
-msgstr "Monday"
+msgstr "Lunes"
 
 msgctxt "SettingsVariants::address_position::shipping_first"
 msgid "Shipping first"
-msgstr "Shipping first"
+msgstr "Primer envio"
 
 msgctxt "SettingsVariants::log_type_general::deprecated"
 msgid "Deprecated features"
-msgstr "Deprecated features"
+msgstr "Características desaprobados"
 
 msgctxt "SettingsVariants::default_state_update_for_all::active"
 msgid "Active"
-msgstr "Active"
+msgstr "Activo"
 
 msgctxt "SettingsVariants::date_format::%d.%m.%Y"
 msgid "29.09.2005 (day.month.year)"
-msgstr "29.09.2005 (day.month.year)"
+msgstr "29.09.2005 (dia.mes.año)"
 
 msgctxt "SettingsVariants::time_format::%I:%M %p"
 msgid "3:43 PM"
@@ -14609,19 +14629,19 @@ msgstr "3:43 PM"
 
 msgctxt "SettingsVariants::min_order_amount_type::only_products"
 msgid "Products"
-msgstr "Products"
+msgstr "Productos"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
-msgstr "Hide price and the \"Add to cart\" button"
+msgstr "Ocultar precio y el botón \"Añadir al carro\""
 
 msgctxt "SettingsVariants::string_type::mixed"
 msgid "Mixed"
-msgstr "Mixed"
+msgstr "Mixto"
 
 msgctxt "SettingsVariants::date_format::%m/%d/%Y"
 msgid "09/29/2005 (month/day/year)"
-msgstr "09/29/2005 (month/day/year)"
+msgstr "09/29/2005 (mes/dia/año)"
 
 msgctxt "SettingsVariants::time_format::%I.%M %p"
 msgid "3.43 PM"
@@ -14629,55 +14649,55 @@ msgstr "3.43 PM"
 
 msgctxt "SettingsVariants::log_type_orders::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crear"
 
 msgctxt "SettingsVariants::log_type_orders::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Eliminar"
 
 msgctxt "SettingsVariants::log_type_orders::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualización"
 
 msgctxt "SettingsVariants::log_type_products::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crear"
 
 msgctxt "SettingsVariants::log_type_products::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Eliminar"
 
 msgctxt "SettingsVariants::log_type_products::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualización"
 
 msgctxt "SettingsVariants::log_type_users::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crear"
 
 msgctxt "SettingsVariants::log_type_users::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Eliminar"
 
 msgctxt "SettingsVariants::log_type_users::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualización"
 
 msgctxt "SettingsVariants::log_type_categories::create"
 msgid "Create"
-msgstr "Create"
+msgstr "Crear"
 
 msgctxt "SettingsVariants::log_type_categories::delete"
 msgid "Delete"
-msgstr "Delete"
+msgstr "Eliminar"
 
 msgctxt "SettingsVariants::log_type_categories::update"
 msgid "Update"
-msgstr "Update"
+msgstr "Actualización"
 
 msgctxt "SettingsVariants::date_format::%m-%d-%Y"
 msgid "09-29-2005 (month-day-year)"
-msgstr "09-29-2005 (month-day-year)"
+msgstr "09-29-2005 (mes-dia-año)"
 
 msgctxt "SettingsVariants::time_format::%H:%M:%S"
 msgid "15:43:55"
@@ -14685,39 +14705,39 @@ msgstr "15:43:55"
 
 msgctxt "SettingsVariants::month::%B, %Y"
 msgid "January, 2006"
-msgstr "January, 2006"
+msgstr "enero, 2006"
 
 msgctxt "SettingsVariants::log_type_orders::status"
 msgid "Change"
-msgstr "Change"
+msgstr "Cambio"
 
 msgctxt "SettingsVariants::log_type_users::session"
 msgid "Session"
-msgstr "Session"
+msgstr "Sesion"
 
 msgctxt "SettingsVariants::log_type_users::failed_login"
 msgid "Failed logins"
-msgstr "Failed logins"
+msgstr "Inicios de sesión fallidos"
 
 msgctxt "SettingsVariants::log_type_products::low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "Stock bajo"
 
 msgctxt "SettingsVariants::log_type_database::restore"
 msgid "Restore"
-msgstr "Restore"
+msgstr "Restaurar"
 
 msgctxt "SettingsVariants::log_type_database::backup"
 msgid "Backup"
-msgstr "Backup"
+msgstr "Copia de seguridad"
 
 msgctxt "SettingsVariants::log_type_database::optimize"
 msgid "Optimize"
-msgstr "Optimize"
+msgstr "Optimizar"
 
 msgctxt "SettingsVariants::log_type_database::error"
 msgid "Errors"
-msgstr "Errors"
+msgstr "Errores"
 
 msgctxt "SettingsVariants::log_type_requests::http"
 msgid "HTTP/HTTPS"
@@ -14725,7 +14745,7 @@ msgstr "HTTP/HTTPS"
 
 msgctxt "SettingsVariants::date_format::%m.%d.%Y"
 msgid "09.29.2005 (month.day.year)"
-msgstr "09.29.2005 (month.day.year)"
+msgstr "09.29.2005 (mes.dia.año)"
 
 msgctxt "SettingsVariants::time_format::%H.%M.%S"
 msgid "15.43.55"
@@ -14733,7 +14753,7 @@ msgstr "15.43.55"
 
 msgctxt "SettingsVariants::date_format::%Y/%m/%d"
 msgid "2005/09/29 (year/month/day)"
-msgstr "2005/09/29 (year/month/day)"
+msgstr "2005/09/29 (año/mes/dia)"
 
 msgctxt "SettingsVariants::time_format::%I:%M:%S %p"
 msgid "3:43:55 PM"
@@ -14741,7 +14761,7 @@ msgstr "3:43:55 PM"
 
 msgctxt "SettingsVariants::date_format::%Y-%m-%d"
 msgid "2005-09-29 (year-month-day)"
-msgstr "2005-09-29 (year-month-day)"
+msgstr "2005-09-29 (año-mes-día)"
 
 msgctxt "SettingsVariants::time_format::%I.%M.%S %p"
 msgid "3.43.55 PM"
@@ -14749,35 +14769,35 @@ msgstr "3.43.55 PM"
 
 msgctxt "SettingsVariants::date_format::%Y.%m.%d"
 msgid "2005.09.29 (year.month.day)"
-msgstr "2005.09.29 (year.month.day)"
+msgstr "2005.09.29 (año.mes.dia)"
 
 msgctxt "SettingsVariants::exception_style::hide"
 msgid "Hide exception"
-msgstr "Hide exception"
+msgstr "Ocultar la excepción"
 
 msgctxt "SettingsVariants::alternative_currency::use_only_selected"
 msgid "Show prices in selected currency only"
-msgstr "Show prices in selected currency only"
+msgstr "Mostrar precios solo en moneda seleccionada"
 
 msgctxt "SettingsVariants::date_format::%b %e, %Y"
 msgid "Sep 29, 2005 (month day, year)"
-msgstr "Sep 29, 2005 (month day, year)"
+msgstr "Sep 29, 2005 (día mes, año)"
 
 msgctxt "SettingsVariants::default_products_sorting::product"
 msgid "Product name"
-msgstr "Product name"
+msgstr "Nombre de producto"
 
 msgctxt "SettingsVariants::day::%a, %b %e"
 msgid "Tue, Jan 3"
-msgstr "Tue, Jan 3"
+msgstr "Martes, 3 de ene"
 
 msgctxt "SettingsVariants::week::%U"
 msgid "1 week"
-msgstr "1 week"
+msgstr "1 semana"
 
 msgctxt "SettingsVariants::month::%B"
 msgid "January"
-msgstr "January"
+msgstr "Enero"
 
 msgctxt "SettingsVariants::year::%Y"
 msgid "2006"
@@ -14785,43 +14805,43 @@ msgstr "2006"
 
 msgctxt "SettingsVariants::mailer_send_method::smtp"
 msgid "via SMTP server"
-msgstr "via SMTP server"
+msgstr "por servidor SMTP"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
-msgstr "(GMT-12:00) International Date Line West"
+msgstr "(GMT-12:00) Línea de fecha internacional del oeste"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
-msgstr "Unit price"
+msgstr "Precio unitario"
 
 msgctxt "SettingsVariants::date_format::%d %b %Y"
 msgid "29 Sep 2005 (day month year)"
-msgstr "29 Sep 2005 (day month year)"
+msgstr "29 Sept 2005 (dia mes año)"
 
 msgctxt "SettingsVariants::date_format::%A, %B %e, %Y"
 msgid "Thursday, September 29, 2005 (day of week, month day, year)"
-msgstr "Thursday, September 29, 2005 (day of week, month day, year)"
+msgstr "Jueves, Septiembre 29, 2005 (dia de la semana, mes dia, año)"
 
 msgctxt "SettingsVariants::date_format::%A, %e %B %Y"
 msgid "Thursday, 29 September 2005 (day of week, day month year)"
-msgstr "Thursday, 29 September 2005 (day of week, day month year)"
+msgstr "Jueves, 29 Septiembre 2005 (dia de la semana, dia mes año)"
 
 msgctxt "SettingsVariants::day::%B %e, %Y"
 msgid "January 3, 2006"
-msgstr "January 3, 2006"
+msgstr "03 de enero 2006"
 
 msgctxt "SettingsVariants::exception_style::warning"
 msgid "Show warning on exception"
-msgstr "Show warning on exception"
+msgstr "Mostrar ADVERTENCIA de excepción"
 
 msgctxt "SettingsVariants::alternative_currency::use_selected_and_alternative"
 msgid "Show prices in default and selected currencies"
-msgstr "Show prices in default and selected currencies"
+msgstr "Mostrar precios en moneda por defectos y monedas seleccionadas"
 
 msgctxt "SettingsVariants::default_products_sorting::price"
 msgid "Price"
-msgstr "Price"
+msgstr "Precio"
 
 msgctxt "SettingsVariants::day::%m.%e.%y"
 msgid "01.03.06"
@@ -14841,7 +14861,7 @@ msgstr "06"
 
 msgctxt "SettingsVariants::mailer_send_method::mail"
 msgid "via php mail function"
-msgstr "via php mail function"
+msgstr "por la función php mail"
 
 msgctxt "SettingsVariants::timezone::Pacific/Apia"
 msgid "(GMT-11:00) Midway Island, Samoa"
@@ -14849,27 +14869,27 @@ msgstr "(GMT-11:00) Midway Island, Samoa"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
-msgstr "Subtotal"
+msgstr "Subtotal de"
 
 msgctxt "SettingsVariants::default_products_sorting::null"
 msgid "None"
-msgstr "None"
+msgstr "Ninguno"
 
 msgctxt "SettingsVariants::day::%a %b %e, %Y"
 msgid "Tue Jan 3, 2006"
-msgstr "Tue Jan 3, 2006"
+msgstr "Mar Ene 3, 2006"
 
 msgctxt "SettingsVariants::week::%U, %b"
 msgid "1, Jan"
-msgstr "1, Jan"
+msgstr "1, enero"
 
 msgctxt "SettingsVariants::month::%b"
 msgid "Jan"
-msgstr "Jan"
+msgstr "Ene"
 
 msgctxt "SettingsVariants::mailer_send_method::sendmail"
 msgid "via sendmail program"
-msgstr "via sendmail program"
+msgstr "por programa sendmail"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
@@ -14877,7 +14897,7 @@ msgstr "(GMT-10:00) Hawaii"
 
 msgctxt "SettingsVariants::day::%b %e"
 msgid "Jan 3"
-msgstr "Jan 3"
+msgstr "Ene 3"
 
 msgctxt "SettingsVariants::month::%m-%Y"
 msgid "01-2006"
@@ -14889,11 +14909,11 @@ msgstr "(GMT-09:00) Alaska"
 
 msgctxt "SettingsVariants::timezone::America/Los_Angeles"
 msgid "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
-msgstr "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
+msgstr "(GMT-08:00) Hora del Pacífico (U.S. & Canada); Tijuana"
 
 msgctxt "SettingsVariants::timezone::America/Denver"
 msgid "(GMT-07:00) Mountain Time (US & Canada)"
-msgstr "(GMT-07:00) Mountain Time (US & Canada)"
+msgstr "(GMT-07:00) Tiempo de la montaña (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Chihuahua"
 msgid "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
@@ -14909,27 +14929,27 @@ msgstr "(GMT-06:00) Saskatchewan"
 
 msgctxt "SettingsVariants::timezone::America/Mexico_City"
 msgid "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
-msgstr "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
+msgstr "(GMT-06:00) Ciudad de Guadalajara, México, Monterrey"
 
 msgctxt "SettingsVariants::timezone::America/Chicago"
 msgid "(GMT-06:00) Central Time (US & Canada)"
-msgstr "(GMT-06:00) Central Time (US & Canada)"
+msgstr "(GMT-06:00) Hora central (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Guatemala"
 msgid "(GMT-06:00) Central America"
-msgstr "(GMT-06:00) Central America"
+msgstr "(GMT-06:00) América Central"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+5"
 msgid "(GMT-05:00) Indiana (East)"
-msgstr "(GMT-05:00) Indiana (East)"
+msgstr "(GMT-05:00) Indiana (este)"
 
 msgctxt "SettingsVariants::timezone::America/New_York"
 msgid "(GMT-05:00) Eastern Time (US & Canada)"
-msgstr "(GMT-05:00) Eastern Time (US & Canada)"
+msgstr "(GMT-05:00) Hora del este (U.S. & Canada)"
 
 msgctxt "SettingsVariants::timezone::America/Bogota"
 msgid "(GMT-05:00) Bogota, Lima, Quito"
-msgstr "(GMT-05:00) Bogota, Lima, Quito"
+msgstr "(GMT-05:00) Bogotá, Lima, Quito"
 
 msgctxt "SettingsVariants::timezone::America/Santiago"
 msgid "(GMT-04:00) Santiago"
@@ -14941,15 +14961,15 @@ msgstr "(GMT-04:00) Caracas, La Paz"
 
 msgctxt "SettingsVariants::timezone::America/Halifax"
 msgid "(GMT-04:00) Atlantic Time (Canada)"
-msgstr "(GMT-04:00) Atlantic Time (Canada)"
+msgstr "(GMT-04:00) Hora del Atlántico (Canadá)"
 
 msgctxt "SettingsVariants::timezone::America/St_Johns"
 msgid "(GMT-03:30) Newfoundland"
-msgstr "(GMT-03:30) Newfoundland"
+msgstr "(GMT-03:30). Newfoundland"
 
 msgctxt "SettingsVariants::timezone::America/Godthab"
 msgid "(GMT-03:00) Greenland"
-msgstr "(GMT-03:00) Greenland"
+msgstr "(GMT-03:00) Groenlandia"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+3"
 msgid "(GMT-03:00) Buenos Aires, Georgetown"
@@ -14961,11 +14981,11 @@ msgstr "(GMT-03:00) Brasilia"
 
 msgctxt "SettingsVariants::timezone::Atlantic/South_Georgia"
 msgid "(GMT-02:00) Mid-Atlantic"
-msgstr "(GMT-02:00) Mid-Atlantic"
+msgstr "(GMT-02:00) Mediados de-Atlántico"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Cape_Verde"
 msgid "(GMT-01:00) Cape Verde Is."
-msgstr "(GMT-01:00) Cape Verde Is."
+msgstr "(GMT-01:00) Cabo Verde es."
 
 msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
@@ -14977,23 +14997,23 @@ msgstr "(GMT) Casablanca, Monrovia"
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
-msgstr "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+msgstr "(GMT) Tiempo Medio de Greenwich: Dublín, Edimburgo, Lisboa, Londres"
 
 msgctxt "SettingsVariants::timezone::Europe/Berlin"
 msgid "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
-msgstr "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+msgstr "(GMT + 1:00) Amsterdam, Berlín, Berna, Roma, Estocolmo, Viena"
 
 msgctxt "SettingsVariants::timezone::Europe/Budapest"
 msgid "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
-msgstr "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+msgstr "(GMT + 1:00) Belgrado, Bratislava, Budapest, Ljubljana, Prague"
 
 msgctxt "SettingsVariants::timezone::Europe/Paris"
 msgid "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
-msgstr "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
+msgstr "(GMT+01:00) Bruselas, Copenhagen, Madrid, Paris"
 
 msgctxt "SettingsVariants::timezone::Europe/Warsaw"
 msgid "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
-msgstr "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+msgstr "(GMT+01:00) Sarajevo, Skopje, Varsovia, Zagreb"
 
 msgctxt "SettingsVariants::timezone::Africa/Lagos"
 msgid "(GMT+01:00) West Central Africa"
@@ -15001,11 +15021,11 @@ msgstr "(GMT+01:00) West Central Africa"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
+msgstr "(GMT+02:00) Atenas, Beirut, Istanbul, Minsk"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Bucharest"
+msgstr "(GMT+02:00) Bucarest"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15021,11 +15041,11 @@ msgstr "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
 
 msgctxt "SettingsVariants::timezone::Asia/Jerusalem"
 msgid "(GMT+02:00) Jerusalem"
-msgstr "(GMT+02:00) Jerusalem"
+msgstr "(GMT+02:00) Jerusalén"
 
 msgctxt "SettingsVariants::timezone::Asia/Baghdad"
 msgid "(GMT+03:00) Baghdad"
-msgstr "(GMT+03:00) Baghdad"
+msgstr "(GMT+03:00) Bagdad"
 
 msgctxt "SettingsVariants::timezone::Asia/Riyadh"
 msgid "(GMT+03:00) Kuwait, Riyadh"
@@ -15033,7 +15053,7 @@ msgstr "(GMT+03:00) Kuwait, Riyadh"
 
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
-msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+msgstr "(GMT+03:00) Moscú, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15085,7 +15105,7 @@ msgstr "(GMT+06:00) Sri Jayawardenepura"
 
 msgctxt "SettingsVariants::timezone::Asia/Rangoon"
 msgid "(GMT+06:30) Rangoon"
-msgstr "(GMT+06:30) Rangoon"
+msgstr "(GMT+06:30) Rangún"
 
 msgctxt "SettingsVariants::timezone::Asia/Bangkok"
 msgid "(GMT+07:00) Bangkok, Hanoi, Jakarta"
@@ -15121,7 +15141,7 @@ msgstr "(GMT+09:00) Osaka, Sapporo, Tokyo"
 
 msgctxt "SettingsVariants::timezone::Asia/Seoul"
 msgid "(GMT+09:00) Seoul"
-msgstr "(GMT+09:00) Seoul"
+msgstr "(GMT+09:00) Seúl"
 
 msgctxt "SettingsVariants::timezone::Asia/Yakutsk"
 msgid "(GMT+09:00) Yakutsk"
@@ -15177,7 +15197,7 @@ msgstr "Solicitar solo información de contacto en el registro"
 
 msgctxt "Languages::views"
 msgid "Views"
-msgstr "Views"
+msgstr "Vistas"
 
 msgctxt "ProfileFields::firstname"
 msgid "First name"
@@ -15201,7 +15221,7 @@ msgstr "Fax"
 
 msgctxt "ProfileFields::url"
 msgid "URL"
-msgstr "URL"
+msgstr "De una dirección URL"
 
 msgctxt "ProfileFields::b_firstname"
 msgid "First name"
@@ -15269,27 +15289,27 @@ msgstr "Código Postal"
 
 msgctxt "ProfileFields::b_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "Teléfono"
 
 msgctxt "ProfileFields::s_phone"
 msgid "Phone"
-msgstr "Phone"
+msgstr "Teléfono"
 
 msgctxt "ProfileFields::email"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "Correo electrónico"
 
 msgctxt "ProfileFields::s_address_type"
 msgid "Address type"
-msgstr "Address type"
+msgstr "Tipo de dirección"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr "Product must belong to some category created by the owner company."
+msgstr "Producto debe pertenecer a alguna categoría creada por la empresa propietaria."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
-msgstr "None"
+msgstr "Ninguno"
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::tls"
 msgid "TLS"
@@ -15301,71 +15321,71 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "Mostrar primero \"Nuevo cliente\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "Mostrar primero \"Volver al cliente\""
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "Ocultar paso totalmente"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "Registro"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "Comprar como invitado"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Desactivar"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "Perfil seguro, pago y envío y las páginas de pedidos"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "Sitio seguro"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
-msgstr "Last year"
+msgstr "Año pasado"
 
 msgctxt "Languages::store_closed"
 msgid "Store closed"
-msgstr "Store closed"
+msgstr "Tienda cerrada"
 
 msgctxt "Languages::store_closed_banner"
 msgid "Store<br/>closed"
-msgstr "Store<br/>closed"
+msgstr "Tienda<br/>cerrada"
 
 msgctxt "Languages::copy_to_other_locations"
 msgid "Copy to other locations"
-msgstr "Copy to other locations"
+msgstr "Copiar a otros lugares"
 
 msgctxt "Languages::head_custom_html"
 msgid "Custom HTML code"
-msgstr "Custom HTML code"
+msgstr "Código HTML personalizado"
 
 msgctxt "Languages::tt_views_block_manager_update_location_head_custom_html"
 msgid "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
-msgstr "This HTML code will be put between &lt;head&gt;&lt;/head&gt; tags"
+msgstr "Este código HTML se pondrá entre &lt;head&gt;&lt;/head&gt; Etiquetas"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "This will delete all selected category's products, as well as its subcategories and their products."
+msgstr "Esto borrará productos de todas las categoría, así como sus productos y sus subcategorías."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "This will delete all selected categories' products, as well as their subcategories and their products."
+msgstr "Esto borrará productos de todas las categoría, así como sus productos y sus subcategorías."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
-msgstr "Restore original"
+msgstr "Restaurar original"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
@@ -15373,31 +15393,31 @@ msgstr "Set custom configuration"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "Utilice la configuración de bloque por defecto"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "Archivos privados"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "Archivos públicos"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "Plantillas"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Por favor suministrar esta URL a su Gerente de cuenta para pagos"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Por favor suministrar la dirección IP de su servidor a su Gerente de cuenta para pagos"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Asentamiento"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
@@ -15405,59 +15425,59 @@ msgstr "Delayed settlement"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Auto-colocado"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr "Realex to CS-Cart order status conversion map"
+msgstr "Realex a CS-Cart estado del pedido Mapa de conversión"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Subcuenta"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Cambio de responsabilidad"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Cambio de responsabilidad necesaria"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Mensaje seguro 3-d"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "Se ha suspendido tu cuenta Realex. Para obtener más información, póngase en contacto con soporte Realex."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Formato de mensaje XML incorrecta o contenido"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Error con sistemas Realex"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Error con sistemas bancarios"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Tarjeta reportada extraviada o robada"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr "Referral by bank"
+msgstr "Remisión por el Banco"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "Código postal de la AVS"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "Dirección AVS"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15477,67 +15497,67 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Mensaje de resultado"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Código de resultado"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Transacción PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "Id de transacción de orden"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Igualado"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "No emparejado"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problema con cheque"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "No se puede comprobar"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "compatibilidad parcial"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Este pago no está disponible para este tipo de tarjetas de crédito."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr "Incorrect values of 'Valid thru' fields."
+msgstr "Valores de los campos 'Válida hasta'."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Formulario de acceso"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Crear y editar la forma del perfil"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Formulario de  comprobación (información de usuario)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Formulario de seguimiento del pedido"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Ajustes de SEO de tu tienda."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15545,27 +15565,27 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "Edición: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Editar robots.txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Restaurar el robots.txt por defecto"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "Error en la validación de datos de la tarjeta de crédito de Información. O bien el número de tarjeta de crédito no es válida, o la Fecha de Vencimiento, o el Código de Verificación de Tarjeta."
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "Excepciones de la opción"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Filtros horizontales"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15574,137 +15594,137 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "[connector_id] conector actualización devuelve datos incorrectos"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "Paquete de actualización se ha descargado y listo para instalar"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "Actualizar el conector que no se encuentra"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "No se puede leer el esquema de paquete (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "Esquema contenido del paquete no encontrado"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Esquema de paquete no es un JSON válido"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Prohibido: Complemento intenta actualizar archivos de base ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "Paquete contiene a las migraciones que fueron descritas en el esquema o esquemas tienen enlaces a archivos de migración que faltan"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "Paquete contiene lenguajes que fueron descritas en el esquema o esquemas tienen enlaces a archivos de idiomas que faltan"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "Paquete contiene archivos que no fueron descritos en el esquema o esquemas tiene vínculos a archivos que faltan"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "El paquete contiene secuencias de comandos pre / publicar que no se han descrito en el esquema o el esquema tiene enlaces a archivos que faltan"
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Nueva versión"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Migraciones"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Problema de permisos"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Modificaciones locales"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Entiendo que mis modificaciones locales se perderán permanentemente durante la actualización"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Será cambiado"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Se eliminarán"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Validadores paquete de actualización"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Ejecutar \"[validator]\" validador"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Copiar archivos"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Ejecutar las migraciones"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Instalar idiomas"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Curso de actualización"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Cargar el paquete de actualización"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "Cargar paquete de actualización le permite aplicar revisiones o complemento en las actualizaciones. Puede cargar un paquete de actualización escogiendo un tgz, gz, archivo en formato zip y haciendo clic en Cargar."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Navegación exterior"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Incorrect feature type. Some product features were not updated."
+msgstr "Tipo de función incorrecta. Algunas características del producto no se actualizaron."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Feature name is missing. Some product features were not updated."
+msgstr "Nombre de la función no se encuentra. Algunas características del producto no se actualizaron."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "Al menos una tienda debe permanecer"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "El archivo no se puede restaurar. Sólo .sql, se permiten los archivos .zip y .tgz."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "No se puede escribir en el archivo <b>[file]</b>.Establezca los permisos de escritura manual o comprobar el acceso FTP a su servidor en el <a href=\"[url]\">\"centro actualización\"</a> sección"
 
 msgctxt "Languages::uc_restore_email"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgstr "<p>Base de datos y archivos de su tienda ha sido apoyada antes de la actualización. El archivo de copia de seguridad incluye la base de datos entera y todos los archivos excepto imágenes. El archivo de copia de seguridad se ha almacenado en el servidor: [backup_file].</p> <p>Antes de la actualización, la tienda fue cerrada. Comprobar si está funcionando bien después de la actualización y <a href=\"[settings_section]\"> lo abrimos</a>.</p> <p>Si algo sale mal durante la actualización, vaya a su panel de administración <strong>Administración → Backup y Restore</strong>, restaurar la copia de seguridad.</p> <p>Si usted no puede acceder a su panel de administración, use este enlace para restaurar la última copia de seguridad: [restore_link]. Importante: este enlace inmediatamente iniciará el proceso de restauración. Usarlo solamente si usted no puede acceder a su panel de admin!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "Buscar por características no está disponible debido al excesivo número de variantes."
 
