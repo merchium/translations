@@ -2044,9 +2044,9 @@ msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
 msgstr "Comparison list"
 
-msgctxt "Languages::compare_list_note"
-msgid "Go to the compare products list"
-msgstr "Go to the compare products list"
+msgctxt "Languages::comparison_list_note"
+msgid "Go to the products comparison list"
+msgstr "Go to the products comparison list"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3668,9 +3668,9 @@ msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
 msgstr "The following fields are mandatory and cannot be removed from the layout:"
 
-msgctxt "Languages::error_exim_no_data_exported"
-msgid "No data exported"
-msgstr "No data exported"
+msgctxt "Languages::error_exim_no_data_exported_new"
+msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -11168,6 +11168,10 @@ msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
 msgstr "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
 
+msgctxt "Languages::text_store_mode_trial_rb"
+msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
 msgstr "The tax <b>[tax]</b> has been applied to all products"
@@ -12115,6 +12119,22 @@ msgstr "Trial mode cannot be activated"
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
 msgstr "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+
+msgctxt "Languages::trial_expired"
+msgid "Your trial version of [product] is finished"
+msgstr "Your trial version of [product] is finished"
+
+msgctxt "Languages::text_input_license_code"
+msgid "To continue working with [product] enter the license key"
+msgstr "To continue working with [product] enter the license key"
+
+msgctxt "Languages::text_buy_new_license"
+msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+
+msgctxt "Languages::buy_license"
+msgid "Buy the license"
+msgstr "Buy the license"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -15696,3 +15716,11 @@ msgstr "<p>Your store's database and files has been backed up before the upgrade
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
 msgstr "Search by features is not available due to the excessive number of variants."
+
+msgctxt "Languages::upgraded_on"
+msgid "Upgraded on"
+msgstr "Upgraded on"
+
+msgctxt "Languages::error_unable_to_create_thumbnail"
+msgid "Unable to create thumbnail: [error]"
+msgstr "Unable to create thumbnail: [error]"
