@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-22 05:04-0400\n"
+"PO-Revision-Date: 2015-07-14 07:03-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -22,7 +22,7 @@ msgstr "Webwinkel met de Twigmo service verbinden om een mobiele versie te maken
 
 msgctxt "SettingsSections::twigmo::service"
 msgid "Twigmo account"
-msgstr "Twigmo account"
+msgstr "Twigmo profiel"
 
 msgctxt "SettingsSections::twigmo::storefront"
 msgid "Mobile Storefront"
@@ -38,7 +38,7 @@ msgstr "Upgrade"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Push berichten"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -70,67 +70,67 @@ msgstr "If 'Desktop home page blocks' is selected, there are all the supported t
 
 msgctxt "Languages::twgadmin_manage_settings"
 msgid "Service account infomation"
-msgstr "Service account infomation"
+msgstr "Service profiel informatie"
 
 msgctxt "Languages::twgadmin_manage_storefront_settings"
 msgid "Mobile Storefront settings"
-msgstr "Mobile Storefront settings"
+msgstr "Instellingen mobiele webshop"
 
 msgctxt "Languages::twgadmin_wrong_api_object_data"
 msgid "Wrong [object] data"
-msgstr "Wrong [object] data"
+msgstr "Verkeerde [object] gegevens"
 
 msgctxt "Languages::twgadmin_wrong_api_data"
 msgid "Wrong API data"
-msgstr "Wrong API data"
+msgstr "Verkeerde API-gegevens"
 
 msgctxt "Languages::twgadmin_wrong_shipping_info"
 msgid "Failed to place order: wrong shipping data"
-msgstr "Failed to place order: wrong shipping data"
+msgstr "Plaatsen van bestelling mislukt: verkeerde verzend gegevens"
 
 msgctxt "Languages::twgadmin_wrong_payment_info"
 msgid "Failed to place order: wrong payment data"
-msgstr "Failed to place order: wrong payment data"
+msgstr "Plaatsen van bestelling mislukt: verkeerde betaal gegevens"
 
 msgctxt "Languages::twgadmin_object_was_not_found"
 msgid "The [object] data were not found"
-msgstr "The [object] data were not found"
+msgstr "De [object] gegevens zijn niet gevonden"
 
 msgctxt "Languages::twgadmin_fail_create_user"
 msgid "Failed to create user"
-msgstr "Failed to create user"
+msgstr "Gebruiker aanmaken is mislukt"
 
 msgctxt "Languages::twgadmin_fail_post_order"
 msgid "Failed to place order"
-msgstr "Failed to place order"
+msgstr "Bestelling plaatsen is mislukt"
 
 msgctxt "Languages::twg_post_request_fail"
 msgid "Failed to post request"
-msgstr "Failed to post request"
+msgstr "Aanvraag plaatsen mislukt"
 
 msgctxt "Languages::twgadmin_error_validator_required"
 msgid "The '[field]' field is mandatory"
-msgstr "The '[field]' field is mandatory"
+msgstr "Het veld '[field]' is verplicht"
 
 msgctxt "Languages::twgadmin_mobile_version"
 msgid "Mobile version"
-msgstr "Mobile version"
+msgstr "Mobiele versie"
 
 msgctxt "Languages::twgadmin_text_updates_available"
 msgid "A new version of Twigmo add-on is available! <a href=\"[link]\">Click here to upgrade to it</a>."
-msgstr "A new version of Twigmo add-on is available! <a href=\"[link]\">Click here to upgrade to it</a>."
+msgstr "Een nieuwe versie van de Twigmo plug-in is beschikbaar! <a href=\"<a href=\"[link]\">Klik hier om te upgraden</a>."
 
 msgctxt "Languages::twgadmin_home_page_content"
 msgid "Home page content"
-msgstr "Home page content"
+msgstr "Inhoud voor op de homepage"
 
 msgctxt "Languages::twgadmin_use_mobile_frontend_for"
 msgid "Show mobile version for"
-msgstr "Show mobile version for"
+msgstr "Mobiele versie tonen voor"
 
 msgctxt "Languages::twgadmin_phones"
 msgid "Phones"
-msgstr "Phones"
+msgstr "Telefoons"
 
 msgctxt "Languages::twgadmin_tablets"
 msgid "Tablets"
@@ -138,19 +138,19 @@ msgstr "Tablets"
 
 msgctxt "Languages::twgadmin_home_page_blocks"
 msgid "Desktop home page blocks"
-msgstr "Desktop home page blocks"
+msgstr "Desktop homepage blokken"
 
 msgctxt "Languages::twgadmin_tw_home_page_blocks"
 msgid "Twigmo home page blocks"
-msgstr "Twigmo home page blocks"
+msgstr "Twigmo homepage blokken"
 
 msgctxt "Languages::twgadmin_homepage"
 msgid "Twigmo home page"
-msgstr "Twigmo home page"
+msgstr "Twigmo homepage"
 
 msgctxt "Languages::twgadmin_edit_these_blocks"
 msgid "Edit these blocks"
-msgstr "Edit these blocks"
+msgstr "Deze blokken wijzigen"
 
 msgctxt "Languages::twgadmin_select_skin"
 msgid "Skin"
@@ -158,99 +158,99 @@ msgstr "Skin"
 
 msgctxt "Languages::twgadmin_hide_header"
 msgid "Hide header"
-msgstr "Hide header"
+msgstr "Header verbergen"
 
 msgctxt "Languages::twg_btn_load_more_items"
 msgid "Load More"
-msgstr "Load More"
+msgstr "Meer laden"
 
 msgctxt "Languages::twg_btn_log_in_to_checkout"
 msgid "Sign in to checkout"
-msgstr "Sign in to checkout"
+msgstr "Inloggen om af te rekenen"
 
 msgctxt "Languages::twg_lbl_copy_from_billing"
 msgid "Ship to the same address"
-msgstr "Ship to the same address"
+msgstr "Verzenden naar hetzelfde adres"
 
 msgctxt "Languages::twg_msg_date_invalid"
 msgid "Please enter a valid date."
-msgstr "Please enter a valid date."
+msgstr "Vul een geldige datum in."
 
 msgctxt "Languages::twg_msg_dateiso_invalid"
 msgid "Please enter a valid date (YYYY-MM-DD)."
-msgstr "Please enter a valid date (YYYY-MM-DD)."
+msgstr "Vul een geldige datum in (jjjj-mm-dd)."
 
 msgctxt "Languages::twg_msg_digits_required"
 msgid "Please enter only digits."
-msgstr "Please enter only digits."
+msgstr "Vul alleen cijfers in."
 
 msgctxt "Languages::twg_msg_email_invalid"
 msgid "Please enter a valid email address."
-msgstr "Please enter a valid email address."
+msgstr "Vul een geldig e-mailadres in."
 
 msgctxt "Languages::twg_msg_extension_invalid"
 msgid "Please enter a value with a valid extension."
-msgstr "Please enter a value with a valid extension."
+msgstr "Vul een waarde in met een geldige extensie."
 
 msgctxt "Languages::twg_msg_field_required"
 msgid "This field is required."
-msgstr "This field is required."
+msgstr "Dit veld is verplicht."
 
 msgctxt "Languages::twg_msg_fill_required_fields"
 msgid "Please fill in all the required fields."
-msgstr "Please fill in all the required fields."
+msgstr "Vul alle verplichte velden in."
 
 msgctxt "Languages::twg_msg_field_invalid"
 msgid "Please fix this field."
-msgstr "Please fix this field."
+msgstr "Controleer dit veld."
 
 msgctxt "Languages::twg_msg_max_length"
 msgid "Please enter no more than {0} characters."
-msgstr "Please enter no more than {0} characters."
+msgstr "Vul niet meer dan {0} karakters in."
 
 msgctxt "Languages::twg_msg_max_value"
 msgid "Please enter a value less than or equal to {0}."
-msgstr "Please enter a value less than or equal to {0}."
+msgstr "Vul een waarde van minder of gelijk aan {0} in."
 
 msgctxt "Languages::twg_msg_min_length"
 msgid "Please enter at least {0} characters."
-msgstr "Please enter at least {0} characters."
+msgstr "Vul tenminste {0} karakters in."
 
 msgctxt "Languages::twg_msg_min_value"
 msgid "Please enter a value greater than or equal to {0}."
-msgstr "Please enter a value greater than or equal to {0}."
+msgstr "Vul een waarde van groter of gelijk aan {0} in."
 
 msgctxt "Languages::twg_msg_number_invalid"
 msgid "Please enter a valid number."
-msgstr "Please enter a valid number."
+msgstr "Vul een geldig getal in."
 
 msgctxt "Languages::twg_msg_order_was_placed"
 msgid "Your order has been placed!<br />The order ID is "
-msgstr "Your order has been placed!<br />The order ID is "
+msgstr "De bestelling is geplaatst! <br />Het bestelnummer is "
 
 msgctxt "Languages::twg_msg_orders_were_placed"
 msgid "Your orders have been placed!<br />The order IDs are "
-msgstr "Your orders have been placed!<br />The order IDs are "
+msgstr "De bestellingen zijn geplaatst! <br />De bestelnummers zijn "
 
 msgctxt "Languages::twg_msg_cc_invalid"
 msgid "Please enter a valid credit card number."
-msgstr "Please enter a valid credit card number."
+msgstr "Vul een geldig creditcard nummer in."
 
 msgctxt "Languages::twg_msg_range_length"
 msgid "Please enter a value between {0} and {1} characters long."
-msgstr "Please enter a value between {0} and {1} characters long."
+msgstr "Vul een waarde van tussen de {0} en {1} karakters in."
 
 msgctxt "Languages::twg_msg_range_value"
 msgid "Please enter a value between {0} and {1}."
-msgstr "Please enter a value between {0} and {1}."
+msgstr "Vul een waarde in tussen {0} en {1}."
 
 msgctxt "Languages::twg_msg_same_value_required"
 msgid "Please enter the same value again."
-msgstr "Please enter the same value again."
+msgstr "Vul dezelfde waarde opnieuw in."
 
 msgctxt "Languages::twg_msg_url_invalid"
 msgid "Please enter a valid URL."
-msgstr "Please enter a valid URL."
+msgstr "Vul een geldige URL in."
 
 msgctxt "Languages::twg_cart_info"
 msgid "[amount] ([total])"
@@ -258,7 +258,7 @@ msgstr "[amount] ([total])"
 
 msgctxt "Languages::twg_share"
 msgid "Share"
-msgstr "Share"
+msgstr "Delen"
 
 msgctxt "Languages::twg_facebook"
 msgid "Facebook"
@@ -454,75 +454,75 @@ msgstr "This product cannot be added to the cart because you are not logged in."
 
 msgctxt "Languages::twgadmin_disconnected"
 msgid "Disconnected"
-msgstr "Disconnected"
+msgstr "Verbinding verbroken"
 
 msgctxt "Languages::twgadmin_connected"
 msgid "Connected"
-msgstr "Connected"
+msgstr "Verbonden"
 
 msgctxt "Languages::twgadmin_terms"
 msgid "Terms and conditions"
-msgstr "Terms and conditions"
+msgstr "Algemene voorwaarden"
 
 msgctxt "Languages::twgadmin_accept_terms_n_conditions"
 msgid "I accept the <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Terms and Conditions</a>."
-msgstr "I accept the <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Terms and Conditions</a>."
+msgstr "Ik accepteer de <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Algemene voorwaarden</a>."
 
 msgctxt "Languages::twgadmin_stores"
 msgid "Stores"
-msgstr "Stores"
+msgstr "Winkels"
 
 msgctxt "Languages::twgadmin_curl_error"
 msgid "Couldn't get HTTP response from the Twigmo server. Please make sure that your server supports executing HTTP requests either through curl or sockets."
-msgstr "Couldn't get HTTP response from the Twigmo server. Please make sure that your server supports executing HTTP requests either through curl or sockets."
+msgstr "Kan geen HTTP reactie ontvangen van de Twigmo server. Controleer of de server uitvoerende http-aanvragen ondersteunt via curl of sockets."
 
 msgctxt "Languages::twgadmin_open_te"
 msgid "Visual Editor"
-msgstr "Visual Editor"
+msgstr "Visuele editor"
 
 msgctxt "Languages::twgadmin_open_cp"
 msgid "Twigmo Control Panel"
-msgstr "Twigmo Control Panel"
+msgstr "Twigmo controle paneel"
 
 msgctxt "Languages::twgadmin_no_token_recieved"
 msgid "Twigmo failed to retrieve authentication token. [linkOpen]Go back[linkClose]"
-msgstr "Twigmo failed to retrieve authentication token. [linkOpen]Go back[linkClose]"
+msgstr "Ophalen van de authenticatie code door Twigmo is mislukt. [linkOpen]Ga terug[linkClose]"
 
 msgctxt "Languages::twg_buy_only_via_desktop"
 msgid "This product can be purchased via [linkOpen]the desktop website[linkClose]."
-msgstr "This product can be purchased via [linkOpen]the desktop website[linkClose]."
+msgstr "Dit product kan gekocht worden via [linkOpen]de desktop website[linkClose]."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_email"
 msgid "Enter your Twigmo account email address. If you have no Twigmo account, it will be created for you automatically (your email address will be verified)."
-msgstr "Enter your Twigmo account email address. If you have no Twigmo account, it will be created for you automatically (your email address will be verified)."
+msgstr "Vul het e-mailadres van het Twigmo profiel in. Indien men geen Twigmo profiel heeft, wordt deze automatisch aangemaakt (het e-mailadres wordt gecontroleerd)."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_password"
 msgid "Enter your Twigmo account password. If you have no Twigmo account, please enter a secure password and we will create a new Twigmo account for you."
-msgstr "Enter your Twigmo account password. If you have no Twigmo account, please enter a secure password and we will create a new Twigmo account for you."
+msgstr "Vul het wachtwoord in van het Twigmo profiel, of vul een veilig wachtwoord in zodat er een Twigmo account wordt aangemaakt."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_twgadmin_stores"
 msgid "Select stores that are to be connected to the Twigmo service."
-msgstr "Select stores that are to be connected to the Twigmo service."
+msgstr "Selecteer webwinkels die verbonden moeten worden met de Twigmo service."
 
 msgctxt "Languages::twg_cannot_redirect_to_desktop"
 msgid "The desktop site cannot be displayed in this mode, but the link will work fine on a real mobile device."
-msgstr "The desktop site cannot be displayed in this mode, but the link will work fine on a real mobile device."
+msgstr "De desktop website kan in deze modus niet worden weergegeven, maar de link werkt prima op een mobiel apparaat."
 
 msgctxt "Languages::twgadmin_about"
 msgid "About Twigmo"
-msgstr "About Twigmo"
+msgstr "Over Twigmo"
 
 msgctxt "Languages::twgadmin_addon_version"
 msgid "Add-on version"
-msgstr "Add-on version"
+msgstr "Plug-in versie"
 
 msgctxt "Languages::twgadmin_disconnect"
 msgid "Disconnect"
-msgstr "Disconnect"
+msgstr "Verbinding verbreken"
 
 msgctxt "Languages::twgadmin_disconnect_whole"
 msgid "Disconnect whole addon"
-msgstr "Disconnect whole addon"
+msgstr "Verbreek de complete plug-in"
 
 msgctxt "Languages::plan"
 msgid "Plan"
@@ -530,135 +530,135 @@ msgstr "Plan"
 
 msgctxt "Languages::twgadmin_failed_to_decompress_files"
 msgid "Failed to extract files from the archive"
-msgstr "Failed to extract files from the archive"
+msgstr "Bestanden uitpakken is mislukt"
 
 msgctxt "Languages::twgadmin_upgrade_completed"
 msgid "Upgrade completed"
-msgstr "Upgrade completed"
+msgstr "Upgrade voltooid"
 
 msgctxt "Languages::twapp_stats"
 msgid "Statistics"
-msgstr "Statistics"
+msgstr "Statistieken"
 
 msgctxt "Languages::twapp_timeline"
 msgid "Timeline"
-msgstr "Timeline"
+msgstr "Tijdlijn"
 
 msgctxt "Languages::twapp_manage_accounts"
 msgid "Manage accounts"
-msgstr "Manage accounts"
+msgstr "Profielen beheren"
 
 msgctxt "Languages::twapp_low_stock"
 msgid "Low stock"
-msgstr "Low stock"
+msgstr "Lage voorraad"
 
 msgctxt "Languages::twapp_low_stock_products"
 msgid "Low stock products"
-msgstr "Low stock products"
+msgstr "Producten met lage voorraad"
 
 msgctxt "Languages::twapp_all_low_stock_products"
 msgid "All low stock products"
-msgstr "All low stock products"
+msgstr "Alle producten met lage voorraad"
 
 msgctxt "Languages::twapp_delete_account"
 msgid "Delete account"
-msgstr "Delete account"
+msgstr "Profiel verwijderen"
 
 msgctxt "Languages::twapp_app_account_info"
 msgid "Fill in the fields below to sign in."
-msgstr "Fill in the fields below to sign in."
+msgstr "Vul de velden hieronder in om aan te melden."
 
 msgctxt "Languages::twapp_login_or_email"
 msgid "Login/Email"
-msgstr "Login/Email"
+msgstr "Login/E-mailadres"
 
 msgctxt "Languages::twapp_latest_orders"
 msgid "Latest orders"
-msgstr "Latest orders"
+msgstr "Laatste bestellingen"
 
 msgctxt "Languages::twapp_back"
 msgid "Back"
-msgstr "Back"
+msgstr "Terug"
 
 msgctxt "Languages::twapp_users_statistics"
 msgid "Users statistics"
-msgstr "Users statistics"
+msgstr "Gebruikers statistieken"
 
 msgctxt "Languages::twapp_configurable"
 msgid "Configurable"
-msgstr "Configurable"
+msgstr "Configureerbaar"
 
 msgctxt "Languages::twg_lbl_out_of_stock"
 msgid "Out of stock"
-msgstr "Out of stock"
+msgstr "Niet op voorraad"
 
 msgctxt "Languages::twapp_signing_in"
 msgid "Signing in..."
-msgstr "Signing in..."
+msgstr "Inloggen..."
 
 msgctxt "Languages::twapp_two_days_sales"
 msgid "Sales for the last 2 days"
-msgstr "Sales for the last 2 days"
+msgstr "Verkopen van de afgelopen 2 dagen"
 
 msgctxt "Languages::twapp_two_weeks_sales"
 msgid "Sales for the last 2 weeks"
-msgstr "Sales for the last 2 weeks"
+msgstr "Verkopen van de afgelopen 2 weken"
 
 msgctxt "Languages::twapp_two_month_sales"
 msgid "Sales for the last 2 months"
-msgstr "Sales for the last 2 months"
+msgstr "Verkopen van de afgelopen 2 maanden"
 
 msgctxt "Languages::twapp_stat_day_1"
 msgid "12am"
-msgstr "12am"
+msgstr "0:00"
 
 msgctxt "Languages::twapp_stat_day_2"
 msgid "4am"
-msgstr "4am"
+msgstr "4:00"
 
 msgctxt "Languages::twapp_stat_day_3"
 msgid "8am"
-msgstr "8am"
+msgstr "8:00"
 
 msgctxt "Languages::twapp_stat_day_4"
 msgid "12pm"
-msgstr "12pm"
+msgstr "12:00"
 
 msgctxt "Languages::twapp_stat_day_5"
 msgid "4pm"
-msgstr "4pm"
+msgstr "16:00"
 
 msgctxt "Languages::twapp_stat_day_6"
 msgid "8pm"
-msgstr "8pm"
+msgstr "20:00"
 
 msgctxt "Languages::twapp_stat_week_1"
 msgid "Mo"
-msgstr "Mo"
+msgstr "Ma"
 
 msgctxt "Languages::twapp_stat_week_2"
 msgid "Tu"
-msgstr "Tu"
+msgstr "Di"
 
 msgctxt "Languages::twapp_stat_week_3"
 msgid "We"
-msgstr "We"
+msgstr "Wo"
 
 msgctxt "Languages::twapp_stat_week_4"
 msgid "Th"
-msgstr "Th"
+msgstr "Do"
 
 msgctxt "Languages::twapp_stat_week_5"
 msgid "Fr"
-msgstr "Fr"
+msgstr "Vr"
 
 msgctxt "Languages::twapp_stat_week_6"
 msgid "Sa"
-msgstr "Sa"
+msgstr "Za"
 
 msgctxt "Languages::twapp_stat_week_7"
 msgid "Su"
-msgstr "Su"
+msgstr "Zo"
 
 msgctxt "Languages::twapp_stat_month_1"
 msgid "w1"
@@ -682,123 +682,123 @@ msgstr "w5"
 
 msgctxt "Languages::twapp_net_error_title"
 msgid "No network connection"
-msgstr "No network connection"
+msgstr "Geen netwerkverbinding"
 
 msgctxt "Languages::twapp_net_error_message"
 msgid "Cannot load data. Please check your network connection."
-msgstr "Cannot load data. Please check your network connection."
+msgstr "Gegevens laden mislukt. Controleer de netwerkverbinding."
 
 msgctxt "Languages::twapp_in_stock_lowercase"
 msgid "in stock"
-msgstr "in stock"
+msgstr "op voorraad"
 
 msgctxt "Languages::twapp_receive_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Push berichten"
 
 msgctxt "Languages::twapp_will_affect_all_stores"
 msgid "Updating this field will affect all stores"
-msgstr "Updating this field will affect all stores"
+msgstr "Dit veld bijwerken heeft invloed op alle webwinkels"
 
 msgctxt "Languages::twapp_data_lang"
 msgid "Data lang."
-msgstr "Data lang."
+msgstr "Gegevens taal"
 
 msgctxt "Languages::twg_placed"
 msgid "Placed"
-msgstr "Placed"
+msgstr "Geplaatst"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
 msgid "Twigmo Mobile Admin application"
-msgstr "Twigmo Mobile Admin application"
+msgstr "Twigmo mobiele beheer applicatie"
 
 msgctxt "Languages::twgadmin_download_app"
 msgid "Download the app"
-msgstr "Download the app"
+msgstr "Deze app downloaden"
 
 msgctxt "Languages::twgadmin_download_app_hint"
 msgid "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
-msgstr "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
+msgstr "Deze app is uitsluitend beschikbaar op de <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">geselecteerde Twigmo pakketten</a>."
 
 msgctxt "Languages::twgadmin_saved"
 msgid "Saved"
-msgstr "Saved"
+msgstr "Opgeslagen"
 
 msgctxt "Languages::twapp_admin_url"
 msgid "Admin URL"
-msgstr "Admin URL"
+msgstr "Beheer URL"
 
 msgctxt "Languages::twgadmin_auth_fail_access_id"
 msgid "You have no permissions to log in to the store with this Access ID."
-msgstr "You have no permissions to log in to the store with this Access ID."
+msgstr "Geen toegang om in te loggen in de webwinkel met deze toegangs-ID."
 
 msgctxt "Languages::twgadmin_mobile_app"
 msgid "Mobile app"
-msgstr "Mobile app"
+msgstr "Mobiele app"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
-msgstr "QR code for the app<br>login page"
+msgstr "QR code voor de app<br />Inlog pagina"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
-msgstr "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgstr "Deze QR code bevat de Twigmo toegangs-ID [access_id], de URL naar het beheerpaneel, en de login voor het beheerpaneel (e-mailadres of gebruikersnaam). Alleen het invullen van wachtwoord dient handmatig gedaan te worden."
 
 msgctxt "Languages::twapp_wrong_api_login_data"
 msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
-msgstr "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
+msgstr "Geen gegevens ontvangen van deze beheer URL. Controleer het. Zorg er ook voor dat de Twigmo plug-in is ingeschakeld en verbonden is met de service in de webshop"
 
 msgctxt "Languages::twapp_scan_qr"
 msgid "Scan the QR code in your store admin panel"
-msgstr "Scan the QR code in your store admin panel"
+msgstr "Scan de QR code in het beheerpaneel van de webshop"
 
 msgctxt "Languages::twapp_tap_to_scan"
 msgid "Tap to scan"
-msgstr "Tap to scan"
+msgstr "Tik hier om te scannen"
 
 msgctxt "Languages::twapp_fill_manually"
 msgid "Fill in the fields manually"
-msgstr "Fill in the fields manually"
+msgstr "Vul de velden handmatig in"
 
 msgctxt "Languages::twapp_fill_to_sign_in"
 msgid "Fill in the fields below to sign in."
-msgstr "Fill in the fields below to sign in."
+msgstr "De velden hieronder invullen om aan te melden."
 
 msgctxt "Languages::twgadmin_show_product_code"
 msgid "Show product code on product details page"
-msgstr "Show product code on product details page"
+msgstr "Productcode op product detailpagina weergeven"
 
 msgctxt "Languages::twapp_add_account"
 msgid "Add account"
-msgstr "Add account"
+msgstr "Profiel toevoegen"
 
 msgctxt "Languages::twapp_pull_to_refresh"
 msgid "Pull to refresh"
-msgstr "Pull to refresh"
+msgstr "Scroll om te vernieuwen"
 
 msgctxt "Languages::twapp_release_to_refresh"
 msgid "Release to refresh"
-msgstr "Release to refresh"
+msgstr "Los laten om te vernieuwen"
 
 msgctxt "Languages::twapp_could_not_connect"
 msgid "Could not connect to the Twigmo add-on at [URL]."
-msgstr "Could not connect to the Twigmo add-on at [URL]."
+msgstr "Kan geen verbinding maken met de Twigmo plug-in op [URL]."
 
 msgctxt "Languages::twgadmin_push_notifications"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "Push berichten"
 
 msgctxt "Languages::twgadmin_send_push_notifications"
 msgid "Send push notifications to your mobile store app users"
-msgstr "Send push notifications to your mobile store app users"
+msgstr "Push berichten versturen aan gebruikers van de mobiele webwinkel app"
 
 msgctxt "Languages::twgadmin_select_store_short"
 msgid "Select a store"
-msgstr "Select a store"
+msgstr "Selecteer een webwinkel"
 
 msgctxt "Languages::twgadmin_push_notification_text"
 msgid "Push notification text"
-msgstr "Push notification text"
+msgstr "Push bericht tekst"
 
 msgctxt "Languages::twgadmin_push_notification_comment"
 msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
@@ -826,5 +826,5 @@ msgstr "[This order was placed via Twigmo Mobile Application for Android]"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
 msgid "[This order was placed via Twigmo Mobile Application for iOS]"
-msgstr "[This order was placed via Twigmo Mobile Application for iOS]"
+msgstr "[Deze bestelling is geplaatst via de Twigmo mobiele applicatie voor iOS]"
 

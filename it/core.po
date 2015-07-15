@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:04-0400\n"
+"PO-Revision-Date: 2015-07-14 06:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3839,6 +3839,10 @@ msgstr "L'azienda con l'indirizzo e-mail che hai scelto esiste già, per favore 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC è troppo breve."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10616,10 +10620,6 @@ msgstr "-&nbsp;Accedi al tuo account iDEAL<br />-&nbsp;Clicca su <u>'Security'</
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "La cartella dove sono situate le immagini. Questa verrà utilizzata se il nome del file è senza percorso."
-
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "È possibile utilizzare le seguenti informazioni sull'account per scopi di test:<br />username: <b>gatewaytest</b><br /> password: <b>GateTest2002</b>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:04-0400\n"
+"PO-Revision-Date: 2015-07-14 06:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3678,7 +3678,7 @@ msgstr "Følgende felt er obligatoriske og kan ikke fjernes fra layouten:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Ingen data eksportert. Feil eksport-felt er trolig årsaken til problemet. <a class=\"cm-post\" href=\"[url]\">Fjern eksport-feltene</a>, og prøv igjen"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3839,6 +3839,10 @@ msgstr "Firmaet med e-posten du har valgt eksisterer allerede, vennligst prøv e
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC er for kort."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10616,10 +10620,6 @@ msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Katalogen hvor bildene ligger. Dette vil bli brukt hvis bildefilen er angitt uten bane, dette må være en absolutt sti"
 
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "Du kan bruke følgende kontoinformasjon for testing: <br /> brukernavn: <b> gatewaytest </ b> <br /> passord: <b> GateTest2002 </ b>"
-
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
 msgstr "Du har angitt en ugyldig URL"
@@ -11178,7 +11178,7 @@ msgstr "Full tilgang til alle funksjoner i løpet av en 30-dagers prøveperiode,
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Alle funksjoner er tilgjengelige i 30 dager etter nedlasting av installasjonspakken. Du trenger ikke å legge inn lisensnøkkel.<br /><br />Etter at 30-dagers prøveperioden er over, må du kjøpe en lisens eller legge inn en lisensnøkkel dersom du allerede har en.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -12130,19 +12130,19 @@ msgstr "Din butikk er i test modus.<br /><br />Når den 30-dagers prøveperioden
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "Din testperiode av nettbutikken fra [product] er fullført"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "For å fortsette å arbeide med [product] tast inn din lisensnøkkel"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Hvis du ikke har en med lisensnøkkel, kan du bestille det på vår nettside <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Kjøp lisensen"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -15727,9 +15727,9 @@ msgstr "Søk etter funksjoner er ikke tilgjengelig på grunn av for høyt antall
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Oppgradert på"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail: [error]"
-msgstr "Unable to create thumbnail: [error]"
+msgstr "Kan ikke opprette miniatyrbilde: [error]"
 

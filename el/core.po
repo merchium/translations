@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:03-0400\n"
+"PO-Revision-Date: 2015-07-14 06:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Προσθήκη στο Καλάθι"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Προσθέσετε στη λίστα σύγκρισης"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1262,11 +1262,11 @@ msgstr "Επιλογές φιλτραρίσματος προϊόντων"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "ΦΙΛΤΡΑ ΠΡΟΪΟΝΤΩΝ για Αρχική σελίδα"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Επιλογές Φίλτρων Προϊόντων, που εμφανίζονται στην αρχική σελίδα"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -2050,11 +2050,11 @@ msgstr "Σύγκριση"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Λίστα σύγκρισης"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Πηγαίνετε στη λίστα σύγκρισης προϊόντων"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3222,7 +3222,7 @@ msgstr "Διαγράψτε όλα τα υπάρχοντα αρχεία των π
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Δεν μπορώ να ανεβάσω το αρχείο αντιγράφου ασφαλείας. Παρακαλώ ελέγξτε τα δικαιώματα για τον κατάλογο \"var/backups\" της εγκατάστασής σας."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3678,7 +3678,7 @@ msgstr "Τα παρακάτω πεδία είναι υποχρεωτικά κα�
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Δεν έγινε εξαγωγή των δεδομένων. Η λάνθασμένη επιλογή Εύρους  πιθανώς προκαλεί αυτό το ζήτημα. <a class=\"cm-post\" href=\"[url]\"> καταργήστε το εύρος εξαγωγής</a>, και στη συνέχεια, προσπαθήστε ξανά."
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3839,6 +3839,10 @@ msgstr "Η εταιρεία με το e-mail που έχετε επιλέξει 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "Ο Αριθμός CVV/CVC ειναι ελειπης"
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Δεν επιτρεπεται να αλλάξει το email ή ο κωδικός του admin η στο χώρο του πελάτη. Παρακαλούμε συνδεθείτε χρησιμοποιώντας ένα λογαριασμό πελάτη."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7354,7 +7358,7 @@ msgstr "Το προϊόν προστέθηκε στο καλάθι σας"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Το προϊόν προστέθηκε στην λίστα Σύγκρισης"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7422,7 +7426,7 @@ msgstr "Αυτό το προϊόν είναι ήδη στο καλάθι"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Αυτό το προϊόν είναι ήδη στη λίστα σύγκρισης"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -9166,23 +9170,23 @@ msgstr "Κέντρο εναέριων υπηρεσιών"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Καμία υπογραφή"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Απαιτείται υπογραφή"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Απαιτείται Υπογραφή Ενήλικα"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Χρήση της επιβεβαίωσης παράδοσης"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Τύποες Επιβεβαίωσης"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -10616,10 +10620,6 @@ msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Directory where images are located (this will be used if image file is specified without path; this must be an absolute path, e.g. [images_backup_dir])"
 
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "Μπορείτε να χρησιμοποιήσετε τα ακόλουθα στοιχεία του λογαριασμού για τη διεξαγωγή δοκιμών: <br /> όνομα χρήστη: <b>gatewaytest</b> <br /> κωδικός πρόσβασης: <b>GateTest2002</b>"
-
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
 msgstr "Έχετε εισάγει μια άκυρη διεύθυνση URL"
@@ -11178,7 +11178,7 @@ msgstr "Πλήρη πρόσβαση σε όλες τις δυνατότητες 
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Όλα τα χαρακτηριστικά γνωρίσματα είναι διαθέσιμα κατά τη διάρκεια των 30 ημερων μετά τη λήψη του πακέτου εγκατάστασης. Δεν χρειάζεται να εισάγετε το κλειδί αδειας χρήσης. <br /> <br /> Εφόσον τελειώσει η περίοδοs των 30-ημερων, θα πρέπει να αγοράσετε μία άδεια χρήσης ή να εισάγετε ένα κλειδί άδειας, αν έχετε ήδη ένα.<br /> <br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11294,7 +11294,7 @@ msgstr "Η FTP μεταφορά απέτυχε"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "Δεν μπορέσαμε να βρούμε εγκατάσταση CS-Cart στον καθορισμένο κατάλογο. Βεβαιωθείτε ότι έχετε εισάγει το σωστό κατάλογο FTP."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -12130,19 +12130,19 @@ msgstr "Το κατάστημά σας είναι σε δοκιμαστική λ
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "Η δοκιμαστική σας έκδοση του [product] έχει τελειώσει"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Για να  συνεχίσετε να εργάζεστει με το [product] εισάγετε ένα κλειδί αδειας"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Αν δεν έχετε ένα κλειδί αδειας, μπορείτε να το αγοράσετε στην επίσημη ιστοσελίδα μας <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Αγοράστε την άδεια χρήσης"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12550,7 +12550,7 @@ msgstr "Upgrades are available only in <strong>Full</strong> and <strong>Free</s
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Δεν είναι δυνατή η προετοιμασία του αρχείου restore.php. Το αρχείο \"var/upgrade/restore.php\" έχει τοπικά τροποποιηθεί/μετονομαστεί/απομακρυνθεί. Επαναφέρετε το αρχικό αρχείο restore.php πριν από την αναβάθμιση."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -12918,7 +12918,7 @@ msgstr "Προβολή κατηγοριών"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Λίστα σύγκρισης"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -15727,9 +15727,9 @@ msgstr "Η Αναζήτηση ανά χαρακτηριστικό δεν είν�
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Αναβαθμηστηκε"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail: [error]"
-msgstr "Unable to create thumbnail: [error]"
+msgstr "Δεν είναι δυνατή η δημιουργία μικρογραφίας: [error]"
 

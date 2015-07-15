@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:05-0400\n"
+"PO-Revision-Date: 2015-07-15 03:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3258,23 +3258,23 @@ msgstr "Easing"
 
 msgctxt "Languages::edit"
 msgid "Edit"
-msgstr "Edit"
+msgstr "Chỉnh sửa"
 
 msgctxt "Languages::editing"
 msgid "Editing"
-msgstr "Editing"
+msgstr "Chỉnh sửa"
 
 msgctxt "Languages::editing_block"
 msgid "Editing block"
-msgstr "Editing block"
+msgstr "Chỉnh sửa khối"
 
 msgctxt "Languages::editing_category"
 msgid "Editing category"
-msgstr "Editing category"
+msgstr "Sửa danh mục"
 
 msgctxt "Languages::editing_chart"
 msgid "Editing chart"
-msgstr "Editing chart"
+msgstr "Sửa biểu đồ"
 
 msgctxt "Languages::editing_container"
 msgid "Editing container"
@@ -3282,15 +3282,15 @@ msgstr "Editing container"
 
 msgctxt "Languages::editing_currency"
 msgid "Editing currency"
-msgstr "Editing currency"
+msgstr "Sửa tiền tệ"
 
 msgctxt "Languages::editing_defined_products"
 msgid "Editing defined products"
-msgstr "Editing defined products"
+msgstr "Sửa sản phẩm được xác định"
 
 msgctxt "Languages::editing_file"
 msgid "Editing file"
-msgstr "Editing file"
+msgstr "Sửa tập tin"
 
 msgctxt "Languages::editing_filter"
 msgid "Editing filter"
@@ -3494,19 +3494,19 @@ msgstr "Hoạt động"
 
 msgctxt "Languages::enabled"
 msgid "Enabled"
-msgstr "Enabled"
+msgstr "Kích hoạt"
 
 msgctxt "Languages::enable_cdn"
 msgid "Enable CDN"
-msgstr "Enable CDN"
+msgstr "Kích hoạt CDN"
 
 msgctxt "Languages::enable_for"
 msgid "Enable for"
-msgstr "Enable for"
+msgstr "Kích hoạt cho"
 
 msgctxt "Languages::enable_or_disable_block"
 msgid "Activate/Deactivate Block"
-msgstr "Activate/Deactivate Block"
+msgstr "Kích hoạt/Vô hiệu hóa khối"
 
 msgctxt "Languages::enable_or_disable_container"
 msgid "Activate/Deactivate Container"
@@ -3518,11 +3518,11 @@ msgstr "Activate/Deactivate Grid"
 
 msgctxt "Languages::enable_quick_view"
 msgid "Enable quick view"
-msgstr "Enable quick view"
+msgstr "Kích hoạt xem nhanh"
 
 msgctxt "Languages::encryption"
 msgid "Encryption"
-msgstr "Encryption"
+msgstr "Mã hóa"
 
 msgctxt "Languages::encryption_key"
 msgid "Encryption Key"
@@ -3840,6 +3840,10 @@ msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC là quá ngắn."
 
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
 msgstr "Cụm từ chính xác"
@@ -3862,11 +3866,11 @@ msgstr "Loại ngoại lệ"
 
 msgctxt "Languages::exception_disabled"
 msgid "No variant can be selected"
-msgstr "No variant can be selected"
+msgstr "Không có biến thể có thể được chọn"
 
 msgctxt "Languages::exception_disregard"
 msgid "Any variant"
-msgstr "Any variant"
+msgstr "Bất kỳ biến thể"
 
 msgctxt "Languages::exception_error"
 msgid "ERROR"
@@ -3970,11 +3974,11 @@ msgstr "Mở rộng"
 
 msgctxt "Languages::extra"
 msgid "Extra"
-msgstr "Extra"
+msgstr "Mở rộng"
 
 msgctxt "Languages::extra_services"
 msgid "Extra services"
-msgstr "Extra services"
+msgstr "Dịch vụ bổ sung"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
@@ -4054,7 +4058,7 @@ msgstr "Giá trị thông tin phản hồi"
 
 msgctxt "Languages::field"
 msgid "Field"
-msgstr "Field"
+msgstr "Trường"
 
 msgctxt "Languages::field_editor"
 msgid "Field Editor"
@@ -4162,7 +4166,7 @@ msgstr "Đã hoàn thành"
 
 msgctxt "Languages::finnish"
 msgid "Finnish"
-msgstr "Finnish"
+msgstr "Tiếng Phần Lan"
 
 msgctxt "Languages::first_name"
 msgid "First name"
@@ -4242,15 +4246,15 @@ msgstr "Miễn phí vận chuyển"
 
 msgctxt "Languages::french"
 msgid "French"
-msgstr "French"
+msgstr "Tiếng Pháp"
 
 msgctxt "Languages::from"
 msgid "from"
-msgstr "from"
+msgstr "từ"
 
 msgctxt "Languages::from_date"
 msgid "Date from"
-msgstr "Date from"
+msgstr "Từ ngày"
 
 msgctxt "Languages::fulfillment_state"
 msgid "Fulfillment state"
@@ -4258,7 +4262,7 @@ msgstr "Fulfillment state"
 
 msgctxt "Languages::full"
 msgid "Full"
-msgstr "Full"
+msgstr "Đầy đủ"
 
 msgctxt "Languages::fullauth"
 msgid "Fullauth"
@@ -4266,11 +4270,11 @@ msgstr "Fullauth"
 
 msgctxt "Languages::full_description"
 msgid "Full description"
-msgstr "Full description"
+msgstr "Mô tả đầy đủ"
 
 msgctxt "Languages::full_list"
 msgid "Full list"
-msgstr "Full list"
+msgstr "Danh sách đầy đủ"
 
 msgctxt "Languages::full_tree_cat"
 msgid "Full tree"
@@ -4314,7 +4318,7 @@ msgstr "Thống kê chung"
 
 msgctxt "Languages::generate"
 msgid "Generate"
-msgstr "Generate"
+msgstr "Tạo ra"
 
 msgctxt "Languages::generate_submenu"
 msgid "Generate submenu"
@@ -4646,7 +4650,7 @@ msgstr "Tăng"
 
 msgctxt "Languages::inc_tax"
 msgid "inc tax"
-msgstr "inc tax"
+msgstr "kèm thuế"
 
 msgctxt "Languages::index"
 msgid "Home page"
@@ -4666,7 +4670,7 @@ msgstr "Input field"
 
 msgctxt "Languages::insert_block"
 msgid "Add block"
-msgstr "Add block"
+msgstr "Thêm khối"
 
 msgctxt "Languages::insert_grid"
 msgid "Add grid"
@@ -4738,7 +4742,7 @@ msgstr "International U.S.P.S."
 
 msgctxt "Languages::inventory"
 msgid "Inventory"
-msgstr "Inventory"
+msgstr "Hàng tồn kho"
 
 msgctxt "Languages::invitees"
 msgid "Invitees"
@@ -4798,7 +4802,7 @@ msgstr "Cho phép thanh toán bằng điểm thưởng"
 
 msgctxt "Languages::italian"
 msgid "Italian"
-msgstr "Italian"
+msgstr "Tiếng Ý"
 
 msgctxt "Languages::items"
 msgid "item(s)"
@@ -4826,15 +4830,15 @@ msgstr "Các mục"
 
 msgctxt "Languages::item_number"
 msgid "Show item number"
-msgstr "Show item number"
+msgstr "Hiển thị số mục"
 
 msgctxt "Languages::item_quantity"
 msgid "Item quantity"
-msgstr "Item quantity"
+msgstr "Số lượng mục"
 
 msgctxt "Languages::japanese"
 msgid "Japanese"
-msgstr "Japanese"
+msgstr "Tiếng Nhật"
 
 msgctxt "Languages::join"
 msgid "Join"
@@ -5102,19 +5106,19 @@ msgstr "Danh sách các đối tượng"
 
 msgctxt "Languages::list_price"
 msgid "List price"
-msgstr "List price"
+msgstr "Bảng giá"
 
 msgctxt "Languages::list_price_decreased"
 msgid "List price has been decreased by"
-msgstr "List price has been decreased by"
+msgstr "Bảng giá đã giảm bởi"
 
 msgctxt "Languages::list_price_increased"
 msgid "List price has been increased by"
-msgstr "List price has been increased by"
+msgstr "Bảng giá đã tăng bởi"
 
 msgctxt "Languages::list_price_short"
 msgid "List price"
-msgstr "List price"
+msgstr "Bảng giá"
 
 msgctxt "Languages::list_quantity_count"
 msgid "List quantity count"
@@ -5302,7 +5306,7 @@ msgstr "Mail subject"
 
 msgctxt "Languages::main"
 msgid "Main"
-msgstr "Main"
+msgstr "Chính"
 
 msgctxt "Languages::mainbox_general"
 msgid "Mainbox general"
@@ -10615,10 +10619,6 @@ msgstr "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Directory where images are located. This will be used if an image file is specified without a path."
-
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"

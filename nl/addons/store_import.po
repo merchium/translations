@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-22 05:04-0400\n"
+"PO-Revision-Date: 2015-07-14 07:03-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -18,7 +18,7 @@ msgstr "Winkel importeren"
 
 msgctxt "Addons::description::store_import"
 msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
-msgstr "Hiermee kunt u gegevens van een bestaande CS-Cart webwinkel (vanaf versie 2.2.4, en met uitzondering van de community editie) importeren naar de huidige versie."
+msgstr "Hiermee kunnen  gegevens van een bestaande CS-Cart webwinkel (vanaf versie 2.2.4, en met uitzondering van de community editie) geïmporteerd worden naar de huidige versie."
 
 msgctxt "Languages::store_import.full_path_installation_directory"
 msgid "Full path to the store installation directory"
@@ -42,39 +42,39 @@ msgstr "Connectie maken met de database server is mislukt"
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
-msgstr "Cannot start actualizing data due to Storefront/Vendor changes"
+msgstr "Als gevolg van wijzigingen in de webshop kan niet worden gestart met het actualiseren van de gegevens"
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>The store import is complete!</p>"
+msgstr "<p>Het importeren is voltooid!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
-msgstr "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
+msgstr "<p>Om de webwinkel live te zetten, moeten de volgende stappen worden ondernomen:</p><ul><li>Overschrijf de bestaande map van uw installatie met de nieuwe.</li><li>Stel de juiste waarden in voor de volgende variabelen: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Stel de juiste Webwinkel URL in het menu : Administratie ->Winkels.</li></ul><p>Om te beginnen met het importeren van een nieuwe webwinkel, klik op <b>Met het importeren van een nieuwe webwinkel starten</b></p>"
 
 msgctxt "Languages::store_import.completed_text_mve"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><p>To start another store import, click <b>Start new store import.</b></p>"
-msgstr "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><p>To start another store import, click <b>Start new store import.</b></p>"
+msgstr "<p>Om de webwinkel live te zetten, moeten de volgende stappen worden ondernomen:</p><ul><li>Overschrijf de bestaande map van uw installatie met de nieuwe.</li><li>Stel de juiste waarden in voor de volgende variabelen: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li></ul><p>Om te beginnen met het importeren van een nieuwe webwinkel, klik op <b>Met het importeren van een nieuwe webwinkel starten</b></p>"
 
 msgctxt "Languages::store_import.actualize_data_text"
 msgid "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] [edition].</b></p><p>To actualize the data since the last import, click <b>Actualize data</b> (Only design and settings <span>will be kept</span>.) This process can be done repeatedly. When actualizing is over you will see this page again.</p><p>Whenever you're ready to go live or start the Store import again, click <b>Complete Store import</b></p>"
-msgstr "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] [edition].</b></p><p>To actualize the data since the last import, click <b>Actualize data</b> (Only design and settings <span>will be kept</span>.) This process can be done repeatedly. When actualizing is over you will see this page again.</p><p>Whenever you're ready to go live or start the Store import again, click <b>Complete Store import</b></p>"
+msgstr "<p>Laatste gegevens import is gemaakt op <b>[date]</b> van <b>CS-Cart [version] [edition].</b></p><p>Om de gegevens te actualiseren sinds de laatste import, klik op <b>Gegevens actualiseren</b> (Alleen het ontwerp en instellingen <span>blijven behouden</span>.) Dit proces kan worden herhaald. Zodra het actualiseren is voltooid wordt deze pagina opnieuw weergegeven.</p><p>Indien klaar om live te gaan of opnieuw een webshop te importeren klik op <b>Importeren webshop afronden</b></p>"
 
 msgctxt "Languages::store_import.actualize_data"
 msgid "Actualize data"
-msgstr "Actualize data"
+msgstr "Gegevens actualiseren"
 
 msgctxt "Languages::store_import.import_from"
 msgid "Import from"
-msgstr "Import from"
+msgstr "Importeren vanuit"
 
 msgctxt "Languages::store_import.complete_store_import"
 msgid "Complete Store import"
-msgstr "Complete Store import"
+msgstr "Complete webwinkel importeren"
 
 msgctxt "Languages::store_import.import_data"
 msgid "Import data"
-msgstr "Import data"
+msgstr "Gegevens importeren"
 
 msgctxt "Languages::store_import.complete_configuration"
 msgid "Proceed to actualizing data"

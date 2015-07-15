@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:04-0400\n"
+"PO-Revision-Date: 2015-07-14 06:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3839,6 +3839,10 @@ msgstr "A kiválasztott email címhez tartozó cég már létezik, kérjük vál
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC túl rövid."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10615,10 +10619,6 @@ msgstr "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on <u>'Security'</
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Mappa, amely a képeket tartalmazza. Ez az útvonal lesz használva azoknál a képeknél, ahol nincs útvonal meghatározva. Csakis abszolút hivatkozás lehet."
-
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "Az alábbi fiókot használhatja tesztelés céljából: <br /> felhasználói név: <strong>gatewaytest</strong> <br /> jelszó: <strong>GateTest2002</strong>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"

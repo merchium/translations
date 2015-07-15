@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:03-0400\n"
+"PO-Revision-Date: 2015-07-14 06:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3678,7 +3678,7 @@ msgstr "Los campos siguientes son requeridos y no pueden ser quitados del diseñ
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No hay datos exportados. El rango de exportación incorrecta es probablemente la causa de este problema. <a class=\"cm-post\" href=\"[url]\"> Borrar </a> rango de exportación, vuelva a intentarlo"
+msgstr "No se han exportado datos. La causa probable de este problema es un rango de exportación incorrecto. <a class=\"cm-post\" href=\"[url]\"> Borra el rango de exportación </a> y vuelva a intentarlo"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3839,6 +3839,10 @@ msgstr "La empresa con el correo electrónico que ha elegido ya existe, por favo
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC demasiado corto."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10618,10 +10622,6 @@ msgstr "-&nbsp;Log in to your iDEAL account<br />-&nbsp;Click on the <u>'Securit
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "El directorio donde las imágenes están localizadas (esto será usado si el archivo de imagen es especificado sin la ruta; debe ser una ruta absoluta, ej. [images_backup_dir])"
-
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "Usted puede usar la información de cuenta siguiente para probar objetivos: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"

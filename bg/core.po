@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:03-0400\n"
+"PO-Revision-Date: 2015-07-14 06:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3839,6 +3839,10 @@ msgstr "Компанията с електронната поща, която с
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC е твърде кратък."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10615,10 +10619,6 @@ msgstr "-&nbsp;Моля, влезте в профила си iDEAL<br />-&nbsp;�
 msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Директорията, където се намира изображението."
-
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "Можете да използвате следния акаунт за тестови цели: <br /> Потребителско име: <b>gatewaytest</b> <br /> Парола: <b>GateTest2002</b>"
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"

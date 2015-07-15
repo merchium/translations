@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-08 06:04-0400\n"
+"PO-Revision-Date: 2015-07-14 06:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Do koszyka"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Dodaj do listy porównań"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -2050,11 +2050,11 @@ msgstr "Porównaj"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista porównań"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Przejdź do listy porównania produktów"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3678,7 +3678,7 @@ msgstr "Następujące pola są wymagane i nie mogą być usunięte z układu:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Nie wyeksportowano danych. Źle określony zakres eksportu jest prawdopodobnie przyczyną tego problemu. <a class=\"cm-post\" href=\"[url]\">Wyczyść w zakres eksportu</a>, a następnie spróbuj ponownie"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3839,6 +3839,10 @@ msgstr "Firma z wybranym przez Ciebie adresem e-mail już istnieje. Spróbuj pon
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
 msgstr "CVV/CVC jest zbyt krótki."
+
+msgctxt "Languages::error_change_admin_data_in_frontend"
+msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Nie można zmienić e-mail lub hasło administratora po stronie sklepu. Proszę zalogować się na konto klienta."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7354,7 +7358,7 @@ msgstr "Produkt dodany do koszyka"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Produkt został dodany do Twojej listy porównania"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7422,7 +7426,7 @@ msgstr "Ten produkt jest już w koszyku"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Ten produkt jest już w na liście porównań"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -9706,7 +9710,7 @@ msgstr "Składowanie danych"
 
 msgctxt "Languages::store"
 msgid "Store"
-msgstr "Sklepy CS-Cart"
+msgstr "Sklep"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
@@ -10616,10 +10620,6 @@ msgctxt "Languages::text_images_directory"
 msgid "Directory where images are located. This will be used if an image file is specified without a path."
 msgstr "Ścieżka do katalogu w którym znajdują się zdjęcia produktów. Zostanie użyta jeśli nazwa pliku ze zdjęciem nie ma określonej ścieżki; musi to być ścieżka absolutna"
 
-msgctxt "Languages::text_innovative_notice"
-msgid "You can use the following account information for testing purposes: <br /> username: <b>gatewaytest</b> <br /> password: <b>GateTest2002</b>"
-msgstr "You can use the following account information for testing purposes: Możesz użyć do testów następujących danych logowania<br /> login: <b>gatewaytest</b> <br /> hasło: <b>GateTest2002</b>"
-
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
 msgstr "Podano niewłaściwy adres URL"
@@ -11179,7 +11179,7 @@ msgstr "Pełny dostęp do wszystkich funkcji podczas 30-dniowego okresu próbneg
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Wszystkie funkcje są dostępne w ciągu 30 dni po pobraniu pakietu instalacyjnego. Nie musisz wprowadzać klucza licencyjnego. <br /> <br /> Po 30-dniowym okresie próbnym, należy kupić licencję lub wprowadzić wcześniej zakupiony klucz licencji. <br /> <br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -12131,19 +12131,19 @@ msgstr "This <strong>trial version</strong> of CS-Cart shopping cart software is
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "Czas działania wersja próbnej programu [product] skończył się"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Aby kontynuować pracę z programem [product] wprowadź klucz licencyjny"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Jeśli nie masz klucza licencyjnego, można go kupić na naszej oficjalnej stronie internetowej <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Kup licencję"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12163,7 +12163,7 @@ msgstr "Popularność produktu liczona jest na podstawie częstotliwości wyświ
 
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
-msgstr "Wszystkie domeny Witryn sklepowych muszą być powiązane z tym samym adresem IP. Uwaga: Przełącz na: \"Wszystkie sklepy\" aby edytować"
+msgstr "Wszystkie domeny sklepów muszą być powiązane z tym samym adresem IP. Uwaga: Przełącz na: \"Wszystkie sklepy\" aby edytować"
 
 msgctxt "Languages::tts_activate_menu_tab_for"
 msgid "The menu item will be shown activated for the specified dispatch."
@@ -12919,7 +12919,7 @@ msgstr "Pokaż kategorie"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista porównań"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -15728,9 +15728,9 @@ msgstr "Wyszukiwanie po cechach nie jest dostępne z powodu zbyt dużej liczby w
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Uaktualniony na"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail: [error]"
-msgstr "Unable to create thumbnail: [error]"
+msgstr "Nie można utworzyć miniatury zdjęcia: [error]"
 
