@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-15 03:03-0400\n"
+"PO-Revision-Date: 2015-07-16 08:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2338,7 +2338,7 @@ msgstr "Mã tiền tệ"
 
 msgctxt "Languages::currency_code_aed"
 msgid "United Arab Emirates Dirham"
-msgstr "United Arab Emirates Dirham"
+msgstr "UAE Dirham"
 
 msgctxt "Languages::currency_code_ang"
 msgid "ANG"
@@ -2382,19 +2382,19 @@ msgstr "CNY"
 
 msgctxt "Languages::currency_code_cyr"
 msgid "Cyprus Pound"
-msgstr "Cyprus Pound"
+msgstr "Bảng Síp"
 
 msgctxt "Languages::currency_code_czk"
 msgid "Czech Koruna"
-msgstr "Czech Koruna"
+msgstr "Cuaron Séc"
 
 msgctxt "Languages::currency_code_dkk"
 msgid "Danish Kroner"
-msgstr "Danish Kroner"
+msgstr "Karone Đan Mạch"
 
 msgctxt "Languages::currency_code_eek"
 msgid "Estonian Kroon"
-msgstr "Estonian Kroon"
+msgstr "Đồng Kroon Estonia"
 
 msgctxt "Languages::currency_code_egp"
 msgid "EGP"
@@ -2406,7 +2406,7 @@ msgstr "Euro"
 
 msgctxt "Languages::currency_code_fjd"
 msgid "Fiji Dollar"
-msgstr "Fiji Dollar"
+msgstr "Đô la Fiji"
 
 msgctxt "Languages::currency_code_frf"
 msgid "French Franc"
@@ -2414,7 +2414,7 @@ msgstr "Franc Pháp"
 
 msgctxt "Languages::currency_code_gbp"
 msgid "UK Pound"
-msgstr "UK Pound"
+msgstr "Bảng Anh"
 
 msgctxt "Languages::currency_code_gel"
 msgid "GEL"
@@ -2430,19 +2430,19 @@ msgstr "HRK"
 
 msgctxt "Languages::currency_code_huf"
 msgid "Hungarian Forint"
-msgstr "Hungarian Forint"
+msgstr "Phôrin Hungari"
 
 msgctxt "Languages::currency_code_ils"
 msgid "Israel New Shequel"
-msgstr "Israel New Shequel"
+msgstr "Shekel Israel mới"
 
 msgctxt "Languages::currency_code_inr"
 msgid "Indian Rupee"
-msgstr "Indian Rupee"
+msgstr "Rupi Ấn Độ"
 
 msgctxt "Languages::currency_code_isk"
 msgid "Iceland Krona"
-msgstr "Iceland Krona"
+msgstr "Krona Ai Len"
 
 msgctxt "Languages::currency_code_jpy"
 msgid "Japanese Yen"
@@ -2494,7 +2494,7 @@ msgstr "Peso Philíppin"
 
 msgctxt "Languages::currency_code_pln"
 msgid "Polish Zlotych"
-msgstr "Polish Zlotych"
+msgstr "Zloty Ba Lan"
 
 msgctxt "Languages::currency_code_png"
 msgid "Papua New Guinea Kina"
@@ -2502,39 +2502,39 @@ msgstr "Papua New Guinea Kina"
 
 msgctxt "Languages::currency_code_ron"
 msgid "RON"
-msgstr "RON"
+msgstr "Leu Rumani"
 
 msgctxt "Languages::currency_code_rub"
 msgid "RUB"
-msgstr "RUB"
+msgstr "Rúp Nga"
 
 msgctxt "Languages::currency_code_rur"
 msgid "Russian Ruble"
-msgstr "Russian Ruble"
+msgstr "Đồng Rúp Nga"
 
 msgctxt "Languages::currency_code_sar"
 msgid "Saudi Riyal"
-msgstr "Saudi Riyal"
+msgstr "Rian Ả rập Xêút"
 
 msgctxt "Languages::currency_code_sbd"
 msgid "Solomon Islands Dollar"
-msgstr "Solomon Islands Dollar"
+msgstr "Đô la Quần đảo Solomon"
 
 msgctxt "Languages::currency_code_sek"
 msgid "Sweden Kroner"
-msgstr "Sweden Kroner"
+msgstr "Krone Thụy Điển"
 
 msgctxt "Languages::currency_code_sgd"
 msgid "Singapore Dollar"
-msgstr "Singapore Dollar"
+msgstr "Đô la Singapore"
 
 msgctxt "Languages::currency_code_sit"
 msgid "Slovenian Tolar"
-msgstr "Slovenian Tolar"
+msgstr "Toola Xlôvênia"
 
 msgctxt "Languages::currency_code_skk"
 msgid "Slovak Koruna"
-msgstr "Slovak Koruna"
+msgstr "Cuaron Slovakia"
 
 msgctxt "Languages::currency_code_thb"
 msgid "Thai Baht"
@@ -2542,7 +2542,7 @@ msgstr "Thai Baht"
 
 msgctxt "Languages::currency_code_top"
 msgid "Tongan Pa'anga"
-msgstr "Tongan Pa'anga"
+msgstr "Pa'anga Tonga"
 
 msgctxt "Languages::currency_code_try"
 msgid "Turkish Lira"
@@ -2554,7 +2554,7 @@ msgstr "New Taiwan dollar"
 
 msgctxt "Languages::currency_code_uah"
 msgid "UAH"
-msgstr "UAH"
+msgstr "Hryvnia Ukraina"
 
 msgctxt "Languages::currency_code_usd"
 msgid "US Dollar"
@@ -2566,7 +2566,7 @@ msgstr "Vanuatu Vatu"
 
 msgctxt "Languages::currency_code_wst"
 msgid "Samoan Tala"
-msgstr "Samoan Tala"
+msgstr "Samoa Tala"
 
 msgctxt "Languages::currency_code_xaf"
 msgid "XAF"
@@ -2582,7 +2582,7 @@ msgstr "XPF"
 
 msgctxt "Languages::currency_code_zar"
 msgid "Rand"
-msgstr "Rand"
+msgstr "Rand Nam Phi"
 
 msgctxt "Languages::currency_code_myr"
 msgid "Malaysian Ringgit"
@@ -3662,11 +3662,11 @@ msgstr "Tập tin không tồn tại"
 
 msgctxt "Languages::error_exim_incorrect_lines"
 msgid "Your CSV file has incorrect data formatting (incorrect delimiter, missed/missing fields, etc.) in the following lines: <b>[lines]</b>"
-msgstr "Your CSV file has incorrect data formatting (incorrect delimiter, missed/missing fields, etc.) in the following lines: <b>[lines]</b>"
+msgstr "Tệp CSV của bạn có dữ liệu không chính xác định dạng (không đúng, mất/thiếu lĩnh vực, vv) trong các dòng sau: <b>[lines]</b>"
 
 msgctxt "Languages::error_exim_incorrent_delimiter"
 msgid "The delimiter in CSV file differs from the one selected by you"
-msgstr "The delimiter in CSV file differs from the one selected by you"
+msgstr "Phân định trong tệp CSV khác với một lựa chọn của bạn"
 
 msgctxt "Languages::error_exim_invalid_count_langs"
 msgid "Multi-language line count mismatch: different number of lines for different languages provided."
@@ -3674,11 +3674,11 @@ msgstr "Multi-language line count mismatch: different number of lines for differ
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
-msgstr "The following fields are mandatory and cannot be removed from the layout:"
+msgstr "Các trường sau là bắt buộc và không thể được gỡ bỏ từ các lớp:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Không thể xuất dữ liệu. Phạm vi sai xuất dữ liệu có thể gây ra vấn đề này. <a class=\"cm-post\" href=\"[url]\">Xóa phạm vi xuất dữ liệu</a>, sau đó thử lại"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3694,11 +3694,11 @@ msgstr "Invalid pattern definition: missing table references"
 
 msgctxt "Languages::error_exim_pattern_dont_match"
 msgid "Your import file does not match the selected pattern"
-msgstr "Your import file does not match the selected pattern"
+msgstr "Tập tin nhập vào của bạn không khớp với các mô hình đã chọn"
 
 msgctxt "Languages::error_exim_pattern_not_found"
 msgid "Pattern not found"
-msgstr "Pattern not found"
+msgstr "Mô hình không tìm thấy"
 
 msgctxt "Languages::error_exim_pattern_required_fields"
 msgid "Your import file MUST have the following fields: <b>[fields]</b>"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC là quá ngắn."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Nó đã cấm để thay đổi các email quản trị hoặc mật khẩu trong khu vực khách hàng. Xin vui lòng đăng nhập bằng một tài khoản khách hàng."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4206,7 +4206,7 @@ msgstr "Quên mật khẩu?"
 
 msgctxt "Languages::form"
 msgid "Form"
-msgstr "Form"
+msgstr "Mẫu nhập"
 
 msgctxt "Languages::format"
 msgid "Format"
@@ -4214,23 +4214,23 @@ msgstr "Định dạng"
 
 msgctxt "Languages::forms"
 msgid "Forms"
-msgstr "Forms"
+msgstr "Mẫu nhập"
 
 msgctxt "Languages::form_id"
 msgid "Form ID"
-msgstr "Form ID"
+msgstr "ID mẫu nhập"
 
 msgctxt "Languages::for_all_found_orders"
 msgid "For orders on ALL pages"
-msgstr "For orders on ALL pages"
+msgstr "Cho đơn đặt hàng trên Tất Cả các trang"
 
 msgctxt "Languages::for_this_page_orders"
 msgid "For orders on THIS page"
-msgstr "For orders on THIS page"
+msgstr "Cho đơn đặt hàng trên Trang Này"
 
 msgctxt "Languages::fragile"
 msgid "Fragile"
-msgstr "Fragile"
+msgstr "Dễ vỡ"
 
 msgctxt "Languages::free"
 msgid "Free"
@@ -4290,19 +4290,19 @@ msgstr "Chiều rộng đầy đủ"
 
 msgctxt "Languages::function"
 msgid "Core"
-msgstr "Core"
+msgstr "Lõi"
 
 msgctxt "Languages::function_deprecated"
 msgid "Function [old_function] is deprecated and will be removed in next version. Please use [new_function] instead of it."
-msgstr "Function [old_function] is deprecated and will be removed in next version. Please use [new_function] instead of it."
+msgstr "Chức năng [old_function] bị phản đối và sẽ được loại bỏ trong phiên bản kế tiếp. Xin vui lòng sử dụng [new_function] thay vì nó."
 
 msgctxt "Languages::gateway"
 msgid "Gateway"
-msgstr "Gateway"
+msgstr "Cổng"
 
 msgctxt "Languages::gateways"
 msgid "Gateways"
-msgstr "Gateways"
+msgstr "Cổng"
 
 msgctxt "Languages::general"
 msgid "General"
@@ -4322,7 +4322,7 @@ msgstr "Tạo ra"
 
 msgctxt "Languages::generate_submenu"
 msgid "Generate submenu"
-msgstr "Generate submenu"
+msgstr "Tạo ra menu con"
 
 msgctxt "Languages::geography"
 msgid "Geography"
@@ -4614,15 +4614,15 @@ msgstr "In"
 
 msgctxt "Languages::included"
 msgid "included"
-msgstr "included"
+msgstr "bao gồm"
 
 msgctxt "Languages::include_cvn"
 msgid "Include CVN"
-msgstr "Include CVN"
+msgstr "bao gồm CVN"
 
 msgctxt "Languages::including_discount"
 msgid "Including discount"
-msgstr "Including discount"
+msgstr "Bao gồm giảm giá"
 
 msgctxt "Languages::including_tax"
 msgid "Including tax"
@@ -4674,7 +4674,7 @@ msgstr "Thêm khối"
 
 msgctxt "Languages::insert_grid"
 msgid "Add grid"
-msgstr "Add grid"
+msgstr "Thêm Lưới"
 
 msgctxt "Languages::install"
 msgid "Install"
@@ -4710,7 +4710,7 @@ msgstr "Đi đến cửa hàng"
 
 msgctxt "Languages::welcome_screen.go_settings_wizard"
 msgid "Go to the Settings wizard for basic store setup"
-msgstr "Go to the Settings wizard for basic store setup"
+msgstr "Đi đến trình trình Cài đặt cho các thiết lập cửa hàng cơ bản"
 
 msgctxt "Languages::welcome_screen.knowledge_base"
 msgid "Knowledge base"
@@ -4718,11 +4718,11 @@ msgstr "Kiến thức cơ sở"
 
 msgctxt "Languages::welcome_screen.run_settings_wizard"
 msgid "Run Settings wizard"
-msgstr "Run Settings wizard"
+msgstr "Chạy Trình cài đặt"
 
 msgctxt "Languages::welcome_screen.learn_more_configuration"
 msgid "Learn more about storefront configuration in our"
-msgstr "Learn more about storefront configuration in our"
+msgstr "Tìm hiểu thêm về các cấu hình cửa hàng của chúng tôi"
 
 msgctxt "Languages::welcome_screen.thanks"
 msgid "Thank you for choosing [product]. Happy selling!"
@@ -4738,7 +4738,7 @@ msgstr "Thiết đặt quốc tế"
 
 msgctxt "Languages::international_usps"
 msgid "International U.S.P.S."
-msgstr "International U.S.P.S."
+msgstr "U.S.P.S. Quốc tế"
 
 msgctxt "Languages::inventory"
 msgid "Inventory"
@@ -4786,11 +4786,11 @@ msgstr "Địa chỉ IP"
 
 msgctxt "Languages::issuer"
 msgid "Issuer"
-msgstr "Issuer"
+msgstr "Công ty phát hành"
 
 msgctxt "Languages::issuer_info"
 msgid "Issuer information"
-msgstr "Issuer information"
+msgstr "Thông tin phát hành"
 
 msgctxt "Languages::is_back_in_stock"
 msgid "is back in stock!"
@@ -4810,11 +4810,11 @@ msgstr "sản phẩm"
 
 msgctxt "Languages::items_dependences"
 msgid "Items dependencies"
-msgstr "Items dependencies"
+msgstr "Mục phụ thuộc"
 
 msgctxt "Languages::items_in_box"
 msgid "Items in a box"
-msgstr "Items in a box"
+msgstr "Các mục trong một hộp"
 
 msgctxt "Languages::items_in_cart"
 msgid "You have [n] item in your cart|You have [n] items in your cart"
@@ -4846,31 +4846,31 @@ msgstr "Tham gia"
 
 msgctxt "Languages::json_error_ctrl_char"
 msgid "Control character error, possibly incorrectly encoded"
-msgstr "Control character error, possibly incorrectly encoded"
+msgstr "Điều khiển ký tự lỗi, có thể không chính xác mã hóa"
 
 msgctxt "Languages::json_error_depth"
 msgid "The maximum stack depth has been exceeded"
-msgstr "The maximum stack depth has been exceeded"
+msgstr "Độ sâu tối đa ngăn xếp đã bị vượt quá"
 
 msgctxt "Languages::json_error_state_mismatch"
 msgid "Invalid or malformed JSON"
-msgstr "Invalid or malformed JSON"
+msgstr "Không hợp lệ hoặc sai dạng JSON"
 
 msgctxt "Languages::json_error_syntax"
 msgid "Syntax error, malformed JSON"
-msgstr "Syntax error, malformed JSON"
+msgstr "Lỗi cú pháp, bị thay đổi JSON"
 
 msgctxt "Languages::json_error_unknown"
 msgid "Unknown JSON error"
-msgstr "Unknown JSON error"
+msgstr "JSON lỗi không xác định"
 
 msgctxt "Languages::json_error_utf8"
 msgid "Malformed UTF-8 characters, possibly incorrectly encoded"
-msgstr "Malformed UTF-8 characters, possibly incorrectly encoded"
+msgstr "Bị thay đổi ký tự UTF-8, có thể không chính xác mã hóa"
 
 msgctxt "Languages::key"
 msgid "Key"
-msgstr "Key"
+msgstr "Mã khóa"
 
 msgctxt "Languages::key1_for_md5"
 msgid "Auth key 1 for md5"
@@ -4954,19 +4954,19 @@ msgstr "Latitude"
 
 msgctxt "Languages::layout"
 msgid "Layout"
-msgstr "Layout"
+msgstr "Bố trí lớp"
 
 msgctxt "Languages::layouts"
 msgid "Layouts"
-msgstr "Layouts"
+msgstr "Bố trí lớp"
 
 msgctxt "Languages::lbl_amazon_aws_access_public_key"
 msgid "AWS access public key"
-msgstr "AWS access public key"
+msgstr "AWS khóa truy cập công khai"
 
 msgctxt "Languages::lbl_amazon_aws_access_secret_key"
 msgid "AWS access secret key"
-msgstr "AWS access secret key"
+msgstr "AWS khóa truy cập bí mật"
 
 msgctxt "Languages::lbl_amazon_background_color"
 msgid "Background color"
@@ -4982,7 +4982,7 @@ msgstr "Kích thước nút"
 
 msgctxt "Languages::lbl_amazon_button_style"
 msgid "Amazon button style"
-msgstr "Amazon button style"
+msgstr "Định dạng nút Amazon"
 
 msgctxt "Languages::lbl_amazon_color_dark"
 msgid "Dark"
@@ -5034,7 +5034,7 @@ msgstr "ít hơn"
 
 msgctxt "Languages::letter"
 msgid "Letter"
-msgstr "Letter"
+msgstr "Thư"
 
 msgctxt "Languages::level"
 msgid "Level"
@@ -5142,19 +5142,19 @@ msgstr "Đang tải..."
 
 msgctxt "Languages::local"
 msgid "Local"
-msgstr "Local"
+msgstr "Khu vực"
 
 msgctxt "Languages::localization"
 msgid "Localization"
-msgstr "Localization"
+msgstr "Khu vực"
 
 msgctxt "Languages::localizations"
 msgid "Localizations"
-msgstr "Localizations"
+msgstr "Khu vực"
 
 msgctxt "Languages::localizations_menu_description"
 msgid "Manage localizations that are supported in your store."
-msgstr "Manage localizations that are supported in your store."
+msgstr "Quản lý hỗ trợ ngôn ngữ được hỗ trợ trong cửa hàng của bạn."
 
 msgctxt "Languages::location"
 msgid "Location"
@@ -5182,15 +5182,15 @@ msgstr "Đăng nhập"
 
 msgctxt "Languages::logos"
 msgid "Logos"
-msgstr "Logos"
+msgstr "Logo"
 
 msgctxt "Languages::logo_link"
 msgid "Location (URL) of logo"
-msgstr "Location (URL) of logo"
+msgstr "Khu vực (URL) của logo"
 
 msgctxt "Languages::logs"
 msgid "Logs"
-msgstr "Logs"
+msgstr "Bản ghi"
 
 msgctxt "Languages::log_action_backup"
 msgid "backup"
@@ -5222,15 +5222,15 @@ msgstr "yêu cầu http/https"
 
 msgctxt "Languages::log_action_login"
 msgid "sign in"
-msgstr "sign in"
+msgstr "Đăng nhập"
 
 msgctxt "Languages::log_action_low_stock"
 msgid "low stock"
-msgstr "low stock"
+msgstr "tồn kho ít"
 
 msgctxt "Languages::log_action_optimize"
 msgid "optimize"
-msgstr "optimize"
+msgstr "tối ưu hóa"
 
 msgctxt "Languages::log_action_restore"
 msgid "restore"
@@ -5514,23 +5514,23 @@ msgstr "Merchant PIN"
 
 msgctxt "Languages::merchant_response_was_not_received"
 msgid "No response from the merchant received. Please check this transaction manually."
-msgstr "No response from the merchant received. Please check this transaction manually."
+msgstr "Không có phản ứng từ các thương gia đã nhận được. Xin vui lòng kiểm tra giao dịch này theo cách thủ công."
 
 msgctxt "Languages::merchant_site_id"
 msgid "Merchant site ID"
-msgstr "Merchant site ID"
+msgstr "ID Trang web thương gia"
 
 msgctxt "Languages::merchant_warrior_api_key"
 msgid "API Key."
-msgstr "API Key."
+msgstr "API key."
 
 msgctxt "Languages::merchant_warrior_api_passphrase"
 msgid "API Passphrase."
-msgstr "API Passphrase."
+msgstr "API cụm từ mật khẩu."
 
 msgctxt "Languages::merge"
 msgid "Merge"
-msgstr "Merge"
+msgstr "Hợp nhất"
 
 msgctxt "Languages::message"
 msgid "Message"
@@ -5554,7 +5554,7 @@ msgstr "Phương thức"
 
 msgctxt "Languages::minimized"
 msgid "Minimized"
-msgstr "Minimized"
+msgstr "Giảm thiểu"
 
 msgctxt "Languages::minimum_commission_payment"
 msgid "Minimum commission payment"
@@ -5734,11 +5734,11 @@ msgstr "Bà"
 
 msgctxt "Languages::tmpl_multicolumns_small"
 msgid "Multicolumns small"
-msgstr "Multicolumns small"
+msgstr "Nhiều cột nhỏ"
 
 msgctxt "Languages::tmpl_multicolumn_list"
 msgid "Multi-column list"
-msgstr "Multi-column list"
+msgstr "Nhiều cột danh sách"
 
 msgctxt "Languages::multiple"
 msgid "Multiple"
@@ -5774,7 +5774,7 @@ msgstr "Tên"
 
 msgctxt "Languages::navigation"
 msgid "Navigation"
-msgstr "Navigation"
+msgstr "Danh mục chính"
 
 msgctxt "Languages::navi_pages"
 msgid "Pages"
@@ -5850,7 +5850,7 @@ msgstr "Biến ngôn ngữ mới"
 
 msgctxt "Languages::new_layout"
 msgid "New layout"
-msgstr "New layout"
+msgstr "Bố trí lớp mới"
 
 msgctxt "Languages::new_link"
 msgid "New link"
@@ -5858,7 +5858,7 @@ msgstr "Liên kết mới"
 
 msgctxt "Languages::new_localization"
 msgid "New localization"
-msgstr "New localization"
+msgstr "Khu vực mới"
 
 msgctxt "Languages::new_location"
 msgid "New location"
@@ -6022,11 +6022,11 @@ msgstr "You have specified [DECIMALS] decimal places for [CURRENCY]. The maximum
 
 msgctxt "Languages::notice_undeliverable_products_removed"
 msgid "Undeliverable products have been removed from your cart. You may proceed with the purchase."
-msgstr "Undeliverable products have been removed from your cart. You may proceed with the purchase."
+msgstr "Không thể gửi sản phẩm đã được gỡ bỏ từ giỏ hàng của bạn. Bạn có thể cần tiến hành với việc mua hàng."
 
 msgctxt "Languages::notice_update_customer_details"
 msgid "The customer updated the email address in the profile. Select the check box to update the order details:"
-msgstr "The customer updated the email address in the profile. Select the check box to update the order details:"
+msgstr "Khách hàng cập nhật địa chỉ email trong hồ sơ. Chọn hộp kiểm để cập nhật các chi tiết đơn đặt hàng:"
 
 msgctxt "Languages::notify_customer"
 msgid "Notify customer"
@@ -6098,7 +6098,7 @@ msgstr "Không tìm thấy mục nào phù hợp với tiêu chí tìm kiếm"
 
 msgctxt "Languages::no_menus"
 msgid "No menus"
-msgstr "No menus"
+msgstr "Không có menu"
 
 msgctxt "Languages::no_products_for_shipment"
 msgid "There are no products for shipment"
@@ -6118,11 +6118,11 @@ msgstr "Không có vận chuyển yêu cầu"
 
 msgctxt "Languages::no_such_coupon"
 msgid "The entered code cannot be applied, because it does not meet the requirements."
-msgstr "The entered code cannot be applied, because it does not meet the requirements."
+msgstr "Mã nhập không thể áp dụng, bởi vì nó không đáp ứng các yêu cầu."
 
 msgctxt "Languages::no_themes_available"
 msgid "No themes available"
-msgstr "No themes available"
+msgstr "Không có chủ đề có sẵn"
 
 msgctxt "Languages::no_users_found"
 msgid "No users found"
@@ -15730,6 +15730,6 @@ msgid "Upgraded on"
 msgstr "Upgraded on"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
-msgid "Unable to create thumbnail: [error]"
-msgstr "Unable to create thumbnail: [error]"
+msgid "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Unable to create thumbnail for file \"[file]\": [error]"
 
