@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-16 08:03-0400\n"
+"PO-Revision-Date: 2015-07-20 22:03-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -150,7 +150,7 @@ msgstr "Dịch vụ vận chuyển quốc tế"
 
 msgctxt "Languages::dispatch_days"
 msgid "Dispatch days"
-msgstr "Dispatch days"
+msgstr "Ngày gửi"
 
 msgctxt "Languages::ebay_payment_methods"
 msgid "eBay payment methods"
@@ -246,7 +246,7 @@ msgstr "Danh mục con sản phẩm bổ sung tại ebay"
 
 msgctxt "Languages::shipping_type_tooltip"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "Chọn để sử dụng tính phí vận chuyển hoặc phí vận chuyển cố định. Tính phí vận chuyển - vận chuyển sẽ được tính theo địa chỉ số ZIP khách, trọng lượng của các gói hàng, và các loại hình vận chuyển dịch vụ bạn cung cấp; Phí cố định - tỷ lệ vận chuyển sẽ được cố định"
 
 msgctxt "Languages::domestic_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
@@ -278,7 +278,7 @@ msgstr "Chọn, nếu bạn muốn miễn phí vận chuyển được áp dụn
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
+msgstr "Giá vận chuyển cố định cho một mục (nếu vận chuyển là loại phí cố định). Vận chuyển và xử lý các thiết lập tại eBay."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
@@ -418,7 +418,7 @@ msgstr "Xuất hình ảnh tới Ebay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
-msgstr "Package/thick envelope"
+msgstr "Gói/Phong bì dày"
 
 msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
@@ -426,7 +426,7 @@ msgstr "Bạn không có quyền để loại bỏ một số các giao diện c
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
+msgstr "Số giấy phép hiện tại là không hợp lệ. Trình add-on \"Ebay\" bị vô hiệu hoá. Để kích hoạt lại nó, hãy kiểm tra số giấy phép của add-on."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
