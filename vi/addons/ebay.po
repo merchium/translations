@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-20 22:03-0400\n"
+"PO-Revision-Date: 2015-07-21 02:03-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -30,7 +30,7 @@ msgstr "Chờ cho vận chuyển lưu trữ. Có nghĩa là thời gian tới 3 
 
 msgctxt "Languages::ebay_duration"
 msgid "Listing duration"
-msgstr "Listing duration"
+msgstr "Danh sách thời gian"
 
 msgctxt "Languages::list_products_on"
 msgid "List products on"
@@ -134,7 +134,7 @@ msgstr "Loại vận chuyển"
 
 msgctxt "Languages::flat"
 msgid "Flat"
-msgstr "Flat"
+msgstr "Cố định"
 
 msgctxt "Languages::calculated"
 msgid "Calculated"
@@ -430,31 +430,31 @@ msgstr "Số giấy phép hiện tại là không hợp lệ. Trình add-on \"Eb
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Activate add-on"
+msgstr "Kích hoạt tiện ích"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
+msgstr "Bạn đã cài đặt một tiện ích thương mại. Để kích hoạt nó, hãy nhập một số giấy phép add-on trên trang cài đặt add-on."
 
 msgctxt "Languages::ebay_empty_license_number"
 msgid "The add-on license number is empty."
-msgstr "The add-on license number is empty."
+msgstr "Số giấy phép add-on đang bị bỏ trống."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
-msgstr "Ebay templates not found"
+msgstr "Giao diện EBay không tìm thấy"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
-msgstr "General"
+msgstr "Tổng quát"
 
 msgctxt "SettingsOptions::ebay::ebay_license_number"
 msgid "The eBay add-on license number"
-msgstr "The eBay add-on license number"
+msgstr "Số giấy phép add-on EBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
-msgstr "Notice"
+msgstr "Thông báo"
 
 msgctxt "SettingsOptions::ebay::dev_id"
 msgid "eBay DevID"
@@ -474,11 +474,11 @@ msgstr "eBay User Token"
 
 msgctxt "SettingsOptions::ebay::listing_mode"
 msgid "Sandbox / Production"
-msgstr "Sandbox / Production"
+msgstr "Hộp đựng / sản xuất"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "Trang mặc định"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
@@ -486,29 +486,29 @@ msgstr "eBay timestamp"
 
 msgctxt "SettingsVariants::ebay::listing_mode::S"
 msgid "Sandbox"
-msgstr "Sandbox"
+msgstr "Hộp đựng"
 
 msgctxt "SettingsVariants::ebay::listing_mode::P"
 msgid "Production"
-msgstr "Production"
+msgstr "Sản xuất"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
-msgstr "Please wait, shipping information is loaded."
+msgstr "Xin vui lòng chờ, thông tin vận chuyển đang được nạp."
 
 msgctxt "SettingsSections::ebay::license_info"
 msgid "License info"
-msgstr "License info"
+msgstr "Thông tin giấy phép"
 
 msgctxt "Languages::ebay_license_notice"
 msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
+msgstr "Add-on này đòi hỏi một giấy phép để hoạt động. Bạn có thể mua một giấy phép add-on eBay, <a href=\"[ebay_license_url]\" target=\"_blank\"> eBay đồng bộ hóa</a> trang."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
-msgstr "View eBay templates"
+msgstr "Xem giao diện eBay"
 
 msgctxt "Languages::privileges.manage_ebay_templates"
 msgid "Manage eBay templates"
-msgstr "Manage eBay templates"
+msgstr "Quản lý giao diện eBay"
 
