@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-27 09:03-0400\n"
+"PO-Revision-Date: 2015-07-28 09:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -42,11 +42,11 @@ msgstr "絶対値"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Installed add-ons"
+msgstr "インストール済アドオン"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Browse all available add-ons"
+msgstr "利用可能なすべてのアドオンを表示"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -402,7 +402,7 @@ msgstr "ページを追加して閉じる"
 
 msgctxt "Languages::add_payment"
 msgid "Add payment method"
-msgstr "Add payment method"
+msgstr "支払方法の追加"
 
 msgctxt "Languages::add_payout"
 msgid "Add payout"
@@ -642,7 +642,7 @@ msgstr "アメリカンエキスプレス"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "CVVはカード前面のカード番号の上部に記載されています。 (もしくはカードの左または右端に記載)"
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -1178,23 +1178,23 @@ msgstr "最小幅(px)"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "テーマがCSSに変換されている場合にはレイアウトを変更できません。<a target=\"_blank\" class=\"cm-post\" href=\"[url]\">テーマエディター</a>"
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Add layout page"
+msgstr "レイアウトページの追加"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editing layout page"
+msgstr "レイアウトページの編集"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "New layout page"
+msgstr "新規レイアウトページ"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout pages"
+msgstr "ページのレイアウト"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1690,7 +1690,7 @@ msgstr "また、config.local.php のパーミッションを 644 に変更し�
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr "Change add-ons initialization"
+msgstr "アドオン設定の変更"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1710,7 +1710,7 @@ msgstr "パーミッションの変更"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "パーミッションのチェック"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1870,7 +1870,7 @@ msgstr "履歴をクリア"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "ログをクリア"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -1886,7 +1886,7 @@ msgstr "キャッシュのクリア"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "キャッシュの生成"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -2730,7 +2730,7 @@ msgstr "データベースのレコードに対する変更"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "バックアップ/リストア"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "DBバックアップ/リストア"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "バックアップ/リストア"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "バックアップの作成"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -3122,7 +3122,7 @@ msgstr "表示タイプ"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Number of displayed filter variants before scroll"
+msgstr "スクロールなしで表示するフィルタの数"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3982,7 +3982,7 @@ msgstr "Extra services"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "追加フォルダ"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -4022,7 +4022,7 @@ msgstr "追加情報"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr "Feature variants delimiter"
+msgstr "商品の追加情報の区切り文字"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
@@ -4414,7 +4414,7 @@ msgstr "グリッド"
 
 msgctxt "Languages::tmpl_grid"
 msgid "Grid"
-msgstr "Grid"
+msgstr "グリッド"
 
 msgctxt "Languages::tmpl_grid2"
 msgid "Grid2"
@@ -5318,7 +5318,7 @@ msgstr "メインボックス（シンプル）"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "標準フッター"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -5338,7 +5338,7 @@ msgstr "管理"
 
 msgctxt "Languages::manage_addons"
 msgid "Manage add-ons"
-msgstr "Manage add-ons"
+msgstr "アドオンの管理"
 
 msgctxt "Languages::manage_blocks"
 msgid "Manage blocks"
@@ -7022,7 +7022,7 @@ msgstr "注文の作成"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "バックアップ/リストア"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7202,7 +7202,7 @@ msgstr "ユーザーの閲覧"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "アドオン"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
@@ -7642,7 +7642,7 @@ msgstr "配送先の郵便番号"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Shipping methods"
+msgstr "配送方法"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -7830,7 +7830,7 @@ msgstr "キャッシュの自動リビルド"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
+msgstr "変更されたファイル（サーバー上のファイルを直接編集した場合を含む）をリアルタイム検出しキャッシュを自動でリビルドします。また、ブロックキャッシュは無効化されます。ショップの表示スピードが若干遅くなるため、本番環境ではオフにすることを推奨します。"
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8398,7 +8398,7 @@ msgstr "検索フレーズ"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Search for products, customers, orders and CMS pages"
+msgstr "商品・顧客・注文およびCMSページを検索できます"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -10166,7 +10166,7 @@ msgstr "このセクションでは1度も閲覧されていない注文を表�
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "The following file extensions are supported: <b>[ext]</b>."
+msgstr "拡張子が <b>[ext]</b> のファイルのみアップロードできます。"
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10194,7 +10194,7 @@ msgstr "商品を購入するには会員登録が必要です"
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Recalculate shipping cost"
+msgstr "送料の再計算"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -10222,7 +10222,7 @@ msgstr "Your financial institution has indicated that it could not successfully 
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "バックアップしたファイルは「歯車アイコン → ダウンロード」からダウンロードできます。"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10538,7 +10538,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Delimiter between variant values of a product feature."
+msgstr "商品の追加情報の区切り文字"
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10738,7 +10738,7 @@ msgstr "該当する商品はありません"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "選択したフィルタ"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -11162,7 +11162,7 @@ msgstr "ショップを<b>一時的にクローズ</b>しました。"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
+msgstr "CS-Cartの基本機能を利用期間の制限なく無料でご利用いただけます。<br />「ショップモード」ページにてライセンス番号を登録することによりいつでもフルモードにアップグレードできます。"
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11250,7 +11250,7 @@ msgstr "以下のファイルがバックアップされました。"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
+msgstr "アップグレード用パッケージが破損しているようです。 「画面右上の歯車アイコン → パッケージリストの更新」を実施してください。"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11366,7 +11366,7 @@ msgstr "アップグレード一覧の更新に失敗しました"
 
 msgctxt "Languages::text_uc_upgrade_completed"
 msgid "Your store has been upgraded successfully"
-msgstr "Your store has been upgraded successfully"
+msgstr "アップグレードが完了しました。"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
@@ -11834,7 +11834,7 @@ msgstr "テーマエディターモード"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "デフォルトのスタイルではこのパラメータを変更できません。新規スタイルを作成する必要があります。"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11942,7 +11942,7 @@ msgstr "ツール"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "アドオン数"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11950,11 +11950,11 @@ msgstr "現在の状態"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "No add-ons"
+msgstr "アドオンはありません"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
-msgstr "No third party add-ons"
+msgstr "サードパーティ製アドオンはありません"
 
 msgctxt "Languages::tools_addons_restore_defaults"
 msgid "Restore defaults"
@@ -11966,7 +11966,7 @@ msgstr "ツールチップ"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "このコンテナは使用されていません。デフォルトロケーションの \"[container]\" コンテナが適用されます。このコンテナを \"[container]\" としてすべてのロケーションで使用するにはこのロケーションをデフォルトロケーションに指定してください。"
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12178,7 +12178,7 @@ msgstr "クリック時に遷移するURLまたはディスパッチ先を指定
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "ユーザーが定義したCSSクラスがメニューに追加されます。独自のCSSクラスでメニューをスタイリングできます。"
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12334,7 +12334,7 @@ msgstr "CloudFrontドメインの代わりにファイルアクセス用URLに�
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "AWSのアクセスキーIDです。アクセスキーIDおよびシークレットアクセスキーの取得方法は <a href=\"http://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/ManagingCredentials.html\" target=\"_blank\">こちら</a> を確認してください。"
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12534,11 +12534,11 @@ msgstr "アップグレード"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "バリデーションエラー"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "\"[validator_name]\" バリデータがエラーを検知しました。"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12550,7 +12550,7 @@ msgstr "アップグレードは <strong>フルモード</strong> または <str
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "ファイル restore.php の準備ができませんでした。\"var/upgrade/restore.php\" は改変/リネーム/削除されています。アップグレードを実行する前に restore.php を元の状態に戻してください。"
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -13706,7 +13706,7 @@ msgstr "セキュリティ設定"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
-msgstr "Checkout"
+msgstr "注文手続き"
 
 msgctxt "SettingsSections::Sitemap"
 msgid "Sitemap"
@@ -13734,7 +13734,7 @@ msgstr "管理画面においてSSLを使用"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "ショップフロントにおけるSSL通信の適用"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -13746,7 +13746,7 @@ msgstr "配送を行わない"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "運送会社"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -13958,11 +13958,11 @@ msgstr "ショップを一時クローズ"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
-msgstr "パスワード変更依頼メール送信用クロンスクリプトへのアクセスキー<br />使用例: http://www.company.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value"
+msgstr "パスワード変更依頼メール送信用クロンスクリプトへのアクセスキー<br />使用例: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value"
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
-msgstr "一時閉鎖中のショップへのアクセスキー<br>アクセス用URLの例: http://www.company.com/index.php?store_access_key=my_accesskey"
+msgstr "一時閉鎖中のショップへのアクセスキー<br>アクセス用URLの例: http://www.example.com/index.php?store_access_key=my_accesskey"
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
@@ -14114,7 +14114,7 @@ msgstr "顧客担当部署のEメールアドレス"
 
 msgctxt "SettingsOptions::use_for"
 msgid "Use for"
-msgstr "Use for"
+msgstr "右記に使用"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
@@ -14414,7 +14414,7 @@ msgstr "「カートの内容」ページで配送費用を試算"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "ゲスト購入完了後に会員登録を可能にする"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14454,39 +14454,39 @@ msgstr "暗号化接続を利用"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "ログイン/会員登録の設定"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "このステップは連絡先情報フィールドが設定されておらず、ゲスト購入が有効化されている場合には省略されます。"
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Default option for the \"New customer\" section at the \"Sign in\""
+msgstr "「はじめてのご来店・未登録のお客様」セクションにおけるデフォルトオプション"
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "「配送方法」ステップを表示"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "非表示にすると表示順が最初の配送方法が自動的に選択されます。"
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "「支払方法」ステップを表示"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "非表示にすると表示順が最初の支払方法が自動で選択されます。"
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Enable selling downloadable products"
+msgstr "デジタルコンテンツのダウンロード販売を行う"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "SSL証明書をサーバーにインストールする必要があります"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14506,7 +14506,7 @@ msgstr "配送先および請求先住所"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "背景色を透明にするには空欄のまま保存してください"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15318,35 +15318,35 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr "Display \"New customer\" first"
+msgstr "「はじめてのご来店・未登録のお客様」を先に表示"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr "Display \"Returning customer\" first"
+msgstr "「会員のお客様」を先に表示"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr "Hide step completely"
+msgstr "「ログイン / 会員登録」ステップを省略"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
-msgstr "Register"
+msgstr "会員登録"
 
 msgctxt "SettingsVariants::sign_in_default_action::checkout_as_guest"
 msgid "Checkout as guest"
-msgstr "Checkout as guest"
+msgstr "会員登録せずに購入"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "適用しない"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "会員情報、注文手続き、注文ページに適用"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "ショップフロント全体に適用"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15386,23 +15386,23 @@ msgstr "初期設定からリストア"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "カスタム設定を使用"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr "Use default block configuration"
+msgstr "デフォルトのブロック設定を使用"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
-msgstr "Private files"
+msgstr "プライベートファイル"
 
 msgctxt "Languages::public_files"
 msgid "Public files"
-msgstr "Public files"
+msgstr "公開ファイル"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "テンプレート"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
@@ -15538,23 +15538,23 @@ msgstr "Incorrect values of 'Valid thru' fields."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "ログインフォーム"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "会員情報登録フォームの作成・編集"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "注文手続き (会員情報) フォーム"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "注文フォームをトラッキング"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "あなたのショップのSEO設定"
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15562,15 +15562,15 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "編集中: robots.txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "robots.txt の編集"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "デフォルトの robots.txt をリストア"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
@@ -15578,11 +15578,11 @@ msgstr "Error in Data Validation of the Credit Card Information. Either the Cred
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "オプションの例外"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "水平フィルター"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15591,67 +15591,67 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "アップグレードコネクター [connector_id] が不正なデータを返しました"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "アップグレードパッケージのダウンロードが完了し、インストール可能になりました"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "アップグレードコネクターが見つかりません"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "パッケージのスキーマ (schema.json) の読み込みができません"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "パッケージ内容のスキーマが見つかりません"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "パッケージのスキーマが有効なJSONではありません"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "禁止されたアクション: アドオンがコアファイル ([path]) をアップグレードしようとしています"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "スキーマに定義されていないマイグレーションがパッケージに含まれているか、パッケージに存在しないマイグレーションがスキーマに定義されています。"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "スキーマに定義されていない言語がパッケージに含まれているか、パッケージに存在しない言語ファイルがスキーマに定義されています。"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "スキーマに定義されていないファイルがパッケージに含まれているか、パッケージに存在しないファイルがスキーマに定義されています。"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "スキーマに定義されていない pre/postスクリプトがパッケージに含まれているか、パッケージに存在しない pre/postスクリプトがスキーマに定義されています。Package contains pre/post scripts that were not described in schema or schema has links to missing files"
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "新バージョン"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "マイグレーション"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "パーミッションエラー"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "独自の改変"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "独自の改変がアップグレード中に削除される場合があることを了承します"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
@@ -15659,39 +15659,39 @@ msgstr "Will be changed"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "削除されます"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "アップグレードパッケージチェッカー"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "\"[validator]\" チェッカーの実行"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "ファイルのコピー"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "アップグレードの実行"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "言語のインストール"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "アップグレーの進捗状況"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "アップグレードパッケージのアップロード"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "アップグレードパッケージをアップロードすることによりホットフィックスの適用やアドオンのアップグレードが可能になります。tgz、gz、zip形式のアップグレードパッケージ選択してアップロードしてください。"
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15699,31 +15699,31 @@ msgstr "Outside navigation"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Incorrect feature type. Some product features were not updated."
+msgstr "タイプが正しくないため更新されなかった商品の追加情報があります。"
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Feature name is missing. Some product features were not updated."
+msgstr "名称が設定されていないため更新されなかった商品の追加情報があります。"
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "すべてのショップを削除することはできません。"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "リストアできませんでした。リストアには .sql、.zip および .tgz 形式のファイルのみ利用できます。"
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "ファイル <b>[file]</b> に書き込みできません。手動で書き込み可能なパーミッションを設定するか <a href=\"[url]\">\"アップグレードセンター\"</a> からFTPアクセスの設定を行ってください。"
 
-msgctxt "Languages::uc_restore_email"
-msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgctxt "Languages::uc_restore_email_body"
+msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "商品の追加情報の変数が多すぎるため、商品の追加情報による検索を利用できません。"
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
