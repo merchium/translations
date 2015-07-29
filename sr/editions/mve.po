@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Serbian (Cyrillic)\n"
+"Language: sr_SP\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: sr\n"
+"X-Crowdin-File: /editions/mve.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2015-07-28 22:03-0400\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "Dodaj dobavljača"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "Dodaj dobavljače i zatvori"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "Dodaj dobavljača"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "Dodavanje administratora dobavljača"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "Administrator dobavljača"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "Administratori dobavljača"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "Lista administratora dobavljača, registrovanih korisnika sa nalogom dobavljača."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
+msgstr "Zdravo, <br/> <br/> Imate kandidat za novog dobavljača u vašoj prodavnici. Ovaj nalog dobavljača je na čekanju dok ga ne dobrite. Pratite <a>ovu URL adresu da biste prikazali detalje naloga</a>."
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "Idi na tablu dobavljača"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "Statistika prihoda i rashoda (ukupno, po dobavljaču, po periodu)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "Objedini dobavljača"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "Izaberite novog vlasnik ove kompanije:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "Objedinjavanje dva naloga kompanija će ukloniti [company_name] iz baze podataka, a svi podaci o profilu (proizvodi, narudžbe, isporuke, korisnici, promocije i sl.) će biti preneti u nalog ove kompanije"
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "Svi dobavljači"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "Prijavi se za nalog dobavljača"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "Dostupno za dobavljača"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Prenet saldo"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "Dobavljači"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "Naplatite na račun dobavljača"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "Dobavljači"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "Kreiraj administratorski nalog"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "Prikazani dobavljači"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "Uređivanje dobavljača"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "Administratorski nalog nije kreiran. Email adresa pripada drugom korisniku. Možete ručno dodati administratora za ovog dobavljača."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "Administratorski nalog nije kreiran. Korisničko ime pripada drugom korisniku. Treba da promenite ime naloga administratora."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "Kompanija sa e-poštom koju ste odabrali već postoji, pokušajte neku drugu."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "Rashod"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "Prihod"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "Upravljanje dobavljačima"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "Novi administratorski nalog je uspešno kreiran."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "Novi dobavljač"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "Obavesti dobavljača"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "Obavesti dobavljača e-mailom"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Manage payouts"
+msgstr "Uredi isplate"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Manage vendors"
+msgstr "Upravljanje dobavljačima"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "View payouts"
+msgstr "Prikaz isplata"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "View vendors"
+msgstr "Prikaz dobavljača"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors"
+msgstr "Dobavljači"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "Period prodaja"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "Period ukupne prodaje"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "Pretraga po dobavljaču"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "Sortiranje po abecedi: od A do Ž"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "Sortiranje po abecedi: od Ž do A"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
+msgstr "Vaš profil je promenjen kada se promene odobre, informacije o vašoj kompaniji će se pojaviti u u izlogu."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "Odobren je zahtev za dobavljača [company]."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: [link] by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Kreiran je novi administrator. Možete pristupiti administratorski deo: [link] pomoću sledećih akreditiva: < br / > Login: [login] < br / > lozinka: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: [link]"
+msgstr "Tip tvog naloga [login] je promenjen u administratora. Možeš se prijaviti u deo za administratore: [link]"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "Odobren je vaš zahtev za dobavljača."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "Odbijen je vaš zahtev za dobavljača [company]."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "Odbijen je vaš zahtev za dobavljača."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "Čestitamo, vaša prijava za dobijanje naloga dobavljača je odobrena. Kada pregledamo informacije o nalogu, objavićemo ga na našem sajtu."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "Vaša kompanija čeka na odobrenje."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "Odobrena su promene profila za dobavljača [company]."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "Greška pri dodavanju zahteva."
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "Kreirano je novo plaćanje"
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "Imate dobavljače koje zahtevaju odobravanje. Molim vas <a href=\"[link]\"> pratite ovaj link </a> da biste pregledali ove dobavljače."
+
+msgctxt "Languages::text_store_mode_trial"
+msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
+msgstr "Pun pristup svim funkcijama tokom 30 dana probnog perioda, počevši od vremena aktivacije. < br / > < br / > Posle 30 dana probnog perioda, ovaj režim će postati nedostupan. < br / > < br / >"
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "Vaš zahtev je uspešno dodat. Primićete email sa odgovorom kasnije."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "Ukupan iznos duga"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "Period ukupne isplate"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "Ukupan neplaćen saldo"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "Ukoliko se preplati dobavljaču, takse se ne naplaćuju"
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "U bazi prodavnice postoje narudžbe vezane za ovog dobavljača, te nije moguće izbrisati njegov nalog. Da biste izbrisali nalog, prvo izbrišite sve takve naredbe."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "Dobavljač"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "Dobavljači"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "Sortirana lista registrovanih naloga dobavljača u prodavnici."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "Stanje na računu"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "Prijava za novog dobavljača"
+
+msgctxt "Languages::vendor_commission"
+msgid "Vendor commission"
+msgstr "Provizija za dobavljača"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "ID dobavljača"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "Ime dobavljača"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "Stranice dobavljača"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "Tabla za dobavljača"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "Prikaz narudžbi dobavljača"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "Prikaz proizvoda dobavljača"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "Prikaz korisnika dobavljača"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "Sada možete urediti detalje naloga."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "Dobavljači"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "Dobavljači po stranici"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "Dopusti korisnicima da se prijave za nalog dobavljača"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "Automatski kreiraj administratorski nalog za novog odobrenog dobavljača. (Ako je \"Dopusti korisnicima da se prijave za nalog dobavljača\" omogućena postavka)"
+
+msgctxt "SettingsOptions::include_shipping"
+msgid "Include shipping cost in vendors commission"
+msgstr "Uključi trošak za isporuku u proviziju dobavljača"
+
+msgctxt "SettingsOptions::include_payment_surcharge"
+msgid "Take payment surcharge from vendors"
+msgstr "Uzmi preplate od dobavljača"
+
+msgctxt "SettingsOptions::commissions_header"
+msgid "Commissions"
+msgstr "Provizije"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "Prikaz dobavljača proizvoda"
+
+msgctxt "SettingsTooltips::include_payment_surcharge"
+msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
+msgstr "Ako je omogućen kupci neće videti preplatu i to neće biti primenjeno na ukupnu narudžbu"
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "Forma za prijavu naloga dobavljača"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Kategorije dobavljača"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Kategorije proizvoda dostupne za određenog dobavljača"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Informacije o dobavljaču"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Logotip dobavljača"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Pretraga po proizvodima dobavljača"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Filteri za proizvode dobavljača"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Proizvodi dobavljača"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Filteri za dobavljača"
+
