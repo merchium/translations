@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-28 12:03-0400\n"
+"PO-Revision-Date: 2015-08-13 11:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1266,7 +1266,7 @@ msgstr "Filtri di prodotto per home page"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Opzioni filtro Prodotto visualizzati nella home page"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1710,7 +1710,7 @@ msgstr "Modifica permessi"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Verifica le autorizzazioni"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1870,7 +1870,7 @@ msgstr "Cronologia pulizia"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Cancella i registri"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2050,11 +2050,11 @@ msgstr "Confronta"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista di comparazione"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Vai alla lista di comparazione prodotti"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2730,7 +2730,7 @@ msgstr "Cambiamenti valori nella banca dati"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Backup/ripristino"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "Backup/Ripristino database (banca dati)"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Backup/ripristino"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Crea backup"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2850,7 +2850,7 @@ msgstr "Modello predefinito"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "L'immagine grande"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3222,7 +3222,7 @@ msgstr "Cancella tutti i file prodotto esistenti prima di importare"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Non puoi caricare file di backup. Si prega di controllare le autorizzazioni per la cartella \"var/backups\" della tua installazione."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3678,7 +3678,7 @@ msgstr "I seguenti campi sono obbligatori e non possono essere rimossi dal layou
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Nessun dato esportato. L'intervallo di esportazione errato è la probabile causa del problema. <a class=\"cm-post\" href=\"[url]\">Ripristina l'intervallo di esportazione</a> e prova di nuovo"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC è troppo breve."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "È vietato modificare l'e-mail admin o la password nell'area clienti. Effettuare l'accesso utilizzando un account cliente."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3982,7 +3982,7 @@ msgstr "Servizi supplementari"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Cartelle aggiuntive"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7023,7 +7023,7 @@ msgstr "Creare ordini"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Backup/ripristino"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7359,7 +7359,7 @@ msgstr "Il prodotto è stato aggiunto al vostro carrello"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Il prodotto è stato aggiunto alla vostra lista di comparazione"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7427,7 +7427,7 @@ msgstr "Questo prodotto si trova già nel carrello"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Questo prodotto si trova già nella lista di comparazione"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -9171,23 +9171,23 @@ msgstr "Centro servizio aereo"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Nessuna firma"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Firma richiesta"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "Richiesta la firma di un adulto"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Usare la conferma di consegna"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "Tipo di conferma"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -10223,7 +10223,7 @@ msgstr "Il tuo istituto finanziario o banca ci ha indicato che questa transazion
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "Per scaricare questo backup, fare clic sull'icona dell'ingranaggio e selezionare Download"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -11179,7 +11179,7 @@ msgstr "Accesso completo a tutte le funzioni durante il periodo di prova di 30 g
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Tutte le funzionalità sono disponibili durante i 30 giorni dopo il download del pacchetto di installazione. Non è necessario immettere la chiave di licenza. <br /><br />Dopo il periodo di prova di 30 giorni è necessario acquistare la licenza o inserire la chiave di licenza in vostro possesso.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11295,7 +11295,7 @@ msgstr "Trasferimento FTP non riuscito"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "Non siamo riusciti a trovare l'installazione di CS-Cart nella cartella specificata. Si prega di assicurarsi di aver inserito la corretta cartella FTP."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11835,7 +11835,7 @@ msgstr "Modalità editor di modelli"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "Non è possibile modificare questo parametro per gli stili predefiniti. Prima creane una nuova"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -12131,19 +12131,19 @@ msgstr "Il tuo negozio è in modalità PROVA.<br /><br />Terminato il periodo di
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "La versione di prova di [product] è finita"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Per continuare a lavorare con [product] immettere la chiave di licenza"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Se non si dispone di una chiave di licenza, è possibile acquistare sul nostro sito ufficiale <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Acquista la licenza"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12335,7 +12335,7 @@ msgstr "Il nome dominio che vuoi utilizzare al posto del nome dominio di CloudFr
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
+msgstr "AWS Access Key ID. Vai su <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> per scoprire come ottenere la Key e la Secret Key."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12551,7 +12551,7 @@ msgstr "Gli aggiornamenti sono disponibili solo nella modalità di licenza <stro
 
 msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
 msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
+msgstr "Impossibile preparare file di restore.php. Il file \"var/upgrade/restore.php\" è stato modificato/rinominato/rimosso. Ripristinare il file originale di restore.php prima dell'aggiornamento."
 
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
@@ -12919,7 +12919,7 @@ msgstr "Visualizza categorie"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista di comparazione"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13735,7 +13735,7 @@ msgstr "Utilizza connessione sicura in area amministrazione"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Abilitare la connessione sicura per l'area pubblica"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14459,7 +14459,7 @@ msgstr "Configura il passaggio \"Accedi\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Questo passaggio può essere nascosto solo se non dispone di campi di informazioni di contatto richieste ed è consentito l'acquisto senza registrazione."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14467,19 +14467,19 @@ msgstr "Opzione predefinita per la sezione \"nuovo cliente\" dopo l'\"Accesso\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Display \"Shipping method\" step"
+msgstr "Mostra il passaggio \"Metodo di spedizione\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Se nascosto, il primo metodo attivo verrà utilizzato per impostazione predefinita."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Display \"Payment method\" step"
+msgstr "Mostra il passaggio \"Metodo di pagamento\""
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "Se nascosto, il primo metodo attivo verrà utilizzato per impostazione predefinita."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -14487,7 +14487,7 @@ msgstr "Abilitare la vendita di prodotti scaricabili"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "Il certificato SSL è richiesto e deve essere installato sul vostro server"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14507,7 +14507,7 @@ msgstr "Indirizzi di spedizione e di fatturazione"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Leave empty for transparent background"
+msgstr "Lasciare vuoto per avere lo sfondo trasparente"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15339,15 +15339,15 @@ msgstr "Continua acquisto come ospite"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Disattiva"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "Sicurezza per le pagine di profilo, cassa e ordine"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "Proteggi l'intero sito"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15712,29 +15712,37 @@ msgstr "Deve rimanere almeno un negozio"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Impossibile ripristinare il file. Sono ammessi solo i file con estensione .sql, .zip e .tgz"
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "Impossibile scrivere sul file <b>[file]</b>. Impostare manualmente le autorizzazioni in scrivibile o controllare l'accesso FTP al tuo server nella sezione <a href=\"[url]\"> \"Impostazioni aggiornamento\"</a>"
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Il Database del tuo negozio e i file sono stati salvati con un Backup prima dell'aggiornamento. L'archivio di backup comprende l'intero database e tutti i file tranne le immagini. L'archivio di backup è stato memorizzato sul server: [backup_file].</p><p>Prima dell'aggiornamento, il negozio è stato chiuso. Verifica se tutto è funzionante dopo l'aggiornamento e <a href=\"[settings_section]\">apri nuovamente il negozio</a>.</p><p>Se qualcosa è andato male durante l'aggiornamento, vai al tuo pannello admin, <strong>Amministrazione → Backup/Ripristino</strong>, per ripristinare il backup.</p><p>Se non è possibile accedere il tuo pannello di amministrazione, è possibile utilizzare il seguente link per ripristinare l'ultimo backup. <b>Importante:</b> seguendo questo link si avvierà immediatamente il processo di ripristino. Utilizzatelo solo se non è possibile accedere il tuo pannello di amministrazione! Per ripristinare l'ultimo backup:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "La ricerca per funzionalità non è disponibile a causa del numero eccessivo di varianti."
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Aggiornato il"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Impossibile creare l'anteprima per il file \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "Per un'esperienza di acquisto più completa, si prega di <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">impostare il browser per accettare i cookie</a>"
+
+msgctxt "Languages::uc_restore_email_subject"
+msgid "Upgrade center: Store has been backed up and closed."
+msgstr "Centro di aggiornamento: Il negozio è stato backuppato e chiuso."
+
+msgctxt "Languages::warning_zero_price_restricted_product"
+msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
 

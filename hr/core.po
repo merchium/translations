@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-01 13:03-0400\n"
+"PO-Revision-Date: 2015-08-13 11:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Dodaj u košaricu"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Dodaj na popis za usporedbu"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -642,7 +642,7 @@ msgstr "Amex"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "CVV je na prednjoj strani kartice gore je broj kreditne kartice (ili na desnoj ili na lijevoj strani kreditne kartice)."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -1178,7 +1178,7 @@ msgstr "Minimalna širina"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "Mijenjanje izgleda kada nije dopušteno da tema mijenja CSS. Omogućite NIŽI način in <a target=\"_blank\" href=\"[url]\"> uređivač tema</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -1710,7 +1710,7 @@ msgstr "Promjena dozvola"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Provjerite dozvole"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1870,7 +1870,7 @@ msgstr "Očisti povijest"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Očisti logove"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -2050,7 +2050,7 @@ msgstr "Usporedi"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista za usporedbu"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
@@ -2730,7 +2730,7 @@ msgstr "Promjene baze podataka"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sigurnosno kopiranje/vraćanje"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "DB Sigurnosna kopija / Vraćanje"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sigurnosno kopiranje/vraćanje"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Stvaranje sigurnosne kopije"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2850,7 +2850,7 @@ msgstr "Zadani predložak"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Velika slika"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3982,7 +3982,7 @@ msgstr "Dodatne usluge"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "Dodatne mape"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -7022,7 +7022,7 @@ msgstr "Napravi narudžbu"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Sigurnosno kopiranje/vraćanje"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7358,7 +7358,7 @@ msgstr "Proizvod je dodan u košaricu"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Proizvod je dodan na vašu listu Usporedbe"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "Ovaj proizvod je već u košarici"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Ovaj proizvod već se nalazi na listi usporedbe"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -9170,11 +9170,11 @@ msgstr "Centar za zračne usluge"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "Nema potpisa"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "Potreban je potpis"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
@@ -9182,7 +9182,7 @@ msgstr "Adult Signature Required"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "Koristi potvrdu o isporuci"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
@@ -11942,7 +11942,7 @@ msgstr "Alati"
 
 msgctxt "Languages::tools_addons_addons_count"
 msgid "Add-ons count"
-msgstr "Add-ons count"
+msgstr "Brojač dodataka"
 
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
@@ -11966,7 +11966,7 @@ msgstr "Naziv alata"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Ovaj spremnik se ne koristi. \"[container]\" spremnik zaglavlja iz zadanog mjesta će se koristiti umjesto. Postavite ovo mjesto kao zadano kako biste koristili ovaj spremnik \"[container]\" kao zaglavlje za sve lokacije."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12142,7 +12142,7 @@ msgstr "If you do not have a license key, you can purchase it on our official we
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Kupiti licencu"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -15338,7 +15338,7 @@ msgstr "Naplata kao gost"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Onemogućiti"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
@@ -15582,7 +15582,7 @@ msgstr "Option exceptions"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "Horizontalni filteri"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15647,7 +15647,7 @@ msgstr "Permissions issue"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Lokalne promjene"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
@@ -15707,11 +15707,11 @@ msgstr "Feature name is missing. Some product features were not updated."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "Mora ostati barem jedan storefront"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "Datoteku nije moguće vratiti. Dozvoljeni su samo .sql, .zip i .tgz datoteke."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
@@ -15731,9 +15731,17 @@ msgstr "Upgraded on"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Nije moguće stvoriti minijaturu za datoteku \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
 msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+
+msgctxt "Languages::uc_restore_email_subject"
+msgid "Upgrade center: Store has been backed up and closed."
+msgstr "Upgrade center: Store has been backed up and closed."
+
+msgctxt "Languages::warning_zero_price_restricted_product"
+msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
 

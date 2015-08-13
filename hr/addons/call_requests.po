@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-01 13:03-0400\n"
+"PO-Revision-Date: 2015-08-08 05:03-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -34,7 +34,7 @@ msgstr "Izmjeniti telefon"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr "Highlight first chars"
+msgstr "Označite prva slova u"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -46,15 +46,15 @@ msgstr "Status narudžbe"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Telefon maska"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Ostavite prazno za korištenje automatskog telefonskog uzoraka zemlje ili upišite prilagođeni uzorak. Možete koristiti razmake, zareze, +, -, i znamenke. Imajte na umu da 9 predstavlja nikakvu brojku; ako vam je potrebna 9, tip \\\\ 9. Primjeri: +9 (999) 999 99 99, 99999999, 999 999 99 ili + 99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Uključujući zagrade, prostor, itd Koristite za označavanje pozivni broj zemlje, predbroj i telefonski predbroj."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
@@ -154,25 +154,25 @@ msgstr "Poziv na zahtjev i kupi sada u obliku jednim klikom"
 
 msgctxt "Languages::block_call_request"
 msgid "Call request"
-msgstr "Call request"
+msgstr "Poziv zahtjeva"
 
 msgctxt "Languages::block_call_request_description"
 msgid "Store phone number and form for requesting a call"
-msgstr "Store phone number and form for requesting a call"
+msgstr "Broj telefona trgovine i obrazac za zahtjev poziva"
 
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
-msgstr "Call request form"
+msgstr "Obrazac zahtjeva za poziv"
 
 msgctxt "Languages::call_requests.text_call_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Kupac [customer] <a href=\"[href]\"> čeka tvoj poziv</a> na [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
-msgstr "The convenient call time is between [time_from] and [time_to]."
+msgstr "Povoljno je vrijeme poziva između [time_from] i [time_to]."
 
 msgctxt "Languages::call_requests.text_buy_with_one_click_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Kupac [customer] <a href=\"[href]\"> čeka tvoj poziv</a> na [phone_number], o kupovini proizvoda <a href=\"[product_href]\">[product_name]</a>."
 

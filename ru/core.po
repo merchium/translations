@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-31 17:03-0400\n"
+"PO-Revision-Date: 2015-08-13 11:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -12138,7 +12138,8 @@ msgstr "Для продолжения работы с [product] введите �
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "Если у вас ещё нет лицензионного ключа, вы можете приобрести его на нашем официальном сайте.<br/>[buy_license]"
+msgstr "Если у вас ещё нет лицензионного ключа, вы можете приобрести его на нашем официальном сайте.<br/>[buy_license]<br/>\n"
+"<i><b>100% гарантия возврата денег!</b> Если вам хотя-бы что-то не понравится в нашем продукте, мы просто вернем вам деньги. <b>Никаких лишних вопросов.</b> На возврат у вас есть целых <b>30 дней</b>.</i>"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
@@ -15727,7 +15728,7 @@ msgstr "Поиск по характеристикам не доступен и�
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Обновления по"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
@@ -15736,4 +15737,12 @@ msgstr "Не удается создать миниатюру для файла 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
 msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+
+msgctxt "Languages::uc_restore_email_subject"
+msgid "Upgrade center: Store has been backed up and closed."
+msgstr "Upgrade center: Store has been backed up and closed."
+
+msgctxt "Languages::warning_zero_price_restricted_product"
+msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
 
