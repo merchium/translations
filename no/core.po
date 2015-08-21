@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:03-0400\n"
+"PO-Revision-Date: 2015-08-20 10:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11372,10 +11372,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Nettbutikken ble stengt under oppgraderingsprosedyren. Vi anbefaler deg å sjekke funksjonaliteten til butikken etter oppgraderingen, før du åpner den igjen.</p><p>Du kan åpne nettbutikken igjen ved å klikke bort haken på valget: Steng butikk forsiden under Innstillinger → Generelt.</p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Det oppstod en feil under oppgraderingen.</p><p>Du kan kontakte <a href=\"http://www.cs-cart.com\">CS-Cart sitt support team</a> for assistanse.</p><p>Du kan <a href=\"[restore_link]\">gjenopprette</a> den forrige butikkversjonen.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Loggfil for oppgraderinger er ikke skrivbar"
@@ -15739,9 +15735,29 @@ msgstr "For en bedre handleopplevelse, kan du <a href=\"http://www.wikihow.com/E
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Oppgraderingssenter: Nettbutikken har blitt sikkerhetskopiert og stengt for besøkende."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Produktet <b>\"[product]\"</b> kan ikke legges i handlekurven, da det ikke er oppført med noen pris."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Leverandører kan ikke opprette produktfunksjoner og alternativer. Noen produktfunksjoner kan ikke endres."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Сheck the script timeout settings on your server."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 

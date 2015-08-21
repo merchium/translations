@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:02-0400\n"
+"PO-Revision-Date: 2015-08-20 11:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11373,10 +11373,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Váš obchod byl během procesu aktualizace uzavřen. Doporučujeme vám nejprve zkontrolovat jeho funkčnost a až tak ho otevřít.</p><p>Obchod můžete znovu otevřít odškrtnutím políčka Zavřít stránky v sekci Nastavení → Obecné.</p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Během aktualizace se vyskytly chyby.</p><p>Pro pomoc můžete kontaktovat <a href=\"[href]\">tým technické podpory</a>.</p><p>Také můžete <a href = \"[restore_link]\">obnovit</a> předchozí verzi obchodu.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Souboru protokolu upgradu není zapisovatelný"
@@ -15744,5 +15740,25 @@ msgstr "Centrum aktualizací: Obchod byl zálohován a uzavřen."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Produkt <b>\"[product]\"</b> nebyl přidán do košíku, protože nemá cenu."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Dodavatelé nemohou vytvářet funkcí produktu a jejich varianty. Nelze upravit některé vlastnosti produktu."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Zkontrolovat nastavení časového limitu skriptu na vašem serveru."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Došlo k chybě během upgradu struktury databáze (použití migrace [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Tato webová stránka má omezení pro vkládání HTML kódu. Některé HTML tagy, jako &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; a kód JavaScript jsou oříznuty."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Došlo k chybám během procesu upgradu. Obraťte se na technickou podporu k prozkoumání problému."
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:02-0400\n"
+"PO-Revision-Date: 2015-08-20 10:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7698,7 +7698,7 @@ msgstr "Promo κείμενο"
 
 msgctxt "Languages::properties"
 msgid "Properties"
-msgstr "Ιδιοτητητες"
+msgstr "Ιδιοτητες"
 
 msgctxt "Languages::provider"
 msgid "Provider"
@@ -11371,10 +11371,6 @@ msgstr "Το κατάστημα σας αναβαθμίστηκε με επιτ�
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p> Το κατάστημα σας έκλεισε κατά τη διάρκεια της διαδικασίας αναβάθμισης . Σας συνιστούμε να ελέγξετε την λειτουργία του καταστήματος, μετά την αναβάθμιση και μόνο τότε να τα ανοίξετε. </p><p> Θα βρείτε το link [link] στο κάτω μέρος της κάθε σελίδας στη δεξιά πλευρά. </p>"
-
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"http://www.cs-cart.com\">CS-Cart support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -15302,7 +15298,7 @@ msgstr "Tύπος διεύθυνσης"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr "Προϊόν πρέπει να ανήκουν σε κάποια κατηγορία που δημιουργήθηκε από την εταιρεία του ιδιοκτήτη."
+msgstr "Το Προϊόν πρέπει να ανήκει σε κάποια κατηγορία που δημιουργήθηκε από την εταιρεία του ιδιοκτήτη."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
@@ -15691,7 +15687,7 @@ msgstr "Ανεβάστε το πακέτο αναβάθμισης"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Φόρτωνοντας πακέτα αναβάθμισης σάς δίνεται η δυνατότητα να εφαρμόσετε επείγουσες επιδιορθώσεις ή αναβαθμίσεις πρόσθετων. Μπορείτε να φορτώσετε ένα πακέτο αναβάθμισης, επιλέγοντας ένα αρχείο με φορματ tgz, gz, zip και πατώνταςτο κουμπι Φόρτωση."
+msgstr "Φόρτωνοντας πακέτα αναβάθμισης σας δίνεται η δυνατότητα να εφαρμόσετε επείγουσες επιδιορθώσεις ή αναβαθμίσεις πρόσθετων. Μπορείτε να φορτώσετε ένα πακέτο αναβάθμισης, επιλέγοντας ένα αρχείο με φορματ tgz, gz, zip και πατώντας το κουμπι Φόρτωση."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15739,9 +15735,29 @@ msgstr "Για μια πλήρη εμπειρία αγορών, μπορείτε
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Κέντρο Αναβάθμισης: Εγινε αντιγραφο ασφαλειας του καταστήματος και έκλεισε."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Το Προϊόν <b>\"[product]\"</b> δεν έχει προστεθεί στο καλάθι, επειδή δεν έχει τιμή."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Οι Πωλητές δεν μπορούν να δημιουργήσουν χαρακτηριστικά του προϊόντος και παραλλαγές αυτών. Μερικά χαρακτηριστικά του προϊόντος δεν μπορούν να τροποποιηθούν."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Ελεγξτε τις ρυθμίσεις χρονικού ορίου (script timeout) στο διακομιστή σας."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Παρουσιάστηκε σφάλμα κατά την αναβάθμιση της δομής της βάσης δεδομένων (εφαρμογή μεταφορας [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Αυτή η ιστοσελίδα έχει περιορισμούς σχετικά με την προσθήκη κώδικα HTML. Ορισμένες ετικέτες HTML όπως η &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; και JavaScript κωδικας είναι αποκομμένες."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Παρουσιάστηκαν σφάλματα κατά τη διαδικασία αναβάθμισης. Επικοινωνήστε με την τεχνική υποστήριξη για να εξεταστεί το πρόβλημα."
 

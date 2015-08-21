@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/email_marketing.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-11 08:03-0400\n"
+"PO-Revision-Date: 2015-08-20 12:02-0400\n"
 
 msgctxt "Addons::name::email_marketing"
 msgid "E-mail marketing"
@@ -18,7 +18,7 @@ msgstr "E-mail marketing"
 
 msgctxt "Addons::description::email_marketing"
 msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
-msgstr "Sincroniza tus listas de suscriptores de la newsletter con MailChimp y Mad Mimi"
+msgstr "Sincroniza tus listas de suscriptores del boeltín de noticias con MailChimp y Mad Mimi"
 
 msgctxt "Languages::subscribers_menu_description"
 msgid "Manage newsletter subscribers and settings."
@@ -30,23 +30,23 @@ msgstr "Gracias por suscribirse a nuestro boletín de noticias"
 
 msgctxt "Languages::email_marketing.text_subscription_confirmed"
 msgid "Your subscription has been confirmed. No extra actions is required."
-msgstr "Tu suscripción ha sido confirmada. Ninguna acción adicional es necesaria."
+msgstr "Tu suscripción ha sido confirmada. No es necesaria ninguna acción adicional."
 
 msgctxt "Languages::email_marketing.subscription_pending"
 msgid "Email confirmation is required!"
-msgstr "Es necesaria la confirmación por correo electrónico!"
+msgstr "Es necesaria la confirmación del correo electrónico!"
 
 msgctxt "Languages::email_marketing.text_subscription_pending"
 msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
-msgstr "Gracias por suscribirse a nuestro boletín de noticias. Correo electrónico de confirmación A <p>ha sido enviado a usted. Utilice el enlace en el correo electrónico para confirmar tu suscripción</p>"
+msgstr "Gracias por suscribirse a nuestro boletín de noticias. <p>Se le ha sido enviado un correo electrónico de confirmación. Utilice el enlace en el correo electrónico para confirmar su suscripción</p>"
 
 msgctxt "Languages::email_marketing.confirm_subscription"
 msgid "Please confirm subscription"
-msgstr "Por favor confirmar suscripción"
+msgstr "Por favor confirme su suscripción"
 
 msgctxt "Languages::email_marketing.text_confirm_subscription"
 msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
-msgstr "Hemos recibido una solicitud de suscripción de usted. Por favor confirmarlo: <p><a href=\"[href]\"> haga clic aquí para confirmar su suscripción a nuestra newsletter</a></p> si usted recibió este mensaje por error, simplemente borrarla. Usted no estar suscrito si no haga clic en el enlace de confirmación anterior."
+msgstr "Hemos recibido una solicitud de suscripción de usted. Por favor confírmelo: <p><a href=\"[href]\"> haga clic aquí para confirmar su suscripción a nuestro boletín de noticias</a></p>Si usted recibió este mensaje por error, simplemente elimínelo. Usted no estara suscrito si no haga clic en el enlace de confirmación anterior."
 
 msgctxt "Languages::email_marketing.subscription_confirmed_2"
 msgid "Subscription confirmed"
@@ -54,7 +54,7 @@ msgstr "Suscripción confirmada"
 
 msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
 msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
-msgstr "Se ha confirmado tu suscripción a nuestro boletín de noticias. Gracias por suscribirse!"
+msgstr "Se ha confirmado su suscripción a nuestro boletín de noticias. Gracias por suscribirse!"
 
 msgctxt "Languages::email_marketing.email_subscribed"
 msgid "You were subscribed to our newsletter"
@@ -74,7 +74,7 @@ msgstr "Se ha confirmado tu suscripción a nuestro boletín de noticias. <p>Si e
 
 msgctxt "Languages::email_marketing.unsubscribe_successful"
 msgid "Unsubscribe successful"
-msgstr "Darse de baja exitosa"
+msgstr "Darse de baja fue completado con éxito"
 
 msgctxt "Languages::email_marketing.text_unsubscribe_successful"
 msgid "Your email has been removed from our list."
@@ -106,7 +106,7 @@ msgstr "Suscríbete a nuestro boletín de noticias"
 
 msgctxt "Languages::email_marketing.tmpl_subscription"
 msgid "Email marketing: Newsletter subscription form"
-msgstr "Email marketing: formulario de suscripción de Newsletter"
+msgstr "Email marketing: Formulario de suscripción al boletín de noticias"
 
 msgctxt "Languages::privileges.manage_email_marketing"
 msgid "Manage email marketing add-on"
@@ -118,7 +118,7 @@ msgstr "Ver email marketing Add-on"
 
 msgctxt "Languages::email_marketing.error_no_list"
 msgid "Please select mailing list in add-on settings to start import"
-msgstr "Por favor, seleccione lista de correo en configuración de Add-on para iniciar la importación"
+msgstr "Por favor, seleccione lista de correo en la configuración del Add-on para iniciar la importación"
 
 msgctxt "SettingsSections::email_marketing::general"
 msgid "General"
@@ -138,7 +138,7 @@ msgstr "Boletín casilla de verificación"
 
 msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
 msgid "Tick off by default"
-msgstr "Marque por defecto"
+msgstr "Marca desactivada por defecto"
 
 msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
 msgid "Double opt-in"
@@ -166,7 +166,7 @@ msgstr "Correo electrónico"
 
 msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
 msgid "API key"
-msgstr "Clave de API"
+msgstr "Clave API"
 
 msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
 msgid "List"

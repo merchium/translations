@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:04-0400\n"
+"PO-Revision-Date: 2015-08-20 11:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -8438,7 +8438,7 @@ msgstr "Безопасный"
 
 msgctxt "Languages::security"
 msgid "Security"
-msgstr "Настройки безопасности"
+msgstr "Безопасность"
 
 msgctxt "Languages::secure_checkout"
 msgid "Secure checkout"
@@ -11371,10 +11371,6 @@ msgstr "Магазин обновлен"
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Ваш магазин был закрыт во время процедуры обновления. Ме рекомендуем проверить работоспособность магазина после обновления и лишь затем снова открыть его.</p><p>Открыть магазин можно на странице Настройки → Общее, отключив настройку Закрыть магазин.</p>"
-
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Во время обновления произошла ошибка.</p><p>Вы можете обратиться в <a href=\"[href]\">службу поддержки</a>.</p><p>Или вы можете <a href=\"[restore_link]\">восстановить</a> предыдущую версию магазина.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -15744,5 +15740,25 @@ msgstr "Upgrade center: Store has been backed up and closed."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Продукт <b>«[product]»</b> не был добавлен в корзину, потому что он не имеет цены."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Проверьте параметры таймаута сценария на сервере."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Произошла ошибка во время обновления структуры базы данных (применение [migration] миграции)."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Этот сайт имеет ограничения на вставку HTML-кода. Некоторые теги HTML как &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript, вырезаны."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Произошли ошибки во время процесса обновления. Пожалуйста, свяжитесь с технической поддержки, чтобы исследовать эту проблему."
 

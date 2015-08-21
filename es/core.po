@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:02-0400\n"
+"PO-Revision-Date: 2015-08-20 12:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC demasiado corto."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Está prohibido cambiar la dirección de correo o la contraseña del administrador del sistema en el área de cliente. Por favor, inicie la sesión utilizando una cuenta de usuario."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10141,7 +10141,7 @@ msgstr "El complemento \"[addon_name]\" es incompatible con los siguientes compl
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "\"[addon_name]\" es incompatible con los siguientes complementos: [addons]. No pudo ser habilitado. Habilitar manualmente y todos los complementos incompatibles se desactivará automáticamente."
+msgstr "\"[addon_name]\" es incompatible con los siguientes complementos: [addons]. No se ha podido activar. Actívalo manualmente y todos los complementos incompatibles serán desactivados automáticamente."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
@@ -10157,7 +10157,7 @@ msgstr "Se ha desinstalado el complemento <b>\"[addon]\"</b>."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
-msgstr "El complemento no se puede desinstalar ya dependen de los siguientes complementos: [addons]"
+msgstr "El complemento no se puede desinstalar porque los siguientes complementos dependen de él: [addons]"
 
 msgctxt "Languages::text_addresses_wildcards"
 msgid "You are able to use wildcards in this field:<br /><b>'?'</b> - any single character;<b>'*'</b> - any number of characters.<br /><br /><u>Example:</u><br /><b>* street</b> &nbsp;&nbsp;(corresponds to 1st Street, 102nd Street, etc)"
@@ -10169,7 +10169,7 @@ msgstr "Esta sección le muestra pedidos que nunca ha visto."
 
 msgctxt "Languages::text_allowed_to_upload_file_extension"
 msgid "The following file extensions are supported: <b>[ext]</b>."
-msgstr "Son compatibles las siguientes extensiones de archivo: <b>[ext]</b>."
+msgstr "Las siguientes extensiones de archivo son compatibles: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
@@ -10293,11 +10293,11 @@ msgstr "La cantidad máxima para el \"[product]\" es <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_min_qty"
 msgid "Minimum quantity for \"[product]\" is <b>[quantity]</b>"
-msgstr "La cantidad máxima para el \"[product]\" es <b>[quantity]</b>"
+msgstr "La cantidad mínima para el \"[product]\" es <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_not_enough_inventory"
 msgid "The number of products in the inventory is not enough for your order"
-msgstr "El número de productos en el inventario no es suficiente para su orden"
+msgstr "El número de productos en estoc no es suficiente para su pedido"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
@@ -10345,7 +10345,7 @@ msgstr "Tus cambios no han sido guardados."
 
 msgctxt "Languages::text_changes_saved"
 msgid "Your changes have been saved."
-msgstr "Los cambios han sido guardados!"
+msgstr "Los cambios han sido guardados."
 
 msgctxt "Languages::text_change_password"
 msgid "You are now logged in to your account. Please change the password and click the \"Save\" button."
@@ -10425,11 +10425,11 @@ msgstr "Logo para área de <b>clientes</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b> Nota: </b>: Con el fin de realizar un seguimiento de sus pedidos Datatrans con el software de carrito de la compra que hay que seguir los siguientes pasos: <br/> <br /> - &nbsp; Acceda a su cuenta de Datatrans <br /> - &nbsp; Haga clic en el enlace <u> 'Upp de datos' </u> en la sección <u> 'Administración Upp' </u> <br/> - &nbsp;. Set <u> 'formato de datos URL post' </u> <b> 'los datos en forma de HTML \"</b> <br/> - &nbsp; Set <u>' URL post '</u> a:. <br/> <b> [post_url] </b> <br/> - &nbsp; Haga clic en el enlace <u> \"Seguridad\" </u> en la sección <u> 'Administración Upp' </u> <br /> - &nbsp;. Seleccione el <b> 'Una identificación comerciante adicional se envía con mensajes de pago' </b> <br/> - &nbsp;.. Generar nueva firma digital utilizando el botón <u> 'Generar nuevo signo' </u> <br/> - &nbsp; Set genera valor al campo <u> \"firma digital\" </u> en la página de configuración de pago Datatrans en su <br/> tienda"
+msgstr "<b> Nota: </b> Con el fin de realizar un seguimiento de sus pedidos Datatrans con el software de carrito de la compra que hay que seguir los siguientes pasos: <br/> <br /> - Acceda a su cuenta de Datatrans <br /> - Haga clic en el enlace <u> 'Upp de datos' </u> en la sección <u> 'Administración Upp' </u> <br/> - Configurar <u> 'formato de datos URL post' </u> <b> 'los datos en forma de HTML \"</b> <br/> - Configurar <u>' URL post '</u> a:. <br/> <b> [post_url] </b> <br/> - Haga clic en el enlace <u> \"Seguridad\" </u> en la sección <u> 'Administración Upp' </u> <br /> - Seleccione el <b> 'Una identificación comerciante adicional se envía con mensajes de pago' </b> <br/> - Generar nueva firma digital utilizando el botón <u> 'Generar nuevo signo' </u> <br/> - Configurar genera valor al campo <u> \"firma digital\" </u> en la página de configuración de pago Datatrans en su <br/> tienda"
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
-msgstr "Los cambios no se han salvado. Pulse OK para continuar o cancelar para permanecer en la página actual."
+msgstr "Los cambios no se han guardado. Pulse OK para continuar o cancelar para permanecer en la página actual."
 
 msgctxt "Languages::text_decrease_points_in_use"
 msgid "The points used in the order were subtracted from user account."
@@ -10437,7 +10437,7 @@ msgstr "Los puntos usados en el pedido fueron restados de la cuenta de usuario."
 
 msgctxt "Languages::text_deltapay_notice"
 msgid "<b>Note:</b> Please send the following information to the DeltaPay support:<br />Payment page: '<u>[payment_url]</u>'<br />Success page: '<u>[result_url]</u>'<br />Failure page: '<u>[result_url]</u>'<br />Cancel page: '<u>[result_url]</u>'<br />"
-msgstr "<b>Nota:</b> Por favor envíe la siguiente información para el apoyo DeltaPay: <br /> página de Pago: '<u>[payment_url]</u>'<br />Página de éxito: '<u>[result_url]</u>'<br /> Página de falla de: '<u>[result_url]</u>'<br />Cancelar página: '<u>[result_url]</u>'<br />"
+msgstr "<b>Nota:</b> Por favor envíe la siguiente información para el soporte de DeltaPay: <br /> Página de Pago: '<u>[payment_url]</u>'<br />Página de acceso: '<u>[result_url]</u>'<br /> Página de error: '<u>[result_url]</u>'<br />Cancelar página: '<u>[result_url]</u>'<br />"
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
@@ -10501,7 +10501,7 @@ msgstr "Los datos fueron importados con éxito.<br />Objetos nuevos - <b>[new]</
 
 msgctxt "Languages::text_exim_data_imported_clear"
 msgid "Data is imported successfully."
-msgstr "Datos exportados con éxito."
+msgstr "Datos importados con éxito."
 
 msgctxt "Languages::text_exim_export_notice"
 msgid "Below is a list of the fields that can be exported. The <b>highlighted</b> fields are mandatory."
@@ -10517,7 +10517,7 @@ msgstr "<h4>Formato del archivo de importación</h4><code>%File location%</code>
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
-msgstr "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
+msgstr "<h4>Formato de importación de imagen</h4> <code>%Ubicación de imagen%#%Texto Alternativo%</code>, <br><dl class=\"dl-horizontal\"> <dt>%Ubicación de imagen%</dt><dd>puede ser una ruta relativa o absoluta en un sistema de archivos del servidor o una dirección URL,</dd><dt>%Texto Alternativo%<dt><dd>texto alternativo de imagen</dd></dl><h5>Ejemplo 1:</h5><code>images/product_images/apples.jpg#Manzanas</code><h5>Ejemplo 2:</h5><code>http://www.site.com/apples.jpg#Manzanas</code>"
 
 msgctxt "Languages::text_exim_import_notice"
 msgid "Below is a list of the fields that your data file can contain. The fields highlighted in bold are mandatory. If you are importing data with special symbols (commas, semicolons, etc.), please make sure you have these fields quoted."
@@ -10525,11 +10525,11 @@ msgstr "Abajo está la lista de los campos que su fichero de datos puede contene
 
 msgctxt "Languages::text_exim_import_options_note"
 msgid "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
-msgstr "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
+msgstr "<h4>Opciones de formato de importación del producto</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> donde, <dl class=\"dl-horizontal\"> <dt>%Option ID%</dt> <dd>el ID de la opción</dd> <dt>L</dt> <dd>parámetro opcional, significa que es una opción global vinculada del producto.</dd> <dt>%Option name%</dt> <dd>el nombre de la opción,</dd> <dt>%Variant ID N%</dt> <dd>la identificación de la variante,</dd> <dt>%Variant N%</dt> <dd>el nombre de la variante. Variantes se debe especificar si el tipo de opción es solo un selectbox o un radiogroup.</dd> <dt>tipo de %Option %</dt> <dd>el tipo de opción, puede ser el siguiente: <br><ul><li><b>S</b> - selectbox,</li> <li><b>R</b> - radiogroup,</li> <li><b>C</b> - checkbox,</li> <li><b>I</b> - simple input,</li> <li><b>T</b> - textarea.</li></ul></dd></dl> <p>Varias opciones deben ser delimitados por punto y coma.</p> <h5>Ejemplos:</h5> Opciones de texto simple: <code>edad: I; Fecha de nacimiento:. Notas: T</code> <br>Opciones con variantes: <code>Color: S [rojo, verde, azul]; Tamaño: R [X, XL, XXL]</code>"
 
 msgctxt "Languages::text_exim_utf8_file_format"
 msgid "Please make sure that the file you are importing has UTF-8 charset for correct import"
-msgstr "Por favor, asegúrese de que el archivo que está importando tiene charset UTF-8 para la correcta importación"
+msgstr "Por favor, asegúrate de que el archivo que estás importando tiene charset UTF-8 para una correcta importación"
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
@@ -10593,7 +10593,7 @@ msgstr "No esta permitido subir archivos con extensión <b>.[ext]</b>. Las exten
 
 msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
-msgstr "No está permitido subir archivos con tamaño más <b>[size]</b>"
+msgstr "No está permitido subir archivos con tamaño mayor de <b>[size]</b>"
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
@@ -10625,7 +10625,7 @@ msgstr "El directorio donde las imágenes están localizadas (esto será usado s
 
 msgctxt "Languages::text_invalid_url"
 msgid "You have entered an invalid URL"
-msgstr "Ha introducido una URL no válida"
+msgstr "Has introducido una URL no válida"
 
 msgctxt "Languages::text_items_added"
 msgid "The items were added successfully"
@@ -10693,7 +10693,7 @@ msgstr "Nada encontrado"
 
 msgctxt "Languages::text_not_allowed_to_upload_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension here."
-msgstr "No está permitido subir archivos con la extensión de la <b>.[ext]</b> aquí."
+msgstr "No está permitido subir archivos con la extensión <b>.[ext]</b> aquí."
 
 msgctxt "Languages::text_not_valid_email"
 msgid "<b>[email]</b> is not a valid e-mail address."
@@ -10825,7 +10825,7 @@ msgstr "Te hemos enviado un e-mail con las instrucciones para recuperar tu contr
 
 msgctxt "Languages::text_pay4later_notice"
 msgid "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
-msgstr "<b>Note</b>: In order to track your Pay4Later orders with the shopping cart software, you have to take these steps:<br /><br />-&nbsp;Log in to Pay4Later BackOffice<br />-&nbsp;Click on the <u>'Settings/Installations'</u> link in the <u>'Quick Links'</u> section.<br />-&nbsp;Set <u>'Return URL (Verified)'</u> setting to:<br /><b>[verified_url]</b><br />-&nbsp;Set <u>'Return URL (Decline)'</u> setting to:<br /><b>[decline_url]</b><br />-&nbsp;Set <u>'Return URL (Refer)'</u> setting to:<br /><b>[refer_url]</b><br />-&nbsp;Set <u>'Return URL (Cancel)'</u> setting to:<br /><b>[cancel_url]</b><br />-&nbsp;Set <u>'CSN URL'</u> setting to:<br /><b>[process_url]</b><br />-&nbsp;Click on the <u>'Save Changes'</u> button<br />"
+msgstr "<b>Nota</b>: para el seguimiento de sus órdenes con Pay4Later, usted debe seguir estos pasos: <br /> <br /> - Ingrese en Pay4Later BackOffice<br /> - Haga clic en el enlace <u>' configuración/instalaciones '</u> en la sección de <u>' enlaces '</u>. <br /> - Configure <u>'Return URL (Confirmada)'</u> a: <br /> <b>[verified_url]</b> <br /> - Configure <u>'Return URL (Denegada)'</u> a: <br /> <b>[decline_url]</b> <br /> - Configure <u>'Return URL (Consultar)'</u> a: <br /> <b>[refer_url]</b> <br /> - Configure <u>'Return URL (Cancelar)'</u> a: <br /> <b>[cancel_url]</b> <br /> - Configure 'CSN <u>URL'</u> ajuste: <br /> <b>[process_url]</b> <br /> - Haga click en el botón <u>' Guardar cambios '</u> <br />"
 
 msgctxt "Languages::text_paybox_notice"
 msgid "<b>Note:</b> Please download the file modulev2.cgi from the PayBox server, copy it to the <b>[paybox_dir]</b> directory <u>in binary mode</u> and make it executable. <br />Run the following command:<br /><b><i>chmod 755 modulev2.cgi</b></i><br /><br />Also ask &#8220;Paybox&#8221; service to add the following URL to the database as &#8220;Callback URL&#8221;:<br /><b>[callback_url]</b>"
@@ -10881,11 +10881,11 @@ msgstr "No mostrar la selección de divisas"
 
 msgctxt "Languages::text_paysitecash_notice"
 msgid "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
-msgstr "Please add these URL fields in your Paysite Cash configuration:<br/><br/><b>URL:</b><br/>[url]<br/><br/><b>Referer url:</b><br/>[ref_url]<br/><br/><b>after payment return url:</b><br/>[sucess_url]<br/><br/><b>canceled payment url:</b><br/>[cancel_url]<br/><br/><b>Backoffice confirmation url:</b><br/>[confirm_url]"
+msgstr "Por favor agregar estos campos de URL en la configuración de Paysite Cash: <br/> <br/> <b>URL:</b> <br/>[url] <br/> <br/> <b>url de referencia:</b> <br/>[ref_url] <br/> <br/> <b>url despues de pago:</b> <br/>[sucess_url] <br/> <br/> <b>url cancelación del pago:</b> <br/>[cancel_url] <br/> <br/> <b>url confirmación Backoffice:</b> <br/>[confirm_url]"
 
 msgctxt "Languages::text_paysitecash_processor"
 msgid "Processor"
-msgstr "Procesado"
+msgstr "Procesador de pagos"
 
 msgctxt "Languages::text_paysitecash_site_id"
 msgid "Site ID"
@@ -10993,7 +10993,7 @@ msgstr "Script de validación:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Scr
 
 msgctxt "Languages::text_qbms_notice"
 msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
+msgstr "<p>Se debe utilizar el modo de \"prueba\" sólo si tienes una cuenta de PTC.</p> <p>Durante su solicitud de registro, configure los siguientes valores: <br />- Tipo: alojada (aplicación basada en web) <br /> - Suscribir URL: [response_url] < br/> - Cambiar URL: [response_url] <br /> -Cancelar URL: [response_url] <br / ></p> <p><b>Ticket de conexión</b> será rellenado automáticamente después de crear la conexión aquí: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (Reemplace el [My_App_ID] con su número de AppID) y haga clic en el botón \"Usar esta conexión\".</p> <p>Para obtener \"Certificado de firma\" por favor, consulte el <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br /> Después de haber creado los certificados (Intuit CA Cliente y Firmado) haga lo siguiente: <br /> 1. extraer la clave de la RSE creada (estos pasos son aplicables sólo si se utiliza keytool) <br /> - Descargar la clase Java para exportar la clave privada del certificado: http://mark.foster.cc/pub/java/ExportPriv.java <br /> - Compilar la clase: \"javac ExportPriv.java\"<br /> - Exporte la clave al archivo: \"java ExportPriv <keystore><alias><password>> pkcs8.key exportado\" <br /> 2. Guardar el certificado cliente firmado en el archivo (por ejemplo qbms_cert.txt)<br /> 3. Guardar en el mismo archivo la clave que se extrajo en el paso 1. <br /> 4. Suba el archivo resultante utilizando este formulario. <br /></p>"
 
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
@@ -11181,7 +11181,7 @@ msgstr "Acceso completo a todas las características durante el período de prue
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Todas las funciones están disponibles durante 30 días después de descargar el paquete de instalación. No es necesario introducir la clave de licencia. < br />< br />Después del período de prueba de 30 días, usted necesita comprar la licencia o escribir la clave de licencia si ya tiene una. <br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11374,10 +11374,6 @@ msgstr "Su tienda se ha actualizado con éxito"
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>La tienda se cerró durante el proceso de actualización. Recomendamos comprobar el funcionamiento de la tienda tras la actualización y solo luego reabrirla</p><p>Puedes abrir la tienda desmarcando la casilla \"Cerrar tienda\" en Ajustes → General.</p>"
-
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Han ocurrido errores en la actualización.</p><p>Contacta <a href=\"http://www.cs-cart.com\">el equipo de soporte</a> por ayuda.</p><p>Puedes <a href=\"[restore_link]\">restablecer</a> la tienda a la versión previa.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -12133,19 +12129,19 @@ msgstr "La tienda está en modo de prueba.<br /><br />Cuando termine el período
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "La versión de prueba de [product] ha finalizado"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Para continuar trabajando con [product] ingrese la clave de licencia"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Si no tiene una clave de licencia, usted puede comprarla en nuestra web oficial <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Comprar la licencia"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -15389,7 +15385,7 @@ msgstr "Restaurar original"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr "Set custom configuration"
+msgstr "Ajustar configuración a medida"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
@@ -15421,7 +15417,7 @@ msgstr "Asentamiento"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Retraso de liquidación"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
@@ -15722,7 +15718,7 @@ msgstr "No se puede escribir en el archivo <b>[file]</b>.Establezca los permisos
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>La base de datos y archivos de su tienda ha sido respaldados antes de la actualización. El archivo de copia de seguridad incluye la base de datos entera y todos los archivos excepto las imágenes. El archivo de copia de seguridad se ha almacenado en el servidor: [backup_file].</p> <p>Antes de la actualización, la tienda fue cerrada. Compruebe si está funcionando bien después de la actualización y <a href=\"[settings_section]\"> lo abrimos</a>.</p> <p>Si algo sale mal durante la actualización, vaya a su panel de administración <strong>Administración → Backup y Restore</strong>, para restaurar la copia de seguridad.</p> <p>Si usted no puede acceder a su panel de administración, use este enlace para restaurar la última copia de seguridad: [restore_link]. Importante: este enlace inmediatamente iniciará el proceso de restauración. Utilizarlo únicamente si usted no puede acceder a su panel de administración!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15730,21 +15726,41 @@ msgstr "Buscar por características no está disponible debido al excesivo núme
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Actualizado el día"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "No se puede crear la imagen en miniatura para el archivo \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "Para una completa experiencia en sus compras, por favor, <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\"> configure su navegador para aceptar cookies</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Centro de actualizacines: La tienda ha sido guardada y cerrada."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "El producto <b>\"[product]\"</b> no ha sido añadido a la cesta porque no tiene un precio asignado."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Proveedores no pueden crear características de producto y sus variantes. Algunas características del producto no se pudieron modificar."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Compruebe la configuración del script de tiempo de espera en su servidor."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Ha ocurrido un error durante la actualización de la estructura de base de datos (aplicando migración [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Este sitio web tiene restricciones sobre cómo insertar código HTML. Algunas etiquetas HTML como &lt; objeto &gt;, &lt; iframe &gt;, &lt; embed &gt; y código de JavaScript se eliminaron."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Se han producido errores durante el proceso de actualización. Por favor, póngase en contacto con el soporte técnico para investigar el problema."
 

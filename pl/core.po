@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:03-0400\n"
+"PO-Revision-Date: 2015-08-20 12:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11373,10 +11373,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Twój sklep został zamknięty podczas procedury aktualizacji. Zaleca się, aby sprawdzić jak sklep pracuje po aktualizacji i otworzyć go.</p><p>Można otworzyć sklep odznaczając checkbox Zamknij sklep w menu Ustawienia → Ustawienia ogólne.</p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"http://www.cs-cart.com\">CS-Cart support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Plik dziennika aktualizacji nie jest zapisywalny"
@@ -13359,7 +13355,7 @@ msgstr "Prześlij układ graficzny"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
-msgstr "Instalacja nowego tematu graficznego to świetny sposób, aby spersonalizować sklep. Możesz wgrać temat wybierając [exts] format archiwum i klikając <strong>Prześlij</strong>."
+msgstr "Instalacja nowego tematu graficznego to świetny sposób, aby spersonalizować sklep. Możesz wgrać temat wybierając paczkę w formacie [exts] i klikając <strong>Załaduj</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13395,7 +13391,7 @@ msgstr "Nieprawidłowy dostęp do FTP"
 
 msgctxt "Languages::install_addon_text"
 msgid "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
-msgstr "Dodatki rozszerzają możliwości sklepu. <br /> Dodatek można zainstalować wybierając [exts] format archiwum i klikając przycisk Prześlij & Zainstaluj."
+msgstr "Dodatki rozszerzają możliwości sklepu. <br /> Dodatek można zainstalować wybierając archiwum z dysku w formacie [exts] i klikając przycisk Załaduj i zainstaluj."
 
 msgctxt "Languages::xml_error"
 msgid "XML parse error"
@@ -15692,7 +15688,7 @@ msgstr "Załaduj paczkę z pakietem aktualizacji"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Pobranie pakietu uaktualniającego pozwala na wprowadzenie poprawek do sklepu lub dodatków. Możesz przesłać pakiet uaktualniający wybierając format tgz, gz, zip i klikając przycisk Prześlij."
+msgstr "Pobranie pakietu uaktualniającego pozwala na wprowadzenie poprawek do sklepu lub dodatków. Możesz przesłać pakiet uaktualniający wybierając paczkę w formacie tgz, gz, zip i klikając przycisk Prześlij."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15744,5 +15740,25 @@ msgstr "Centrum aktualizacji: W sklepie została wykonana kopia zapasowa i sklep
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Produkt <b>\"[product]\"</b> nie został dodany do koszyka, bo nie ma ustawionej ceny."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Sprzedawcy nie mogą tworzyć cech produktów i ich wariantów. Niektóre cechy produktu nie może być modyfikowane."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Sprawdź ustawienia limitu czasu wykonywania skryptu na serwerze."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Wystąpił błąd podczas uaktualniania struktury bazy danych (podczas migracji [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Ta strona internetowa ma ograniczenia na wstawianie kodu HTML. Kilka tagów HTML, takich jak &lt; object &gt;, &lt; iframe &gt;, &lt; HTML &gt; i kod JavaScript są odcięte."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Wystąpiły błędy podczas procesu aktualizacji. Skontaktuj się z pomocą techniczną w celu zbadania problemu."
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:05-0400\n"
+"PO-Revision-Date: 2015-08-20 11:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -42,11 +42,11 @@ msgstr "Tuyệt đối"
 
 msgctxt "Languages::installed_addons"
 msgid "Installed add-ons"
-msgstr "Cài đặt add-ons"
+msgstr "Add-on đã cài đặt"
 
 msgctxt "Languages::browse_all_available_addons"
 msgid "Browse all available add-ons"
-msgstr "Duyệt Xem tất cả add-ons có sẵn"
+msgstr "Duyệt xem tất cả add-on có sẵn"
 
 msgctxt "Languages::accept"
 msgid "Accept"
@@ -338,7 +338,7 @@ msgstr "Thêm biến ngôn ngữ"
 
 msgctxt "Languages::add_layout"
 msgid "Add layout"
-msgstr "Thêm bố cục"
+msgstr "Thêm bố trí lớp"
 
 msgctxt "Languages::add_link"
 msgid "Add link"
@@ -2794,7 +2794,7 @@ msgstr "Ghi nợ"
 
 msgctxt "Languages::decimals"
 msgid "Decimals"
-msgstr "Thập phân"
+msgstr "Số thập phân"
 
 msgctxt "Languages::decline"
 msgid "Decline"
@@ -2818,7 +2818,7 @@ msgstr "Giảm"
 
 msgctxt "Languages::dec_sign"
 msgid "Dec sign"
-msgstr "Dec sign"
+msgstr "Dấu số thập phân"
 
 msgctxt "Languages::default"
 msgid "Default"
@@ -3886,7 +3886,7 @@ msgstr "Sự kết hợp ngoại lệ này đã tồn tại"
 
 msgctxt "Languages::exception_title"
 msgid "Oops!<br />We were unable to find what you were looking for."
-msgstr "Rất tiếc! <br / > chúng tôi đã không thể tìm thấy những gì bạn đang tìm kiếm."
+msgstr "Rất tiếc! <br /> Chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm."
 
 msgctxt "Languages::exchange_rate"
 msgid "Live exchange rates"
@@ -4686,11 +4686,11 @@ msgstr "ID cài đặt"
 
 msgctxt "Languages::installed"
 msgid "Installed"
-msgstr "Cài đặt"
+msgstr "Đã cài đặt"
 
 msgctxt "Languages::installed_languages"
 msgid "Installed"
-msgstr "Cài đặt"
+msgstr "Đã cài đặt"
 
 msgctxt "Languages::installed_upgrades"
 msgid "Installed upgrades"
@@ -11372,10 +11372,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Cửa hàng của bạn đã được đóng để nâng cấp. Chúng tôi đề nghị bạn kiểm tra công việc của các cửa hàng sau khi nâng cấp và chỉ sau đó mở nó</p> <p>Bạn có thể mở các cửa hàng bằng cách bỏ tích chọn mục thiết lập Đóng cửa hàng trong Cài đặt → Chung.</p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Lỗi xảy ra trong quá trình nâng cấp.</p> <p>Bạn có thể liên lạc với <a href=\"[href]\">nhóm hỗ trợ</a> để được hỗ trợ.</p> <p>Bạn có thể <a href=\"[restore_link]\"> khôi phục lại</a> Phiên bản trước của cửa hàng.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Nâng cấp các tập tin nhật ký không thể ghi được"
@@ -11858,7 +11854,7 @@ msgstr "Năm nay"
 
 msgctxt "Languages::ths_sign"
 msgid "Ths sign"
-msgstr "Ths sign"
+msgstr "Dấu tách đv nghìn"
 
 msgctxt "Languages::thumb"
 msgid "Thumbnail"
@@ -12214,7 +12210,7 @@ msgstr "Dấu phân tách."
 
 msgctxt "Languages::tt_views_currencies_update_ths_sign"
 msgid "Thousand separator."
-msgstr "Phân tách đơn vị nghìn."
+msgstr "Dấu để phân tách đơn vị nghìn."
 
 msgctxt "Languages::tt_views_database_manage_backup_data"
 msgid "If enabled, the database backup file includes the actual table data."
@@ -15743,5 +15739,25 @@ msgstr "Trung tâm nâng cấp: cửa hàng đã được sao lưu và đóng c�
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Sản phẩm <b>\"[product]\"</b> không được thêm vào giỏ hàng, bởi vì nó không có giá."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Nhà cung cấp không thể tạo tính năng sản phẩm và biến thể của họ. Một số tính năng sản phẩm không thể sửa đổi."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Kiểm tra các thiết lập kịch bản thời gian chờ trên máy chủ của bạn."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Lỗi đã xảy ra trong quá trình nâng cấp cấu trúc cơ sở dữ liệu (áp dụng di chuyển [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Trang web này có hạn chế về chèn mã HTML. Một số thẻ HTML như &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; và mã JavaScript được cắt bỏ."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Lỗi đã xảy ra trong quá trình nâng cấp. Xin vui lòng liên hệ với bộ phận hỗ trợ kỹ thuật để điều tra vấn đề."
 

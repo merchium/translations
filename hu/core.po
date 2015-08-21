@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:03-0400\n"
+"PO-Revision-Date: 2015-08-21 08:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Kosárba rakom"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Összehasonlítom"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -2050,11 +2050,11 @@ msgstr "Összehasonlítás"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Összehasonlító lista"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Összehasonlító listához"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3678,7 +3678,7 @@ msgstr "A következő mezők kötelezőek és nem lehet eltávolítani őket az 
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Nem történt adatexportálás. A problémát valószínűleg a rossz exportálási tartomány okozta. <a class=\"cm-post\" href=\"[url]\">Törölje az exportálási tartományt</a>, majd próbálja újból"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC túl rövid."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Tilos az admin e-mailt vagy a jelszót az ügyfél területen megváltoztatni. Lépjen be egy ügyfélként!"
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7358,7 +7358,7 @@ msgstr "Termékek kerültek a kosárba"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "A termék felkerült az összehasonlító listára"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "A termék már szerepel a kosárban!"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "A termék már az összehasonlító listán van"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -11179,7 +11179,7 @@ msgstr "Hozzáférés az összes funkcióhoz 30 napig, mely az aktiválástól k
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Az összes funkció működik a telepítőcsomag letöltésétől számított 30 napig. Nem szükséges licenc kódot megadni.<br/><br/>A 30 napos próbaidőszak után licenc kódot kell vásárolnia, vagy ha már rendelkezik vele, meg kell adni.<br/><br/>"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11295,7 +11295,7 @@ msgstr "FTP átviteli hiba"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "Nem sikerült megtalálni a CS-Cart telepítést a megadott könyvtárban. Győződjön meg arról, hogy a megfelelő FTP könyvtárat adta meg."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11372,10 +11372,6 @@ msgstr "Az áruház frissítése sikerült"
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Az áruház be lett zárva a frissítési folyamat közben. Azt javasoljuk, hogy ellenőrizze az áruház működését a frissítés után, és csak utána nyissa ki.</p><p>Az áruházat a Beállítások → Általános menüpont alatt található Áruház bezárása opció kijelölésének megszüntetésével nyithatja ki."
-
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Hiba a frissítés során.</p><p>Vegye fel a kapcsolatot a <a href=\"[href]\">terméktámogatással</a>.</p><p>Az  <a href=\"[restore_link]\">alábbi linken visszaállíthatja</a> az előző, működő verziót.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -11967,7 +11963,7 @@ msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "Ez a konténer nincs használatban. \"[container]\" konténer az alapértelmezett helyről lesz helyette. Állítsa be ezt a helyet alapértelmezettnek, hogy ez a konténer legyen \"[container]\" az összes helyen."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12131,19 +12127,19 @@ msgstr "Áruháza Próba módban van.<br /><br />A 30 napos próbaidőszakot kö
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "[product] próbaverziója lejárt"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Ha tovább szeretné használni, adja meg a licenc kódot"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Ha nincs még licenc kódja, megvásárolhatja a hivatalos honlapunkról:<br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Licenc vásárlása"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12179,7 +12175,7 @@ msgstr "Cél URL. Lehet külső hivatkozás, oldalon belüli link, vagy rendszer
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "Felhasználó által definiált CSS osztály hozzáadásra kerül a menüelemhez, és ez lehetővé teszi, hogy megadja a menüelem saját CSS stílusát."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12259,11 +12255,11 @@ msgstr "A Nulla súllyal rendelkező, nem letölthető termékeket úgy kezeljü
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "Categories to be displayed in the navigation breadcrumbs."
+msgstr "A kategóriák megjelenítése a navigációs útkövetőben."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
+msgstr "Raktáron lévő termékek mennyiségének nyomkövetése. Engedélyezze a \"Leltár nyomkövetés engedélyezése\" opciót (Beállítások -> Általános) a módosításhoz."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12279,7 +12275,7 @@ msgstr "Alapértelmezésben a fő termékkategóriánál meghatározott sablont 
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Show this feature on product list pages along with product description."
+msgstr "Ennek a funkciónak a megjelenítése a terméklista és a termékleírás oldalon is."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
@@ -12919,7 +12915,7 @@ msgstr "Kategóriák megtekintése"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Összehasonlító lista"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13171,7 +13167,7 @@ msgstr "Widget kód"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
+msgstr "<a href=\"[href]\" target=\"_blank\">Mi ez?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13591,7 +13587,7 @@ msgstr "[field] mező kötelező"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr "Update translations"
+msgstr "Fordítások frissítése"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -13735,7 +13731,7 @@ msgstr "Biztonságos kapcsolat engedélyezése az adminisztrációs panelhez"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Enable secure connection for the storefront"
+msgstr "Biztonságos kapcsolat engedélyezése a kirakati (storefront) oldalhoz"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -13747,7 +13743,7 @@ msgstr "Szállítás tiltása"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "Szállítás feldolgozók"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14415,7 +14411,7 @@ msgstr "Szállítási költség becslése a kosárban"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Offer guest to create an account after successful order"
+msgstr "Fiók létrehozásának felajánlása a vendégfelhasználóknak sikeres megrendelés után"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14455,11 +14451,11 @@ msgstr "Titkosított kapcsolat használata"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Sign in\" step"
+msgstr "A \"Bejelentkezés\" lépés beállítása"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
+msgstr "Ezt a lépést csak akkor lehet elrejteni, ha nincs benne kötelező adatmező, és a névtelen fizetés megengedett."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -15431,19 +15427,19 @@ msgstr "Realex to CS-Cart order status conversion map"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Alszámla"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Felelősség átvállalás"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Felelősség átvállalás szükséges"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "3-D biztonsági üzenetet"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
@@ -15680,15 +15676,15 @@ msgstr "Run migrations"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Nyelvek telepítése"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Frissítési folyamat"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Frissítési csomag feltöltése"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15745,4 +15741,24 @@ msgstr "Upgrade center: Store has been backed up and closed."
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
 msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Сheck the script timeout settings on your server."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 

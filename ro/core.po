@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:02-0400\n"
+"PO-Revision-Date: 2015-08-21 09:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Adaugati in cos"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Adauga la lista de comparaţie"
+msgstr "Adaugă la lista de comparaţie"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1266,7 +1266,7 @@ msgstr "Filtre de produs pentru pagina de start"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Opțiuni de filtrare produs, afișate pe pagina de start"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1710,7 +1710,7 @@ msgstr "Schimbati permisiunile"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Verificați permisiunile"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -2050,7 +2050,7 @@ msgstr "Comparati"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista de comparație"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
@@ -11372,10 +11372,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Magazinul a fost inchis pe durata procesului de upgrade. Verificati functionalitatea magazinului dupa upgrade si abia apoi il puteti deschide</p><p>. Puteti deschide magazinul deselectand setarea ''Inchideti magazinul\" </p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"http://www.cs-cart.com\">CS-Cart support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Fişierul log de upgrade nu este inscriptibil"
@@ -15338,7 +15334,7 @@ msgstr "Platiti fara crearea unui cont"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Dezactiveaza"
+msgstr "Dezactivează"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
@@ -15744,4 +15740,24 @@ msgstr "Upgrade center: Store has been backed up and closed."
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
 msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Сheck the script timeout settings on your server."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 

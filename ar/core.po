@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-13 11:02-0400\n"
+"PO-Revision-Date: 2015-08-20 10:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "أضف للسلّة"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "إضافة إلى قائمة المقارنة"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -2050,11 +2050,11 @@ msgstr "مقارنة"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "قائمة المقارنة"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "انتقل إلى القائمة مقارنة المنتجات"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3678,7 +3678,7 @@ msgstr "الحقول التالية مطلوبة ولا يمكن حذفها من
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "لايوجد أية بيانات للتصدير. نطاق التصدير خاطئ ربما سبب هذه المشكلة. <a class=\"cm-post\" href=\"[url]\"> مسح نطاق التصدير</a>، ثم حاول مرة أخرى"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC is too short."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "يمنع تغييرالبريد الإلكتروني أو كلمة المرور المدير في منطقة العميل. الرجاء تسجيل الدخول باستخدام حساب عميل."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7358,7 +7358,7 @@ msgstr "تم إضافة المنتج لسلّة التسوق"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "تم إضافة المنتج لقائمة المقارنة"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "هذا المنتج بالفعل في سلّة التسوق"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "هذا المنتج موجود بالفعل في قائمة المقارنة"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -11178,7 +11178,7 @@ msgstr "وصول كامل لكل الخصائص والمميزات خلال ثل
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "تتوفر كافة الميزات خلال 30 يوما بعد تحميل حزمة التثبيت. لا تحتاج إلى إدخال مفتاح الترخيص. < br/> < br/> بعد انتهاء الفترة التجريبية ومدتها 30 يوما ، تحتاج إلى شراء ترخيص أو أدخل مفتاح الترخيص إذا كان لديك بالفعل أحد. < br/> < br/>"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11294,7 +11294,7 @@ msgstr "FTP transfer failed"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "لم نتمكن من العثور على ملفات تثبيت المتجر في الدليل المحدد. الرجاء التأكد من إدخال دليل FTP الصحيح."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11371,10 +11371,6 @@ msgstr "Your store has been upgraded successfully"
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
-
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -12130,19 +12126,19 @@ msgstr "متجركم يعمل في الوضع التجريبي.<br /><br />سي�
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "انتهت صلاحية النسخة التجريبية من [product]"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "مواصلة العمل مع [product] أدخل مفتاح الترخيص"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "إذا لم يكن لديك مفتاح ترخيص، يمكنك شراء على موقعنا الرسمي <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "شراء الترخيص"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12918,7 +12914,7 @@ msgstr "عرض الفئات"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "قائمة المقارنة"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -15719,7 +15715,7 @@ msgstr "لا يمكن الكتابة إلى الملف <b>[file]</b>. تعيين
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>قاعدة بيانات مخزن الخاصة بك والملفات قد تم احتياطياً قبل الترقية. ويشمل الأرشيف النسخ الاحتياطي قاعدة البيانات بأكملها، وكل الملفات ما عدا الصور. أرشيف النسخ الاحتياطي تم تخزينه على الملقم الخاص بك: [backup_file]-</p> <p>قبل الترقية، تم إغلاق المتجر الخاص بك. تحقق إذا كان يشغل غرامة بعد الترقية و <a href=\"[settings_section]\"> فتحه</a>-</p> <p>إذا حدث خطأ أثناء الترقية، انتقل إلى لوحة المشرف، <strong>الإدارة ← النسخ الاحتياطي/الاستعادة</strong>، واستعادة النسخ الاحتياطي-</p> <p>إذا كان لا يمكنك الوصول إلى لوحة المشرف الخاص بك، استخدم هذا الارتباط لاستعادة النسخ الاحتياطي الأخير: [restore_link]. هام: بعد هذا الارتباط فورا ستطلق عملية الاستعادة. استخدامها فقط إذا كان لا يمكنك الوصول إلى لوحة المشرف!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15727,21 +15723,41 @@ msgstr "البحث بواسطة ميزات غير متوفرة بسبب الزي
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "ترقية"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "غير قادر على إنشاء صورة مصغرة لملف \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "للحصول على تجربة تسوق كاملة، الرجاء <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\"> تعيين المستعرض الخاص بك لقبول ملفات تعريف الارتباط الكوكيز </a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "مركز الترقية: تم إجراء نسخ احتياطي للمتجر وإغلاقه."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "لم يتم إضافة منتج <b>\"[product]\"</b> للعربة، لأنه لا يملك ثمن."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "لا يمكن إنشاء البائعين ميزات المنتج وأشكالها. لا يمكن تعديل بعض ميزات المنتج."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "مراجعة إعدادات مهلة البرنامج النصي على السيرفر الخاص بك."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "هذا الموقع يحتوي على القيود المفروضة على إدراج التعليمات البرمجية ل HTML. بعض علامات HTML مثل &lt; كائن &gt;، &lt; iframe &gt; &lt; تضمين &gt; وهي قطع شفرة JavaScript."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 
