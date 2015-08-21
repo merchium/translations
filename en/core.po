@@ -11364,10 +11364,6 @@ msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 msgstr "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
 
-msgctxt "Languages::text_uc_upgrade_completed_with_errors"
-msgid "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-msgstr "<p>Errors occurred during the upgrade.</p><p>You can contact <a href=\"[href]\">support team</a> for assistance.</p><p>You can <a href=\"[restore_link]\">restore</a> the previous store version.</p>"
-
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
 msgstr "Upgrade log file is not writable"
@@ -15709,9 +15705,9 @@ msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
 msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
 
-msgctxt "Languages::uc_restore_email"
-msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use this link to restore the last backup: [restore_link]. Important: following this link will immediately launch the restore process. Use it only if you can't access your admin panel!</p>"
+msgctxt "Languages::uc_restore_email_body"
+msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15722,11 +15718,37 @@ msgid "Upgraded on"
 msgstr "Upgraded on"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
-msgid "Unable to create thumbnail for file "[file]": [error]"
-msgstr "Unable to create thumbnail for file "[file]": [error]"
+msgid "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Unable to create thumbnail for file \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
 msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
 
+msgctxt "Languages::uc_restore_email_subject"
+msgid "Upgrade center: Store has been backed up and closed."
+msgstr "Upgrade center: Store has been backed up and closed."
 
+msgctxt "Languages::warning_zero_price_restricted_product"
+msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+
+msgctxt "Languages::exim_vendor_cant_create_feature"
+msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+
+msgctxt "Languages::comet_is_dead"
+msgid "Сheck the script timeout settings on your server."
+msgstr "Сheck the script timeout settings on your server."
+
+msgctxt "Languages::uc_migration_failed"
+msgid "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+
+msgctxt "Languages::notice_entered_html_was_sanitized"
+msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+
+msgctxt "Languages::text_uc_package_installed_with_errors"
+msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
