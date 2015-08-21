@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 08:02-0400\n"
+"PO-Revision-Date: 2015-08-21 10:02-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -43,6 +43,14 @@ msgstr "Enables the email auto generation in case that a social network does not
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
 msgstr "Közösségi bejelentkezés"
+
+msgctxt "Languages::hybrid_auth.linked_provider"
+msgid "Linked"
+msgstr "Linked"
+
+msgctxt "Languages::hybrid_auth.not_linked_provider"
+msgid "Not linked"
+msgstr "Not linked"
 
 msgctxt "Languages::hybrid_auth.providers"
 msgid "Providers"
@@ -112,40 +120,40 @@ msgid "You can change your password here"
 msgstr "A jelszavát itt változtathatja meg"
 
 msgctxt "Languages::hybrid_auth.link_provider"
-msgid "Assigning social network accounts"
-msgstr "Közösségi hálózatok fiókjainak hozzárendelése"
+msgid "Social network accounts"
+msgstr "Social network accounts"
 
-msgctxt "Languages::text_hybrid_auth.link_provider"
+msgctxt "Languages::hybrid_auth.text_link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr "Rendelje hozzá a közösségi hálózati fiókját, és használja ezt a belépéshez"
+msgstr "Assign your social network account to this one and use it to log in"
 
-msgctxt "Languages::text_hybrid_auth.user_is_already_link"
+msgctxt "Languages::hybrid_auth.text_user_is_already_link"
 msgid "This social network account is already being used"
-msgstr "Ez a közösségi hálózati fiók már használatban van"
+msgstr "This social network account is already being used"
 
 msgctxt "Languages::hybrid_auth.connect_social"
 msgid "Connect social account"
 msgstr "Kapcsolódás a közösségi fiókhoz"
 
-msgctxt "Languages::text_hybrid_auth.connect_social_title"
+msgctxt "Languages::hybrid_auth.connect_social_title"
 msgid "Such user already exists"
-msgstr "Ilyen felhasználó már létezik"
+msgstr "Such user already exists"
 
-msgctxt "Languages::text_hybrid_auth.connect_social"
+msgctxt "Languages::hybrid_auth.text_connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr "<p>A közösségi bejelentkezésnél használt e-mail címmel rendelkező felhasználó már létezik.</p><p>Ha a regisztrált felhasználóhoz közösségi hálózati fiókot szeretne rendelni, jelentkezzen be.</p>"
+msgstr "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
 msgstr "E-mail megadása"
 
-msgctxt "Languages::text_hybrid_auth.specify_email_title"
+msgctxt "Languages::hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "Nem adta meg az e-mail címet."
+msgstr "The e-mail was not specified."
 
-msgctxt "Languages::text_hybrid_auth.specify_email"
+msgctxt "Languages::hybrid_auth.text_specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
-msgstr "<p>Amikor a közösségi hálózaton keresztül lépett be, az e-mailt nem adta meg.</p><p>Kéjük, adja meg az e-mail címét és kattintson a Tovább gombra.</p>"
+msgstr "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"

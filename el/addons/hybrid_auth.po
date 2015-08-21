@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-20 10:02-0400\n"
+"PO-Revision-Date: 2015-08-21 10:02-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -43,6 +43,14 @@ msgstr "Ενεργοποιει τη δυνατότητα της αυτοματη
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
 msgstr "Social login"
+
+msgctxt "Languages::hybrid_auth.linked_provider"
+msgid "Linked"
+msgstr "Linked"
+
+msgctxt "Languages::hybrid_auth.not_linked_provider"
+msgid "Not linked"
+msgstr "Not linked"
 
 msgctxt "Languages::hybrid_auth.providers"
 msgid "Providers"
@@ -109,40 +117,40 @@ msgid "You can change your password here"
 msgstr "Μπορείτε να αλλάξετε τον κωδικό σας εδώ"
 
 msgctxt "Languages::hybrid_auth.link_provider"
-msgid "Assigning social network accounts"
-msgstr "Αντιστοίχιση λογαριασμών κοινωνικων δικτυων"
+msgid "Social network accounts"
+msgstr "Social network accounts"
 
-msgctxt "Languages::text_hybrid_auth.link_provider"
+msgctxt "Languages::hybrid_auth.text_link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr "Προσδιορίστε τον δικό σας λογαριασμό κοινωνικής δικτύωσης σε αυτό εδώ και χρησιμοποιήσετε τον για να συνδεθείτε"
+msgstr "Assign your social network account to this one and use it to log in"
 
-msgctxt "Languages::text_hybrid_auth.user_is_already_link"
+msgctxt "Languages::hybrid_auth.text_user_is_already_link"
 msgid "This social network account is already being used"
-msgstr "Αυτός ο λογαριασμός κοινωνικής δικτυωσης χρησιμοποιείται ήδη"
+msgstr "This social network account is already being used"
 
 msgctxt "Languages::hybrid_auth.connect_social"
 msgid "Connect social account"
 msgstr "Συνδεση λογαριασμου κοινωνικής δικτυωσης"
 
-msgctxt "Languages::text_hybrid_auth.connect_social_title"
+msgctxt "Languages::hybrid_auth.connect_social_title"
 msgid "Such user already exists"
-msgstr "Υπάρχει ήδη τέτοιος χρήστης"
+msgstr "Such user already exists"
 
-msgctxt "Languages::text_hybrid_auth.connect_social"
+msgctxt "Languages::hybrid_auth.text_connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr "<p>Ο χρήστης με το e-mail που καθορίζεται κατά τη διάρκεια του social login υπάρχει ήδη.</p><p>Αν θέλετε να αντιστοιχίσετε ένα λογαριασμό κοινωνικής δικτυωσης στον εγγεγραμμένο χρήστη, παρακαλώ συνδεθείτε.</p>"
+msgstr "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
 msgstr "Καθορίσετε Email"
 
-msgctxt "Languages::text_hybrid_auth.specify_email_title"
+msgctxt "Languages::hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "Το e-mail δεν καθορίστηκε."
+msgstr "The e-mail was not specified."
 
-msgctxt "Languages::text_hybrid_auth.specify_email"
+msgctxt "Languages::hybrid_auth.text_specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
-msgstr "<p>Όταν συνδέεστε μέσω του κοινωνικού δικτύου το e-mail δεν καθορίστηκε.</p><p>Παρακαλούμε εισάγετε το e-mail σας και κάντε κλικ στο κουμπί Συνέχεια.</p>"
+msgstr "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"

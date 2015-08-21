@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-19 01:06-0400\n"
+"PO-Revision-Date: 2015-08-21 10:02-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -43,6 +43,14 @@ msgstr "Генерувати випадковий email для створенн�
 msgctxt "Languages::hybrid_auth"
 msgid "Social login"
 msgstr "Логування через соціальні мережі"
+
+msgctxt "Languages::hybrid_auth.linked_provider"
+msgid "Linked"
+msgstr "Linked"
+
+msgctxt "Languages::hybrid_auth.not_linked_provider"
+msgid "Not linked"
+msgstr "Not linked"
 
 msgctxt "Languages::hybrid_auth.providers"
 msgid "Providers"
@@ -109,40 +117,40 @@ msgid "You can change your password here"
 msgstr "Ви можете змінити свій пароль за посиланням"
 
 msgctxt "Languages::hybrid_auth.link_provider"
-msgid "Assigning social network accounts"
-msgstr "Підключення облікових записів в соцмережах до профілю"
+msgid "Social network accounts"
+msgstr "Social network accounts"
 
-msgctxt "Languages::text_hybrid_auth.link_provider"
+msgctxt "Languages::hybrid_auth.text_link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr "Підключити аккаунт соціальної мережі і використовувати його для входу"
+msgstr "Assign your social network account to this one and use it to log in"
 
-msgctxt "Languages::text_hybrid_auth.user_is_already_link"
+msgctxt "Languages::hybrid_auth.text_user_is_already_link"
 msgid "This social network account is already being used"
-msgstr "Цей обліковий запис соціальної мережі вже використовується"
+msgstr "This social network account is already being used"
 
 msgctxt "Languages::hybrid_auth.connect_social"
 msgid "Connect social account"
 msgstr "Підключити обліковий запис в соцмережі"
 
-msgctxt "Languages::text_hybrid_auth.connect_social_title"
+msgctxt "Languages::hybrid_auth.connect_social_title"
 msgid "Such user already exists"
-msgstr "Такий користувач вже існує"
+msgstr "Such user already exists"
 
-msgctxt "Languages::text_hybrid_auth.connect_social"
+msgctxt "Languages::hybrid_auth.text_connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr "<p>Користувач з такою електронною поштою вже існує.</p> <p>Якщо Ви хочете підключити дану соц. мережу цьому користувачеві, то, будь ласка, авторизуйтесь.</p>"
+msgstr "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
 msgstr "Вкажіть електронну пошту"
 
-msgctxt "Languages::text_hybrid_auth.specify_email_title"
+msgctxt "Languages::hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "e-mail не вказано."
+msgstr "The e-mail was not specified."
 
-msgctxt "Languages::text_hybrid_auth.specify_email"
+msgctxt "Languages::hybrid_auth.text_specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
-msgstr "<p>При вході через соц. мережа не було вказано адресу електронної пошти.</p> <p>Будь ласка введіть його і натисніть \"Продовжити\".</p>"
+msgstr "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"
