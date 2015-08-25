@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/rus_exim_1c.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 09:03-0400\n"
+"PO-Revision-Date: 2015-08-25 06:54-0400\n"
 
 msgctxt "Addons::name::rus_exim_1c"
 msgid "CommerceML synchronizes your web store with 1C, MoySklad, Class365"
@@ -403,11 +403,11 @@ msgstr "Настройки цен"
 
 msgctxt "SettingsOptions::rus_exim_1c::exim_1c_only_import_offers"
 msgid "Import quantity and prices only (the Offers file)"
-msgstr "Импортировать только количество и цены (файл offers)"
+msgstr "Импортировать количество и цены (файл offers)"
 
 msgctxt "SettingsTooltips::rus_exim_1c::exim_1c_only_import_offers"
 msgid "It imports data from the Offers file only (prices and quantity)"
-msgstr "Устанавливает импорт данных только из файла offers (цен и количества)"
+msgstr "Устанавливает импорт данных из файла offers (цен и количества)"
 
 msgctxt "SettingsOptions::rus_exim_1c::exim_1c_create_prices"
 msgid "Import several prices"
@@ -540,19 +540,19 @@ msgstr "Настройки параметров доставки"
 
 msgctxt "SettingsOptions::rus_exim_1c::exim_1c_import_statuses"
 msgid "Import order statuses"
-msgstr "Import order statuses"
+msgstr "Загружать статусы заказов"
 
 msgctxt "SettingsTooltips::rus_exim_1c::exim_1c_import_statuses"
 msgid "Import order statuses in CommerceML format"
-msgstr "Import order statuses in CommerceML format"
+msgstr "Загружать статусы заказа из выгружаемого файла orders в формате CommerceML"
 
 msgctxt "SettingsOptions::rus_exim_1c::exim_1c_export_statuses"
 msgid "Export order statuses"
-msgstr "Export order statuses"
+msgstr "Выгружать статусы заказов"
 
 msgctxt "SettingsTooltips::rus_exim_1c::exim_1c_export_statuses"
 msgid "Export order statuses in CommerceML format"
-msgstr "Export order statuses in CommerceML format"
+msgstr "Выгружать статусы заказов из магазина в формате CommerceML"
 
 msgctxt "SettingsOptions::rus_exim_1c::exim_1c_import_type"
 msgid "Type linking data products"

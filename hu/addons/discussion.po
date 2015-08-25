@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/discussion.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 10:02-0400\n"
+"PO-Revision-Date: 2015-08-24 11:02-0400\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -18,15 +18,15 @@ msgstr "Hozzászólások és értékelések"
 
 msgctxt "Addons::description::discussion"
 msgid "Lets customers leave comments to products, categories, orders, etc., review products and write testimonials"
-msgstr "Lets customers leave comments to products, categories, orders, etc., review products and write testimonials"
+msgstr "Lehetővé teszi, hogy a vásárlók hozzászóljanak a termékekhez, kategóriákhoz, megrendelésekhez stb., értékeljék és véleményt írjanak a termékekről"
 
 msgctxt "Languages::use_for_discussion"
 msgid "Comments and reviews forms"
-msgstr "Comments and reviews forms"
+msgstr "Hozzászólások és értékelések űrlapjai"
 
 msgctxt "Languages::comments_and_reviews_menu_description"
 msgid "Customer comments and reviews on products, categories, orders, etc."
-msgstr "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Vevői hozzászólások és értékelések a termékekről, kategóriákról, megrendelésekről stb."
 
 msgctxt "Languages::discussion_title_category"
 msgid "Reviews"
@@ -38,7 +38,7 @@ msgstr "Vendégkönyv"
 
 msgctxt "Languages::discussion_title_home_page_menu_description"
 msgid "Manage the testimonials from your store visitors."
-msgstr "Manage the testimonials from your store visitors."
+msgstr "A látogatók véleményeinek kezelése."
 
 msgctxt "Languages::discussion_title_order"
 msgid "Communication"
@@ -74,7 +74,7 @@ msgstr "Ajánlások"
 
 msgctxt "Languages::text_enabled_testimonials_notice"
 msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
-msgstr "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Észrevételek írása le van tiltva. A <a href=\"[link]\">Hozzászólások és értékelések: opciók</a> résznél lehet engedélyezni, ha kijelöli az \"Vélemények\" mezőben az \"Vélemény írása\", \"Pontozás\" vagy a \"Vélemény írása és pontozás\" valamelyikét."
 
 msgctxt "Languages::discussion_title_company"
 msgid "Reviews"
@@ -94,7 +94,7 @@ msgstr "Beszélgetés nem található."
 
 msgctxt "Languages::error_already_posted"
 msgid "You have posted in this discussion already"
-msgstr "You have posted in this discussion already"
+msgstr "Már hozzászólt ehhez a témához"
 
 msgctxt "Languages::text_thank_you_for_post"
 msgid "Thank you for your post"
@@ -102,7 +102,7 @@ msgstr "Köszönjük bejegyzését"
 
 msgctxt "Languages::text_post_pended"
 msgid "Your post will be checked before it gets published."
-msgstr "Your post will be checked before it gets published."
+msgstr "A hozzászólása a közzététel előtt ellenőrzésre kerül."
 
 msgctxt "Languages::discussion"
 msgid "Comments and reviews"
@@ -110,19 +110,19 @@ msgstr "Hozzászólások és értékelések"
 
 msgctxt "Languages::text_new_post_notification"
 msgid "This is a notification of a new post to"
-msgstr "This is a notification of a new post to"
+msgstr "Ez az értesítés egy új hozzászólásról. Téma:"
 
 msgctxt "Languages::text_approval_notice"
 msgid "This post needs approving"
-msgstr "This post needs approving"
+msgstr "A hozzászólást jóvá kell hagyni"
 
 msgctxt "Languages::latest_reviews"
 msgid "Latest comments & reviews"
-msgstr "Latest comments & reviews"
+msgstr "Legutolsó hozzászólások és értékelések"
 
 msgctxt "Languages::comment_by"
 msgid "Comment by"
-msgstr "Comment by"
+msgstr "Hozzászólást írta:"
 
 msgctxt "Languages::and"
 msgid "and"
@@ -210,23 +210,23 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::product_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait:"
 
 msgctxt "SettingsOptions::discussion::product_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::product_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::product_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Értesítés küldése a beszállító részére"
 
 msgctxt "SettingsOptions::discussion::product_share_discussion"
 msgid "Share discussion with product"
-msgstr "Share discussion with product"
+msgstr "Ossza meg a véleményét a következő termékről:"
 
 msgctxt "SettingsOptions::discussion::category_posts_per_page"
 msgid "Posts per page"
@@ -234,15 +234,15 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::category_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
 
 msgctxt "SettingsOptions::discussion::category_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::category_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::order_posts_per_page"
 msgid "Posts per page"
@@ -250,11 +250,11 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::order_initiate"
 msgid "Allow customer to initiate discussion"
-msgstr "Allow customer to initiate discussion"
+msgstr "Vásárló hozzászólás kezdeményezésének engedélyezése"
 
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Értesítés küldése a beszállító részére"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -262,7 +262,7 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::giftreg_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::page_posts_per_page"
 msgid "Posts per page"
@@ -270,23 +270,23 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::page_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
 
 msgctxt "SettingsOptions::discussion::page_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::page_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::page_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Értesítés küldése a beszállító részére"
 
 msgctxt "SettingsOptions::discussion::page_share_discussion"
 msgid "Share discussion with page"
-msgstr "Share discussion with page"
+msgstr "Ossza meg a véleményét a következő oldalról:"
 
 msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
 msgid "Posts per page"
@@ -294,15 +294,15 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::home_page_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
 
 msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::home_page_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::home_page_testimonials"
 msgid "Testimonials"
@@ -310,7 +310,7 @@ msgstr "Ajánlások"
 
 msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
 msgid "Show testimonials from all stores"
-msgstr "Show testimonials from all stores"
+msgstr "Az összes bolt értékelésének megjelenítése"
 
 msgctxt "SettingsOptions::discussion::company_discussion_type"
 msgid "Reviews"
@@ -318,7 +318,7 @@ msgstr "Értékelések"
 
 msgctxt "SettingsOptions::discussion::company_only_buyers"
 msgid "Allow to post only for the customers who has bought somethins from the vendor"
-msgstr "Allow to post only for the customers who has bought somethins from the vendor"
+msgstr "Csak azoknak a vásárlóknak engedélyezett a hozzászólás, akik már vásároltak valamit a beszállítótól"
 
 msgctxt "SettingsOptions::discussion::company_posts_per_page"
 msgid "Posts per page"
@@ -326,19 +326,19 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::company_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "Administrator must approve posts submitted by"
+msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait"
 
 msgctxt "SettingsOptions::discussion::company_post_ip_check"
 msgid "Only one post from one IP is allowed"
-msgstr "Only one post from one IP is allowed"
+msgstr "Egy IP címről csak egy hozzászólás engedélyezett"
 
 msgctxt "SettingsOptions::discussion::company_notification_email"
 msgid "Send notifications to this E-mail"
-msgstr "Send notifications to this E-mail"
+msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::company_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Send notifications to vendor"
+msgstr "Értesítés küldése a beszállító részére"
 
 msgctxt "SettingsVariants::discussion::company_post_approval::any"
 msgid "Any customer"

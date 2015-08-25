@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 10:02-0400\n"
+"PO-Revision-Date: 2015-08-25 06:03-0400\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -46,11 +46,11 @@ msgstr "Вход через соц. сети"
 
 msgctxt "Languages::hybrid_auth.linked_provider"
 msgid "Linked"
-msgstr "Linked"
+msgstr "Связан"
 
 msgctxt "Languages::hybrid_auth.not_linked_provider"
 msgid "Not linked"
-msgstr "Not linked"
+msgstr "Не связан"
 
 msgctxt "Languages::hybrid_auth.providers"
 msgid "Providers"
@@ -118,15 +118,15 @@ msgstr "Вы можете изменить свой пароль по ссылк
 
 msgctxt "Languages::hybrid_auth.link_provider"
 msgid "Social network accounts"
-msgstr "Social network accounts"
+msgstr "Учетные записи в социальных сетях"
 
 msgctxt "Languages::hybrid_auth.text_link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr "Assign your social network account to this one and use it to log in"
+msgstr "Подключить аккаунт социальной сети и использовать его для входа"
 
 msgctxt "Languages::hybrid_auth.text_user_is_already_link"
 msgid "This social network account is already being used"
-msgstr "This social network account is already being used"
+msgstr "Эта учетная запись социальной сети уже используется"
 
 msgctxt "Languages::hybrid_auth.connect_social"
 msgid "Connect social account"
@@ -134,11 +134,11 @@ msgstr "Подключить учетную запись в соцсети"
 
 msgctxt "Languages::hybrid_auth.connect_social_title"
 msgid "Such user already exists"
-msgstr "Such user already exists"
+msgstr "Такой пользователь уже существует"
 
 msgctxt "Languages::hybrid_auth.text_connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
+msgstr "<p>Пользователь с такой электронной почтой уже существует.</p><p>Если Вы хотите подключить данную социальную сеть к этому пользователю, то, пожалуйста, авторизуйтесь.</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
@@ -146,11 +146,11 @@ msgstr "Укажите адрес электронной почты"
 
 msgctxt "Languages::hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr "The e-mail was not specified."
+msgstr "Адрес электронной почты не был указан."
 
 msgctxt "Languages::hybrid_auth.text_specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
-msgstr "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
+msgstr "<p>При входе через соц. сеть не был указан адрес электронной почты.</p><p>Пожалуйста введите его и нажмите \"Продолжить\".</p>"
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/google_sitemap.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 10:02-0400\n"
+"PO-Revision-Date: 2015-08-24 11:02-0400\n"
 
 msgctxt "Addons::name::google_sitemap"
 msgid "Google sitemap"
@@ -22,15 +22,15 @@ msgstr "sitemap.xml fájl készítése Google számára"
 
 msgctxt "Languages::google_sitemap.text_regenerate"
 msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
-msgstr "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Ha termékek, kategóriák stb. hozzáadásra kerültek vagy megváltoztak, <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">generálja újra az oldaltérképet</a><br /><br />[sitemap_available_in_customer]"
 
 msgctxt "Languages::google_sitemap.text_select_storefront"
 msgid "To generate a sitemap, please select storefront first."
-msgstr "To generate a sitemap, please select storefront first."
+msgstr "Egy oldaltérkép újragenerálásához először válasszon egy kirakatot (storefront-ot)."
 
 msgctxt "Languages::sitemap_available_in_customer"
 msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
-msgstr "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Az oldaltérkép elérhető ezen a linken: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Az oldaltérkép letölthető a következő URL-en: <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
 
 msgctxt "Languages::always"
 msgid "Always"
@@ -62,11 +62,11 @@ msgstr "Soha"
 
 msgctxt "Languages::google_sitemap.generate_map"
 msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
-msgstr "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "Az oldaltérkép még nem létezik. A bővítmények beállításánál kattintson az \"Oldaltérkép újragenerálása\" gombra"
 
 msgctxt "Languages::google_sitemap.map_generated"
 msgid "The sitemap was generated successfully"
-msgstr "The sitemap was generated successfully"
+msgstr "Az oldaltérkép generálása sikeresen megtörtént."
 
 msgctxt "SettingsSections::google_sitemap::general"
 msgid "General"

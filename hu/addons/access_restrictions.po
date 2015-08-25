@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/access_restrictions.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 10:02-0400\n"
+"PO-Revision-Date: 2015-08-24 11:02-0400\n"
 
 msgctxt "Addons::name::access_restrictions"
 msgid "Access restrictions"
@@ -66,7 +66,7 @@ msgstr "Domain"
 
 msgctxt "Languages::warning_of_ip_adding"
 msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
-msgstr "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "A megadott IP-címmel <b>[entered_ip]</b> nem lehet az adminisztrációs panelhez hozzáférni a számítógépről (az Ön IP-címe: <b>[your_ip]</b>)."
 
 msgctxt "Languages::text_cc_number_is_blocked"
 msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
@@ -126,7 +126,7 @@ msgstr "IP címre"
 
 msgctxt "Languages::text_access_notice"
 msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
-msgstr "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "Használhat helyettesítő karaktereket a \"Domén\", \"E-mail\" és \"Hitelkártya\" lapokon:<br /><b>*</b> - bármennyi karaktert jelenthet, akár nullát is<br /><b>?</b> - egyetlen karaktert jelenthet."
 
 msgctxt "Languages::ips"
 msgid "IPs"
@@ -166,7 +166,7 @@ msgstr "Sikertelen kísérletek közötti idő (másodperc)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Time for which the IP should be blocked (hours)"
+msgstr "Az IP cím blokkolásának időtartama (óra)"
 
 msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
 msgid "Customer area settings"
@@ -174,7 +174,7 @@ msgstr "Storefront beállítások"
 
 msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
 msgid "Block IP after a number of unsuccessful attempts"
-msgstr "IP cím blokkolása bizonyos számú sikertelen próbálkozás után"
+msgstr "IP cím blokkolása megadott számú sikertelen próbálkozás után"
 
 msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
 msgid "Number of unsuccessful attempts"
@@ -182,9 +182,9 @@ msgstr "Sikertelen kísérletek száma"
 
 msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
 msgid "Time between unsuccessful login attempts (seconds)"
-msgstr "Time between unsuccessful login attempts (seconds)"
+msgstr "Sikertelen bejelentkezési kísérletek közötti idő (másodperc)"
 
 msgctxt "SettingsOptions::access_restrictions::time_block_customer"
 msgid "Time for which the IP should be blocked (hours)"
-msgstr "Time for which the IP should be blocked (hours)"
+msgstr "Az IP cím blokkolásának időtartama (óra)"
 

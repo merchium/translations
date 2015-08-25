@@ -10,11 +10,11 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-20 10:03-0400\n"
+"PO-Revision-Date: 2015-08-23 12:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
-msgstr "Português Brasileiro"
+msgstr "Português"
 
 msgctxt "Languages::2co_enable_fraud_verification"
 msgid "Enable support of fraud notification"
@@ -22,11 +22,11 @@ msgstr "Ativar o suporte de notificação de fraude"
 
 msgctxt "Languages::2co_fraud_fail"
 msgid "Status for orders with failed fraud review"
-msgstr "Estado para encomendas com falhas na revisão de fraude"
+msgstr "Estado para encomendas com erro na análise de fraude"
 
 msgctxt "Languages::2co_fraud_wait"
 msgid "Status for orders waiting for fraud review"
-msgstr "Estado para encomendas em espera para a revisão de fraude"
+msgstr "Estado para encomendas que aguardam análise de fraude"
 
 msgctxt "Languages::3d_secure"
 msgid "3-D Secure"
@@ -34,7 +34,7 @@ msgstr "3-D Secure"
 
 msgctxt "Languages::404"
 msgid "The 404 Not Found error message"
-msgstr "Mensagem de erro 404 - Não encontrada"
+msgstr "Mensagem de erro 404 - Não encontrado(a)"
 
 msgctxt "Languages::absolute"
 msgid "Absolute"
@@ -78,7 +78,7 @@ msgstr "Tipo de conta"
 
 msgctxt "Languages::acquirerid"
 msgid "Acquirer ID"
-msgstr "Identificação do adquirente"
+msgstr "ID do adquirente"
 
 msgctxt "Languages::action"
 msgid "Action"
@@ -94,11 +94,11 @@ msgstr "Ativar o item de menu"
 
 msgctxt "Languages::activate_selected"
 msgid "Activate selected"
-msgstr "Ativar seleção"
+msgstr "Ativar selecionados"
 
 msgctxt "Languages::activate_skrill_merchant_tools"
 msgid "Activate Skrill Merchant Tools"
-msgstr "Ativar ferramentas Skrill Merchant"
+msgstr "Ativar Skrill Merchant Tools"
 
 msgctxt "Languages::activation_link"
 msgid "Activation link"
@@ -110,7 +110,7 @@ msgstr "Modo de ativação"
 
 msgctxt "Languages::active"
 msgid "Active"
-msgstr "Ativo"
+msgstr "Ativado"
 
 msgctxt "Languages::active_categories"
 msgid "Active categories"
@@ -122,7 +122,7 @@ msgstr "Estilo ativo"
 
 msgctxt "Languages::active_products"
 msgid "Active products"
-msgstr "Artigos ativos"
+msgstr "Produtos ativos"
 
 msgctxt "Languages::active_promotions"
 msgid "Active promotions"
@@ -146,7 +146,7 @@ msgstr "A adicionar um bloco à grelha"
 
 msgctxt "Languages::adding_grid"
 msgid "Adding grid"
-msgstr "Adicionar grelha"
+msgstr "Adicionando grade"
 
 msgctxt "Languages::additional_data"
 msgid "Additional data"
@@ -154,7 +154,7 @@ msgstr "Dados adicionais"
 
 msgctxt "Languages::additional_images"
 msgid "Additional images"
-msgstr "Imagens adicionais"
+msgstr "Fotos adicionais"
 
 msgctxt "Languages::additional_options"
 msgid "Additional options"
@@ -166,23 +166,23 @@ msgstr "Parâmetro adicional está incorreto"
 
 msgctxt "Languages::additional_popup_larger_image"
 msgid "Popup larger images of additional thumbnails"
-msgstr "Fazer zoom às miniaturas adicionais"
+msgstr "Fazer zoom às imagens miniatura adicionais"
 
 msgctxt "Languages::additional_thumbnail"
 msgid "Additional thumbnails"
-msgstr "Miniaturas adicionais"
+msgstr "Miniaturas adicional"
 
 msgctxt "Languages::additional__option_thumbnail"
 msgid "Additional option thumbnail"
-msgstr "Miniatura de opção adicional"
+msgstr "Opção de miniatura adicional"
 
 msgctxt "Languages::addon"
 msgid "Add-on"
-msgstr "Módulo"
+msgstr "Plugin"
 
 msgctxt "Languages::addons"
 msgid "Add-ons"
-msgstr "Módulos"
+msgstr "Plugins"
 
 msgctxt "Languages::addon_sql_error"
 msgid "An error in an SQL query occurred during the add-on installation. The add-on will not be installed."
@@ -198,7 +198,7 @@ msgstr "Endereços"
 
 msgctxt "Languages::address_2"
 msgid "Address (line 2)"
-msgstr "Endereço (2)"
+msgstr "Endereço (linha 2)"
 
 msgctxt "Languages::address_commercial"
 msgid "Commercial"
@@ -290,7 +290,7 @@ msgstr "Adicionar campo"
 
 msgctxt "Languages::add_file"
 msgid "Add file"
-msgstr "Adicionar ficheiro"
+msgstr "Adicionar arquivo"
 
 msgctxt "Languages::add_filter"
 msgid "Add filter"
@@ -366,7 +366,7 @@ msgstr "Adicionar novo campo"
 
 msgctxt "Languages::add_new_order"
 msgid "Adding new order"
-msgstr "Adicionando nova encomenda"
+msgstr "A adicionar nova encomenda"
 
 msgctxt "Languages::add_new_variant"
 msgid "Add new variant"
@@ -378,15 +378,15 @@ msgstr "Adicionar opção"
 
 msgctxt "Languages::add_order"
 msgid "Add order"
-msgstr "Adicionar encomenda"
+msgstr "Adicionar pedido"
 
 msgctxt "Languages::add_orders"
 msgid "Add orders"
-msgstr "Adicionar encomendas"
+msgstr "Adicionar pedidos"
 
 msgctxt "Languages::add_orders_and_close"
 msgid "Add orders and close"
-msgstr "Adicionar encomendas e fechar"
+msgstr "Adicionar pedidos e fechar"
 
 msgctxt "Languages::add_page"
 msgid "Add page"
@@ -410,15 +410,15 @@ msgstr "Adicionar pagamento"
 
 msgctxt "Languages::add_product"
 msgid "Add product"
-msgstr "Adicionar artigo"
+msgstr "Adicionar produto"
 
 msgctxt "Languages::add_products"
 msgid "Add products"
-msgstr "Adicionar artigos"
+msgstr "Adicionar produtos"
 
 msgctxt "Languages::add_products_and_close"
 msgid "Add products and close"
-msgstr "Adicionar artigos e fechar"
+msgstr "Adicionar produtos e fechar"
 
 msgctxt "Languages::add_products_to_section"
 msgid "Add product(s) to this section"
@@ -426,7 +426,7 @@ msgstr "Adicionar artigo(s) a esta secção"
 
 msgctxt "Languages::add_product_filter"
 msgid "Add product filter"
-msgstr "Adicionar filtro de artigo"
+msgstr "Adicionar filtro de produtos"
 
 msgctxt "Languages::add_promotions"
 msgid "Add promotions"
@@ -438,11 +438,11 @@ msgstr "Adicionar relatório"
 
 msgctxt "Languages::add_section"
 msgid "Add section"
-msgstr "Adicionar secção"
+msgstr "Adicionar seção"
 
 msgctxt "Languages::add_selected_to_cart"
 msgid "Add selected to cart"
-msgstr "Adicionar seleção ao carrinho"
+msgstr "Adicionar selecionados ao carrinho"
 
 msgctxt "Languages::add_shipping_method"
 msgid "Add shipping method"
@@ -450,7 +450,7 @@ msgstr "Adicionar método de envio"
 
 msgctxt "Languages::add_site_map_section"
 msgid "Add sitemap section"
-msgstr "Adicionar secção sitemap"
+msgstr "Adicionar seção de sitemap"
 
 msgctxt "Languages::add_state"
 msgid "Add state"
@@ -458,7 +458,7 @@ msgstr "Adicionar região"
 
 msgctxt "Languages::add_status"
 msgid "Add status"
-msgstr "Adicionar estado"
+msgstr "Adicionar status"
 
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
@@ -466,15 +466,15 @@ msgstr "Adicionar status"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
-msgstr "Adicionar assinante"
+msgstr "Adicionar subscritor"
 
 msgctxt "Languages::add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
-msgstr "Adicionar assinantes da lista de utilizadores"
+msgstr "Adicionar subscritores da lista de utilizadores"
 
 msgctxt "Languages::add_tab"
 msgid "Add tab"
-msgstr "Adicionar tab"
+msgstr "Adicionar guia"
 
 msgctxt "Languages::add_tax"
 msgid "Add tax"
@@ -486,19 +486,19 @@ msgstr "Adicionar ao carrinho"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Adicionar à lista comparativa"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
-msgstr "Adicionar utilizador"
+msgstr "Adicionar usuário"
 
 msgctxt "Languages::add_users"
 msgid "Add users"
-msgstr "Adicionar utilizadores"
+msgstr "Adicionar usuários"
 
 msgctxt "Languages::add_users_and_close"
 msgid "Add users and close"
-msgstr "Adicionar utilizadores e fechar"
+msgstr "Adicionar usuários e fechar"
 
 msgctxt "Languages::add_vendor"
 msgid "Add store"
@@ -514,7 +514,7 @@ msgstr "Administração"
 
 msgctxt "Languages::administration_panel"
 msgid "Administration panel"
-msgstr "Backoffice"
+msgstr "Painel administrativo"
 
 msgctxt "Languages::administrator"
 msgid "Administrator"
@@ -526,7 +526,7 @@ msgstr "Administradores"
 
 msgctxt "Languages::administrators_menu_description"
 msgid "List of store administrators, registered users with an administrator account."
-msgstr "Lista de administradores da loja, utilizadores registados com uma conta de administrador."
+msgstr "Lista de administradores da loja, usuários registados com uma conta de administrador."
 
 msgctxt "Languages::administrators_notified"
 msgid "[count] administrators notified."
@@ -534,7 +534,7 @@ msgstr "[count] administradores notificados."
 
 msgctxt "Languages::admin_panel"
 msgid "Administration panel"
-msgstr "Backoffice"
+msgstr "Painel administrativo"
 
 msgctxt "Languages::admin_text_letter_footer"
 msgid "E-shop of [company_name]."
@@ -558,15 +558,15 @@ msgstr "Após pagamento integral"
 
 msgctxt "Languages::after_sum"
 msgid "After sum"
-msgstr "Depois da soma"
+msgstr "Após somatória"
 
 msgctxt "Languages::agent_id"
 msgid "Agent ID"
-msgstr "ID Agente"
+msgstr "Código do agente"
 
 msgctxt "Languages::agreement_required"
 msgid "Agreement required"
-msgstr "Acordo exigido"
+msgstr "Acordo obrigatório"
 
 msgctxt "Languages::all"
 msgid "All"
@@ -586,23 +586,23 @@ msgstr "Extensões permitidas"
 
 msgctxt "Languages::allowed_extensions_hint"
 msgid "Leave this field empty to allow uploading of all file types, or input allowed extensions separated by comma (e.g. jpg,bmp,gif,pdf)"
-msgstr "Deixe este campo vazio para permitir o upload de todos os tipos de ficheiro, ou introduzir extensões separadas por vírgula (por exemplo, jpg, bmp, gif, pdf)"
+msgstr "Deixe este campo em branco para permitir o envio de todos os tipos de arquivos, ou digite as extensões permitidas separadas por vírgula (p.ex. jpg, bmp, gif, pdf)"
 
 msgctxt "Languages::allow_api_access"
 msgid "Yes, allow this user to use the API"
-msgstr "Sim, permitir este utilizador usar a API"
+msgstr "Permitir que este usuário utilize a API"
 
 msgctxt "Languages::allow_return_registration"
 msgid "Allow return registration"
-msgstr "Permitir o registo de devolução"
+msgstr "Permitir o registro de devolução"
 
 msgctxt "Languages::all_categories"
 msgid "All categories"
-msgstr "Todas as categorias"
+msgstr "Todas categorias"
 
 msgctxt "Languages::all_downloads"
 msgid "All downloads"
-msgstr "Todos os downloads"
+msgstr "Todos downloads"
 
 msgctxt "Languages::all_features"
 msgid "All features"
@@ -610,19 +610,19 @@ msgstr "Todas os atributos"
 
 msgctxt "Languages::all_filters"
 msgid "All product filters"
-msgstr "Todos os filtros"
+msgstr "Todos filtros"
 
 msgctxt "Languages::all_pages"
 msgid "All pages"
-msgstr "Todas as páginas"
+msgstr "Todas páginas"
 
 msgctxt "Languages::all_products_have_been_updated"
 msgid "All products have been updated successfully."
-msgstr "Todos os artigos foram atualizados com sucesso."
+msgstr "Todos os produtos foram atualizados com sucesso."
 
 msgctxt "Languages::all_vendors"
 msgid "All stores"
-msgstr "Todas as lojas"
+msgstr "Todas lojas"
 
 msgctxt "Languages::all_words"
 msgid "All of these words"
@@ -650,15 +650,15 @@ msgstr "Quantidade"
 
 msgctxt "Languages::amount_decreased"
 msgid "Quantity has been decreased by"
-msgstr "A quantidade decresceu"
+msgstr "Quantidade reduzida por"
 
 msgctxt "Languages::amount_increased"
 msgid "Quantity has been increased by"
-msgstr "A quantidade aumentou"
+msgstr "Quantidade aumentada por"
 
 msgctxt "Languages::anonymous"
 msgid "Anonymous"
-msgstr "Anónimo"
+msgstr "Anônimo"
 
 msgctxt "Languages::answer"
 msgid "Answer"
@@ -690,7 +690,7 @@ msgstr "API"
 
 msgctxt "Languages::api_access"
 msgid "API access"
-msgstr "Acesso à API"
+msgstr "Acesso da API"
 
 msgctxt "Languages::api_key"
 msgid "API key"
@@ -702,27 +702,27 @@ msgstr "O ID da empresa é obrigatório (parâmetro 'company_id')"
 
 msgctxt "Languages::api_need_correct_company_id"
 msgid "Company by passed ID not found"
-msgstr "ID não encontrado"
+msgstr "ID de empresa não encontrado"
 
 msgctxt "Languages::api_need_id"
 msgid "Object ID undefined"
-msgstr "ID de objeto indefinido"
+msgstr "Código do objeto não definido"
 
 msgctxt "Languages::api_need_params"
 msgid "Missing parameters"
-msgstr "Parâmetros em falta"
+msgstr "Parâmetros faltando"
 
 msgctxt "Languages::api_need_store"
 msgid "Store is required (the company_id param or entity stores)"
-msgstr "Loja é necessária (os company_id param ou entidade lojas)"
+msgstr "Loja necessária (company_id param ou entidade lojas)"
 
 msgctxt "Languages::api_not_need_id"
 msgid "ID must not be defined"
-msgstr "ID não deve ser definido"
+msgstr "O código não deve ser definido"
 
 msgctxt "Languages::api_partner"
 msgid "API partner"
-msgstr "Parceiro da API"
+msgstr "API do parceiro"
 
 msgctxt "Languages::api_password"
 msgid "API password"
@@ -742,7 +742,7 @@ msgstr "Aparência"
 
 msgctxt "Languages::appearance_settings"
 msgid "Appearance settings"
-msgstr "Definições visuais"
+msgstr "Configurações de aparência"
 
 msgctxt "Languages::appearance_type"
 msgid "Appearance type"
@@ -750,7 +750,7 @@ msgstr "Tipo de aparência"
 
 msgctxt "Languages::application_id"
 msgid "Application ID"
-msgstr "ID da aplicação"
+msgstr "Código da aplicação"
 
 msgctxt "Languages::application_login"
 msgid "Application login"
@@ -762,7 +762,7 @@ msgstr "Aplicar"
 
 msgctxt "Languages::apply_as_link"
 msgid "Apply as link"
-msgstr "Aplicar como link"
+msgstr "Adicionar como link"
 
 msgctxt "Languages::apply_tax_to_products"
 msgid "Apply selected taxes to all products"
@@ -786,7 +786,7 @@ msgstr "Aprovado"
 
 msgctxt "Languages::approve_selected"
 msgid "Approve selected"
-msgstr "Aprovar seleção"
+msgstr "Aprovar selecionados"
 
 msgctxt "Languages::arabic"
 msgid "Arabic"
@@ -842,7 +842,7 @@ msgstr "Código de autenticação"
 
 msgctxt "Languages::auth_info"
 msgid "Authentication information"
-msgstr "Informação de autenticação"
+msgstr "Informações de login"
 
 msgctxt "Languages::auto"
 msgid "Auto"
@@ -886,7 +886,7 @@ msgstr "Modos de exibição disponíveis"
 
 msgctxt "Languages::available_since"
 msgid "Avail since"
-msgstr "Disponível desde"
+msgstr "Disponível a partir de"
 
 msgctxt "Languages::installed_themes"
 msgid "Installed themes"
@@ -942,7 +942,7 @@ msgstr "Backup do esquemático para"
 
 msgctxt "Languages::backup_data"
 msgid "Backup database data"
-msgstr "Backup dos dados da base de dados"
+msgstr "Backup dos dados do banco de dados"
 
 msgctxt "Languages::backup_filename"
 msgid "Backup file name"
@@ -958,7 +958,7 @@ msgstr "Opções de backup"
 
 msgctxt "Languages::backup_schema"
 msgid "Backup database schema"
-msgstr "Backup do esquemático da base de dados"
+msgstr "Backup do schema do banco de dados"
 
 msgctxt "Languages::back_in_stock_notification_footer"
 msgid "Welcome to purchase!"
@@ -966,7 +966,7 @@ msgstr "Bem-vindo às compras!"
 
 msgctxt "Languages::back_in_stock_notification_header"
 msgid "We are writing to inform you that the following product is back in stock in our store:"
-msgstr "Informamos que o seguinte artigo está novamente disponível em armazém:"
+msgstr "Informamos que o seguinte produto está novamente disponível em nosso estoque:"
 
 msgctxt "Languages::balance"
 msgid "Balance"
@@ -986,7 +986,7 @@ msgstr "Apenas terrestre"
 
 msgctxt "Languages::bank_cic"
 msgid "Groupe CIC"
-msgstr "Groupe  CIC"
+msgstr "Grupo CIC"
 
 msgctxt "Languages::bank_cm"
 msgid "Credit Mutuel"
@@ -1026,19 +1026,19 @@ msgstr "Código Biller"
 
 msgctxt "Languages::billing_address"
 msgid "Billing address"
-msgstr "Endereço de faturação"
+msgstr "Endereço de cobrança"
 
 msgctxt "Languages::billing_options"
 msgid "Billing Options"
-msgstr "Opções de faturação"
+msgstr "Opções de cobrança"
 
 msgctxt "Languages::billing_shipping_address"
 msgid "Billing and Shipping Address"
-msgstr "Endereços de faturação e entrega"
+msgstr "Endereços de cobrança e entrega"
 
 msgctxt "Languages::bill_to"
 msgid "Bill to"
-msgstr "Faturar a"
+msgstr "Endereço de cobrança"
 
 msgctxt "Languages::block"
 msgid "Block"
@@ -1054,19 +1054,19 @@ msgstr "Este bloco já existe nesta grelha"
 
 msgctxt "Languages::block_breadcrumbs"
 msgid "Breadcrumbs"
-msgstr "Breadcrumbs"
+msgstr "Navegação"
 
 msgctxt "Languages::block_breadcrumbs_description"
 msgid "Navigation breadcrumbs"
-msgstr "Breadcrumbs de navegação"
+msgstr "Mostra links de navegação"
 
 msgctxt "Languages::block_categories_description"
 msgid "Category trees"
-msgstr "Esquema das categorias"
+msgstr "Árvore das categorias"
 
 msgctxt "Languages::block_products_description"
 msgid "Product showcase"
-msgstr "Mostruário de artigos"
+msgstr "Listagem de produtos"
 
 msgctxt "Languages::block_cart_content"
 msgid "Cart content"
@@ -1086,7 +1086,7 @@ msgstr "Encomendar"
 
 msgctxt "Languages::block_checkout_description"
 msgid "Current order information"
-msgstr "Detalhes da encomenda"
+msgstr "Informações sobre o pedido"
 
 msgctxt "Languages::block_content"
 msgid "Block content"
@@ -1142,7 +1142,7 @@ msgstr "Principal"
 
 msgctxt "Languages::block_main_description"
 msgid "Main content (loaded by controller)"
-msgstr "Conteúdo principal (carregado pelo controlador)"
+msgstr "Conteúdo principal (carregado pelo controller)"
 
 msgctxt "Languages::block_manager"
 msgid "Block manager"
@@ -1162,7 +1162,7 @@ msgstr "Largura total"
 
 msgctxt "Languages::block_manager.grid_columns"
 msgid "Grid columns"
-msgstr "Colunas da grelha"
+msgstr "Colunas da grade"
 
 msgctxt "Languages::block_manager.layout_width"
 msgid "Layout width"
@@ -1182,19 +1182,19 @@ msgstr "Alterar o layout enquanto o tema é convertido para CSS não é permitid
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Adicionar página de layout"
+msgstr "Adicionar layout da página"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editar página de layout"
+msgstr "Editar layout da página"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "Nova página de layout"
+msgstr "Nova layout da página"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Páginas de layout"
+msgstr "Layout das páginas"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1206,7 +1206,7 @@ msgstr "Diferentes tipos de menu"
 
 msgctxt "Languages::block_my_account"
 msgid "My account"
-msgstr "Conta de cliente"
+msgstr "Minha conta"
 
 msgctxt "Languages::block_my_account_description"
 msgid "Customer profile access"
@@ -1242,15 +1242,15 @@ msgstr "Páginas da loja"
 
 msgctxt "Languages::block_payment_methods"
 msgid "Payment methods"
-msgstr "Opções de pagamento"
+msgstr "Formas de pagamento"
 
 msgctxt "Languages::block_payment_methods_description"
 msgid "Available payment methods"
-msgstr "Opções de pagamento disponíveis"
+msgstr "Formas de pagamento disponíveis"
 
 msgctxt "Languages::block_products"
 msgid "Products"
-msgstr "Artigos"
+msgstr "Produtos"
 
 msgctxt "Languages::block_product_filters"
 msgid "Product filters"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/seo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-23 06:03-0400\n"
+"PO-Revision-Date: 2015-08-23 12:02-0400\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -18,19 +18,19 @@ msgstr "SEO"
 
 msgctxt "Addons::description::seo"
 msgid "Adds Search engine-friendly URLs support"
-msgstr "Adds Search engine-friendly URLs support"
+msgstr "Adiciona suporte para URLs (Search Engine Friendly)"
 
 msgctxt "Languages::seo_rules_menu_description"
 msgid "Use this section to define global rules for the URLs rewritten in your store."
-msgstr "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Use esta secção para definir as regras globais dos URLs na sua loja."
 
 msgctxt "Languages::seo.redirects_manager_menu_description"
 msgid "Manages redirect rules from old URLs"
-msgstr "Manages redirect rules from old URLs"
+msgstr "Gere as regras de redirecionamento de URLs antigos"
 
 msgctxt "Languages::controller_description"
 msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
-msgstr "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Se deseja especificar um nome de SEO para o URL, por exemplo, http://example.com/index.php?dispatch= <b>categories.catalog</b>, precisa inserir o valor \"<b>categories.catalog</b>\" no campo \"<b>Valor do parâmetro de expedição do URL</b>\" e especificar o nome SEO no campo \"<b>Nome SEO</b>\"."
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
@@ -38,19 +38,19 @@ msgstr "Nome SEO"
 
 msgctxt "Languages::warning_seo_urls_disabled"
 msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
-msgstr "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "URLs SEF estão desativados."
 
 msgctxt "Languages::dispatch_value"
 msgid "Dispatch value"
-msgstr "Dispatch value"
+msgstr "Valor de expedição"
 
 msgctxt "Languages::url_dispatch_part"
 msgid "The value of the \"dispatch\" parameter from the URL"
-msgstr "The value of the \"dispatch\" parameter from the URL"
+msgstr "O valor do parâmetro de expedição do URL"
 
 msgctxt "Languages::new_rule"
 msgid "New rule"
-msgstr "New rule"
+msgstr "Nova regra"
 
 msgctxt "Languages::seo_rules"
 msgid "SEO rules"
@@ -62,7 +62,7 @@ msgstr "página [n]"
 
 msgctxt "Languages::privileges.manage_seo_rules"
 msgid "Manage SEO rules and 301 redirects"
-msgstr "Gerirregras SEO e redirecionamentos 301"
+msgstr "Gerir regras SEO e redirecionamentos 301"
 
 msgctxt "Languages::privileges.view_seo_rules"
 msgid "View SEO rules and 301 redirects"
@@ -90,19 +90,19 @@ msgstr "O URL de onde está a redirecionar já existe"
 
 msgctxt "Languages::seo.rich_snippets"
 msgid "Google rich snippets preview"
-msgstr "Google rich snippets preview"
+msgstr "Previsualização do Google Rich Snippets"
 
 msgctxt "Languages::seo.rich_snippets_rating"
 msgid "Rating"
-msgstr "Classificação"
+msgstr "Avaliação"
 
 msgctxt "Languages::seo.rich_snippets_reviews"
 msgid "[n] review|[n] reviews"
-msgstr "[n] review|[n] reviews"
+msgstr "[n] avaliações|[n] comentários"
 
 msgctxt "Languages::seo.create_redirect"
 msgid "Create redirect from old URL"
-msgstr "Criar redirecionamento do URL antigo"
+msgstr "Criar redirecionamento para um URL antigo"
 
 msgctxt "Languages::seo.error_incorrect_url"
 msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
@@ -138,7 +138,7 @@ msgstr "Mostrar idioma no URL"
 
 msgctxt "SettingsOptions::seo::single_url"
 msgid "Use single URL for all languages"
-msgstr "Use URL único para todos os idiomas"
+msgstr "Usar URL único para todos os idiomas"
 
 msgctxt "SettingsOptions::seo::non_latin_symbols"
 msgid "Allow non-latin symbols in URL"
@@ -146,7 +146,7 @@ msgstr "Permitir símbolos não-latinos no URL"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
 msgid "/product-name/"
-msgstr "/product-name/"
+msgstr "/product-name"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file"
 msgid "/product-name.html"
@@ -154,7 +154,7 @@ msgstr "/product-name.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
 msgid "/category-name/[subcategory-name/]product-name/"
-msgstr "/category-name/[subcategory-name/]product-name/"
+msgstr "/category-name/[subcategory-name/]product-name"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category"
 msgid "/category-name/[subcategory-name/]product-name.html"
@@ -162,15 +162,15 @@ msgstr "/category-name/[subcategory-name/]product-name.html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
 msgid "/parent-category/category/[page-2/]"
-msgstr "/parent-category/category/[page-2/]"
+msgstr "/parent-category/category/[page2/]"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category"
 msgid "/parent-category/category-[page-2].html"
-msgstr "/parent-category/category-[page-2].html"
+msgstr "/parent-category/category/[page2/].html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::root_category"
 msgid "/category/[page-2/]"
-msgstr "/category/[page-2/]"
+msgstr "/category/[page2/]"
 
 msgctxt "SettingsVariants::seo::seo_page_type::page"
 msgid "/parent-page/page.html"
@@ -190,7 +190,7 @@ msgstr "/item/"
 
 msgctxt "SettingsVariants::seo::seo_category_type::file"
 msgid "/category[-page-2].html"
-msgstr "/category[-page-2].html"
+msgstr "/category[-page2].html"
 
 msgctxt "SettingsVariants::seo::seo_page_type::file"
 msgid "/page.html"

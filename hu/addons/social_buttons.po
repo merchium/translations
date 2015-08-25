@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/social_buttons.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-21 10:02-0400\n"
+"PO-Revision-Date: 2015-08-24 11:02-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -22,7 +22,7 @@ msgstr "Közösségi médiához (pl Twitter, Facebook, stb ...) kapcsolódó, to
 
 msgctxt "Languages::use_for_email_share"
 msgid "Send to friend form"
-msgstr "Send to friend form"
+msgstr "Küldés barátnak űrlap"
 
 msgctxt "Languages::facebook"
 msgid "Facebook"
@@ -234,23 +234,23 @@ msgstr "Megjelenítés itt"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
-msgstr "User name to attribute the Tweet to (i.e. 'via @username')"
+msgstr "Felhasználói név a Twitterhez (pl. '@felhasználónév-en keresztül')"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
 msgid "Specify any Facebook app ID, otherwise the button will not be shown"
-msgstr "Specify any Facebook app ID, otherwise the button will not be shown"
+msgstr "Adjon meg bármilyen Facebook alkalmazás azonosítót, különben a gomb nem jelenik meg"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_href"
 msgid "Leave empty to use an actual page URL"
-msgstr "Leave empty to use an actual page URL"
+msgstr "Hagyja üresen, ha a jelenlegi oldal URL-t akarja használni"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
 msgid "Enable to display profile photos below the button (standard layout only)"
-msgstr "Enable to display profile photos below the button (standard layout only)"
+msgstr "Profil fotók megjelenítésének engedélyezése a gomb alatt (csak standard elrendezésnél)"
 
 msgctxt "SettingsTooltips::social_buttons::vkontakte_width"
 msgid "Only for the button with text counter"
-msgstr "Only for the button with text counter"
+msgstr "Csak a nyomógombhoz szövegszámlálóval"
 
 msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
 msgid "Medium"
@@ -690,35 +690,35 @@ msgstr "Érdekes"
 
 msgctxt "SettingsSections::social_buttons::gplus"
 msgid "Google plus"
-msgstr "Google plus"
+msgstr "Google plusz"
 
 msgctxt "SettingsOptions::social_buttons::gplus_header"
 msgid "Google plus settings"
-msgstr "Google plus settings"
+msgstr "Google plusz beállítások"
 
 msgctxt "SettingsOptions::social_buttons::gplus_enable"
 msgid "Show Google plus button"
-msgstr "Show Google plus button"
+msgstr "Google plusz nyomógomb megjelenítése"
 
 msgctxt "SettingsOptions::social_buttons::gplus_href"
 msgid "Google plus href"
-msgstr "Google plus href"
+msgstr "Google plusz href"
 
 msgctxt "SettingsOptions::social_buttons::gplus_size"
 msgid "Size"
-msgstr "Size"
+msgstr "Méret"
 
 msgctxt "SettingsOptions::social_buttons::gplus_annotation"
 msgid "Annotation"
-msgstr "Annotation"
+msgstr "Jegyzet"
 
 msgctxt "SettingsOptions::social_buttons::gplus_width"
 msgid "Width"
-msgstr "Width"
+msgstr "Szélesség"
 
 msgctxt "SettingsOptions::social_buttons::gplus_align"
 msgid "Align"
-msgstr "Align"
+msgstr "Igazítás"
 
 msgctxt "SettingsOptions::social_buttons::gplus_expandto"
 msgid "Expand To"
@@ -726,27 +726,27 @@ msgstr "Expand To"
 
 msgctxt "SettingsOptions::social_buttons::gplus_recommendations"
 msgid "Recomendations"
-msgstr "Recomendations"
+msgstr "Ajánlások"
 
 msgctxt "SettingsOptions::social_buttons::gplus_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "Megjelenítés itt"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::products"
 msgid "Product details pages"
-msgstr "Product details pages"
+msgstr "Termékadatlap"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::pages"
 msgid "Pages"
-msgstr "Pages"
+msgstr "Oldalak"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::small"
 msgid "Small"
-msgstr "Small"
+msgstr "Kicsi"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::medium"
 msgid "Medium"
-msgstr "Medium"
+msgstr "Közepes"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::standard"
 msgid "Standard"
@@ -754,63 +754,63 @@ msgstr "Standard"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::tall"
 msgid "Tall"
-msgstr "Tall"
+msgstr "Magas"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::none"
 msgid "None"
-msgstr "None"
+msgstr "Nincs"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::bubble"
 msgid "Bubble"
-msgstr "Bubble"
+msgstr "Buborék"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::inline"
 msgid "Inline"
-msgstr "Inline"
+msgstr "Szövegközi"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::left"
 msgid "Left"
-msgstr "Left"
+msgstr "Balra"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Jobbra"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::top"
 msgid "Top"
-msgstr "Top"
+msgstr "Fent"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::right"
 msgid "Right"
-msgstr "Right"
+msgstr "Jobbra"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::bottom"
 msgid "Bottom"
-msgstr "Bottom"
+msgstr "Lent"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::left"
 msgid "Left"
-msgstr "Left"
+msgstr "Balra"
 
 msgctxt "SettingsVariants::social_buttons::gplus_recommendations::yes"
 msgid "Yes"
-msgstr "Yes"
+msgstr "Igen"
 
 msgctxt "SettingsVariants::social_buttons::gplus_recommendations::no"
 msgid "No"
-msgstr "No"
+msgstr "Nem"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "Megjelenítés itt"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_display_on::products"
 msgid "Product details pages"
-msgstr "Product details pages"
+msgstr "Termékadatlap"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_display_on::pages"
 msgid "Pages"
-msgstr "Pages"
+msgstr "Oldalak"
 
 msgctxt "SettingsSections::social_buttons::pinterest"
 msgid "Pinterest"
@@ -818,49 +818,49 @@ msgstr "Pinterest"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_header"
 msgid "Pinterest settings"
-msgstr "Pinterest settings"
+msgstr "Pinterest beállítások"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_enable"
 msgid "Show Pinterest button"
-msgstr "Show Pinterest button"
+msgstr "Pinterest gomb megjelenítése"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_size"
 msgid "Button size"
-msgstr "Button size"
+msgstr "Gomb mérete"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_size::20"
 msgid "Small"
-msgstr "Small"
+msgstr "Kicsi"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_size::28"
 msgid "Large"
-msgstr "Large"
+msgstr "Nagy"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_shape"
 msgid "Shape"
-msgstr "Shape"
+msgstr "Alakzat"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::rect"
 msgid "Rectangular"
-msgstr "Rectangular"
+msgstr "Négyszögletes"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
 msgid "Circular"
-msgstr "Circular"
+msgstr "Kör"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_color"
 msgid "Color"
-msgstr "Color"
+msgstr "Szín"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::gray"
 msgid "Gray"
-msgstr "Gray"
+msgstr "Szürke"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::red"
 msgid "Red"
-msgstr "Red"
+msgstr "Piros"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::white"
 msgid "White"
-msgstr "White"
+msgstr "Fehér"
 
