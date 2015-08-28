@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-26 15:02-0400\n"
+"PO-Revision-Date: 2015-08-27 18:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -642,7 +642,7 @@ msgstr "American Express"
 
 msgctxt "Languages::american_express_info"
 msgid "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
-msgstr "CVV is on the front of the card above the credit card number (either on the right or on the left side of the credit card)."
+msgstr "CVV é o código de 3 dígitos existente no cartão."
 
 msgctxt "Languages::amount"
 msgid "Amount"
@@ -658,7 +658,7 @@ msgstr "Quantidade aumentada em"
 
 msgctxt "Languages::anonymous"
 msgid "Anonymous"
-msgstr "Anônimo"
+msgstr "Anónimo"
 
 msgctxt "Languages::answer"
 msgid "Answer"
@@ -678,7 +678,7 @@ msgstr "Qualquer combinação de opções"
 
 msgctxt "Languages::any_status"
 msgid "Any status"
-msgstr "Qualquer status"
+msgstr "Qualquer estado"
 
 msgctxt "Languages::any_words"
 msgid "Any of these words"
@@ -690,7 +690,7 @@ msgstr "API"
 
 msgctxt "Languages::api_access"
 msgid "API access"
-msgstr "Acesso da API"
+msgstr "Acesso à API"
 
 msgctxt "Languages::api_key"
 msgid "API key"
@@ -706,11 +706,11 @@ msgstr "ID de empresa não encontrado"
 
 msgctxt "Languages::api_need_id"
 msgid "Object ID undefined"
-msgstr "Código do objeto não definido"
+msgstr "ID de objeto não definido"
 
 msgctxt "Languages::api_need_params"
 msgid "Missing parameters"
-msgstr "Parâmetros faltando"
+msgstr "Parâmetros em falta"
 
 msgctxt "Languages::api_need_store"
 msgid "Store is required (the company_id param or entity stores)"
@@ -718,11 +718,11 @@ msgstr "Loja necessária (company_id param ou entidade lojas)"
 
 msgctxt "Languages::api_not_need_id"
 msgid "ID must not be defined"
-msgstr "O código não deve ser definido"
+msgstr "ID não deve ser definido"
 
 msgctxt "Languages::api_partner"
 msgid "API partner"
-msgstr "API do parceiro"
+msgstr "Parceiro da API"
 
 msgctxt "Languages::api_password"
 msgid "API password"
@@ -742,7 +742,7 @@ msgstr "Aparência"
 
 msgctxt "Languages::appearance_settings"
 msgid "Appearance settings"
-msgstr "Configurações de aparência"
+msgstr "Definições visuais"
 
 msgctxt "Languages::appearance_type"
 msgid "Appearance type"
@@ -750,7 +750,7 @@ msgstr "Tipo de aparência"
 
 msgctxt "Languages::application_id"
 msgid "Application ID"
-msgstr "Código da aplicação"
+msgstr "ID da aplicação"
 
 msgctxt "Languages::application_login"
 msgid "Application login"
@@ -762,7 +762,7 @@ msgstr "Aplicar"
 
 msgctxt "Languages::apply_as_link"
 msgid "Apply as link"
-msgstr "Adicionar como link"
+msgstr "Aplicar como link"
 
 msgctxt "Languages::apply_tax_to_products"
 msgid "Apply selected taxes to all products"
@@ -786,7 +786,7 @@ msgstr "Aprovado"
 
 msgctxt "Languages::approve_selected"
 msgid "Approve selected"
-msgstr "Aprovar selecionados"
+msgstr "Aprovar seleção"
 
 msgctxt "Languages::arabic"
 msgid "Arabic"
@@ -842,7 +842,7 @@ msgstr "Código de autenticação"
 
 msgctxt "Languages::auth_info"
 msgid "Authentication information"
-msgstr "Informações de login"
+msgstr "Informação de autenticação"
 
 msgctxt "Languages::auto"
 msgid "Auto"
@@ -886,7 +886,7 @@ msgstr "Modos de exibição disponíveis"
 
 msgctxt "Languages::available_since"
 msgid "Avail since"
-msgstr "Disponível a partir de"
+msgstr "Disponível desde"
 
 msgctxt "Languages::installed_themes"
 msgid "Installed themes"
@@ -942,7 +942,7 @@ msgstr "Backup do esquemático para"
 
 msgctxt "Languages::backup_data"
 msgid "Backup database data"
-msgstr "Backup dos dados do banco de dados"
+msgstr "Backup dos dados da base de dados"
 
 msgctxt "Languages::backup_filename"
 msgid "Backup file name"
@@ -958,7 +958,7 @@ msgstr "Opções de backup"
 
 msgctxt "Languages::backup_schema"
 msgid "Backup database schema"
-msgstr "Backup do schema do banco de dados"
+msgstr "Backup do esquemático da base de dados"
 
 msgctxt "Languages::back_in_stock_notification_footer"
 msgid "Welcome to purchase!"
@@ -966,7 +966,7 @@ msgstr "Bem-vindo às compras!"
 
 msgctxt "Languages::back_in_stock_notification_header"
 msgid "We are writing to inform you that the following product is back in stock in our store:"
-msgstr "Informamos que o seguinte produto está novamente disponível em nosso estoque:"
+msgstr "Informamos que o seguinte artigo está novamente disponível em armazém:"
 
 msgctxt "Languages::balance"
 msgid "Balance"
@@ -1026,19 +1026,19 @@ msgstr "Código Biller"
 
 msgctxt "Languages::billing_address"
 msgid "Billing address"
-msgstr "Endereço de cobrança"
+msgstr "Endereço de faturação"
 
 msgctxt "Languages::billing_options"
 msgid "Billing Options"
-msgstr "Opções de cobrança"
+msgstr "Opções de faturação"
 
 msgctxt "Languages::billing_shipping_address"
 msgid "Billing and Shipping Address"
-msgstr "Endereços de cobrança e entrega"
+msgstr "Endereços de faturação e entrega"
 
 msgctxt "Languages::bill_to"
 msgid "Bill to"
-msgstr "Endereço de cobrança"
+msgstr "Faturar a"
 
 msgctxt "Languages::block"
 msgid "Block"
@@ -1054,19 +1054,19 @@ msgstr "Este bloco já existe nesta grade"
 
 msgctxt "Languages::block_breadcrumbs"
 msgid "Breadcrumbs"
-msgstr "Navegação"
+msgstr "Estrutura de navegação"
 
 msgctxt "Languages::block_breadcrumbs_description"
 msgid "Navigation breadcrumbs"
-msgstr "Mostra links de navegação"
+msgstr "Estrutura de navegação"
 
 msgctxt "Languages::block_categories_description"
 msgid "Category trees"
-msgstr "Árvore das categorias"
+msgstr "Estrutura das categorias"
 
 msgctxt "Languages::block_products_description"
 msgid "Product showcase"
-msgstr "Listagem de produtos"
+msgstr "Mostruário de artigos"
 
 msgctxt "Languages::block_cart_content"
 msgid "Cart content"
@@ -1086,7 +1086,7 @@ msgstr "Encomendar"
 
 msgctxt "Languages::block_checkout_description"
 msgid "Current order information"
-msgstr "Informações sobre o pedido"
+msgstr "Detalhes da encomenda"
 
 msgctxt "Languages::block_content"
 msgid "Block content"
@@ -1182,19 +1182,19 @@ msgstr "Alterar o layout enquanto o tema é convertido para CSS não é permitid
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr "Adicionar layout da página"
+msgstr "Adicionar página de layout"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr "Editar layout da página"
+msgstr "Editar página de layout"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr "Nova layout da página"
+msgstr "Nova página de layout"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr "Layout das páginas"
+msgstr "Páginas de layout"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1206,7 +1206,7 @@ msgstr "Diferentes tipos de menu"
 
 msgctxt "Languages::block_my_account"
 msgid "My account"
-msgstr "Minha conta"
+msgstr "Conta de cliente"
 
 msgctxt "Languages::block_my_account_description"
 msgid "Customer profile access"
@@ -1222,7 +1222,7 @@ msgstr "Opções do bloco"
 
 msgctxt "Languages::block_order"
 msgid "Block order"
-msgstr "Ordem do bloco"
+msgstr "Disposição do bloco"
 
 msgctxt "Languages::block_our_brands"
 msgid "Brands"
@@ -1242,15 +1242,15 @@ msgstr "Páginas da loja"
 
 msgctxt "Languages::block_payment_methods"
 msgid "Payment methods"
-msgstr "Formas de pagamento"
+msgstr "Opções de pagamento"
 
 msgctxt "Languages::block_payment_methods_description"
 msgid "Available payment methods"
-msgstr "Formas de pagamento disponíveis"
+msgstr "Opções de pagamento disponíveis"
 
 msgctxt "Languages::block_products"
 msgid "Products"
-msgstr "Produtos"
+msgstr "Artigos"
 
 msgctxt "Languages::block_product_filters"
 msgid "Product filters"
@@ -1262,11 +1262,11 @@ msgstr "Opções de filtragem do artigo"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "Filtros de artigo para a página inicial"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "Opções de filtragem do artigo, apresentadas na página inicial"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1310,7 +1310,7 @@ msgstr "Largura do bloco"
 
 msgctxt "Languages::block_wrapper_updated"
 msgid "Block wrapper was updated"
-msgstr "Caixa do bloco foi atualizada"
+msgstr "Secção do bloco foi atualizada"
 
 msgctxt "Languages::bm_confirm"
 msgid "Performing this action will [action] this block on all the [location_name] pages. Do you want to continue?"
@@ -1438,7 +1438,7 @@ msgstr "por montante fixo"
 
 msgctxt "Languages::by_percentage"
 msgid "by percentage of the original price"
-msgstr "por porcentagem do preço original"
+msgstr "percentagem do preço original"
 
 msgctxt "Languages::C128A"
 msgid "Code 128 is a high-density barcode symbology.<br/>Used extensively worldwide.<br/>Code 128 is designed to encode 128 full ASCII characters.<br/>Code 128-A - 0-9, A-Z, ASCII control codes, special characters.<br/>Code 128-B - 0-9, A-Z, a-z, special characters.<br/>Code 128-C - 00-99 (double density encoding of numeric only data).<br/>"
@@ -1474,7 +1474,7 @@ msgstr "Calendário"
 
 msgctxt "Languages::canada_post_activation_error"
 msgid "To activate the Canada post shipping processor, you must have the Canadian Dollar currency enabled."
-msgstr "Para ativar o processador de remessa Canada post, você precisa da moeda Dólar Canadense ativada."
+msgstr "Para ativar o processador de envio Canada post, precisa de ativar a moeda Dólar Canadense."
 
 msgctxt "Languages::cancel"
 msgid "Cancel"
@@ -1486,7 +1486,7 @@ msgstr "Reversão cancelada"
 
 msgctxt "Languages::cancelled"
 msgid "Canceled"
-msgstr "Cancelado"
+msgstr "Cancelado(a)"
 
 msgctxt "Languages::cancel_url_target"
 msgid "Cancel URL target"
@@ -1498,11 +1498,11 @@ msgstr "Não pode comprar o artigo com essas combinações de opção"
 
 msgctxt "Languages::cannot_proccess_checkout"
 msgid "Your cart is empty, so you cannot proceed to checkout."
-msgstr "Não pode pode finalizar encomendas com o carrinho de compras vazio."
+msgstr "Não pode finalizar encomendas com o carrinho vazio."
 
 msgctxt "Languages::cannot_proccess_checkout_without_payment_methods"
 msgid "There are no payment methods available, so you cannot proceed to checkout."
-msgstr "Não poderá finalizar a encomenda porque não existem métodos de pagamento disponíveis."
+msgstr "Não poderá finalizar a encomenda porque não existem opções de pagamento disponíveis."
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
@@ -1590,7 +1590,7 @@ msgstr "Conteúdo do carrinho"
 
 msgctxt "Languages::cart_info"
 msgid "Site info"
-msgstr "Informação do SIte"
+msgstr "Informação do Site"
 
 msgctxt "Languages::cart_is_empty"
 msgid "Cart is empty"
@@ -1626,7 +1626,7 @@ msgstr "As categorias foram adicionadas"
 
 msgctxt "Languages::categories_menu_description"
 msgid "View product categories which are used to group products in your store."
-msgstr "Ver categorias de artigos que são utilizadas para grupos de artigos na sua loja."
+msgstr "Ver categorias de artigos que são utilizadas para agrupar artigos na sua loja."
 
 msgctxt "Languages::category"
 msgid "Category"
@@ -1686,7 +1686,7 @@ msgstr "Alterações"
 
 msgctxt "Languages::change_access_permission_to_config"
 msgid "Also it is recommended to change the access permissions for the config.local.php file. It should have 644 (read/write for the owner and read for others) permissions."
-msgstr "Também é aconselhável alterar as permissões de acesso para o arquivo config.local.php. Ele deve ter permissões de 644 (leitura/gravação para o proprietário e leitura para os outros)."
+msgstr "Também é aconselhável alterar as permissões de acesso para o ficheiro config.local.php. Ele deve ter permissões de 644 (leitura/gravação para o proprietário e leitura para os outros)."
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
@@ -1698,11 +1698,11 @@ msgstr "Alterar idioma"
 
 msgctxt "Languages::change_password_notification"
 msgid "Please change your password"
-msgstr "Por favor, altere a sua palavra passe"
+msgstr "Por favor, altere a sua senha"
 
 msgctxt "Languages::change_password_notification_body"
 msgid "Your password to access the admin panel of the [store] store was last changed [days] days ago. For security reasons, please change your password. In order to do this, please follow the link:"
-msgstr "Sua senha para acessar o painel de administrativo da loja [store] foi alterado pela último vez a [dias] dias atrás. Por razões de segurança, por favor, altere sua senha. Para fazer isso, por favor siga o link:"
+msgstr "A sua senha para aceder ao painel administrativo da [store] foi alterado pela último vez há [dias] dias atrás. Por razões de segurança, consulte o seguinte link para alterar a sua senha."
 
 msgctxt "Languages::change_permissions"
 msgid "Change permissions"
@@ -1710,7 +1710,7 @@ msgstr "Alterar permissões"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "Verificar permissões"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
