@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-20 10:03-0400\n"
+"PO-Revision-Date: 2015-08-31 17:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -13601,6 +13601,10 @@ msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 msgstr "De ZipArchive class werd niet gevonden. Lees meer: https://php.net/manual/en/class.ziparchive.php"
 
+msgctxt "Languages::error_zip_php_extension_not_installed"
+msgid "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
+msgstr "\"Zip\" PHP extensie is niet geïnstalleerd. Er is geen mogelijkheid om zip-bestanden te creëren of uit te pakken."
+
 msgctxt "Languages::make_archive"
 msgid "Make archive"
 msgstr "Archief aanmaken"
@@ -15716,7 +15720,7 @@ msgstr "Naar het bestand <b>[file]</b> schrijven is niet mogelijk. Stel de schri
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Er is van de database en bestanden van de webshop een back-up gemaakt. De back-up omvat de gehele database en alle bestanden met uitzondering van afbeeldingen. De back-up is opgeslagen op de server: [backup_file].</p><p>Voor de upgrade werd de webshop gesloten. Controleer of deze weer werkt en <a href=\"[settings_section]\">open de webshop</a>.</p><p>Ga naar het beheerpaneel, <strong>Administratie → Back-up/Herstel</strong> om de back-up te herstellen, indien er iets mis ging tijdens de upgrade.</p><p>Gebruik deze link om de laatste back-up te herstellen indien het beheerpaneel niet bereikbaar is: [restore_link]. Belangrijk: Het gebruik van deze link start onmiddellijk het herstelproces. Gebruik de link alleen als het beheerpaneel niet bereikbaar is.</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15728,37 +15732,41 @@ msgstr "Bijgewerkt op"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Het is niet mogelijk om een miniatuur-afbeelding te maken van het bestand \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "<a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">Stel uw internet browser in zodat deze cookies accepteert</a> voor een volledige winkelervaring"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Upgrade centrum: Back-up van webwinkel gemaakt en gesloten."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Het product <b>\"[product]\"</b> is niet aan de winkelwagen toegevoegd omdat het er geen prijs aan gekoppeld is."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Leveranciers kunnen geen producteigenschappen toevoegen. Sommige producteigenschappen kunnen niet worden gewijzigd."
 
 msgctxt "Languages::comet_is_dead"
 msgid "Сheck the script timeout settings on your server."
-msgstr "Сheck the script timeout settings on your server."
+msgstr "Controleer de script time-out instellingen op de server."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Er is een fout opgetreden tijdens het upgraden van de database structuur (toepassing migratie [migration])."
 
 msgctxt "Languages::notice_entered_html_was_sanitized"
 msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Deze website heeft beperkingen voor het invoegen van HTML-code. Sommige HTML-codes zoals &lt; object &gt;, &lt; iframe &gt;, &lt; embed &gt; en JavaScript-code zijn eruit gehaald."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Fouten zijn opgetreden tijdens het upgradeproces. Neem contact op met technische ondersteuning om het probleem te onderzoeken."
+
+msgctxt "Languages::error_unable_to_create_backups"
+msgid "Unable to create backups."
+msgstr "Niet mogelijk om back-ups te maken."
 

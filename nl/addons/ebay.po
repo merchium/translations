@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-14 07:03-0400\n"
+"PO-Revision-Date: 2015-08-31 17:02-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -186,11 +186,11 @@ msgstr "eBay"
 
 msgctxt "Languages::wait_for_categories_cached"
 msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
-msgstr "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "Wacht op het cachen van de categorieën, het duurt ongeveer 3 minuten. Daarvoor zullen de tabbladen verzendingen, betalingen en retourbeleid leeg blijven."
 
 msgctxt "Languages::Some_parameters_is_missing"
 msgid "Some parameters is missing. Please check ebay add-on settings"
-msgstr "Some parameters is missing. Please check ebay add-on settings"
+msgstr "Enkele parameters ontbreken. Controleer de instellingen van de ebay plugin"
 
 msgctxt "Languages::ebay_export_error"
 msgid "An error occurred during product export."
@@ -230,7 +230,7 @@ msgstr "Kies de regio van de ebay veiling waarvoor uw site zal werken"
 
 msgctxt "Languages::use_as_default_tooltip"
 msgid "Use this template for products with no template defined"
-msgstr "Gebruik deze sjabloon voor producten zonder sjabloon gedefinieerd"
+msgstr "Gebruik deze sjabloon voor producten waar geen sjabloon is gedefinieerd"
 
 msgctxt "Languages::ebay_root_category_tooltip"
 msgid "The product root category at eBay"
@@ -246,7 +246,7 @@ msgstr "De aanvullende product subcategorie op eBay"
 
 msgctxt "Languages::shipping_type_tooltip"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr "Kies of u de berekende of vaste verzendkosten type wenst te gebruiken. Berekende-verzendkosten worden berekend volgens de klanten ZIP-adres, het gewicht van het pakket, en het type van de transport diensten die u aanbiedt, Vast tarief is een bedrag dat zal worden vastgesteld bij de verzending."
+msgstr "Maak een keuze of berekende verzendkosten of vaste verzendkosten gebruikt worden. Berekende verzendkosten worden berekend op basis van de postcode van de klant, het gewicht van het pakket, en het type transport dat wordt aangeboden. Vast tarief is een vooraf vastgesteld bedrag voor de verzending"
 
 msgctxt "Languages::domestic_shipping_service_tooltip"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
@@ -262,7 +262,7 @@ msgstr "De periode van levering van het product aan een klant (in dagen)"
 
 msgctxt "Languages::ebay_payment_method_tooltip"
 msgid "Payment method(s), available for a template"
-msgstr "Betalings methode(n), beschikbaar voor een sjabloon"
+msgstr "Betalingsmethode(n), beschikbaar voor een sjabloon"
 
 msgctxt "Languages::paypal_email_tooltip"
 msgid "Define login of the PayPal account"
@@ -274,15 +274,15 @@ msgstr "Definieer de aanmelding van de PayPal-rekening"
 
 msgctxt "Languages::free_shipping_tooltip"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr "Kies, als je gratis verzending wil gebruiken op producten in een sjabloon"
+msgstr "Kies deze optie bij voorkeur voor gratis verzending op producten in een sjabloon"
 
 msgctxt "Languages::shipping_cost_tooltip"
 msgid "Fixed shipping price for one item (if shipping type is Flat). The Shipping and handling setting at eBay."
-msgstr "Vaste verzendkosten voor een item (indien de verzendkost vast is). Het verzenden en de behandeling bij eBay."
+msgstr "Vaste verzendkosten voor een item (indien de verzendkosten vast zijn). De verzend- en behandel instellingen op eBay."
 
 msgctxt "Languages::shipping_cost_additional_tooltip"
 msgid "Shipping price for each additional item in an order (the Each additional item setting at eBay)"
-msgstr "Verzendings prijs voor elk extra item in een bestelling (Elk extra item instellen op eBay)"
+msgstr "Verzendkosten voor elk extra item in een bestelling (de Elk extra item instelling op eBay)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Shipping cost additional"
@@ -290,35 +290,35 @@ msgstr "Extra verzendkosten"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
-msgstr "De storefront, waarvoor een sjabloon wordt aangemaakt"
+msgstr "De webwinkel, waarvoor een sjabloon wordt aangemaakt"
 
 msgctxt "Languages::shipping_cost_cannot_be_null"
 msgid "Shipping cost must be non-zero"
-msgstr "Verzendkosten mag niet-nul zijn"
+msgstr "Verzendkosten mogen niet nul zijn"
 
 msgctxt "Languages::ebay_title"
 msgid "eBay product title"
-msgstr "eBay Producttitel"
+msgstr "eBay product titel"
 
 msgctxt "Languages::ebay_title_tooltip"
 msgid "eBay title the title of the product to be used at eBay"
-msgstr "eBay titel de titel van het product dat gebruikt wordt op eBay"
+msgstr "eBay benoem de titel van het product zoals het gebruikt wordt op eBay"
 
 msgctxt "Languages::ebay_description"
 msgid "eBay product description"
-msgstr "eBay productbeschrijving"
+msgstr "eBay productomschrijving"
 
 msgctxt "Languages::ebay_description_tooltip"
 msgid "eBay description the description of the product to be used at eBay"
-msgstr "eBay beschrijving de beschrijving van het product dat gebruikt wordt op eBay"
+msgstr "eBay omschrijving de omschrijving van het product dat gebruikt wordt op eBay"
 
 msgctxt "Languages::override"
 msgid "Override title and description"
-msgstr "Overschrijf titel en beschrijving"
+msgstr "Overschrijf titel en omschrijving"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
-msgstr "Kies, als u wilt dat de oorspronkelijke productnaam en beschrijving worden vervangen door die in de Producttitel van ebay en het ebay product beschrijvingsvelden zijn opgegeven"
+msgstr "Kies, als de originele naam en omschrijving van het product vervangen mogen worden door de opgegeven product titel en omschrijving van ebay"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
@@ -326,23 +326,23 @@ msgstr "Retourbeleid"
 
 msgctxt "Languages::return_policy_tooltip"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr "Kies of terugzendingen zijn toegestaan of niet voor de producten gegroepeerd onder deze sjabloon"
+msgstr "Geef aan of retourzendingen zijn toegestaan voor de producten gegroepeerd onder deze sjabloon"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
-msgstr "Retour aanvaard"
+msgstr "Retour geaccepteerd"
 
 msgctxt "Languages::no_returns_accepted"
 msgid "No returns accepted"
-msgstr "Retour niet aanvaard"
+msgstr "Retour niet geaccepteerd"
 
 msgctxt "Languages::contact_time"
 msgid "After receiving the item, your buyer should contact you within"
-msgstr "Na ontvangst van het item, moet uw koper contact met u opnemen binnen"
+msgstr "Na ontvangst van het item, moet de koper contact opnemen"
 
 msgctxt "Languages::contact_time_tooltip"
 msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr "Kies de periode dat de koper contact met u moet opnemen om de aankoop goed te keuren"
+msgstr "Kies de periode waarin de koper contact moet opnemen om de aankoop goed te keuren"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
@@ -350,7 +350,7 @@ msgstr "Terugbetaling zal worden weergegeven als"
 
 msgctxt "Languages::refund_method_tooltip"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr "Kies de actie die de terugkeer zal vervangen, als het niet is toegestaan"
+msgstr "Kies de actie die de retouraanvraag zal vervangen, als deze niet is toegestaan"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -358,19 +358,19 @@ msgstr "Geld terug"
 
 msgctxt "Languages::money_back_or_replace"
 msgid "Money back or replacement (buyer's choice)"
-msgstr "Geld terug of vervanging (Keuze van koper)"
+msgstr "Geld terug of product vervangen (keuze van de koper)"
 
 msgctxt "Languages::money_back_or_exchange"
 msgid "Money back or exchange (buyer's choice)"
-msgstr "Geld terug of ruilen (Keuze van koper)"
+msgstr "Geld terug of ruilen (keuze van de koper)"
 
 msgctxt "Languages::cost_paid_by"
 msgid "Return shipping will be paid by"
-msgstr "Retourzending worden betaald door"
+msgstr "Retourzending word betaald door"
 
 msgctxt "Languages::cost_paid_by_tooltip"
 msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr "Kies, wie moet betalen voor de verzendkosten van de terugzending - de verkoper of de koper"
+msgstr "Kies of de verkoper of de koper de verzendkosten van de retourzending moet betalen"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -382,11 +382,11 @@ msgstr "Koper"
 
 msgctxt "Languages::return_policy_descr"
 msgid "Policy description"
-msgstr "Beleidsbeschrijving"
+msgstr "Beleidsomschrijving"
 
 msgctxt "Languages::return_policy_descr_tooltip"
 msgid "Write the detailed description of your return policy here"
-msgstr "Schrijf een gedetailleerde beschrijving van uw retourbeleid"
+msgstr "Schrijf een gedetailleerde omschrijving van het retourbeleid"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -398,11 +398,11 @@ msgstr "Groot pakket"
 
 msgctxt "Languages::package_type_tooltip"
 msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
-msgstr "Als u niet weet wat uw type verpakking is, selecteert u de optie \"Groot pakket\". Om de meest accurate kostprijs te garanderen, zal u gevraagd worden om exacte afmetingen van het pakket in te voeren."
+msgstr "Indien het type verpakking niet bekend is, selecteer de optie \"Groot pakket\". Om de meest accurate kostprijs te garanderen wordt gevraagd om exacte afmetingen van het pakket in te voeren."
 
 msgctxt "Languages::product_out_of_weight"
 msgid "Products with the [ids] id were not exported because their weight equals zero."
-msgstr "Producten met de [ids] id zijn niet uitgevoerd omdat hun gewicht gelijk is aan nul."
+msgstr "Producten met de [ids] id zijn niet geëxporteerd omdat hun gewicht gelijk is aan nul."
 
 msgctxt "Languages::exported_to_ebay"
 msgid "Exported to eBay"
@@ -414,7 +414,7 @@ msgstr "Herzien na de laatste export"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting images to Ebay"
-msgstr "Afbeeldingen exporteren naar Ebay"
+msgstr "Afbeeldingen naar Ebay exporteren"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -422,27 +422,27 @@ msgstr "Pakket/dikke envelop"
 
 msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
-msgstr "U hebt geen rechten voor het verwijderen van sommige sjablonen, deze behoren tot een andere eigenaar."
+msgstr "Geen rechten voor het verwijderen van sommige sjablonen, deze behoren tot een andere eigenaar."
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"Ebay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "Het huidige licentie nummer is ongeldig. De 'Ebay' add-on is uitgeschakeld. Om opnieuw te activeren, controleer de de add-on licentienummer."
+msgstr "Het huidige licentie nummer is ongeldig. De 'Ebay' plug-in is uitgeschakeld. Om opnieuw te activeren, controleer het licentienummer van de plug-in."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
-msgstr "Add-on activeren"
+msgstr "Plug-in activeren"
 
 msgctxt "Languages::ebay_commercial_using_text"
 msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "U heeft een commerciële plug-in geïnstalleerd. Vul een licentienummer in bij de instellingen van de plug-in om deze te activeren."
+msgstr "Er is een commerciële plug-in geïnstalleerd. Vul een licentienummer in bij de instellingen van de plug-in om deze te activeren."
 
 msgctxt "Languages::ebay_empty_license_number"
 msgid "The add-on license number is empty."
-msgstr "De add-on licentienummer is leeg."
+msgstr "Het licentienummer van de plug-in is leeg."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "Ebay templates not found"
-msgstr "EBay-sjablonen niet gevonden"
+msgstr "Ebay-sjablonen niet gevonden"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
@@ -470,7 +470,7 @@ msgstr "eBay CertID"
 
 msgctxt "SettingsOptions::ebay::token"
 msgid "eBay User Token"
-msgstr "eBay User Token"
+msgstr "eBay Gebruikers Code"
 
 msgctxt "SettingsOptions::ebay::listing_mode"
 msgid "Sandbox / Production"

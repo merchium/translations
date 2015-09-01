@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-27 18:02-0400\n"
+"PO-Revision-Date: 2015-08-28 11:03-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -13600,6 +13600,10 @@ msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 msgstr "A classe ZipArchive não foi encontrada. Leia mais: <a href=\"https://php.net/manual/en/class.ziparchive.php\"> https://php.net/manual/en/class.ziparchive.php</a>"
 
+msgctxt "Languages::error_zip_php_extension_not_installed"
+msgid "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
+msgstr "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
+
 msgctxt "Languages::make_archive"
 msgid "Make archive"
 msgstr "Compactar arquivo"
@@ -15760,4 +15764,8 @@ msgstr "This website has restrictions on inserting HTML code. Some HTML tags lik
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+
+msgctxt "Languages::error_unable_to_create_backups"
+msgid "Unable to create backups."
+msgstr "Unable to create backups."
 

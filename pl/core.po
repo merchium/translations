@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-25 08:02-0400\n"
+"PO-Revision-Date: 2015-08-30 09:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7830,7 +7830,7 @@ msgstr "Przebuduj cache automatycznie"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci podręcznej. Wydajność sklepu mogą być lekko obniżona. Zalecane jest wyłączenie opcji w sklepie produkcyjnym."
+msgstr "Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci podręcznej. Wydajność sklepu może być lekko obniżona. Zalecane jest wyłączenie opcji w sklepie produkcyjnym."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -13031,7 +13031,7 @@ msgstr "Warunek \"[condition]\" może być użyty w grupach tylko z warunkami \"
 
 msgctxt "Languages::warning_store_optimization_dev"
 msgid "Auto cache update enabled.<br /><br />Modified files are tracked in real time (including the files modified directly on server) and re-cached.<br /><br />Store performance may be slightly affected. Recommended to disable on production in the <a href=\"[link]\">Themes</a>."
-msgstr "Automatyczna aktualizacja plików cache została włączona.<br /><br />Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci cache.<br /><br />Wydajność sklepu może być lekko ograniczona. Zalecamy wyłącznie tej opcji w sklepie produkcyjnym <a href=\"[link]\">Edytor tematów graficznych</a>."
+msgstr "Automatyczna aktualizacja plików cache została włączona.<br /><br />Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci cache.<br /><br />Wydajność sklepu może być lekko obniżona. Zalecamy wyłącznie tej opcji w sklepie produkcyjnym <a href=\"[link]\">Edytor tematów graficznych</a>."
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
@@ -13351,7 +13351,7 @@ msgstr "Prześlij i zainstaluj dodatek"
 
 msgctxt "Languages::upload_theme"
 msgid "Upload theme"
-msgstr "Prześlij układ graficzny"
+msgstr "Prześlij temat graficzny"
 
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
@@ -13600,6 +13600,10 @@ msgstr "Klasy PharData nie znaleziono. Więcej informacji: <a href=\"https://php
 msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 msgstr "Nie można odnaleźć klasy ZipArchive. Czytaj więcej: <a href=\"https://php.net/manual/en/class.ziparchive.php\"> https://php.net/manual/en/class.ziparchive.php</a>"
+
+msgctxt "Languages::error_zip_php_extension_not_installed"
+msgid "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
+msgstr "Rozszerzenie PHP \"Zip\" nie jest zainstalowane. Nie ma możliwości tworzenia lub rozpakowywania archiwów ZIP."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -14515,7 +14519,7 @@ msgstr "Gdy klient kliknie na w przycisk/link ZAMAWIAM w sklepie"
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci cache. Wydajność sklepu może być lekko ograniczona. Zalecamy wyłącznie tej opcji w sklepie produkcyjnym."
+msgstr "Zmodyfikowane pliki są śledzone w czasie rzeczywistym (w tym pliki zmodyfikowane bezpośrednio na serwerze) i ponownie ładowane do pamięci cache. Wydajność sklepu może być lekko obniżona. Zalecamy wyłącznie tej opcji w sklepie produkcyjnym."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
@@ -15761,4 +15765,8 @@ msgstr "Ta strona internetowa ma ograniczenia na wstawianie kodu HTML. Kilka tag
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
 msgstr "Wystąpiły błędy podczas procesu aktualizacji. Skontaktuj się z pomocą techniczną w celu zbadania problemu."
+
+msgctxt "Languages::error_unable_to_create_backups"
+msgid "Unable to create backups."
+msgstr "Nie można tworzyć kopii zapasowych."
 
