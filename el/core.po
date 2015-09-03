@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-28 11:02-0400\n"
+"PO-Revision-Date: 2015-09-03 11:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -12544,10 +12544,6 @@ msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
 msgstr "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> store modes.<br /><br />The store mode can be changed under Settings ? <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Store mode</a>."
 
-msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
-msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Δεν είναι δυνατή η προετοιμασία του αρχείου restore.php. Το αρχείο \"var/upgrade/restore.php\" έχει τοπικά τροποποιηθεί/μετονομαστεί/απομακρυνθεί. Επαναφέρετε το αρχικό αρχείο restore.php πριν από την αναβάθμιση."
-
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
 msgstr "Θα πρέπει να αναβαθμίσετε τον Flash Player"
@@ -12555,6 +12551,42 @@ msgstr "Θα πρέπει να αναβαθμίσετε τον Flash Player"
 msgctxt "Languages::upgrade_is_not_avail"
 msgid "<p class=\"text-error\">This upgrade is not available for your [product] license. Please contact our <a href=\"[href]\">support team</a> to update your license status.</p>"
 msgstr "<p class=\"text-error\">Η αναβάθμιση αυτή δεν είναι διαθέσιμη για την CS-Cart άδειά σας. Παρακαλώ επικοινωνήστε <a href=\"[url]\">με την ομάδα υποστήριξης της CS-Cart για να ενημερώσετε την κατάσταση της άδειας σας </a>.</p>"
+
+msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
+msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+
+msgctxt "Languages::upgrade_center.warning_msg_specialists"
+msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+
+msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
+msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+
+msgctxt "Languages::upgrade_center.warning_msg_test_local"
+msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+
+msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
+msgid "After the upgrade, check the basic functionality of your store."
+msgstr "After the upgrade, check the basic functionality of your store."
+
+msgctxt "Languages::upgrade_center.warning_msg_generally"
+msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+
+msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
+msgid "We DO NOT recommend to start the upgrade on your server."
+msgstr "We DO NOT recommend to start the upgrade on your server."
+
+msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
+msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+
+msgctxt "Languages::upgrade_center.warning_msg_executed_php"
+msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13601,8 +13633,8 @@ msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manu
 msgstr "Η κλάση ZipArchive δεν βρέθηκε. Διαβάστε περισσότερα: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
-msgid "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
+msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -15749,10 +15781,6 @@ msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
 msgstr "Οι Πωλητές δεν μπορούν να δημιουργήσουν χαρακτηριστικά του προϊόντος και παραλλαγές αυτών. Μερικά χαρακτηριστικά του προϊόντος δεν μπορούν να τροποποιηθούν."
 
-msgctxt "Languages::comet_is_dead"
-msgid "Сheck the script timeout settings on your server."
-msgstr "Ελεγξτε τις ρυθμίσεις χρονικού ορίου (script timeout) στο διακομιστή σας."
-
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αναβάθμιση της δομής της βάσης δεδομένων (εφαρμογή μεταφορας [migration])."
@@ -15768,4 +15796,24 @@ msgstr "Παρουσιάστηκαν σφάλματα κατά τη διαδικ
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
 msgstr "Unable to create backups."
+
+msgctxt "Languages::seconds_left"
+msgid "[n] second left|[n] seconds left"
+msgstr "[n] second left|[n] seconds left"
+
+msgctxt "Languages::text_uc_timeout_check_success"
+msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+
+msgctxt "Languages::check_php_timeout"
+msgid "Check PHP script timeout"
+msgstr "Check PHP script timeout"
+
+msgctxt "Languages::i_agree_continue"
+msgid "I agree and continue"
+msgstr "I agree and continue"
+
+msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
+msgid "Unable to prepare restore script."
+msgstr "Unable to prepare restore script."
 

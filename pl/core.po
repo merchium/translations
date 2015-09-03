@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-30 09:02-0400\n"
+"PO-Revision-Date: 2015-09-03 12:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4266,7 +4266,7 @@ msgstr "Pełny"
 
 msgctxt "Languages::fullauth"
 msgid "Fullauth"
-msgstr "Fullauth"
+msgstr "Pełna autoryzacja"
 
 msgctxt "Languages::full_description"
 msgid "Full description"
@@ -4682,7 +4682,7 @@ msgstr "Instaluj"
 
 msgctxt "Languages::installation_id"
 msgid "Installation ID"
-msgstr "ID instalacji"
+msgstr "ID"
 
 msgctxt "Languages::installed"
 msgid "Installed"
@@ -6682,7 +6682,7 @@ msgstr "Metody płatności"
 
 msgctxt "Languages::payment_response_password"
 msgid "Payment Response password"
-msgstr "Hasło odpowiedzi z płatności"
+msgstr "Hasło do systemu płatności"
 
 msgctxt "Languages::payment_surcharge"
 msgid "Payment surcharge"
@@ -6866,11 +6866,11 @@ msgstr "Numer zamówienia"
 
 msgctxt "Languages::preauth"
 msgid "Preauth"
-msgstr "Autoryzacja wstępna"
+msgstr "Autoryzacja podstawowa"
 
 msgctxt "Languages::preauthorization"
 msgid "Preauthorization"
-msgstr "Autoryzacja wstępna"
+msgstr "Autoryzacja podstawowa"
 
 msgctxt "Languages::prefix"
 msgid "Prefix"
@@ -12545,10 +12545,6 @@ msgctxt "Languages::upgrade_center.upgrades_are_not_available_in_trial"
 msgid "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> licensing modes.<br /><br />The licensing mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a>."
 msgstr "Upgrades are available only in <strong>Full</strong> and <strong>Free</strong> store modes.<br /><br />The store mode can be changed under Settings → <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Store mode</a>."
 
-msgctxt "Languages::upgrade_center.unable_to_prepare_restore"
-msgid "Unable to prepare restore.php file. File \"var/upgrade/restore.php\" was locally modified/renamed/removed. Restore the original restore.php file before the upgrade."
-msgstr "Nie jest możliwe przygotowanie pliku restore.php. Plik \"var/upgrade/restore.php\" był lokalnie zmodyfikowany, zmieniono mu nazwę lub został usunięty. Proszę przywrócić oryginalny plik restore.php przed uaktualnieniem."
-
 msgctxt "Languages::upgrade_flash_player"
 msgid "You need to upgrade your Flash Player"
 msgstr "Musisz zaktualizować Flash Player"
@@ -12556,6 +12552,42 @@ msgstr "Musisz zaktualizować Flash Player"
 msgctxt "Languages::upgrade_is_not_avail"
 msgid "<p class=\"text-error\">This upgrade is not available for your [product] license. Please contact our <a href=\"[href]\">support team</a> to update your license status.</p>"
 msgstr "Ta aktualizacja nie jest dostępna dla twojej licencji CS-CART.Proszę skontaktuj się z <a href=\"[url]\">CS-Cart support</a> w celu aktualizacji statusu licencji."
+
+msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
+msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+
+msgctxt "Languages::upgrade_center.warning_msg_specialists"
+msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+
+msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
+msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "Uaktualnienie nie aktualizuje dodatków innych firm. Dlatego zaleca się, aby wyłączyć wszystkie dodatki innych firm przed uaktualnieniem sklepu."
+
+msgctxt "Languages::upgrade_center.warning_msg_test_local"
+msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+
+msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
+msgid "After the upgrade, check the basic functionality of your store."
+msgstr "Po aktualizacji należy sprawdzić podstawowe funkcjonalności sklepu."
+
+msgctxt "Languages::upgrade_center.warning_msg_generally"
+msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Proces aktualizacji nie powiódł się ponieważ wykonywanie skryptu PHP zostało zakończone z powodu konfiguracji serwera. Proszę sprawdzić ustawienia limitu czasu wykonywania skryptu PHP na serwerze"
+
+msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
+msgid "We DO NOT recommend to start the upgrade on your server."
+msgstr "Nie polecamy rozpoczynania aktualizacji na serwerze."
+
+msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
+msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+
+msgctxt "Languages::upgrade_center.warning_msg_executed_php"
+msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13602,8 +13634,8 @@ msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manu
 msgstr "Nie można odnaleźć klasy ZipArchive. Czytaj więcej: <a href=\"https://php.net/manual/en/class.ziparchive.php\"> https://php.net/manual/en/class.ziparchive.php</a>"
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
-msgid "\"Zip\" PHP extension is not installed. There is no ability to create or extract ZIP-archives."
-msgstr "Rozszerzenie PHP \"Zip\" nie jest zainstalowane. Nie ma możliwości tworzenia lub rozpakowywania archiwów ZIP."
+msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "Rozszerzenie \"Zip\" do PHP nie jest zainstalowane. Proszę zainstalować rozszerzenie \"Zip\" do PHP aby móc tworzyć i rozpakowywać archiwa ZIP."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13755,7 +13787,7 @@ msgstr "Numer licencji"
 
 msgctxt "SettingsOptions::alternative_currency"
 msgid "Alternative currency display format"
-msgstr "Wyświetl format alternatywnej waluty"
+msgstr "Format wyświetlania alternatywnej waluty"
 
 msgctxt "SettingsOptions::company_address"
 msgid "Company address"
@@ -13827,7 +13859,7 @@ msgstr "Miasto"
 
 msgctxt "SettingsOptions::admin_orders_per_page"
 msgid "Orders per page"
-msgstr "Ilość zamówień na stronie"
+msgstr "Zamówień na stronie"
 
 msgctxt "SettingsOptions::day"
 msgid "Day"
@@ -13867,7 +13899,7 @@ msgstr "Symbol wagi"
 
 msgctxt "SettingsOptions::admin_products_per_page"
 msgid "Products per page"
-msgstr "Ilość produktów na stronie"
+msgstr "Produktów na stronie"
 
 msgctxt "SettingsOptions::company_country"
 msgid "Company country"
@@ -13939,7 +13971,7 @@ msgstr "Kod pocztowy firmy"
 
 msgctxt "SettingsOptions::admin_pages_per_page"
 msgid "CMS pages per page"
-msgstr "Ilość stron CMS"
+msgstr "Stron CMS na stronie"
 
 msgctxt "SettingsOptions::year"
 msgid "Year"
@@ -13975,7 +14007,7 @@ msgstr "Początkowy numer zamówienia"
 
 msgctxt "SettingsOptions::use_shipments"
 msgid "Allow multiple shipments for a single order"
-msgstr "Pozwól tworzyć sposoby wysyłki"
+msgstr "Zezwól na tworzenie wysyłek"
 
 msgctxt "SettingsOptions::uk_cookies_law"
 msgid "Notify visitors about cookies use"
@@ -13999,7 +14031,7 @@ msgstr "Katalog"
 
 msgctxt "SettingsOptions::admin_elements_per_page"
 msgid "Elements per page"
-msgstr "Liczba elementów na stonie"
+msgstr "Elementów na stronie"
 
 msgctxt "SettingsOptions::company_phone"
 msgid "Company phone"
@@ -14007,7 +14039,7 @@ msgstr "Telefon"
 
 msgctxt "SettingsOptions::default_wysiwyg_editor"
 msgid "Default wysiwyg editor"
-msgstr "Domyślny edytor WYSWIG"
+msgstr "Domyślny edytor WYSIWYG"
 
 msgctxt "SettingsOptions::mailer_smtp_auth"
 msgid "Use SMTP authentication"
@@ -14019,7 +14051,7 @@ msgstr "Typ ciągu znaków"
 
 msgctxt "SettingsOptions::header_7003"
 msgid "Default location"
-msgstr "Domyślna lokalizacja"
+msgstr "Domyślna lokacja"
 
 msgctxt "SettingsOptions::char_shadow"
 msgid "Character shadows"
@@ -14059,7 +14091,7 @@ msgstr "Fax"
 
 msgctxt "SettingsOptions::frontend_default_language"
 msgid "Frontend default language"
-msgstr "Domyślny jęzki sklepu"
+msgstr "Domyślny język sklepu"
 
 msgctxt "SettingsOptions::convert_to"
 msgid "Thumbnail format"
@@ -14091,7 +14123,7 @@ msgstr "Strona internetowa firmy"
 
 msgctxt "SettingsOptions::orders_per_page"
 msgid "Orders per page"
-msgstr "Zamówień na stronę"
+msgstr "Zamówień na stronie"
 
 msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
@@ -14107,7 +14139,7 @@ msgstr "Domyślny kraj"
 
 msgctxt "SettingsOptions::products_per_page"
 msgid "Products per page"
-msgstr "Ilość produktów na stronie"
+msgstr "Produktów na stronie"
 
 msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
@@ -14155,7 +14187,7 @@ msgstr "Adres e-mail do biura pomocy użytkownikom"
 
 msgctxt "SettingsOptions::elements_per_page"
 msgid "Elements per page"
-msgstr "Ilość elementów na stronie"
+msgstr "Elementów na stronie"
 
 msgctxt "SettingsOptions::inventory_tracking"
 msgid "Enable inventory tracking"
@@ -14215,7 +14247,7 @@ msgstr "Wysokość miniaturki na stronie koszyka"
 
 msgctxt "SettingsOptions::show_out_of_stock_products"
 msgid "Show out of stock products"
-msgstr "Pokaż produkty, których nie ma w magazynie"
+msgstr "Wyświetl produkty z zerowym stanem magazynowym"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_width"
 msgid "Categories list thumbnail width"
@@ -14275,7 +14307,7 @@ msgstr "Ustawienia szablonu listy produktów"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Widok listy dostępnych produktów"
+msgstr "Dostępne widoki listy produktów"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
@@ -14483,7 +14515,7 @@ msgstr "Jeśli ukryte, pierwsza aktywna metoda zostanie użyta."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Umożliwia sprzedaż produktów do pobrania"
+msgstr "Zezwól na sprzedaż produktów do pobrania"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -14527,7 +14559,7 @@ msgstr "Jeśli wyłączysz to pole wyboru, opis pozycji menu zostanie ukryty"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Wymagają jedynie informacje kontaktowe podczas rejestracji"
+msgstr "Wymagane są jedynie informacje kontaktowe podczas rejestracji"
 
 msgctxt "SettingsVariants::default_products_sorting::position"
 msgid "Default"
@@ -15191,7 +15223,7 @@ msgstr "(GMT+13:00) Nuku'alofa"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
-msgstr "Wymagają jedynie informacje kontaktowe podczas rejestracji"
+msgstr "Wymagane są jedynie informacje kontaktowe podczas rejestracji"
 
 msgctxt "Languages::views"
 msgid "Views"
@@ -15750,10 +15782,6 @@ msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
 msgstr "Sprzedawcy nie mogą tworzyć cech produktów i ich wariantów. Niektóre cechy produktu nie może być modyfikowane."
 
-msgctxt "Languages::comet_is_dead"
-msgid "Сheck the script timeout settings on your server."
-msgstr "Sprawdź ustawienia limitu czasu wykonywania skryptu na serwerze."
-
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "Wystąpił błąd podczas uaktualniania struktury bazy danych (podczas migracji [migration])."
@@ -15769,4 +15797,24 @@ msgstr "Wystąpiły błędy podczas procesu aktualizacji. Skontaktuj się z pomo
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
 msgstr "Nie można tworzyć kopii zapasowych."
+
+msgctxt "Languages::seconds_left"
+msgid "[n] second left|[n] seconds left"
+msgstr "[n] pozostało sekund|[n] pozostało sekund"
+
+msgctxt "Languages::text_uc_timeout_check_success"
+msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+
+msgctxt "Languages::check_php_timeout"
+msgid "Check PHP script timeout"
+msgstr "Sprawdź limit czasu wykonywania skryptu PHP"
+
+msgctxt "Languages::i_agree_continue"
+msgid "I agree and continue"
+msgstr "Zgadzam się i dalej"
+
+msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
+msgid "Unable to prepare restore script."
+msgstr "Nie jest możliwe przygotowanie skryptu przywracania."
 

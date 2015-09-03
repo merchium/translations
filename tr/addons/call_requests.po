@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-08-03 11:03-0400\n"
+"PO-Revision-Date: 2015-09-02 08:02-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -175,4 +175,8 @@ msgstr "Uygun arama zamanı [time_from] ile [time_to] arasında."
 msgctxt "Languages::call_requests.text_buy_with_one_click_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
 msgstr "Müşteri [customer] [phone_number] telefonunda <a href=\"[product_href]\">[product_name]</a> ürünü ile ilgili <a href=\"[href]\">sizden çağrı bekliyor</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "The phone number in the <b>[field]</b> field is invalid."
 
