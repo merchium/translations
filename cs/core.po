@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-03 11:01-0400\n"
+"PO-Revision-Date: 2015-09-08 04:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -12558,8 +12558,8 @@ msgid "The upgrade is a complicated process. It can be failed due to reasons tha
 msgstr "Upgrade je komplikovaný proces. Nebylo možné z důvodů, které jsou mimo naši kontrolu.<br>Chcete-li upgrade vašeho obchodu bezpečnější, připravili jsme pro vás tipy:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
-msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
@@ -12567,27 +12567,27 @@ msgstr "Upgrade neaktualizuje všechny doplňky třetích stran. To je důvod, p
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Upgrade zkušební kopii vašeho obchodu jako první, aby se ujistil, že upgrade půjde hladce."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "Po upgradu zkontrolujte základní funkčnost vašeho obchodu."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Obecně platí, že upgrade se nezdaří, protože spuštění PHP skriptu je ukončeno z důvodu konfigurace serveru. Je nezbytné zkontrolovat nastavení časového limitu PHP skriptu na vašem serveru"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "Nedoporučujeme spustit upgrade na vašem serveru."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Váš server má špatný PHP nastavení časového limitu skriptu. To by mohlo být z důvodu omezení PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> funkce nebo FastCGI možnosti \"timeout\". Doporučujeme vám kontaktovat svého poskytovatele hostingu za účelem vyřešení tohoto problému nebo se obraťte na naši technickou tým podpory upgrade provést za vás."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">Začali jsme fiktivní PHP skriptu. To bude pracovat v průběhu 6 minut. Jakmile je kontrola dokončena, řekneme vám, pokud timeouty PHP skriptu lze nastavit správně. Pokud ano, pak máte dobré jít s upgradem. Prosím, vyčkejte, dokud není kontrola dokončena, aby jste se ujistili, že váš server má správnou konfiguraci časového limitu PHP.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -15816,5 +15816,5 @@ msgstr "Souhlasím a pokračovat"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Nepodařilo se připravit obnovit skript."
 

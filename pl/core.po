@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-03 12:01-0400\n"
+"PO-Revision-Date: 2015-09-09 03:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1910,7 +1910,7 @@ msgstr "Usuń wygenerowane miniaturki"
 
 msgctxt "Languages::clicks"
 msgid "Clicks"
-msgstr "Kliknij"
+msgstr "Kliknięcia"
 
 msgctxt "Languages::client_id"
 msgid "Client ID"
@@ -12555,11 +12555,11 @@ msgstr "Ta aktualizacja nie jest dostępna dla twojej licencji CS-CART.Proszę s
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "Uaktualnienie programu jest to skomplikowany proces. Może się on zakończyć błędem z przyczyn leżących poza programem. <br>Do przeprowadzenia bezpiecznej aktualizacji sklepu, zostały przygotowane porady dla Ciebie:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
-msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
@@ -13843,7 +13843,7 @@ msgstr "Format przedziału czasu"
 
 msgctxt "SettingsOptions::share_users"
 msgid "Share users among stores"
-msgstr "Współdziel użytkowników pomiędzy sklepami:"
+msgstr "Współdziel użytkowników pomiędzy sklepami"
 
 msgctxt "SettingsOptions::log_type_general"
 msgid "General"
@@ -14183,7 +14183,7 @@ msgstr "Katalog"
 
 msgctxt "SettingsOptions::company_support_department"
 msgid "Help/Support department e-mail address"
-msgstr "Adres e-mail do biura pomocy użytkownikom"
+msgstr "Adres e-mail działu wsparcia"
 
 msgctxt "SettingsOptions::elements_per_page"
 msgid "Elements per page"
@@ -14223,7 +14223,7 @@ msgstr "Ostrzeżenie o niskim stanie magazynu"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
-msgstr "Liczba kolumn na liście produktów"
+msgstr "Kolumn na liście produktów"
 
 msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
@@ -14259,19 +14259,19 @@ msgstr "Szacuj podatki używając domyślnego adresu w koszyku/stronie potwierdz
 
 msgctxt "SettingsOptions::show_prices_taxed_clean"
 msgid "Display prices with taxes on category/product pages if the method of calculating taxes is based on a unit's price"
-msgstr "Wyświetl cenę z podatkami na stronie kategorii/produktu"
+msgstr "Wyświetlaj cenę z podatkami na stronie kategorii/produktu jeżeli metoda obliczania podatków oparta jest na cenie jednostkowej"
 
 msgctxt "SettingsOptions::cart_prices_w_taxes"
 msgid "Display prices with taxes on cart/checkout pages if the method of calculating taxes is based on a unit's price"
-msgstr "Wyświetl cenę z podatkami w koszyku/na stronie potwierdzenia"
+msgstr "Wyświetlaj ceny z podatkami w koszyku i na stronie finalizacji zamówienia jeżeli metoda obliczania podatków oparta jest na cenie jednostkowej"
 
 msgctxt "SettingsOptions::in_stock_field"
 msgid "Show number of available products"
-msgstr "Wyświetl w magazynie jako pole"
+msgstr "Wyświetlaj liczbę dostępnych produktów"
 
 msgctxt "SettingsOptions::thumbnails_gallery"
 msgid "Display mini thumbnail images as a gallery"
-msgstr "Wyświetl miniaturki zdjęć jako galerię"
+msgstr "Wyświetlaj miniatury zdjęć jako galerię"
 
 msgctxt "SettingsOptions::quantity_changer"
 msgid "Use 'Value changer' for the Quantity field"
@@ -14279,7 +14279,7 @@ msgstr "Użyj \"Zmieniacza wartości\" dla pola Ilość"
 
 msgctxt "SettingsOptions::top_pagination"
 msgid "Display the 'Pagination section' on the top of the listed object"
-msgstr "Wyświetlaj element wyboru strony nad wybranym obiektem"
+msgstr "Wyświetlaj “Sekcję paginacji” w nagłówku wybranego obiektu"
 
 msgctxt "SettingsOptions::default_image_previewer"
 msgid "Default image previewer"
@@ -14291,7 +14291,7 @@ msgstr "Wysokość miniaturki na liście kategorii"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Widok szczegółowy karty produktu"
+msgstr "Szablon karty produktu"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
@@ -14299,7 +14299,7 @@ msgstr "Wyświetlaj szczegółowe informacje o produkcie w zakładkach"
 
 msgctxt "SettingsOptions::display_track_orders"
 msgid "Display track my orders section"
-msgstr "Pokaż okno śledzenia transakcji"
+msgstr "Wyświetlaj okno śledzenia transakcji"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
@@ -14307,15 +14307,15 @@ msgstr "Ustawienia szablonu listy produktów"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Dostępne widoki listy produktów"
+msgstr "Dostępne szablony listy produktów"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Domyślny widok listy produktów"
+msgstr "Domyślny szablon listy produktów"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Użyj wybranego wyglądu dla bieżącej kategorii lub tylko na stronie wyszukiwania"
+msgstr "Stosuj szablon tylko dla aktualnej kategorii lub strony wyszukiwania"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
@@ -14415,11 +14415,11 @@ msgstr "Administrator musi aktywować konta użytkowników"
 
 msgctxt "SettingsOptions::address_position"
 msgid "Profile address section order"
-msgstr "Kolejność adresów na stronie finalizacji"
+msgstr "Kolejność adresów"
 
 msgctxt "SettingsOptions::changes_warning"
 msgid "Unsaved changes warning"
-msgstr "Ostrzeżenie przed niezapisanymi zmianami"
+msgstr "Ostrzeżenie o niezapisanych zmianach"
 
 msgctxt "SettingsOptions::show_menu_descriptions"
 msgid "Show menu description"
@@ -14427,7 +14427,7 @@ msgstr "Pokaż opis menu"
 
 msgctxt "SettingsOptions::notice_displaying_time"
 msgid "Notice displaying time (to turn off the autohide function enter 0)"
-msgstr "Czas wyświetlania ostrzeżeń (jeśli chcesz wyłączyć funkcję autoukrywania wpisz 0)"
+msgstr "Czas wyświetlania powiadomień (jeśli chcesz wyłączyć funkcję autoukrywania wpisz 0)"
 
 msgctxt "SettingsOptions::quick_registration"
 msgid "Quick registration"
@@ -14447,7 +14447,7 @@ msgstr "Wyliczenie kosztów wysyłki na stronie koszyka"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Pozwól gościom na stworzenie konta po skutecznym dokonaniu zamówienia"
+msgstr "Zaoferuj klientom założenie konta po złożeniu zamówienia"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -15804,7 +15804,7 @@ msgstr "[n] pozostało sekund|[n] pozostało sekund"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Wygląda na to, że serwer pozwala zmienić opcję \"max_execution_time\". Można rozpocząć proces aktualizacji."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"

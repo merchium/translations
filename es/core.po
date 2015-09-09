@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-03 18:01-0400\n"
+"PO-Revision-Date: 2015-09-08 05:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3842,7 +3842,7 @@ msgstr "CVV/CVC demasiado corto."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "Está prohibido cambiar la dirección de correo o la contraseña del administrador del sistema en el área de cliente. Por favor, inicie la sesión utilizando una cuenta de usuario."
+msgstr "Está prohibido cambiar la dirección de correo o la contraseña del administrador en el área de cliente. Por favor, inicia la sesión utilizando una cuenta de usuario."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10173,7 +10173,7 @@ msgstr "Las siguientes extensiones de archivo son compatibles: <b>[ext]</b>."
 
 msgctxt "Languages::text_amazon_callback_url"
 msgid "Important! You must specify your store's URL <b>[callback_url]</b> as the Merchant URL on the Amazon's Seller Central Website (Settings > Checkout Pipeline Settings). Otherwise, you won't be able to accept payments through Amazon Checkout in your store"
-msgstr "Importante! Debe especificar la dirección URL de su tienda <b>[callback_url]</b> como la dirección URL Mercante en vendedor de la Amazon Central Web (Configuración> Configuración de conducto de Pedido). De lo contrario, usted no será capaz de aceptar pagos a través de Amazon Checkout en su tienda"
+msgstr "Importante! Debes especificar la URL de callback <b>[callback_url]</b> como la dirección URL del vendedor en la Central del Vendedor de Amazon (Configuración> Configuración de conducto de Pedido). De lo contrario, usted no podrás aceptar pagos a través de Amazon Checkout en tu tienda"
 
 msgctxt "Languages::text_amazon_failed_order"
 msgid "No response from Amazon Checkout has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Amazon Checkout. Please contact the store staff and tell them the order ID as provided by Amazon"
@@ -12557,39 +12557,39 @@ msgstr "<p class=\"text-error\">Esta actualización no está disponible para tu 
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "La actualización es un proceso complicado. Puede fallar por razones fuera de nuestro control.<br>Para facilitar una actualización más segura de tu tienda, hemos preparado estos consejos para tí:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
-msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a>) to upgrade your store for you."
+msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Si no estás familiarizado con los aspectos técnicos de CS-Cart y el proceso de actualización, te recomendamos encarecidamente <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> contactes un especialista</a> o <a href=\"[upgrade_center_team]\" target=\"_blank\"> pidas ayuda a nuestro equipo de soporte</a> para actualizar la tienda para usted."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "La actualización no actualiza los complementos de terceros. Por esta razón recomendamos desactivar todos los complementos de terceros antes de la actualización."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Actualizar primero la copia de test de tu tienda para asegurar que la actualización se realiza sin problemas."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "Después de la actualización, Comprueba la funcionalidad básica de tu tienda."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "En general, la actualización falla porque termina la ejecución del script PHP debido a la configuración del servidor. Es esencial comprobar la configuración de tiempo de espera (timeout) de los scripts PHP del servidor"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "NO recomendamos iniciar la actualización en el servidor."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Tu servidor tiene mal configurado el tiempo de espera de script PHP. Esto puede ser debido a restricciones en la función <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> PHP o las opciones de \"Timeout\" de FastCGI. Te recomendamos contactar con tu proveedor de hosting con el fin de resolver este problema o contactar con nuestro equipo de soporte técnico para realizar la actualización para ti."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\"> hemos iniciado un script PHP banal que se ejecutará durante 6 minutos. Una vez terminada esta comprobación, te diremos si los tiempos de espera de los scripts PHP se pueden configurar correctamente. En caso afirmativo, se puede proseguir con la actualización. Por favor, espera que termine la comprobación para asegurar que el servidor tiene correcta la configuración de timeout PHP.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13637,7 +13637,7 @@ msgstr "No se encuentra la clase ZipArchive. Más información en: <a href=\"htt
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "La extensión \"Zip\" de PHP no está instalada. Por favor, instale la extensión \"Zip\" de PHP para crear y extraer archivos Zip."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13661,7 +13661,7 @@ msgstr "SEO"
 
 msgctxt "Languages::text_magnific"
 msgid "MagnificPopup"
-msgstr "Magnífico emergente"
+msgstr "MagnificPopup"
 
 msgctxt "Languages::bulk_print_packing_slip"
 msgid "Packing slip bulk print"
@@ -13693,15 +13693,15 @@ msgstr "cualquier"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
-msgstr "Todos"
+msgstr "todos"
 
 msgctxt "Languages::promotions.cond_true"
 msgid "true"
-msgstr "Verdadero"
+msgstr "verdadero"
 
 msgctxt "Languages::promotions.cond_false"
 msgid "false"
-msgstr "Falso"
+msgstr "falso"
 
 msgctxt "Languages::text_select_vendor"
 msgid "Please select a store first"
@@ -13769,7 +13769,7 @@ msgstr "Utilizar conexión segura en la zona del admin"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Permitir la conexión segura de la tienda"
+msgstr "Habilitar la conexión segura de la tienda"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -13993,7 +13993,7 @@ msgstr "Cerrat tienda"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
-msgstr "Llave de acceso al script cron que envía correo electrónico notificaciones de cambio de contraseña. Uso: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
+msgstr "Clave de acceso al script cron que envía correo electrónico notificando el cambio de contraseña. Usa: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
 
 msgctxt "SettingsOptions::store_access_key"
 msgid "Access key to temporarily closed store"
@@ -14293,7 +14293,7 @@ msgstr "Alto de miniatura en lista de categorías"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Pagina de producto de vista detallada"
+msgstr "Pagina de vista detallada de producto"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
@@ -14309,15 +14309,15 @@ msgstr "Ajustes del diseño de listas de producto"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Vistas de lista de productos disponibles"
+msgstr "Vistas disponibles de lista de productos"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Ver lista de productos por defecto"
+msgstr "Vista por defecto de lista de productos"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
-msgstr "Utilice la vista seleccionada por categoría o búsqueda página actual sólo"
+msgstr "Utilice la vista seleccionada sólo para la categoría actual o página de búsqueda"
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
@@ -14489,15 +14489,15 @@ msgstr "Usar conexión cifrada"
 
 msgctxt "SettingsOptions::configure_sign_in_step"
 msgid "Configure \"Sign in\" step"
-msgstr "Configure \"Iniciar sesión\" paso"
+msgstr "Configurar paso \"Iniciar sesión\""
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "Este paso sólo puede ser ocultado si no tiene ningún campos de información de contacto requeridos y se permite la comprobación en el anonimato."
+msgstr "Este paso sólo se puede ocultar si no tienes ningún campo de información de contacto requerido y se permite la compra anónima."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr "Opción por defecto para la sección \"Nuevo cliente\" en el \"Iniciar sesión\""
+msgstr "Opción por defecto para la sección \"Nuevo cliente\" en \"Iniciar sesión\""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
@@ -14505,23 +14505,23 @@ msgstr "Mostrar el paso de \"Método de envío\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "Si oculta, se utilizará el primer método activo por defecto."
+msgstr "Si se oculta, se utilizará el primer método activo por defecto."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr "Visualización la etapa \"Método de pago\""
+msgstr "Mostrar paso \"Método de pago\""
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "Si oculta, el primer método activo se utilizará de forma predeterminada."
+msgstr "Si se oculta, se utilizará el primer método activo por defecto."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Permiten vender productos descargables"
+msgstr "Habilitar venta de productos descargables"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "Se requiere certificado SSL para ser instalado en su servidor"
+msgstr "Se requiere la instalación de certificado SSL en el servidor"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14541,7 +14541,7 @@ msgstr "Direcciones de envío y facturación"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr "Dejar en blanco para el fondo transparente"
+msgstr "Dejar vacío para fondo transparente"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -14569,7 +14569,7 @@ msgstr "Por defecto"
 
 msgctxt "SettingsVariants::feedback_type::manual"
 msgid "Manual feedback"
-msgstr "Comentarios manual"
+msgstr "Comentarios manuales"
 
 msgctxt "SettingsVariants::feedback_type::auto"
 msgid "Automatic feedback"
@@ -15798,25 +15798,25 @@ msgstr "Se han producido errores durante el proceso de actualización. Por favor
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr "Unable to create backups."
+msgstr "No se pueden crear copias de seguridad."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr "queda [n] segundo quedan [n] segundos"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Parece que el servidor permite cambiar la opción \"max_execution_time\" de los scripts. Se puede proseguir el proceso de actualización."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr "Compruebar el tiempo de espera de script PHP"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Estoy de acuerdo, continuar"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "No se puede preparar el script de restauración."
 
