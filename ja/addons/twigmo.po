@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-07-27 22:03-0400\n"
+"PO-Revision-Date: 2015-09-09 21:01-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -38,7 +38,7 @@ msgstr "アップグレード"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "プッシュ通知"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -738,7 +738,7 @@ msgstr "モバイルデバイス用アプリ"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
-msgstr "QR code for the app<br>login page"
+msgstr "アプリログイン用QRコード"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
@@ -774,57 +774,57 @@ msgstr "アカウントの追加"
 
 msgctxt "Languages::twapp_pull_to_refresh"
 msgid "Pull to refresh"
-msgstr "Pull to refresh"
+msgstr "画面をプルして更新"
 
 msgctxt "Languages::twapp_release_to_refresh"
 msgid "Release to refresh"
-msgstr "Release to refresh"
+msgstr "画面をリリースして更新"
 
 msgctxt "Languages::twapp_could_not_connect"
 msgid "Could not connect to the Twigmo add-on at [URL]."
-msgstr "Could not connect to the Twigmo add-on at [URL]."
+msgstr "Twigmoアドオン（ [URL] ) に接続できませんでした。"
 
 msgctxt "Languages::twgadmin_push_notifications"
 msgid "Push notifications"
-msgstr "Push notifications"
+msgstr "プッシュ通知"
 
 msgctxt "Languages::twgadmin_send_push_notifications"
 msgid "Send push notifications to your mobile store app users"
-msgstr "Send push notifications to your mobile store app users"
+msgstr "ストアアプリの利用者にプッシュ通知を実行"
 
 msgctxt "Languages::twgadmin_select_store_short"
 msgid "Select a store"
-msgstr "Select a store"
+msgstr "ショップを選択"
 
 msgctxt "Languages::twgadmin_push_notification_text"
 msgid "Push notification text"
-msgstr "Push notification text"
+msgstr "プッシュ通知用テキスト"
 
 msgctxt "Languages::twgadmin_push_notification_comment"
 msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
-msgstr "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
+msgstr "プッシュ通知を利用した広告配信に関する <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Appleの利用規約</a> および <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Googleの利用規約</a> を確認してください。利用規約に違反するとアプリの配信を停止される場合があります。"
 
 msgctxt "Languages::twgadmin_push_will_send_to"
 msgid "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
-msgstr "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
+msgstr "このメッセージはストアアプリを利用している <b>[ios_amount]</b>名のiOSユーザー と <b>[android_amount]</b>名のAndroidユーザー に配信されます。"
 
 msgctxt "Languages::twgadmin_push_has_uploaded"
 msgid "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
-msgstr "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
+msgstr "メッセージがサーバーにアップロードされ、ストアアプリのユーザーへの配信が開始されました。 (配信完了にはユーザー数に応じて最大1時間ほどかかります。）"
 
 msgctxt "Languages::twgadmin_send_push"
 msgid "Send push notifications about order status update to the mobile store app users"
-msgstr "Send push notifications about order status update to the mobile store app users"
+msgstr "ストアアプリのユーザーに注文ステータスの更新をプッシュ通知する"
 
 msgctxt "Languages::twgadmin_send_push_error"
 msgid "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
-msgstr "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
+msgstr "プッシュ通知の配信完了を確認できませんでした。<a href=\"http://support.twigmo.com\" target=\"_blank\">Twigmoサポートチーム（英語）</a>にお問い合わせください。"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_android"
 msgid "[This order was placed via Twigmo Mobile Application for Android]"
-msgstr "[This order was placed via Twigmo Mobile Application for Android]"
+msgstr "[この注文はAndroid用ストアアプリ経由で実行されました]"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
 msgid "[This order was placed via Twigmo Mobile Application for iOS]"
-msgstr "[This order was placed via Twigmo Mobile Application for iOS]"
+msgstr "[この注文はiOS用ストアアプリ経由で実行されました]"
 

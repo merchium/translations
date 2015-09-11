@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /addons/paypal.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "תשלומים בPayPal"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "קבלת תשלום באמצעות PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, PayPal Payflow Pro."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "דרוס מידע לקוח"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "מצב מבחן"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "זכאות להגנה"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "הגדרות התראת תשלום מיידי"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "מקרא סטטוסים של הזמנות בפייפל"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "הגדרות לוגו פייפל"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>הערה:</b> בהתאם למדיניות PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>סעיף (4.6)</a>, אין לגבות עלות נוספת."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "מזהה טרנזקציה"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "לוגו PayPal"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "השתמש בפורמט גרפי מוכר כגון .gif, .jpg, or .png. הגבל את התמונה ל190 פיקסלים רוחב ו60 פיקסלים גובה. הלוגו יופיע בPayPal בחלק העליון של דף עגלת הקניות."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "שגיאות IPN"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "כמות פריטים ששולמו שונה מכמות הפריטים בהזמנה"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "התשלום בוצע בסוג מטבע שונה מאשר המטבע שההזמנה בוצעה בו."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "סכום התשלום שונה מסכום ההזמנה."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "מצב פייפל"
+

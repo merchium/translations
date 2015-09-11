@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 03:01-0400\n"
+"PO-Revision-Date: 2015-09-11 04:02-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -334,7 +334,7 @@ msgstr "Aplikuj o konto sprzedawcy"
 
 msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-msgstr "Automatyczne tworzenie konta administratora dla nowego sprzedawcy. (Jeśli opcja \"Zezwalaj użytkownikom na aplikowanie na konto dostawcy\" jest włączona)"
+msgstr "Automatycznie stwórz konto administratora dla nowo dodanego sprzedawcy (jeżeli włączona jest opcja “Zezwól użytkownikom na aplikowanie o konto sprzedawcy”)"
 
 msgctxt "SettingsOptions::include_shipping"
 msgid "Include shipping cost in vendors commission"
@@ -342,7 +342,7 @@ msgstr "Wliczaj koszty wysyłki w prowizję sprzedawców"
 
 msgctxt "SettingsOptions::include_payment_surcharge"
 msgid "Take payment surcharge from vendors"
-msgstr "Pobieranie dopłaty do płatności od sprzedawców"
+msgstr "Pobierz dopłaty przy płatnościach od sprzedawców"
 
 msgctxt "SettingsOptions::commissions_header"
 msgid "Commissions"
@@ -350,7 +350,7 @@ msgstr "Prowizje"
 
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
-msgstr "Wyświetlaj produkty sprzedawcy"
+msgstr "Wyświetlaj sprzedawcę produktu"
 
 msgctxt "SettingsTooltips::include_payment_surcharge"
 msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"

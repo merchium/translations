@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 03:01-0400\n"
+"PO-Revision-Date: 2015-09-11 04:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4658,7 +4658,7 @@ msgstr "Strona główna"
 
 msgctxt "Languages::information"
 msgid "Information"
-msgstr "Informacja"
+msgstr "Informacje"
 
 msgctxt "Languages::inner_hint"
 msgid "Inner hint"
@@ -12559,7 +12559,7 @@ msgstr "Uaktualnienie programu jest to skomplikowany proces. Może się on zako�
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Jeśli nie jesteś zaznajomiony z technicznymi aspektami procesu aktualizacji programu CS-Cart, zdecydowanie zaleca się <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> wynajęcie specjalisty</a> lub <a href=\"[upgrade_center_team]\" target=\"_blank\"> wyślij zapytanie do naszego zespołu wsparcia</a> który może uaktualnić twój sklep."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
@@ -12567,7 +12567,7 @@ msgstr "Uaktualnienie nie aktualizuje dodatków innych firm. Dlatego zaleca się
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Zrób testowo aktualizację kopii Twojego sklepu, aby upewnić się, że na sklepie produkcyjnym nie będzie problemów."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
@@ -12575,7 +12575,7 @@ msgstr "Po aktualizacji należy sprawdzić podstawowe funkcjonalności sklepu."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Proces aktualizacji nie powiódł się ponieważ wykonywanie skryptu PHP zostało zakończone z powodu konfiguracji serwera. Proszę sprawdzić ustawienia limitu czasu wykonywania skryptu PHP na serwerze"
+msgstr "Proces aktualizacji może się nie powieść ze względu na ograniczenia czasu na wykonywanie skryptu PHP. Proszę sprawdzić ustawienia limitu czasu wykonywania skryptów PHP na serwerze"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
@@ -12583,11 +12583,11 @@ msgstr "Nie polecamy rozpoczynania aktualizacji na serwerze."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Twój serwer ma złe ustawienia limitu czasu wykonywania skryptu PHP. Może tak być ze względu na ograniczenia PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> przez funkcję set_time_limit</a> lub opcję \"Timeout\" FastCGI. Radzimy skontaktować się z dostawcą usług hostingowych w celu rozwiązania tego problemu lub skontaktuj się z naszym zespołem wsparcia technicznego aby wykonał aktualizację Twojego programu."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">Rozpoczął działanie skrypt sprawdzający konfigurację PHP. Skrypt będzie działał przez 6 minut. Po zakończeniu pracy, powiemy ci, czy limity czasu wykonywania skryptów PHP są ustawione poprawnie. Jeśli są ustawione poprawnie to można przejść do procesu aktualizacji. Proszę czekać do momentu zakończenia weryfikacji czy twój serwer ma poprawną konfiguracja PHP.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13847,7 +13847,7 @@ msgstr "Współdziel użytkowników pomiędzy sklepami"
 
 msgctxt "SettingsOptions::log_type_general"
 msgid "General"
-msgstr "Główne"
+msgstr "Ogólne"
 
 msgctxt "SettingsOptions::backend_default_language"
 msgid "Backend default language"
@@ -13931,7 +13931,7 @@ msgstr "Ilość linii siatki"
 
 msgctxt "SettingsOptions::grid_color"
 msgid "Grid color (hexadecimal code)"
-msgstr "Kolor siatki (kod szestnastkowy)"
+msgstr "Kolor siatki (kod szesnastkowy)"
 
 msgctxt "SettingsOptions::ftp_username"
 msgid "Username"
@@ -14019,7 +14019,7 @@ msgstr "Metoda obliczania podatku oparta o"
 
 msgctxt "SettingsOptions::feedback_type"
 msgid "Help us improve software"
-msgstr "Pomóż usprawnić CS-Cart"
+msgstr "Pomóż usprawnić program"
 
 msgctxt "SettingsOptions::auto_check_updates"
 msgid "Check for updates automatically"
