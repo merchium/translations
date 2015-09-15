@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/seo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+"PO-Revision-Date: 2015-09-13 11:01-0400\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -30,7 +30,7 @@ msgstr "מנהל חוקי הפניה מכתובות URL ישנות"
 
 msgctxt "Languages::controller_description"
 msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
-msgstr "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "אם ברצונך לקבוע כתובת קישור ידידותית למנועי חיפוש, לדוגמה: http://example.com/index.php?dispatch=<b>categories.catalog</b>, עליך להקליד את הערך \"<b>categories.catalog</b>\" לתוך \"<b>ערך עבור פרמטר \"dispatch\" מכתובת הURL </b>\" ולרשום את הכתובת הידידותית בשדה \"<b>שם עבור SEO</b>\"."
 
 msgctxt "Languages::seo_name"
 msgid "SEO name"
@@ -146,7 +146,7 @@ msgstr "אפשר שימוש באותיות לא-לטיניות בכתובת הק
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
 msgid "/product-name/"
-msgstr "/product-name/"
+msgstr "/שם-מוצר/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file"
 msgid "/product-name.html"
@@ -154,7 +154,7 @@ msgstr "/שם-המוצר.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
 msgid "/category-name/[subcategory-name/]product-name/"
-msgstr "/category-name/[subcategory-name/]product-name/"
+msgstr "/שם-קטגוריה/[תת-קטגוריה/]שם-מוצר/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category"
 msgid "/category-name/[subcategory-name/]product-name.html"
@@ -162,15 +162,15 @@ msgstr "/שם-הקטגוריה/[שם-התת-קטגוריה/]שם-המוצר.html
 
 msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
 msgid "/parent-category/category/[page-2/]"
-msgstr "/parent-category/category/[page-2/]"
+msgstr "/קטגוריית-אב/קטגוריה/[עמוד-2/]"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category"
 msgid "/parent-category/category-[page-2].html"
-msgstr "/parent-category/category-[page-2].html"
+msgstr "/קטגוריית-אב/קטגוריה-[עמוד-2].html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::root_category"
 msgid "/category/[page-2/]"
-msgstr "/category/[page-2/]"
+msgstr "/קטגוריה/[עמוד-2/]"
 
 msgctxt "SettingsVariants::seo::seo_page_type::page"
 msgid "/parent-page/page.html"
@@ -186,11 +186,11 @@ msgstr "/דף/"
 
 msgctxt "SettingsVariants::seo::seo_other_type::directory"
 msgid "/item/"
-msgstr "/item/"
+msgstr "/פריט/"
 
 msgctxt "SettingsVariants::seo::seo_category_type::file"
 msgid "/category[-page-2].html"
-msgstr "/category[-page-2].html"
+msgstr "/קטגוריה[-עמוד-2].html"
 
 msgctxt "SettingsVariants::seo::seo_page_type::file"
 msgid "/page.html"

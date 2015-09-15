@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 08:03-0400\n"
+"PO-Revision-Date: 2015-09-14 12:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1482,7 +1482,7 @@ msgstr "Cancelar"
 
 msgctxt "Languages::canceled_reversal"
 msgid "Canceled reversal"
-msgstr "Reversão cancelada"
+msgstr "Cancelamento revertido"
 
 msgctxt "Languages::cancelled"
 msgid "Canceled"
@@ -1702,7 +1702,7 @@ msgstr "Por favor, altere a sua senha"
 
 msgctxt "Languages::change_password_notification_body"
 msgid "Your password to access the admin panel of the [store] store was last changed [days] days ago. For security reasons, please change your password. In order to do this, please follow the link:"
-msgstr "A sua senha para aceder ao painel administrativo da [store] foi alterado pela último vez há [dias] dias atrás. Por razões de segurança, consulte o seguinte link para alterar a sua senha."
+msgstr "A sua senha para aceder ao painel administrativo da [store] foi alterada pela última vez há [days] dias atrás. Por razões de segurança, consulte o seguinte link para alterar a sua senha:"
 
 msgctxt "Languages::change_permissions"
 msgid "Change permissions"
@@ -1718,11 +1718,11 @@ msgstr "Alterar gama de valores"
 
 msgctxt "Languages::change_language_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "A loja está sendo executado no modo livre. Neste modo, você pode usar apenas um idioma. Apenas altere o status para ativo a fim de ativar o idioma desejado."
+msgstr "A loja está a ser executada no modo grátis. Neste modo, você pode usar apenas um idioma. Apenas altere o estado para ativo a fim de ativar o idioma desejado."
 
 msgctxt "Languages::change_currency_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr "A loja está sendo executado no modo livre. Neste modo, você pode usar apenas uma moeda. Apenas altere o status para ativo a fim de ativar a moeda que desejar."
+msgstr "A loja está a ser executada no modo grátis. Neste modo, você pode usar apenas uma moeda. Apenas altere o estado para ativo a fim de ativar a moeda desejada."
 
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
@@ -1770,7 +1770,7 @@ msgstr "Aceito os termos constantes nas"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Selecione esta caixa para aceitar os Termos e Condições."
+msgstr "Selecione esta caixa de verificação para aceitar os Termos e Condições."
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -1790,7 +1790,7 @@ msgstr "Desativado"
 
 msgctxt "Languages::check_items_text"
 msgid "To include Order statuses, Payment methods and Locations in the conditions list, check the necessary item and click on the \"Save\" button."
-msgstr "Para incluir o status do pedido, métodos de pagamento e locais na lista de condições, verifique o item necessário e clique no botão \"Salvar\"."
+msgstr "Para incluir o estado da encomenda, modos de pagamento e locais na lista de condições, verifique o item necessário e clique no botão \"Guardar\"."
 
 msgctxt "Languages::check_none"
 msgid "None"
@@ -1830,11 +1830,11 @@ msgstr "Escolha"
 
 msgctxt "Languages::choose_action"
 msgid "Choose action"
-msgstr "Escolha a ação"
+msgstr "Escolher a ação"
 
 msgctxt "Languages::choose_category"
 msgid "Choose category"
-msgstr "Escolha a categoria"
+msgstr "Escolher categoria"
 
 msgctxt "Languages::choose_user"
 msgid "Choose user"
@@ -1870,7 +1870,7 @@ msgstr "Limpar histórico"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Clear logs"
+msgstr "Limpar logs"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -1882,7 +1882,7 @@ msgstr "Limpar"
 
 msgctxt "Languages::clear_cache"
 msgid "Clear cache"
-msgstr "Apagar a cache"
+msgstr "Limpar a cache"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
@@ -1906,7 +1906,7 @@ msgstr "Limpar lista"
 
 msgctxt "Languages::clear_thumbnails"
 msgid "Clean up generated thumbnails"
-msgstr "Limpar miniaturas geradas"
+msgstr "Limpar imagens miniatura geradas"
 
 msgctxt "Languages::clicks"
 msgid "Clicks"
@@ -1926,7 +1926,7 @@ msgstr "Clonar de"
 
 msgctxt "Languages::clone_selected"
 msgid "Clone selected"
-msgstr "Clonar selecionados"
+msgstr "Clonar seleção"
 
 msgctxt "Languages::clone_table"
 msgid "Clone table"
@@ -2050,11 +2050,11 @@ msgstr "Comparar"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Lista comparativa"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Ir para a lista comparativa"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2074,7 +2074,7 @@ msgstr "Concluído"
 
 msgctxt "Languages::compressing_backup"
 msgid "Compressing backup file"
-msgstr "Compactando o ficheiro de backup"
+msgstr "A compactar o ficheiro de backup"
 
 msgctxt "Languages::compress_dump"
 msgid "Compress backup file"
@@ -2102,7 +2102,7 @@ msgstr "Diálogo de confirmação"
 
 msgctxt "Languages::confirm_password"
 msgid "Confirm password"
-msgstr "Confirme a palavra passe"
+msgstr "Confirme a senha"
 
 msgctxt "Languages::conflicts"
 msgid "Conflicts"
@@ -2140,7 +2140,7 @@ msgctxt "Languages::content_changed_for"
 msgid "This block instances have different content for"
 msgstr "As instâncias deste bloco têm um conteúdo diferente de"
 
-msgctxt "Languages::content_menu_description"
+msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
 msgstr "Criar e publicar páginas, votações, formulários e links."
 
@@ -2158,11 +2158,11 @@ msgstr "Trocar por"
 
 msgctxt "Languages::converting_data_in_table"
 msgid "Converting data in table [table]"
-msgstr "Convertendo dados na tabela [table]"
+msgstr "A converter dados na tabela [table]"
 
 msgctxt "Languages::copyright_shopping_cart"
 msgid "[product] - Shopping Cart Software"
-msgstr "Loja Marcial"
+msgstr "[product] - Programa de Comércio Eletrónico"
 
 msgctxt "Languages::copy_from_layout"
 msgid "Copy data from layout"
@@ -2222,7 +2222,7 @@ msgstr "Criar"
 
 msgctxt "Languages::created"
 msgid "Created"
-msgstr "Criar conta"
+msgstr "Criado(a)"
 
 msgctxt "Languages::create_account"
 msgid "Create account"
@@ -2250,7 +2250,7 @@ msgstr "Checkout rápido sem registo de conta"
 
 msgctxt "Languages::create_new_account"
 msgid "Create a permanent account and use it for checkout"
-msgstr "Criar uma conta e utilizar para o checkout"
+msgstr "Criar uma conta e usá-la para o checkout"
 
 msgctxt "Languages::create_new_block"
 msgid "Create New Block"
@@ -2258,7 +2258,7 @@ msgstr "Criar um novo bloco"
 
 msgctxt "Languages::create_new_order"
 msgid "Create a new order"
-msgstr "Realizar uma nova encomenda"
+msgstr "Criar uma nova encomenda"
 
 msgctxt "Languages::create_process_payment"
 msgid "Create and process payment"
@@ -2278,11 +2278,11 @@ msgstr "Criar nova tabela"
 
 msgctxt "Languages::creating"
 msgid "Creating"
-msgstr "Criando"
+msgstr "A criar"
 
 msgctxt "Languages::creating_table"
 msgid "Creating table"
-msgstr "Criando tabela"
+msgstr "A criar tabela"
 
 msgctxt "Languages::creation_date"
 msgid "Creation date"
@@ -2294,7 +2294,7 @@ msgstr "Cartão de crédito"
 
 msgctxt "Languages::credit_card_info"
 msgid "This number is printed in the signature area on the back of the card. It is the 3 digits AFTER the credit card number."
-msgstr "Este número é impresso na área de assinatura na parte de trás do cartão. São os 3 dígitos após o número do cartão de crédito."
+msgstr "Este número está impresso na área de assinatura na parte de trás do cartão. São os 3 dígitos após o número do cartão de crédito."
 
 msgctxt "Languages::credit_memo"
 msgid "Credit memo"
@@ -2490,7 +2490,7 @@ msgstr "Dólar de Nova Zelândia"
 
 msgctxt "Languages::currency_code_php"
 msgid "Philippine Peso"
-msgstr "Peso Philippine"
+msgstr "Peso Filipinas"
 
 msgctxt "Languages::currency_code_pln"
 msgid "Polish Zlotych"
@@ -2498,7 +2498,7 @@ msgstr "Zloty polonês"
 
 msgctxt "Languages::currency_code_png"
 msgid "Papua New Guinea Kina"
-msgstr "Papua Nova Guiné Kina"
+msgstr "Kina de Papua Nova Guiné"
 
 msgctxt "Languages::currency_code_ron"
 msgid "RON"
@@ -2594,7 +2594,7 @@ msgstr "Lira turca"
 
 msgctxt "Languages::currency_deleted"
 msgid "The currency has been deleted successfully."
-msgstr "A moeda foi excluída com sucesso."
+msgstr "A moeda foi removida com sucesso."
 
 msgctxt "Languages::currency_rate"
 msgid "Rate"
@@ -2650,7 +2650,7 @@ msgstr "Clientes"
 
 msgctxt "Languages::customers_menu_description"
 msgid "List of store customers, registered users with a customer account."
-msgstr "Lista de clientes da loja, utilizadores registrados com uma conta de cliente."
+msgstr "Lista de clientes da loja, utilizadores registados com uma conta de cliente."
 
 msgctxt "Languages::customer_details"
 msgid "Customer details"
@@ -2702,7 +2702,7 @@ msgstr "Gama de valores personalizada"
 
 msgctxt "Languages::cutted_product_codes"
 msgid "The following product codes are too long and were cut to 32 figures:"
-msgstr "Os seguintes códigos de rtigo são muito longos e foram cortados para 32 caracteres:"
+msgstr "Os seguintes códigos de artigo são muito longos e foram diminuídos para 32 caracteres:"
 
 msgctxt "Languages::cvv2"
 msgid "CVV/CVC"
@@ -2730,7 +2730,7 @@ msgstr "Alterações de dados na base de dados"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Backup/Restaurar"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2770,15 +2770,15 @@ msgstr "dias"
 
 msgctxt "Languages::db_backup_restore"
 msgid "DB Backup/Restore"
-msgstr "DB Guardar/Recuperar"
+msgstr "DB Backup/Recuperar"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "Backup/Restaurar"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "Criar backup"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2826,19 +2826,19 @@ msgstr "Predefinido"
 
 msgctxt "Languages::default_category_view"
 msgid "Default category view"
-msgstr "Modo de exibição padrão para categoria"
+msgstr "Modo de exibição predefinido para categoria"
 
 msgctxt "Languages::default_language"
 msgid "Default language"
-msgstr "Idioma padrão"
+msgstr "Idioma predefinido"
 
 msgctxt "Languages::default_layout"
 msgid "Default layout"
-msgstr "Layout padrão"
+msgstr "Layout predefinido"
 
 msgctxt "Languages::default_long_options_template"
 msgid "Default template (long product option names)"
-msgstr "Modelo padrão (nomes de opções de artigos longos)"
+msgstr "Modelo predefinido (nomes de opções longos)"
 
 msgctxt "Languages::default_product_details_view"
 msgid "Parent ([default])"
@@ -2846,15 +2846,15 @@ msgstr "Pai ([default])"
 
 msgctxt "Languages::default_template"
 msgid "Default template"
-msgstr "Modelo padrão"
+msgstr "Modelo predefinido"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "Visão do todo"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
-msgstr "Valor padrão"
+msgstr "Valor predefinido"
 
 msgctxt "Languages::deferred"
 msgid "Deferred"
@@ -2890,31 +2890,31 @@ msgstr "Artigo apagado"
 
 msgctxt "Languages::delete_all_found"
 msgid "Delete all found"
-msgstr "Excluir todos encontrados"
+msgstr "Apagar todos encontrados"
 
 msgctxt "Languages::delete_block"
 msgid "Delete block"
-msgstr "Excluir bloco"
+msgstr "Apagar bloco"
 
 msgctxt "Languages::delete_confirmation"
 msgid "Are you sure you want to delete the selected items?"
-msgstr "Tem a certeza que deseja apagar os itens selecionados?"
+msgstr "Você tem certeza de que deseja excluir os itens selecionados?"
 
 msgctxt "Languages::delete_grid"
 msgid "Delete grid"
-msgstr "Excluir a grelha"
+msgstr "Apagar a grade"
 
 msgctxt "Languages::delete_image"
 msgid "Delete image"
-msgstr "Excluir imagem"
+msgstr "Apagar imagem"
 
 msgctxt "Languages::delete_image_pair"
 msgid "Delete image pair"
-msgstr "Excluir o par de imagens"
+msgstr "Apagar o par de imagens"
 
 msgctxt "Languages::delete_install_folder"
 msgid "Please remove the install directory.<br /><br />Keeping the install directory on the server is insecure."
-msgstr "Por favor, remova o diretório de instalação. <br /> <br /> manter o diretório de instalação no servidor não é seguro."
+msgstr "Por favor, remova a pasta de instalação. <br /> <br />Manter a pasta de instalação no servidor não é seguro."
 
 msgctxt "Languages::delete_range"
 msgid "Delete range"
@@ -2926,15 +2926,15 @@ msgstr "Apagar seleção"
 
 msgctxt "Languages::delete_this_category"
 msgid "Delete this category"
-msgstr "Excluir esta categoria"
+msgstr "Apagar esta categoria"
 
 msgctxt "Languages::delete_this_page"
 msgid "Delete this page"
-msgstr "Excluir esta página"
+msgstr "Apagar esta página"
 
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
-msgstr "Tempo de entrega"
+msgstr "Prazo de entrega"
 
 msgctxt "Languages::delivery_times_text"
 msgid "Delivery time is calculated in business days."
@@ -2950,7 +2950,7 @@ msgstr "Modo de demonstração está ativo"
 
 msgctxt "Languages::demo_mode_content_text"
 msgid "<p>The cart is working in the <b>DEMO</b> mode and this functionality is disabled.</p>"
-msgstr "<p>o carrinho está funcionando no modo <b>DEMO</b> e essa funcionalidade está desabilitada.</p>"
+msgstr "<p>O carrinho está a funcionar no modo <b>DEMO</b> e essa funcionalidade está desativada.</p>"
 
 msgctxt "Languages::demo_panel.demo_store_panel"
 msgid "Demo store panel"
@@ -3034,7 +3034,7 @@ msgstr "Apenas diferente"
 
 msgctxt "Languages::directory"
 msgid "Directory"
-msgstr "Diretório"
+msgstr "Pasta"
 
 msgctxt "Languages::direct_download"
 msgid "Direct download"
@@ -3106,7 +3106,7 @@ msgstr "Exibir botões do rodapé"
 
 msgctxt "Languages::display_delete_icons"
 msgid "Display delete icons"
-msgstr "Exibir botões de exclusão"
+msgstr "Exibir ícones de apagar"
 
 msgctxt "Languages::display_message"
 msgid "Display message"
@@ -3122,7 +3122,7 @@ msgstr "Tipo de exibição"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Número de variantes de filtro exibido antes de rolar"
+msgstr "Número de variantes de filtro exibidos antes de rolar"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3142,7 +3142,7 @@ msgstr "Não rastrear"
 
 msgctxt "Languages::dont_use_cardinal"
 msgid "Don't use Cardinal Centinel&reg; for 3-D Secure Payer Authentication"
-msgstr "Não use o Cardeal Centinel &reg; para autenticação 3-d Secure Payer"
+msgstr "Não use o Cardeal Centinel&reg; para autenticação 3-D Secure Payer"
 
 msgctxt "Languages::dots"
 msgid "Dots"
@@ -3162,7 +3162,7 @@ msgstr "Para download"
 
 msgctxt "Languages::downloadable_shipping"
 msgid "Enable shipping if downloadable"
-msgstr "Permitir cobrança de frete se o produto for para download"
+msgstr "Ativar custos de envio se o artigo for para download"
 
 msgctxt "Languages::downloads"
 msgid "Downloads"
@@ -3174,11 +3174,11 @@ msgstr "Downloads (máx. /esquerda)"
 
 msgctxt "Languages::download_key_expiry"
 msgid "Download key expiry"
-msgstr "Chave de expiração do Download"
+msgstr "Expiração da chave de download"
 
 msgctxt "Languages::download_link_expired"
 msgid "The download link is expired or is not ready."
-msgstr "O link de download expirou ou não está pronto."
+msgstr "O link para download expirou ou não está pronto."
 
 msgctxt "Languages::do_not_change"
 msgid "Do not change"
@@ -3186,7 +3186,7 @@ msgstr "Não mude"
 
 msgctxt "Languages::do_not_pass_logo"
 msgid "Do not pass the shopping cart logo to the merchant"
-msgstr "Não passe o logotipo do carrinho de compras para o comerciante"
+msgstr "Não passar o logotipo do carrinho de compras para o comerciante"
 
 msgctxt "Languages::do_not_use"
 msgid "Do not use"
@@ -3218,15 +3218,15 @@ msgstr "Dropdown vertical"
 
 msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
-msgstr "Excluir todos os arquivos de produto existentes antes de importar"
+msgstr "Apagar todos os ficheiros de artigos existentes antes da importação"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "Não pode carregar o arquivo de backup. Verifique as permissões para a pasta \"var/backups\" no seu servidor."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
-msgstr "Por favor, defina permissões de gravação no arquivo de backup do banco de dados."
+msgstr "Por favor, defina permissões de gravação no ficheiro de backup da base de dados."
 
 msgctxt "Languages::duplicate"
 msgid "Duplicate transactions"
@@ -3242,7 +3242,7 @@ msgstr "Dinâmica"
 
 msgctxt "Languages::dynamic_content"
 msgid "This block content will be shown on <a href=\"[url]\">this page</a> only."
-msgstr "Este bloco de conteúdo irá aparecer <a href=\"[url]\">nesta página</a> apenas."
+msgstr "Este conteúdo do bloco irá aparecer <a href=\"[url]\">nesta página</a> apenas."
 
 msgctxt "Languages::dynamic_tree_cat"
 msgid "Dynamic tree"
@@ -3254,7 +3254,7 @@ msgstr "Árvore dinâmica"
 
 msgctxt "Languages::easing"
 msgid "Easing"
-msgstr "Easing"
+msgstr "Facilitar"
 
 msgctxt "Languages::edit"
 msgid "Edit"
@@ -3266,151 +3266,151 @@ msgstr "Edição"
 
 msgctxt "Languages::editing_block"
 msgid "Editing block"
-msgstr "Editando bloco"
+msgstr "A editar bloco"
 
 msgctxt "Languages::editing_category"
 msgid "Editing category"
-msgstr "Editando categoria"
+msgstr "A editar categoria"
 
 msgctxt "Languages::editing_chart"
 msgid "Editing chart"
-msgstr "Editando gráfico"
+msgstr "A editar gráfico"
 
 msgctxt "Languages::editing_container"
 msgid "Editing container"
-msgstr "Editando recipiente"
+msgstr "A editar container"
 
 msgctxt "Languages::editing_currency"
 msgid "Editing currency"
-msgstr "Editando moeda"
+msgstr "A editar moeda"
 
 msgctxt "Languages::editing_defined_products"
 msgid "Editing defined products"
-msgstr "Editando artigos definidos"
+msgstr "A editar artigos definidos"
 
 msgctxt "Languages::editing_file"
 msgid "Editing file"
-msgstr "Editando ficheiro"
+msgstr "A editar ficheiro"
 
 msgctxt "Languages::editing_filter"
 msgid "Editing filter"
-msgstr "Editando filtros"
+msgstr "A editar filtros"
 
 msgctxt "Languages::editing_folder"
 msgid "Editing folder"
-msgstr "Editando pasta"
+msgstr "A editar pasta"
 
 msgctxt "Languages::editing_grid"
 msgid "Editing grid"
-msgstr "Editando a grelha"
+msgstr "A editar a grade"
 
 msgctxt "Languages::editing_group"
 msgid "Editing group"
-msgstr "Editando grupo"
+msgstr "A editar grupo"
 
 msgctxt "Languages::editing_item"
 msgid "Editing item"
-msgstr "Editando item"
+msgstr "A editar item"
 
 msgctxt "Languages::editing_language"
 msgid "Editing language"
-msgstr "Editando idioma"
+msgstr "A editar idioma"
 
 msgctxt "Languages::editing_layout"
 msgid "Editing layout"
-msgstr "Editando layout"
+msgstr "A editar layout"
 
 msgctxt "Languages::editing_link"
 msgid "Editing link"
-msgstr "Editando link"
+msgstr "A editar link"
 
 msgctxt "Languages::editing_localization"
 msgid "Editing localization"
-msgstr "Editando localização"
+msgstr "A editar localização"
 
 msgctxt "Languages::editing_location"
 msgid "Editing location"
-msgstr "Editando local"
+msgstr "A editar local"
 
 msgctxt "Languages::editing_menu"
 msgid "Editing menus"
-msgstr "Editando menus"
+msgstr "A editar menus"
 
 msgctxt "Languages::editing_option"
 msgid "Editing option"
-msgstr "Editando opção"
+msgstr "A editar opção"
 
 msgctxt "Languages::editing_order"
 msgid "Editing order"
-msgstr "Editando ordem"
+msgstr "A editar encomenda"
 
 msgctxt "Languages::editing_page"
 msgid "Editing page"
-msgstr "Editando página"
+msgstr "A editar página"
 
 msgctxt "Languages::editing_payment"
 msgid "Editing payment"
-msgstr "Editando pagamento"
+msgstr "A editar pagamento"
 
 msgctxt "Languages::editing_product"
 msgid "Editing product"
-msgstr "Editando artigo"
+msgstr "A editar artigo"
 
 msgctxt "Languages::editing_product_feature"
 msgid "Editing product feature"
-msgstr "Editando característica do artigo"
+msgstr "A editar característica do artigo"
 
 msgctxt "Languages::editing_profile"
 msgid "Editing profile"
-msgstr "Editando perfil"
+msgstr "A editar perfil"
 
 msgctxt "Languages::editing_profile_field"
 msgid "Editing profile field"
-msgstr "Editando campo do perfil"
+msgstr "A editar campo do perfil"
 
 msgctxt "Languages::editing_promotion"
 msgid "Editing promotion"
-msgstr "Editando promoção"
+msgstr "A editar promoção"
 
 msgctxt "Languages::editing_quick_menu_link"
 msgid "Editing quick menu link"
-msgstr "Editando link de menu rápido"
+msgstr "A editar link de menu rápido"
 
 msgctxt "Languages::editing_quick_menu_section"
 msgid "Editing quick menu section"
-msgstr "Editando seção de menu rápido"
+msgstr "A editar seção de menu rápido"
 
 msgctxt "Languages::editing_report"
 msgid "Editing report"
-msgstr "Editando relatório"
+msgstr "A editar relatório"
 
 msgctxt "Languages::editing_shipping_method"
 msgid "Editing shipping method"
-msgstr "Editando método de entrega"
+msgstr "A editar modo de entrega"
 
 msgctxt "Languages::editing_sitemap_section"
 msgid "Editing sitemap section"
-msgstr "Editando seção sitemap"
+msgstr "A editar seção sitemap"
 
 msgctxt "Languages::editing_status"
 msgid "Editing status"
-msgstr "Editando estado"
+msgstr "A editar estado"
 
 msgctxt "Languages::editing_tab"
 msgid "Editing tab"
-msgstr "Editando guia"
+msgstr "A editar guia"
 
 msgctxt "Languages::editing_tax"
 msgid "Editing tax"
-msgstr "Editando taxa"
+msgstr "A editar taxa"
 
 msgctxt "Languages::editing_vendor"
 msgid "Editing store"
-msgstr "Editando loja"
+msgstr "A editar loja"
 
 msgctxt "Languages::edition_type"
 msgid "Edition type"
-msgstr "Editando tipo"
+msgstr "A editar tipo"
 
 msgctxt "Languages::edit_content_on_site"
 msgid "Edit content on-site"
@@ -3438,7 +3438,7 @@ msgstr "Editar perfil"
 
 msgctxt "Languages::edit_profile_note"
 msgid "Change email, password, shipping/billing info, and other profile settings"
-msgstr "Alterar e-mail, palavra passe, endereços, etc..."
+msgstr "Alterar e-mail, senha, endereços, etc."
 
 msgctxt "Languages::edit_report"
 msgid "Edit report"
@@ -3450,15 +3450,15 @@ msgstr "Editar seleção"
 
 msgctxt "Languages::edp_access_granted"
 msgid "Now you can download the purchased products."
-msgstr "Agora você pode descarregar os artigos comprados."
+msgstr "Agora já poderá proceder ao download dos artigos adquiridos."
 
 msgctxt "Languages::edp_access_subj"
 msgid "Access to electronically distributed products is granted"
-msgstr "Acesso a artigos distribuídos eletronicamente está concedido"
+msgstr "É concedido o acesso aos artigos distribuídos eletronicamente"
 
 msgctxt "Languages::edp_enable_shipping"
 msgid "Enable shipping for downloadable products"
-msgstr "Permitir cobrança de frete se o produto for para download"
+msgstr "Ativar custo de envio se o artigo for para download"
 
 msgctxt "Languages::email"
 msgid "Email"
@@ -3486,7 +3486,7 @@ msgstr "Vazio"
 
 msgctxt "Languages::empty_key_value"
 msgid "Empty table key value"
-msgstr "Valor da chave da tabela vazia"
+msgstr "Valor da chave da tabela vazio"
 
 msgctxt "Languages::enable"
 msgid "Enable"
@@ -3514,7 +3514,7 @@ msgstr "Ativar/Desativar container"
 
 msgctxt "Languages::enable_or_disable_grid"
 msgid "Activate/Deactivate Grid"
-msgstr "Ativar/Desativar grelha"
+msgstr "Ativar/Desativar grade"
 
 msgctxt "Languages::enable_quick_view"
 msgid "Enable quick view"
@@ -3522,11 +3522,11 @@ msgstr "Ativar visualização rápida"
 
 msgctxt "Languages::encryption"
 msgid "Encryption"
-msgstr "Criptografia"
+msgstr "Encriptação"
 
 msgctxt "Languages::encryption_key"
 msgid "Encryption Key"
-msgstr "Chave de criptografia"
+msgstr "Chave de encriptação"
 
 msgctxt "Languages::end_date"
 msgid "End date"
@@ -3538,7 +3538,7 @@ msgstr "Inglês"
 
 msgctxt "Languages::enter_code"
 msgid "Enter code"
-msgstr "Digite o código"
+msgstr "Inserir o código"
 
 msgctxt "Languages::enter_data"
 msgid "Enter data"
@@ -3598,11 +3598,11 @@ msgstr "Nome do erro"
 
 msgctxt "Languages::error_account_disabled"
 msgid "Your account is disabled. Please contact the store administration."
-msgstr "A sua conta está desativada. Para mais informações, contacte-nos por e-mail ou telefone."
+msgstr "A sua conta está desativada. Para mais informações, contacte-nos por e-mail."
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this company manually."
-msgstr "A conta de administrador não foi criada. O endereço de e-mail pertence a outro usuário. Você pode adicionar manualmente o administrador para esta empresa."
+msgstr "A conta de administrador não foi criada. O endereço de e-mail pertence a outro utilizador. Você pode adicionar manualmente o administrador para esta empresa."
 
 msgctxt "Languages::error_ajax"
 msgid "Oops, something went wrong ([error]). Please try again."
@@ -15434,27 +15434,27 @@ msgstr "Arquivos públicos"
 
 msgctxt "Languages::templates"
 msgid "Templates"
-msgstr "Templates"
+msgstr "Modelos"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr "Please supply this URL to your Realex Payments account manager"
+msgstr "Por favor, forneça este URL para o seu gestor de conta de pagamentos Realex"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr "Please supply the IP address of your server to your Realex Payments account manager"
+msgstr "Por favor, forneça o endereço IP do seu servidor para o seu gestor de conta de pagamentos Realex"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr "Settlement"
+msgstr "Liquidação"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr "Delayed settlement"
+msgstr "Atraso de liquidação"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr "Auto-settled"
+msgstr "Auto-liquidação"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
@@ -15462,39 +15462,39 @@ msgstr "Realex to CS-Cart order status conversion map"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
-msgstr "Subaccount"
+msgstr "Subconta"
 
 msgctxt "Languages::payments.realex.liability_shift"
 msgid "Liability Shift"
-msgstr "Liability Shift"
+msgstr "Mudança de responsabilidade"
 
 msgctxt "Languages::payments.realex.liability_shift_required"
 msgid "Liability Shift required"
-msgstr "Liability Shift required"
+msgstr "Mudança de responsabilidade exigida"
 
 msgctxt "Languages::payments.realex.3d_secure_message"
 msgid "3-D Secure message"
-msgstr "3-D Secure message"
+msgstr "Mensagem segura 3-D"
 
 msgctxt "Languages::payments.realex.connector_error"
 msgid "Your Realex account has been suspended. Contact Realex support for further information."
-msgstr "Your Realex account has been suspended. Contact Realex support for further information."
+msgstr "A sua conta Realex foi suspensa. Contacte o suporte Realex para mais informações."
 
 msgctxt "Languages::payments.realex.incorrect_request"
 msgid "Incorrect XML message formation or content"
-msgstr "Incorrect XML message formation or content"
+msgstr "Formato/conteúdo de mensagem XML incorreto"
 
 msgctxt "Languages::payments.realex.realex_error"
 msgid "Error with Realex systems"
-msgstr "Error with Realex systems"
+msgstr "Erro com sistemas Realex"
 
 msgctxt "Languages::payments.realex.bank_error"
 msgid "Error with bank systems"
-msgstr "Error with bank systems"
+msgstr "Erro com sistemas bancários"
 
 msgctxt "Languages::payments.realex.card_lost_or_stolen"
 msgid "Card reported lost or stolen"
-msgstr "Card reported lost or stolen"
+msgstr "Cartão reportado como perdido/roubado"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
@@ -15502,11 +15502,11 @@ msgstr "Referral by bank"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
-msgstr "AVS Postcode"
+msgstr "Código postal AVS"
 
 msgctxt "Languages::payments.realex.avs_address"
 msgid "AVS Address"
-msgstr "AVS Address"
+msgstr "Endereço AVS"
 
 msgctxt "Languages::payments.realex.tss_result"
 msgid "TSS"
@@ -15526,43 +15526,43 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Result message"
+msgstr "Mensagem de resultado"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Result code"
+msgstr "Código de resultado"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
-msgstr "Transaction PASREF"
+msgstr "Transação PASREF"
 
 msgctxt "Languages::payments.realex.transaction_order_id"
 msgid "Transaction Order ID"
-msgstr "Transaction Order ID"
+msgstr "ID da transação da encomenda"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr "Matched"
+msgstr "Correspondido"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr "Not matched"
+msgstr "Não correspondido"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr "Problem with check"
+msgstr "Problema na verificação"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr "Unable to check"
+msgstr "Não é possível verificar"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr "Correspondência parcial"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr "This payment is unavailable for this type of credit cards."
+msgstr "Este pagamento não está disponível para este tipo de cartões de crédito."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
@@ -15570,39 +15570,39 @@ msgstr "Incorrect values of 'Valid thru' fields."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "Formulário de login"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "Criar e editar o formulário do perfil"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "Formulário de checkout (dados do cliente)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "Rastrear a minha encomenda"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO settings of your store."
+msgstr "Configurações SEO da sua loja."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
-msgstr "robots.txt"
+msgstr "robots. txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr "Editing: robots.txt"
+msgstr "A editar: robots. txt"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
-msgstr "Edit robots.txt"
+msgstr "Editar robots. txt"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr "Restore the default robots.txt"
+msgstr "Restaurar o robots. txt predefinido"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
@@ -15635,19 +15635,19 @@ msgstr "Upgrade connector not found"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "Não é possível ler o esquemático do pacote (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "O esquemático do conteúdo do pacote não foi encontrado"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "Esquemático do pacote não é um válido JSON"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "Proibido: O módulo tentou atualizar ficheiros de base ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
@@ -15667,59 +15667,59 @@ msgstr "Package contains pre/post scripts that were not described in schema or s
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "Nova versão"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "Migrações"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "Problema de permissões"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "Modificações locais"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "Entendo que as minhas modificações locais serão permanentemente perdidas durante a atualização"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "Será alterado"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "Será apagado"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "Validadores de integridade do pacote de atualização"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "Executar o validador \"[validator]\""
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "Copiar ficheiros"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "Executar migrações"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "Instalar idiomas"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "Atualizar o progresso"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "Upload do pacote de atualização"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
@@ -15727,7 +15727,7 @@ msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrade
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "Navegação externa"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
@@ -15759,7 +15759,7 @@ msgstr "Search by features is not available due to the excessive number of varia
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Atualizado em"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
@@ -15811,9 +15811,9 @@ msgstr "Check PHP script timeout"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Concordo e continuar"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Não é possível preparar o script de restauro."
 

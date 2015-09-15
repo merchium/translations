@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+"PO-Revision-Date: 2015-09-13 11:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -22,11 +22,11 @@ msgstr "לאפשר תמיכה על הודעות הונאה"
 
 msgctxt "Languages::2co_fraud_fail"
 msgid "Status for orders with failed fraud review"
-msgstr "מצב עבור הזמנות עם ביקורת שנכשל על הודעות הונאה"
+msgstr "צפיה במצב הזמנות שלא עברו בדיקת הונאה"
 
 msgctxt "Languages::2co_fraud_wait"
 msgid "Status for orders waiting for fraud review"
-msgstr "מצב עבור הזמנות שמחכות לביקורת על הודעות הונאה"
+msgstr "סטטוס הזמנות המחכות לסקירה בגין הונאה"
 
 msgctxt "Languages::3d_secure"
 msgid "3-D Secure"
@@ -34,7 +34,7 @@ msgstr "3-D Secure"
 
 msgctxt "Languages::404"
 msgid "The 404 Not Found error message"
-msgstr "שגיאת 404: הדף לא נמצא"
+msgstr "הודעת שגיאה 404  הדף המבוקש לא נמצא"
 
 msgctxt "Languages::absolute"
 msgid "Absolute"
@@ -50,15 +50,15 @@ msgstr "עיין בכל המודולים הזמינים"
 
 msgctxt "Languages::accept"
 msgid "Accept"
-msgstr "לקבל"
+msgstr "קבל"
 
 msgctxt "Languages::access_denied"
 msgid "Access denied"
-msgstr "גישה נדחתה"
+msgstr "הגישה נדחתה"
 
 msgctxt "Languages::access_denied_text"
 msgid "You don't have permission to access the page."
-msgstr "אין לך הרשאה לגשת לדף זה."
+msgstr "אין לך הרשאה לגשת אל הדף."
 
 msgctxt "Languages::account"
 msgid "Account"
@@ -66,7 +66,7 @@ msgstr "חשבון"
 
 msgctxt "Languages::account_name"
 msgid "Account name"
-msgstr "שם חשבון"
+msgstr "שם החשבון"
 
 msgctxt "Languages::account_number"
 msgid "Account number"
@@ -486,7 +486,7 @@ msgstr "להוסיף לעגלת הקניות"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "הוסף לרשימת השוואה"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1178,7 +1178,7 @@ msgstr "מינימום רוחב"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
+msgstr "שינוי פריסת עמוד כאשר העיצוב מומר ל-CSS אינו אפשרי. אנא הפעל את מצב ה-LESS ב<a target=\"_blank\" class=\"cm-post\" href=\"[url]\">עורך העיצוב</a>."
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
@@ -1262,11 +1262,11 @@ msgstr "אפשרויות סינון מוצרים"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Product filters for home page"
+msgstr "מסנני מוצר עבור דף הבית"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Product filtering options, displayed on home page"
+msgstr "אפשרויות סינון המוצרים, מוצגות בדף הבית"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1710,7 +1710,7 @@ msgstr "שינוי הרשאות"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr "Check permissions"
+msgstr "בדוק הרשאות"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1886,7 +1886,7 @@ msgstr "ניקוי זיכרון המטמון"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
-msgstr "Generate cache"
+msgstr "צור זיכרון מטמון"
 
 msgctxt "Languages::clear_cart"
 msgid "Clear cart"
@@ -2050,11 +2050,11 @@ msgstr "השוואת מוצרים על פי תכונות"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "השוואת מוצרים"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "עבור לרשימת השוואת מוצרים"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2140,7 +2140,7 @@ msgctxt "Languages::content_changed_for"
 msgid "This block instances have different content for"
 msgstr "לאובייקטים של הבלוק הזה יש תוכן שונה עבור"
 
-msgctxt "Languages::content_menu_description"
+msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
 msgstr "יצירה ופרסום של דפים, סקרים, טפסים וקישורים."
 
@@ -2730,7 +2730,7 @@ msgstr "שינויי הנתונים במסד הנתונים"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "גיבוי/שחזור"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2774,11 +2774,11 @@ msgstr "גיבוי/שחזור מסד נתונים"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "גיבוי/שחזור"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr "Create backup"
+msgstr "צור גיבוי"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2850,7 +2850,7 @@ msgstr "תבנית ברירת מחדל"
 
 msgctxt "Languages::bigpicture_template"
 msgid "The big picture"
-msgstr "The big picture"
+msgstr "התמונה הגדולה"
 
 msgctxt "Languages::default_value"
 msgid "Default value"
@@ -3222,7 +3222,7 @@ msgstr "מחק את כל קבצי המוצרים הקיימים לפני היב�
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
+msgstr "לא היתה אפשרות להעלות קובץ גיבוי. אנא בדוק את הרשאות התיקיה \"var/backups\" בתוך ספריית ההתקנה שלך."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3678,7 +3678,7 @@ msgstr "השדות הבאים הם חובה ולא ניתן להסירם מהפ�
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "לא יוצאו נתונים. ככל הניראה הבעיה נובעת מטווח יצוא שגוי. <a class=\"cm-post\" href=\"[url]\">נקה את טווח התאריכים</a>, ונסה שוב"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3842,7 +3842,7 @@ msgstr "מספר אחורי קצר מידי"
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "אין אפשרות לשנות כתובת מייל או סיסמת מנהל מאזור החנות. אנא התחבר באמצעות חשבון לקוח."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -3982,7 +3982,7 @@ msgstr "שירותים נוספים"
 
 msgctxt "Languages::extra_folders"
 msgid "Extra folders"
-msgstr "Extra folders"
+msgstr "תיקיות נוספות"
 
 msgctxt "Languages::fail"
 msgid "Fail"
@@ -5318,7 +5318,7 @@ msgstr "תיבה ראשית פשותה"
 
 msgctxt "Languages::footer_general"
 msgid "Footer general"
-msgstr "Footer general"
+msgstr "פוטר כללי"
 
 msgctxt "Languages::maintenance"
 msgid "Maintenance"
@@ -7022,7 +7022,7 @@ msgstr "יצירת הזמנה"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Backup/Restore"
+msgstr "גיבוי/שחזור"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7358,7 +7358,7 @@ msgstr "המוצר הוסף לעגלת הקניות שלך"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "המוצר התווסף לרשימת השוואה"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "מוצר זה כבר נמצא בעגלת הקניות שלך"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "מוצר זה כבר נמצא ברשימת ההשוואה"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -7642,7 +7642,7 @@ msgstr "מיקוד של הלקוח"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Shipping methods"
+msgstr "אפשרויות משלוח"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -9170,23 +9170,23 @@ msgstr "מרכז שירות אווירי"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr "No Signature"
+msgstr "ללא חתימה"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr "Signature Required"
+msgstr "חתימה נדרשת"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr "Adult Signature Required"
+msgstr "חתימת מבוגר נדרשת"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr "Use Delivery confirmation"
+msgstr "השתמש באישור משלוח"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr "Confirmation type"
+msgstr "סוג אישור"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9250,7 +9250,7 @@ msgstr "מעטפה מרופדת אחידה"
 
 msgctxt "Languages::ship_usps_container_priority_legal_flat_rate_envelope"
 msgid "Legal Flat Rate Envelope"
-msgstr "Legal Flat Rate Envelope"
+msgstr "מעטפה ליגל תעריף אחיד"
 
 msgctxt "Languages::ship_usps_container_priority_sm_flat_rate_envelope"
 msgid "Sm Flat Rate Envelope"
@@ -9262,7 +9262,7 @@ msgstr "מעטפת חלון אחידה"
 
 msgctxt "Languages::ship_usps_container_priority_gift_card_flat_rate_envelope"
 msgid "Gift Card Flat Rate Envelope"
-msgstr "Gift Card Flat Rate Envelope"
+msgstr "מעטפה גלויה תעריף אחיד"
 
 msgctxt "Languages::ship_usps_first_class_mail_type"
 msgid "First Class Mail Type"
@@ -9994,15 +9994,15 @@ msgstr "מכתב"
 
 msgctxt "Languages::temando_package_pail"
 msgid "Pail"
-msgstr "Pail"
+msgstr "דלי"
 
 msgctxt "Languages::temando_package_pallet"
 msgid "Pallet"
-msgstr "Pallet"
+msgstr "משטח"
 
 msgctxt "Languages::temando_package_parcel"
 msgid "Parcel"
-msgstr "Parcel"
+msgstr "חבילה"
 
 msgctxt "Languages::temando_package_pipe"
 msgid "Pipe"
@@ -10018,7 +10018,7 @@ msgstr "תיק / תרמיל"
 
 msgctxt "Languages::temando_package_skid"
 msgid "Skid"
-msgstr "Skid"
+msgstr "מכולה"
 
 msgctxt "Languages::temando_package_suitcase"
 msgid "Suitcase"
@@ -10222,7 +10222,7 @@ msgstr "אישור העסקה נכשל כדי להגן עליה מפני שימ�
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr "To download this backup, click the gear icon and select Download"
+msgstr "כדי להוריד קובץ גיבוי זה, לחץ על סימן גלגל השינים ובחר באפשרות הורדה"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10738,7 +10738,7 @@ msgstr "לא נמצאו מוצרים"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
-msgstr "Selected filters"
+msgstr "מסננים נבחרים"
 
 msgctxt "Languages::text_no_shipments_found"
 msgid "No shipments found"
@@ -11110,19 +11110,19 @@ msgstr "כתובת דואר אלקטרוני רשומה בסקריל."
 
 msgctxt "Languages::text_skrill_empty_input_data"
 msgid "Some of the fields required for Quick Checkout activation are missing. Please check."
-msgstr "Some of the fields required for Quick Checkout activation are missing. Please check."
+msgstr "חלק מהשדות הנדרשים להפעלת תהליך רכישה מהיר חסרים. אנא בדוק את נכונות הנתונים שהקלדת."
 
 msgctxt "Languages::text_skrill_logo_notice"
 msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
-msgstr "If your HTTPS server is not set up, the logo will be passed by the HTTP protocol and users will see the \"Connection Partially Encrypted\" warning on the Skrill page."
+msgstr "אם שרת HTTPS שלך אינו מוגדר, הלוגו יועבר באמצעות פרוטוקול HTTP, והמשתמשים יראו את האזהרה \"חיבור מוצפן באופן חלקי\" בעמוד הסקריל."
 
 msgctxt "Languages::text_skrill_notice"
 msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
-msgstr "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
+msgstr "כדי לקבל גישה לרשת הבינלאומית של סקריל, אנא הרשם <a href=\"[register_url]\" target=\"_blank\"> כאן</a> לקבלת חשבון חינם, אם אין לך אחד עדיין."
 
 msgctxt "Languages::text_skrill_payment_is_not_saved"
 msgid "In order to use this feature, please save the payment method first."
-msgstr "In order to use this feature, please save the payment method first."
+msgstr "כדי להשתמש בתכונה זו, אנא שמור את שיטת התשלום הראשונה תחילה."
 
 msgctxt "Languages::text_skrill_secred_word_notice"
 msgid "The secret word must be in lower case without special characters and at least 10 digits long."
@@ -11134,11 +11134,11 @@ msgstr "המילה הסודית שצוינה נכונה."
 
 msgctxt "Languages::text_skrill_secret_word_is_incorrect"
 msgid "Your secret word is incorrect. Please choose your secret word in the Merchant Tools section of your Skrill Account and then enter it here."
-msgstr "Your secret word is incorrect. Please choose your secret word in the Merchant Tools section of your Skrill Account and then enter it here."
+msgstr "המילה הסודית שלך אינה נכונה. אנא בחר את המילה הסודית שלך במקטע 'כלים לסוחר' של חשבון הסקריל שלך ולאחר מכן הזן אותה כאן."
 
 msgctxt "Languages::text_skrill_support"
 msgid "<b>Support:</b> <br /><br /> Do you have questions?<br /> Contact Skrill on <a href=\"mailto:\">ecommerce@skrill.com</a> or by phone +44 (0) 870 383 0762.<br />"
-msgstr "<b>Support:</b> <br /><br /> Do you have questions?<br /> Contact Skrill on <a href=\"mailto:\">ecommerce@skrill.com</a> or by phone +44 (0) 870 383 0762.<br />"
+msgstr "<b>תמיכה:</b> <br/> <br/> יש לך שאלות? < br / > צור קשר עם סקריל ב- <a href=\"mailto:\">ecommerce@skrill.com</a> או בטלפון + 44 (0) 870 383 0762. <br/>"
 
 msgctxt "Languages::text_status_is_float"
 msgid "You cannot use time interval for the \"Status\" parameter because this parameter is time dependent."
@@ -11178,7 +11178,7 @@ msgstr "גישה מלאה לכל התכונות בתקופת הניסיון של
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "כל האפשרויות זמינות במהלך 30 הימים הראשונים לאחר ההתקנה. אין צורך להקליד את מפתח הרשיון<br /><br />לאחר שתקופת הנסיון בת ה-30 ימים נגמרת, עליך לרכוש רשיון או להקליד את המפתח, אם כבר יש לך אחד.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11294,7 +11294,7 @@ msgstr "העברת FTP נכשלה"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "לא נמצאה התקנה של CS-Cart בנתיב שצוין. אנא ודא שהקלדת את הנתיב הנכון לתיקיית ה-FTP."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11618,7 +11618,7 @@ msgstr "להסתיר/להציג פאנל עורך עיצוב"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "שם הסגנון לא יכול להכיל את התווים הבאים: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -11830,7 +11830,7 @@ msgstr "מצב עורך עיצוב"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "You cannot modify this parameter for default styles. Create a new one first"
+msgstr "לא ניתן לשנות פרמטר זה עבור סגנונות ברירת המחדל. יש ליצור סגנון חדש תחילה"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11962,7 +11962,7 @@ msgstr "רמז"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
+msgstr "הקונטיינר הזה אינו נמצא בשימוש. \"[container]\" במקומו יופיע הקונטיינר של מיקום ברירת המחדל. instead. קבע מיקום זה כברירת מחדל כדי להשתמש בקונטיינר \"[container]\" לכל המיקומים."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12126,19 +12126,19 @@ msgstr "זה <strong>גירסת ניסיון</strong> של CS-Cart <a href=\"htt
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "גירסת הניסיון של [product] הסתיימה"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "כדי להמשיך לעבוד עם [product] יש להזין את מפתח הרישיון"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "אם אין לך מפתח רישיון, באפשרותך לרכוש אותו באתר הרשמי שלנו <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "רכישת רישיון"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12174,7 +12174,7 @@ msgstr "URL היעד. יכול להיות קישור חיצוני קישור פ�
 
 msgctxt "Languages::tts_menu_user_class"
 msgid "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
-msgstr "User-defined CSS class will be added to the menu item, so this will allow to define the menu item with its own CSS style."
+msgstr "מחלקת CSS מוגדרת על-ידי המשתמש תתווסף על פריט התפריט, וכך ניתן יהיה להגדיר את פריט התפריט עם סגנון CSS משלו."
 
 msgctxt "Languages::tt_views_block_manager_update_block_override_by_this"
 msgid "If you save the block with this option checked, the current block content value will override the content of this block everywhere it is used in the cart"
@@ -12530,11 +12530,11 @@ msgstr "מרכז שדרוג"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validation issue"
+msgstr "בעיית אימות"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr "המאמת \"[validator_name]\" החזיר סטטוס נכשל"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12554,39 +12554,39 @@ msgstr "שדרוג זה אינו זמין עבור הרישיון של CS-Cart �
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "השדרוג הוא תהליך מסובך. הוא עשוי להיכשל עקב סיבות שאינן בשליטתנו. <br>על מנת לבצע את השדרוג של החנות שלך באופן בטוח, הכנו מספר עצות בשבילך:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "אם אינך מכיר את ההיבטים הטכניים של CS-Cart או של תהליך השדרוג, אנו ממליצים כי <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> תישכור מומחה</a> או <a href=\"[upgrade_center_team]\" target=\"_blank\"> תבקש מצוות התמיכה שלנו</a> לשדרג את החנות בשבילך."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "השדרוג אינו מעדכן תוספים של גורמי צד שלישי. לכן אנו ממליצים לך לבטל כל התוספים החיצוניים לפני השדרוג."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "שדרג את עותק הנסיון של החנות שלך תחילה, על מנת לוודא כי השדרוג יעבור באופן תקין."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "לאחר השדרוג, בדוק את הפונקציונליות הבסיסית של החנות שלך."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "באופן כללי, השדרוג ניכשל מכיוון שריצת הסקריפט PHP מופסקת בשל תצורת השרת שלך. הנך נדרש לבדוק את הגדרות הקצבת ה-timeout עבור סקריפט PHP בשרת שלך"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "אנו לא ממליצים להתחיל את השדרוג בשרת שלך."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "לשרת שלך יש הגדרות timeout סקריפט PHP לא נכונות. זה יכול להיות בגלל הגבלות על PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> בפונקציה או FastCGI אפשרויות \"פסק זמן\". אנו ממליצים לך ליצור קשר עם ספק האחסון שלך כדי לפתור את הבעיה או פנה אל צוות התמיכה הטכני לבצע את השדרוג בשבילך."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\"> התחלנו הרצת סקריפט PHP דמה. ההרצה תימשך 6 דקות. עם סיום הבדיקה, נוכל לאמר לך אם ניתן להגדיר timeout עבור סקריפט PHP בצורה ראויה. אם כן, תוכל להמשיך בשדרוג. אנא המתן לסיום הבדיקה כדי לוודא כי לשרת שלך יש את התצורה הנכונה של timeout PHP.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12734,7 +12734,7 @@ msgstr "השתמש בקישור בדף הנוכחי"
 
 msgctxt "Languages::use_custom_view"
 msgid "Use custom view"
-msgstr "Use custom view"
+msgstr "השתמש בתצוגה מותאמת אישית"
 
 msgctxt "Languages::use_custom_weight_settings"
 msgid "Use custom weight settings"
@@ -13582,7 +13582,7 @@ msgstr "ערכת עיצוב בשם זה קיימת כבר. אנא בחר שם א
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
+msgstr "שם הסגנון לא יכול להכיל את התווים הבאים: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13626,15 +13626,15 @@ msgstr "קוד שפה בקובץ ה-PO אינו תואם לזה של השפה מ
 
 msgctxt "Languages::error_class_phar_data_not_found"
 msgid "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
-msgstr "The PharData class not found. Read more: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
+msgstr "מחלקת PharData לא נמצאת. מידע נוסף: <a href=\"https://php.net/manual/en/class.phardata.php\">https://php.net/manual/en/class.phardata.php</a>"
 
 msgctxt "Languages::error_class_zip_archive_not_found"
 msgid "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
-msgstr "The ZipArchive class not found. Read more: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
+msgstr "המחלקה ZipArchive לא נמצאת. מידע נוסף: <a href=\"https://php.net/manual/en/class.ziparchive.php\">https://php.net/manual/en/class.ziparchive.php</a>"
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "\"Zip\" PHP ההרחבה אינה מותקנת. נא התקן את \"Zip\" PHP הרחבת על מנת ליצור ולחלץ קבצי ZIP."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13654,7 +13654,7 @@ msgstr "פרוס קובץ מאורכב"
 
 msgctxt "Languages::seo"
 msgid "SEO"
-msgstr "SEO"
+msgstr "קידום SEO"
 
 msgctxt "Languages::text_magnific"
 msgid "MagnificPopup"
@@ -13778,7 +13778,7 @@ msgstr "הפוך משלוח ללא זמין"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
-msgstr "Shipping processors"
+msgstr "ספקי שירותי משלוחים"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -13998,7 +13998,7 @@ msgstr "קוד כניסה לחנות הסגורה באופן זמני"
 
 msgctxt "SettingsOptions::store_optimization_dev"
 msgid "Rebuild cache automatically"
-msgstr "Rebuild cache automatically"
+msgstr "בניה מחדש של זכרון המטמון באופן אוטומטי"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
@@ -14502,7 +14502,7 @@ msgstr "הצג את שלב 'שיטת המשלוח'"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "אם מוסתר, השיטה הזמינה הראשונה תשמש כברירת מחדל."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
@@ -14510,7 +14510,7 @@ msgstr "הצג את שלב 'שיטת התשלום'"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "If hidden, the first active method will be used by default."
+msgstr "אם מוסתר, השיטה הזמינה הראשונה תשמש כברירת מחדל."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -14518,7 +14518,7 @@ msgstr "אפשר מכירת מוצרים דיגיטליים"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "נדרש סרטיפיקט SSL מותקן על השרת שלך"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14542,7 +14542,7 @@ msgstr "השאר ריק לרקע שקוף"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
-msgstr "SSL certificate is required to be installed on your server"
+msgstr "נדרש סרטיפיקט SSL מותקן על השרת שלך"
 
 msgctxt "SettingsTooltips::checkout_redirect"
 msgid "When the customer clicks on any Checkout button/link in the store"
@@ -14550,7 +14550,7 @@ msgstr "כאשר הלקוח לוחץ על כל כפתור/קישור לקניה 
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
+msgstr "עוקב אחר שינויים בזמן אמת, באופן אוטומטי מחדש את המטמון עם קבצים ששונו (עובד גם עם קבצים ששונו ישירות בשרת). עשוי להשפיע מעט על ביצועי מהירות האתר. מומלץ לבטל בגירסת ה\"לייב\"."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
@@ -14838,7 +14838,7 @@ msgstr "דרך שרת SMTP"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+12"
 msgid "(GMT-12:00) International Date Line West"
-msgstr "(GMT-12:00) International Date Line West"
+msgstr "(GMT-12:00) קו התאריך הבינלאומי המערבי"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
@@ -14894,7 +14894,7 @@ msgstr "דרך פונקציית phpMail"
 
 msgctxt "SettingsVariants::timezone::Pacific/Apia"
 msgid "(GMT-11:00) Midway Island, Samoa"
-msgstr "(GMT-11:00) Midway Island, Samoa"
+msgstr "(GMT-11:00) האי מידווי, סמואה"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
@@ -14902,7 +14902,7 @@ msgstr "סכום ביניים"
 
 msgctxt "SettingsVariants::default_products_sorting::null"
 msgid "None"
-msgstr "None"
+msgstr "ללא"
 
 msgctxt "SettingsVariants::day::%a %b %e, %Y"
 msgid "Tue Jan 3, 2006"
@@ -14922,7 +14922,7 @@ msgstr "דרך תוכנת SendMail"
 
 msgctxt "SettingsVariants::timezone::Pacific/Honolulu"
 msgid "(GMT-10:00) Hawaii"
-msgstr "(GMT-10:00) Hawaii"
+msgstr "(GMT-10:00) הוואי"
 
 msgctxt "SettingsVariants::day::%b %e"
 msgid "Jan 3"
@@ -14934,27 +14934,27 @@ msgstr "01-2006"
 
 msgctxt "SettingsVariants::timezone::America/Anchorage"
 msgid "(GMT-09:00) Alaska"
-msgstr "(GMT-09:00) Alaska"
+msgstr "(GMT-09:00) אלסקה"
 
 msgctxt "SettingsVariants::timezone::America/Los_Angeles"
 msgid "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
-msgstr "(GMT-08:00) Pacific Time (US & Canada); Tijuana"
+msgstr "(GMT-08:00) שעון החוף המערבי (ארה ב & קנדה); טיחואנה"
 
 msgctxt "SettingsVariants::timezone::America/Denver"
 msgid "(GMT-07:00) Mountain Time (US & Canada)"
-msgstr "(GMT-07:00) Mountain Time (US & Canada)"
+msgstr "(GMT-07:00) שעון ההרים (ארה ב & קנדה)"
 
 msgctxt "SettingsVariants::timezone::America/Chihuahua"
 msgid "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
-msgstr "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
+msgstr "(GMT-07:00) צ'יוואווה, לה פאס, מזאטלאן"
 
 msgctxt "SettingsVariants::timezone::America/Phoenix"
 msgid "(GMT-07:00) Arizona"
-msgstr "(GMT-07:00) Arizona"
+msgstr "(GMT-07:00) אריזונה"
 
 msgctxt "SettingsVariants::timezone::America/Regina"
 msgid "(GMT-06:00) Saskatchewan"
-msgstr "(GMT-06:00) Saskatchewan"
+msgstr "(GMT-06:00) ססקצ'ואן"
 
 msgctxt "SettingsVariants::timezone::America/Mexico_City"
 msgid "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
@@ -14962,19 +14962,19 @@ msgstr "(GMT-06:00) גואדלחרה, מקסיקו סיטי, מונטריי"
 
 msgctxt "SettingsVariants::timezone::America/Chicago"
 msgid "(GMT-06:00) Central Time (US & Canada)"
-msgstr "(GMT-06:00) Central Time (US & Canada)"
+msgstr "(GMT-06:00) הזמן המרכזי (ארהב & קנדה)"
 
 msgctxt "SettingsVariants::timezone::America/Guatemala"
 msgid "(GMT-06:00) Central America"
-msgstr "(GMT-06:00) Central America"
+msgstr "(GMT-06:00) מרכז אמריקה"
 
 msgctxt "SettingsVariants::timezone::Etc/GMT+5"
 msgid "(GMT-05:00) Indiana (East)"
-msgstr "(GMT-05:00) Indiana (East)"
+msgstr "(GMT-05:00) אינדיאנה (מזרח)"
 
 msgctxt "SettingsVariants::timezone::America/New_York"
 msgid "(GMT-05:00) Eastern Time (US & Canada)"
-msgstr "(GMT-05:00) Eastern Time (US & Canada)"
+msgstr "(GMT-05:00) הזמן המזרחי (ארהב & קנדה)"
 
 msgctxt "SettingsVariants::timezone::America/Bogota"
 msgid "(GMT-05:00) Bogota, Lima, Quito"
@@ -14982,7 +14982,7 @@ msgstr "(GMT-05:00) בוגוטה, לימה, קיטו"
 
 msgctxt "SettingsVariants::timezone::America/Santiago"
 msgid "(GMT-04:00) Santiago"
-msgstr "(GMT-04:00) Santiago"
+msgstr "(GMT-04:00) סנטיאגו"
 
 msgctxt "SettingsVariants::timezone::America/La_Paz"
 msgid "(GMT-04:00) Caracas, La Paz"
@@ -15190,35 +15190,35 @@ msgstr "(GMT+10:00) בריסביין"
 
 msgctxt "SettingsVariants::timezone::Australia/Sydney"
 msgid "(GMT+10:00) Canberra, Melbourne, Sydney"
-msgstr "(GMT+10:00) Canberra, Melbourne, Sydney"
+msgstr "(GMT + 10:00) קנברה, מלבורן, סידני"
 
 msgctxt "SettingsVariants::timezone::Pacific/Port_Moresby"
 msgid "(GMT+10:00) Guam, Port Moresby"
-msgstr "(GMT+10:00) Guam, Port Moresby"
+msgstr "(GMT + 10:00) גואם, פורט מורסבי"
 
 msgctxt "SettingsVariants::timezone::Australia/Hobart"
 msgid "(GMT+10:00) Hobart"
-msgstr "(GMT+10:00) Hobart"
+msgstr "(GMT + 10:00) הובארט"
 
 msgctxt "SettingsVariants::timezone::Asia/Vladivostok"
 msgid "(GMT+10:00) Vladivostok"
-msgstr "(GMT+10:00) Vladivostok"
+msgstr "(GMT + 10:00) ולדיווסטוק"
 
 msgctxt "SettingsVariants::timezone::Pacific/Guadalcanal"
 msgid "(GMT+11:00) Magadan, Solomon Is., New Caledonia"
-msgstr "(GMT+11:00) Magadan, Solomon Is., New Caledonia"
+msgstr "(GMT + 11:00) מגדן, איי שלמה, קלדוניה החדשה"
 
 msgctxt "SettingsVariants::timezone::Pacific/Auckland"
 msgid "(GMT+12:00) Auckland, Wellington"
-msgstr "(GMT+12:00) Auckland, Wellington"
+msgstr "(GMT + 12:00) אוקלנד, וולינגטון"
 
 msgctxt "SettingsVariants::timezone::Pacific/Fiji"
 msgid "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
-msgstr "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
+msgstr "(GMT + 12:00) פיג'י, קמצ'טקה, איי מרשל."
 
 msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
-msgstr "(GMT+13:00) Nuku'alofa"
+msgstr "(GMT + 13:00) נוקו'אלופה"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
@@ -15226,7 +15226,7 @@ msgstr "דרוש רק אמצעי יצירת קשר בעת הרישום"
 
 msgctxt "Languages::views"
 msgid "Views"
-msgstr "Views"
+msgstr "צפיות"
 
 msgctxt "ProfileFields::firstname"
 msgid "First name"
@@ -15370,15 +15370,15 @@ msgstr "המשך לקופה כאורח"
 
 msgctxt "SettingsVariants::secure_storefront::none"
 msgid "Disable"
-msgstr "Disable"
+msgstr "הפוך ללא זמין"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr "Secure profile, checkout and order pages"
+msgstr "פרופיל מאובטח, דפי הזמנה וקופה"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Secure full site"
+msgstr "אתר מלא מאובטח"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15570,19 +15570,19 @@ msgstr "ערכי תוקף כרטיס שגויים"
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
-msgstr "Login form"
+msgstr "טופס התחברות"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr "Create and edit profile form"
+msgstr "יצירה ועריכה של טופס הפרופיל"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr "Checkout (user information) form"
+msgstr "טופס רכישה (פרטי לקוח)"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr "Track my order form"
+msgstr "טופס עקוב אחרי ההזמנה שלי"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
@@ -15606,15 +15606,15 @@ msgstr "שיחזור קובץ robots.txt המקורי"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
+msgstr "שגיאה באימות נתונים של פרטי כרטיס האשראי. מספר כרטיס האשראי, תוקף או את קוד האימות של הכרטיס אינם נכונים."
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr "Option exceptions"
+msgstr "חריגים לאפשרות זו"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr "Horizontal filters"
+msgstr "מסננים אופקיים"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15623,197 +15623,197 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Upgrade connector [connector_id] returned incorrect data"
+msgstr "קונקטור השדרוג [connector_id] החזיר נתונים שגויים"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Upgrade package has been downloaded and ready to install"
+msgstr "חבילת השדרוג הורדה ומוכנה להתקנה"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr "Upgrade connector not found"
+msgstr "קונקטור שדרוג לא נמצא"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Unable to read package schema (schema.json)"
+msgstr "אין אפשרות לקרוא את סכימת החבילה (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Package content schema not found"
+msgstr "סכימת תוכן החבילה לא נמצאה"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Package schema is not a valid JSON"
+msgstr "סכימת החבילה אינה JSON חוקי"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr "Forbidden: Add-on tries to upgrade core files ([path])"
+msgstr "שגיאה: תוסף מנסה לשדרג את קבצי הליבה ([path])"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
+msgstr "החבילה מכילה מיגרציות שלא תוארו בסכימה או שהסכימה מכילה קישורים לקבצי מיגרציות חסרים"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
+msgstr "חבילה כוללת שפות שאינן כלולות בסכימה או שהסכימה מכילה קישורים לקבצי שפות חסרים"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Package contains files that were not described in schema or schema has links to missing files"
+msgstr "החבילה מכילה קבצים שלא נכללו בסכימה או שהסכימה מכילה קישורים לקבצים חסרים"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
+msgstr "החבילה מכילה קבצי script pre/post שלא נכללו בסכימה או שהסכימה מכילה קישורים לקבצים חסרים"
 
 msgctxt "Languages::new_version"
 msgid "New version"
-msgstr "New version"
+msgstr "גירסה חדשה"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr "Migrations"
+msgstr "מיגרציות"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr "Permissions issue"
+msgstr "בעיית הרשאות"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Local modifications"
+msgstr "שינויים מקומיים"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
-msgstr "I understand that my local modifications will be permanently lost during the upgrade"
+msgstr "אני מבין כי שינויים מקומיים שלי יאבדו לצמיתות במהלך השדרוג"
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "ישונה"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr "Will be deleted"
+msgstr "ימחק"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Upgrade package validators"
+msgstr "מאמתי חבילת שדרוג"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "Execute \"[validator]\" validator"
+msgstr "ביצוע המאמת \"[validator]\""
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
-msgstr "Copy files"
+msgstr "העתקת קבצים"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr "Run migrations"
+msgstr "הפעלת מיגרציות"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
-msgstr "Install languages"
+msgstr "התקנת שפות"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "Upgrade progress"
+msgstr "התקדמות השדרוג"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
-msgstr "Upload upgrade package"
+msgstr "העלאת חבילת שדרוג"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
+msgstr "העלאת חבילת שדרוג מאפשרת לך להחיל הוטפיקסים או שדרוגי תוספים. אתה יכול להעלות את חבילת השדרוג על-ידי בחירת קובץ ארכיון בעל אחת הסיומות tgz, gz, ולחיצה על ההעלאה."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr "Outside navigation"
+msgstr "ניווט מבחוץ"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Incorrect feature type. Some product features were not updated."
+msgstr "סוג תכונה שגוי. תכונות מוצר מסוימות לא עודכנו."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Feature name is missing. Some product features were not updated."
+msgstr "שם התכונה חסר. תכונות מוצר מסוימות לא עודכנו."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr "At least one storefront must remain"
+msgstr "לפחות אתר חנות אחד חייב להישאר"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
+msgstr "אין אפשרות לשחזר את הקובץ. רק קבצי מסוג .sql, zip ו- .tgz מותרים לשימוש."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
+msgstr "אין אפשרות לכתוב אל הקובץ <b>[file]</b>. נסה להגדיר את ההרשאות לכתיבה באופן ידני או לבדוק את גישת ה-FTP לשרת שלך באזור <a href=\"[url]\"> \"מרכז השדרוג\"</a>"
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>מסד הנתונים והקבצים של החנות שלך גובו לפני השדרוג. ארכיון הגיבוי כולל בתוכו את מסד הנתונים כולו ואת כל הקבצים חוץ מתמונות. גיבוי הקובץ כבר מאוחסן בשרת שלך: [backup_file].</p> <p>לפני השדרוג, החנות היתה סגורה. בדוק אם היא פועלת בסדר אחרי השדרוג ו <a href=\"[settings_section]\"> פתח אותה מחדש</a>.</p> <p>, אם משהו משתבש במהלך השדרוג, גש אל פאנל הניהול שלך, <strong>ניהול ← גיבוי/שחזור</strong>, כדי לשחזר את הגיבוי.</p> <p>אם אין לך גישה לפאנל הניהול שלך, השתמש בקישור הבא כדי לשחזר את הגיבוי האחרון. <b>חשוב:</b> לחיצה על קישור זה תזניק מיד את תהליך השחזור. השתמש בקישור הזה רק אם אין לך גישה לפאנל הניהול שלך! שחזור הגיבוי האחרון:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Search by features is not available due to the excessive number of variants."
+msgstr "חיפוש לפי תכונות אינו זמין עקב כמות מופרזת של משתנים."
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "שודרג בתאריך"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "אין אפשרות ליצור תמונה ממוזערת עבור קובץ \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "לחוויית שימוש טובה ומהנה יותר באתר, אנא<a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\"> הגדר את הדפדפן שלך לקבל עוגיות</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "מרכז השדרוג: החנות עברה גיבוי ונסגרה."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "מוצר <b>\"[product]\"</b> לא התווסף לעגלה, מכיוון שאין לו מחיר."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "ספקים אינם יכולים ליצור תכונות מוצר ואפשרויות לתכונות אלו. לא ניתן לשנות תכונות מוצר מסוימות."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "אירעה שגיאה במהלך שדרוג מבנה מסד הנתונים (במהלך המיגרציה [migration])."
 
 msgctxt "Languages::notice_entered_html_was_sanitized"
 msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "באתר זה יש הגבלות על הוספת קוד HTML. כמה תגי HTML כמו &lt; אובייקט &gt;, &lt; iframe &gt;, &lt; embed&gt; וקוד JavaScript אסורים לשימוש."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "אירעו שגיאות במהלך תהליך השדרוג. אנא צור קשר עם התמיכה הטכנית כדי לחקור את הבעיה."
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr "Unable to create backups."
+msgstr "אין אפשרות ליצור גיבויים."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr "[n] שניה נותרה|[n] שניות נותרו"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "נראה כי השרת שלך מאפשר לשנות את ההגדרה \"max_execution_time\" של הסקריפט. באפשרותך להתקדם עם תהליך השדרוג."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr "בדוק את זמן ה-timeout של סקריפט ה-PHP"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "אשר והמשך"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "אין אפשרות להכין קובץ שחזור."
 

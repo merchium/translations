@@ -10,131 +10,131 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+"PO-Revision-Date: 2015-09-13 11:01-0400\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
-msgstr "Store Import"
+msgstr "יבוא חנות"
 
 msgctxt "Addons::description::store_import"
 msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
-msgstr "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
+msgstr "מאפשר לך לייבא נתונים מכל גרסה קיימת של CS-Cart החל מגרסה 2.2.4 (חוץ מהרישיון הקהילתי) לתוך הגרסה הנוכחית."
 
 msgctxt "Languages::store_import.full_path_installation_directory"
 msgid "Full path to the store installation directory"
-msgstr "Full path to the store installation directory"
+msgstr "נתיב מלא אל תיקיית החנות המותקנת"
 
 msgctxt "Languages::store_import.start_new_store_import"
 msgid "Start new store import"
-msgstr "Start new store import"
+msgstr "התחל יבוא חנות חדש"
 
 msgctxt "Languages::store_import.first_step"
 msgid "Select store"
-msgstr "Select store"
+msgstr "בחר חנות"
 
 msgctxt "Languages::store_import.second_step"
 msgid "Validate and import"
-msgstr "Validate and import"
+msgstr "אישור ויבוא"
 
 msgctxt "Languages::store_import.cannot_connect_to_database_server"
 msgid "Cannot connect to the database server"
-msgstr "Cannot connect to the database server"
+msgstr "אין אפשרות להתחבר לשרת מסד הנתונים"
 
 msgctxt "Languages::store_import.check_company_count_failed"
 msgid "Cannot start actualizing data due to Storefront/Vendor changes"
-msgstr "Cannot start actualizing data due to Storefront/Vendor changes"
+msgstr "אין אפשרות להתחיל אחזור נתונים עקב שינויים במבנה אתר החנות או בספקי הסחורה"
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>The store import is complete!</p>"
+msgstr "<p>יבוא החנות הושלם בהצלחה!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
-msgstr "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
+msgstr "<p>על מנת לפתוח את החנות באופן רישמי (\"לייב\"), עליך לבצע את הצעדים הבאים:</p><ul><li>שכתב את תיקיית החנות הנוכחית שלך עם זו החדשה.</li><li>הקלד את הערכים הנכונים עבור המשתנים הבאים: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>עדכן את כתובת אתר החנות תחת ניהול -> חנויות.</li></ul><p>על מנת להתחיל ליבא חנות חדשה, לחץ <b>התחל יבוא חנות חדש.</b></p>"
 
 msgctxt "Languages::store_import.completed_text_mve"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><p>To start another store import, click <b>Start new store import.</b></p>"
-msgstr "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><p>To start another store import, click <b>Start new store import.</b></p>"
+msgstr "<p>על מנת לפתוח את החנות באופן רישמי (\"לייב\"), עליך לבצע את הצעדים הבאים:</p><ul><li>שכתב את תיקיית החנות הנוכחית שלך עם זו החדשה.</li><li>הקלד את הערכים הנכונים עבור המשתנים הבאים: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>עדכן את כתובת אתר החנות תחת ניהול -> חנויות.</li></ul><p>על מנת להתחיל ליבא חנות חדשה, לחץ <b>התחל יבוא חנות חדש.</b></p>"
 
 msgctxt "Languages::store_import.actualize_data_text"
 msgid "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] [edition].</b></p><p>To actualize the data since the last import, click <b>Actualize data</b> (Only design and settings <span>will be kept</span>.) This process can be done repeatedly. When actualizing is over you will see this page again.</p><p>Whenever you're ready to go live or start the Store import again, click <b>Complete Store import</b></p>"
-msgstr "<p>Last data import was made on <b>[date]</b> from <b>CS-Cart [version] [edition].</b></p><p>To actualize the data since the last import, click <b>Actualize data</b> (Only design and settings <span>will be kept</span>.) This process can be done repeatedly. When actualizing is over you will see this page again.</p><p>Whenever you're ready to go live or start the Store import again, click <b>Complete Store import</b></p>"
+msgstr "<p>יבוא הנתונים האחרון בוצע בתאריך <b>[date]</b> מגירסה <b>CS-Cart [version] [edition].</b></p><p>לביצוע איחזור נתונים מהגיבוי האחרון, לחץ <b>אחזר נתונים</b> (רק העיצוב וההגדרות <span>ישמרו </span>.) תהליך זה יכול להתבצע ללא הגבלה. דף זה יוצג לך שוב כאשר תהליך האיחזור יסתיים.</p><p>מתי שתהיה מוכן להשלים את התהליך ולפתוח את החנות, לחץ click <b>סיים יבוא חנות</b></p>"
 
 msgctxt "Languages::store_import.actualize_data"
 msgid "Actualize data"
-msgstr "Actualize data"
+msgstr "אחזר נתונים"
 
 msgctxt "Languages::store_import.import_from"
 msgid "Import from"
-msgstr "Import from"
+msgstr "יבא מתוך"
 
 msgctxt "Languages::store_import.complete_store_import"
 msgid "Complete Store import"
-msgstr "Complete Store import"
+msgstr "יבוא חנות מלא"
 
 msgctxt "Languages::store_import.import_data"
 msgid "Import data"
-msgstr "Import data"
+msgstr "יבוא נתונים"
 
 msgctxt "Languages::store_import.complete_configuration"
 msgid "Proceed to actualizing data"
-msgstr "Proceed to actualizing data"
+msgstr "המשך לאיחזור נתונים"
 
 msgctxt "Languages::store_import.admin_url"
 msgid "Admin panel URL"
-msgstr "Admin panel URL"
+msgstr "כתובת קישור ללוח הבקרה (מנהל) החנות"
 
 msgctxt "Languages::store_import.companies_count"
 msgid "Number of storefronts"
-msgstr "Number of storefronts"
+msgstr "מספר אתרי חנות"
 
 msgctxt "Languages::store_import.store_import"
 msgid "Store import"
-msgstr "Store import"
+msgstr "יבוא חנות"
 
 msgctxt "Languages::store_import.local_store"
 msgid "Store path"
-msgstr "Store path"
+msgstr "נתיב לחנות"
 
 msgctxt "Languages::store_import.select_store"
 msgid "Validate"
-msgstr "Validate"
+msgstr "אימות"
 
 msgctxt "Languages::store_import.local_store_tooltip"
 msgid "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
-msgstr "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
+msgstr "כתובת מלאה לתיקיה הראשית שבה מותקנת החנות שברצונך לייבא. לדוגמה '/var/www/examplestore' במערכות יוניקס או 'C:\\examplestore' במערכות ווינדוס"
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
-msgstr "Configure your store"
+msgstr "הגדרת החנות שלך"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"
-msgstr "Finish store import"
+msgstr "סיים יבוא חנות"
 
 msgctxt "Languages::store_import.storefront_url"
 msgid "Storefront URL"
-msgstr "Storefront URL"
+msgstr "כתובת קישור לאתר החנות"
 
 msgctxt "Languages::store_import.secure_storefront_url"
 msgid "Secure storefront URL"
-msgstr "Secure storefront URL"
+msgstr "כתובת קישור מאובטחת לאתר החנות"
 
 msgctxt "Languages::store_import.db_host"
 msgid "Database host"
-msgstr "Database host"
+msgstr "מסד נתונים מארח"
 
 msgctxt "Languages::store_import.db_name"
 msgid "Database name"
-msgstr "Database name"
+msgstr "שם מסד הנתונים"
 
 msgctxt "Languages::store_import.db_user"
 msgid "Database user"
-msgstr "Database user"
+msgstr "שם משתמש במסד הנתונים"
 
 msgctxt "Languages::store_import.table_prefix"
 msgid "Table prefix"
-msgstr "Table prefix"
+msgstr "קידומת טבלאות"
 
 msgctxt "Languages::store_import.fill_form"
 msgid "<p>Check the data below before proceeding to the data import.</p><p><b>Warning!</b> The data import during this step <b>will overwrite everything (including your existing settings, products, design and layouts, etc.)</b><br />Also, all logs and statistics will be removed.</p><p><b>Pay attention</b> that the <b>Affiliate, Statistics, Recurring billing, Product configurator and Gift registry</b> add-ons are no longer supported, so, none of the related data will be imported from your old store to the new installation.</p>"
@@ -154,31 +154,31 @@ msgstr "[product_name] [product_version] [product_edition]"
 
 msgctxt "Languages::store_import.from"
 msgid "From:"
-msgstr "From:"
+msgstr "מאת:"
 
 msgctxt "Languages::store_import.text_to"
 msgid "To: [product_edition] [product_version]"
-msgstr "To: [product_edition] [product_version]"
+msgstr "אל: [product_edition] [product_version]"
 
 msgctxt "Languages::store_import.edition_mapping_failed"
 msgid "Import from this edition is not supported"
-msgstr "Import from this edition is not supported"
+msgstr "יבוא ממהדורה זו אינו נתמך"
 
 msgctxt "Languages::store_import.configuration_test_failed"
 msgid "Configuration test failed"
-msgstr "Configuration test failed"
+msgstr "בדיקת התצורה נכשלה"
 
 msgctxt "Languages::store_import.wrong_table_prefix"
 msgid "Store tables with the specified prefix are missing in the specified database."
-msgstr "Store tables with the specified prefix are missing in the specified database."
+msgstr "טבלאות החנות עם הקידומת שציינת אינן נמצאות במסד הנתונים."
 
 msgctxt "Languages::store_import.path_does_not_exist"
 msgid "The specified directory does not exist. Please check if the path you entered is correct."
-msgstr "The specified directory does not exist. Please check if the path you entered is correct."
+msgstr "הנתיב שצוין אינו קיים. אנא בדוק שהקלדת נכון את שם התיקייה."
 
 msgctxt "Languages::store_import.this_is_not_cart_path"
 msgid "The specified directory is not a valid store installation root folder."
-msgstr "The specified directory is not a valid store installation root folder."
+msgstr "התיקייה שצוינה אינה תיקיית התקנה של חנות."
 
 msgctxt "Languages::store_import.text_configuration"
 msgid "<p><h4>The data from the old store was successfully imported.</h4><br/>You are now free to leave the Store import tool and customize the settings and design of your store. First of all, do the following:</p>"
@@ -374,47 +374,47 @@ msgstr "<ul><li>Go to <a href=\"[manage_languages_link]\">Languages</a> language
 
 msgctxt "Languages::store_import.progress_title"
 msgid "Upgrading to [to]"
-msgstr "Upgrading to [to]"
+msgstr "משדרג ל- [to]"
 
 msgctxt "Languages::store_import.updating_data"
 msgid "Updating data"
-msgstr "Updating data"
+msgstr "משדרג נתונים"
 
 msgctxt "Languages::store_import.converting_orders"
 msgid "Converting orders"
-msgstr "Converting orders"
+msgstr "ממיר הזמנות"
 
 msgctxt "Languages::store_import.import_failed"
 msgid "Store import failed"
-msgstr "Store import failed"
+msgstr "יבוא החנות נכשל"
 
 msgctxt "Languages::store_import.cloning_database"
 msgid "Cloning database"
-msgstr "Cloning database"
+msgstr "משכפל מסד נתונים"
 
 msgctxt "Languages::store_import.updating_languages"
 msgid "Updating languages"
-msgstr "Updating languages"
+msgstr "מעדכן שפות"
 
 msgctxt "Languages::store_import.done"
 msgid "Done"
-msgstr "Done"
+msgstr "הסתיים"
 
 msgctxt "Languages::store_import.class_not_found"
 msgid "Import from this version is not supported"
-msgstr "Import from this version is not supported"
+msgstr "יבוא ממהדורה זו אינו נתמך"
 
 msgctxt "Languages::store_import.processing_addons"
 msgid "Updating add-ons"
-msgstr "Updating add-ons"
+msgstr "מעדכן תוספים"
 
 msgctxt "Languages::store_import.actualization_completed"
 msgid "Actualization completed"
-msgstr "Actualization completed"
+msgstr "איחזור הושלם"
 
 msgctxt "Languages::store_import.actualization_failed"
 msgid "Actualization failed"
-msgstr "Actualization failed"
+msgstr "איחזור נכשל"
 
 msgctxt "Languages::store_import.invalid_license"
 msgid "Sorry, the data import is impossible: no valid upgrade subscription found (read more about the <a title=\"Store Import: License Requirements\" target=\"_blank\" href=\"http://kb.cs-cart.com/store-import#license-requirements\">license requirements</a> for a store import).<br /><br />Contact us at <a href=\"mailto:sales@cs-cart.com\">sales@cs-cart.com</a> if you have any questions."
@@ -430,13 +430,13 @@ msgstr "Store import has been canceled to prevent the loss of data. Could not co
 
 msgctxt "SettingsSections::store_import::general"
 msgid "General"
-msgstr "General"
+msgstr "כללי"
 
 msgctxt "SettingsOptions::store_import::si_data"
 msgid "Store import data"
-msgstr "Store import data"
+msgstr "נתוני יבוא חנות"
 
 msgctxt "Languages::store_import.design_changes_not_allowed"
 msgid "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
-msgstr "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
+msgstr "יבוא חנות אינו אפשרי לאחר ביצוע המרת LESS-to-CSS בעורך העיצוב. אנא הפעל מחדש את גירסת LESS בעורך ונסה שנית."
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+"PO-Revision-Date: 2015-09-13 11:01-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -186,11 +186,11 @@ msgstr "eBay"
 
 msgctxt "Languages::wait_for_categories_cached"
 msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
-msgstr "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "אנא המתן לשמירת הקטגוריות בזיכרון המטמון. התהליך ימשך כ-3 דקות. לפני ביצוע השמירה, לשוניות המשלוח, תשלומים ומדיניות ההחזרים תהינה ריקות."
 
 msgctxt "Languages::Some_parameters_is_missing"
 msgid "Some parameters is missing. Please check ebay add-on settings"
-msgstr "Some parameters is missing. Please check ebay add-on settings"
+msgstr "חסרים פרמטרים מסוימים. אנא בדוק את הגדרות תוסף הeBay שלך"
 
 msgctxt "Languages::ebay_export_error"
 msgid "An error occurred during product export."
@@ -470,7 +470,7 @@ msgstr "eBay CertID"
 
 msgctxt "SettingsOptions::ebay::token"
 msgid "eBay User Token"
-msgstr "eBay User Token"
+msgstr "מפתח משתמש eBay (User Token)"
 
 msgctxt "SettingsOptions::ebay::listing_mode"
 msgid "Sandbox / Production"
@@ -478,19 +478,19 @@ msgstr "Sandbox / Production"
 
 msgctxt "SettingsOptions::ebay::site_id"
 msgid "Default site"
-msgstr "Default site"
+msgstr "אתר ברירת מחדל"
 
 msgctxt "SettingsOptions::ebay::ebay_timestamp"
 msgid "eBay timestamp"
-msgstr "eBay timestamp"
+msgstr "חותמת זמן eBay"
 
 msgctxt "SettingsVariants::ebay::listing_mode::S"
 msgid "Sandbox"
-msgstr "Sandbox"
+msgstr "סביבת בדיקות"
 
 msgctxt "SettingsVariants::ebay::listing_mode::P"
 msgid "Production"
-msgstr "Production"
+msgstr "סביבת הפקה"
 
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."

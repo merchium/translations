@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 08:03-0400\n"
+"PO-Revision-Date: 2015-09-15 06:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2130,7 +2130,7 @@ msgstr "Параметры контейнера"
 
 msgctxt "Languages::content"
 msgid "Content"
-msgstr "Страницы"
+msgstr "Контент"
 
 msgctxt "Languages::content_alignment"
 msgid "Content alignment"
@@ -2140,9 +2140,9 @@ msgctxt "Languages::content_changed_for"
 msgid "This block instances have different content for"
 msgstr "Экземпляры этого блока имеют различное содержимое для"
 
-msgctxt "Languages::content_menu_description"
+msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr "Создание и публикация страниц, форм и ссылок."
+msgstr "Создавайте и публикуйте страницы, опросы и голосования, формы и ссылки."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -12555,39 +12555,39 @@ msgstr "<p class=\"text-error\">Данное обновление не дост�
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "Обновление магазина — сложный технический процесс. Обновление может не пройти из-за независящих от нас причин.<br> Поэтому мы приготовили подсказки, чтобы обновление прошло максимально безопасно:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Если вы не знаете технических деталей CS-Cart и процесса обновления, настоятельно рекомендуем <a href=\"[upgrade_center_specialist]\" target=\"_blank\">нанять специалиста</a> или <a href=\"[upgrade_center_team]\" target=\"_blank\">попросить нашу команду технической поддержки</a> обновить ваш магазин."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "Обновление не затрагивает модули от сторонних разработчиков. Поэтому перед обновлением отключите все сторонние модули."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Сначала обновите тестовую копию вашего магазина и убедитесь, что обновление прошло гладко."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "После обновления проверьте базовый функционал магазина."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Частая причина неудачных обновлений — завершение работы PHP-скрипта из-за неподходящих настроек сервера. Важно проверить настройки timeout PHP-скрипта на вашем сервере"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "Мы НЕ РЕКОМЕНДУЕМ выполнять обновление на вашем сервере."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "На вашем сервере неподходящие настройки timeout PHP-скрипта. Возможные причины — ограничение времени выполнения PHP-скрипта в функции <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> или в параметре \"Timeout\" интерфейса FastCGI. Мы рекомендуем связаться с вашим хостинг-провайдером, чтобы настроить сервер или с нашей командой технической поддержки, чтобы они выполнили обновление вашего магазина."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">Мы запустили пустой PHP-скрипт. Он будет выполняться 6 минут. После проверки мы сообщим, можно ли задать параметру timeout PHP-скрипта правильное значение. Если можно, обновляйте магазин. Пожалуйста, дождитесь окончания проверки, чтобы убедиться в корректности настройки timeout вашего сервера.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13635,7 +13635,7 @@ msgstr "Класс ZipArchive не найден. Подробнее: <a href=\"h
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "Расширение \"Zip\" для PHP не установлено. Пожалуйста, установите расширение \"Zip\" для PHP для создания и распаковки ZIP-архивов."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -15752,7 +15752,7 @@ msgstr "Не удается записать в файл <b>[file]</b>. Уста
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Перед обновлением была создана резервная копия базы данных и файлов вашего магазина. Резервный архив содержит полную копию базы данных и все файлы, кроме изображений. Резервный архив сохранен на вашем сервере: [backup_file].</p><p>Перед обновлением ваш магазин был закрыт для посетителей. После обновления проверьте, правильно ли работает магазин, и если все в порядке, <a href=\"[settings_section]\">откройте его</a>.</p><p>Если во время обновления что-то пошло не так, зайдите в панель администратора, <strong>Администрирование → Резервное копирование и восстановление</strong>, чтобы восстановить резервную копию магазина.</p><p>Если вы не можете войти в панель администратора, используйте ссылку для восстановления из последней резервной копии. <b>Важно:</b> щелкнув по ссылке, вы сразу запустите восстановление. Используйте эту ссылку только если не можете войти в панель администратора! Восстановить из последней резервной копии:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15760,7 +15760,7 @@ msgstr "Поиск по характеристикам не доступен и�
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Обновления по"
+msgstr "Обновление выполнено"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
@@ -15772,11 +15772,11 @@ msgstr "Для совершения покупок пожалуйста, <a href
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Центр обновлений: Создана резервная копия магазина, и магазин был закрыт."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Продукт <b>«[product]»</b> не был добавлен в корзину, потому что он не имеет цены."
+msgstr "Товар <b>«[product]»</b> не добавлен в корзину, потому что для него не задана цена."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
@@ -15784,37 +15784,37 @@ msgstr "Поставщики не могут задавать характери
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr "Произошла ошибка во время обновления структуры базы данных (применение [migration] миграции)."
+msgstr "Произошла ошибка во время обновления структуры базы данных (применяем миграцию [migration])."
 
 msgctxt "Languages::notice_entered_html_was_sanitized"
 msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "Этот сайт имеет ограничения на вставку HTML-кода. Некоторые теги HTML как &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript, вырезаны."
+msgstr "Этот сайт ограничивает вставку HTML-кода. Некоторые теги HTML, такие как &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript, вырезаются."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr "Произошли ошибки во время процесса обновления. Пожалуйста, свяжитесь с технической поддержки, чтобы исследовать эту проблему."
+msgstr "Произошли ошибки во время обновления. Пожалуйста, свяжитесь с технической поддержкой, чтобы разобраться в проблеме."
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr "Unable to create backups."
+msgstr "Невозможно создавать резервные копии."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr "осталось [n] секунда|осталось [n] секунды|осталось [n] секунд|осталось [n] секунды"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Ваш сервер позволяет изменять значение параметра \"max_execution_time\" PHP-скрипта. Можете обновлять магазин."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr "Проверить время выполнения PHP-скрипта"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Я согласен, можно продолжить"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Невозможно подготовить скрипт восстановления."
 

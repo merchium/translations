@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 10:01-0400\n"
+"PO-Revision-Date: 2015-09-13 11:01-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -34,7 +34,7 @@ msgstr "שכתב מספר טלפון"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr "Highlight first chars"
+msgstr "הדגש אותיות ראשונות"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -46,15 +46,18 @@ msgstr "סטטוס הזמנה"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "תבנית מספר טלפון"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "על מנת להגדיר תבנית באופן אוטומטי על פי מדינה, השאר שדה זה ריק. \n"
+"ביכלתך להשתמש ברווח, פסיק, +, - וספרות.\n"
+"הסיפרה 9 מיצגת כל ספרה שהיא. אם ברצונך לכתוב את הסיפרה עצמה, השתמש ב \\\\9.\n"
+"לדוגמא: +9 (999) 999 99 99, 99999999, 999 999 99 או +99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "כולל סוגריים, רווחים וכו'. משתמשים באפשרות זו על מנת להדגיש קידומת מדינה, קידומת אזורית וקידומות טלפון אחרות."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
@@ -150,33 +153,33 @@ msgstr "לא צויין שם"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Call request and buy now with one click form"
+msgstr "בקשת התקשרות ורכישה באמצעות טופס בלחיצה אחת"
 
 msgctxt "Languages::block_call_request"
 msgid "Call request"
-msgstr "Call request"
+msgstr "בקשת התקשרות טלפונית"
 
 msgctxt "Languages::block_call_request_description"
 msgid "Store phone number and form for requesting a call"
-msgstr "Store phone number and form for requesting a call"
+msgstr "מספר הטלפון של החנות וטופס בקשה להתקשר"
 
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
-msgstr "Call request form"
+msgstr "טופס בקשה להתקשר"
 
 msgctxt "Languages::call_requests.text_call_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "הלקוח/ה [customer] <a href=\"[href]\">ממתינ/ה לשיחתך</a> בטלפון [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
-msgstr "The convenient call time is between [time_from] and [time_to]."
+msgstr "זמן ההתקשרות הנח הנו בין [time_from] ל-[time_to]."
 
 msgctxt "Languages::call_requests.text_buy_with_one_click_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
-msgstr "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "הלקוח/ה [customer] <a href=\"[href]\">ממתינ/ה לשיחתך</a> בטלפון [phone_number], בקשר לרכישת מוצר <a href=\"[product_href]\">[product_name]</a>."
 
 msgctxt "Languages::call_requests.error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid."
-msgstr "The phone number in the <b>[field]</b> field is invalid."
+msgstr "מספר הטלפון בשדה <b>[field]</b> אינו תקין."
 
