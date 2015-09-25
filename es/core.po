@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-11 11:01-0400\n"
+"PO-Revision-Date: 2015-09-25 06:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1371,6 +1371,10 @@ msgstr "La estructura del complemento es incorrecta. El paquete cargado no se pu
 msgctxt "Languages::broken_po_pack"
 msgid "Incorrect PO-pack structure. The uploaded pack cannot be installed."
 msgstr "Estructura del pack PO incorrecta. El pack cargado no se puede instalar."
+
+msgctxt "Languages::incorrect_po_pack_structure"
+msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -13039,9 +13043,9 @@ msgctxt "Languages::default_currency_status"
 msgid "Status of the Primary currency cannot be changed"
 msgstr "El estado de la divisa primaria no se puede cambiar"
 
-msgctxt "Languages::warning_https_disabled"
-msgid "The secure connection check has failed. Please check HTTPS settings in the \"config.php\" file and make sure that SSL certificate is installed on your server."
-msgstr "La conexión segura ha fallado. Por favor compruebe la configuración HTTPS en el archivo \"config.php\" y asegúrese de que el certificado de SSL está instalado en su servidor."
+msgctxt "Languages::warning_https_is_disabled"
+msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13367,9 +13371,9 @@ msgctxt "Languages::development"
 msgid "Development"
 msgstr "Desarrollo"
 
-msgctxt "Languages::check_po_file"
-msgid "PO-file contains syntax errors or incorrect structure. Please re-check it and upload again."
-msgstr "PO-archivo contiene errores de sintaxis o estructura incorrecta. Por favor, vuelva a comprobarlo y subir otra vez."
+msgctxt "Languages::po_file_is_incorrect"
+msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -15819,4 +15823,12 @@ msgstr "Estoy de acuerdo, continuar"
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
 msgstr "No se puede preparar el script de restauración."
+
+msgctxt "Languages::text_cc_javascript_disabled"
+msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+
+msgctxt "Languages::cc_button_submit"
+msgid "Proceed to checkout"
+msgstr "Proceed to checkout"
 
