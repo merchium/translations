@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:00-0400\n"
+"PO-Revision-Date: 2015-09-30 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10670,10 +10670,6 @@ msgstr "Max value of \"limit\" field can not exceed 25 if chart type isn't equal
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Respuesta de pago de Amazon no ha sido recibido todavía, por favor, mantenga. Aunque la orden no puede ser creada en la tienda como fin, es muy probable que ha sido exitosamente creada y procesada por Amazon Checkout. Por favor, póngase en contacto con el personal de la tienda y les digo el order ID proporcionado por Amazon"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Por defecto, los valores mínimos y máximos de las transacciones individuales en su cuenta son como se muestra a continuación:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimo</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximo</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table>por favor, póngase en contacto con su ejecutivo de cuenta para solicitar límites más altos en su cuenta <br/> <p> por favor, ajuste el siguientes parámetros en la Extranet Mercante. Haga clic en Gestión de Cuenta luego Instalaciones:<br/> - URL Respuesta: [return_url]<br/> - URL de devolución: [return_url] </p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

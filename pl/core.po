@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:02-0400\n"
+"PO-Revision-Date: 2015-09-30 10:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10638,7 +10638,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Proszę zalogować się do FirstData 2.0 Admin, otworzyć zakładkę \"Administracja\", kliknąć na link \"Connect 2.0 Setup\" i <br /> ustawić następujące adresy URL w \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" z sekcji: [return_url] <br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -10667,10 +10667,6 @@ msgstr "Max value of the \"limit\" field cannot exceed 25 if chart type isn't \"
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "No response from MoneyBookers has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by MoneyBookers. Please contact the store staff and tell them the order ID as provided by MoneyBookers"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Domyślnie, minimalne i maksymalne wartości poszczególnych transakcji na Twoim koncie są jak pokazano poniżej: <table cellpadding=\"3\"> <tr><td><b>limity</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td></tr> <tr><td><b>Minimum </b></td> <td>1&pound;</td> <td> 1$</td> <td>1&euro;</td></tr> <tr><td><b>maksymalnie </b></td> <td>1000 &pound;</td> <td>1500$</td> <td>1500&euro;</td></tr></table> prosimy o kontakt z opiekunem rachunku w celu podwyższenia limitów na koncie. <br /> <p> Należy ustawić następujące parametry w panelu sprzedawcy. Kliknij przycisk zarządzanie kontem i ustaw: <br />- Response URL: [return_url] <br />- Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

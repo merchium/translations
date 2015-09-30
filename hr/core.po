@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:04-0400\n"
+"PO-Revision-Date: 2015-09-30 10:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10667,10 +10667,6 @@ msgstr "Maksimalna vrijednost polja ''limit'' ne smije premašiti 25 osim ako je
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Molimo za strpljenje, još nije primljen odgovor od Skrill-a. Iako narudžba možda još nije napravljena u trgovini, vrlo je vjerojatno da je uspješno napravljena i obrađena od strane Skrill-a. Molimo kontaktirajte osoblje trgovine i dajte im ID narudžbe koji ste dobili od Skrill-a"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Prema zadanim postavkama minimalne i maksimalne vrijednosti pojedinačnih transakcija na vašem računu su sljedeće:<table cellpadding=\"3\"> <tr> <td><b>Ograničenja</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimalna vrijednost</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maksimalna vrijednost</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Molimo kontaktirajte upravitelja vašeg računa kako bi zatražili povećanje limita na vašem računu.<br /><p>Molimo postavite sljedeće parametre u Extranet Trgovca. Kliknite na Upravljanje računom pa na Instalacije:<br /> - Odgovor URL: [return_url]<br /> - Povratak URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

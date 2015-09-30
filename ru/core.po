@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:02-0400\n"
+"PO-Revision-Date: 2015-09-30 10:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10667,10 +10667,6 @@ msgstr "Максимальное значение поля \"предел\" не
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Ответ от Skrill не был получен, пожалуйста, ждите. Хотя заказ может быть еще не создан в магазине, он с большой вероятностью был создан и оформлен на Skrill. Пожалуйста, обратитесь к администрации магазина и сообщите им номер заказа, предоставленный на Skrill"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "По умолчанию, минимальное и максимальное значения отдельных транзакций вашей учетной записи такие, как показано ниже:<table cellpadding=\"3\"><tr><td><b>Ограничения</b></td><td>   GBP  </td><td>   USD   </td><td>   EUR   </td></tr><tr><td><b> Минимум </b></td><td>  &pound;1</td><td > $1</td><td> &euro;1</td></tr><tr><td><b> Максимум </b></td><td>  &pound;1,000 </td><td> $1500 </td><td> &euro;1500 </td></tr></table>Пожалуйста, свяжитесь с менеджером для повышения пределов для вашей учетной записи.<br><p>Пожалуйста, задайте следующие параметры в Merchant Extranet. Нажмите на Account Management, затем на Installations:<br> - Response URL: [return_url]<br> - Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

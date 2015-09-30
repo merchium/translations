@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:02-0400\n"
+"PO-Revision-Date: 2015-09-30 10:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10668,10 +10668,6 @@ msgstr "Valore massimo del campo \"limite\" non può superare 25 se il tipo di g
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Nessuna risposta da Skrill è stata ancora ricevuta, attendere. Anche se l'ordine potrebbe non essere stato inserito, probabilmente è stato comunque elaborato da Skrill. Per favore contatta il negoziante e chiedi l'ID dell'Ordine fornito da Skrill"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Per impostazione predefinita, i valori minimi e massimi delle singole transazioni sul tuo account sono come indicate di seguito: <table cellpadding=\"3\"> <tr><td><b>limiti</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td></tr> <tr><td><b>minima</b></td> <td>1£</td> <td>$1</td> <td>&euro; 1</td></tr> <tr><td><b>massima</b></td>£<td>1.000</td> <td>$1500</td> <td>&euro; 1500</td></tr></table> contattate il vostro account manager per richiedere limiti più alti sul vostro account. < br / > < p > si prega di impostare i seguenti parametri nel Merchant Extranet. Fare click su gestione Account e poi Installazioni: < br / >- URL di risposta: [return_url] < br / >- Return URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

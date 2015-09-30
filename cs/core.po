@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:01-0400\n"
+"PO-Revision-Date: 2015-09-30 10:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10668,10 +10668,6 @@ msgstr "Maximální hodnota pole \"limit\" nemůže překročit 25 jestliže typ
 msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Skrill zatím neodpovídá, čekejte prosím. Je možné že objednávka nebyla vytvořena v obchodě, ale že byla úspěšně vytvořena a vybavená přes službu Skrill. Kontaktujte, prosím, personál obchodu a sdělte jim ID objednávky, které vám zadal Skrill"
-
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Základní nastavení, minimální a maximální hodnoty  jednotlivých transakcí na vašem účtu jsou ukázány níže:<table cellpadding=\"3\"><tr><td><b>Limity</b></td><td>GBP</td><td>USD</td><td>EUR</td><tr><td><b>Minimum</b></td><td>Ł1</td><td>$1</td><td>&#65533;1</td></tr><tr><td><b>Maximum</b></td><td>Ł1,000</td><td>$1500</td><td>&#65533;1500</td></tr><table>Při požadavku vyššího limitu na vašem účtu kontaktujte, prosím, vašeho správce účtu.<br /><p>Nastavte, prosím, následující parametry ve Velkoobchodním Extranetu. Klikněte na Správa účtu a potom Instalace:<br /> - Odpovědní URL: [return_url]<br /> - Zpáteční URL: [return_url]</p>"
 
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"

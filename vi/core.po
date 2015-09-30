@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-28 12:03-0400\n"
+"PO-Revision-Date: 2015-09-30 10:04-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "PO-gói cấu trúc không chính xác. Không thể cài đặt các g�
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "Cấu trúc gói chứa tập tin bản dịch \".po\" nằm tại khu vực <b>\"[pack_path]\"</b> là không chính xác."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -2146,7 +2146,7 @@ msgstr "Khối này có các nội dung khác nhau cho"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr "Create and publish pages, polls, forms and links."
+msgstr "Tạo và xuất bản trang, thăm dò ý kiến, mẫu nhập văn bản và liên kết."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -10668,10 +10668,6 @@ msgctxt "Languages::text_mb_failed_order"
 msgid "No response from Skrill has been received yet, please hold on. Although the order might not be created in the store as long last, it is highly probable that it has been successfully created and processed by Skrill. Please contact the store staff and tell them the order ID as provided by Skrill"
 msgstr "Không có phản ứng từ Skrill cho biết là đã nhận được hay chưa, xin vui lòng chờ. Mặc dù đơn hàng không thể được tạo trong cửa hàng, rất có thể nó đã được tạo thành công và được xử lý bởi Skrill. Xin vui lòng liên hệ với nhân viên cửa hàng và cung cấp cho họ ID đơn hàng theo quy định của Skrill"
 
-msgctxt "Languages::text_mcpe_notice"
-msgid "By default, the minimum and maximum values of individual transactions on your account are as shown below:<table cellpadding=\"3\"> <tr> <td><b>Limits</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Minimum</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Maximum</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Please contact your account manager to request higher limits on your account.<br /><p>Please set the following parameters in the Merchant Extranet. Click Account Management then Installations:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-msgstr "Theo mặc định, giá trị tối thiểu và tối đa của các giao dịch cá nhân trên tài khoản của bạn được thấy như hình dưới đây:<table cellpadding=\"3\"> <tr> <td><b>Giới hạn</b></td> <td>GBP</td> <td>USD</td> <td>EUR</td> </tr> <tr> <td><b>Tối thiểu</b></td> <td>&pound;1</td> <td>$1</td> <td>&euro;1</td> </tr> <tr> <td><b>Tối đa</b></td> <td>&pound;1,000</td> <td>$1500</td> <td>&euro;1500</td> </tr> </table> Vui lòng liên hệ với người quản lý tài khoản của bạn để yêu cầu giới hạn cao hơn cho tài khoản của bạn.<br /><p>Hãy thiết lập các thông số sau trong Merchant Extranet. Bấm vào Account Management sau đó Cài đặt:<br /> - Response URL: [return_url]<br /> - Return URL: [return_url]</p>"
-
 msgctxt "Languages::text_min_order_amount_required"
 msgid "To continue checkout process your order total must exceed"
 msgstr "Để tiếp tục quá trình thanh toán tổng tiền đơn hàng của bạn phải vượt quá"
@@ -10894,7 +10890,7 @@ msgstr "ID Trang web"
 
 msgctxt "Languages::text_payway_notice"
 msgid "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
-msgstr "Please set up the following parameters in PayWay back end: <p> Browser Return URL Pre Payment: <b>[prepayment]</b><br /> Browser Return URL: <b>[return]</b><br /> Notification URL: <b>[notify]</b><br /> Notification Post Type: leave empty </p>"
+msgstr "Xin vui lòng thiết lập các thông số sau trong quản trị PayWay: <p>Browser Return URL Pre Payment: <b>[prepayment]</b> <br />Browser Return URL: <b>[return]</b> <br />Notification URL: <b>[notify]</b> <br /> Notification Post Type: để trống</p>"
 
 msgctxt "Languages::text_permissions_changed"
 msgid "Permissions changed"
@@ -12558,39 +12554,39 @@ msgstr "<p class=\"text-error\">Nâng cấp này là không có sẵn cho giấy
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "Việc nâng cấp là một quá trình phức tạp. Nó có thể không thành công do lý do ngoài tầm kiểm soát của chúng tôi. <br>Để thực hiện nâng cấp cửa hàng của bạn an toàn hơn, chúng tôi đã chuẩn bị lời khuyên cho bạn:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Nếu bạn không quen thuộc với các khía cạnh kỹ thuật của CS-Cart và quá trình nâng cấp, chúng tôi đề nghị bạn nên <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> thuê một chuyên gia</a> hoặc <a href=\"[upgrade_center_team]\" target=\"_blank\"> hỏi đội ngũ hỗ trợ</a> nâng cấp cửa hàng của bạn."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "Việc nâng cấp không cập nhật các add-on của bên thứ ba. Đó là lý do tại sao chúng tôi đề nghị bạn vô hiệu hóa tất cả các add-on bên thứ ba trước khi nâng cấp."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Nâng cấp bản sao thử nghiệm cửa hàng của bạn trước để đảm bảo rằng việc nâng cấp sẽ được thông suốt."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "Sau khi nâng cấp, kiểm tra các chức năng cơ bản của cửa hàng của bạn."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Nói chung, nâng cấp thất bại vì thực hiện kịch bản PHP chấm dứt do cấu hình máy chủ của bạn. Nó là điều cần thiết để kiểm tra các kịch bản PHP thời gian chờ cài đặt trên máy chủ của bạn"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "Chúng tôi KHÔNG khuyên bạn nên bắt đầu nâng cấp trên máy chủ của bạn."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Máy chủ của bạn đã thiết lập thời gian chờ kịch bản PHP sai. Điều này có thể do hạn chế về chức năng PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> hoặc FastCGI \"Timeout\" tùy chọn. Chúng tôi đề nghị bạn liên hệ với nhà cung cấp hosting của bạn để giải quyết vấn đề này hoặc liên hệ với nhóm hỗ trợ công nghệ của chúng tôi để thực hiện nâng cấp cho bạn."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">Chúng tôi đã bắt đầu một kịch bản PHP giả. Nó sẽ làm việc trong 6 phút. Khi kiểm tra xong, chúng tôi sẽ cho bạn biết nếu kịch bản PHP Timeout được thiết lập một cách chính xác. Nếu có, bạn có thể đi tới nâng cấp. Xin vui lòng chờ đợi cho đến khi kiểm tra xong để chắc chắn rằng máy chủ của bạn có đúng cấu hình PHP Timeout.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13042,7 +13038,7 @@ msgstr "Trạng thái của các loại Tiền tệ Chính không thể thay đ�
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "Kiểm tra kết nối bảo mật đã thất bại. Xin vui lòng đảm bảo rằng xác thực SSL được cài đặt trên máy chủ của bạn. Kiểm tra <a href=\"[href]\" target=\"_blank\"> Bài viết kiến thức cơ sở</a> để biết thêm chi tiết."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
