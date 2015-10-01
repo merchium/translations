@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-30 10:02-0400\n"
+"PO-Revision-Date: 2015-10-01 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "Некорректная структура PO-архива. Загру�
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "Некорректная структура пакета, содержащего языковые файлы \".po\" в <b>\"[pack_path]\"</b>."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -8286,7 +8286,7 @@ msgstr "Сохранить макет как"
 
 msgctxt "Languages::save_process_payment"
 msgid "Save and process payment"
-msgstr "Сохранить и произвести оплату"
+msgstr "Сохранить и оплатить"
 
 msgctxt "Languages::save_this_search_as"
 msgid "Save this search as"
@@ -10638,7 +10638,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Пожалуйста, залогиньтесь в FirstData Connect 2.0 Admin, откройте вкладку \"Administration\" и щелкните по ссылке \"Connect 2.0 Setup\".<br /> Укажите следующий URL-адрес в разделах \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\": [return_url]<br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -13039,7 +13039,7 @@ msgstr "Невозможно изменить статус для Базовой
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "Не удалось проверить защищенное соединение. Пожалуйста, убедитесь, что на вашем сервере установлен сертификат SSL. Подробную информацию ищите в <a href=\"[href]\" target=\"_blank\">Базе знаний</a>."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13367,7 +13367,7 @@ msgstr "Режим разработки"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "В PO-файле <b>\"[file]\"</b> синтаксические ошибки или некорректная структура."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -15820,9 +15820,9 @@ msgstr "Невозможно подготовить скрипт восстан�
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Внимание! В вашем браузере отключен <b>JavaScript</b>. Для оплаты заказа нажмите"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr "Оформить заказ"
 
