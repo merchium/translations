@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-30 10:01-0400\n"
+"PO-Revision-Date: 2015-10-02 11:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "Incorrect PO-pack structure. Δε μπορει να εγκατασταθ
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "Η δομή του πακέτου που περιέχει τα αρχεία μετάφρασης \".po\" που βρίσκονται σε <b>\"[pack_path]\"</b> είναι εσφαλμένη."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -7404,10 +7404,6 @@ msgctxt "Languages::product_fields"
 msgid "Product fields"
 msgstr "Πεδία προϊόντος"
 
-msgctxt "Languages::product_filters_free_limit"
-msgid "The shop is running in the Free mode. Only the first 3 filters are shown in the customer area."
-msgstr "Το κατάστημα λειτουργεί στην ελεύθερη λειτουργία. Μόνο τα πρώτα 3 φίλτρα εμφανίζονται στο χώρο του πελάτη."
-
 msgctxt "Languages::product_groups"
 msgid "Product groups"
 msgstr "Ομάδες προϊόντων"
@@ -10638,7 +10634,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Παρακαλώ συνδεθείτε στο  FirstData Connect 2.0 Admin, ανοίξτε την καρτέλα \"Διαχείρηση\", κάντε κλικ στο σύνδεσμο \"Connect 2.0 Setup\". < br / > Ορίστε την ακόλουθη διεύθυνση URL στα τμήματα \"Υποβολή φόρμα παραγγελίας\", \"Σελίδα επιβεβαίωσης\", \"Αποτυχία σελίδα\" : [return_url] < br / >"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -13038,7 +13034,7 @@ msgstr "Κατάσταση του πρωταρχικού νομισματος δ
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "Ο έλεγχος ασφαλούς σύνδεσης απέτυχε. Βεβαιωθείτε ότι το πιστοποιητικό SSL είναι εγκατεστημένο στο διακομιστή σας. Ελέγξτε το <a href=\"[href]\" target=\"_blank\"> άρθρο της Γνωσιακής βάσης</a> για περισσότερες λεπτομέρειες."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13366,7 +13362,7 @@ msgstr "Ανάπτυξη"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "Το αρχείο <b>\"[file]\"</b> περιέχει συντακτικά λάθη ή εσφαλμένη δομή."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -15819,9 +15815,9 @@ msgstr "Δεν είναι δυνατή η προετοιμασία του script
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Σημείωση! Το πρόγραμμα περιήγησης έχει απενεργοποιημένη την <b>JavaScript</b>. Για να πληρώσετε την παραγγελία σας κάντε κλικ"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr "Προχωρήστε  στο Ταμείο"
 

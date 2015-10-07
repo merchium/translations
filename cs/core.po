@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-30 10:01-0400\n"
+"PO-Revision-Date: 2015-10-02 11:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "Nesprávná struktura PO-packu. Nahráný balíček nelze nainstalovat."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "Struktura balíčku, který obsahuje \".po\" překladatelské soubory umístěné na adrese <b>\"[pack_path]\"</b>, je nesprávná."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -7404,10 +7404,6 @@ msgctxt "Languages::product_fields"
 msgid "Product fields"
 msgstr "Pole produktu"
 
-msgctxt "Languages::product_filters_free_limit"
-msgid "The shop is running in the Free mode. Only the first 3 filters are shown in the customer area."
-msgstr "Obchod je spuštěn v režimu Free. Pouze první 3 filtry jsou zobrazeny v oblasti zákazníka."
-
 msgctxt "Languages::product_groups"
 msgid "Product groups"
 msgstr "Skupiny produktů"
@@ -10639,7 +10635,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Prosím, přihlaste se do FirstData Connect 2.0 Admin, přejděte na kartu \"Správa\", klikněte na odkaz \"Připojit Setup 2.0\".<br />Nastavte následující URL v \"Objednávka - podací formulář\", \"Potvrzení\", \"Selhání stránky\", sekce: [return_url]<br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -13039,7 +13035,7 @@ msgstr "Stav hlavní měny nemůže být změněn"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "Zabezpečená kontrola spojení selhalo. Ujistěte se, že certifikát SSL je nainstalován na vašem serveru. Podívejte se na <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> pro více informací."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13367,7 +13363,7 @@ msgstr "Vývoj"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "PO-file <b>\"[file]\"</b> obsahuje syntaktické chyby nebo nesprávná strukturu."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
