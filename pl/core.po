@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-07 11:02-0400\n"
+"PO-Revision-Date: 2015-10-12 11:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3678,7 +3678,7 @@ msgstr "Niewłaściwa liczba linii dla języków: różna liczba wierszy dla ró
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
-msgstr "Następujące pola są wymagane i nie mogą być usunięte z układu:"
+msgstr "Następujące pola są wymagane i nie mogą być usunięte ze wzorca:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
@@ -13769,10 +13769,6 @@ msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Utrzymaj połącznie HTTPS po odwiedzeniu strony zabezpieczonej SSL"
 
-msgctxt "SettingsOptions::disable_shipping"
-msgid "Disable shipping"
-msgstr "Zablokuj wysyłkę"
-
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
 msgstr "Procesor wysyłek"
@@ -15824,13 +15820,33 @@ msgstr "Złóż zamówienie"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr "Tryb AV"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr "SCRUB Mode"
+msgstr "Tryb SCRUB"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr "Ignoruj"
+
+msgctxt "Languages::use_for_free_shipping"
+msgid "Use for free shipping"
+msgstr "Use for free shipping"
+
+msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
+msgid "Shipping methods, designated as free, will be free for orders containing only free products"
+msgstr "Shipping methods, designated as free, will be free for orders containing only free products"
+
+msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
+msgid "The shipping method will be free for orders containing only products with Free shipping property"
+msgstr "The shipping method will be free for orders containing only products with Free shipping property"
+
+msgctxt "Languages::free_shipping_upgrade_notification_text"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
+msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
+
+msgctxt "Languages::free_shipping_changes_in_435"
+msgid "Free shipping changes in CS-Cart 4.3.5"
+msgstr "Free shipping changes in CS-Cart 4.3.5"
 

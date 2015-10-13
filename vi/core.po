@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-07 11:03-0400\n"
+"PO-Revision-Date: 2015-10-13 05:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -13362,7 +13362,7 @@ msgstr "Phát triển"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "Tập tin PO <b>\"[file]\"</b> có lỗi cú pháp hoặc không chính xác cấu trúc."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13630,7 +13630,7 @@ msgstr "Các lớp ZipArchive không tìm thấy. Đọc tiếp: <a href=\"https
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "\"Zip\" PHP mở rộng không được cài đặt. Xin vui lòng cài đặt \"Zip\" PHP mở rộng để tạo ra và giải nén kho lưu trữ ZIP."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13767,10 +13767,6 @@ msgstr "Sử dụng kết nối an toàn cho cửa hàng"
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Giữ kết nối HTTPS khi một trang an toàn số lượt truy cập"
-
-msgctxt "SettingsOptions::disable_shipping"
-msgid "Disable shipping"
-msgstr "Vô hiệu hóa vận chuyển"
 
 msgctxt "SettingsOptions::header_7006"
 msgid "Shipping processors"
@@ -15799,37 +15795,57 @@ msgstr "[n] second left|[n] seconds left"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Có vẻ như máy chủ của bạn cho phép thay đổi các tùy chọn \"max_execution_time\" từ kịch bản. Nó là tốt để đi với quá trình nâng cấp."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr "Kiểm tra PHP script timeout"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Tôi đồng ý và tiếp tục"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Không thể chuẩn bị khôi phục lại kịch bản."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Lưu ý! Trình duyệt của bạn có <b>JavaScript</b> bị vô hiệu hoá. Để thanh toán cho đơn đặt hàng của bạn nhấp vào"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr "Tiến hành thanh toán"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr "Chế độ AVS"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr "SCRUB Mode"
+msgstr "Chế độ SCRUB"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr "Bỏ qua"
+
+msgctxt "Languages::use_for_free_shipping"
+msgid "Use for free shipping"
+msgstr "Use for free shipping"
+
+msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
+msgid "Shipping methods, designated as free, will be free for orders containing only free products"
+msgstr "Shipping methods, designated as free, will be free for orders containing only free products"
+
+msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
+msgid "The shipping method will be free for orders containing only products with Free shipping property"
+msgstr "The shipping method will be free for orders containing only products with Free shipping property"
+
+msgctxt "Languages::free_shipping_upgrade_notification_text"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
+msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
+
+msgctxt "Languages::free_shipping_changes_in_435"
+msgid "Free shipping changes in CS-Cart 4.3.5"
+msgstr "Free shipping changes in CS-Cart 4.3.5"
 
