@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/blog.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-13 07:00-0400\n"
+"PO-Revision-Date: 2015-10-14 11:00-0400\n"
 
 msgctxt "Addons::name::blog"
 msgid "Blog"
@@ -83,4 +83,8 @@ msgstr "Описание поста"
 msgctxt "Languages::ttc_post_description"
 msgid "Use the &lt;!--CUT--&gt; tag (switch to source code to insert it) to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the &lt;!--CUT--&gt; tag!"
 msgstr "Используйте тег &lt;!--CUT--&gt;  (нужно переключиться на исходный код в редакторе, чтобы вставить его) чтобы скрыть часть поста. На списке постов будет отображаться только часть текста выше тега. < br /><br /> Убедитесь, чтоб <strong>все HTML-теги закрыты</strong> выше &lt;!--CUT--&gt;!"
+
+msgctxt "Languages::blog_functionality_notes"
+msgid "<p>Use this page to manage your blog. This is how you should organize your blog posts:</p><ul><li>Blog is a usual post that has the <b>Root level page</b> as the Parent page.</li><li>Choose <b>Blog</b> as the Parent page for your blog posts.</li></ul>"
+msgstr "<p>Use this page to manage your blog. This is how you should organize your blog posts:</p><ul><li>Blog is a usual post that has the <b>Root level page</b> as the Parent page.</li><li>Choose <b>Blog</b> as the Parent page for your blog posts.</li></ul>"
 
