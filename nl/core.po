@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-12 11:01-0400\n"
+"PO-Revision-Date: 2015-10-22 10:59-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "Onjuiste PO-pack structuur. De geüploade pack kan niet worden geïnstal
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "De structuur van het pakket dat \".po\" vertaal-bestanden bevat en zich bevindt op <b>\"[pack_path]\"</b> is onjuist."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -2146,7 +2146,7 @@ msgstr "Dit blok heeft verschillende inhoud voor"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr "Create and publish pages, polls, forms and links."
+msgstr "Pagina's, polls, formulieren en links aanmaken en publiseren."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -7386,7 +7386,7 @@ msgstr "Dit product kan nu niet aan de winkelwagen worden toegevoegd. Het produc
 
 msgctxt "Languages::product_coming_soon_add"
 msgid "This product will be shipped on [avail_date]"
-msgstr "Dit product is binnenkort beschikbaar op [avail_date]"
+msgstr "Dit product is beschikbaar vanaf [avail_date]"
 
 msgctxt "Languages::product_details"
 msgid "Product details page"
@@ -8706,7 +8706,7 @@ msgstr "Dienst werd niet gevonden"
 
 msgctxt "Languages::shippings_taxes"
 msgid "Shipping & taxes"
-msgstr "Verzenden & heffingen"
+msgstr "Verzenden & belastingen"
 
 msgctxt "Languages::shipping_address"
 msgid "Shipping address"
@@ -8738,7 +8738,7 @@ msgstr "Verzendwijze"
 
 msgctxt "Languages::shipping_methods"
 msgid "Shipping methods"
-msgstr "Verzendwijzen"
+msgstr "Verzendmethoden"
 
 msgctxt "Languages::shipping_methods_menu_description"
 msgid "Set of rules and parameters to calculate the cost of shipping."
@@ -10634,7 +10634,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Login bij FirstData Connect 2.0 Admin, op de tab \"Administratie\", klik op de link \"Connect 2.0 Setup\".<br /> Stel de volgende URL in bij \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" : [return_url]<br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -12550,39 +12550,39 @@ msgstr "<p class=\"text-error\">Deze upgrade is niet beschikbaar voor uw CS-Cart
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "De upgrade is een ingewikkeld proces. Het kan mislukken wegens redenen buiten de software om.<br>Bij deze enkele tips om de upgrade van de webwinkel veiliger te maken:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Indien niet bekend met de technische aspecten en het upgrade proces van CS-Cart, adviseren we om een <a href=\"[upgrade_center_specialist]\" target=\"_blank\">specialist in te huren</a> of om <a href=\"[upgrade_center_team]\" target=\"_blank\">ons support team te vragen</a> de upgrade van de webwinkel uit te voeren."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "De upgrade zal geen plug-ins van derden bijwerken. Daarom is het beter alle plug-ins van derden uit te schakelen alvorens de upgrade uit te voeren."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Upgrade eerst de test kopie van de webwinkel om er zeker van te zijn dat de upgrade goed verloopt."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "Controleer de basisfuncties van de webwinkel na de upgrade."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "De upgrade mislukt meestal omdat het PHP script is beëindigd op de server configuratie. Het is van belang om de PHP time-out instellingen van de server te controleren"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "We raden het af om de upgrade uit te voeren op de server."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "De server heeft verkeerde PHP time-out instellingen. Dit kan het gevolg zijn van beperkingen op de PHP functie <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> of FastCGI \"Timeout\" opties. We raden aan contact op te nemen met de hostingprovider om het probleem op te lossen of neem contact op met onze technische support voor het uitvoeren van de upgrade."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\">We hebben een dummy PHP script gestart. Dit zal gedurende 6 minuten werken. Wanneer de controle is voltooid zullen we vertellen of de PHP time-out instellingen correct ingesteld kunnen worden. Indien dit het geval is mag de upgrade uitgevoerd worden. Wacht totdat de controle is afgerond om er zeker van te zijn dat de juiste PHP time-out instellingen zijn ingesteld op de server.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13034,7 +13034,7 @@ msgstr "Status van de hoofd valuta kan niet worden gewijzigd"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "De controle op een beveiligde verbinding is mislukt. Zorg ervoor dat een SSL certificaat is geïnstalleerd op de server. Bekijk het <a href=\"[href]\" target=\"_blank\">artikel in de kennisbank</a> voor meer informatie."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13362,7 +13362,7 @@ msgstr "Ontwikkeling"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "Het po-bestand <b>\"[file]\"</b> bevat syntaxisfouten of een onjuiste structuur."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13630,7 +13630,7 @@ msgstr "De ZipArchive class werd niet gevonden. Lees meer: https://php.net/manua
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "De \"Zip\" extensie van PHP is niet geïnstalleerd. Installeer deze om Zip-bestanden te maken en uit te pakken."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -15791,61 +15791,61 @@ msgstr "Niet mogelijk om back-ups te maken."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr "[n] seconde te gaan|[n] seconden te gaan"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Het lijkt erop dat de server het toestaat om de \"max_execution_time\" van het script te wijzigen. Het upgradeproces kan doorgaan."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr "PHP time-out controleren"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Ik ga akkoord en ga door"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Niet in staat om het herstel script voor te bereiden."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Opmerking! De browser heeft <b>JavaScript</b> uitgeschakeld. Om de bestelling te betalen, klik"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr "Ga verder om af te rekenen"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr "AVS modus"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr "SCRUB Mode"
+msgstr "SCRUB modus"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr "Negeren"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr "Use for free shipping"
+msgstr "Gebruik voor gratis verzending"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Shipping methods, designated as free, will be free for orders containing only free products"
-msgstr "Shipping methods, designated as free, will be free for orders containing only free products"
+msgstr "Verzendmethoden aangeduid als gratis, zullen gratis zijn voor bestellingen die uitsluitend gratis producten bevatten"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "The shipping method will be free for orders containing only products with Free shipping property"
-msgstr "The shipping method will be free for orders containing only products with Free shipping property"
+msgstr "Verzenden is gratis voor bestellingen die uitsluitend producten met gratis verzending bevatten"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
+msgstr "<p>Bij enkele producten is <b>gratis verzending</b> ingeschakeld. Klanten hoefden in oudere versies van CS-Cart geen verzendmethode te kiezen wanneer men deze producten kocht.</p><p>Vanaf deze CS-Cart versie kiest een klant een verzendmethode tijdens het afrekenen voor producten waarbij <b>gratis verzending</b> is ingeschakeld.</p><p>Voltooi de volgende stappen voor het instellen van een verzendmethode die zal worden gebruikt bij gratis verzending:</p><ol><li>Ga naar <b>Administratie → Verzenden en belastingen → verzendmethoden</b>.</li><li>Kies de gewenste verzendmethode voor gratis verzending of maak een nieuwe aan.</li><li>Scroll naar het blok <i>Extra</i> en schakel <b>Gebruik voor gratis verzending</b> in.</li></ol><p>Het aantal verzendmethoden om te gebruiken als gratis verzending is onbeperkt.</p><p>De gratis verzending methode wordt gebruikt voor gratis verzenden van bestellingen die producten bevatten waarbij <b>Gratis verzending</b> is ingeschakeld.</p><p>Indien de bestelling ook producten bevat waarbij <b>Gratis verzending</b> is <i>uitgeschakeld</i>, zullen de verzendkosten worden berekend op basis van alle producten in de bestelling.</p>"
 
 msgctxt "Languages::free_shipping_changes_in_435"
 msgid "Free shipping changes in CS-Cart 4.3.5"
-msgstr "Free shipping changes in CS-Cart 4.3.5"
+msgstr "Gratis verzending wijzigingen in CS-Cart 4.3.5"
 
