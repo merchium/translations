@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-27 03:59-0400\n"
+"PO-Revision-Date: 2015-10-29 05:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1382,7 +1382,7 @@ msgstr "Bladeren..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>We hebben gedetecteerd dat uw browser het CS-Cart beheerpaneel niet volledig ondersteund. U kunt deze site bekijken met de huidige browser, maar het kan zijn dat niet alles naar behoren werkt.</p><br><p>Het CS-Cart beheerpaneel is het best te bekijken met de volgende browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 en hoger</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (laatste versie)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (laatste versie)</a></li></ul><br><p>Klik op één van de links om de browser van uw keuze te downloaden. Installeer de browser zodra deze is gedownload.</p><br><p>Indien u uw browser nu niet kunt updaten, kunt u het beheerpaneel blijven gebruiken maar wellicht werkt niet alles zoals zou moeten.<br><br><a href=\"[url]\">Ga verder</a></p>"
+msgstr "<p>We hebben gedetecteerd dat de browser het CS-Cart beheerpaneel niet volledig ondersteund. Deze site is te bekijken met de huidige browser, maar het kan zijn dat niet alles naar behoren werkt.</p><br><p>Het CS-Cart beheerpaneel is het best te bekijken met de volgende browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 en hoger</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (laatste versie)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (laatste versie)</a></li></ul><br><p>Klik op één van de links om een browser naar keuze te downloaden. Installeer de browser zodra deze is gedownload.</p><br><p>Indien de browser nu niet bijgewerkt kan worden, kunt u het beheerpaneel blijven gebruiken maar wellicht werkt niet alles zoals zou moeten.<br><br><a href=\"[url]\">Ga verder</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -1630,7 +1630,7 @@ msgstr "Categorieën zijn toegevoegd"
 
 msgctxt "Languages::categories_menu_description"
 msgid "View product categories which are used to group products in your store."
-msgstr "Productcategorieën in uw webwinkel beheren."
+msgstr "Productcategorieën in de webwinkel beheren."
 
 msgctxt "Languages::category"
 msgid "Category"
@@ -1702,7 +1702,7 @@ msgstr "Wijzig taal"
 
 msgctxt "Languages::change_password_notification"
 msgid "Please change your password"
-msgstr "Wijzig uw wachtwoord a.u.b."
+msgstr "Wijzig uw wachtwoord"
 
 msgctxt "Languages::change_password_notification_body"
 msgid "Your password to access the admin panel of the [store] store was last changed [days] days ago. For security reasons, please change your password. In order to do this, please follow the link:"
@@ -7302,7 +7302,7 @@ msgstr "De producten zijn toegevoegd aan uw winkelwagen"
 
 msgctxt "Languages::products_amount"
 msgid "Product quantity"
-msgstr "Productbedrag"
+msgstr "Product aantallen"
 
 msgctxt "Languages::products_bar"
 msgid "Products bar"
@@ -9910,7 +9910,7 @@ msgstr "Btw"
 
 msgctxt "Languages::taxes_menu_description"
 msgid "Manage the set of taxes that are supported in your store."
-msgstr "Beheer btw-tarieven in uw webwinkel"
+msgstr "Belastingtarieven beheren in de webwinkel"
 
 msgctxt "Languages::tax_exempt"
 msgid "Tax exempt"
@@ -10826,7 +10826,7 @@ msgstr "<b>Opmerking:</b> Download het bestand modulev2.cgi van de PayBox server
 
 msgctxt "Languages::text_payment_have_been_deleted"
 msgid "Payment have been deleted successfully."
-msgstr "Betaling is verwijderd."
+msgstr "Betaalmethode is verwijderd."
 
 msgctxt "Languages::text_payment_have_not_been_deleted"
 msgid "Payment cannot be deleted."
@@ -15834,20 +15834,16 @@ msgid "Use for free shipping"
 msgstr "Gebruik voor gratis verzending"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
-msgid "Shipping methods, designated as free, will be free for orders containing only free products"
-msgstr "Verzendmethoden aangeduid als gratis, zullen gratis zijn voor bestellingen die uitsluitend gratis producten bevatten"
+msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
-msgid "The shipping method will be free for orders containing only products with Free shipping property"
-msgstr "Verzenden is gratis voor bestellingen die uitsluitend producten met gratis verzending bevatten"
+msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
-msgstr "<p>Bij enkele producten is <b>gratis verzending</b> ingeschakeld. Klanten hoefden in oudere versies van CS-Cart geen verzendmethode te kiezen wanneer men deze producten kocht.</p><p>Vanaf deze CS-Cart versie kiest een klant een verzendmethode tijdens het afrekenen voor producten waarbij <b>gratis verzending</b> is ingeschakeld.</p><p>Voltooi de volgende stappen voor het instellen van een verzendmethode die zal worden gebruikt bij gratis verzending:</p><ol><li>Ga naar <b>Administratie → Verzenden en belastingen → verzendmethoden</b>.</li><li>Kies de gewenste verzendmethode voor gratis verzending of maak een nieuwe aan.</li><li>Scroll naar het blok <i>Extra</i> en schakel <b>Gebruik voor gratis verzending</b> in.</li></ol><p>Het aantal verzendmethoden om te gebruiken als gratis verzending is onbeperkt.</p><p>De gratis verzending methode wordt gebruikt voor gratis verzenden van bestellingen die producten bevatten waarbij <b>Gratis verzending</b> is ingeschakeld.</p><p>Indien de bestelling ook producten bevat waarbij <b>Gratis verzending</b> is <i>uitgeschakeld</i>, zullen de verzendkosten worden berekend op basis van alle producten in de bestelling.</p>"
-
-msgctxt "Languages::free_shipping_changes_in_435"
-msgid "Free shipping changes in CS-Cart 4.3.5"
-msgstr "Gratis verzending wijzigingen in CS-Cart 4.3.5"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
@@ -15856,4 +15852,12 @@ msgstr "Afval categorie"
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
 msgstr "Een product wordt naar deze categorie verplaatst wanneer het uit alle andere categorieën is verwijderd."
+
+msgctxt "Languages::free_shipping_upgrade_notification_title"
+msgid "Free shipping changes in CS-Cart"
+msgstr "Free shipping changes in CS-Cart"
+
+msgctxt "Languages::upgrade_notification_title"
+msgid "Upgrade changes in CS-Cart 4.3.5"
+msgstr "Upgrade changes in CS-Cart 4.3.5"
 

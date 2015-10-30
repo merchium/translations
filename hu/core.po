@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-27 09:59-0400\n"
+"PO-Revision-Date: 2015-10-29 05:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -15834,20 +15834,16 @@ msgid "Use for free shipping"
 msgstr "Use for free shipping"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
-msgid "Shipping methods, designated as free, will be free for orders containing only free products"
-msgstr "Shipping methods, designated as free, will be free for orders containing only free products"
+msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
-msgid "The shipping method will be free for orders containing only products with Free shipping property"
-msgstr "The shipping method will be free for orders containing only products with Free shipping property"
+msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping & taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>The free shipping method will be used for free shipping of orders that contain products with the <b>Free shipping</b> property enabled.</p><p>If the order also contains products with the <b>Free shipping</b> property <i>disabled</i>, the shipping fee will be calculated according to Shipping charges for all of the products in the order.</p>"
-
-msgctxt "Languages::free_shipping_changes_in_435"
-msgid "Free shipping changes in CS-Cart 4.3.5"
-msgstr "Free shipping changes in CS-Cart 4.3.5"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
@@ -15856,4 +15852,12 @@ msgstr "Trash category"
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
 msgstr "When a product is deleted from the last category in the store, it will be moved to this category."
+
+msgctxt "Languages::free_shipping_upgrade_notification_title"
+msgid "Free shipping changes in CS-Cart"
+msgstr "Free shipping changes in CS-Cart"
+
+msgctxt "Languages::upgrade_notification_title"
+msgid "Upgrade changes in CS-Cart 4.3.5"
+msgstr "Upgrade changes in CS-Cart 4.3.5"
 
