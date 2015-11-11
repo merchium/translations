@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 05:01-0400\n"
+"PO-Revision-Date: 2015-11-10 08:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1374,7 +1374,7 @@ msgstr "Feil PO-pakke struktur. Den opplastede pakken kan ikke installeres."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr ""
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -2146,7 +2146,7 @@ msgstr "Denne blokkens forekomster har forskjellig innhold for"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr "Create and publish pages, polls, forms and links."
+msgstr ""
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -8792,65 +8792,17 @@ msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
 msgstr "Grossist ID"
 
-msgctxt "Languages::ship_dhl_additional_protection"
-msgid "Additional protection"
-msgstr "Ekstra beskyttelse"
-
-msgctxt "Languages::ship_dhl_additional_protection_ap"
-msgid "Asset Protection"
-msgstr "Eiendomsbeskyttelse"
-
-msgctxt "Languages::ship_dhl_additional_protection_nr"
-msgid "Not required"
-msgstr "Ikke obligatorisk"
-
-msgctxt "Languages::ship_dhl_cod_method"
-msgid "COD payment method"
-msgstr "Oppkrav betalingsmåte (Cash On Delivery, COD)"
-
-msgctxt "Languages::ship_dhl_cod_method_m"
-msgid "Check or Money Order"
-msgstr "Sjekk eller Postanvisning"
-
-msgctxt "Languages::ship_dhl_cod_method_p"
-msgid "Personal or Company Check"
-msgstr "Personlig eller firmasjekk"
-
-msgctxt "Languages::ship_dhl_cod_payment"
-msgid "Use COD payment"
-msgstr "Bruk oppkravsbetaling (Cash On Delivery, COD)"
-
-msgctxt "Languages::ship_dhl_cod_value"
-msgid "COD surcharge"
-msgstr "Oppkrav tilleggsavgift"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Pakkehøyde (tommer)"
-
-msgctxt "Languages::ship_dhl_intl_ship_key"
-msgid "Shipping key (international)"
-msgstr "Forsendelsesnøkkel (internasjonal)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
 msgstr "Pakkelengde (tommer)"
 
-msgctxt "Languages::ship_dhl_shipment_type"
-msgid "Shipment type"
-msgstr "Forsendelse type"
-
-msgctxt "Languages::ship_dhl_ship_hazardous"
-msgid "Ship hazardous materials"
-msgstr "Send farlige materialer"
-
-msgctxt "Languages::ship_dhl_ship_key"
-msgid "Shipping key"
-msgstr "Forsendelse nøkkel"
-
 msgctxt "Languages::ship_dhl_system_id"
-msgid "System ID"
-msgstr "System ID"
+msgid "Site ID"
+msgstr ""
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10581,8 +10533,40 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Det er ikke tillatt å opprette/laste opp/endre navn på filer av denne <b>[mime]</b> MIME typen."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Denne funksjonaliteten er bare tilgjengelig i <strong>Full modus</strong>.<br/><br/>For å få tilgang til alle funksjoner, må du kjøpe en lisens og <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivere Full modus</a>."
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_functionality_full"
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_promotions"
+msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_multistore"
+msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_customer"
+msgid "Assigning customers to User Groups and setting different privileges for admins"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_languages"
+msgid "Several languages and currencies in your store"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_addons"
+msgid "Over 30 add-ons out of the box to make your store even better"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_support"
+msgid "Technical support and access to our Customer Help Desk"
+msgstr ""
+
+msgctxt "Languages::upgrade_license"
+msgid "Upgrade license"
+msgstr ""
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10599,6 +10583,10 @@ msgstr "Vennligst fullfør betalingen nedenfor.<br />Dette er en sikker betaling
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "<strong>Full-modus</strong> påkrevd."
+
+msgctxt "Languages::license_required"
+msgid "[product] license required."
+msgstr ""
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10634,7 +10622,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr ""
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -12550,39 +12538,39 @@ msgstr "<p class=\"text-error\">Denne oppgraderingen er ikke tilgjengelig for di
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr ""
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr ""
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13034,7 +13022,7 @@ msgstr "Status for primærvaluta kan ikke endres"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr ""
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13362,7 +13350,7 @@ msgstr "Utvikling"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr ""
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13630,7 +13618,7 @@ msgstr "ZipArchive class ikke funnet. Les mer: <a href=\"https://php.net/manual/
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr ""
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -15787,77 +15775,97 @@ msgstr "Det oppstod feil under oppgraderings-prosessen. Kontakt teknisk support 
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr "Unable to create backups."
+msgstr ""
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr ""
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr ""
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr "Check PHP script timeout"
+msgstr ""
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr ""
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr ""
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr ""
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr ""
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr ""
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr "SCRUB Mode"
+msgstr ""
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr ""
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr "Use for free shipping"
+msgstr ""
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr ""
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr ""
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr ""
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr "Trash category"
+msgstr ""
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr "When a product is deleted from the last category in the store, it will be moved to this category."
+msgstr ""
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
-msgid "Free shipping changes in CS-Cart"
-msgstr "Free shipping changes in CS-Cart"
+msgid "Free shipping changes"
+msgstr ""
+
+msgctxt "Languages::dhl_upgrade_notification_title"
+msgid "DHL realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::dhl_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
+msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
-msgid "Upgrade changes in CS-Cart 4.3.5"
-msgstr "Upgrade changes in CS-Cart 4.3.5"
+msgid "Upgrade changes in [product] [version]"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_title"
+msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_text"
+msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
+msgstr ""
+
+msgctxt "Languages::eway_configuration_note"
+msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
+msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 05:00-0400\n"
+"PO-Revision-Date: 2015-11-10 07:59-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -8792,65 +8792,17 @@ msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
 msgstr "ID obchodníka"
 
-msgctxt "Languages::ship_dhl_additional_protection"
-msgid "Additional protection"
-msgstr "Dodatečná ochrana"
-
-msgctxt "Languages::ship_dhl_additional_protection_ap"
-msgid "Asset Protection"
-msgstr "Ochrana objektu"
-
-msgctxt "Languages::ship_dhl_additional_protection_nr"
-msgid "Not required"
-msgstr "Není nutné"
-
-msgctxt "Languages::ship_dhl_cod_method"
-msgid "COD payment method"
-msgstr "COD paymcst method"
-
-msgctxt "Languages::ship_dhl_cod_method_m"
-msgid "Check or Money Order"
-msgstr "Šekem nebo peněžní poukázkou"
-
-msgctxt "Languages::ship_dhl_cod_method_p"
-msgid "Personal or Company Check"
-msgstr "Osobní nebo firemní šek"
-
-msgctxt "Languages::ship_dhl_cod_payment"
-msgid "Use COD payment"
-msgstr "Použít COD platby"
-
-msgctxt "Languages::ship_dhl_cod_value"
-msgid "COD surcharge"
-msgstr "COD příplatek"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Výška balení (palce)"
-
-msgctxt "Languages::ship_dhl_intl_ship_key"
-msgid "Shipping key (international)"
-msgstr "Přepravní klíč (mezinárodní)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
 msgstr "Délka obalu (palce)"
 
-msgctxt "Languages::ship_dhl_shipment_type"
-msgid "Shipment type"
-msgstr "Typ zásilky"
-
-msgctxt "Languages::ship_dhl_ship_hazardous"
-msgid "Ship hazardous materials"
-msgstr "Doprava nebezpečných materiálů"
-
-msgctxt "Languages::ship_dhl_ship_key"
-msgid "Shipping key"
-msgstr "Přepravní klíč"
-
 msgctxt "Languages::ship_dhl_system_id"
-msgid "System ID"
-msgstr "Systémové ID"
+msgid "Site ID"
+msgstr "Stránky ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10582,8 +10534,40 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Není dovoleno vytvořit/uploadovat/přejmenovat soubor MIME <b>[mime]</b>."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Tato funkce je dostupná pouze v <strong>plné verzi</strong>.<br/><br/>Pro získání plného přístupu ke všem možnostem programu, zakupte si licenci a <a class=\"cm-dialog-opener cm-dialog -auto-size\" data-ca-target-id =\"store_mode_dialog\">aktivujte plnou verzi</a>."
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
+msgstr "<p>Jste v současné době pomocí [product] ve Free Modu. Režim Free Mod nevyžaduje licenci a má omezenou funkčnost. Chcete-li použít tuto funkci, budete potřebovat [product] licenci.</p>"
+
+msgctxt "Languages::text_forbidden_functionality_full"
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
+msgstr "<p>Ty jsou v současné době pomocí [product] v Free Mode. Tento mód nevyžaduje licenci a má omezenou funkčnost.<br>Chcete-li použít tuto funkci, budete potřebovat [product] licenci.</p><p>Nákup [product] licence a aktivací je jednoduché jako facka. S [product] licencí, budete mít plný přístup k těmto funkcím: </p>"
+
+msgctxt "Languages::text_forbidden_feature_promotions"
+msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
+msgstr "Plné propagace: budete mít možnost přidat nejen katalog propagace, ale také košík propagace"
+
+msgctxt "Languages::text_forbidden_feature_multistore"
+msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
+msgstr "Funkce Multi-Store: spravovat více obchodů za použití jednotného admin panelu"
+
+msgctxt "Languages::text_forbidden_feature_customer"
+msgid "Assigning customers to User Groups and setting different privileges for admins"
+msgstr "Přiřazení zákazníkům do Skupiny uživatelů a nastavení různých oprávnění pro administrátory"
+
+msgctxt "Languages::text_forbidden_feature_languages"
+msgid "Several languages and currencies in your store"
+msgstr "Několik jazyků a měn ve vašem obchodě"
+
+msgctxt "Languages::text_forbidden_feature_addons"
+msgid "Over 30 add-ons out of the box to make your store even better"
+msgstr "Více než 30 vestavěných doplňků, aby váš obchod byl ještě lepší"
+
+msgctxt "Languages::text_forbidden_feature_support"
+msgid "Technical support and access to our Customer Help Desk"
+msgstr "Technická podpora a přístup k našemu zákazníckemu Help Desk"
+
+msgctxt "Languages::upgrade_license"
+msgid "Upgrade license"
+msgstr "Upgrade licence"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10600,6 +10584,10 @@ msgstr "Prosím, dokončete svou platbu.<br />Toto je zajištěna platební str�
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "Aktivovat <strong>Plný režim</strong>."
+
+msgctxt "Languages::license_required"
+msgid "[product] license required."
+msgstr "[product] požadovaná licence."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -15836,15 +15824,15 @@ msgstr "Použití pro dopravu zdarma"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr "Aktivovaný výrobek s dopravou zdarma bude vyloučen z dodací kalkulace pokud způsob dopravy má Použití pro dopravu zdarma aktivní"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr "Vyloučit produkty s dopravou zdarma volba povoleno z kalkulace ceny"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr "<p>Některé z vašich produktů mají vlastnosti <b>Doprava zdarma</b> povolenu. V dřívějších verzích [product] zákazník nemusel zvolit způsob dopravy při nákupu těchto výrobků.</p><p>Počínaje tímto [product] verze, si zákazník zvolí způsob dopravy na pokladně u výrobků s <b>Dopravou zdarma</b>.</p><p>Chcete-li nastavit způsob dopravy, který bude použit na dopravu zdarma, proveďte tyto kroky:</p><ol><li>jděte <b>Administrace ->Přepravní &amp; daně -> Způsoby dopravy</b>.</li><li>Vyberte stávající způsob dopravy, který chcete použít pro dopravu zdarma, nebo vytvořte novou.</li><li>Přejděte na <i>Další</i> sekci umožňující <b>Použít na dopravu zdarma</b>.</li></ol><p>Můžete nastavit libovolný počet způsobů přepravy, jaký chcete, na dopravu zdarma.</p><p>Všimněte si, že budete muset použít <b>Použít dopravu zdarma</b> možnosti konkrétních způsobů přepravy.</p><p>Zaškrtněte <b>Použití pro dopravu zdarma</b> políčko, chcete-li vyloučit výrobky s povolen <b>Doprava zdarma</b> možnosti na konkrétních způsobů přepravy. [product] vypočítá přepravní ceny ostatních výrobků z pořadí v souladu s <b>Doprava poplatky</b>.</p><p>Pokud necháte políčko nezaškrtnuté, [product] bude počítat přepravní cenu u všech výrobků z pořadí v souladu s <b>Přepravnímy poplatky</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
@@ -15855,10 +15843,30 @@ msgid "When a product is deleted from the last category in the store, it will be
 msgstr "Pokud je výrobek odstraněn z poslední kategorie v obchodě, bude přemístěn do této kategorie."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
-msgid "Free shipping changes in CS-Cart"
-msgstr "Free shipping changes in CS-Cart"
+msgid "Free shipping changes"
+msgstr "Změny dopravě zdarma"
+
+msgctxt "Languages::dhl_upgrade_notification_title"
+msgid "DHL realtime shipping rate calculation changes"
+msgstr "DHL v reálném čase kalkulace přepravní změny"
+
+msgctxt "Languages::dhl_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
+msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby přepravní společnosti DHL.</p><p>Pokud se chceme zobrazit aktuální přepravní sazby za přepravu pro zákazníky, musíte udělat následující:.</p><ul><li>Přejděte do nabídky správa>doprava/daně>Způsoby přepravy</li><li>vyberte způsob dopravy DHL</li><li>přejděte na kartu Obecné a zadejte správný přístup k datům</li><li>přejděte na kartu Nastavení a zadejte správné ID a heslo</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
-msgid "Upgrade changes in CS-Cart 4.3.5"
-msgstr "Upgrade changes in CS-Cart 4.3.5"
+msgid "Upgrade changes in [product] [version]"
+msgstr "Aktualizace změny v [product] [version]"
+
+msgctxt "Languages::eway_upgrade_notification_title"
+msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
+msgstr "eWay, eWay s přímou platbou a eWay Sdílené platby platebních procesorů již nejsou podporovány"
+
+msgctxt "Languages::eway_upgrade_notification_text"
+msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
+msgstr "<p><b>eWay</b>, <b>eWay přímé platby</b> a <b>eWay společnou Platba</b> není podporován touto verzí [product].</p><p>Důrazně doporučujeme, <b>Aktualizace eWay přímých plateb (Rapid API)<b> nebo <b>Eway Citlivé Shared (Rapid API)</b> pokynů:</p><ul><li>Přejděte do Administration>Platba</li><li>otevřená metoda platby, který používá procesor Eway</li><li>Přejděte na kartu Obecné a vyberte platební procesoru eWay přímé platby (Rapid API) nebo eWay citlivý Shared (Rapid API)</li><li>přejděte na kartu Nastavení a zadejte v tomto pořadí:<ul><li>API klíč, heslo, API a šifrovací klíč pro eWay přímé platby (Rapid API)</li><li>klíč API a heslo API pro eWay Responsive Sdílené ( Rapid API)</li></ul></li></ul><p>eWay, eWay s přímou platbou a Eway Citlivé Shared budou stále k dispozici, ale bude<b> přejmenován</b> datum eWay, respektive datum eWay přímých plateb a společnou Citlivé datum Eway.</p>"
+
+msgctxt "Languages::eway_configuration_note"
+msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>Jak mohu nastavit můj Live eWay API klíč a heslo?</a>"
 

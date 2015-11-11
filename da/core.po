@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 05:00-0400\n"
+"PO-Revision-Date: 2015-11-10 07:59-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -486,7 +486,7 @@ msgstr "Læg i vognen"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr "Add to comparison list"
+msgstr "Tilføj til sammenligningsliste"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1374,7 +1374,7 @@ msgstr "Forkert PO-pack struktur. Den uploadede pack kan ikke installeres."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
+msgstr "Strukturen af pakke, der indeholder \".po\" oversættelsesfiler placeret i <b>\"[pack_path]\"</b> er forkert."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -2054,11 +2054,11 @@ msgstr "sammenligning"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Sammenligningsliste"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Go to the products comparison list"
+msgstr "Gå til produktsammenligningslisten"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2146,7 +2146,7 @@ msgstr "Denne bloks forekomster har forskelligt indhold for"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr "Create and publish pages, polls, forms and links."
+msgstr "Oprette og udgive sider, meningsmålinger, former og links."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -3682,7 +3682,7 @@ msgstr "De følgende felter skal udfyldes, og kan ikke fjernes fra layout:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
+msgstr "Ingen data eksporteres. Forkert eksportrækkefølge er sandsynligvis årsag til problemet. <a class=\"cm-post\" href=\"[url]\"> Rens eksportrækkefølge</a>, så prøv igen"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3846,7 +3846,7 @@ msgstr "CVV/CVC er for kort."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
+msgstr "Det er forbudt for at ændre admin e-mail eller adgangskode i området debitor. Venligst log på ved hjælp af en kundekonto."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7362,7 +7362,7 @@ msgstr "Varen er blevet lagt i kurven"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "The product was added to your Comparison list"
+msgstr "Produktet blev føjet til sammenligningslisten"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "Dette produkt er allerede i vognen"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "This product is already in the comparison list"
+msgstr "Dette produkt er allerede i sammenligningslisten"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -8792,65 +8792,17 @@ msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
 msgstr "Forhandler-ID"
 
-msgctxt "Languages::ship_dhl_additional_protection"
-msgid "Additional protection"
-msgstr "Yderligere beskyttelse"
-
-msgctxt "Languages::ship_dhl_additional_protection_ap"
-msgid "Asset Protection"
-msgstr "Værdibeskyttelse"
-
-msgctxt "Languages::ship_dhl_additional_protection_nr"
-msgid "Not required"
-msgstr "Ikke påkrævet"
-
-msgctxt "Languages::ship_dhl_cod_method"
-msgid "COD payment method"
-msgstr "COD betalings metode"
-
-msgctxt "Languages::ship_dhl_cod_method_m"
-msgid "Check or Money Order"
-msgstr "Check eller kontant"
-
-msgctxt "Languages::ship_dhl_cod_method_p"
-msgid "Personal or Company Check"
-msgstr "Privat eller firma Check"
-
-msgctxt "Languages::ship_dhl_cod_payment"
-msgid "Use COD payment"
-msgstr "Brug COD"
-
-msgctxt "Languages::ship_dhl_cod_value"
-msgid "COD surcharge"
-msgstr "COD omkostning"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Pakke højde (inches)"
-
-msgctxt "Languages::ship_dhl_intl_ship_key"
-msgid "Shipping key (international)"
-msgstr "Shipping tasten (internationale)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
 msgstr "Pakke længde (inches)"
 
-msgctxt "Languages::ship_dhl_shipment_type"
-msgid "Shipment type"
-msgstr "Leverings type"
-
-msgctxt "Languages::ship_dhl_ship_hazardous"
-msgid "Ship hazardous materials"
-msgstr "Skib farlige materialer"
-
-msgctxt "Languages::ship_dhl_ship_key"
-msgid "Shipping key"
-msgstr "Leverings nøgle"
-
 msgctxt "Languages::ship_dhl_system_id"
-msgid "System ID"
-msgstr "System id"
+msgid "Site ID"
+msgstr "Websted-ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10581,8 +10533,40 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Det er ikke tilladt at oprette/upload/omdøbe filer af <b>[mime]</b> MIME-type."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Denne funktionalitet er tilgængelig kun i <strong>fuld tilstand</strong>. <br/> <br/>For at have fuld adgang til alle funktioner, køb en licens og <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> aktivere den fuld tilstand</a>."
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
+msgstr "<p>Du bruger i øjeblikket [product] i fri tilstand. Den frie tilstand kræver ikke en licens og har begrænset funktionalitet. Hvis du vil bruge denne funktion, du har brug for en [product] licens.</p>"
+
+msgctxt "Languages::text_forbidden_functionality_full"
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
+msgstr "<p>Du bruger i øjeblikket [product] i fri tilstand. Den frie tilstand kræver ikke en licens og har begrænset funktionalitet.  <br>Til at bruge denne funktion, du har brug for en [product] licens.</p> <p>Køb [product] licens og aktivere det er pærelet. Med [product] licensen får du fuld adgang til disse funktioner:</p>"
+
+msgctxt "Languages::text_forbidden_feature_promotions"
+msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
+msgstr "Komplette tilbud: du vil være i stand til at tilføje ikke kun kataloget kampagner, men også indkøbskurv kampagner"
+
+msgctxt "Languages::text_forbidden_feature_multistore"
+msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
+msgstr "Multi-store funktionalitet: du vil være i stand til at forbinde flere butiksfacader og administrere dem via en admin panel"
+
+msgctxt "Languages::text_forbidden_feature_customer"
+msgid "Assigning customers to User Groups and setting different privileges for admins"
+msgstr "Tildele kunder til brugergrupper og indstilling forskellige privilegier for admins"
+
+msgctxt "Languages::text_forbidden_feature_languages"
+msgid "Several languages and currencies in your store"
+msgstr "Flere sprog og valutaer i din butik"
+
+msgctxt "Languages::text_forbidden_feature_addons"
+msgid "Over 30 add-ons out of the box to make your store even better"
+msgstr "Over 30 tilføjelser ud af boksen for at gøre din butik endnu bedre"
+
+msgctxt "Languages::text_forbidden_feature_support"
+msgid "Technical support and access to our Customer Help Desk"
+msgstr "Teknisk support og adgang til vores kunde Help Desk"
+
+msgctxt "Languages::upgrade_license"
+msgid "Upgrade license"
+msgstr "Opgraderingslicens"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10599,6 +10583,10 @@ msgstr "Udfyld din betaling nedenfor. < br / > dette er en sikker betaling side,
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "<strong>Full mode</strong> kræves."
+
+msgctxt "Languages::license_required"
+msgid "[product] license required."
+msgstr "[product] licens er påkrævet."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10634,7 +10622,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Venligst log ind for at FirstData slut 2.0 Admin, Åbn fanen \"Administration\", klik på \"Connect 2.0 Setup\" link. < br / > Fastsæt følgende webadresse i \"Rækkefølge indsendelse Form\", \"bekræftelsesside\", \"Manglende sideafsnit\": [return_url]< br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -11174,7 +11162,7 @@ msgstr "Fuld adgang til alle funktioner i løbet af den 30-dages prøveperiode, 
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
+msgstr "Alle funktioner er tilgængelige under 30 dage efter download af installationspakken. Du behøver ikke at indtaste den licens nøglen. < br / > < br / > efter den 30-dages prøveperiode er forbi, skal du købe licens eller postere licensnøglen, hvis du allerede har en. < br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11290,7 +11278,7 @@ msgstr "FTP-overførsel mislykkedes"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
+msgstr "Vi kunne ikke finde CS-Cart installation i den angivne mappe. Kontroller, at du har indtastet den korrekte FTP-mappe."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -12122,19 +12110,19 @@ msgstr "Din butik er i Trial mode. < br / > < br / > når den 30-dages prøveper
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgstr "Din prøveversion af [product] er færdig"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgstr "Fortsat arbejde med [product] postere licensnøglen"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgstr "Hvis du ikke har en licensnøgle, kan du købe det på vores officielle hjemmeside <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr "Buy the license"
+msgstr "Køb licens"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12550,39 +12538,39 @@ msgstr "<p class=\"text-error\">Denne opgradering er ikke tilgængelig for dit C
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
+msgstr "Opgraderingen er en kompliceret proces. Det kan være mislykkedes på grund af grunde, der er uden for vores kontrol. <br>Til at gøre opgraderingen af din butik sikrere, vi har forberedt dig disse tips:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
+msgstr "Hvis du ikke er fortrolig med tekniske aspekter af CS-Cart og opgraderingsprocessen, anbefaler vi at du <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> leje en specialist</a> eller <a href=\"[upgrade_center_team]\" target=\"_blank\"> Spørg vores supportteam</a> at opgradere din butik for dig."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
+msgstr "Opgraderingen opdatere ikke tredjeparts-tilføjelser. Det er derfor vi anbefaler, at du deaktiverer alle tredjeparts-tilføjelser inden opgraderingen."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
+msgstr "Opgradere test kopi af din butik først at sørge for, at opgraderingen vil gå glat."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "After the upgrade, check the basic functionality of your store."
+msgstr "Efter opgraderingen, skal du kontrollere den grundlæggende funktionalitet i din butik."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
+msgstr "Generelt, opgraderingen mislykkes fordi PHP scriptudførelse er opsagt på grund af din serverkonfiguration. Det er absolut nødvendigt at kontrollere PHP script timeout-indstillinger på din server"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "We DO NOT recommend to start the upgrade on your server."
+msgstr "Vi ikke anbefaler for at starte opgraderingen på din server."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
+msgstr "Din server har forkert PHP script timeoutindstillinger. Dette kan skyldes restriktioner for PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> funktion eller FastCGI \"Timeout\" muligheder. Vi anbefaler dig at kontakte din hosting udbyder for at løse dette spørgsmål eller kontakt vores tech supportteam for at udføre opgraderingen for dig."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
+msgstr "<p class=\"text-error\"> vi har startet en dummy PHP script. Det vil arbejde under 6 minutter. Når arbjedet er færdig, vil vi fortælle dig, hvis PHP script timeout kan indstilles korrekt. Hvis ja, end du er god til at gå med opgraderingen. Vent indtil arbejdet er færdig med at være sikker på at din server har korrekte PHP timeout konfigurationen.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12942,7 +12930,7 @@ msgstr "Se kategorier"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr "Comparison list"
+msgstr "Sammenligningsliste"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13034,7 +13022,7 @@ msgstr "Status for den primære valuta kan ikke ændres"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
+msgstr "Sikker forbindelse markeringen mislykkedes. Kontroller, at SSL-certifikatet er installeret på din server. Tjekke <a href=\"[href]\" target=\"_blank\"> vidensbaseartikel</a> for flere oplysninger."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13362,7 +13350,7 @@ msgstr "Udvikling"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
+msgstr "PO-fil <b>\"[file]\"</b> indeholder syntaksfejl eller forkert struktur."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13630,7 +13618,7 @@ msgstr "Den ZipArchive klasse ikke findes. Læs mere: <a href=\"https://php.net/
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
+msgstr "\"Zip\" PHP forlængelse er ikke installeret. Installer \"Zip\" PHP forlængelse hen til oprette og uddrag ZIP-arkiver."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -15743,7 +15731,7 @@ msgstr "Der kan ikke skrives til filen <b>[file]</b>. Angive de skrivbare tillad
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
+msgstr "<p>Din butik database og filer er blevet sikkerhedskopieret før opgraderingen. Backup arkivet omfatter hele databasen og alle filer undtagen billeder. Den backup arkiv er blevet gemt på din server: [backup_file].</p> <p>Før opgraderingen, din butik blev lukket. Kontroller, hvis det kører fint efter opgradering og <a href=\"[settings_section]\"> åbne det</a>.</p> <p>Hvis noget går galt under opgraderingen, skal du gå til din admin panel, <strong>Administration → sikkerhedskopiering/gendannelse</strong>, gendanne sikkerhedskopien.</p> <p>Hvis du ikke kan få adgang til din admin panel, bruge følgende link til at gendanne den seneste sikkerhedskopi. <b>Vigtigt:</b> dette link vil straks indlede gendannelsesprocessen. Brug det kun hvis du ikke kan få adgang til din admin panel! Gendanne den seneste sikkerhedskopi:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15751,51 +15739,51 @@ msgstr "Søg efter funktioner er ikke tilgængelige på grund af overdreven anta
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr "Upgraded on"
+msgstr "Opgraderet på"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr "Unable to create thumbnail for file \"[file]\": [error]"
+msgstr "Afskåret fra skabe miniature for filen \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
+msgstr "For en komplet shopping oplevelse, skal du <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\"> indstille din browser til at acceptere cookies</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr "Upgrade center: Store has been backed up and closed."
+msgstr "Opgradering center: butikken er blevet sikkerhedskopieret og lukket."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
+msgstr "Produkt <b>\"[product]\"</b> er ikke føjet til vognen, fordi det ikke har en pris."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr "Vendors cannot create product features and their variants. Some product features cannot be modified."
+msgstr "Kreditorer kan ikke oprette produktfunktioner og deres varianter. Nogle produktfunktioner kan ikke ændres."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr "An error has occured during upgrading database structure (applying migration [migration])."
+msgstr "Der opstod en fejl under opgradering af databasestrukturen (gælder migration [migration])."
 
 msgctxt "Languages::notice_entered_html_was_sanitized"
 msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgstr "Denne hjemmeside har restriktioner på indsætte HTML-kode. Nogle HTML-koder som &lt; object &gt;, &lt; iframe &gt;, &lt; embed &gt; og JavaScript-kode er afskåret."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
+msgstr "Der opstod fejl under opgraderingsprocessen. Kontakt teknisk support for at undersøge problemet."
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr "Unable to create backups."
+msgstr "Der kan ikke oprettes sikkerhedskopier."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr "[n] sekunder tilbage|[n] sekunder tilbage"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
+msgstr "Det ser ud til, at din server giver mulighed for at ændre indstillingen \"max_execution_time\" fra scriptet. Du er ok for at gå videre med opgraderingsprocessen."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
@@ -15803,23 +15791,23 @@ msgstr "Check PHP script timeout"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr "I agree and continue"
+msgstr "Jeg er enig og fortsætte"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr "Unable to prepare restore script."
+msgstr "Ikke i stand til at forberede \"restore\" script."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
+msgstr "Bemærk! Din browser har <b>JavaScript</b> deaktiveret. For at betale for din bestilling Klik"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr "Proceed to checkout"
+msgstr "Gå til kassen"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr "AVS-tilstand"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
@@ -15827,37 +15815,57 @@ msgstr "SCRUB Mode"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr "Ignorere"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr "Use for free shipping"
+msgstr "Brug for gratis fragt"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr "Produkter med gratis forsendelsesmulighed aktiveret, vil blive udelukket fra forsendelse beregning, hvis forsendelsesmetode har gratis shipping indstilling aktiveret"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr "Udelukke produkter med den aktiveret gratis shipping indstilling af de shipping priskalkulation"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr "<p>Nogle af dine produkter har egenskaben <b>gratis forsendelse</b> er aktiveret. I tidligere versioner af [product] kunde ikke skulle vælge en leveringsmetode, når de køber produkterne.</p> <p>Starter med dette [product] version, en kunde vælger en leveringsmetode på checkout for produkter med <b>gratis forsendelse</b> egenskaben aktiveret.</p> <p>For at indstille en leveringsmetode, der skal bruges til gratis fragt skal fuldføre disse trin:</p> <ol><li>Gå til <b>Administration → Shipping &amp; skat → forsendelsesmetoder</b>.</li> <li>Skal du vælge den eksisterende shipping metode, du vil bruge til gratis forsendelse, eller oprette en ny.</li> <li>Rul til <i>ekstra</i> sektion og aktivere indstillingen <b>Brug gratis shipping</b>.</li></ol> <p>Du kan oprette så mange forsendelsesmetoder som du ønsker for gratis fragt.</p> <p>Bemærk at du skal anvende indstillingen <b>Brug Gratis Fragt</b> på særlig forsendelsesmetoder.</p> <p>Marker afkrydsningsfeltet <b>Brug Gratis Fragt</b> hvis du vil udelukke produkterne med den aktiveret <b>gratis forsendelse</b> valgmulighed af de shipping priser beregning. [product] vil beregne Forsendelses prisen for de andre produkter fra ordre i overensstemmelse med de <b>forsendelsesomkostninger</b>.</p> <p>Hvis du lader afkrydsningsfeltet unticked, [product] beregner fragtprisen for alle produkter fra ordre i overensstemmelse med de <b>forsendelsesomkostninger</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr "Trash category"
+msgstr "Skrald kategori"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr "When a product is deleted from the last category in the store, it will be moved to this category."
+msgstr "Når et produkt er slettet fra den sidste kategori i butikken, vil det blive flyttet til denne kategori."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
-msgid "Free shipping changes in CS-Cart"
-msgstr "Free shipping changes in CS-Cart"
+msgid "Free shipping changes"
+msgstr "Gratis forsendelsesændringer"
+
+msgctxt "Languages::dhl_upgrade_notification_title"
+msgid "DHL realtime shipping rate calculation changes"
+msgstr "DHL realtime shipping sats beregning ændringer"
+
+msgctxt "Languages::dhl_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
+msgstr "<p>Den seneste version af [product] har forskellige indstillinger for realtime shipping sats beregning, hvis du bruger DHL som transportør.</p> <p>Hvis du ønsker at vise nuværende fragtpriser til dine kunder, gør dette:</p> <ul><li>gå til Administration > Shipping & skatter > Shipping metoder</li> <li>vælge den leveringsmetode, der bruger DHL som transportør til at beregne fragtpriser</li> <li>Skift til fanen Generelt, og Angiv den korrekte rutefart</li>, <li>Skift til fanen Konfigurer og angive korrekt Site-ID og Password</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
-msgid "Upgrade changes in CS-Cart 4.3.5"
-msgstr "Upgrade changes in CS-Cart 4.3.5"
+msgid "Upgrade changes in [product] [version]"
+msgstr "Opgradere ændringer i [product] [version]"
+
+msgctxt "Languages::eway_upgrade_notification_title"
+msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_text"
+msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
+msgstr ""
+
+msgctxt "Languages::eway_configuration_note"
+msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
+msgstr ""
 

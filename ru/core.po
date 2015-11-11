@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 05:01-0400\n"
+"PO-Revision-Date: 2015-11-10 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -8792,65 +8792,17 @@ msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
 msgstr "ID пользователя"
 
-msgctxt "Languages::ship_dhl_additional_protection"
-msgid "Additional protection"
-msgstr "Дополнительная защита"
-
-msgctxt "Languages::ship_dhl_additional_protection_ap"
-msgid "Asset Protection"
-msgstr "Защита объекта"
-
-msgctxt "Languages::ship_dhl_additional_protection_nr"
-msgid "Not required"
-msgstr "Не требуется"
-
-msgctxt "Languages::ship_dhl_cod_method"
-msgid "COD payment method"
-msgstr "Способ оплаты COD"
-
-msgctxt "Languages::ship_dhl_cod_method_m"
-msgid "Check or Money Order"
-msgstr "Чек или денежный перевод"
-
-msgctxt "Languages::ship_dhl_cod_method_p"
-msgid "Personal or Company Check"
-msgstr "Именной чек или чек компании"
-
-msgctxt "Languages::ship_dhl_cod_payment"
-msgid "Use COD payment"
-msgstr "Использовать способ оплаты COD"
-
-msgctxt "Languages::ship_dhl_cod_value"
-msgid "COD surcharge"
-msgstr "Доп. сбор за наложенный платёж"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Высота упаковки"
-
-msgctxt "Languages::ship_dhl_intl_ship_key"
-msgid "Shipping key (international)"
-msgstr "Ключ доставки (международный)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
 msgstr "Длина упаковки"
 
-msgctxt "Languages::ship_dhl_shipment_type"
-msgid "Shipment type"
-msgstr "Тип транспортировки"
-
-msgctxt "Languages::ship_dhl_ship_hazardous"
-msgid "Ship hazardous materials"
-msgstr "Доставлять опасные материалы"
-
-msgctxt "Languages::ship_dhl_ship_key"
-msgid "Shipping key"
-msgstr "Ключ доставки"
-
 msgctxt "Languages::ship_dhl_system_id"
-msgid "System ID"
-msgstr "Системный ID"
+msgid "Site ID"
+msgstr ""
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10581,8 +10533,40 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Не разрешается создавать/загружать/переименовывать файлы типа <b>[mime]</b> MIME."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Эта функция доступна только в <strong>Полном режиме</strong>.<br/><br/>Для того чтобы получить полный доступ ко всем функциям магазина, приобретите лицензию и <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">активируйте Полный режим</a>."
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_functionality_full"
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_promotions"
+msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_multistore"
+msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_customer"
+msgid "Assigning customers to User Groups and setting different privileges for admins"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_languages"
+msgid "Several languages and currencies in your store"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_addons"
+msgid "Over 30 add-ons out of the box to make your store even better"
+msgstr ""
+
+msgctxt "Languages::text_forbidden_feature_support"
+msgid "Technical support and access to our Customer Help Desk"
+msgstr ""
+
+msgctxt "Languages::upgrade_license"
+msgid "Upgrade license"
+msgstr ""
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10599,6 +10583,10 @@ msgstr "Пожалуйста, завершите оплату ниже.<br />Э�
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "Активируйте <strong>Полный режим</strong>"
+
+msgctxt "Languages::license_required"
+msgid "[product] license required."
+msgstr ""
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -15820,45 +15808,65 @@ msgstr "Оформить заказ"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr "AVS Mode"
+msgstr "Режим AVS"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr "SCRUB Mode"
+msgstr "Режим SCRUB"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr "Ignore"
+msgstr "Игнорировать"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr "Use for free shipping"
+msgstr "Использовать для бесплатной доставки"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr "Товары с включенным параметром Бесплатная доставка не учитываются при расчете стомости доставки, если для выбранного способа доставки включен параметр Использовать для бесплатной доставки"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr "Не учитывать товары с включенным параметром Бесплатная доставка при расчете стоимости доставки"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr "<p>Для некоторых товаров включен параметр <b>Бесплатная доставка</b>. В предыдущих версиях [product] покупатель не выбирал способ доставки при покупке таких товаров.</p><p>Начиная с этой версии [product], покупатель выбирает способ доставки при оформлении заказа для товаров с включенным параметром <b>Бесплатная доставка</b>.</p><p>Для того, чтобы задать способ доставки, который будет использоваться для бесплатной доставки, выполните следующие шаги:</p><ol><li>Перейдите на страницу <b>Администрирование → Доставка и налоги → Способы доставки</b>.</li><li>Выберите существующий способ доставки, который хотите использовать для бесплатной доставки, или создайте новый способ доставки.</li><li>Прокрутите текущую страницу до раздела <i>Подробнее</i> и включите настройку <b>Использовать для бесплатной доставки</b>.</li></ol><p>Вы можете выбрать несколько способов для бесплатной доставки.</p><p>Обратите внимание, что вам нужно включить параметр <b>Использовать для бесплатной доставки</b> для каждого способа доставки отдельно.</p><p>Отметьте флажок <b>Использовать для бесплатной доставки</b>, чтобы не учитывать товары с включенным параметром <b>Бесплатная доставка</b> при расчете стоимости доставки. [product] рассчитает стоимость доставки других товаров в заказе в соответствии с данными <b>Стоимость доставки</b>.</p><p>Если вы не включите параметр <b>Использовать для бесплатной доставки</b>, [product] рассчитает стоимость доставки для всех товаров в заказе в соответствии с данными <b>Стоимость доставки</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr "Trash category"
+msgstr "Категория-корзина"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr "When a product is deleted from the last category in the store, it will be moved to this category."
+msgstr "Когда товар удаляется из последней категории в магазине, он перемещается в эту категорию."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
-msgid "Free shipping changes in CS-Cart"
-msgstr "Free shipping changes in CS-Cart"
+msgid "Free shipping changes"
+msgstr "Изменения бесплатной доставки"
+
+msgctxt "Languages::dhl_upgrade_notification_title"
+msgid "DHL realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::dhl_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
+msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
-msgid "Upgrade changes in CS-Cart 4.3.5"
-msgstr "Upgrade changes in CS-Cart 4.3.5"
+msgid "Upgrade changes in [product] [version]"
+msgstr "Изменения после обновления в [product] [version]"
+
+msgctxt "Languages::eway_upgrade_notification_title"
+msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_text"
+msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
+msgstr ""
+
+msgctxt "Languages::eway_configuration_note"
+msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
+msgstr ""
 

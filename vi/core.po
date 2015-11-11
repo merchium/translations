@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 05:02-0400\n"
+"PO-Revision-Date: 2015-11-10 08:01-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -794,7 +794,7 @@ msgstr "Tiếng Ả Rập"
 
 msgctxt "Languages::arrows"
 msgid "Arrows"
-msgstr "Arrows"
+msgstr ""
 
 msgctxt "Languages::asc"
 msgid "asc."
@@ -982,7 +982,7 @@ msgstr "Ngân hàng"
 
 msgctxt "Languages::ground_only"
 msgid "Ground only"
-msgstr "Ground only"
+msgstr ""
 
 msgctxt "Languages::bank_cic"
 msgid "Groupe CIC"
@@ -3250,7 +3250,7 @@ msgstr "Chặn nội dung này sẽ chỉ được hiển thị trên<a href=\"[
 
 msgctxt "Languages::dynamic_tree_cat"
 msgid "Dynamic tree"
-msgstr "Dynamic tree"
+msgstr ""
 
 msgctxt "Languages::dynamic_tree_pages"
 msgid "Dynamic tree"
@@ -3998,7 +3998,7 @@ msgstr "Thất bại"
 
 msgctxt "Languages::fair"
 msgid "Fair"
-msgstr "Fair"
+msgstr ""
 
 msgctxt "Languages::false"
 msgid "False"
@@ -4118,7 +4118,7 @@ msgstr "Tập tin là quá lớn. Tải lên kích thước tối đa là [size]
 
 msgctxt "Languages::file_tree"
 msgid "File tree"
-msgstr "File tree"
+msgstr ""
 
 msgctxt "Languages::filling"
 msgid "Filling"
@@ -4262,7 +4262,7 @@ msgstr "Từ ngày"
 
 msgctxt "Languages::fulfillment_state"
 msgid "Fulfillment state"
-msgstr "Fulfillment state"
+msgstr ""
 
 msgctxt "Languages::full"
 msgid "Full"
@@ -4282,11 +4282,11 @@ msgstr "Danh sách đầy đủ"
 
 msgctxt "Languages::full_tree_cat"
 msgid "Full tree"
-msgstr "Full tree"
+msgstr ""
 
 msgctxt "Languages::full_tree_pages"
 msgid "Full tree"
-msgstr "Full tree"
+msgstr ""
 
 msgctxt "Languages::full_width"
 msgid "Full width"
@@ -4614,7 +4614,7 @@ msgstr "Tùy chọn nhập"
 
 msgctxt "Languages::in"
 msgid "In"
-msgstr "In"
+msgstr ""
 
 msgctxt "Languages::included"
 msgid "included"
@@ -6170,7 +6170,7 @@ msgstr "Ngoại tuyến"
 
 msgctxt "Languages::offset"
 msgid "Offset"
-msgstr "Offset"
+msgstr ""
 
 msgctxt "Languages::ok"
 msgid "OK"
@@ -6550,7 +6550,7 @@ msgstr "Đối tác"
 
 msgctxt "Languages::passphrase"
 msgid "Pass-phrase"
-msgstr "Pass-phrase"
+msgstr ""
 
 msgctxt "Languages::passport_number"
 msgid "Passport number"
@@ -6606,7 +6606,7 @@ msgstr "Xin lỗi, Chuỗi băm không phù hợp"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
-msgstr "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
+msgstr ""
 
 msgctxt "Languages::payments.epdq.pspid"
 msgid "EPDQ pspid"
@@ -7922,7 +7922,7 @@ msgstr "RegExp"
 
 msgctxt "Languages::regexp_hint"
 msgid "If you are using the regexp checking, it is necessary to set a prompting message informing of the incorrect filling of the field, otherwise, the checking will not be performed"
-msgstr "If you are using the regexp checking, it is necessary to set a prompting message informing of the incorrect filling of the field, otherwise, the checking will not be performed"
+msgstr ""
 
 msgctxt "Languages::region"
 msgid "Region"
@@ -8210,7 +8210,7 @@ msgstr "Cấp độ trang gốc"
 
 msgctxt "Languages::round_to"
 msgid "Round to"
-msgstr "Round to"
+msgstr ""
 
 msgctxt "Languages::routing_code"
 msgid "Routing Number"
@@ -8792,65 +8792,17 @@ msgctxt "Languages::ship_can_merchant_id"
 msgid "Merchant ID"
 msgstr "ID thương gia"
 
-msgctxt "Languages::ship_dhl_additional_protection"
-msgid "Additional protection"
-msgstr "Bảo vệ bổ sung"
-
-msgctxt "Languages::ship_dhl_additional_protection_ap"
-msgid "Asset Protection"
-msgstr "Bảo vệ tài sản"
-
-msgctxt "Languages::ship_dhl_additional_protection_nr"
-msgid "Not required"
-msgstr "Không bắt buộc"
-
-msgctxt "Languages::ship_dhl_cod_method"
-msgid "COD payment method"
-msgstr "Phương thức thanh toán COD"
-
-msgctxt "Languages::ship_dhl_cod_method_m"
-msgid "Check or Money Order"
-msgstr "Séc hoặc Money Order"
-
-msgctxt "Languages::ship_dhl_cod_method_p"
-msgid "Personal or Company Check"
-msgstr "Séc Cá nhân hoặc Công ty"
-
-msgctxt "Languages::ship_dhl_cod_payment"
-msgid "Use COD payment"
-msgstr "Sử dụng thanh toán COD"
-
-msgctxt "Languages::ship_dhl_cod_value"
-msgid "COD surcharge"
-msgstr "Phụ phí COD"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Ghiều cao gói (inch)"
-
-msgctxt "Languages::ship_dhl_intl_ship_key"
-msgid "Shipping key (international)"
-msgstr "Khóa vận chuyển (quốc tế)"
 
 msgctxt "Languages::ship_dhl_length"
 msgid "Package length (inches)"
 msgstr "Chiều dài gói (inch)"
 
-msgctxt "Languages::ship_dhl_shipment_type"
-msgid "Shipment type"
-msgstr "Loại lô hàng"
-
-msgctxt "Languages::ship_dhl_ship_hazardous"
-msgid "Ship hazardous materials"
-msgstr "Vận chuyển vật liệu độc hại"
-
-msgctxt "Languages::ship_dhl_ship_key"
-msgid "Shipping key"
-msgstr "Khóa vận chuyển"
-
 msgctxt "Languages::ship_dhl_system_id"
-msgid "System ID"
-msgstr "ID hệ thống"
+msgid "Site ID"
+msgstr ""
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -8898,7 +8850,7 @@ msgstr "Yêu cầu chuyển phát nhanh"
 
 msgctxt "Languages::ship_fedex_drop_off_type_station"
 msgid "Drop at station"
-msgstr "Drop at station"
+msgstr ""
 
 msgctxt "Languages::ship_fedex_height"
 msgid "Height (inches)"
@@ -10210,7 +10162,7 @@ msgstr "Bạn có chắc bạn muốn tiếp tục không?"
 
 msgctxt "Languages::text_atos_notice"
 msgid "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
-msgstr "<b>Note:</b><br />1. Copy your certificate that you received on the disk to the [home_path] directory. Rename the certificate to certif.fr.[my_merchant_id], where [my_merchant_id] is your web site number.<br /> 2. Rename the store parameters file (parmcom.014213245611111 file) to parmcom.[my_merchant_id].<br />3. Edit the <b>pathfile</b> file in the  <b>[home_path]</b> directory<br />- Replace string '<u>D_LOGO![some_dir]!</u>' with '<u>D_LOGO![http_path]/logo/!</u>'<br />- Replace string '<u>F_DEFAULT![/some_dirs/parmcom.sogenactif]!</u>' with '<u>F_DEFAULT![home_path]/parmcom.sogenactif!</u>'<br />- Replace string '<u>F_PARAM![/some_dirs/parmcom]!</u>' with '<u>F_PARAM![home_path]/parmcom!</u>'<br />- Replace string '<u>F_CERTIFICATE![/some_dirs/certif]!</u>' with '<u>F_CERTIFICATE![home_path]/certif!</u>'<br />4. Edit the <b>parmcom.[some_number]</b> file in the <b>[home_path]</b> directory<br />- Replace string '<u>AUTO_RESPONSE_URL![some_url]!</u>' with '<u>AUTO_RESPONSE_URL![auto_url]!</u>'<br />- Replace string '<u>CANCEL_URL![some_url]!</u>' with '<u>CANCEL_URL![ok_url]!</u>'<br />- Replace string '<u>RETURN_URL![some_url]!</u>' with '<u>RETURN_URL![ok_url]!</u>'<br />"
+msgstr ""
 
 msgctxt "Languages::text_atos_warning"
 msgid "<span style=\"color:#FF2222\">Warning!!!</span> The path to atos files should consist of not more than 60 symbols, otherwise please copy the atos_files folder to some parent directory, e.g. to the cart core directory. Also please make sure the atos files directory has full permissions."
@@ -10422,7 +10374,7 @@ msgstr "Logo cho khu vực <b>khách hàng</b>"
 
 msgctxt "Languages::text_datatrans_notice"
 msgid "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
-msgstr "<b>Note</b>: In order to track your DataTrans orders with the shopping cart software you have to take the following steps:<br /> <br /> -&nbsp;Log in to your DataTrans account<br /> -&nbsp;Click on the <u>'Upp Data'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Set <u>'URL Post data format'</u> to <b>'Data in HTML FORM'</b>.<br /> -&nbsp;Set <u>'URL Post'</u> to:<br /> <b>[post_url]</b><br /> -&nbsp;Click on the <u>'Security'</u> link in the <u>'Upp Administration'</u> section.<br /> -&nbsp;Select the <b>'An additional merchant identification will be send with payment messages'</b> option.<br /> -&nbsp;Generate new digital signature using the <u>'Generate new sign'</u> button.<br /> -&nbsp;Set generated value to the <u>'Digital signature'</u> field on the DataTrans payment configuration page in your store<br />"
+msgstr ""
 
 msgctxt "Languages::text_data_changed"
 msgid "Your changes have not been saved.Press OK to continue, or Cancel to stay on the current page."
@@ -10438,7 +10390,7 @@ msgstr "<b>Lưu ý:</b> Xin vui lòng gửi các thông tin sau để hỗ trợ
 
 msgctxt "Languages::text_directebanking_notice"
 msgid "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
-msgstr "Set 'Success link' to: <b>[success_url]</b><br /> Set 'Abort link' to: <b>[abort_url]</b><br /> Add new HTTP notifications and set 'Notification URL' to: <b>[notification_url]</b><br /> Activate input check and set 'Hash Algoritm' to the 'SHA1'<br />"
+msgstr ""
 
 msgctxt "Languages::text_directory_created"
 msgid "The directory <b>[directory]</b> has been successfully created."
@@ -10478,7 +10430,7 @@ msgstr "Email đã được gửi thành công."
 
 msgctxt "Languages::text_emerchantpay_notice"
 msgid "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
-msgstr "Please add these URL fields in your eMerchantPay eCommerce Payment Form configuration:<br/><br/><b>BackReturn URL:</b><br/>[backreturn_url]<br/><br/><b>Custom Approval URL:</b><br/>[notify_url]<br/><br/><b>Custom Decline URL:</b><br/>[decline_url]<br/><br/><b>Activate Notification URL:</b><br/>[process_url]"
+msgstr "Xin vui lòng thêm các trường URL trong eMerchantPay eCommerce Payment Form của bạn: <br/> <br/> <b>BackReturn URL:</b> <br/>[backreturn_url] <br/> <br/> <b>Custom Approval URL:</b> <br/>[notify_url] <br/> <br/> <b>Custom Decline URL:</b> <br/>[decline_url] <br/> <br/> <b>Activate Notification URL:</b> <br/>[process_url]"
 
 msgctxt "Languages::text_enets_notice"
 msgid "Please send the following URL to the eNPS manager as a response URL for all the three cases (success, failure, cancel): [r_url]"
@@ -10506,15 +10458,15 @@ msgstr "Dưới đây là danh sách các mục có thể được xuất dữ l
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
-msgstr "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
+msgstr ""
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
-msgstr "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
+msgstr ""
 
 msgctxt "Languages::text_exim_import_images_note"
 msgid "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
-msgstr "<h4>Image import format</h4><code>%Image location%#%Alternative text%</code> where,<br><dl class=\"dl-horizontal\"><dt>%Image location%</dt><dd>can be an absolute or relative path in a server file system or a URL,</dd><dt>%Alternative text%<dt><dd>image alternative text</dd></dl><h5>Example 1:</h5><code>images/product_images/apples.jpg#Apples</code><h5>Example 2:</h5><code>http://www.site.com/apples.jpg#Apples</code>"
+msgstr ""
 
 msgctxt "Languages::text_exim_import_notice"
 msgid "Below is a list of the fields that your data file can contain. The fields highlighted in bold are mandatory. If you are importing data with special symbols (commas, semicolons, etc.), please make sure you have these fields quoted."
@@ -10522,7 +10474,7 @@ msgstr "Dưới đây là danh sách các trường có thể chứa các tập 
 
 msgctxt "Languages::text_exim_import_options_note"
 msgid "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
-msgstr "<h4>Product options import format</h4><code>{$ldelim}%Option ID[_L]%{$rdelim}%Option name%: %Option type%[{$ldelim}%Variant 1 ID%{$rdelim}%Variant 1%,{$ldelim}%Variant 2 ID%{$rdelim}%Variant 2%,{$ldelim}%Variant N ID%{$rdelim}%Variant N%]</code> where,<dl class=\"dl-horizontal\"><dt>%Option ID%</dt><dd>the id of the option</dd><dt>L</dt><dd>optional parameter, means that it is a linked global option of the product.</dd><dt>%Option name%</dt><dd>the name of the option,</dd><dt>%Variant N ID%</dt><dd>the id of the variant,</dd><dt>%Variant N%</dt><dd>the name of the variant. Variants must be specified if the option type is a selectbox or radiogroup only.</dd><dt>%Option type%</dt><dd>the option type, can be the following:<br><ul><li><b>S</b> - selectbox,</li><li><b>R</b> - radiogroup,</li><li><b>C</b> - checkbox,</li><li><b>I</b> - simple input,</li><li><b>T</b> - textarea.</li></ul></dd></dl><p>Several options must be delimited by semicolon.</p><h5>Examples:</h5>Simple text options:<code>Your age: I; Date of birth: I; Notes: T</code><br>Options with variants:<code>Color: S[Red, Green, Blue]; Size: R[X, XL, XXL]</code>"
+msgstr ""
 
 msgctxt "Languages::text_exim_utf8_file_format"
 msgid "Please make sure that the file you are importing has UTF-8 charset for correct import"
@@ -10581,8 +10533,40 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Nó không được cho phép để tạo/tải lên/đổi tên tập tin của loại MIME <b>[mime]</b>."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "This functionality is available only in the <strong>Full mode</strong>.<br/><br/>In order to have the full access to all features, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Chức năng này chỉ có sẵn trong <strong>chế độ đầy đủ</strong>. <br/> <br/> Để có thể truy cập vào tất cả các tính năng, mua một giấy phép và <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> kích hoạt chế độ đầy đủ</a>."
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
+msgstr "<p>Bạn đang sử dụng [product] trong chế độ miễn phí. Chế độ miễn phí không yêu cầu một giấy phép và bị hạn chế chức năng. Để sử dụng tính năng này, bạn cần một giấy phép [product].</p>"
+
+msgctxt "Languages::text_forbidden_functionality_full"
+msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
+msgstr "<p>Bạn đang sử dụng [product] trong chế độ miễn phí. Chế độ miễn phí không yêu cầu một giấy phép và bị hạn chế chức năng.  <br>Để sử dụng tính năng này, bạn cần một giấy phép [product].</p> <p>Mua giấy phép [product] và kích hoạt nó rất dễ dàng. Với giấy phép [product] bạn sẽ được truy cập vào các tính năng:</p>"
+
+msgctxt "Languages::text_forbidden_feature_promotions"
+msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
+msgstr "Đầy đủ các chương trình khuyến mãi: bạn sẽ có thể thêm không chỉ danh mục chương trình khuyến mãi, nhưng cũng có cả giỏ hàng khuyến mãi"
+
+msgctxt "Languages::text_forbidden_feature_multistore"
+msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
+msgstr "Chức năng nhiều cửa hàng: bạn sẽ có thể kết nối một số cửa hàng và quản lý chúng thông qua một bảng quản trị"
+
+msgctxt "Languages::text_forbidden_feature_customer"
+msgid "Assigning customers to User Groups and setting different privileges for admins"
+msgstr "Gán khách cho Nhóm Người Dùng và cài đặt đặc quyền khác nhau cho các quản trị viên"
+
+msgctxt "Languages::text_forbidden_feature_languages"
+msgid "Several languages and currencies in your store"
+msgstr "Một số ngôn ngữ và các loại tiền tệ trong cửa hàng của bạn"
+
+msgctxt "Languages::text_forbidden_feature_addons"
+msgid "Over 30 add-ons out of the box to make your store even better"
+msgstr "Trên 30 add-on loại ra khỏi hộp để làm cho cửa hàng của bạn tốt hơn"
+
+msgctxt "Languages::text_forbidden_feature_support"
+msgid "Technical support and access to our Customer Help Desk"
+msgstr "Hỗ trợ kỹ thuật và tiếp cận với chúng tôi qua Customer Help Desk"
+
+msgctxt "Languages::upgrade_license"
+msgid "Upgrade license"
+msgstr "Giấy phép nâng cấp"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10599,6 +10583,10 @@ msgstr "Xin vui lòng hoàn thành thanh toán của bạn dưới đây. <br />
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "<strong>Chế độ đầy đủ</strong> yêu cầu."
+
+msgctxt "Languages::license_required"
+msgid "[product] license required."
+msgstr "[product] giấy phép yêu cầu."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10634,7 +10622,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
+msgstr "Xin vui lòng đăng nhập vào FirstData Connect 2.0 Admin, mở tab \"Administration\", hãy nhấp vào liên kết \"Connect 2.0 Setup\". <br /> Thiết lập URL sau đây trong các \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" phần: [return_url] <br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -10894,7 +10882,7 @@ msgstr "Cho phép thay đổi"
 
 msgctxt "Languages::text_piraeus_notice"
 msgid "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
-msgstr "<b>Note:</b> Please send the following information to the payment support:<br /> Website URL: '<u>[website_url]</u>'<br /> Referrer URL: '<u>[referrer_url]</u>'<br /> Success URL: '<u>[success_url]</u>'<br /> Failure URL: '<u>[failure_url]</u>'<br /> Backlink URL: '<u>[backlink_url]</u>'<br /> IP Address: '<u>[ip_address]</u>'<br /><br /> Response Method: '<u>[response_method]</u>'<br /><br />"
+msgstr ""
 
 msgctxt "Languages::text_position_updating"
 msgid "Loading... Positions are being updated, please wait."
@@ -10986,7 +10974,7 @@ msgstr "Xác nhận kịch bản: <b>[validation_url]</b> <br /> Xác nhận k�
 
 msgctxt "Languages::text_qbms_notice"
 msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
+msgstr ""
 
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
@@ -11038,7 +11026,7 @@ msgstr "<b>Lưu ý:</b> Để theo dõi các đơn đặt hàng SagePay bởi ph
 
 msgctxt "Languages::text_sagepay_notice"
 msgid "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
-msgstr "Use <b>testvendor</b> as <b>Vendor Name</b> for the testing purposes<br /><p><b>PAYMENT</b> - transaction type is used to gain an authorisation from the bank, then settle that transaction early the following morning, committing the funds to be taken from your customer's card.<br /></p><p><b>DEFERRED</b> - transactions are NOT sent to the bank for completion until you RELEASE them by logging into the SagePay VSP Admin interface, finding the transaction and clicking the Release button.</p>"
+msgstr ""
 
 msgctxt "Languages::text_secret_key_notice"
 msgid "Please complete this field with any non-empty value. It will increase the security of transactions."
@@ -11190,7 +11178,7 @@ msgstr "Thay đổi của bạn chưa được lưu. Bấm OK để lưu thay đ
 
 msgctxt "Languages::text_thaiepay_notice"
 msgid "<p>Please set the following values in the Thaiepay merchant settings:</p><p>Return Url: <b>[return_url]</b></p><p>Status: <b>Yes (it is important!)</b></p><p>Post Back Url: <b>[postback_url]</b></p><p>Main Parameter: <b>\"total\" must be checked</b> - it will increase the security of transactions</p><p>Additional Parameter: it is obligatory for successful processing of transactions. For example, you can set <b>name=completed</b> and <b>value=some_secret_word</b>. Copy these values to these form fields: \"Additional parameter Name\" and \"Additional parameter Value\".</p>"
-msgstr "<p>Please set the following values in the Thaiepay merchant settings:</p><p>Return Url: <b>[return_url]</b></p><p>Status: <b>Yes (it is important!)</b></p><p>Post Back Url: <b>[postback_url]</b></p><p>Main Parameter: <b>\"total\" must be checked</b> - it will increase the security of transactions</p><p>Additional Parameter: it is obligatory for successful processing of transactions. For example, you can set <b>name=completed</b> and <b>value=some_secret_word</b>. Copy these values to these form fields: \"Additional parameter Name\" and \"Additional parameter Value\".</p>"
+msgstr ""
 
 msgctxt "Languages::text_thumbnail_manual_loading"
 msgid "Thumbnails will be generated from detailed images automatically, but you can also <a id=\"[id]\" class=\"[class]\">upload them manually.</a>"
@@ -11490,7 +11478,7 @@ msgstr "Độ tương phản"
 
 msgctxt "Languages::theme_editor.color_gen_dark_pastel"
 msgid "Dark pastel"
-msgstr "Dark pastel"
+msgstr ""
 
 msgctxt "Languages::theme_editor.color_gen_default"
 msgid "Default"
@@ -11498,7 +11486,7 @@ msgstr "Mặc định"
 
 msgctxt "Languages::theme_editor.color_gen_light_pastel"
 msgid "Light pastel"
-msgstr "Light pastel"
+msgstr ""
 
 msgctxt "Languages::theme_editor.color_gen_monochromatic"
 msgid "Monochromatic"
@@ -11510,7 +11498,7 @@ msgstr "Nhạt"
 
 msgctxt "Languages::theme_editor.color_gen_pastel"
 msgid "Pastel"
-msgstr "Pastel"
+msgstr ""
 
 msgctxt "Languages::theme_editor.color_gen_title"
 msgid "Generate colors"
@@ -11518,7 +11506,7 @@ msgstr "Tạo màu sắc"
 
 msgctxt "Languages::theme_editor.color_gen_triad"
 msgid "Triad"
-msgstr "Triad"
+msgstr ""
 
 msgctxt "Languages::theme_editor.color_gen_variant"
 msgid "Variation"
@@ -11666,7 +11654,7 @@ msgstr "Tắt"
 
 msgctxt "Languages::theme_editor.on"
 msgid "On"
-msgstr "On"
+msgstr ""
 
 msgctxt "Languages::theme_editor.out_of_stock"
 msgid "Out of stock"
@@ -12102,7 +12090,7 @@ msgstr "Bản dịch"
 
 msgctxt "Languages::tree"
 msgid "Tree"
-msgstr "Tree"
+msgstr ""
 
 msgctxt "Languages::trial"
 msgid "Trial"
@@ -12530,7 +12518,7 @@ msgstr "Xác nhận vấn đề"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "Validator \"[validator_name]\" returned fail status"
+msgstr ""
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12770,7 +12758,7 @@ msgstr "Giấy chứng nhận của hộp thư"
 
 msgctxt "Languages::usps_service_certificate_of_mailing_for_firm_mailing_books"
 msgid "Certificate of mailing for firm mailing books"
-msgstr "Certificate of mailing for firm mailing books"
+msgstr ""
 
 msgctxt "Languages::usps_service_certificate_of_mailing_per_individual_article"
 msgid "Certificate of mailing per individual article"
@@ -12782,7 +12770,7 @@ msgstr "Chứng nhận"
 
 msgctxt "Languages::usps_service_collect_on_delivery"
 msgid "Collect on delivery"
-msgstr "Collect on delivery"
+msgstr ""
 
 msgctxt "Languages::usps_service_delivery_confirmation"
 msgid "USPS Tracking/Delivery confirmation"
@@ -13546,7 +13534,7 @@ msgstr "Cập nhật bố trí lớp hiện tại"
 
 msgctxt "Languages::get_social"
 msgid "Get social"
-msgstr "Nhận xã hội"
+msgstr "Chúng tôi trên mạng xã hội"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
@@ -15550,7 +15538,7 @@ msgstr "Không thể kiểm tra"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr "Partial match"
+msgstr ""
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
@@ -15791,7 +15779,7 @@ msgstr "Không thể tạo bản sao lưu."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr "[n] second left|[n] seconds left"
+msgstr ""
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
@@ -15835,29 +15823,49 @@ msgstr "Sử dụng miễn phí vận chuyển"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
+msgstr ""
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Exclude products with the enabled Free shipping option from the shipping price calculation"
+msgstr ""
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
-msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of CS-Cart a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this CS-Cart version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. CS-Cart will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, CS-Cart will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
+msgstr ""
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr "Trash category"
+msgstr ""
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr "When a product is deleted from the last category in the store, it will be moved to this category."
+msgstr ""
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
-msgid "Free shipping changes in CS-Cart"
-msgstr "Free shipping changes in CS-Cart"
+msgid "Free shipping changes"
+msgstr ""
+
+msgctxt "Languages::dhl_upgrade_notification_title"
+msgid "DHL realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::dhl_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
+msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
-msgid "Upgrade changes in CS-Cart 4.3.5"
-msgstr "Upgrade changes in CS-Cart 4.3.5"
+msgid "Upgrade changes in [product] [version]"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_title"
+msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
+msgstr ""
+
+msgctxt "Languages::eway_upgrade_notification_text"
+msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
+msgstr ""
+
+msgctxt "Languages::eway_configuration_note"
+msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
+msgstr ""
 
