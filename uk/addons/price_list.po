@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/price_list.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-14 20:04-0400\n"
+"PO-Revision-Date: 2015-11-12 05:02-0500\n"
 
 msgctxt "Addons::name::price_list"
 msgid "Price list"
@@ -28,26 +28,6 @@ msgctxt "Languages::selected_fields"
 msgid "Selected fields"
 msgstr "Вибрані поля"
 
-msgctxt "Languages::xml_info"
-msgid "Use this link to download the price list in XLS (MS Excel) format"
-msgstr "Використовуйте це посилання для скачування прайс-листа у форматі XLS (Microsoft Excel)"
-
-msgctxt "Languages::ult_xml_info"
-msgid "Use this links to download the price list in XLS (MS Excel) format"
-msgstr "Використовуйте це посилання для скачування прайс-листа у форматі XLS (Microsoft Excel)"
-
-msgctxt "Languages::pdf_info"
-msgid "Use this link to download the price list in PDF format"
-msgstr "Використовуйте це посилання для скачування прайс-листа у форматі PDF"
-
-msgctxt "Languages::ult_pdf_info"
-msgid "Use this links to download the price list in PDF format"
-msgstr "Використовуйте це посилання для скачування прайс-листа у форматі PDF"
-
-msgctxt "Languages::clear_cache_info"
-msgid "If columns were added or changed, please <a href=\"[clear_cache_url]\">clear the cache</a> to regenerate the price list."
-msgstr "Якщо були видалені або додані колонки, будь ласка, <a href=\"[clear_cache_url]\">очистіть кеш</a>, щоб заново згенерувати прайс-лист."
-
 msgctxt "Languages::generating_pdf"
 msgid "Generating PDF. Please, be patient..."
 msgstr "Генерація PDF. Будь ласка зачекайте ..."
@@ -56,21 +36,21 @@ msgctxt "Languages::generating_xls"
 msgid "Generating XLS. Please, be patient..."
 msgstr "Генерація XLS. Будь ласка зачекайте ..."
 
-msgctxt "Languages::xls_currencies_note"
-msgid "Please, note: the prices in XLS will be indicated in base currency."
-msgstr "Зверніть увагу, що ціни у файлі XLS будуть вказані в базовій валюті."
-
 msgctxt "Languages::price_list_ziparchive_not_installed"
 msgid "Impossible to create XML price list. Please add zip support in PHP on your server. Follow <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
 msgstr "Неможливо створити прайс-лист у форматі XML. Будь ласка, додайте підтримку ZIP-архівів в PHP на своєму сервері. Дізнайтеся більше на сайті PHP: <a href=\"http://www.php.net/manual/ru/zip.installation.php\">http://www.php.net/manual/ru/zip.installation.php</a>."
 
+msgctxt "Languages::price_list.text_select_storefront"
+msgid "To generate a price list, please select storefront first."
+msgstr ""
+
+msgctxt "Languages::price_list.text_regenerate"
+msgid "<p>If products, categories or selected fields were added or changed, please regenerate a price list:<br />[buttons]</p><p>Generated price lists are available by these links<br/>[links]</p>"
+msgstr ""
+
 msgctxt "SettingsSections::price_list::general"
 msgid "General"
 msgstr "Загальні"
-
-msgctxt "SettingsOptions::price_list::table_layout_header"
-msgid "Table layout"
-msgstr "Розмітка прайс-листа"
 
 msgctxt "SettingsOptions::price_list::price_list_fields"
 msgid "Fields"
@@ -87,36 +67,4 @@ msgstr "Групувати за категоріями"
 msgctxt "SettingsOptions::price_list::include_options"
 msgid "Include product options"
 msgstr "Включати опції товарів"
-
-msgctxt "SettingsOptions::price_list::xls_header"
-msgid "XLS layout"
-msgstr "Розмітка XLS"
-
-msgctxt "SettingsOptions::price_list::xls_url"
-msgid "XLS url"
-msgstr "Посилання на XLS-файл"
-
-msgctxt "SettingsOptions::price_list::pdf_header"
-msgid "PDF layouts"
-msgstr "Макети PDF"
-
-msgctxt "SettingsOptions::price_list::pdf_url"
-msgid "PDF url"
-msgstr "Посилання на PDF-файл"
-
-msgctxt "SettingsOptions::price_list::clear_header"
-msgid "Clear cache"
-msgstr "Очистити кеш"
-
-msgctxt "SettingsOptions::price_list::clear_url"
-msgid "Clear cache"
-msgstr "Очистити кеш"
-
-msgctxt "SettingsOptions::price_list::disable_images_in_xml"
-msgid "Exclude images from XLS price lists"
-msgstr "Виключити зображення з XLS-прайс-листів"
-
-msgctxt "SettingsTooltips::price_list::disable_images_in_xml"
-msgid "Generating an XLS price list with images can freeze your server. Disable at your own risk."
-msgstr "Генерація XLS-прайслиста із зображеннями може істотно завантажити сервер. Вимикайте на свій страх і ризик."
 
