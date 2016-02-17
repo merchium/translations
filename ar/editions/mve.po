@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-10-29 04:59-0400\n"
+"PO-Revision-Date: 2016-02-17 05:56-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "ترتيب أبجدي: من ي إلى أ"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "تم تغيير برفايلك, بمجرد اعتماد التغييرات, سيتم عرض معلومات متجركم في واجهة الزوار إن شاء الله."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "طلب الانضمام كبائع جديد"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "عمولة البائع"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "معرف المتجر"
@@ -336,33 +340,17 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "إنشاء حساب أدمن البائع المعتمد الجديد تلقائياً. (إذا كان خيار \"السماح للأعضاء بطلب الانضمام كبائع\" مفعل)"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "تضمين تكلفة الشحن في عمولة الباعة"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "لو مفعلة, لن يتمكن العملاء من مشاهدة الضرائب الإضافية ولن تُطبق على إجمالي قيمة الطلب"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "العمولات"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "عرض منتجات البائع"
 
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "لو مفعلة, لن يتمكن العملاء من مشاهدة الضرائب الإضافية ولن تُطبق على إجمالي قيمة الطلب"
-
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
-msgstr "نموذج الانضمام كمورد"
+msgstr "نموذج طلب فتح حساب كبائع"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
-msgstr "فئات المورد"
+msgstr "فئات البائع"
 
 msgctxt "Languages::block_vendor_categories_description"
 msgid "Product categories available to a particular vendor"
@@ -386,7 +374,7 @@ msgstr "مرشح منتجات المورد"
 
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
-msgstr "منتجات المورد"
+msgstr "منتجات البائع"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"

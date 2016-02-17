@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 09:01-0500\n"
+"PO-Revision-Date: 2016-02-17 06:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -463,6 +463,10 @@ msgstr "Durum ekle"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Alt kategori ekle"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Yeni aboneler"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1374,7 +1378,7 @@ msgstr "Incorrect PO-pack structure. The uploaded pack cannot be installed."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr ""
+msgstr "<b>\"[pack_path]\"</b> bulunan \".po\" Çeviri dosyalarını içeren paket yapısını doğru değil."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Koşulları kabul ediyorum"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Bu kutuyu işaretleyerek yasal uyarı bölümünde belirtilen koşulları okumuş ve kabul etmiş sayılırsınız."
+msgid "Select this check box to accept the [terms_href]"
+msgstr "[terms_href] kabul etmek için bu onay kutusunu seçin"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Koşul ve şartlar"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Devam edebilmek için koşulları kabul etmelisiniz."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr ""
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2146,7 +2158,7 @@ msgstr "This block instances have different content for"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr ""
+msgstr "Sayfa, anketler, formlar ve linkler oluşturma ve yayınlama."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -2940,10 +2952,6 @@ msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Teslimat süresi"
 
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Teslimat süresi çalışma günleri üzerinden hesaplanır."
-
 msgctxt "Languages::demo"
 msgid "Demo"
 msgstr "Demo"
@@ -3126,7 +3134,7 @@ msgstr "Gösterim tipi"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr "Filtre çeşitleri önce kaydırma sayısı"
+msgstr ""
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -4574,7 +4582,7 @@ msgstr "Resim çifti"
 
 msgctxt "Languages::image_verification"
 msgid "Image verification"
-msgstr "Image verification"
+msgstr "Resim doğrulama"
 
 msgctxt "Languages::image_verification_body"
 msgid "Type the characters you see in the picture above."
@@ -6458,7 +6466,7 @@ msgstr "Packages"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Paket içeriğini göster"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -7090,7 +7098,7 @@ msgstr "Manage promotion system"
 
 msgctxt "Languages::privileges.manage_reports"
 msgid "Manage reports"
-msgstr "Manage reports"
+msgstr "Raporları yönet"
 
 msgctxt "Languages::privileges.manage_shipping"
 msgid "Manage shipping"
@@ -7174,7 +7182,7 @@ msgstr "View payments"
 
 msgctxt "Languages::privileges.view_reports"
 msgid "View reports"
-msgstr "View reports"
+msgstr "Raporları görüntüleme"
 
 msgctxt "Languages::privileges.view_settings"
 msgid "View settings"
@@ -7830,7 +7838,7 @@ msgstr "Cache i otomatik olarak yeniden oluştur"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Değiştirilen dosyaları (dosyaları doğrudan sunucuda değiştirilmesi dahil) gerçek zamanlı olarak izlenen ve yeniden önbelleğe alınmış. Blok önbelleği devre dışı bırakılacak. Biraz mağaza performansı etkilenebilir. Üretim devre dışı bırakmak için önerilir."
+msgstr ""
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8054,7 +8062,7 @@ msgstr "Ürün numarası"
 
 msgctxt "Languages::reports_parameter_2"
 msgid "The number of orders"
-msgstr "Sipariş numarası"
+msgstr "Sipariş sayısı"
 
 msgctxt "Languages::reports_parameter_3"
 msgid "Orders"
@@ -8438,7 +8446,7 @@ msgstr "Güvenlik"
 
 msgctxt "Languages::security"
 msgid "Security"
-msgstr "Security settings"
+msgstr "Güvenlik"
 
 msgctxt "Languages::secure_checkout"
 msgid "Secure checkout"
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Kargo servisi"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Stoktaki ürünler ödemenizin doğrulanması ardından gönderilecektir. Taşıyıcı firma taşıma sırasında oluşacak hasarlardan sorumludur.</p><p>Lütfen, paketinizi aldığınızda taşıyıcı önünde açınız. Eğer herhangi bir hasar var ise tutanak tutturunuz.</p><p>Herhangi bir sorunuz var ise müşteri hizmetlerimiz ile iletişime geçebilirsiniz</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Delivery Confirmation cost"
@@ -8802,7 +8806,7 @@ msgstr "Package length (inches)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "Site Kimliği"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10534,11 +10538,11 @@ msgstr "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIM
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "Şu anda ürünü Ücretsiz modunda [product] kullanmaktasınız <p>. Ücretsiz modu bir lisans kodu gerektirmez ve işlevleri sınırlıdır. Bu özelliği kullanmak için bir [product] lisans gerekir.</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr ""
+msgstr "Şu anda ürünü Ücretsiz modunda [product] kullanmaktasınız <p>. Ücretsiz modu bir lisans kodu gerektirmez ve işlevleri sınırlıdır. Bu özelliği kullanmak için bir [product] lisans gerekir.</p> [product] Kolayca [product] lisans satın alarak tüm özelliklere tam erişim elde edebilirsiniz."
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
@@ -10546,7 +10550,7 @@ msgstr ""
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Çoklu mağaza özelliği: Birden fazla mağazayı birbirine bağlayabilir ve hepsini tek bir panelden yönetebilirsiniz"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
@@ -10554,11 +10558,11 @@ msgstr ""
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Mağazanızda çoklu dil ve kur seçenekleri"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Mağaza daha iyi yapmak için hazırlanmış 30'dan fazla eklentileri"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
@@ -10566,7 +10570,7 @@ msgstr ""
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr ""
+msgstr "Yükseltme lisansı"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10586,7 +10590,7 @@ msgstr "<strong>Tam mod</strong> gerekli."
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr ""
+msgstr "[product] lisansı gerekli."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -11354,7 +11358,7 @@ msgstr "Mağazanız başarıyla yükseltildi"
 
 msgctxt "Languages::text_uc_upgrade_completed_check_and_open"
 msgid "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You can open the store by unchecking the Close storefront setting under Settings → General.</p>"
-msgstr "<p>Your store was closed during the upgrading procedure. We recommend you to check the work of the store after the upgrade and only then open it.</p><p>You will find the [link] link at the bottom of each page on the right-hand side.</p>"
+msgstr "<p>Mağaza yükseltme işlemi sırasında kapatıldı. Yükseltme tamamlandıktan sonra mağaza çalışmalarını kontrol etmenizi öneririz</p> <p> Mağazanızı Ayarlar → Genel.</p> sekmesi altıbdaki Mağazayı Kapat bölümünde bulunan kutunun işaretini kaldırarak tekrar açabilirsiniz"
 
 msgctxt "Languages::text_uc_upgrade_log_file_not_writable"
 msgid "Upgrade log file is not writable"
@@ -11842,7 +11846,7 @@ msgstr "Binler işareti"
 
 msgctxt "Languages::thumb"
 msgid "Thumbnail"
-msgstr "Thumbnail"
+msgstr "Küçük resim"
 
 msgctxt "Languages::thumbnail"
 msgid "Thumbnail"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Araçlar"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Eklentiler sayısı"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Mevcut durum"
@@ -11935,10 +11935,6 @@ msgstr "Eklenti yok"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Hiç bir üçüncü parti eklenti yok"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Varsayılanlara çevir"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -13376,6 +13372,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "Aşağıdaki dizinler yazma iznine sahip değil"
@@ -13710,7 +13710,7 @@ msgstr "General"
 
 msgctxt "SettingsSections::Image_verification"
 msgid "Image verification"
-msgstr "Image verification"
+msgstr "Resim Doğrulama"
 
 msgctxt "SettingsSections::Logging"
 msgid "Logging"
@@ -13718,11 +13718,11 @@ msgstr "Logging"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
-msgstr "Reports"
+msgstr "Raporlar"
 
 msgctxt "SettingsSections::Security"
 msgid "Security settings"
-msgstr "Security settings"
+msgstr "Güvenlik Ayarları"
 
 msgctxt "SettingsSections::Checkout"
 msgid "Checkout"
@@ -13734,7 +13734,7 @@ msgstr "Sitemap"
 
 msgctxt "SettingsSections::Stores"
 msgid "Stores"
-msgstr "Stores"
+msgstr "Mağazalar"
 
 msgctxt "SettingsSections::Thumbnails"
 msgid "Thumbnails"
@@ -13878,7 +13878,7 @@ msgstr "Hostname"
 
 msgctxt "SettingsOptions::weight_symbol"
 msgid "Weight symbol"
-msgstr "Weight symbol"
+msgstr "Ağırlık sembolü"
 
 msgctxt "SettingsOptions::admin_products_per_page"
 msgid "Products per page"
@@ -13970,7 +13970,7 @@ msgstr "Maximum font size"
 
 msgctxt "SettingsOptions::store_mode"
 msgid "Close storefront"
-msgstr "Close storefront"
+msgstr "Mağazayı kapat"
 
 msgctxt "SettingsOptions::cron_password"
 msgid "Access key to cron script which sends e-mail notifications of password change. Use: http://www.example.com/admin.php?dispatch=profiles.password_reminder&cron_password=key_value."
@@ -13986,11 +13986,11 @@ msgstr "Ara belleği otomatik olarak yeniden oluştur"
 
 msgctxt "SettingsOptions::order_start_id"
 msgid "Initial order ID value"
-msgstr "Initial order ID value"
+msgstr "İlk sipariş ID numarası"
 
 msgctxt "SettingsOptions::use_shipments"
 msgid "Allow multiple shipments for a single order"
-msgstr "Allow multiple shipments for a single order"
+msgstr "Tek bir siparişin birden fazla gönderiye izin ver"
 
 msgctxt "SettingsOptions::uk_cookies_law"
 msgid "Notify visitors about cookies use"
@@ -13998,7 +13998,7 @@ msgstr "Notify visitors about cookies use"
 
 msgctxt "SettingsOptions::tax_calculation"
 msgid "Tax calculation method based on"
-msgstr "Tax calculation method based on"
+msgstr "Temel vergi hesaplama yöntemi"
 
 msgctxt "SettingsOptions::feedback_type"
 msgid "Help us improve software"
@@ -14006,7 +14006,7 @@ msgstr "Help us improve software"
 
 msgctxt "SettingsOptions::auto_check_updates"
 msgid "Check for updates automatically"
-msgstr "Check for updates automatically"
+msgstr "Güncelleştirmeleri otomatik olarak denetleme"
 
 msgctxt "SettingsOptions::ftp_directory"
 msgid "Directory"
@@ -14042,7 +14042,7 @@ msgstr "Character shadows"
 
 msgctxt "SettingsOptions::default_address"
 msgid "Default address"
-msgstr "Default address"
+msgstr "Varsayılan adres"
 
 msgctxt "SettingsOptions::company_phone_2"
 msgid "Company phone 2"
@@ -14066,7 +14066,7 @@ msgstr "Sendmail settings"
 
 msgctxt "SettingsOptions::default_zipcode"
 msgid "Default zipcode"
-msgstr "Default zipcode"
+msgstr "Varsayılan posta kodu"
 
 msgctxt "SettingsOptions::company_fax"
 msgid "Company fax"
@@ -14078,7 +14078,7 @@ msgstr "Frontend default language"
 
 msgctxt "SettingsOptions::convert_to"
 msgid "Thumbnail format"
-msgstr "Thumbnail format"
+msgstr "Küçük Resim Formatı"
 
 msgctxt "SettingsOptions::mailer_sendmail_path"
 msgid "Path to sendmail program"
@@ -14098,7 +14098,7 @@ msgstr "Do not use verification after first valid answer"
 
 msgctxt "SettingsOptions::default_city"
 msgid "Default city"
-msgstr "Default city"
+msgstr "Varsayılan şehir"
 
 msgctxt "SettingsOptions::company_website"
 msgid "Company website"
@@ -14118,7 +14118,7 @@ msgstr "Year when the store started its operation"
 
 msgctxt "SettingsOptions::default_country"
 msgid "Default country"
-msgstr "Default country"
+msgstr "Varsayılan ülke"
 
 msgctxt "SettingsOptions::products_per_page"
 msgid "Products per page"
@@ -14138,7 +14138,7 @@ msgstr "Ürün listesi (kategori, arama, vb) küçük resim genişliği"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
-msgstr "Default state"
+msgstr "Varsayılan ilçe"
 
 msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
@@ -14154,7 +14154,7 @@ msgstr "Order department e-mail address"
 
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
-msgstr "Default phone"
+msgstr "Varsayılan telefon"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
@@ -14390,11 +14390,11 @@ msgstr "Allow checkout only from the Cart content page"
 
 msgctxt "SettingsOptions::allow_usergroup_signup"
 msgid "Allow customer to signup for user group"
-msgstr "Allow customer to signup for user group"
+msgstr "Müşterilerin kullanıcı grubu için başvurmasına izin ver"
 
 msgctxt "SettingsOptions::approve_user_profiles"
 msgid "Administrator must activate new user accounts"
-msgstr "Administrator must activate new user accounts"
+msgstr "Yeni kullanıcı hesapları yönetici tarafından onaylansın"
 
 msgctxt "SettingsOptions::address_position"
 msgid "Profile address section order"
@@ -14419,6 +14419,10 @@ msgstr "Hızlı kayıt"
 msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Ask customers to agree with terms &amp; conditions during checkout"
+
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -14482,27 +14486,31 @@ msgstr "\"Oturum Aç\"ta bulunan \"Yeni müşteri\" bölümü için varsayılan 
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "Adım \"sevkiyat yöntemi\" görüntüleme"
+msgstr ""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr ""
+msgstr "Eğer gizliyse ilk aktif metod varsayılan olarak kullanılacaktır."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr ""
+msgstr "\"Ödeme yöntemi\" adım görüntüleme"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr ""
+msgstr "Eğer gizliyse ilk aktif metod varsayılan olarak kullanılacaktır."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "İndirilebilir ürünlerin satışını etkinleştir"
 
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Müşterilerin ürünleri karşılaştırmasına izin ver"
+
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr ""
+msgstr "Sunucu üzerinde SSL sertifikası yüklü olması gerekmektedir"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14522,7 +14530,7 @@ msgstr "Kargo ve fatura adresi"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr ""
+msgstr "Şeffaf arka plan için boş bırak"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15358,11 +15366,11 @@ msgstr "Devre dışı bırak"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr ""
+msgstr "Güvenli profil, sipariş ve ödeme sayfaları"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr ""
+msgstr "Tam güvenli site"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15615,7 +15623,7 @@ msgstr ""
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr ""
+msgstr "Yükseltme bağlayıcısı bulunamadı"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
@@ -15623,7 +15631,7 @@ msgstr ""
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr ""
+msgstr "Paket içerik şeması bulunamadı"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
@@ -15631,7 +15639,7 @@ msgstr ""
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
-msgstr ""
+msgstr "Yasak: Eklenti ana dosyalarınızı ([path]) yükseltmeye çalışıyor"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
@@ -15679,11 +15687,11 @@ msgstr "Silinecek"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Yükseltme paketini doğrulayıcıları"
+msgstr ""
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "\"[validator]\" durumu doğrulayıcısı'nı yürütmek"
+msgstr ""
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15731,7 +15739,7 @@ msgstr "Dosya geri yüklenemiyor. Yalnızca .sql, .zip ve .tgz dosyaları izin v
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "<b>[file]</b> için dosya yazılamıyor. Yazılabilir izinlerini el ile ayarlamak veya <a href=\"[url]\"> \"Yükseltme center\"</a> bölümünde sunucunuza FTP erişimi denetleme"
+msgstr ""
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
@@ -15739,7 +15747,7 @@ msgstr ""
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Özelliklere göre ara türevleri aşırı sayıda nedeniyle kullanılamaz."
+msgstr ""
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
@@ -15779,11 +15787,11 @@ msgstr ""
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr ""
+msgstr "Yedekler oluşturulamıyor."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr ""
+msgstr "[n] saniye kaldı|[n] saniye kaldı"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
@@ -15875,13 +15883,145 @@ msgstr ""
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Daha fazla göster"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Daha az göster"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr ""
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Tüm eklentileri devre dışı bırak"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Yüklü eklentiler:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Third-party Eklentiler:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr ""
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr ""
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr ""
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr ""
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr "Üzerine yaz"
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr ""
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 

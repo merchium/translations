@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /addons/hidpi.po\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-02-05 08:00-0500\n"
+"PO-Revision-Date: 2016-02-17 06:01-0500\n"
 
 msgctxt "Addons::name::hidpi"
 msgid "HiDPI displays support"
@@ -34,4 +35,8 @@ msgstr "Todos os novos envios de imagem serão automaticamente encolhidos para m
 msgctxt "Languages::text_hidpi_uninstall"
 msgid "Some images may be shrinked to improve loading time on non-HiDPI devices. You may want to re-upload the images with better resolution."
 msgstr "Algumas imagens podem ser encolhidas para melhorar o tempo de carregamento em dispositivos não-HiDPI. Você pode querer re-enviar imagens com melhor resolução."
+
+msgctxt "Languages::addons.hidpi.thumbnail_format_changed"
+msgid "<a href=\"[settings_url]\">Thumbnail format</a> is set to PNG for better image quality."
+msgstr ""
 

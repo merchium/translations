@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 21:01-0400\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "アルファベット順: Z から A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "出品者情報が更新されました。更新内容はシステム管理者の承認後にショップページに反映されます。"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "マーケットプレイスへの参加申請がありました"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "販売手数料"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "出品者ID"
@@ -336,29 +340,13 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "登録を承認された出品者の管理者アカウントを自動で作成 (「ユーザーの出品者登録申請を許可」がチェックされている場合)"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "手数料算出のベース金額に送料を含める"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "出品者が支払手数料を負担"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "販売手数料"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "出品者の表示"
 
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "有効化するとお客様には支払手数料は表示されず、注文金額にも加算されません"
-
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
-msgstr "Apply for a vendor account form"
+msgstr ""
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"

@@ -10,14 +10,14 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-06 05:59-0500\n"
+"PO-Revision-Date: 2015-12-13 08:58-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
 msgstr "Twigmo"
 
 msgctxt "Addons::description::twigmo"
-msgid "Connect your store to the Twigmo service to create a mobile version and get an admin mobile application"
+msgid "Connect your store to the <a href=\"http://www.twigmo.com/\" target=\"_blank\">Twigmo service</a> to get a mobile version of your store, a mobile admin application as well a native mobile store application. Some features are only available in paid plans."
 msgstr ""
 
 msgctxt "SettingsSections::twigmo::service"
@@ -392,10 +392,6 @@ msgctxt "Languages::twg_app_for_android"
 msgid "App for Android"
 msgstr ""
 
-msgctxt "Languages::twg_app_for_iphone"
-msgid "App for iPhone"
-msgstr ""
-
 msgctxt "Languages::twg_app_for_ipad"
 msgid "App for iPad"
 msgstr ""
@@ -741,7 +737,7 @@ msgid "QR code for the app<br>login page"
 msgstr ""
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
-msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgid "Please install the Twigmo admin application first. Then use it to scan the QR code. This code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
 msgstr ""
 
 msgctxt "Languages::twapp_wrong_api_login_data"

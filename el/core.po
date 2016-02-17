@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 08:59-0500\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -114,7 +114,7 @@ msgstr "Ενεργό"
 
 msgctxt "Languages::active_categories"
 msgid "Active categories"
-msgstr "Ενεργή Κατηγορία"
+msgstr "Ενεργες Κατηγορίες"
 
 msgctxt "Languages::active_style"
 msgid "Active style"
@@ -126,7 +126,7 @@ msgstr "Ενεργά Προϊόντα"
 
 msgctxt "Languages::active_promotions"
 msgid "Active promotions"
-msgstr "Ενεργά promotions"
+msgstr "Ενεργές προσφορές"
 
 msgctxt "Languages::act_on_behalf"
 msgid "Act on behalf of"
@@ -463,6 +463,10 @@ msgstr "Προσθήκη κατάστασης"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Προσθηκη Υποκατηγορίας"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Νέοι συνδρομητες"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Αποδέχομαι τους όρους στην"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Επιλέξτε αυτό το πλαίσιο ελέγχου για να αποδεχτείτε τους Όρους και Προϋποθέσεις."
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Επιλέξτε αυτό το πλαίσιο ελέγχου για να αποδεχτείτε τους [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Όροι και προϋποθέσεις"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Για να προχωρήσετε, θα πρέπει να αποδεχτείτε τους Όρους και Προϋποθέσεις μας"
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Παρακαλούμε διαβάστε αυτούς τους όρους και προϋποθέσεις (\"Όροι\", \"Όροι και προϋποθέσεις\") προσεκτικά πριν τη χρηση της ιστοεσελιδας και του  My Mobile App mobile application (the \"Service\")   <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a>  από την εταιρεία μου (\"εμείς\", \"εμείς\", ή \"μας\").</p> <p><strong>Με την πρόσβαση ή τη χρήση της υπηρεσίας συμφωνείτε ότι δεσμεύεστε από τους παρόντες όρους. Αν διαφωνείτε με οποιοδήποτε μέρος των όρων, τότε δεν μπορείτε να έχετε πρόσβαση στην υπηρεσία.</strong></p> <p><strong>Αγορές</strong></p> <p>Αν θέλετε να αγοράσετε οποιοδήποτε προϊόν ή υπηρεσία που διατίθεται μέσω της υπηρεσίας (\"αγορά\"), μπορεί να σας ζητηθεί να παράσχετε ορισμένες πληροφορίες σχετικές με τις αγορά σας, συμπεριλαμβανομένων, χωρίς περιορισμό, ...</p> <p><strong>Περιεχομενο</strong></p> <p>Η υπρεσια μας, σάς δίνει τη δυνατότητα να δημοσιεύετε, σύνδεσετε, αποθήκευσετε, την κοινή χρήση και διάθεση με άλλον τρόπο ορισμένες πληροφορίες, κείμενο, γραφικά, βίντεο, ή άλλο υλικό («περιεχόμενο»). Είστε υπεύθυνοι για τη...</p> <p><strong>Αλλαγές</strong></p> <p>Διατηρεί το δικαίωμα, κατά την κρίση μας, να τις τροποποιηθουν ή να αντικατασταθουν αυτοι οι όροι οποιαδήποτε στιγμή. Αν μια αναθεώρηση είναι υλικη θα προσπαθησουμε να παρέχουμε προειδοποίηση τουλάχιστον 30 ημερών πριν από οποιαδήποτε ενεργοποίηση νέως όρων. Τι συνιστά μια υλική αλλαγή θα καθορίζεται κατά τη διακριτική μας ευχέρεια.</p> <p><strong>Επικοινωνήστε μαζί μας</strong></p> <p>Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με αυτούς τους όρους, παρακαλώ επικοινωνήστε μαζί μας.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2939,10 +2951,6 @@ msgstr "Διαγραφή Αυτής της Σελίδας"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "ΧΡΟΝΟΣ ΠΑΡΑΔΟΣΗΣ"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Ο χρόνος παράδοσης υπολογίζεται σε εργάσιμες ημέρες."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -6458,7 +6466,7 @@ msgstr "Πακέτα"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Εμφάνιση περιεχομένων πακέτου"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -7734,7 +7742,7 @@ msgstr "Εκπτώσεις ποσότητας"
 
 msgctxt "Languages::qty_discount_type_tooltip"
 msgid "Fixed amount/Percentage to be taken off the price"
-msgstr "Σταθερό ποσό/ποσοστό για να αφαιρεθούν από την τιμή"
+msgstr "Σταθερό ποσό/ποσοστό που θα αφαιρεθει από την τιμή"
 
 msgctxt "Languages::quantity"
 msgid "Quantity"
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Υπηρεσία αποστολής"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Τα Προϊόντα  σε απόθεμα αποστέλονται μετά τον έλεγχο της πληρωμής. </p><p> Παρακαλούμε, ανοίξτε το πακέτο που παραδίδεται σύμφωνα με την παραγγελία σας τη στιγμή που θα το παραλάβετε. Εάν ανακαλύψετε οποιαδήποτε ζημία, δεν ευθυνόμαστε εμείς αλλά η υπηρεσία μεταφορών</p><p> Έχετε ερωτήσεις; Επικοινωνήστε με την Υπηρεσία Εξυπηρέτησης Πελατών στο 25210 55595</ p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Κόστος επιβεβαίωσης παράδοσης"
@@ -8802,7 +8806,7 @@ msgstr "Μήκος πακέτου (cm)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "Αναγνωριστικό Site"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -9418,7 +9422,7 @@ msgstr "Μονό"
 
 msgctxt "Languages::single_coupon_is_allowed"
 msgid "Single discount coupon is allowed only"
-msgstr "Το μονό εκπτωτικό κουπόνι είναι επιτρεπτό μόνο"
+msgstr "Επιτρέπεται η χρηση μόνο ενός εκπτωτικού κουπονιού"
 
 msgctxt "Languages::sitemap"
 msgid "Sitemap"
@@ -10534,39 +10538,39 @@ msgstr "Δεν επιτρέπεται να δημιουργήσετε/ανεβα
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>αυτη τη στιγμη χρησιμοποιείτε το  [product] σε δωρεαν λειτουργία. Η δωρεαν λειτουργία δεν απαιτεί μια άδεια και έχει περιορισμένη λειτουργικότητα. Για να χρησιμοποιήσετε αυτήν τη δυνατότητα, χρειάζεστε μια άδεια [product].</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr ""
+msgstr "<p>αυτη τη στιγμη χρησιμοποιείτε το  [product] σε δωρεαν λειτουργία. Η δωρεαν λειτουργία δεν απαιτεί μια άδεια και έχει περιορισμένη λειτουργικότητα. <br>Για να χρησιμοποιήσετε αυτήν τη δυνατότητα, χρειάζεστε μια άδεια [product].</p> <p>Η αγορα και ενεργοποίηση μιας άδεια [product] είναι πανεύκολη. Με την άδεια [product] θα έχετε την πλήρη πρόσβαση στα εξης χαρακτηριστικά:</p>"
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "Πλήρης προσφορές: θα είστε σε θέση να προσθέσετε όχι μόνο προσφορές Κατάλογου, αλλά και προσφορές στο καλάθι."
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Λειτουργικότητα Πολυ-κατάστηματος : θα είστε σε θέση να συνδέσετε αρκετές βιτρίνες/katast;hmata και να τα διαχειρηστείτε μέσω ένος admin πάνελ "
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "Αντιστοίχιση πελατων σε ομάδες χρηστών και ρυθμιση διάφορων προνομιων των admin"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Αρκετές γλώσσες και νομίσματα στο κατάστημά σας"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Πάνω από 30 έτοιμα πρόσθετα για νσ γινει το κατάστημα σας ακόμα καλύτερα"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "Τεχνική υποστήριξη και πρόσβαση σε Help Desk Πελατων (μονο για αγορες απευθειας απο το CS-cart.com)"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr ""
+msgstr "Αναβάθμιση Άδειας"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10586,7 +10590,7 @@ msgstr "Απαιτείται <strong>Πλήρης Λειτουργία</strong>.
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr ""
+msgstr " Απαιτείται άδεια χρησης [product]"
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10982,7 +10986,7 @@ msgstr "Οι Μάρκες μας"
 
 msgctxt "Languages::text_qty_discounts"
 msgid "Our quantity discounts"
-msgstr "Οι εκπτώσεις της ποσότητα μας"
+msgstr "Ποσοτικές εκπτώσεις"
 
 msgctxt "Languages::text_recover_password"
 msgid "<p>If you have forgotten your password, enter your email address in the field and click <i>Reset password</i>.</p><p>You will receive a new password and a link to sign in. You will be able to change the password later.</p>"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Εργαλεία"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Αριθμός Πρόσθετων"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Τρέχουσα κατάσταση"
@@ -11935,10 +11935,6 @@ msgstr "Δεν υπάρχουν addons"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Δεν υπάρχουν Πρόσθετα τριτων"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Επαναφορά των προεπιλογών"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12514,7 +12510,7 @@ msgstr "Κέντρο αναβάθμισης"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "Όλα τα δικαιώματα αρχείων και φακέλων έχουν ρυθμιστεί σωστά."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -13375,6 +13371,10 @@ msgstr "Μεταφόρτωση Θέματος"
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Η Μεταφόρτωση και εγκατάσταση ενός νέου θέματος είναι ένας πολύ καλός τρόπος για να προσαρμόσετε τη βιτρίνα του καταστήματός σας. Μπορείτε να φορτώσετε ένα θέμα επιλέγοντας ένα [exts] συμπιεσμένης μορφής και κάνοντας κλικ στη <strong>Μεταφόρτωση</ strong>."
+
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr "Μπορείτε να φορτώσετε ένα πακέτο αναβάθμισης χειροκίνητα από το τοπικό σας μηχάνημα, το διακομιστή σας, ή από μια απομακρυσμένη τοποθεσία. Καθορίστε τη θέση του ενος αρχείο της μορφής [exts] και κάντε κλικ στο <strong>Upload</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -14346,7 +14346,7 @@ msgstr "Πλάτος εικόνας λεπτομεριών κατηγορίας"
 
 msgctxt "SettingsOptions::use_single_coupon"
 msgid "Allow customers to use single discount coupon only"
-msgstr "Δυνατότητα των πελατών να χρησιμοποιήσουν αποκλειστικά το μονό εκπτωτικό κουπόνι"
+msgstr "Επιτρεπει στους πελατες να χρησιμοποιήσουν μόνο ενα εκπτωτικό κουπόνι"
 
 msgctxt "SettingsOptions::calendar_date_format"
 msgid "Calendar date format"
@@ -14419,6 +14419,10 @@ msgstr "Να απαιτούνται μόνο τα στοιχεία επικοι�
 msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Ζητήστε από τους πελάτες να συμφωνήσουν με τους όρους και τις προϋποθέσεις πριν την αποστολή της παραγγελίας"
+
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr "Το κείμενο για τους όρους & συνθήκες θα ανακτηθει από τη μεταβλητή γλώσσας  \"terms_and_conditions_content\"."
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -14499,6 +14503,10 @@ msgstr "Αν ειναι κρυφό, η πρώτη ενεργή μέθοδος θ
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Ενεργοποίηση πώλησης  προϊόντων με δυνατότητα λήψης"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Επιτρέπει στους πελάτες να συγκρίνουν προϊόντα"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15811,77 +15819,209 @@ msgstr "Προχωρήστε  στο Ταμείο"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr ""
+msgstr "AVS λειτουργία"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr ""
+msgstr "SCRUB λειτουργία"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Παράβλεψη"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "Χρήση για δωρεάν αποστολή"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "Προϊόντα με την επιλογη Δωρεαν Μεταφορικά  ενεργοποιημένη θα αποκλείονται από υπολογισμό μεταφορικών αν η μέθοδος αποστολής έχει την επιλογη  χρήση δωρεάν αποστολής  ενεργοποιημένη"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "Δεν περιλαμβάνονται τα προϊόντα με την επιλογη δωρεάν αποστολή ενεργοποιημένη, από τον υπολογισμό μεταφορικών"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr ""
+msgstr "<p>Μερικά από τα προϊόντα σας έχουν ενεργοποιημένη η ιδιότητα την <b>Δωρεν Αποστολή</b>. Σε παλαιότερες εκδόσεις του [product] ένας πελάτης δεν μπορουσε να επιλέξει μια μέθοδο αποστολής κατά την αγορά αυτών των προϊόντων.</p> <p>Ξεκινώντας απο την έκδοση [product], ένας πελάτης επιλέγει μια μέθοδο αποστολής στο Ταμείο για τα προϊόντα με την ιδιοτητα <b>δωρεαν αποστολη</b> ενεργοποιημένη.</p> <p>Για να δημιουργήσετε μια μεθοδο αποστολης  που θα χρησιμοποιηθεί στη δωρεάν αποστολή, πρεπει να ολοκληρώσετε αυτά τα βήματα:</p> <ol><li>Πάτε στο <b>Διαχείριση→ΜΕΤΑΦΟΡΙΚΑ & ΦΟΡΟΙ → Τρόποι Αποστολής</b>.</li> <li>Επιλέξτε έναν από τους υφιστάμενους Τροπους Αποστολης που θέλετε να χρησιμοποιήσετε για τη δωρεάν αποστολή, ή δημιουργήσετε ένα νέο.</li> <li>Μεταβείτε στο <i>επιπλέον</i> τμήμα που επιτρέπει τη ρύθμιση της <b>χρήσης για Δωρεαν Αποστολή</b>.</li></ol> <p>Μπορείτε να ορίσετε όσους τρόπους αποστολής θέλετε για τη δωρεάν αποστολή.</p> <p>Σημειώστε ότι πρέπει να εφαρμόσετε την επιλογή <b>χρήση για δωρεάν αποστολή</b> σε συγκεκριμένο ναυτιλία μεθόδους.</p> <p>Επιλέξτε το τετραγωνο <b>χρήση για δωρεάν αποστολή</b>, αν θέλετε να εξαιρέσετε τα προϊόντα με την επιλογη <b>δωρεαν μεταφορικα</b> ενεργοποιημένη από τον υπολογισμο μεταφορικων. Το [product] θα υπολογίσει την τιμή μεταφορικών από τα άλλα προϊόντα της παραγγελίας σύμφωνα με τα <b>έξοδα αποστολής</b>.</p> <p>Εάν αφήσετε το πλαίσιο ελέγχου με επιλεγμενο, το [product] θα υπολογίσει την τιμή μεαφορικων για όλα τα προϊόντα από την παραγγελία σύμφωνα με τα <b>έξοδα αποστολής</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Κατηγορία σκουπίδια"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Όταν ένα προϊόν έχει διαγραφεί από την τελευταία κατηγορία στο κατάστημα, θα μετακινηθεί σε αυτή την κατηγορία."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Αλλαγες Δωρεάν αποστολής"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "DHL αλλαγες στον υπολογισμο τιμων μεταφορικων σε πραγματικο χρονο"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
-msgstr ""
+msgstr "<p>Την τελευταία έκδοση του [product] έχει διαφορετικές ρυθμίσεις για το σε πραγματικό χρόνο υπολογισμού τιμων μεταφορικων, αν χρησιμοποιείτε τη DHL ως μεταφορικη</p> <p>Αν θέλετε να εμφανίσετε τις τρέχουσες τιμές αποστολής στους πελάτες σας, κάντε τα εξης:</p> <ul><li>πηγαίνετε στο διαχείριση > ΜΕΤΑΦΟΡΙΚΑ & ΦΟΡΟΙ > Τρόποι Αποστολης</li> <li>επιλέξετε τη μέθοδο αποστολής που χρησιμοποιεί τη DHL ως φορέας για τον υπολογισμό των τιμων μεταφορικων</li> <li>μεταβείτε στην καρτέλα Γενικά και στην κατάλληλη υπηρεσία αποστολής</li> <li>μεταβείτε στην καρτέλα ρύθμιση παραμέτρων και χρησιμοποιείστε το κατάλληλο αναγνωριστικό τοποθεσίας και τον κωδικό</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "Αναβάθμιση αλλαγων σε [product] [version]"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
-msgstr ""
+msgstr "Οι  επεξεργαστες πληρωμων WAY, eWAY Direct Payment και eWAY Shared Payment δεν υποστηρίζονται πλέον"
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr ""
+msgstr "<p>Οι τροποι <b>eWAY</b>, <b>eWAY Direct Payment</b> και <b>eWAY Shared Payment</b> δεν υποστηρίζονται από αυτήν την έκδοση [product].</p> <p>Σας προτείνουμε ανεπιφύλακτα να <b>αναβαθμίσετε σε eWAY Direct Payment (Rapid API)</b> ή <b>eWAY Responsive Shared (Rapid API)</b>, εδώ είναι οι οδηγίες:</p> <ul><li>πηγαίνετε στο διαχείριση > Τροποι Πληρωμης</li> <li>Ανοίξτε έναν από τους τρόπους πληρωμής που κανουν χρηση του παρωχημενου eWAY επεξεργαστή</li>, <li>μεταβείτε στην καρτέλα \"Γενικά\" και καθορίστε το <b>WAY Direct Payment (Rapid API)</b> ή το <b>eWAY Responsive Shared (Rapid API)</b> ως επεξεργαστή πληρωμής</li> <li>μεταβείτε στην καρτέλα \"ρύθμιση παραμέτρων\" και καθορίσετε τα σωστα: <ul><li>API, API κωδικό πρόσβασης και κρυπτογράφηση κλειδιού για WAY Direct Payment (Rapid API)</li> <li>API κλειδί και κωδικός πρόσβασης API για eWAY Responsive Shared (Rapid API)</li></ul></li></ul> <p>Τα eWAY, eWAY Direct Payment και eWAY Shared Payment θα εξακολουθουν να είναι λειτουργικα, αλλά εμείς τα <b>μετονομάσαμε</b> Παρωχημενο eWAY, Παρωχημενο eWAY Direct Payment καιωΠαρωχημενο eWAY Shared Payment αναλόγως.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
-msgstr ""
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'> Πώς μπορώ να ρυθμίσω το Live eWAY API Key και κωδικό πρόσβασης;</a>"
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Δείξε περισσότερα"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Δείξε λιγότερα"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
-msgstr ""
+msgstr "[count] προϊόντα μεταφέρθηκαν στην <a href='[url]' target='_blank'> κατηγορία σκουπίδια</a>"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr "Αλλαγές σε σύγκριση χαρακτηριστικων"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr "Το πλαίσιο ελέγχου <b>σύγκριση χαρακτηριστικου</b> στο <b>Προϊόντα → Προίον→ &lt; επιθυμητό προϊόν &gt;</b> έχει αφαιρεθεί. <br>Επιλέγοντας το νέο κουτάκι <b>Να επιτρέπεται στους πελάτες  να συγκρίνουν προϊόντα</b> στο ρυθμίσεις → γενικές → Κατάλογος, τώρα μπορείτε να επιτρεψετε στους πελάτες σας να προσθέσουν οποιαδήποτε προϊόν του καταστηματος σας στον Καταλογο Συγκρισης. <br>Για να εμφανιστεί στον κατάλογο συγκρισης, ένα χαρακτηριστικό πρέπει να έχει ένα (ή περισσότερα) από τα παρακάτω πλαίσια ελέγχου ενεργοποιημένα στο <b>Προϊόντα → χαρακτηριστικά προϊόντος → &lt; επιθυμητό χαρακτηριστικό &gt;</b>: <br><ul><li>Εμφάνιση στην καρτέλα χαρακτηριστικά</li> <li>Εμφάνιση σε λίστα προϊόντων</li> <li>εμφανιση στην επικεφαλίδα στη σελίδα Λεπτομέρειες προϊόντος</li></ul>"
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr "Πρόσθετο \"[name]\" έχει αναβαθμιστεί με επιτυχία"
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr "Για να προσδιορίσετε αν ένα κάποιο πρόβλημα προκαλείται από ένα πρόσθετο, μπορείτε να απενεργοποιήσετε αυτό ή όλα τα πρόσθετα. Ενεργοποιήσετε τα εκ νέου αργότερα με ένα κλικ."
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Απενεργοποίηση όλων των πρόσθετων"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr "Απενεργοποιήσετε τα πρόσθετα τριτων κατασκευαστων"
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr "Επανενεργοποιηση Προσθετων"
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Εγκατεστημένα Πρόσθετα:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr "Ενεργα πρόσθετα:"
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr "Ενσωματωμένα πρόσθετα:"
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Πρόσθετα τρίτων κατασκευαστών:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr "Ένας διαχειριστής απενεργοποιήσε όλα τα πρόσθετα ή τα πρόσθετα τρίτων κατασκευαστών. <br>Πιέστε το Επαν-Ενεργοποίηση πρόσθετων για να ενεργοποιηθού τα πρόσθετα που λειτουργουσαν στο παρελθόν."
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr "Πηγή"
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr "Ενσωματωμένο"
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr "Τρίτοι Κατασκευαστές"
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr "Δενδρο Υποκατηγοριων"
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr "Το θέμα αντικαθιστά  ρυθμίσεις του καταστηματος"
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr "Το <b>[theme_name]</b> θα ορισει τις εξης ρυθμίσεις κατα την ενεργοποίηση"
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr "Αντικατασταση"
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr "Παράληψη Δημιουργιας Αντιγραφου Αρχειων και Βασης Δεδομενων"
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr "<p>Πριν από την αναβάθμιση, το κατάστημα ήταν κλειστό. Ελέγξτε αν λειτουργεί σωστα μετά την αναβάθμιση και <a href=\"[settings_section]\"> ανοίξετε το</a>.</p></p>"
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr "<p class='upgrade-center_notice-msg'> αντίγραφο αυτού του μηνύματος έχει σταλεί στο email διαχειριστή.</p> <hr>"
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr "Curl Error"
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr "Socket Error"
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr "Για να μάθετε τι προκάλεσε το Curl error, αναζητήστε τον αριθμό σφάλματος σε <a target=\"_blank\" href=\"[href]\"> αυτό το άρθρο</a>."
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr "[n] day|[n] ημέρες"
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr "Παρακολούθηση σε ιστοσελίδα"
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr "Δεν ηταν δυνατον να δημιουργηθει μια νεα κατασταση"
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr "Έχετε φτάσει το μέγιστο αριθμό καταστάσεων"
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr "Κατάσταση επεστρεψε αποτυχία όταν ρωτήθηκε με CURLOPT_SSL_VERIFYSTATUS."
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr "Άγνωστο μορφη αρχείου: [ext]"
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr "Το αρχείο \"[file]\" δεν βρέθηκε."
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
+msgstr "Το αρχείο \"[file]\" υπάρχει ήδη."
 

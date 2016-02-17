@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hidpi.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 11:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:58-0500\n"
 
 msgctxt "Addons::name::hidpi"
 msgid "HiDPI displays support"
@@ -35,4 +35,8 @@ msgstr "Wszystkie nowo dodane zdjęcia zostaną automatycznie zmniejszone w celu
 msgctxt "Languages::text_hidpi_uninstall"
 msgid "Some images may be shrinked to improve loading time on non-HiDPI devices. You may want to re-upload the images with better resolution."
 msgstr "Niektóre obrazy mogą być zmniejszone w celu skrócenia czasu ładowania na urządzeniach innych niż HiDPI. Możesz ponownie przesłać zdjęcia o lepszej rozdzielczości."
+
+msgctxt "Languages::addons.hidpi.thumbnail_format_changed"
+msgid "<a href=\"[settings_url]\">Thumbnail format</a> is set to PNG for better image quality."
+msgstr "<a href=\"[settings_url]\"> Format miniatury</a> jest ustawiony na PNG dla lepszej jakości obrazu."
 

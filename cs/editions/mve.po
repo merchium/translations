@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 03:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:56-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Seřadit abecedně: od Z po A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Váš profil byl změněn a až budou změny schváleny, informace o vaší společnosti se zobrazí v části pro zákazníky."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "Váš stav prodejce byl změněn z aktivního na dosud nevyřízený."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "Váš stav prodejce byl změněn ze zakázaného na dosud nevyřízený."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "Stav dosud nevyřízený umožňuje, můžete se přihlásit do vašeho admin panelu, změnit své firemní informaci a vyplnit svůj obchod s produkty."
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "Požádejte o nové vytvoření účtu prodávajícího"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Zplnomocnění prodejce"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "ID dodavatele"
@@ -336,25 +340,9 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Automaticky vytvořit účet administratora pro nové schválení prodávajícím. (Pokud je nastaveno na \"Povolit uživately vytvořit účet dodavatele\")"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Zahrnuta cena na dopravu prodejci provize"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Vezměte platební příplatek od dodavatelů"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Zplnomocnění"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "Zobrazit dodavatele produktu"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "Pokud je povoleno, nemohou kupující vidět příplatek a nebude použita na celkové hodnoty objednávky"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"

@@ -10,11 +10,11 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-06 05:59-0500\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
-msgstr "Készlet importálása"
+msgstr "Áruház Importálás (Cs-Cart migrálás)"
 
 msgctxt "Addons::description::store_import"
 msgid "Lets you import data from any existing version of CS-Cart from 2.2.4 (except for Community edition) into the current version."
@@ -46,7 +46,7 @@ msgstr "Felhasználói felület/áruház változás miatt az adatok aktualizál�
 
 msgctxt "Languages::store_import.completed"
 msgid "<p>The store import is complete!</p>"
-msgstr "<p>A készlet importálása befejeződött!</p>"
+msgstr "<p>Az importálás befejeződött!</p>"
 
 msgctxt "Languages::store_import.completed_text_ult"
 msgid "<p>In order to go live, you should perform the following steps:</p><ul><li>Overwrite your existing store folder with the new one.</li><li>Set the correct values for the following variables: http_host, http_path, https_host, https_path, customer_index, admin_index, vendor_index.</li><li>Set the correct Storefront URL in the Administration->Stores section.</li></ul><p>To start another store import, click <b>Start new store import.</b></p>"
@@ -110,15 +110,15 @@ msgstr "Áruház beállítása"
 
 msgctxt "Languages::store_import.finish_store"
 msgid "Finish store import"
-msgstr "Készlet importálásának befejezése"
+msgstr "Importálás befejezése"
 
 msgctxt "Languages::store_import.storefront_url"
 msgid "Storefront URL"
-msgstr "Felhasználói felület URL-je"
+msgstr "Webáruház URL címe"
 
 msgctxt "Languages::store_import.secure_storefront_url"
 msgid "Secure storefront URL"
-msgstr "Biztonságos felhasználói felület URL-je"
+msgstr "Webáruház biztonságos URL címe"
 
 msgctxt "Languages::store_import.db_host"
 msgid "Database host"

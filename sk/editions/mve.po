@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-05-18 20:04-0400\n"
+"PO-Revision-Date: 2016-02-17 05:59-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Zoradiť abecedne: od Z po A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Váš profil bol zmenený a až budú zmeny schválené, informácie o vašej spoločnosti sa zobrazí v časti pre zákazníkov."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "Nová žiadosť o konto predajcu"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Provízia predajcu"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "ID predajcu"
@@ -336,25 +340,9 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Automaticky vytvoriť správcovské konto pre novo schváleného predajcu. (Ak je povolené nastavenie \"Umožniť používateľom požiadať o konto predajcu\")"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Zahrnúť prepravné náklady v províziách predajcov"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Získať prirážku k platbe od predajcov"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Provízie"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "Zobraziť predajcu produktu"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "Ak je povolené, zákazníci nebudú vidieť prirážku k platbe a tá nebude prirátaná k sume objednávky"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"

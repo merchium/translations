@@ -10,31 +10,31 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 03:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:56-0500\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
-msgstr "Letáky"
+msgstr "Newslettery"
 
 msgctxt "Addons::description::newsletters"
 msgid "Lets you configure newsletter sending"
-msgstr "Umožňuje nastavit zasílání letáku"
+msgstr "Modul pro správu a rozesílání hromadné emailové korespondence"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
-msgstr "Vytvářejte a odesílejte letáky vašemu zákazníkovi."
+msgstr "Vytvářejte a odesílejte newslettery vašemu zákazníkovi."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
-msgstr "Základní"
+msgstr "Text"
 
 msgctxt "Languages::text_signup_for_subscriptions"
 msgid "Sign up for our newsletters!"
-msgstr "Přihlaste se na naše letáky!"
+msgstr "Přihlaste se k odběru newsletteru!"
 
 msgctxt "Languages::tmpl_subscription"
 msgid "Newsletters: subscription form"
-msgstr "Letáky: přihlašovací formulář"
+msgstr "Newsletter: formulář přihlášení k odběru"
 
 msgctxt "Languages::unsubscribe_link"
 msgid "Unsubscribe link"
@@ -42,15 +42,15 @@ msgstr "Ukončit odebírání"
 
 msgctxt "Languages::ne_add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
-msgstr "Přidat odběratele z uživatelů"
+msgstr "Přidat odběratele ze seznamu uživatelů"
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "<b>[email]</b> je již na seznamu odběratelů"
+msgstr "<b>[email]</b> je již v seznamu odběratelů"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr "Některé seznamy adres ze vstupního souboru nebyly v naší databázi nalezeny. Někteří odběratelé zůstanou nepřiřazení."
+msgstr "Některé seznamy adres ze vstupního souboru nebyly v databázi nalezeny. Někteří odběratelé zůstanou nepřiřazení."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
@@ -62,23 +62,23 @@ msgstr "Přihlášení k odběru novinek"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
-msgstr "E-mail pro přihlášení se na letáky"
+msgstr "E-mail pro přihlášení se k odběru newsletteru"
 
 msgctxt "Languages::privileges.view_newsletters"
 msgid "View newsletters"
-msgstr "Zobrazit letáky"
+msgstr "Zobrazit newslettery"
 
 msgctxt "Languages::privileges.manage_newsletters"
 msgid "Manage newsletters"
-msgstr "Spravovat letáky"
+msgstr "Spravovat newslettery"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
-msgstr "Leták nebyl odeslán, protože nebyly nalezeni žádní příjemci splňující zadané kritéria."
+msgstr "Newsletter nebyl odeslán, protože nebyly nalezeni žádní příjemci splňující zadané kritéria."
 
 msgctxt "Languages::text_newsletter_sent"
 msgid "The newsletter(s) have been sent successfully."
-msgstr "Leták(y) byl(i) úspěšně odeslán(né)."
+msgstr "Newsletter(y) byl(i) úspěšně odeslán(né)."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
@@ -90,7 +90,7 @@ msgstr "Posílám e-mail na [email]..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
-msgstr "Váš e-mail byl úspěšně přidán na náš seznam pro bezplatné aktualizace"
+msgstr "Váš e-mail byl úspěšně přidán do seznamu pro bezplatné aktualizace"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
@@ -106,15 +106,15 @@ msgstr "Váš e-mail byl úspěšně aktivován"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
-msgstr "Odkaz bude zobrazen živě v letácích"
+msgstr "Odkaz bude zobrazen přímo v newsletteru"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
-msgstr "Letáky"
+msgstr "Newslettery"
 
 msgctxt "Languages::autoresponders"
 msgid "Autoresponders"
-msgstr "Automatické odpovídání"
+msgstr "Automatické odpovědi"
 
 msgctxt "Languages::campaigns"
 msgid "Campaigns"
@@ -134,15 +134,15 @@ msgstr "Úprava seznamu adres"
 
 msgctxt "Languages::from_name"
 msgid "From name"
-msgstr "Od jména"
+msgstr "Jméno"
 
 msgctxt "Languages::from_email"
 msgid "From email"
-msgstr "Od e-mailu"
+msgstr "E-mailu odesílatele"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr "Odpovědět na"
+msgstr "E-mail pro odpověď"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
@@ -150,11 +150,11 @@ msgstr "Potvrzovací e-mail"
 
 msgctxt "Languages::no_autoresponder"
 msgid "No autoresponder"
-msgstr "Bez automatického odpovídání"
+msgstr "Bez automatické odpovědi"
 
 msgctxt "Languages::show_on_checkout"
 msgid "Show at checkout"
-msgstr "Zobrazit na pokladně"
+msgstr "Zobrazit v pokladně"
 
 msgctxt "Languages::show_on_registration"
 msgid "Show on registration"
@@ -166,7 +166,7 @@ msgstr "Zobrazit na samostatné stránce"
 
 msgctxt "Languages::campaign_stats"
 msgid "Campaign statistics"
-msgstr "Statistika kampaně"
+msgstr "Statistiky kampaně"
 
 msgctxt "Languages::add_campaign"
 msgid "Add campaign"
@@ -178,11 +178,11 @@ msgstr "Nová kampaň"
 
 msgctxt "Languages::newsletter_templates"
 msgid "Newsletter templates"
-msgstr "Leták - šablony"
+msgstr "Šablony"
 
 msgctxt "Languages::newsletter_autoresponders"
 msgid "Newsletter autoresponders"
-msgstr "Letáky - automatické odpovědi"
+msgstr "Automatické odpovědi"
 
 msgctxt "Languages::subject"
 msgid "Subject"
@@ -190,7 +190,7 @@ msgstr "Předmět"
 
 msgctxt "Languages::add_newsletter"
 msgid "Add newsletter"
-msgstr "Přidat leták"
+msgstr "Přidat newsletter"
 
 msgctxt "Languages::add_template"
 msgid "Add template"
@@ -198,7 +198,7 @@ msgstr "Přidat šablonu"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
-msgstr "Přidat automatické odpovídání"
+msgstr "Přidat automatickou odpověď"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
@@ -206,11 +206,11 @@ msgstr "Náhodné předměty (jeden na řádek)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
-msgstr "HTML tělo"
+msgstr "HTML zpráva"
 
 msgctxt "Languages::no_template"
 msgid "No template"
-msgstr "Bez šablony"
+msgstr "Žádná šablona"
 
 msgctxt "Languages::load"
 msgid "Load"
@@ -328,7 +328,7 @@ msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
 msgstr "Nový poštovní adresář"
 
-msgctxt "Languages::new_subscribers"
+msgctxt "Languages::newsletters.new_subscribers"
 msgid "New subscribers"
 msgstr "Nový odběratelé"
 

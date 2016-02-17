@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 09:00-0500\n"
+"PO-Revision-Date: 2016-02-17 06:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -463,6 +463,10 @@ msgstr "Legg til status"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Legg til underkategori"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Nye abonnenter"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1374,7 +1378,7 @@ msgstr "Feil PO-pakke struktur. Den opplastede pakken kan ikke installeres."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr ""
+msgstr "Strukturen i pakken som inneholder \".po\" oversettelsesfiler lokalisert på <b>\"[pack_path]\"</b> er feil."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Jeg godtar vilkårene i"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Marker denne boksen for å godta salgsbetingelsene."
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Merk av for godta [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Vilkår og betingelser"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "For å fortsette må du godta våre salgsbetingelser."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2146,7 +2158,7 @@ msgstr "Denne blokkens forekomster har forskjellig innhold for"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr ""
+msgstr "Opprett og publiser sider, avstemninger, skjemaer og lenker."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -2939,10 +2951,6 @@ msgstr "Slett denne siden"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Leveringstid"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Leveringstiden beregnes i virkedager."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -6458,7 +6466,7 @@ msgstr "Pakker"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Vis Pakkens innhold"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Fraktservice"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Produkter vi har på lager sendes så snart betalingen er bekreftet. Posten er ansvarlig for varene under transport.</p><p>Husk å sjekke pakken/leveransen så snart du mottar den. Hvis skade er påført, gjør krav mot Posten.</p><p>Ved spørsmål eller kommentarer kontakt vår kundeservice.</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Pris Leveringsbekreftelse"
@@ -8802,7 +8806,7 @@ msgstr "Pakkelengde (tommer)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "Nettsted ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10534,39 +10538,39 @@ msgstr "Det er ikke tillatt å opprette/laste opp/endre navn på filer av denne 
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>Du bruker [product] i Gratis modus. Gratis-modus krever ikke en lisens og har begrenset funksjonalitet. For å bruke denne funksjonen, trenger du en [product] lisens.</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr ""
+msgstr "<p>Du bruker [product] i Gratis modus. Gratis-modus krever ikke en lisens og har begrenset funksjonalitet. <br>For å bruke denne funksjonen, trenger du en [product] lisens.</p> <p>Å kjøpe en [product] lisens er raskt og enklet. Med [product] lisensen får du full tilgang til disse funksjonene:</p>"
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "Total kampanje: du vil kunne legge til ikke bare katalogkampanjer, men også handlevogn kampanjer"
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Multi-store funksjonalitet: du vil ikke kunne koble til flere butikkforsider og administrere dem alle via et felles admin-panel"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "Knytte kunder til brukergrupper og sette ulike rettigheter for administratorer"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Flere språk og valutaer i nettbutikken din"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Over 30 tilleggs-moduler for å gjøre nettbutikken din enda bedre"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "Teknisk support og tilgang til vår HelpDesk"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr ""
+msgstr "Oppgraderer lisens"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10586,7 +10590,7 @@ msgstr "<strong>Full-modus</strong> påkrevd."
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr ""
+msgstr "[product] lisens kreves."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10622,7 +10626,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr ""
+msgstr "Vennligst logg inn på FirstData Connect 2.0 Admin, åpne \"Administration\" fanen, klikk på \"Connect 2.0 Setup\" linken.<br /> Angi følgende URL i \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" seksjonene: [return_url]<br />"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Verktøy"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Modul opptelling"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Nåværende tilstand"
@@ -11935,10 +11935,6 @@ msgstr "Ingen moduler"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Ingen tredjeparts moduler"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Gjenopprett standarder"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12514,7 +12510,7 @@ msgstr "Oppdateringssenter"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "Alle fil- og mappetillatelser har blitt justert riktig."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -13375,6 +13371,10 @@ msgstr "Last opp mal"
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Å laste opp og installere en ny mal er en fin måte å personliggjøre din nettbutikk på. Du kan laste opp en mal ved å velge en tgz, gz, eller zip formatert fil og klikke <strong>Last opp</strong>."
+
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -14420,6 +14420,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Spør kundene om å være enig med vilkår og betingelser når de sjekker ut"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Tillat kunder å betale på nytt hvis transaksjonen ble avvist"
@@ -14499,6 +14503,10 @@ msgstr "Hvis skjult, vil den første aktive metoden brukes som standard."
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Aktiver salg av nedlastbare produkter"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr ""
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15883,5 +15891,137 @@ msgstr ""
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr ""
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr ""
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr ""
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr ""
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr ""
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr ""
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 

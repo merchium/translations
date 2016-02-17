@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/seo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-12 05:00-0500\n"
+"PO-Revision-Date: 2015-12-13 08:58-0500\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -18,7 +18,7 @@ msgstr "SEO"
 
 msgctxt "Addons::description::seo"
 msgid "Adds Search engine-friendly URLs support"
-msgstr "Keresőbarát linkek támogatása"
+msgstr "Keresőbarát URL-ek és SEO beállítások kezelése"
 
 msgctxt "Languages::seo_rules_menu_description"
 msgid "Use this section to define global rules for the URLs rewritten in your store."
@@ -86,7 +86,7 @@ msgstr "Új átirányítás"
 
 msgctxt "Languages::seo.error_old_url_exists"
 msgid "The URL you're redirecting from is already exist"
-msgstr "A link, melyről az átirányítás történik, létezik"
+msgstr "A link, melyről az átirányítás történik, használatban van"
 
 msgctxt "Languages::seo.rich_snippets"
 msgid "Google rich snippets preview"
@@ -122,15 +122,15 @@ msgstr "Termékek keresőbarát link formátuma"
 
 msgctxt "SettingsOptions::seo::seo_category_type"
 msgid "Category SEO URL format"
-msgstr "Kategória keresőbarát link formátuma"
+msgstr "Kategóriák keresőbarát link formátuma"
 
 msgctxt "SettingsOptions::seo::seo_page_type"
 msgid "Page SEO URL format"
-msgstr "Oldal keresőbarát link formátuma"
+msgstr "Oldalak keresőbarát link formátuma"
 
 msgctxt "SettingsOptions::seo::seo_other_type"
 msgid "Other SEO URL format"
-msgstr "Egyéb keresőbarát link formátuma"
+msgstr "Egyéb elemek keresőbarát link formátuma"
 
 msgctxt "SettingsOptions::seo::seo_language"
 msgid "Show language in the URL"

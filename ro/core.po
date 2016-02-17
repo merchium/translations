@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 08:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -463,6 +463,10 @@ msgstr "Adaugati statut"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Agaugati o subcategorie"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Adăugați noi abonați"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1374,7 +1378,7 @@ msgstr "Structura PO-pack incorectă. Pachetul încărcat nu poate fi instalat."
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr ""
+msgstr "Structura de pachet care conţine fişiere de traducere \".po\" la <b>\"[pack_path]\"</b> este incorectă."
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Accept termenii din"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Bifand aceasta casuta, acceptati termenii si conditile."
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Selectaţi această casetă de selectare pentru a accepta [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Termeni si conditii"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Pentru a continua, trebuie sa acceptati Termenii si Conditiile noastre."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Vă rugăm să citiţi aceşti termeni şi condiţii (\"Termeni\", \"Termeni si conditii\") cu atenţie înainte de a utiliza site-ul <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> şi meu Mobile App mobile cerere (\"serviciile\") operate de compania mea (\"noi\", \"noi\" sau \"al nostru\").</p> <p><strong>Prin accesarea sau utilizarea serviciului sunteţi de acord să respectaţi aceşti termeni. Dacă nu sunteţi de acord cu orice parte a termenilor, atunci nu puteţi accesa serviciul.</strong></p> <p><strong>Achiziţii</strong></p> <p>Dacă doriţi să achiziţionaţi orice produs sau serviciu facut disponibil prin intermediul serviciului (\"cumpărare\"), vi se poate cere să furnizeze anumite informații relevante să vă cumpărare, inclusiv, fără limitare, ta...</p> <p><strong>Conţinut</strong></p> <p>Noastra Service vă permite să posta, link-ul, stoca, partaja şi pune la dispoziţie anumite informaţii, text, grafică, video, sau alte materiale (\"Continut\"). Sunteţi responsabil pentru...</p> <p><strong>Modificări</strong></p> <p>Ne rezervăm dreptul, la discreţia noastră, să modifice sau să înlocuiţi aceşti termeni în orice moment. În cazul în care revizuirea este material vom încerca să ofere cel puţin 30 de zile preaviz înainte de orice termeni noi a lua efect. Ceea ce constituie o schimbare materială va fi stabilit la discreţia noastră absolută.</p> <p><strong>Contactati-ne</strong></p> <p>Dacă aveţi orice întrebări despre aceşti termeni, vă rugăm să ne contactaţi.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2058,7 +2070,7 @@ msgstr "Lista de comparație"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr ""
+msgstr "Du-te la lista de comparaţie de produse"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2146,7 +2158,7 @@ msgstr "Acest block are continut diferit pentru"
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr ""
+msgstr "Creaza si publica pagini, sondaje, formulare si link-uri."
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -2734,7 +2746,7 @@ msgstr "Schimbari in baza de date"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr ""
+msgstr "Copiere de rezervă/restaurare"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2778,11 +2790,11 @@ msgstr "Salvati baza de date"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr ""
+msgstr "Copiere de rezervă/restaurare"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
-msgstr ""
+msgstr "Creaza copie de rezervă"
 
 msgctxt "Languages::db_name"
 msgid "Database name"
@@ -2939,10 +2951,6 @@ msgstr "Stergeti aceasta pagina"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Timp de livrare"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Timpul de livrare"
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -3226,7 +3234,7 @@ msgstr "Stergeti toate produsele existente inainte de importare"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr ""
+msgstr "Nu pot încărca fişierul copie de rezervă. Vă rugăm să verificaţi permisiunile pentru \"var/backup\" directorul de instalare."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Serviciu de transport"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Produsele aflate in stoc vor fi expediate dupa verificarea platii. Serviciul postal este responsabil de produse pe perioada transportului..</p><p>Va rugam, deschideti pachetul livrat in momentul primirii. In caz de deteriorare, contactati Serviciul postal pentru eventualele reclamatii..</p><p>Intrebari? Contactati Serviciu Clienti la <strong>  000 0000 0000 sau  0000 000 000</strong> de luni pana vineri in intervalul orar: 8:30 - 17:00</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Costul Confirmarii Livrarii"
@@ -9122,7 +9126,7 @@ msgstr "Centrul Serviciului Aerean"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr ""
+msgstr "Fara semnatura"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
@@ -9134,7 +9138,7 @@ msgstr ""
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr ""
+msgstr "Foloseste confirmarea Livrarii"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Instrumente"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Calcul suplimente"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Situatia actuala"
@@ -11935,10 +11935,6 @@ msgstr "Fără suplimente"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Nici un supliment aferent terților"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Restaurare setari implicite"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12122,7 +12118,7 @@ msgstr ""
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr ""
+msgstr "Cumpara o licenta"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -13376,6 +13372,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Inarcand si instaland o noua tema este o modalitate buna de a personaliza magazinul dvs.Puteti incarca o tema alegand a tgz, gz, or zip formatele arhiva si clicand <strong>Upload</strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "Urmatoarele directive nu au permisiune de scriere."
@@ -14420,6 +14420,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Adresează termenii și condițiile în timpul procesării"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Permite clienților să plătească din nou dacă tranzacția a fost refuzată"
@@ -14499,6 +14503,10 @@ msgstr "Daca este ascuns, se va folosi in mod implicit prima metoda de plata act
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Permite vânzarea de produse downloadabile"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr ""
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15883,5 +15891,137 @@ msgstr ""
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr ""
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr ""
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr ""
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr ""
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr ""
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr ""
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 

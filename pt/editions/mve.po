@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-14 12:01-0400\n"
+"PO-Revision-Date: 2016-02-17 05:59-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Ordenar por alfabética: Z a A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Seu perfil foi alterado e uma vez que as alterações forem aprovadas, as informações sobre a sua empresa aparecerá na frente da loja."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -214,181 +222,161 @@ msgstr "Seu pedido para o fornecedor foi rejeitado."
 
 msgctxt "Languages::text_company_status_new_to_pending"
 msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
-msgstr "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr ""
 
 msgctxt "Languages::text_company_status_pending_subj"
 msgid "Your company is waiting for approval."
-msgstr "Your company is waiting for approval."
+msgstr ""
 
 msgctxt "Languages::text_company_status_pending_to_active"
 msgid "Your profile changes for vendor [company] were approved."
-msgstr "Your profile changes for vendor [company] were approved."
+msgstr ""
 
 msgctxt "Languages::text_error_adding_request"
 msgid "Error while adding the request."
-msgstr "Error while adding the request."
+msgstr ""
 
 msgctxt "Languages::text_new_payment_was_created"
 msgid "New payment was created"
-msgstr "New payment was created"
+msgstr ""
 
 msgctxt "Languages::text_not_approved_vendors"
 msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
-msgstr "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr ""
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
-msgstr "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
+msgstr ""
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
-msgstr "Your request was successfully added. You will receive the email with the answer later."
+msgstr ""
 
 msgctxt "Languages::total_amount_due"
 msgid "Total amount due"
-msgstr "Total amount due"
+msgstr ""
 
 msgctxt "Languages::total_period_payout"
 msgid "Total sales period payout"
-msgstr "Total sales period payout"
+msgstr ""
 
 msgctxt "Languages::total_unpaid_balance"
 msgid "Total unpaid balance"
-msgstr "Total unpaid balance"
+msgstr ""
 
 msgctxt "Languages::tt_views_payments_update_taxes"
 msgid "If payment surcharge is taken from vendors, taxes are not calculated"
-msgstr "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr ""
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
-msgstr "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr ""
 
 msgctxt "Languages::vendor"
 msgid "Vendor"
-msgstr "Vendor"
+msgstr ""
 
 msgctxt "Languages::vendors"
 msgid "Vendors"
-msgstr "Vendors"
+msgstr ""
 
 msgctxt "Languages::vendors_menu_description"
 msgid "Sorted list of vendor accounts registered in the store."
-msgstr "Sorted list of vendor accounts registered in the store."
+msgstr ""
 
 msgctxt "Languages::vendor_account_balance"
 msgid "Account balance"
-msgstr "Account balance"
+msgstr ""
 
 msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
-msgstr "New vendor account application"
-
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Vendor commission"
+msgstr ""
 
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
-msgstr "Vendor ID"
+msgstr ""
 
 msgctxt "Languages::vendor_name"
 msgid "Vendor name"
-msgstr "Vendor name"
+msgstr ""
 
 msgctxt "Languages::vendor_pages"
 msgid "Vendor pages"
-msgstr "Vendor pages"
+msgstr ""
 
 msgctxt "Languages::vendor_panel"
 msgid "Vendor panel"
-msgstr "Vendor panel"
+msgstr ""
 
 msgctxt "Languages::view_vendor_orders"
 msgid "View vendor orders"
-msgstr "View vendor orders"
+msgstr ""
 
 msgctxt "Languages::view_vendor_products"
 msgid "View vendor products"
-msgstr "View vendor products"
+msgstr ""
 
 msgctxt "Languages::view_vendor_users"
 msgid "View vendor users"
-msgstr "View vendor users"
+msgstr ""
 
 msgctxt "Languages::you_can_edit_account_details"
 msgid "You can edit the account details now."
-msgstr "You can edit the account details now."
+msgstr ""
 
 msgctxt "SettingsSections::Vendors"
 msgid "Vendors"
-msgstr "Vendors"
+msgstr ""
 
 msgctxt "SettingsOptions::vendors_per_page"
 msgid "Vendors per page"
-msgstr "Vendors per page"
+msgstr ""
 
 msgctxt "SettingsOptions::apply_for_vendor"
 msgid "Allow users to apply for vendor account"
-msgstr "Allow users to apply for vendor account"
+msgstr ""
 
 msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-msgstr "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Include shipping cost in vendors commission"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Take payment surcharge from vendors"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Commissions"
+msgstr ""
 
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
-msgstr "Display product vendor"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
+msgstr ""
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
-msgstr "Apply for a vendor account form"
+msgstr ""
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
-msgstr "Vendor categories"
+msgstr ""
 
 msgctxt "Languages::block_vendor_categories_description"
 msgid "Product categories available to a particular vendor"
-msgstr "Product categories available to a particular vendor"
+msgstr ""
 
 msgctxt "Languages::block_vendor_information"
 msgid "Vendor information"
-msgstr "Vendor information"
+msgstr ""
 
 msgctxt "Languages::block_vendor_logo"
 msgid "Vendor logo"
-msgstr "Vendor logo"
+msgstr ""
 
 msgctxt "Languages::block_vendor_search"
 msgid "Search by vendor products"
-msgstr "Search by vendor products"
+msgstr ""
 
 msgctxt "Languages::vendor_filters"
 msgid "Vendor Product filters"
-msgstr "Vendor Product filters"
+msgstr ""
 
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
-msgstr "Vendor products"
+msgstr ""
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
-msgstr "Vendor filters"
+msgstr ""
 

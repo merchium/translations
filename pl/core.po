@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 11:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:58-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -110,7 +110,7 @@ msgstr "Tryb aktywacji"
 
 msgctxt "Languages::active"
 msgid "Active"
-msgstr "Aktywna"
+msgstr "Aktywny"
 
 msgctxt "Languages::active_categories"
 msgid "Active categories"
@@ -464,6 +464,10 @@ msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Dodaj podkategorię"
 
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Nowy subskrybent"
+
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
 msgstr "Dodaj subskrybenta"
@@ -666,7 +670,7 @@ msgstr "Odpowiedź"
 
 msgctxt "Languages::any"
 msgid "Any"
-msgstr "Jakikolwiek"
+msgstr "Dowolny"
 
 msgctxt "Languages::any_date"
 msgid "Any date"
@@ -1430,7 +1434,7 @@ msgstr "Kup teraz"
 
 msgctxt "Languages::by"
 msgid "by"
-msgstr "złożone przez"
+msgstr "dodany przez"
 
 msgctxt "Languages::bytes"
 msgid "bytes"
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Akceptuję Regulamin w"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Zaakceptuj Regulamin sklepu i warunki zakupu"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Zaznacz pole wyboru, aby zaakceptować [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Ogólne warunki handlowe"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Aby kontynuować musisz zaakceptować Regulamin i Warunki"
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Prosimy o uważne przeczytanie Warunków i Postanowień (\"Warunki\", \"Ogólne warunki handlowe\") przed rozpoczęciem korzystania ze sklepu <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> aplikacji mobilnej (\"Usługa\") obsługiwane przez moja firma (\"nas\", \"my\" lub \"nasz\").</p> <p><strong>Przez dostęp lub korzystanie z usługi użytkownik zgadza się przestrzegać niniejszych warunków. Jeśli nie zgadzasz się z jakąkolwiek częścią warunków, zamknij przeglądarkę i nie korzystaj z serwisu.</strong></p> <p><strong>Zakupy</strong></p> <p>Jeśli chcesz zakupić jakiegokolwiek produkty lub usługi dostępne za pośrednictwem usługi (\"zakup\"), możesz zostać poproszony do dostarczania niektórych informacji istotnych dla swojego zakupu w tym, bez ograniczeń, swoje...</p> <p><strong>Treści</strong></p> <p>Nasz serwis pozwala na post, linki, przechowywania, dzielenie się i inny sposób udostępniania pewnych informacji, tekstu, grafiki, filmów oraz innych materiałów (\"zawartość\"). Jesteś odpowiedzialny za...</p> <p><strong>Zmiany</strong></p> <p>Zastrzegamy sobie prawo, wedle własnego uznania, aby zmodyfikować lub zastąpić niniejszych warunków w dowolnym momencie. Jeśli dokonamy zmiany postaramy się to zrobić z co najmniej 30-dni wyprzedzeniem przed wejściem w życie nowych warunków. Niemniej istotne zmiany będą ustalane według naszego uznania.</p> <p><strong>Skontaktuj się z nami</strong></p> <p>Jeśli masz jakiekolwiek pytania dotyczące niniejszych warunków, prosimy o kontakt z nami.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2939,10 +2951,6 @@ msgstr "Usuń tą stronę"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Czas dostawy"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Czas dostawy jest obliczany w dniach roboczych."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -5058,7 +5066,7 @@ msgstr "Numer licencji"
 
 msgctxt "Languages::license_number_cannot_be_empty"
 msgid "License number cannot be empty"
-msgstr "Numer licencji nie może być pusty"
+msgstr "Pole z numerem licencji nie może być puste"
 
 msgctxt "Languages::limit"
 msgid "Limit"
@@ -6798,7 +6806,7 @@ msgstr "Prosimy o cierpliwość"
 
 msgctxt "Languages::please_enter_license_here"
 msgid "Please enter license number here"
-msgstr "Wpisz tu numer licencji"
+msgstr "Wpisz numer licencji"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -8334,11 +8342,11 @@ msgstr "Szukaj po cenie"
 
 msgctxt "Languages::search_by_product_features"
 msgid "Search by product features"
-msgstr "Szukaj po cechach produtków"
+msgstr "Szukaj po cechach produktów"
 
 msgctxt "Languages::search_by_product_filters"
 msgid "Search by product filters"
-msgstr "Szukaj po filtrach produtku"
+msgstr "Szukaj po filtrach produktów"
 
 msgctxt "Languages::search_by_sku"
 msgid "Search by product code"
@@ -8767,10 +8775,6 @@ msgstr "Adres wysyłki taki sam jak zamawiającego."
 msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Dostawca"
-
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Produkty dostępne w magazynie zostaną wysłane po zweryfikowaniu płatności.</p><p>Firma dostarczająca przesyłkę jest odpowiedzialna za towar podczas jego transportu. Proszę otworzyć paczkę  w chwili jej otrzymania. Jeśli są widoczne jakiekolwiek uszkodzenia, będziesz mógł złożyć reklamację.</p><h3>Masz pytania?</h3><p> Skontaktuj się z naszym Biurem Obsługi Klienta pod numerem 123-12-23.</p>"
 
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
@@ -10330,7 +10334,7 @@ msgstr "Idź z powrotem"
 
 msgctxt "Languages::text_combination_out_of_stock"
 msgid "No products with the selected options in stock"
-msgstr "Brak produktów dla wybranych w magazynie"
+msgstr "Brak produktów dla wybranych opcji w magazynie"
 
 msgctxt "Languages::text_companies_activated"
 msgid "Selected companies have been activated"
@@ -11921,10 +11925,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Narzędzia"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Licznik dodatków"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Aktualny stan"
@@ -11936,10 +11936,6 @@ msgstr "Bez dodatków"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Brak dodatków zewnętrznych firm"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Przywracanie ustawień domyślnych"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12135,7 +12131,7 @@ msgstr "Dowolny tekst, który będzie wyświetlony wraz z nazwą sposobu wysyłk
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
-msgstr "Tytuł stony wyświetlany w panelu przeglądarki."
+msgstr "Tytuł strony wyświetlany pasku tytułowym przeglądarki."
 
 msgctxt "Languages::ttc_popularity"
 msgid "Product popularity rating based on how many times the storefront has been viewed, number of additions to cart and number of purchases."
@@ -13377,6 +13373,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Instalacja nowego tematu graficznego to świetny sposób, aby spersonalizować sklep. Możesz wgrać temat wybierając paczkę w formacie [exts] i klikając <strong>Załaduj</strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr "Możesz przesłać pakiet uaktualniający ręcznie z komputera lokalnego na serwer lub z lokalizacji zdalnej. Określ lokalizację archiwum w formacie [exts] i kliknij przycisk <strong>Prześlij</strong>."
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "Następujące katalogi nie mają uprawnień do zapisywania."
@@ -14421,6 +14421,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Pytaj klientów podczas potwierdzania zamówienia czy zgadzają się z regulaminem i warunkami"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr "Tekst regulaminu będzie pobierany ze zmiennej językowej \"terms_and_conditions_content\"."
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Pozwól klientom zapłacić za zamówienie ponownie jeśli transakcja została anulowana"
@@ -14500,6 +14504,10 @@ msgstr "Jeśli ukryte, pierwsza aktywna metoda zostanie użyta."
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Zezwól na sprzedaż produktów do pobrania"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Pozwól klientom porównywać produkty"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15885,4 +15893,136 @@ msgstr "Pokaż mniej"
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
 msgstr "[count] produktów zostało przeniesionych do <a href='[url]' target='_blank'> kosza kategorii</a>"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr "Zmiany w funkcji porównania produktów"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr "<b>Pole checkbox</b> funkcji porównania<b>Produkty → Produkty → &lt; Konkretny produkt &gt;</b> zostało usunięte. <br>Zaznaczając nowe pole wyboru <b>Zezwalaj klientom porównywać produkty </b> w Ustawienia → Główne → Katalog, teraz można włączyć globalnie możliwość dodawania produktów do listy porównania w sklepie. <br>Aby pokazać produkt na liście porównania, musi on mieć jedno (lub więcej) włączonych następujących pól wyboru <b>Produkty → Cechy → &lt; Konkretna cecha &gt;</b>: <br><ul><li>Pokaż w zakładce cechy</li> <li>Pokaż na liście produktów</li> <li>Pokaż w nagłówku na karcie produktu</li></ul>"
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr "Dodatek \"[name]\" został uaktualniony pomyślnie"
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr "Aby określić, czy problem jest spowodowany przez dodatek, możesz wyłączyć dodatki innych firm lub wszystkie dodatki. Będzie można je ponownie włączyć później za pomocą jednego kliknięcia."
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Wyłącz wszystkie dodatki"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr "Blokowanie dodatków innych firm"
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr "Ponownie włącz dodatki"
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Zainstalowane dodatki:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr "Aktywne Dodatki:"
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr "Wbudowane dodatki:"
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Dodatki innych firm:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr "Administrator może wyłączyć wszystkie dodatki lub dodatki innych firm. <br>Naciśnij przycisk Ponownie włącz dodatki aby zainicjować dodatki, które były wcześniej aktywne."
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr "Źródło"
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr "Wbudowane"
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr "Inne firmy"
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr "Drzewo podkategorii"
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr "Motyw zastępuje ustawienia sklepu"
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr "<b>[theme_name]</b> ustawi następujące ustawienia dotyczące aktywacji"
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr "Nadpisać"
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr "Pomiń pliki i kopię zapasową bazy danych"
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr "<p>Przed uaktualnieniem twój sklep został zamknięty. Sprawdź po aktualizacji czy sklep działa prawidłowo i <a href=\"[settings_section]\"> otwórz go</a>.</p></p>"
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr "<p class='upgrade-center_notice-msg'> Kopia tej wiadomości została wysłana na adres e-mail administratora.</p> <hr>"
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr "Błąd Curl"
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr "Błąd gniazda"
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr "Aby dowiedzieć się, co spowodowało ten błąd Curl, wyszukaj numer błędu w <a target=\"_blank\" href=\"[href]\"> tym artykule</a>."
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr "[n] dzień|[n] dni"
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr "Śledzić na stronie internetowej"
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr "Nie można utworzyć nowego statusu"
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr "Osiągnąłeś maksymalną liczbę statusów"
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr "Został zwrócony błędny status podczas zapytania o CURLOPT_SSL_VERIFYSTATUS."
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr "Nieznany format archiwum: [ext]"
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr "Pliku \"[file]\" nie znaleziono."
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
+msgstr "Plik \"[file]\" już istnieje."
 

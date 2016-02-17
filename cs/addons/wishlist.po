@@ -10,39 +10,39 @@ msgstr ""
 "X-Crowdin-File: /addons/wishlist.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 03:58-0500\n"
+"PO-Revision-Date: 2016-02-17 05:56-0500\n"
 
 msgctxt "Addons::name::wishlist"
 msgid "Wish List"
-msgstr "Seznam přání"
+msgstr "Oblíbené produkty"
 
 msgctxt "Addons::description::wishlist"
 msgid "Lets customers store items in personal wish lists"
-msgstr "Osobní seznamy dosud nevyřízených položek pro kupující"
+msgstr "Uživatelé budou mít možnost si přidat produkty do seznamu \"Koupit později\""
 
 msgctxt "Languages::add_to_wishlist"
 msgid "Add to wish list"
-msgstr "Přidat do seznamu přání"
+msgstr "Koupit později"
 
 msgctxt "Languages::clear_wishlist"
 msgid "Clear wish list"
-msgstr "Vymazat seznam přání"
+msgstr "Vymazat seznam"
 
 msgctxt "Languages::view_wishlist"
 msgid "View wish list"
-msgstr "Zobrazit seznam přání"
+msgstr "Zobrazit oblíbené produkty"
 
 msgctxt "Languages::wishlist_content"
 msgid "Wish list content"
-msgstr "Obsah seznamu přání"
+msgstr "Oblíbené produkty"
 
 msgctxt "Languages::wishlist"
 msgid "Wish list"
-msgstr "Seznam přání"
+msgstr "Oblíbené produkty"
 
 msgctxt "Languages::wishlist_note"
 msgid "Go to your wishlist"
-msgstr "Přejděte do seznamu přání"
+msgstr "Přejít do seznamu s Oblíbenými produkty"
 
 msgctxt "Languages::text_failed_gift_certificate_addition"
 msgid "Failed to add the certificate. Make sure the summary amount is not zero."
@@ -62,5 +62,13 @@ msgstr "Tento produkt je již v seznamu přání"
 
 msgctxt "Languages::wishlist_products"
 msgid "Wish list products"
-msgstr "Produkty seznamu přání"
+msgstr "Oblíbené produkty"
+
+msgctxt "Languages::addons.wishlist.unable_to_add_product"
+msgid "Couldn't add the product to Wish list"
+msgstr "Nelze přidat výrobek do seznam přání"
+
+msgctxt "Languages::addons.wishlist.product_limit_reached"
+msgid "You have reached the maximum number of products in Wish list"
+msgstr "Dosáhli jste maximálního počtu produktů v seznamu přání"
 

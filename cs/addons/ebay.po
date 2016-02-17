@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-19 03:58-0500\n"
+"PO-Revision-Date: 2016-02-16 11:55-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -162,15 +162,15 @@ msgstr "eBay podmínka kategorie"
 
 msgctxt "Languages::ebay_associated_category"
 msgid "Associated eBay category"
-msgstr ""
+msgstr "Kategorie přidružené s eBay"
 
 msgctxt "Languages::ebay_category_preferences"
 msgid "eBay Category <br> Preferences"
-msgstr ""
+msgstr "eBay kategorie <br> Předvolby"
 
 msgctxt "Languages::ebay_category_preferences_tooltip"
-msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your stor"
-msgstr ""
+msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
+msgstr "Použijte kategorii eBay šablony, nebo přiřadte jinou eBay kategorii k produktům které spadají do této kategorie vašeho obchodu"
 
 msgctxt "Languages::ebay_template"
 msgid "eBay template"
@@ -225,48 +225,48 @@ msgid "You're using a test version of this module, the validity of which ended o
 msgstr "Používáte zkušební verzi tohoto modulu, jejíž platnost vypršela 7. prosince 2013. Po skončení zkušební doby nebudou funkce modulu nadále dostupné. Plnou verzi můžete zakoupit na <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
 
 msgctxt "Languages::ttc_list_products_on"
-msgid "Choose the region of the ebay auction for which your site will work"
-msgstr ""
+msgid "Choose the region of the eBay auction for which your site will work"
+msgstr "Vyberte region na eBay aukci, pro které vaše stránky budou fungovat"
 
 msgctxt "Languages::ttc_use_as_default"
 msgid "Use this template for products with no template defined"
-msgstr ""
+msgstr "Použít tuto šablonu pro produkty bez definované šablony"
 
 msgctxt "Languages::ttc_ebay_root_category"
 msgid "The product root category at eBay"
-msgstr ""
+msgstr "Hlavní kategorie produktu na eBay"
 
 msgctxt "Languages::ttc_ebay_root_sec_category"
-msgid "The additional product root category at ebay"
-msgstr ""
+msgid "The additional product root category at eBay"
+msgstr "Dodatečný produkt root kategorie na eBay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
-msgid "The additional product subcategory at ebay"
-msgstr "Dodatečná podkategorie produktu na eBay"
+msgid "The additional product subcategory at eBay"
+msgstr "Dodatečný produkt podkategorie na eBay"
 
 msgctxt "Languages::ttc_shipping_type"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr ""
+msgstr "Vyberte, zda chcete použít kalkulovanou nebo fixní metodu poštovného. Kalkulovaná - poštovné bude vypočteno na základě PSČ zákazníka, hmotnosti zásilky a způsobu dopravy. Fixní - poštovné bude pevné"
 
 msgctxt "Languages::ttc_domestic_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr ""
+msgstr "Vyberte přepravní službu, která bude použita pro doručování produktů ve vašem regionu"
 
 msgctxt "Languages::ttc_international_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr ""
+msgstr "Vyberte přepravní službu, která bude použita pro doručování produktů mezinárodně"
 
 msgctxt "Languages::ttc_dispatch_days"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr ""
+msgstr "Dodací lhůta (ve dnech)"
 
 msgctxt "Languages::ttc_ebay_payment_methods"
 msgid "Payment method(s), available for a template"
-msgstr ""
+msgstr "Platební metody dostupné podle šablony"
 
 msgctxt "Languages::ttc_paypal_email"
 msgid "Define login of the PayPal account"
-msgstr ""
+msgstr "Zadejte login do PayPal účtu"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
@@ -274,19 +274,19 @@ msgstr "Zadejte login do PayPal účtu"
 
 msgctxt "Languages::ttc_free_shipping"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr ""
+msgstr "Vyberte, zda chcete aby byla na výrobky v šabloně aplikována doprava zdarma"
 
 msgctxt "Languages::ttc_shipping_cost"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Pevný expediční poplatek za jednu položku jestli je způsob dopravy Flat (dále jen poštovné a balné nastavení na eBay)."
 
 msgctxt "Languages::ttc_shipping_cost_additional"
 msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Poštovné za každou další položku v řadě (nastavení \"Každá další položka\" na eBay)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Additional shipping fee"
-msgstr ""
+msgstr "Další poštovné"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
@@ -314,11 +314,11 @@ msgstr "eBay popis: Popis produktu, který bude použit na eBay"
 
 msgctxt "Languages::override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Redefinice názvu produktu a popis na eBay"
 
 msgctxt "Languages::override_tooltip"
-msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
-msgstr "Vyberte, zda chcete původní název a popis produktu nahradit názvem a popisem uvedenými v příslušných polích na eBay"
+msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
+msgstr "Vyberte, chcete-li původní název produktu a popis, které mají být nahrazeny s tím, je uvedeno v názvu produktu eBay a eBay popis produktu pole"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
@@ -326,7 +326,7 @@ msgstr "Reklamační řád"
 
 msgctxt "Languages::ttc_return_policy"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr ""
+msgstr "Vyberte, zda je produkty sdružené v této šabloně umožněno vrátit"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -341,8 +341,8 @@ msgid "After receiving the item, your buyer should contact you within"
 msgstr "Po obdržení zboží by vás kupující měl kontaktovat do"
 
 msgctxt "Languages::ttc_contact_time"
-msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr ""
+msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
+msgstr "Vyberte lhůtu, v níž kupující musí kontaktovat vás o potvrzení, že on/ona obdržel produkt"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
@@ -350,7 +350,7 @@ msgstr "Náhrada bude poskytnuta ve formě"
 
 msgctxt "Languages::ttc_refund_method"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr ""
+msgstr "Vyberte metodu která nahradí vrácení, pokud není povoleno"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -369,8 +369,8 @@ msgid "Return shipping will be paid by"
 msgstr "Dopravu při vrácení hradí"
 
 msgctxt "Languages::ttc_cost_paid_by"
-msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr ""
+msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
+msgstr "Vyberte si, kdo bude platit způsob dopravy nákupu vratného - prodávajícího nebo kupujícího"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -386,7 +386,7 @@ msgstr "Reklamační řád"
 
 msgctxt "Languages::ttc_return_policy_descr"
 msgid "Write the detailed description of your return policy here"
-msgstr ""
+msgstr "Uveďte podrobný popis vašeho reklamačního řádu"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -414,7 +414,7 @@ msgstr "Revidované po posledním exportu"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr ""
+msgstr "Export produkt \"[product]\" obrázky do eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -426,7 +426,7 @@ msgstr "Nemáte povolení k odstranění některých šablon, které patří jin
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr ""
+msgstr "Aktuální číslo licence je neplatné. \"Ebay\" doplněk byl zakázán. Pro novou aktivaci zkontrolujte licenční číslo doplňku."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
@@ -442,7 +442,7 @@ msgstr "Licenční číslo doplňku je prázdné."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
-msgstr ""
+msgstr "eBay šablony nebyly nalezeny"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
@@ -501,8 +501,8 @@ msgid "License info"
 msgstr "Informace o licenci"
 
 msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "Tento doplněk vyžaduje platnou licenci. Licenci pro eBay doplněk můžete zakoupit na stránce <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronizace</a>."
+msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
+msgstr "Tento add-on vyžaduje licenci k fungování. Můžete zakoupit eBay add-on licence, na jejímž <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronizace</a> stránce.<br>Můžete použít eBay add-on zdarma na zkušebním režimu na [days]. Chcete-li aktivovat režim zkušební, zadejte \"[trial_license]\" do licenčního pole."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -514,199 +514,211 @@ msgstr "Spravovat eBay šablony"
 
 msgctxt "Languages::ebay_price"
 msgid "eBay product price"
-msgstr ""
+msgstr "eBay cena produktu"
 
 msgctxt "Languages::override_price"
 msgid "Redefine price on eBay"
-msgstr ""
+msgstr "Předefinovat cenu na eBay"
 
 msgctxt "Languages::ebay_product_status"
 msgid "eBay product status"
-msgstr ""
+msgstr "eBay stav výrobku"
 
 msgctxt "Languages::ebay_product_status_not_exported"
-msgid "not exported"
-msgstr ""
+msgid "Not exported"
+msgstr "Nejsou exportovány"
 
 msgctxt "Languages::ebay_product_status_active"
 msgid "Active"
-msgstr ""
+msgstr "Aktivní"
 
 msgctxt "Languages::ebay_product_status_closed"
 msgid "Ended"
-msgstr ""
+msgstr "Ukončeno"
 
 msgctxt "Languages::ebay_success_exported_product_notice"
 msgid "Product was successfully exported to eBay"
-msgstr ""
+msgstr "Produkt byl úspěšně exportován do eBay"
 
 msgctxt "Languages::ebay_success_close_product_notice"
 msgid "Product successfully ended on eBay"
-msgstr ""
+msgstr "Produkt úspěšně skončil na eBay"
 
 msgctxt "Languages::ebay_export_failed"
 msgid "Product export failed"
-msgstr ""
+msgstr "Produkt export selhal"
 
 msgctxt "Languages::ebay_export_success"
 msgid "Product export successful"
-msgstr ""
+msgstr "Produkt export úspěšný"
 
 msgctxt "Languages::ebay_export_failed_msg"
 msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
-msgstr ""
+msgstr "Některé z výrobků nebyly exportovat do eBay.<br>Zkontrolujte protokoly jaké výrobky nebyly exportovány a důvod, proč se tak stalo."
 
 msgctxt "Languages::ebay_export_success_msg"
 msgid "All the selected products have been exported to eBay without errors."
-msgstr ""
+msgstr "Všechny vybrané produkty byly exportovány do eBay bez chyb."
 
 msgctxt "Languages::ebay_end_summary_title"
 msgid "Product ending summary"
-msgstr ""
+msgstr "Produkt končí shrnutím"
 
 msgctxt "Languages::ebay_export_product"
 msgid "Exporting product \"[product]\" to eBay"
-msgstr ""
+msgstr "Exportovat produkt \"[product]\" do eBay"
 
 msgctxt "Languages::ebay_export_products"
 msgid "Exporting products \"[product]\" to eBay"
-msgstr ""
+msgstr "Exportovat produkty \"[product]\" do eBay"
 
 msgctxt "Languages::ebay_override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Redefinice názvu produktu a popis na eBay"
 
 msgctxt "Languages::ebay_end_products"
 msgid "Ending products \"[product]\" on eBay"
-msgstr ""
+msgstr "Ukončet produkty \"[product]\" na eBay"
 
 msgctxt "Languages::ebay_count_product_successfully_exported"
 msgid "Products successfully exported:"
-msgstr ""
+msgstr "Výrobky úspěšně exportovány:"
 
 msgctxt "Languages::ebay_count_product_fail_exported"
 msgid "Products export failed:"
-msgstr ""
+msgstr "Produkt export selhal:"
 
 msgctxt "Languages::ebay_count_product_successfully_ended"
 msgid "Successfully ended products:"
-msgstr ""
+msgstr "Úspěšně ukončené výrobky:"
 
 msgctxt "Languages::ebay_count_product_fail_ended"
 msgid "Products ending failed:"
-msgstr ""
+msgstr "Produkty, které konec se nezdařil:"
 
 msgctxt "Languages::ebay_end_products_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "Konec eBay prodeje"
 
 msgctxt "Languages::products_assigned"
 msgid "Products assigned"
-msgstr ""
+msgstr "Produkty, které jsou přiřazeny"
 
 msgctxt "Languages::ttc_products_assigned"
-msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the Gear button and choose Edit Selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify Selected."
-msgstr ""
+msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
+msgstr "Můžete také použít šablony eBay na více produktů najednou. Přejdete na Produkty → Produkty, zaškrtněte políčka u produktů, které chcete použít šablonu, stiskněte tlačítko ozubeného kola a zvolte Upravit vybraný. V pop-up okna ponechate jen políčko eBay šablony zaškrtnuto a klepněte na tlačítko Upravit vybrané."
 
 msgctxt "Languages::ebay_template_category_product"
 msgid "Use eBay template's category"
-msgstr ""
+msgstr "Kategorie použití eBay šablony"
 
 msgctxt "Languages::ebay_set_manualy"
 msgid "Assign a different eBay category"
-msgstr ""
+msgstr "Přiřazení jinou kategorii eBay"
 
 msgctxt "Languages::ebay_end_template_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "Konec eBay prodeje"
 
 msgctxt "Languages::ebay_action_export_product"
 msgid "Export product"
-msgstr ""
+msgstr "Export produkt"
 
 msgctxt "Languages::ebay_action_update_product"
 msgid "Update product"
-msgstr ""
+msgstr "Aktualizace produktů"
 
 msgctxt "Languages::ebay_action_upload_image_product"
 msgid "Upload the product image"
-msgstr ""
+msgstr "Nahrajte obrázek produktu"
 
 msgctxt "Languages::ebay_action_get_status_product"
 msgid "Get product status"
-msgstr ""
+msgstr "Získat stavu produktu"
 
 msgctxt "Languages::ebay_action_end_product"
 msgid "Ending sale on eBay"
-msgstr ""
+msgstr "Ukončení prodeji na eBay"
 
 msgctxt "Languages::ebay_show_logs"
 msgid "Show logs"
-msgstr ""
+msgstr "Zobrazit protokoly"
 
 msgctxt "Languages::ebay_international_shipping_cost"
 msgid "International shipping fee"
-msgstr ""
+msgstr "Mezinárodní poplatek za poštovné"
 
 msgctxt "Languages::ebay_international_shipping_cost_tooltip"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Pevný expediční poplatek za jednu položku jestli je způsob dopravy Flat (dále jen poštovné a balné nastavení na eBay)."
 
 msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
 msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Mezinárodní poplatek poštovného za každou další položku v pořadí (dále jen každá další položka nastavení na eBay)"
 
 msgctxt "Languages::ebay_international_shipping_cost_additional"
 msgid "Additional international shipping fee"
-msgstr ""
+msgstr "Další mezinárodní přepravní poplatek"
 
 msgctxt "Languages::ebay_logs"
 msgid "eBay logs"
-msgstr ""
+msgstr "eBay protokoly"
 
 msgctxt "Languages::ebay_products"
 msgid "eBay products"
-msgstr ""
+msgstr "eBay produkty"
 
 msgctxt "Languages::ebay_sync_products_status"
 msgid "Get product status from eBay"
-msgstr ""
+msgstr "Zjistit stav produktu z eBay"
 
 msgctxt "Languages::ebay_get_product_status"
 msgid "Getting product \"[product]\" status from eBay"
-msgstr ""
+msgstr "Získání výrobku \"[product]\" postavení z eBay"
 
 msgctxt "Languages::ebay_update_status_summary_title"
 msgid "Summary: Product status retrieval from eBay"
-msgstr ""
+msgstr "Shrnutí: Načítání stavu produktu z eBay"
 
 msgctxt "Languages::ebay_count_product_successfully_status_updated"
 msgid "Products with updated statuses:"
-msgstr ""
+msgstr "Výrobky s aktualizovaným stavy:"
 
 msgctxt "Languages::ebay_count_product_fail_status_updated"
 msgid "Products with status update errors:"
-msgstr ""
+msgstr "Výrobky s errors aktualizací stavu:"
 
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
-msgstr ""
+msgstr "Produkty, které jsou vynechány:"
+
+msgctxt "Languages::ebay_addon_trial_license_expired"
+msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
+msgstr "Zkušební doba na eBay add-on vypršela. Add-on byl zakázán. Chcete-li pokračovat v používání eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">koupit licenci</a>."
+
+msgctxt "Languages::ebay_addon_used_trial_license"
+msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
+msgstr "Používáte v současné době eBay add-on ve zkušebním režimu. Zkušební doba vyprší během [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Kupte si eBay add-on licenci</a> pokračovat v používání add-on po vypršení zkušební doby."
+
+msgctxt "Languages::ebay_addon_plural_days"
+msgid "[n] day|[n] days"
+msgstr "[n] den|[n] dny"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"
-msgstr ""
+msgstr "Produkt \"[product]\" nebyl exportován na eBay"
 
 msgctxt "Languages::ebay_product_already_sales_closed"
 msgid "Sales of product \"[product]\" were already completed on eBay"
-msgstr ""
+msgstr "Prodej výrobků \"[product]\" byly již dokončeny na eBay"
 
 msgctxt "Languages::ebay_failed_request"
 msgid "Failed request to [url]. Http status code: [code]"
-msgstr ""
+msgstr "Nepodařil se požadavek na [url]. Stavový kód Http: [code]"
 
 msgctxt "Languages::ebay_package_type"
 msgid "eBay package type"
-msgstr ""
+msgstr "eBay typu balíčku"
 
 msgctxt "Languages::ebay_category"
 msgid "eBay Category"
@@ -714,45 +726,45 @@ msgstr "eBay kategorie"
 
 msgctxt "Languages::ebay_region"
 msgid "eBay region"
-msgstr ""
+msgstr "eBay region"
 
 msgctxt "Languages::ebay_synchronization_title"
 msgid "Synchronizing eBay data"
-msgstr ""
+msgstr "Synchronizace dat eBay"
 
 msgctxt "Languages::ebay_synchronization_regions"
 msgid "Synchronizing eBay regions"
-msgstr ""
+msgstr "Synchronizace eBay regiony"
 
 msgctxt "Languages::ebay_synchronization_categories"
 msgid "Synchronizing eBay categories (it may take around 3 minutes)"
-msgstr ""
+msgstr "Probíhá synchronizace eBay kategorie (to může trvat asi 3 minuty)"
 
 msgctxt "Languages::ebay_synchronization_shipping_services"
 msgid "Synchronizing eBay shipping services"
-msgstr ""
+msgstr "Synchronizace eBay přepravní služby"
 
 msgctxt "Languages::ebay_synchronization_category_features"
 msgid "Synchronizing eBay category features"
-msgstr ""
+msgstr "Probíhá synchronizace eBay kategorie funkcí"
 
 msgctxt "Languages::ebay_changed_region_message"
 msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
-msgstr ""
+msgstr "Po změně eBay regionu, zkontrolujte ostatní nastavení.<br>Pokud vaše šablona Způsob dodání je nastavena na Vypočítaná, změnte primární měnu (Administrativa → Měny), adresa společnosti (Nastavení → Společnost) a měření hmotnosti jednotky (Nastavení → Globální).<br>Pokud je nastavena vaše šablona Způsob dodání na Flat, změnte primární měnu (Administrativa → Měny)."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_title"
 msgid "eBay Synchronization add-on has been updated"
-msgstr ""
+msgstr "synchronizace eBay add-on byl aktualizován"
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_active"
 msgid "Retrieve the statuses of your products from eBay before you continue to use the eBay Synchronization add-on.<br>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay.<br>Do this for all your eBay templates."
-msgstr ""
+msgstr "Načíst stavy vašich výrobků z eBay předtím, než budete pokračovat v používání synchronizace eBay add-on.<br>Přejít na Marketing → Šablony → eBay šablony, vznášet se nad šablonou a vybrat Zjistit stav produktu z eBay.<br>Udělejte to pro všechny vaše šablony eBay."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_disable"
 msgid "You used and disabled eBay Synchronization add-on. If you decide to use the add-on again, complete the following steps:<br><ul><li>Go to Add-ons → Manage add-ons</li><li>Find eBay synchronization add-on and set its status to active</li><li>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay</li><li>Repeat the previous step for all your eBay templates</li></ul>"
-msgstr ""
+msgstr "Použili jste a zdravotně postižené Synchronizace eBay add-on. Pokud se rozhodnete použít znovu add-on, postupujte podle následujících kroků:<br><ul><li>Přejděte na Doplňky → Spravovat doplňky</li><li>Najít synchronizace eBay add-on a nastavit jeho stav na Aktivní</li><li>Přejít na Marketing → Šablony → eBay šablony, vznášet se nad šablonu a vyberte Získat stavu produktu z eBay</li><li>Opakujte předchozí krok pro všechny vaše šablony eBay</li></ul>"
 
 msgctxt "Languages::export_products_to_ebay"
 msgid "Export/Revise products on eBay"
-msgstr ""
+msgstr "Export/Revidovat výrobky na eBay"
 

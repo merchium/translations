@@ -10,15 +10,15 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 03:58-0500\n"
+"PO-Revision-Date: 2016-02-16 11:55-0500\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
 msgstr "Twigmo"
 
 msgctxt "Addons::description::twigmo"
-msgid "Connect your store to the Twigmo service to create a mobile version and get an admin mobile application"
-msgstr "Připojte váš obchod ke službě Twigmo, vytvořte jeho mobilní verzi a získejte správcovskou aplikaci pro mobil"
+msgid "Connect your store to the <a href=\"http://www.twigmo.com/\" target=\"_blank\">Twigmo service</a> to get a mobile version of your store, a mobile admin application as well a native mobile store application. Some features are only available in paid plans."
+msgstr "Připojte svůj obchod přes <a href=\"http://www.twigmo.com/\" target=\"_blank\"> službu Twigmo</a> a přistupujte do obchodu i administrace přes aplikace iOS a Android. Některé funkce jsou k dispozici pouze v <a href=\"http://www.twigmo.com/\" target=\"_blank\">placené verzi</a>."
 
 msgctxt "SettingsSections::twigmo::service"
 msgid "Twigmo account"
@@ -30,7 +30,7 @@ msgstr "Mobilní stránka"
 
 msgctxt "SettingsSections::twigmo::admin_app"
 msgid "Admin app"
-msgstr "Správcovská aplikace"
+msgstr "Aplikace pro administraci"
 
 msgctxt "SettingsSections::twigmo::addon"
 msgid "Upgrade"
@@ -38,7 +38,7 @@ msgstr "Aktualizace"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr "Stisknout oznámení"
+msgstr "Zasílat oznámení"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -70,7 +70,7 @@ msgstr "Pokud vyberete \"Desktopové bloky domovské stránky\", budou na mobiln
 
 msgctxt "Languages::twgadmin_manage_settings"
 msgid "Service account infomation"
-msgstr "Údaje o kontě služby"
+msgstr "Údaje o účtu služby"
 
 msgctxt "Languages::twgadmin_manage_storefront_settings"
 msgid "Mobile Storefront settings"
@@ -82,7 +82,7 @@ msgstr "Nesprávný údaj [object]"
 
 msgctxt "Languages::twgadmin_wrong_api_data"
 msgid "Wrong API data"
-msgstr "Nesprávné API údaje"
+msgstr "Nesprávné API data"
 
 msgctxt "Languages::twgadmin_wrong_shipping_info"
 msgid "Failed to place order: wrong shipping data"
@@ -118,7 +118,7 @@ msgstr "Mobilní verze"
 
 msgctxt "Languages::twgadmin_text_updates_available"
 msgid "A new version of Twigmo add-on is available! <a href=\"[link]\">Click here to upgrade to it</a>."
-msgstr "K dispozici je nová verze doplňku Twigmo! <a href=\"[link]\">klikněte zde pro aktualizaci</a>."
+msgstr "K dispozici je nová verze modulu Twigmo! <a href=\"[link]\">klikněte zde pro aktualizaci</a>."
 
 msgctxt "Languages::twgadmin_home_page_content"
 msgid "Home page content"
@@ -138,11 +138,11 @@ msgstr "Tablety"
 
 msgctxt "Languages::twgadmin_home_page_blocks"
 msgid "Desktop home page blocks"
-msgstr "Desktopové bloky domovské stránky"
+msgstr "Bloky na domovské stránce"
 
 msgctxt "Languages::twgadmin_tw_home_page_blocks"
 msgid "Twigmo home page blocks"
-msgstr "Twigmo bloky domovské stránky"
+msgstr "Twigmo bloky na domovské stránce"
 
 msgctxt "Languages::twgadmin_homepage"
 msgid "Twigmo home page"
@@ -154,7 +154,7 @@ msgstr "Upravit tyto bloky"
 
 msgctxt "Languages::twgadmin_select_skin"
 msgid "Skin"
-msgstr "Kůže"
+msgstr "Vzhled"
 
 msgctxt "Languages::twgadmin_hide_header"
 msgid "Hide header"
@@ -166,7 +166,7 @@ msgstr "Načíst více"
 
 msgctxt "Languages::twg_btn_log_in_to_checkout"
 msgid "Sign in to checkout"
-msgstr "Přihlašte se pro vstup do pokladny"
+msgstr "Pro pokračování v objednávce se prosím přihlaste"
 
 msgctxt "Languages::twg_lbl_copy_from_billing"
 msgid "Ship to the same address"
@@ -174,7 +174,7 @@ msgstr "Odeslat na stejnou adresu"
 
 msgctxt "Languages::twg_msg_date_invalid"
 msgid "Please enter a valid date."
-msgstr "Prosím, zadejte platné datum."
+msgstr "Zadejte prosím platné datum."
 
 msgctxt "Languages::twg_msg_dateiso_invalid"
 msgid "Please enter a valid date (YYYY-MM-DD)."
@@ -298,7 +298,7 @@ msgstr "Zobrazit pouze povinné pole uživatelského profilu"
 
 msgctxt "Languages::twgadmin_reinstall"
 msgid "The version of Twigmo add-on files does not match the one in the database, so the mobile version of your store has been disabled. Please re-install Twigmo add-on (click Uninstall, then Install on the add-ons list) to enable it."
-msgstr "Verze souborů doplňku Twigmo neodpovídá té v databázi. Mobilní verze vašeho obchodu byla dočasně vypnuta. Prosím, přeinstalujte doplněk Twigmo (v seznamu doplňků klikněte na Odinstalovat a potom Instalovat), abyste ji znovu zapnuli."
+msgstr "Verze Twigmo není konzistetní.. Mobilní verze obchodu byla dočasně vypnuta. Přeinstalujte modul Twigmo a pokuste se ho znova připojit ke službě."
 
 msgctxt "Languages::twg_view_cart_checkout"
 msgid "View cart & checkout"
@@ -306,11 +306,11 @@ msgstr "Nákupní košik & Pokladna"
 
 msgctxt "Languages::twg_sign_in_to_checkout"
 msgid "Sign in to checkout"
-msgstr "Přihlašte se pro vstup do pokladny"
+msgstr "Pro pokračování v objednávce se prosím přihlaste"
 
 msgctxt "Languages::twg_only_via_desktop"
 msgid "This product can be added to cart only via the [linkOpen]desktop website[linkClose]."
-msgstr "Tento produkt můžete přidat do košíku jen přes [linkOpen]desktopovou verzi stránky[linkClose]."
+msgstr "Tento produkt můžete přidat do košíku jen přes [linkOpen]desktopovou verzi stránek[linkClose]."
 
 msgctxt "Languages::twg_share_on_social"
 msgid "Share on social networks"
@@ -392,10 +392,6 @@ msgctxt "Languages::twg_app_for_android"
 msgid "App for Android"
 msgstr "Aplikace pro Android"
 
-msgctxt "Languages::twg_app_for_iphone"
-msgid "App for iPhone"
-msgstr "Aplikace pro iPhone"
-
 msgctxt "Languages::twg_app_for_ipad"
 msgid "App for iPad"
 msgstr "Aplikace pro iPad"
@@ -418,7 +414,7 @@ msgstr "Toto zboží je konfigurovatelné. Konfigurovat zboží můžete jen př
 
 msgctxt "Languages::twg_requrring_via_desktop"
 msgid "This is a subscription product. Its subscription plan can be selected only via [linkOpen]the desktop website[linkClose]."
-msgstr "Toto je předplacený produkt. Model předplatného může být zvolen jedině přes [linkOpen]desktopovou stránku[linkClose]."
+msgstr "Toto je produkt placený paušálně. Model paušálu může být zvolen jedině přes [linkOpen]desktopovou stránku[linkClose]."
 
 msgctxt "Languages::twgadmin_check_for_updates"
 msgid "Check for updates"
@@ -426,15 +422,15 @@ msgstr "Kontrola aktualizací"
 
 msgctxt "Languages::twgadmin_basic_skin"
 msgid "Basic skin"
-msgstr "Základní skin"
+msgstr "Základní vzhled"
 
 msgctxt "Languages::twgadmin_connect_notification"
 msgid "The <a href=\"[addon_link]\">Twigmo add-on</a> is not connected to the <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Set it up to enable a mobile version of your store for iOS and Android."
-msgstr "<a href=\"[addon_link]\">doplněk Twigmo</a> není připojen ke službě <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo</a>. Nastavte ho, prosím, abyste zpřístupnili mobilní verzi vašeho obchodu pro iOS a Android."
+msgstr "<a href=\"[addon_link]\">Modul Twigmo</a> není připojen. Nastavte ho a začněte využívat mobilní verzi vašeho obchodu a administrace na iOS a Android."
 
 msgctxt "Languages::twgadmin_phpmod_required"
 msgid "PHP extension module [php_module_name] is required for proper operation of the Twigmo add-on. Please install it."
-msgstr "Rozšiřující PHP modil [php_module_name] je potřebný pro řádné fungování doplňku Twigmo. Prosím, nainstalujte ho."
+msgstr "PHP modul [php_module_name] je potřebný pro řádné fungování doplňku Twigmo. Prosím, nainstalujte ho."
 
 msgctxt "Languages::twgadmin_select_store"
 msgid "Please select a store first"
@@ -462,7 +458,7 @@ msgstr "Připojeno"
 
 msgctxt "Languages::twgadmin_terms"
 msgid "Terms and conditions"
-msgstr "Termíny a podmínky"
+msgstr "Obchodní podmínky"
 
 msgctxt "Languages::twgadmin_accept_terms_n_conditions"
 msgid "I accept the <a href=\"//www.twigmo.com/terms/\" target=\"_blank\">Terms and Conditions</a>."
@@ -474,7 +470,7 @@ msgstr "Obchody"
 
 msgctxt "Languages::twgadmin_curl_error"
 msgid "Couldn't get HTTP response from the Twigmo server. Please make sure that your server supports executing HTTP requests either through curl or sockets."
-msgstr "Nebyla přijata HTTP odpověď od serveru Twigmo. Prosím, ujistěte se, že váš server podporuje provádění HTTP žádostí přes curl nebo socket."
+msgstr "Nebyla přijata HTTP odpověď od serveru Twigmo. Prosím, ujistěte se, že váš server podporuje HTTP požadavky přes curl nebo socket."
 
 msgctxt "Languages::twgadmin_open_te"
 msgid "Visual Editor"
@@ -522,7 +518,7 @@ msgstr "Odpojit"
 
 msgctxt "Languages::twgadmin_disconnect_whole"
 msgid "Disconnect whole addon"
-msgstr "Odpojit celý doplněk"
+msgstr "Odpojit celý modul"
 
 msgctxt "Languages::plan"
 msgid "Plan"
@@ -706,7 +702,7 @@ msgstr "Data jazyků."
 
 msgctxt "Languages::twg_placed"
 msgid "Placed"
-msgstr "Umístěny"
+msgstr "Přijaté"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
 msgid "Twigmo Mobile Admin application"
@@ -718,7 +714,7 @@ msgstr "Stáhnout aplikaci"
 
 msgctxt "Languages::twgadmin_download_app_hint"
 msgid "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
-msgstr "Tato aplikace je k dispozici pouze pro <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">vybrané plány Twigmo</a>."
+msgstr "Tato aplikace je k dispozici pouze pro <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">vybrané tarify Twigmo</a>."
 
 msgctxt "Languages::twgadmin_saved"
 msgid "Saved"
@@ -726,7 +722,7 @@ msgstr "Uloženo"
 
 msgctxt "Languages::twapp_admin_url"
 msgid "Admin URL"
-msgstr "URL správce"
+msgstr "URL administrace"
 
 msgctxt "Languages::twgadmin_auth_fail_access_id"
 msgid "You have no permissions to log in to the store with this Access ID."
@@ -734,15 +730,15 @@ msgstr "Nemáte oprávnění se přihlásit do obchodu s tímto Access ID."
 
 msgctxt "Languages::twgadmin_mobile_app"
 msgid "Mobile app"
-msgstr "Mobilní aplikace"
+msgstr "Administrace pro mobily"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
 msgstr "QR kód pro aplikaci<br>přihlašovací stránka"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
-msgid "This QR code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
-msgstr "Tento QR kód obsahuje Twigmo Access ID [access_id], URL tohoto panelu správce a přihlašovací údaje k vašemu panelu správce (e-mail nebo přihlašovací jméno). Ručně budete muset zadat pouze vaše heslo k Vašemu řídícímu panelu."
+msgid "Please install the Twigmo admin application first. Then use it to scan the QR code. This code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
+msgstr "Prosím, nainstalujte admin aplikaci Twigmo jako první. Pak použijte skenovací QR kód. Tento kód obsahuje Twigmo Access ID [access_id], to admin panel URL a váš admin panel login (e-mail nebo uživatelské jméno). Budete potřebovat pouze zadat admin panel heslo ručně."
 
 msgctxt "Languages::twapp_wrong_api_login_data"
 msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
@@ -754,7 +750,7 @@ msgstr "Naskenujte QR kód ve vašem panelu správce"
 
 msgctxt "Languages::twapp_tap_to_scan"
 msgid "Tap to scan"
-msgstr "Klikněte pro spuštění skenu"
+msgstr "Klikněte pro skenování"
 
 msgctxt "Languages::twapp_fill_manually"
 msgid "Fill in the fields manually"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-19 03:59-0500\n"
+"PO-Revision-Date: 2016-02-11 07:56-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -166,10 +166,10 @@ msgstr ""
 
 msgctxt "Languages::ebay_category_preferences"
 msgid "eBay Category <br> Preferences"
-msgstr ""
+msgstr "eBay Kategori <br>tercihleri"
 
 msgctxt "Languages::ebay_category_preferences_tooltip"
-msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your stor"
+msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
 msgstr ""
 
 msgctxt "Languages::ebay_template"
@@ -194,7 +194,7 @@ msgstr "Lütfen kategorilerin önbelleğe alınması için bekleyin. Bu, yaklaş
 
 msgctxt "Languages::Some_parameters_is_missing"
 msgid "Some parameters is missing. Please check ebay add-on settings"
-msgstr ""
+msgstr "Bazı parametreler eksik. Lütfen eBay eklenti ayarlarını kontrol edin"
 
 msgctxt "Languages::ebay_success_products_notice"
 msgid "Products have been successfully exported."
@@ -225,48 +225,48 @@ msgid "You're using a test version of this module, the validity of which ended o
 msgstr "Bu modülün geçerliliği 7 Aralık 2013'te sona ermiş olan test sürümünü kullanıyorsunuz. Test süresi bitiminde modül fonksiyonları gerçekleştirilemeyecektir. Tam sürümü <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a> yoluyla elde edebilirsiniz."
 
 msgctxt "Languages::ttc_list_products_on"
-msgid "Choose the region of the ebay auction for which your site will work"
-msgstr ""
+msgid "Choose the region of the eBay auction for which your site will work"
+msgstr "Sitenizin çalışacağı eBay açık arttırma bölgesini seçin"
 
 msgctxt "Languages::ttc_use_as_default"
 msgid "Use this template for products with no template defined"
-msgstr ""
+msgstr "Şablonu henüz tanımlanmamış ürünler için bu şablonu kullanın"
 
 msgctxt "Languages::ttc_ebay_root_category"
 msgid "The product root category at eBay"
-msgstr ""
+msgstr "eBay'deki ürün kök dizin kategorisi"
 
 msgctxt "Languages::ttc_ebay_root_sec_category"
-msgid "The additional product root category at ebay"
-msgstr ""
+msgid "The additional product root category at eBay"
+msgstr "eBay'deki ürün ek kök dizin kategorisi"
 
 msgctxt "Languages::ebay_second_category_tooltip"
-msgid "The additional product subcategory at ebay"
+msgid "The additional product subcategory at eBay"
 msgstr "eBay'deki ek ürün alt kategorisi"
 
 msgctxt "Languages::ttc_shipping_type"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr ""
+msgstr "Hesaplanan veya düz teslimat tiplerinden herhangi birini kullanmak için seçin. Hesaplanan teslimat müşterilerin ZIP adreslerine, paket ağırlığına ve sunmuş olduğunuz teslimat hizmeti türüne göre hesaplanacaktır; Düz teslimat sabit olacaktır"
 
 msgctxt "Languages::ttc_domestic_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr ""
+msgstr "Yurtiçi ürün teslimatı için kullanılacak olan teslimat hizmetini seçin"
 
 msgctxt "Languages::ttc_international_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr ""
+msgstr "Dünya çapında yapılacak teslimatlar için kullanılacak olan teslimat hizmetini seçin"
 
 msgctxt "Languages::ttc_dispatch_days"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr ""
+msgstr "Müşteriye yapılacak olan teslimatın süresi (gün)"
 
 msgctxt "Languages::ttc_ebay_payment_methods"
 msgid "Payment method(s), available for a template"
-msgstr ""
+msgstr "Bir şablon için mevcut olan ödeme yöntem(ler) i"
 
 msgctxt "Languages::ttc_paypal_email"
 msgid "Define login of the PayPal account"
-msgstr ""
+msgstr "PayPal hesabının kullanıcı adını tanımlayın"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
@@ -274,19 +274,19 @@ msgstr "PayPal hesabının kullanıcı adını tanımlayın"
 
 msgctxt "Languages::ttc_free_shipping"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr ""
+msgstr "Bir şablon içinde yer alan ürünlere ücretsiz teslimat uygulanmasını istiyorsanız seçin"
 
 msgctxt "Languages::ttc_shipping_cost"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Tek bir ürün için sabit kargo eğer kargo tipi düz ise (nakliye ve taşıma eBay ayarlaında ise.)."
 
 msgctxt "Languages::ttc_shipping_cost_additional"
 msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Sırasıyla her ek ürün için taşıma fiyatı (eBay'deki Her bir ek ürün ayarı)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Additional shipping fee"
-msgstr ""
+msgstr "Ek nakliye ücreti"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
@@ -314,10 +314,10 @@ msgstr "eBay ürün açıklaması ürünün eBay'de kullanılacak olan açıklam
 
 msgctxt "Languages::override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Ürün ismini ve açıklamasını eBay üzerinde yeniden tanımlandır"
 
 msgctxt "Languages::override_tooltip"
-msgid "Choose, if you want the original product name and description to be replaced with that, specified in the ebay product title and the ebay product description fields"
+msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
 msgstr "eBay ürün adı ve eBay ürün açıklaması alanlarındaki orijinal ürün adının ve açıklamasının bununla değiştirilmesini istiyorsanız seçin"
 
 msgctxt "Languages::return_policy"
@@ -326,7 +326,7 @@ msgstr "İade Politikası"
 
 msgctxt "Languages::ttc_return_policy"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr ""
+msgstr "Bu şablon altında gruplanan ürünlerin iadesinin kabul edilmesine izin verilip verilmemesi için seçin"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -341,8 +341,8 @@ msgid "After receiving the item, your buyer should contact you within"
 msgstr "Ürün teslim alındıktan sonra, alıcınızın size haber vermesi gereken süre"
 
 msgctxt "Languages::ttc_contact_time"
-msgid "Choose the period of time within that the buyer must contact you to approve the purchase reception"
-msgstr ""
+msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
+msgstr "İçinde alıcının ürünün size ulaştığına dair iletişimde bulunan periyodları seçin"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
@@ -350,7 +350,7 @@ msgstr "Geri ödeme şekli"
 
 msgctxt "Languages::ttc_refund_method"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr ""
+msgstr "Eğer izin verilmiyorsa, iadenin yerine geçecek eylemi seçin"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -369,8 +369,8 @@ msgid "Return shipping will be paid by"
 msgstr "İade taşımasını ödeyecek olan"
 
 msgctxt "Languages::ttc_cost_paid_by"
-msgid "Choose, who will pay for the shipping of the return purchase - the seller or the buyer"
-msgstr ""
+msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
+msgstr "Satınalma iadesinin taşıma ücretini kimin karşılayacağını seçin - satıcı veya alıcı"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -386,7 +386,7 @@ msgstr "Politika açıklaması"
 
 msgctxt "Languages::ttc_return_policy_descr"
 msgid "Write the detailed description of your return policy here"
-msgstr ""
+msgstr "İade politikanızın ayrıntılı açıklamasını buraya yazın"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -414,7 +414,7 @@ msgstr "En son aktarımdan sonra revize edildi"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr ""
+msgstr "EBay ürün \"[product]\" görüntülerini dışa aktarma"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -426,7 +426,7 @@ msgstr "Başka bir sahibi olduğu için şablonlardan bazılarını kaldırmaya 
 
 msgctxt "Languages::ebay_addon_license_invalid"
 msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr ""
+msgstr "Mevcut lisans numarası geçersiz. \"eBay\" eklentisi devredışı. Tekrar etkinleştirmek için lütfen eklenti lisans numarasını kontrol edin."
 
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
@@ -442,7 +442,7 @@ msgstr "Eklenti lisans numarası boş."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
-msgstr ""
+msgstr "eBay şablonları bulunamadı"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
@@ -501,8 +501,8 @@ msgid "License info"
 msgstr "Lisans bilgileri"
 
 msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase an eBay add-on license on <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page."
-msgstr "Bu eklentinin çalışması için bir lisansa ihtiyaç var. <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> sayfasından bir eBay eklenti lisansı satın alabilirsiniz."
+msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
+msgstr "Bu eklenti çalışmak için lisans gerektirir. Lisansı eBay eklenti lisanslarından alabilirsiniz. <a href=\"[ebay_license_url]\"target=\"_blank\"> eBay senkronizasyon</a> sayfası.<br>eBay eklentilerini ücretsiz olarak deneyebilirsiniz [days]. Deneme modunu aktive etmek için, \"[trial_license]\" boşluğa girin."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -514,27 +514,27 @@ msgstr "eBay şablonlarını yönetin"
 
 msgctxt "Languages::ebay_price"
 msgid "eBay product price"
-msgstr ""
+msgstr "eBay ürün fiyatı"
 
 msgctxt "Languages::override_price"
 msgid "Redefine price on eBay"
-msgstr ""
+msgstr "Fiyatı eBay üzerinde yeniden tanımlama"
 
 msgctxt "Languages::ebay_product_status"
 msgid "eBay product status"
-msgstr ""
+msgstr "eBay ürün durumu"
 
 msgctxt "Languages::ebay_product_status_not_exported"
-msgid "not exported"
+msgid "Not exported"
 msgstr ""
 
 msgctxt "Languages::ebay_product_status_active"
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 msgctxt "Languages::ebay_product_status_closed"
 msgid "Ended"
-msgstr ""
+msgstr "Sona erdi"
 
 msgctxt "Languages::ebay_success_exported_product_notice"
 msgid "Product was successfully exported to eBay"
@@ -542,55 +542,55 @@ msgstr ""
 
 msgctxt "Languages::ebay_success_close_product_notice"
 msgid "Product successfully ended on eBay"
-msgstr ""
+msgstr "Ürün başarıyla eBay'da sona erdi"
 
 msgctxt "Languages::ebay_export_failed"
 msgid "Product export failed"
-msgstr ""
+msgstr "Ürün çıkartma başarısız oldu"
 
 msgctxt "Languages::ebay_export_success"
 msgid "Product export successful"
-msgstr ""
+msgstr "Ürün çıkartma başarılı"
 
 msgctxt "Languages::ebay_export_failed_msg"
 msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
-msgstr ""
+msgstr "Bazı ürünlerin eBay için dışa aktarılamadı. <br>Hangi ürünleri aktarılamadığını ve neden kaynaklandığını görmek için logları kontrol edin."
 
 msgctxt "Languages::ebay_export_success_msg"
 msgid "All the selected products have been exported to eBay without errors."
-msgstr ""
+msgstr "Tüm seçili ürünleri eBay'e hatasız aktarılmıştır."
 
 msgctxt "Languages::ebay_end_summary_title"
 msgid "Product ending summary"
-msgstr ""
+msgstr "Ürün sonu özeti"
 
 msgctxt "Languages::ebay_export_product"
 msgid "Exporting product \"[product]\" to eBay"
-msgstr ""
+msgstr "Ürünler \"[product]\" eBay için aktarılıyor"
 
 msgctxt "Languages::ebay_export_products"
 msgid "Exporting products \"[product]\" to eBay"
-msgstr ""
+msgstr "Ürünler \"[product]\" eBay için aktarılıyor"
 
 msgctxt "Languages::ebay_override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Ürün adı ve açıklamasının eBay üzerinde yeniden tanımlanması"
 
 msgctxt "Languages::ebay_end_products"
 msgid "Ending products \"[product]\" on eBay"
-msgstr ""
+msgstr "EBay üzerinde biten ürünler \"[product]\""
 
 msgctxt "Languages::ebay_count_product_successfully_exported"
 msgid "Products successfully exported:"
-msgstr ""
+msgstr "Ürünler başarıyla aktarıldı:"
 
 msgctxt "Languages::ebay_count_product_fail_exported"
 msgid "Products export failed:"
-msgstr ""
+msgstr "Ürün aktarımı başarısız oldu:"
 
 msgctxt "Languages::ebay_count_product_successfully_ended"
 msgid "Successfully ended products:"
-msgstr ""
+msgstr "Başarıyla sona eren ürünler:"
 
 msgctxt "Languages::ebay_count_product_fail_ended"
 msgid "Products ending failed:"
@@ -598,14 +598,14 @@ msgstr ""
 
 msgctxt "Languages::ebay_end_products_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "eBay satışını sonlandır"
 
 msgctxt "Languages::products_assigned"
 msgid "Products assigned"
 msgstr ""
 
 msgctxt "Languages::ttc_products_assigned"
-msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the Gear button and choose Edit Selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify Selected."
+msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
 msgstr ""
 
 msgctxt "Languages::ebay_template_category_product"
@@ -634,7 +634,7 @@ msgstr ""
 
 msgctxt "Languages::ebay_action_get_status_product"
 msgid "Get product status"
-msgstr ""
+msgstr "Ürün durumunu öğren"
 
 msgctxt "Languages::ebay_action_end_product"
 msgid "Ending sale on eBay"
@@ -662,11 +662,11 @@ msgstr ""
 
 msgctxt "Languages::ebay_logs"
 msgid "eBay logs"
-msgstr ""
+msgstr "eBay log (günlükleri)"
 
 msgctxt "Languages::ebay_products"
 msgid "eBay products"
-msgstr ""
+msgstr "eBay ürünleri"
 
 msgctxt "Languages::ebay_sync_products_status"
 msgid "Get product status from eBay"
@@ -690,6 +690,18 @@ msgstr ""
 
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
+msgstr ""
+
+msgctxt "Languages::ebay_addon_trial_license_expired"
+msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
+msgstr ""
+
+msgctxt "Languages::ebay_addon_used_trial_license"
+msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
+msgstr ""
+
+msgctxt "Languages::ebay_addon_plural_days"
+msgid "[n] day|[n] days"
 msgstr ""
 
 msgctxt "Languages::ebay_product_not_exported"

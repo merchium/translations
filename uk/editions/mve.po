@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-06-14 20:05-0400\n"
+"PO-Revision-Date: 2016-02-17 06:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Сортувати за алфавітом: від Я до А"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Ваш профіль було змінено, і після затвердження змін, інформація про вашу компанію з'явиться в магазині."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "Новий запит на створення облікового запису постачальника"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Комісія постачальника"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "ID постачальника"
@@ -336,25 +340,9 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Автоматично створювати обліковий запис адміністратора для нового підтвердженого продавця. (Якщо включена настройка \"Дозволити користувачеві створити обліковий запис продавця\")"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Включити вартість доставки в комісію постачальника"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Приймати доплату від способу оплати з продавців"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Комісія"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "Показати постачальника на сторінці продукта"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "Якщо включено, то покупці не зможуть побачити доплату, і вона не буде застосована до загальної вартості замовлення"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"

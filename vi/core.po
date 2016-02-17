@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 09:02-0500\n"
+"PO-Revision-Date: 2016-02-17 06:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -464,6 +464,10 @@ msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Thêm danh mục con"
 
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr ""
+
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
 msgstr "Thêm người đăng kí nhận tin"
@@ -558,7 +562,7 @@ msgstr "Sau khi thanh toán đầy đủ"
 
 msgctxt "Languages::after_sum"
 msgid "After sum"
-msgstr "Sau khi tổng hợp"
+msgstr "Ký tự sau giá tiền"
 
 msgctxt "Languages::agent_id"
 msgid "Agent ID"
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Tôi chấp nhận các điều khoản trong"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Bấm chọn hộp kiểm này để chấp nhận các điều khoản và điều kiện."
+msgid "Select this check box to accept the [terms_href]"
+msgstr ""
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr ""
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Để tiếp tục đặt hàng, bạn phải chấp nhận các điều khoản và điều kiện."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr ""
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2939,10 +2951,6 @@ msgstr "Xóa trang này"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Thời gian giao hàng"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Thời gian giao hàng được tính bằng ngày làm việc."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -6458,7 +6466,7 @@ msgstr "Đóng gói"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Hiển thị Nội dung Đóng gói"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Dịch vụ vận chuyển"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Sản phẩm trong kho sẽ được gửi sau khi các khoản thanh toán được xác minh hoàn tất. Đơn vị vận chuyển chịu trách nhiệm trong khi giao hàng.</p> <p>Xin vui lòng, mở gói giao theo đơn đặt hàng bạn nhận được nó. Nếu bất kỳ hư hại nào về gói hàng, hãy khiếu nại ngay với nhân viên giao hàng.</p> <p>Bất kỳ câu hỏi? Liên hệ với dịch vụ khách hàng của chúng tôi tại 123-12-23</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Chi phí xác nhận giao hàng"
@@ -8802,7 +8806,7 @@ msgstr "Chiều dài gói (inch)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "ID Trang"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -11654,7 +11658,7 @@ msgstr "Tắt"
 
 msgctxt "Languages::theme_editor.on"
 msgid "On"
-msgstr ""
+msgstr "Bật"
 
 msgctxt "Languages::theme_editor.out_of_stock"
 msgid "Out of stock"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Công cụ"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Add-on đếm"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Tình trạng hiện tại"
@@ -11935,10 +11935,6 @@ msgstr "Không có add-on"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Không có add-on của bên thứ ba"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Khôi phục mặc định"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -13376,6 +13372,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Tải lên và cài đặt một chủ đề mới là một cách tuyệt vời để cá nhân hoá các cửa hàng của bạn. Bạn có thể tải lên một chủ đề bằng cách chọn một kho lưu trữ định dạng [exts] và nhấp vào <strong>Tải lên</strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "Các thư mục sau không có quyền ghi"
@@ -14420,6 +14420,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Yêu cầu khách hàng đồng ý với điều khoản &amp; điều kiện trong thanh toán"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Cho phép khách hàng trả tiền đặt hàng một lần nữa nếu giao dịch đã bị từ chối"
@@ -14499,6 +14503,10 @@ msgstr "Nếu ẩn, phương pháp hoạt động đầu tiên sẽ được s�
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Kích hoạt tải về sản phẩm bán chạy"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Cho phép khách hàng so sánh sản phẩm"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15783,7 +15791,7 @@ msgstr "Không thể tạo bản sao lưu."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr ""
+msgstr "[n] giây còn lại|[n] giây còn lại"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
@@ -15827,11 +15835,11 @@ msgstr "Sử dụng miễn phí vận chuyển"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "Các sản phẩm với tùy chọn vận chuyển miễn phí cho phép sẽ được loại trừ khỏi tính toán vận chuyển nếu phương pháp vận chuyển có sử dụng tùy chọn vận chuyển miễn phí kích hoạt"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "Loại trừ sản phẩm với các tùy chọn được kích hoạt miễn phí vận chuyển từ việc tính toán giá vận chuyển"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
@@ -15839,19 +15847,19 @@ msgstr ""
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Danh mục rác"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Khi một sản phẩm bị xóa khỏi các danh mục cuối cùng trong các cửa hàng, nó sẽ được chuyển đến danh mục này."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Vận chuyển miễn phí thay đổi"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Thời gian thực DHL vận chuyển tỷ lệ tính toán thay đổi"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
@@ -15859,11 +15867,11 @@ msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "Nâng cấp các thay đổi trong [product] [version]"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
-msgstr ""
+msgstr "eWAY, eWAY Direct Payment và eWAY Shared Payment không còn được hỗ trợ"
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
@@ -15871,17 +15879,149 @@ msgstr ""
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
-msgstr ""
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>Làm thế nào để thiết lập Live eWAY API Key và Mật khẩu?</a>"
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Hiển thị thêm"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Hiển thị ít hơn"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr "[count] sản phẩm đã được chuyển đến <a href='[url]' target='_blank'> Danh mục rác</a>"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr "Những thay đổi trong tính năng so sánh"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr "Add-on \"[name]\" đã được nâng cấp thành công"
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr "Để xác định nếu một vấn đề nào đó do add-on, bạn có thể vô hiệu hóa add-on của bên thứ ba hoặc tất cả add-on. Tái kích hoạt chúng sau đó với một cú nhấp chuột."
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Vô hiệu hoá tất cả add-on"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr "Vô hiệu hóa add-on của bên thứ ba"
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr "Kích hoạt lại add-on"
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Add-on đã cài đặt:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr "Add-on hoạt động:"
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr "Được xây dựng trong add-on:"
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Add-on bên thứ ba:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr "Người quản trị vô hiệu hoá tất cả add-n hoặc add-on của bên thứ ba. <br>Bấm bật lại add-on nút khởi tạo các add-on đã được hoạt động trước đó."
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr "Nguồn"
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr "Built-in"
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr "Bên thứ ba"
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr ""
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr ""
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 

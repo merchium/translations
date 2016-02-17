@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-09 11:59-0500\n"
+"PO-Revision-Date: 2016-02-17 06:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -185,8 +185,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Sắp xếp theo thứ tự chữ cái: Z đến A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Hồ sơ của bạn đã được thay đổi và khi những thay đổi được phê duyệt, thông tin về công ty của bạn sẽ xuất hiện trong cửa hàng."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr ""
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr ""
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -284,10 +292,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "Ứng dụng tài khoản nhà cung cấp mới"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Hoa hồng nhà cung cấp"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "ID Nhà cung cấp"
@@ -336,25 +340,9 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Tự động tạo tài khoản quản trị cho các nhà cung cấp được chấp thuận mới. (Nếu \"cho phép người dùng áp dụng cho tài khoản nhà cung cấp\" cài đặt cần được kích hoạt)"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Bao gồm phí vận chuyển trong hoa hồng nhà cung cấp"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Hãy thanh toán phụ phí từ nhà cung cấp"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Hoa hồng"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "Hiển thị sản phẩm của nhà cung cấp"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "Nếu kích hoạt một khách hàng không thể xem thanh toán phụ phí và nó sẽ không được áp dụng cho tất cả các đơn đặt hàng"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"

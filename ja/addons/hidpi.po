@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hidpi.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-09-09 21:01-0400\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "Addons::name::hidpi"
 msgid "HiDPI displays support"
@@ -35,4 +35,8 @@ msgstr "新しくアップロードする画像が非高解像度デバイスに
 msgctxt "Languages::text_hidpi_uninstall"
 msgid "Some images may be shrinked to improve loading time on non-HiDPI devices. You may want to re-upload the images with better resolution."
 msgstr "非高解像度デバイスにおける表示スピード向上のために画像が縮小されることがあります。高解像度画像のアップロードをおすすめします。"
+
+msgctxt "Languages::addons.hidpi.thumbnail_format_changed"
+msgid "<a href=\"[settings_url]\">Thumbnail format</a> is set to PNG for better image quality."
+msgstr ""
 

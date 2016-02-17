@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 08:59-0500\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -463,6 +463,10 @@ msgstr "Status hinzufügen"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Unterkategorie hinzufügen"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr ""
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Ich akzeptiere die Bedingungen und Konditionen in"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Selektieren Sie dieses Kontrollkästchen um unsere allgemeinen Geschäftsbedingungen (AGB) zu akzeptieren."
+msgid "Select this check box to accept the [terms_href]"
+msgstr ""
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Um fortzufahren müssen Sie unsere allgemeinen Geschäftsbedingungen (AGB)akzeptieren."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr ""
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2939,10 +2951,6 @@ msgstr "Diese Seite löschen"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Lieferfrist"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Lieferzeit wird in Arbeitstage berechnet."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -5458,7 +5466,7 @@ msgstr "Der erhaltene md5 Hash Wert in der Status Anforderung unterscheidet sich
 
 msgctxt "Languages::mb_transaction_id"
 msgid "MB Transaction ID"
-msgstr ""
+msgstr "MB Transaction ID"
 
 msgctxt "Languages::md5_checksum_failed"
 msgid "MD5 checksum failed"
@@ -6206,7 +6214,7 @@ msgstr "Template-Bearbeitung direkt im Frontend"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr ""
+msgstr "Direkte Bearbeitung auf der Seite"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -6442,7 +6450,7 @@ msgstr "Besitzer"
 
 msgctxt "Languages::p21agree"
 msgid "Please type \"AGREE\" or \"DISAGREE\" in the box provided"
-msgstr ""
+msgstr "Geben Sie bitte in das dafür vorgesehene Feld \"Stimme zu\" oder \"Stimme nicht zu\" ein"
 
 msgctxt "Languages::p21agree_tooltip"
 msgid "By typing AGREE in the below box I am providing my signature as authorization to Payment21&reg; to electronically debit my account for the amount I have entered. I also understand and expressly authorize the merchant, if my eCheck payment is dishonored or returned for any reason, to electronically debit my account for the amount of the eCheck payment plus an NSF fee not to exceed the state maximum legal limit. I will print or save this page for my records. I can call 1-888-770-0850 for 24/7 support with any questions regarding this payment transaction."
@@ -6458,7 +6466,7 @@ msgstr "Verpackungen"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Paketinhalt zeigen"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -6610,11 +6618,11 @@ msgstr ""
 
 msgctxt "Languages::payments.epdq.pspid"
 msgid "EPDQ pspid"
-msgstr ""
+msgstr "EPDQ pspid"
 
 msgctxt "Languages::payments.epdq.tbl_bgcolor"
 msgid "Table background color"
-msgstr ""
+msgstr "Hintergrundfarbe der Tabelle"
 
 msgctxt "Languages::payments.epdq.tbl_textcolor"
 msgid "Table text color"
@@ -6622,11 +6630,11 @@ msgstr "Tabellen-Textfarbe"
 
 msgctxt "Languages::payments.epdq.textcolor"
 msgid "Text color"
-msgstr ""
+msgstr "Textfarbe"
 
 msgctxt "Languages::payments.epdq.title"
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 msgctxt "Languages::payments.signin_to_checkout"
 msgid "<a href=[url]>Sign in</a> to check out"
@@ -6706,7 +6714,7 @@ msgstr "Artikelname (oder Bezeichnung des Shopping-Carts)"
 
 msgctxt "Languages::paypal_security_error"
 msgid "Your order was not placed: the recipient PayPal account is wrong."
-msgstr ""
+msgstr "Ihre Bestellung wurde nicht abgeschlossen: das Empfänger PayPal-Konto ist falsch."
 
 msgctxt "Languages::pay_from_email"
 msgid "Customer email"
@@ -6754,7 +6762,7 @@ msgstr "Telefon"
 
 msgctxt "Languages::phone2_label"
 msgid "International"
-msgstr ""
+msgstr "International"
 
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
@@ -6790,7 +6798,7 @@ msgstr "Einfach"
 
 msgctxt "Languages::platform"
 msgid "Platform"
-msgstr ""
+msgstr "Plattform"
 
 msgctxt "Languages::please_be_patient"
 msgid "Please be patient"
@@ -6810,7 +6818,7 @@ msgstr "Bitte anmelden"
 
 msgctxt "Languages::polish"
 msgid "Polish"
-msgstr ""
+msgstr "Polnisch"
 
 msgctxt "Languages::poor"
 msgid "Poor"
@@ -6822,7 +6830,7 @@ msgstr "Popularität"
 
 msgctxt "Languages::popup"
 msgid "Popup"
-msgstr ""
+msgstr "Popup Fenster"
 
 msgctxt "Languages::popup_larger_image"
 msgid "Popup larger image"
@@ -6834,11 +6842,11 @@ msgstr "Portugiesisch"
 
 msgctxt "Languages::posid"
 msgid "Pos ID"
-msgstr ""
+msgstr "Pos ID"
 
 msgctxt "Languages::position"
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 msgctxt "Languages::positions_updated"
 msgid "Positions of items were updated"
@@ -6846,7 +6854,7 @@ msgstr "Positionen der Artikel wurden aktualisiert"
 
 msgctxt "Languages::position_short"
 msgid "Pos."
-msgstr ""
+msgstr "Pos."
 
 msgctxt "Languages::postal_mail"
 msgid "Postal mail"
@@ -6854,7 +6862,7 @@ msgstr "Postsendung"
 
 msgctxt "Languages::postauth"
 msgid "Postauth"
-msgstr ""
+msgstr "Postauth"
 
 msgctxt "Languages::post_url"
 msgid "Post URL"
@@ -6862,7 +6870,7 @@ msgstr "URL senden"
 
 msgctxt "Languages::powered_by"
 msgid "Powered by"
-msgstr ""
+msgstr "Bereitgestellt von"
 
 msgctxt "Languages::po_number"
 msgid "PO number"
@@ -6870,11 +6878,11 @@ msgstr "Auftragsnummer"
 
 msgctxt "Languages::preauth"
 msgid "Preauth"
-msgstr ""
+msgstr "PreAuth"
 
 msgctxt "Languages::preauthorization"
 msgid "Preauthorization"
-msgstr ""
+msgstr "Vorautorisierung"
 
 msgctxt "Languages::prefix"
 msgid "Prefix"
@@ -6882,11 +6890,11 @@ msgstr "Präfix"
 
 msgctxt "Languages::preshared_key"
 msgid "PreShared Key"
-msgstr ""
+msgstr "Vorinstallierter Schlüssel"
 
 msgctxt "Languages::prev"
 msgid "Prev."
-msgstr ""
+msgstr "Zurück."
 
 msgctxt "Languages::preview"
 msgid "Preview"
@@ -6978,7 +6986,7 @@ msgstr "Lieferschein drucken"
 
 msgctxt "Languages::print_pdf_packing_slip"
 msgid "Print packing slip (pdf)"
-msgstr ""
+msgstr "Lieferschein drucken (PDF)"
 
 msgctxt "Languages::print_pdf_credit_memo"
 msgid "Print credit memo (pdf)"
@@ -7026,7 +7034,7 @@ msgstr "Bestellung erstellen"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr ""
+msgstr "Backup/Wiederherstellung"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7046,7 +7054,7 @@ msgstr "Bestellung bearbeiten"
 
 msgctxt "Languages::privileges.edit_files"
 msgid "Edit files"
-msgstr ""
+msgstr "Dateien bearbeiten"
 
 msgctxt "Languages::privileges.exim_access"
 msgid "Import and export data"
@@ -7122,7 +7130,7 @@ msgstr "Templates (Themes) verwalten"
 
 msgctxt "Languages::privileges.manage_translation"
 msgid "On-site live editing"
-msgstr ""
+msgstr "Direkte Bearbeitung auf der Seite"
 
 msgctxt "Languages::privileges.manage_usergroups"
 msgid "Manage user groups"
@@ -7206,11 +7214,11 @@ msgstr "Benutzer visualisieren"
 
 msgctxt "Languages::privilege_sections.addons"
 msgid "Add-ons"
-msgstr ""
+msgstr "Add-ons (Erweiterungen)"
 
 msgctxt "Languages::privilege_sections.administration"
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 msgctxt "Languages::privilege_sections.cart"
 msgid "Cart"
@@ -7222,7 +7230,7 @@ msgstr "Katalog"
 
 msgctxt "Languages::privilege_sections.cms"
 msgid "CMS"
-msgstr ""
+msgstr "CMS"
 
 msgctxt "Languages::privilege_sections.design"
 msgid "Look and Feel"
@@ -7238,7 +7246,7 @@ msgstr "Benutzer"
 
 msgctxt "Languages::privilege_sections.vendors"
 msgid "Stores"
-msgstr ""
+msgstr "Shops"
 
 msgctxt "Languages::proceed"
 msgid "Proceed"
@@ -7270,7 +7278,7 @@ msgstr "Zahlungs Anbieter (payment processor)"
 
 msgctxt "Languages::processor_description_cardsave"
 msgid "Merchant Accounts provided by Cardsave, <a href=\"http://www.cardsave.net\">www.cardsave.net</a><br/><br/>Email: <a href='mailto:ecomm@cardsave.net'>ecomm@cardsave.net</a>"
-msgstr ""
+msgstr "Händler-Account bereitgestellt durch Cardsave,  <a href=\"http://www.cardsave.net\">www.cardsave.net</a><br/><br/>E-Mail: <a href='mailto:ecomm@cardsave.net'>ecomm@cardsave.net</a>"
 
 msgctxt "Languages::processor_description_p21"
 msgid "<b>P21 Simple API</b> enables you to accept check payments. It offers the industry's most comprehensive suite of check image creation and clearing solutions. With Check 21, you will receive your funds within the same day by check or direct deposit.<br/><br/>To activate the Check 21 option, please contact us via email at: <a href=\"mailto:support@payment21.com\">support@payment21.com</a> or by phone at: 1-888-770-0850 (US Toll Free) or 0041-71-740-1629 (International).<br/><br/><a href=\"http://www.payment21.com\" target=\"_blank\">www.payment21.com</a>"
@@ -7278,7 +7286,7 @@ msgstr ""
 
 msgctxt "Languages::processor_id"
 msgid "Processor ID"
-msgstr ""
+msgstr "Prozessor-ID"
 
 msgctxt "Languages::process_selected"
 msgid "Process selected"
@@ -7362,7 +7370,7 @@ msgstr "Produkt wurde Ihrem Warenkorb hinzugefügt"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr ""
+msgstr "Der Artikel wurde zu Ihrer Vergleichsliste hinzugefügt."
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7394,7 +7402,7 @@ msgstr "Produkt Details Seite"
 
 msgctxt "Languages::product_details_view"
 msgid "Product details view"
-msgstr ""
+msgstr "Produktdetails anzeigen"
 
 msgctxt "Languages::product_feature_cannot_assigned"
 msgid "The feature \"[feature_name]\" cannot be assigned to the product \"[product_name]\""
@@ -7450,7 +7458,7 @@ msgstr "Das Produkt<strong>[product]</strong> hat Optionen die in der nicht erla
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr ""
+msgstr "Der Artikel <strong>[product]</strong> hat Optionen oder Varianten, die nicht mehr verfügbar sind, darum wurde er aus dem Warenkorb entfernt"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
@@ -7642,7 +7650,7 @@ msgstr "Kunden Postleitzahl (Versand)"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr ""
+msgstr "Versandarten"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -7666,7 +7674,7 @@ msgstr "grösser oder gleich"
 
 msgctxt "Languages::promotion_op_in"
 msgid "in"
-msgstr ""
+msgstr "in"
 
 msgctxt "Languages::promotion_op_lt"
 msgid "less"
@@ -7702,11 +7710,11 @@ msgstr "Eigentschaften"
 
 msgctxt "Languages::provider"
 msgid "Provider"
-msgstr ""
+msgstr "Anbieter"
 
 msgctxt "Languages::pspid"
 msgid "PSPID"
-msgstr ""
+msgstr "PSPID"
 
 msgctxt "Languages::public"
 msgid "Public"
@@ -7766,7 +7774,7 @@ msgstr "Quick Product Viewer"
 
 msgctxt "Languages::quick_view"
 msgid "Quick view"
-msgstr ""
+msgstr "Schnellansicht"
 
 msgctxt "Languages::radiogroup"
 msgid "Radio group"
@@ -7918,7 +7926,7 @@ msgstr "Rückzahlungs Betrag"
 
 msgctxt "Languages::regexp"
 msgid "RegExp"
-msgstr ""
+msgstr "RegExp"
 
 msgctxt "Languages::regexp_hint"
 msgid "If you are using the regexp checking, it is necessary to set a prompting message informing of the incorrect filling of the field, otherwise, the checking will not be performed"
@@ -8634,11 +8642,11 @@ msgstr "Ich habe gerade einen Online Store mit [product_name] erstellt"
 
 msgctxt "Languages::sharedsec"
 msgid "SharedSec"
-msgstr ""
+msgstr "SharedSec"
 
 msgctxt "Languages::shared_secret"
 msgid "Shared Secret"
-msgstr ""
+msgstr "Gemeinsamer geheimer Schlüssel"
 
 msgctxt "Languages::sha_sign"
 msgid "SHA-1 Signature"
@@ -8768,10 +8776,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Versandservice/Kurier"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Produkt auf Lager werden versendet sobald die Zahlung geprüft worden ist. Der Kurier oder die Post sind für die Produkte während dem Transport verantwortlich.</p><p>Bitte öffnen Sie das Paket sofort nach Erhalt. Falls Sie einen Schaden feststellen informieren Sie bitte den Kurier/Post.</p>Haben Sie noch Fragen? Kontaktieren Sie unseren Kundenservice unter Tel. 123-12-23</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Lieferungbestätigungs Kosten"
@@ -8802,7 +8806,7 @@ msgstr "Länge Paket (in Zoll)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "Seiten ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -8810,7 +8814,7 @@ msgstr "Breite Paket (in Zoll)"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement"
 msgid "Ancillary Endorsements"
-msgstr ""
+msgstr "Zusätzliche Vermerke"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_address_correction"
 msgid "Address Service Requested"
@@ -8830,7 +8834,7 @@ msgstr ""
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_return_delivery"
 msgid "Return Service Requested"
-msgstr ""
+msgstr "Anfrage auf Rücksendung"
 
 msgctxt "Languages::ship_fedex_customer_manifest_id"
 msgid "Customer manifest ID"
@@ -9278,7 +9282,7 @@ msgstr "Abmessungen Paket (Länge + Umfang, in Zoll)"
 
 msgctxt "Languages::ship_usps_package_size_large"
 msgid "Large (84..108)"
-msgstr ""
+msgstr "Groß (84..108)"
 
 msgctxt "Languages::ship_usps_package_size_oversize"
 msgid "Oversize (108..130)"
@@ -9450,7 +9454,7 @@ msgstr "Zahlung überspringen"
 
 msgctxt "Languages::skrill_customer_id"
 msgid "Skrill Customer ID"
-msgstr ""
+msgstr "Skrill-Kundennummer"
 
 msgctxt "Languages::sku"
 msgid "CODE"
@@ -9574,7 +9578,7 @@ msgstr "Standard Sidebox"
 
 msgctxt "Languages::start"
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgctxt "Languages::start_communication"
 msgid "Start communication"
@@ -9618,7 +9622,7 @@ msgstr "Statistiken"
 
 msgctxt "Languages::status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgctxt "Languages::status_changed"
 msgid "Status has been changed"
@@ -9670,7 +9674,7 @@ msgstr "Storefront (Front-end)"
 
 msgctxt "Languages::storefront_url"
 msgid "Storefront URL"
-msgstr ""
+msgstr "Shop-URL"
 
 msgctxt "Languages::storefront_url_already_exists"
 msgid "The value of the <strong>Storefront URL</strong> parameter mentioned by you already belongs to another company."
@@ -9682,7 +9686,7 @@ msgstr "Storefront URL nicht definiert"
 
 msgctxt "Languages::stores"
 msgid "Stores"
-msgstr ""
+msgstr "Shops"
 
 msgctxt "Languages::store_locator"
 msgid "Store locator"
@@ -9782,7 +9786,7 @@ msgstr "Gratulation! Die Registrierung war erfolgreichl!<br/>Jetzt haben Sie Zug
 
 msgctxt "Languages::suffix"
 msgid "Suffix"
-msgstr ""
+msgstr "Suffix"
 
 msgctxt "Languages::summary"
 msgid "Summary"
@@ -9818,7 +9822,7 @@ msgstr "Schwedisch"
 
 msgctxt "Languages::swing"
 msgid "Swing"
-msgstr ""
+msgstr "Schaukel"
 
 msgctxt "Languages::switch_layout"
 msgid "Switch layout"
@@ -9826,7 +9830,7 @@ msgstr "Layout wechseln"
 
 msgctxt "Languages::symbol"
 msgid "Symbol"
-msgstr ""
+msgstr "Symbol"
 
 msgctxt "Languages::system"
 msgid "System"
@@ -10034,19 +10038,19 @@ msgstr "Templates (Vorlagen) Baumstruktur"
 
 msgctxt "Languages::file_editor"
 msgid "File editor"
-msgstr ""
+msgstr "Dateieditor"
 
 msgctxt "Languages::terminal"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 msgctxt "Languages::terminal_id"
 msgid "Terminal ID"
-msgstr ""
+msgstr "Terminal ID"
 
 msgctxt "Languages::test"
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 msgctxt "Languages::test_live_mode"
 msgid "Test/Live mode"
@@ -10058,7 +10062,7 @@ msgstr "Test Modus"
 
 msgctxt "Languages::text"
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 msgctxt "Languages::textarea"
 msgid "Text area"
@@ -10174,7 +10178,7 @@ msgstr "Ihr Finanz Institut oder Bank hat angedeutet dass diese Transaktion nich
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr ""
+msgstr "Um diese Sicherung zu downloaden, klicken Sie auf das Zahnradsymbol und wählen Sie Download"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10310,7 +10314,7 @@ msgstr "Sie können in diesem Feld Platzhalter (wildcards) verwenden:<br /><b>'?
 
 msgctxt "Languages::tmpl_text_ckeditor"
 msgid "CKEditor"
-msgstr ""
+msgstr "CKEditor"
 
 msgctxt "Languages::text_click_here"
 msgid "Click here for more details"
@@ -10490,7 +10494,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr ""
+msgstr "Trennzeichen zwischen Variant-Werten einer Artikeleigenschaft."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10542,23 +10546,23 @@ msgstr ""
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "Volle Promotionen: Sie können nicht nur Katalog Aktionen hinzufügen, sondern auch Warenkorb Promotionen"
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Multi-Store Funktion: Sie können mehrere Shops betreiben und diese über eine Adminoberfläche verwalten"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "Zuordnung von Kunden zu Benutzergruppen und Einstellung der unterschiedlichen Berechtigungen für Administratoren"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Mehrere Sprachen und Währungen in Ihrem Shop"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Bereits über 30 Zusatzmodule enthalten um Ihren Shop noch besser zu machen"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
@@ -11920,10 +11924,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Werkzeuge"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "zählt Add-Ons"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Aktueller Status"
@@ -11935,10 +11935,6 @@ msgstr "Keine Add-Ons"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Keine Add-Ons von dritten Parteien"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Standardeinstellungen wiederherstellen"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -13376,6 +13372,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Das Hochladen und die Installation eines neuen Theme ist eine gute Möglichkeit, Ihren Store zu personalisieren. Sie können ein Theme hochladen, indem Sie ein tgz, gz, oder zip-Archiv Datei wählen und <strong> hochladen </ strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "Die folgenden Verzeichnisse haben keine Schreibrechte"
@@ -13450,19 +13450,19 @@ msgstr "Nach Seite scrollen"
 
 msgctxt "Languages::payments.paypal_adv_layout"
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 msgctxt "Languages::payments.layout_a"
 msgid "Layout A"
-msgstr ""
+msgstr "Layout A"
 
 msgctxt "Languages::payments.layout_b"
 msgid "Layout B"
-msgstr ""
+msgstr "Layout B"
 
 msgctxt "Languages::payments.layout_c"
 msgid "Layout C"
-msgstr ""
+msgstr "Layout C"
 
 msgctxt "Languages::payments.eway_rapidapi_rsp.header_text"
 msgid "Header text"
@@ -14420,6 +14420,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Beim Bezahlen (Checkout) Kunden fragen zuerst die Allgemeinen Geschäftsbedingungen zu akzeptieren"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Kunden erlauben nochmals für die Bestellung zu bezahlen falls die Transaktion abgelehnt wurde"
@@ -14498,6 +14502,10 @@ msgstr ""
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
+msgstr ""
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
 msgstr ""
 
 msgctxt "SettingsTooltips::secure_storefront"
@@ -15883,5 +15891,137 @@ msgstr ""
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr ""
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr ""
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr ""
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr ""
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr ""
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr ""
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr ""
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr ""
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr ""
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr ""
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 

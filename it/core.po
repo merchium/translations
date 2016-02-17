@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-11-18 09:00-0500\n"
+"PO-Revision-Date: 2016-02-17 05:57-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -463,6 +463,10 @@ msgstr "Aggiungi stato"
 msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Aggiungi sottocategoria"
+
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "Nuovi iscritti"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1773,12 +1777,20 @@ msgid "I accept the terms in the"
 msgstr "Accetto i termini e le condizioni descritte in"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Spuntare questa casella per accettate i nostri: <a href=\"/index.php?dispatch=pages.view&page_id=1\" target=\"_new\" >Termini e Condizioni</a>"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Selezionare questa casella per accettare i [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Termini e condizioni"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "Per continuare devi accettare i nostri termini e condizioni."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr ""
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2939,10 +2951,6 @@ msgstr "Cancella questa pagina"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Tempi di consegna"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Il tempo di consegna è calcolato in giorni lavorativi."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -6459,7 +6467,7 @@ msgstr "Pacchetti"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Mostra contenuto pacchetto"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -8769,10 +8777,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Servizio di spedizione"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>I prodotti disponibili saranno spediti dopo la verifica del pagamento. Il corriere è responsabile per la merce durante il suo trasporto.</p><p>Per favore aprite il pacco subito dopo averlo ricevuto e controllate la merce da voi ordinata. Se la merce fosse danneggiata, rivolgetevi al servizio clienti del corriere.</p><p>Avete domande? Contattate il nostro servizio clienti al 123-12-23</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Conferma spese di consegna"
@@ -8803,7 +8807,7 @@ msgstr "Lunghezza pacco (in pollici)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "ID del sito"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10535,39 +10539,39 @@ msgstr "Non è permesso creare/caricare/rinominare files del tipo <b>[mime]</b> 
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>Si utilizza attualmente [product] in modalità gratuita. La modalità gratuita non richiede una licenza e ha funzionalità limitate. Per utilizzare questa funzione, è necessaria una licenza di [product].</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr ""
+msgstr "<p>Si sta utilizzando attualmente [product] in modalità gratuita. La modalità gratuita non richiede una licenza e ha funzionalità limitate.  <br>Per utilizzare questa funzione, è necessaria una licenza di [product].</p> <p>Comprare la licenza di [product] e attivarlo è facile. Con la licenza di [product] si otterrà il pieno accesso a queste funzionalità:</p>"
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "Promozioni Complete: sarete in grado di aggiungere non solo le promozioni catalogo, ma anche Promozioni a carrello"
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Funzionalità multi-store: sarete in grado di collegare diverse vetrine e gestirle tramite un pannello di amministrazione"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "Assegnazione di clienti a gruppi di utenti e impostazione dei diversi privilegi per gli amministratori"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Diverse lingue e valute nel tuo negozio"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Oltre 30 componenti aggiuntivi pronti all'uso per rendere ancora più performante il tuo negozio"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "Accesso al nostro Customer Help Desk e supporto tecnico"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr ""
+msgstr "Aggiorna la licenza"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10587,7 +10591,7 @@ msgstr "È necessaria la <strong>Modalità COMPLETA</strong>."
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr ""
+msgstr "Licenza [product] richiesta."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -11921,10 +11925,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Strumenti"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Conteggio addons"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Stato attuale"
@@ -11936,10 +11936,6 @@ msgstr "Niente addons"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "Nessun addon di terze parti"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Ripristina impostazioni predefinite"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12515,7 +12511,7 @@ msgstr "Centro aggiornamenti"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "Tutte le autorizzazioni di file e cartelle sono state regolate correttamente."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -13376,6 +13372,10 @@ msgstr "Carica tema"
 msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Il caricamento e l'installazione di un nuovo Tema è un ottimo modo per personalizzare il tuo negozio. Puoi caricare un Tema scegliendo un file archivio in formato [exts] e clicca su <strong>Carica</strong>."
+
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr ""
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -14421,6 +14421,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Chiedere ai clienti di accettare prima i termini &amp; condizioni durante il pagamento"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr ""
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Consentire ai clienti di pagare di nuovo l'ordine se la transazione non è andata a buon fine"
@@ -14500,6 +14504,10 @@ msgstr "Se nascosto, il primo metodo attivo verrà utilizzato per impostazione p
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Abilitare la vendita di prodotti scaricabili"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Consentire ai clienti di confrontare i prodotti"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15812,27 +15820,27 @@ msgstr "Procedi al pagamento"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr ""
+msgstr "Modalità AVS"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr ""
+msgstr "Modalità SCRUB"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignora"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "Uso della spedizione gratuita"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "I prodotti con l'opzione di spedizione gratuita attivata verranno esclusi dal calcolo della spedizione se l'opzione \"Usa per la spedizione gratuita\" è attiva"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "Escludi i prodotti con l'opzione di spedizione gratuita abilitata dal calcolo del costo di spedizione"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
@@ -15840,19 +15848,19 @@ msgstr ""
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Categoria cancellata"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Quando un prodotto viene eliminato da ogni categoria del negozio allora verrà spostato in questa categoria."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Modifiche di spedizione gratuita"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Tasso di cambio per il calcolo della spedizione in tempo reale DHL"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
@@ -15860,7 +15868,7 @@ msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "Aggiorna le modifiche di [product] [version]"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
@@ -15876,13 +15884,145 @@ msgstr ""
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Mostra dettagli"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Mostra meno"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr "[count] prodotti sono stati spostati nella <a href='[url]' target='_blank'>categoria cancellata</a>"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr "Cambiamenti nella comparazione caratteristiche"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr ""
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr "Per determinare se un determinato problema è causato da un componente aggiuntivo, è possibile disattivare i componenti aggiuntivi di terze parti o tutti i componenti aggiuntivi. Riattivarli successivamente con un solo clic."
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Disattivare tutti i componenti aggiuntivi"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr "Disattivare i componenti aggiuntivi di terze parti"
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr "Riattivare i componenti aggiuntivi"
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Componenti aggiuntivi installati:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr "Componenti aggiuntivi attivi:"
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr "Built-in Add-ons:"
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Componenti aggiuntivi di terze parti:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr "L'amministratore ha disattivato tutti i componenti aggiuntivi o i componenti aggiuntivi di terze parti. <br>Premere il pulsante Ri-abilita Add-ons per inizializzare i componenti aggiuntivi che sono stati precedentemente attivi."
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr "Fonte"
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr "Built-in"
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr "Terze parti"
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr "Alberatura sottocategorie"
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr "Il tema sovrascrive le impostazioni archiviate"
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr "<b>[theme_name]</b> applicherà le seguenti impostazioni con l'attivazione"
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr "Sovrascrivi"
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr "Ignora file e backup del database"
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr ""
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr ""
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr ""
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr ""
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr ""
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr ""
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr ""
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr ""
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr ""
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr ""
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
 msgstr ""
 
