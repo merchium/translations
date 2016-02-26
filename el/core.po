@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:57-0500\n"
+"PO-Revision-Date: 2016-02-25 09:56-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1648,10 +1648,6 @@ msgctxt "Languages::category_description"
 msgid "Category description"
 msgstr "Περιγραφή Κατηγορίας"
 
-msgctxt "Languages::category_is_empty"
-msgid "Please specify a category."
-msgstr "Παρακαλω προσδιοριστε κατηγορια"
-
 msgctxt "Languages::category_location"
 msgid "Category location"
 msgstr "Τοποθεσία Κατηγορίας"
@@ -2703,10 +2699,6 @@ msgstr "Σας ευχαριστούμε που χρησιμοποιήσατε τ
 msgctxt "Languages::customize"
 msgid "Customize"
 msgstr "Προσαρμογή"
-
-msgctxt "Languages::visual_editor"
-msgid "Visual Editor"
-msgstr "Οπτικός Επεξεργαστής"
 
 msgctxt "Languages::theme_no_styles_text"
 msgid "This theme doesn't have styles."
@@ -3942,7 +3934,7 @@ msgstr "Προέγκριση"
 
 msgctxt "Languages::expirepreauth_description"
 msgid "Preauthorization hold limit in days. The maximum value is 30 days. With the \"Sale\" request type, leave this field empty."
-msgstr "Όριο προέγκρισης κατοχής σε ημέρες. Η μέγιστη τιμή είναι 30 ημέρες. Με τον τύπο αίτησης(tm)?Sale(tm)?, αφήστε κενό αυτό το πεδίο."
+msgstr "Όριο προέγκρισης παρακρατησης σε ημέρες. Η μέγιστη τιμή είναι 30 ημέρες. Με τον τύπο αίτησης \"Sale\", αφήστε κενό αυτό το πεδίο."
 
 msgctxt "Languages::expiry_date"
 msgid "Expiration date"
@@ -7530,7 +7522,7 @@ msgstr "Προώθηση"
 
 msgctxt "Languages::promotions"
 msgid "Promotions"
-msgstr "Προωθήσεις"
+msgstr "Προσφορές"
 
 msgctxt "Languages::promotions_menu_description"
 msgid "Promote goods and offer bonuses basing on customers memberships."
@@ -8162,7 +8154,7 @@ msgstr "Επιστροφή στην κανονική εμφάνιση"
 
 msgctxt "Languages::returning_customer"
 msgid "Returning customer"
-msgstr "Επιστρεφόμενος  πελάτης"
+msgstr "Υφιστάμενος πελάτης"
 
 msgctxt "Languages::return_url_target"
 msgid "Return URL target"
@@ -8278,7 +8270,7 @@ msgstr "Αποθηκεύστε τις Αλλαγές"
 
 msgctxt "Languages::save_discount"
 msgid "Save"
-msgstr "Αποθήκευση"
+msgstr "Έκπτωση"
 
 msgctxt "Languages::save_layout"
 msgid "Save layout"
@@ -10686,7 +10678,7 @@ msgstr "<b>[email]</b>δεν είναι έγκυρη διεύθυνση e-mail."
 
 msgctxt "Languages::text_no_active_promotions"
 msgid "No promotions available."
-msgstr "Δεν υπάρχουν διαθέσιμες προωθήσεις."
+msgstr "Δεν υπάρχουν διαθέσιμες προσφορές."
 
 msgctxt "Languages::text_no_conflicts"
 msgid "No conflicts found"
@@ -11248,9 +11240,9 @@ msgctxt "Languages::text_uc_cant_download_package"
 msgid "Cannot download the upgrade package"
 msgstr "Δεν μπορείτε να κατεβάσετε το πακέτο αναβάθμισης"
 
-msgctxt "Languages::text_uc_changed_files"
-msgid "These files have local modifications and will be backed up; resolve the conflicts after the upgrade is complete."
-msgstr "Τα παρακάτω αρχεία έχουν τοπική τροποποίηση.Θα επαναφερθούν και θα πρέπει να επιλύσουν τις συγκρούσεις χειροκίνητα μετά την αναβάθμιση"
+msgctxt "Languages::text_uc_changed_files_message"
+msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
+msgstr ""
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11606,7 +11598,7 @@ msgstr "Απόκρυψη/Εμφάνιση πίνακα επεξεργασίας 
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Το όνομα του στυλ δεν μπορεί να περιέχει τους ακόλουθους χαρακτήρες: \"/ # % ? * : ; { } \""
+msgstr ""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12124,9 +12116,9 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "Αληθές"
 
-msgctxt "Languages::ttc_delivery_time"
-msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Αυθαίρετο κείμενο το οποιο θα εμφανιστεί μαζί με τον τίτλο των τροπων αποστολης"
+msgctxt "Languages::tt_views_shippings_update_delivery_time"
+msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
+msgstr ""
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12876,6 +12868,10 @@ msgctxt "Languages::vendor_id"
 msgid "Store ID"
 msgstr "Ταυτότητα πωλητή"
 
+msgctxt "Languages::vendor_name_field"
+msgid "Vendor name"
+msgstr ""
+
 msgctxt "Languages::vendor_name"
 msgid "Store name"
 msgstr "Όνομα πωλητή"
@@ -13570,7 +13566,7 @@ msgstr "Το στυλ με αυτό το όνομα υπάρχει ήδη. Πα�
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Το Όνομα Προεπιλογής δεν μπορει να περιεχει τους εξης χαρακτηρες: \"/ # % ? * : ; { } \\ \""
+msgstr ""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13759,10 +13755,6 @@ msgstr "Ενεργοποίηση ασφαλούς σύνδεσης για τη �
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Διατήρηση της HTTPS σύνδεσης ,όταν επισκεπτεί μια ασφαλής σελίδα"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "Επεξεργαστές Τρόπων Αποστολής"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14334,7 +14326,7 @@ msgstr "Ύψος μικρογραφίας εικόνας στις λεπτομέ
 
 msgctxt "SettingsOptions::header_7024"
 msgid "Promotions"
-msgstr "Προωθήσεις"
+msgstr "Προσφορές"
 
 msgctxt "SettingsOptions::timezone"
 msgid "Time zone"
@@ -15041,12 +15033,12 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT+01:00) West Central Africa"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
+msgid "(GMT+02:00) Athens, Beirut, Istanbul"
+msgstr ""
 
-msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Bucharest"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15075,6 +15067,10 @@ msgstr "(GMT+03:00) Kuwait, Riyadh"
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+
+msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgid "(GMT+03:00) Minsk"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15777,9 +15773,9 @@ msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αναβάθμιση της δομής της βάσης δεδομένων (εφαρμογή μεταφορας [migration])."
 
-msgctxt "Languages::notice_entered_html_was_sanitized"
-msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "Αυτή η ιστοσελίδα έχει περιορισμούς σχετικά με την προσθήκη κώδικα HTML. Ορισμένες ετικέτες HTML όπως η &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; και JavaScript κωδικας είναι αποκομμένες."
+msgctxt "Languages::text_entered_html_was_sanitized"
+msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
+msgstr ""
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -16024,4 +16020,20 @@ msgstr "Το αρχείο \"[file]\" δεν βρέθηκε."
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
 msgstr "Το αρχείο \"[file]\" υπάρχει ήδη."
+
+msgctxt "Languages::local_modifications"
+msgid "Local modifications"
+msgstr ""
+
+msgctxt "Languages::local_modifications_message"
+msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
+msgstr ""
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr ""
+
+msgctxt "Languages::checked"
+msgid "Checked"
+msgstr ""
 

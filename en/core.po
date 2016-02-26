@@ -456,6 +456,10 @@ msgctxt "Languages::add_subcategory"
 msgid "Add subcategory"
 msgstr "Add subcategory"
 
+msgctxt "Languages::new_subscribers"
+msgid "New subscribers"
+msgstr "New subscribers"
+
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
 msgstr "Add subscriber"
@@ -1636,10 +1640,6 @@ msgctxt "Languages::category_description"
 msgid "Category description"
 msgstr "Category description"
 
-msgctxt "Languages::category_is_empty"
-msgid "Please specify a category."
-msgstr "Please specify a category."
-
 msgctxt "Languages::category_location"
 msgid "Category location"
 msgstr "Category location"
@@ -1765,12 +1765,20 @@ msgid "I accept the terms in the"
 msgstr "I accept the terms in the"
 
 msgctxt "Languages::checkout_terms_n_conditions"
-msgid "Select this check box to accept the Terms and Conditions."
-msgstr "Select this check box to accept the Terms and Conditions."
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Select this check box to accept the [terms_href]"
+
+msgctxt "Languages::checkout_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
 msgstr "In order to proceed, you need to accept our Terms and Conditions."
+
+msgctxt "Languages::terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2684,10 +2692,6 @@ msgctxt "Languages::customize"
 msgid "Customize"
 msgstr "Customize"
 
-msgctxt "Languages::visual_editor"
-msgid "Visual Editor"
-msgstr "Visual Editor"
-
 msgctxt "Languages::theme_no_styles_text"
 msgid "This theme doesn't have styles."
 msgstr "This theme doesn't have styles."
@@ -2931,10 +2935,6 @@ msgstr "Delete this page"
 msgctxt "Languages::delivery_time"
 msgid "Delivery time"
 msgstr "Delivery time"
-
-msgctxt "Languages::delivery_times_text"
-msgid "Delivery time is calculated in business days."
-msgstr "Delivery time is calculated in business days."
 
 msgctxt "Languages::demo"
 msgid "Demo"
@@ -8760,10 +8760,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Shipping service"
 
-msgctxt "Languages::shipping_tips"
-msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
 msgstr "Delivery Confirmation cost"
@@ -11236,9 +11232,9 @@ msgctxt "Languages::text_uc_cant_download_package"
 msgid "Cannot download the upgrade package"
 msgstr "Cannot download the upgrade package"
 
-msgctxt "Languages::text_uc_changed_files"
-msgid "These files have local modifications and will be backed up; resolve the conflicts after the upgrade is complete."
-msgstr "These files have local modifications and will be backed up; resolve the conflicts after the upgrade is complete."
+msgctxt "Languages::text_uc_changed_files_message"
+msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
+msgstr "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11912,10 +11908,6 @@ msgctxt "Languages::tools"
 msgid "Tools"
 msgstr "Tools"
 
-msgctxt "Languages::tools_addons_addons_count"
-msgid "Add-ons count"
-msgstr "Add-ons count"
-
 msgctxt "Languages::tools_addons_current_state"
 msgid "Current state"
 msgstr "Current state"
@@ -11927,10 +11919,6 @@ msgstr "No add-ons"
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
 msgstr "No third party add-ons"
-
-msgctxt "Languages::tools_addons_restore_defaults"
-msgid "Restore defaults"
-msgstr "Restore defaults"
 
 msgctxt "Languages::tooltip"
 msgid "Tooltip"
@@ -12120,9 +12108,9 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "True"
 
-msgctxt "Languages::ttc_delivery_time"
-msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Arbitrary text to be shown along with the shipping method title."
+msgctxt "Languages::tt_views_shippings_update_delivery_time"
+msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
+msgstr "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12872,6 +12860,10 @@ msgctxt "Languages::vendor_id"
 msgid "Store ID"
 msgstr "Store ID"
 
+msgctxt "Languages::vendor_name_field"
+msgid "Vendor name"
+msgstr "Vendor name"
+
 msgctxt "Languages::vendor_name"
 msgid "Store name"
 msgstr "Store name"
@@ -13368,6 +13360,10 @@ msgctxt "Languages::install_theme_text"
 msgid "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 msgstr "Uploading and installing a new theme is a great way to personalize your storefront. You can upload a theme by picking a [exts] format archive and clicking <strong>Upload</strong>."
 
+msgctxt "Languages::install_upgrade_package_text"
+msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+msgstr "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
+
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
 msgstr "The following directories do not have writable permissions"
@@ -13751,10 +13747,6 @@ msgstr "Enable secure connection for the storefront"
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Keep HTTPS connection once a secure page is visited"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "Shipping processors"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14412,6 +14404,10 @@ msgctxt "SettingsOptions::agree_terms_conditions"
 msgid "Ask customers to agree with terms &amp; conditions during checkout"
 msgstr "Ask customers to agree with terms &amp; conditions during checkout"
 
+msgctxt "SettingsTooltips::agree_terms_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+msgstr "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
+
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
 msgstr "Allow customers to pay order again if transaction was declined"
@@ -14491,6 +14487,10 @@ msgstr "If hidden, the first active method will be used by default."
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
 msgstr "Enable selling downloadable products"
+
+msgctxt "SettingsOptions::enable_compare_products"
+msgid "Allow customers to compare products"
+msgstr "Allow customers to compare products"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15026,10 +15026,10 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT+01:00) West Central Africa"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
+msgid "(GMT+02:00) Athens, Beirut, Istanbul"
+msgstr "(GMT+02:00) Athens, Beirut, Istanbul"
 
-msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
 msgstr "(GMT+02:00) Bucharest"
 
@@ -15060,6 +15060,10 @@ msgstr "(GMT+03:00) Kuwait, Riyadh"
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+
+msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgid "(GMT+03:00) Minsk"
+msgstr "(GMT+03:00) Minsk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15761,9 +15765,9 @@ msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "An error has occured during upgrading database structure (applying migration [migration])."
 
-msgctxt "Languages::notice_entered_html_was_sanitized"
-msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
+msgctxt "Languages::text_entered_html_was_sanitized"
+msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
+msgstr "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -15872,3 +15876,155 @@ msgstr "Show more"
 msgctxt "Languages::show_less"
 msgid "Show less"
 msgstr "Show less"
+
+msgctxt "Languages::products_moved_to_trash"
+msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+msgstr "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_title"
+msgid "Changes in feature comparison"
+msgstr "Changes in feature comparison"
+
+msgctxt "Languages::feature_comparison_upgrade_notification_text"
+msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+msgstr "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
+
+msgctxt "Languages::text_uc_addon_upgrade_completed"
+msgid "Add-on \"[name]\" has been upgraded successfully"
+msgstr "Add-on \"[name]\" has been upgraded successfully"
+
+msgctxt "Languages::change_addons_initialization_description"
+msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+msgstr "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
+
+msgctxt "Languages::tools_addons_disable_all"
+msgid "Disable all add-ons"
+msgstr "Disable all add-ons"
+
+msgctxt "Languages::tools_addons_disable_third_party"
+msgid "Disable third-party add-ons"
+msgstr "Disable Third-party add-ons"
+
+msgctxt "Languages::tools_re_enable_add_ons"
+msgid "Re-enable add-ons"
+msgstr "Re-enable add-ons"
+
+msgctxt "Languages::tools_addons_installed_count"
+msgid "Installed add-ons:"
+msgstr "Installed add-ons:"
+
+msgctxt "Languages::tools_addons_activated_count"
+msgid "Active add-ons:"
+msgstr "Active add-ons:"
+
+msgctxt "Languages::tools_addons_core_addons_count"
+msgid "Built-in add-ons:"
+msgstr "Built-in add-ons:"
+
+msgctxt "Languages::tools_addons_other_addons_count"
+msgid "Third-party add-ons:"
+msgstr "Third-party add-ons:"
+
+msgctxt "Languages::tools_addons_disabled_msg"
+msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+msgstr "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
+
+msgctxt "Languages::addons_source"
+msgid "Source"
+msgstr "Source"
+
+msgctxt "Languages::addon_built_in"
+msgid "Built-in"
+msgstr "Built-in"
+
+msgctxt "Languages::addon_third_party"
+msgid "Third-party"
+msgstr "Third-party"
+
+msgctxt "Languages::subcategories_tree_cat"
+msgid "Subcategories tree"
+msgstr "Subcategories tree"
+
+msgctxt "Languages::settings_overwrite_title"
+msgid "The theme overwrites store settings"
+msgstr "The theme overwrites store settings"
+
+msgctxt "Languages::settings_overwrite_text"
+msgid "<b>[theme_name]</b> will set following settings on activation"
+msgstr "<b>[theme_name]</b> will set following settings on activation"
+
+msgctxt "Languages::overwrite"
+msgid "Overwrite"
+msgstr "Overwrite"
+
+msgctxt "Languages::upgrade_center.skip_backup"
+msgid "Skip files and database backup"
+msgstr "Skip files and database backup"
+
+msgctxt "Languages::uc_open_store_email_body"
+msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+msgstr "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
+
+msgctxt "Languages::upgrade_notification_message"
+msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+msgstr "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
+
+msgctxt "Languages::http_transport_error_prefix_curl"
+msgid "Curl Error"
+msgstr "Curl Error"
+
+msgctxt "Languages::http_transport_error_prefix_socket"
+msgid "Socket Error"
+msgstr "Socket Error"
+
+msgctxt "Languages::curl_error_code_reference_link"
+msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+msgstr "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
+
+msgctxt "Languages::n_days"
+msgid "[n] day|[n] days"
+msgstr "[n] day|[n] days"
+
+msgctxt "Languages::track_on_carrier_site"
+msgid "Track on website"
+msgstr "Track on website"
+
+msgctxt "Languages::unable_to_create_status"
+msgid "Couldn't create a new status"
+msgstr "Couldn't create a new status"
+
+msgctxt "Languages::maximum_number_of_statuses_reached"
+msgid "You have reached the maximum number of statuses"
+msgstr "You have reached the maximum number of statuses"
+
+msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
+msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+msgstr "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
+
+msgctxt "Languages::error_unknown_archive_format"
+msgid "Unknown archive format: [ext]"
+msgstr "Unknown archive format: [ext]"
+
+msgctxt "Languages::error_file_not_found"
+msgid "File \"[file]\" not found."
+msgstr "File \"[file]\" not found."
+
+msgctxt "Languages::error_file_already_exists"
+msgid "File \"[file]\" already exists."
+msgstr "File \"[file]\" already exists."
+
+msgctxt "Languages::local_modifications"
+msgid "Local modifications"
+msgstr "Local modifications"
+
+msgctxt "Languages::local_modifications_message"
+msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
+msgstr "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Not checked"
+
+msgctxt "Languages::checked"
+msgid "Checked"
+msgstr "Checked"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/store_import.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:56-0500\n"
+"PO-Revision-Date: 2016-02-25 07:56-0500\n"
 
 msgctxt "Addons::name::store_import"
 msgid "Store Import"
@@ -102,7 +102,7 @@ msgstr "Validere"
 
 msgctxt "Languages::store_import.local_store_tooltip"
 msgid "Enter the full path to the installation root directory of the store you want to import data from. For example '/var/www/examplestore' on UNIX-based systems or 'C:\\examplestore' on Windows"
-msgstr "Angiv den fulde sti til installations rod bibliotek i den butik, du vil importere data fra. For eksempel '/ var/www/examplestore' på UNIX-baserede systemer eller 'C:\\examplestore' på Windows"
+msgstr ""
 
 msgctxt "Languages::store_import.configure_store"
 msgid "Configure your store"
@@ -187,6 +187,26 @@ msgstr "<p><h4>Data fra den gamle butik blev importeret.</h4><br/>Du er nu fri t
 msgctxt "Languages::store_import.text_configuration2"
 msgid "<p>When you are ready customizing, you will be able to actualize the data by going to the Store import tool again and proceeding directly to the next step. Unlike the initial store import, data actualization will keep all your settings, layouts, and design.</p><p><strong>Attention!</strong> Data actualization will be impossible if you modify, remove, or add new [storefronts_vendors]. In this case, you will have to re-start the store import from the first step.</p>"
 msgstr "<p>Når du er klar til tilpasning, vil du kunne aktualisere data ved at gå til butikken importværktøj igen og går direkte til det næste trin. I modsætning til den første butik import, data aktualisering vil holde alle dine indstillinger, layout og design,.</p><p><strong>Vær opmærksom på!</strong> Data aktualisering bliver umuligt, hvis du ændrer, fjerner eller tilføjer nye [storefronts_vendors]. I dette tilfælde, bliver du nødt til at re-starte butik import fra det første trin.</p>"
+
+msgctxt "Languages::store_import.435_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::store_import.434_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::store_import.433_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::store_import.432_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::store_import.431_ultimate"
+msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
+msgstr ""
 
 msgctxt "Languages::store_import.424_ultimate"
 msgid "<ul><li>Go to <a href=\"[stores_section_link]\">Stores</a> section and set the correct <b>Storefront URL</b> for each Company.</li><li>Go to <a href=\"[manage_languages_link]\">Languages</a> languages and set the correct <b>Country</b> value for each language.</li></ul><p>Please pay attention to the following:</p><ul><li>The <b>Quick menu</b> was set to default.</li></ul>"
@@ -437,6 +457,34 @@ msgid "Store import data"
 msgstr "Butiksimportdata"
 
 msgctxt "Languages::store_import.design_changes_not_allowed"
-msgid "Store import is impossible after LESS-to-CSS conversion in the Visual Editor. Please enable LESS in the editor to proceed."
-msgstr "Butiksimport er umuligt efter LESS-to-CSS konvertering i Visual Editor. Venligst aktiver LESS i editor for at fortsætte."
+msgid "Store import is impossible after LESS-to-CSS conversion in the Theme Editor. Please enable LESS in the editor to proceed."
+msgstr ""
+
+msgctxt "Languages::addons.store_import.addon_sql_import"
+msgid "Importing from [filename]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.sql_error"
+msgid "An error in an SQL query occurred: [error]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.addon_script_run"
+msgid "Running [filename]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.script_error"
+msgid "PHP error occured in [filename] at line [line]: [error]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.dropping_original_table"
+msgid "Dropping original table: [table]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.renaming_original_table"
+msgid "Renaming original table: [table]"
+msgstr ""
+
+msgctxt "Languages::addons.store_import.errors_during_import"
+msgid "There were erros during store import process. Check logs in <b>[log_dir]</b> for details."
+msgstr ""
 

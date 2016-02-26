@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 07:56-0500\n"
+"PO-Revision-Date: 2016-02-25 10:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1648,10 +1648,6 @@ msgctxt "Languages::category_description"
 msgid "Category description"
 msgstr "Kategoribeskrivelse"
 
-msgctxt "Languages::category_is_empty"
-msgid "Please specify a category."
-msgstr "Vær vennlig å spesifiser en kategori"
-
 msgctxt "Languages::category_location"
 msgid "Category location"
 msgstr "Kategoriplassering"
@@ -2703,10 +2699,6 @@ msgstr "Takk for at du valgte vår butikk."
 msgctxt "Languages::customize"
 msgid "Customize"
 msgstr "Tilpass"
-
-msgctxt "Languages::visual_editor"
-msgid "Visual Editor"
-msgstr "Visuell Redigerer"
 
 msgctxt "Languages::theme_no_styles_text"
 msgid "This theme doesn't have styles."
@@ -11248,9 +11240,9 @@ msgctxt "Languages::text_uc_cant_download_package"
 msgid "Cannot download the upgrade package"
 msgstr "Kan ikke laste ned oppgraderingspakken"
 
-msgctxt "Languages::text_uc_changed_files"
-msgid "These files have local modifications and will be backed up; resolve the conflicts after the upgrade is complete."
-msgstr "Følgende filer har lokale modifiseringer og vil bli tatt sikkerhetskopi av. Løs opp eventuelle konflikter manuelt etter oppgradering."
+msgctxt "Languages::text_uc_changed_files_message"
+msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
+msgstr "Disse filene har lokale modifikasjoner og blir sikkerhetskopiert. Når oppgraderingen er fullført, sammenlign backup filene med de nye filene og legg til endringene til nye filer, om nødvendig."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11606,7 +11598,7 @@ msgstr "Vis/skjul mal redigerer panelet"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Stilnavn kan ikke inneholde følgende tegn: \"/ # % ? * : ; { } \""
+msgstr "Stilnavn kan ikke inneholde følgende tegn: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12124,9 +12116,9 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "Sant"
 
-msgctxt "Languages::ttc_delivery_time"
-msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Vilkårtekst som skal vises sammen med fraktmetode tittelen."
+msgctxt "Languages::tt_views_shippings_update_delivery_time"
+msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
+msgstr "Leveringstiden vises ved siden av leveringsmåtene. Hvis du bruker frakt beregning i sanntid, kan frakttjenesten gi sin egen leveringstid. Tidspunktet fra frakttjenesten vises i stedet for tiden du angir her."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12558,19 +12550,19 @@ msgstr "Sjekk den grunnleggende funksjonaliteten i butikken etter oppgraderingen
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr ""
+msgstr "Vanligvis vil oppgraderingen mislykkes fordi PHP-scriptet blir avsluttet på grunn av serverkonfigurasjonen. Det er viktig å sjekke PHP scriptets tidsavbrudd på serveren din"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr ""
+msgstr "Vi vil IKKE anbefaler deg å starte oppgraderingen på din server."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr ""
+msgstr "Serveren har feil PHP script tidsavbrudd . Dette kan være på grunn av begrensninger i PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> funksjon eller FastCGI \"Timeout\" valg. Vi anbefaler deg å kontakte din hosting leverandør (ISP) for å løse dette problemet, eller kontakter vår HelpDesk for å utføre oppgraderingen for deg."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr ""
+msgstr "<p class=\"text-error\">Vi har startet et dummy PHP-script. Scriptet vil jobbe i ca 6 minutter. Når kontrollen er ferdig, vil vi fortelle deg hvis skriptet PHP tidsavbrudd kan angis korrekt. Hvis ja, kan du fortsette med oppgraderingen. Vent til sjekken er ferdig for å forsikre deg om at serveren har riktig PHP tidsavbrudd konfigurasjon.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12876,6 +12868,10 @@ msgctxt "Languages::vendor_id"
 msgid "Store ID"
 msgstr "Leverandør ID"
 
+msgctxt "Languages::vendor_name_field"
+msgid "Vendor name"
+msgstr "Leverandørnavn"
+
 msgctxt "Languages::vendor_name"
 msgid "Store name"
 msgstr "Butikk navn"
@@ -13022,7 +13018,7 @@ msgstr "Status for primærvaluta kan ikke endres"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr ""
+msgstr "Den sikre tilkoblingen mislyktes. Sørg for at SSL-sertifikat er installert på din server. Sjekk ut <a href=\"[href]\" target=\"_blank\">Dokumentasjonen</a> for mer informasjon."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13350,7 +13346,7 @@ msgstr "Utvikling"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr ""
+msgstr "PO-filen <b>\"[file]\"</b> inneholder syntaksfeil eller feil struktur."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13374,7 +13370,7 @@ msgstr "Å laste opp og installere en ny mal er en fin måte å personliggjøre 
 
 msgctxt "Languages::install_upgrade_package_text"
 msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
-msgstr ""
+msgstr "Du kan laste opp en oppgraderingspakke manuelt fra den lokale maskinen, serveren, eller fra en ekstern plassering. Angi plasseringen av en [exts] format arkiv og klikk på <strong>Last opp</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13570,7 +13566,7 @@ msgstr "En forhåndsinnstilling med dette navnet eksisterer allerede. Vennligst 
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Navn på forhåndsinnstillinger kan ikke inneholde disse tegnene: \"/ # % ? * : ; { } \""
+msgstr "Navn på forhåndsinnstillinger kan ikke inneholde disse tegnene: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13622,7 +13618,7 @@ msgstr "ZipArchive class ikke funnet. Les mer: <a href=\"https://php.net/manual/
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr ""
+msgstr "\"Zip\" PHP-utvidelsen ikke er installert. Vennligst installer \"Zip\" PHP-utvidelsen for å kunne pakke ut zip-arkiv."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13759,10 +13755,6 @@ msgstr "Aktiver sikker tilkobling for butikk forsiden"
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Behold HTTPS-tilkoblingen når en sikker side besøkes"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "Fraktselskaper"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14422,7 +14414,7 @@ msgstr "Spør kundene om å være enig med vilkår og betingelser når de sjekke
 
 msgctxt "SettingsTooltips::agree_terms_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
-msgstr ""
+msgstr "Teksten i vilkår og betingelser vil bli hentet fra \"terms_and_conditions_content\" språk variabel."
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -14506,7 +14498,7 @@ msgstr "Aktiver salg av nedlastbare produkter"
 
 msgctxt "SettingsOptions::enable_compare_products"
 msgid "Allow customers to compare products"
-msgstr ""
+msgstr "Tillat kundene å sammenligne produkter"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15041,12 +15033,12 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT+01:00) Vest Sentral Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Athen, Beirut, Istanbul, Minsk"
+msgid "(GMT+02:00) Athens, Beirut, Istanbul"
+msgstr "(GMT+02:00) Athens, Beirut, Istanbul"
 
-msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Bucharesti"
+msgstr "(GMT+02:00) Bucuresti"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15075,6 +15067,10 @@ msgstr "(GMT+03:00) Kuwait, Riyadh"
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 msgstr "(GMT+03:00) Moskva, St. Petersburg, Volgograd"
+
+msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgid "(GMT+03:00) Minsk"
+msgstr "(GMT+03:00) Minsk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15777,9 +15773,9 @@ msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "Det oppsto en feil under oppgraderingen av database-strukturen (applying migration [migration])."
 
-msgctxt "Languages::notice_entered_html_was_sanitized"
-msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "Denne nettsiden har restriksjoner for bruk av HTML-kode. Noen HTML-tagger som &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; og JavaScript er avskåret."
+msgctxt "Languages::text_entered_html_was_sanitized"
+msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
+msgstr "Noen <strong>HTML tagger</strong> som du har brukt <strong>ble kuttet</strong> på grunn av restriksjoner på å sette inn HTML koder som &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; og JavaScript kode. Derfor vises ikke innhold som du har satt inn via disse kodene."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -15787,241 +15783,257 @@ msgstr "Det oppstod feil under oppgraderings-prosessen. Kontakt teknisk support 
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr ""
+msgstr "Kan ikke opprette sikkerhetskopier."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr ""
+msgstr "[n] sekunder igjen|[n] sekunder igjen"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr ""
+msgstr "Ser ut som serveren din gjør det mulig å endre \"max_execution_time\" fra scriptet. Du kan gå videre med oppgraderingsprosessen."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr ""
+msgstr "Sjekk tidsavbrudd for PHP-scriptet"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr ""
+msgstr "Jeg er enig og vil fortsette"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr ""
+msgstr "Kan ikke forberede gjenopprettings scriptet."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr ""
+msgstr "Merk! Din nettleser har <b>JavaScript</b> deaktivert. For å betale for din bestilling klikk"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Fortsett til kassen"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr ""
+msgstr "AVS-modus"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr ""
+msgstr "SCRUB modus"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorer"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "Bruk for gratis frakt"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "Produkter med gratis frakt aktivert vil bli ekskludert fra fraktberegningen om leveringsmåten har Bruk gratis frakt alternativet aktivert"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "Utelat produkter med aktivert Gratis frakt alternativet fra fraktberegningen"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr ""
+msgstr "<p>Noen av produktene dine har <b>Gratis frakt</b> aktivert. I tidligere versjoner av [product] trengte ikke kunden å velge en leveringsmetode ved kjøp av disse produktene.</p><p>Fra og med denne [product] versjonen, så må kunden velge et fraktalternativ ved utsjekking om <b>Gratis frakt</b> er aktivert.</p><p>For å sette opp en fraktmetode som vil bli brukt for Gratis frakt - følg disse trinnene:</p><ol><li>Gå til <b>Administrasjon → Forsendels og moms → Fraktmetoder</b>.</li><li>Velg den eksisterende fraktmetoden som du vil bruke for Gratis frakt, eller opprett en ny.</li><li>Bla deg ned til avsnittet <i>Extra</i> og huk av <b>Bruk for gratis frakt</b> sjekkboksen.</li></ol><p>Du kan sette opp så mange fraktmetoder du ønsker for gratis frakt.</p><p>Vær oppmerksom på at du må bruke <b>Bruk for gratis frakt</b> valget for bestemte fraktmetoder.</p><p>Huk av <b>Bruk for gratis frakt</b> sjekkboksen, hvis du ønsker å utelukke produktene med aktivert <b>Gratis frakt</b> valget fra fraktpris beregningen. [product] vil beregne fraktprisen av de andre produktene fra rekkefølgen i samsvar med <b>Fraktpriser</b>.</p><p>Hvis du lar sjekkboksen være ukrysset, [product] vil beregnet fraktpris for alle produkter fra ordren være i samsvar med <b>Fraktprisene</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Papirkurven"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Når et produkt er slettet fra den siste kategorien i nettbutikken, flyttes den til denne kategorien."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Gratis frakt endringer"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "DHL sanntid frakt beregning endringer"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
-msgstr ""
+msgstr "<p>Den nyeste versjonen av [product] har ulike innstillinger for fraktberegning i sanntid hvis du bruker DHL som leverandør.</p><p>Hvis du vil vise gjeldende fraktpriser for dine kunder, gjør dette:</p><ul><li>gå til administrasjon > Forsendelse & moms > Fraktmetoder</li><li>Velg leveringsmåtene som bruker DHL for å beregne fraktpriser</li><li>gå til fanen Generelt, og angi den riktige frakt-tjenesten</li><li>gå så til til fanen Konfigurer og angi riktig område-ID og passord</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "Oppgrader endringer i [product] [version]"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
-msgstr ""
+msgstr "eWAY, eWAY Direct Payment og eWAY Delte betaling prosessorer støttes ikke lenger"
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr ""
+msgstr "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
-msgstr ""
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>Hvordan setter jeg opp min live eWay API-nøkkel og passord?</a>"
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Vis mer"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Vis mindre"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
-msgstr ""
+msgstr "[count] produktene ble flyttet til <a href='[url]' target='_blank'>Papirkurven</a>"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_title"
 msgid "Changes in feature comparison"
-msgstr ""
+msgstr "Endringer i Funksjonssammenligning"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_text"
 msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
-msgstr ""
+msgstr "<b> Funksjonssammenligning </b>-sjekkboksen under <b>Produkter → Produkter → &lt;Desired Product&gt;</b> er fjernet.<br>Ved å krysse av i avkrysningsruten for <b>Tillat kundene å sammenligne produkter</b> sjekkboksen under Innstillinger → Generelt → Katalog, kan du nå gjøre det mulig for kunder å legge til produkter i butikken din til sammenligningslister.<br>For å dukke opp på en sammenligningliste, må en funksjon har en (eller flere) av følgende avmerkingsbokser aktivert under <b>Produkter → Funksjoner → &lt;Desired Feature&gt;</b>:<br><ul><li>Vis på funksjons-fliken</li><li>Vis i produktlisten</li><li>Vis i headeren på siden med produktdetaljer</li></ul>"
 
 msgctxt "Languages::text_uc_addon_upgrade_completed"
 msgid "Add-on \"[name]\" has been upgraded successfully"
-msgstr ""
+msgstr "Modulen \"[name]\" er oppgradert"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
-msgstr ""
+msgstr "For å avgjøre om en bestemt problem skyldes en modul, kan du deaktivere tredjeparts moduler eller alle moduler. Aktiver dem på nytt senere med ett klikk."
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
-msgstr ""
+msgstr "Deaktivere alle moduler"
 
 msgctxt "Languages::tools_addons_disable_third_party"
 msgid "Disable third-party add-ons"
-msgstr ""
+msgstr "Deaktiver tredjeparts moduler"
 
 msgctxt "Languages::tools_re_enable_add_ons"
 msgid "Re-enable add-ons"
-msgstr ""
+msgstr "Aktiver moduler"
 
 msgctxt "Languages::tools_addons_installed_count"
 msgid "Installed add-ons:"
-msgstr ""
+msgstr "Installerte moduler:"
 
 msgctxt "Languages::tools_addons_activated_count"
 msgid "Active add-ons:"
-msgstr ""
+msgstr "Aktive moduler:"
 
 msgctxt "Languages::tools_addons_core_addons_count"
 msgid "Built-in add-ons:"
-msgstr ""
+msgstr "Innebygde moduler:"
 
 msgctxt "Languages::tools_addons_other_addons_count"
 msgid "Third-party add-ons:"
-msgstr ""
+msgstr "Tredjeparts moduler:"
 
 msgctxt "Languages::tools_addons_disabled_msg"
 msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
-msgstr ""
+msgstr "En administrator har deaktivert alle moduler eller tredjeparts moduler. <br>Trykk på Aktiver moduler for å initialisere moduler som tidligere var aktive."
 
 msgctxt "Languages::addons_source"
 msgid "Source"
-msgstr ""
+msgstr "Kilde"
 
 msgctxt "Languages::addon_built_in"
 msgid "Built-in"
-msgstr ""
+msgstr "Innebygd"
 
 msgctxt "Languages::addon_third_party"
 msgid "Third-party"
-msgstr ""
+msgstr "Tredjepart"
 
 msgctxt "Languages::subcategories_tree_cat"
 msgid "Subcategories tree"
-msgstr ""
+msgstr "Underkategorier tre"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
-msgstr ""
+msgstr "Malen overskriver butikkens innstillinger"
 
 msgctxt "Languages::settings_overwrite_text"
 msgid "<b>[theme_name]</b> will set following settings on activation"
-msgstr ""
+msgstr "<b>[theme_name]</b> vil sette følgene innstillinger på aktivering"
 
 msgctxt "Languages::overwrite"
 msgid "Overwrite"
-msgstr ""
+msgstr "Overskriv"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
-msgstr ""
+msgstr "Hopp over filer og database backup"
 
 msgctxt "Languages::uc_open_store_email_body"
 msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
-msgstr ""
+msgstr "<p>Før oppgraderingen, ble butikken lukket. Sjekk at alt fungerer som det skal etter oppgraderingen og <a href=\"[settings_section]\">åpne butikken igjen</a>.</p></p>"
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
-msgstr ""
+msgstr "<p class='upgrade-enter_notice-msg'>Kopi av denne meldingen ble sendt til administrators e-post.</p><hr>"
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
-msgstr ""
+msgstr "Curl feil"
 
 msgctxt "Languages::http_transport_error_prefix_socket"
 msgid "Socket Error"
-msgstr ""
+msgstr "Socket feil"
 
 msgctxt "Languages::curl_error_code_reference_link"
 msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
-msgstr ""
+msgstr "For å lære hva som forårsaket feilen Curl, se etter ditt feilnummer i <a target=\"_blank\" href=\"[href]\">denne artikkelen</a>."
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] dag|[n] dager"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr ""
+msgstr "Spor på nettsiden"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
-msgstr ""
+msgstr "Kan ikke opprette en ny status"
 
 msgctxt "Languages::maximum_number_of_statuses_reached"
 msgid "You have reached the maximum number of statuses"
-msgstr ""
+msgstr "Du har nådd maksimalt antall statuser"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
-msgstr ""
+msgstr "Statusen returnerte feil når spurt med CURLOPT_SSL_VERIFYSTATUS."
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
-msgstr ""
+msgstr "Ukjent arkivformat: [ext]"
 
 msgctxt "Languages::error_file_not_found"
 msgid "File \"[file]\" not found."
-msgstr ""
+msgstr "Filen \"[file]\" ikke funnet."
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
-msgstr ""
+msgstr "Filen \"[file]\" finnes allerede."
+
+msgctxt "Languages::local_modifications"
+msgid "Local modifications"
+msgstr "Lokale modifikasjoner"
+
+msgctxt "Languages::local_modifications_message"
+msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
+msgstr "Disse filene hadde lokale endringer. Under oppgraderingen ble det opprettet en sikkerhetskopi i <strong>[dir]</strong> katalogen. Du kan sjekke disse filene i arkivet og gjenbruke endringene til butikken din."
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Ikke merket"
+
+msgctxt "Languages::checked"
+msgid "Checked"
+msgstr "Merket"
 

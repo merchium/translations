@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:59-0500\n"
+"PO-Revision-Date: 2016-02-25 10:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1648,10 +1648,6 @@ msgctxt "Languages::category_description"
 msgid "Category description"
 msgstr "Описание категории"
 
-msgctxt "Languages::category_is_empty"
-msgid "Please specify a category."
-msgstr "Пожалуйста, укажите категорию"
-
 msgctxt "Languages::category_location"
 msgid "Category location"
 msgstr "Расположение категории"
@@ -2703,10 +2699,6 @@ msgstr "Благодарим вас за посещение нашего маг�
 msgctxt "Languages::customize"
 msgid "Customize"
 msgstr "Редактировать"
-
-msgctxt "Languages::visual_editor"
-msgid "Visual Editor"
-msgstr "Редактировать дизайн"
 
 msgctxt "Languages::theme_no_styles_text"
 msgid "This theme doesn't have styles."
@@ -11248,9 +11240,9 @@ msgctxt "Languages::text_uc_cant_download_package"
 msgid "Cannot download the upgrade package"
 msgstr "Не получается загрузить дистрибутив обновления"
 
-msgctxt "Languages::text_uc_changed_files"
-msgid "These files have local modifications and will be backed up; resolve the conflicts after the upgrade is complete."
-msgstr "Для локально измененных файлы будут созданы резервные копии. По окончании обновления необходимо разрешить возможные конфликты."
+msgctxt "Languages::text_uc_changed_files_message"
+msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
+msgstr ""
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11606,7 +11598,7 @@ msgstr "Скрыть/показать редактор тем"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Название стиля не может содержать следующие символы: \"/ # % ? * : ; { } \""
+msgstr ""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12125,9 +12117,9 @@ msgctxt "Languages::true"
 msgid "True"
 msgstr "Истина"
 
-msgctxt "Languages::ttc_delivery_time"
-msgid "Arbitrary text to be shown along with the shipping method title."
-msgstr "Текст рядом с названием способа доставки."
+msgctxt "Languages::tt_views_shippings_update_delivery_time"
+msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
+msgstr ""
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12877,6 +12869,10 @@ msgctxt "Languages::vendor_id"
 msgid "Store ID"
 msgstr "ID магазина"
 
+msgctxt "Languages::vendor_name_field"
+msgid "Vendor name"
+msgstr ""
+
 msgctxt "Languages::vendor_name"
 msgid "Store name"
 msgstr "Название магазина"
@@ -13571,7 +13567,7 @@ msgstr "Схема с таким именем уже существует. По�
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr "Название стиля не может содержать следующие символы: \"/ # % ? * : ; { } \""
+msgstr ""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13760,10 +13756,6 @@ msgstr "Безопасное соединение для витрины"
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
 msgstr "Сохранять безопасное соединение после первого посещения защищенной страницы"
-
-msgctxt "SettingsOptions::header_7006"
-msgid "Shipping processors"
-msgstr "Службы доставки"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -15042,12 +15034,12 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT+01:00) Западная Африка"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
-msgstr "(GMT+02:00) Афины, Бейрут, Стамбул, Минск"
+msgid "(GMT+02:00) Athens, Beirut, Istanbul"
+msgstr ""
 
-msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr "(GMT+02:00) Бухарест"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15076,6 +15068,10 @@ msgstr "(GMT+03:00) Кувейт, Эр-Рияд"
 msgctxt "SettingsVariants::timezone::Europe/Moscow"
 msgid "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 msgstr "(GMT+03:00) Москва, Санкт Петербург, Волгоград"
+
+msgctxt "SettingsVariants::timezone::Europe/Minsk"
+msgid "(GMT+03:00) Minsk"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15778,9 +15774,9 @@ msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
 msgstr "Произошла ошибка во время обновления структуры базы данных (применяем миграцию [migration])."
 
-msgctxt "Languages::notice_entered_html_was_sanitized"
-msgid "This website has restrictions on inserting HTML code. Some HTML tags like &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code are cut off."
-msgstr "Этот сайт ограничивает вставку HTML-кода. Некоторые теги HTML, такие как &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript, вырезаются."
+msgctxt "Languages::text_entered_html_was_sanitized"
+msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
+msgstr ""
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -16024,5 +16020,21 @@ msgstr ""
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
+msgstr ""
+
+msgctxt "Languages::local_modifications"
+msgid "Local modifications"
+msgstr ""
+
+msgctxt "Languages::local_modifications_message"
+msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
+msgstr ""
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr ""
+
+msgctxt "Languages::checked"
+msgid "Checked"
 msgstr ""
 

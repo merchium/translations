@@ -177,8 +177,16 @@ msgid "Sort by alphabetical: Z to A"
 msgstr "Sort by alphabetical: Z to A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
-msgid "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
-msgstr "Your profile has been changed and once the changes are approved, the information about your company will appear in the storefront."
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "Your vendor status has been changed from Active to Pending."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "Your vendor status has been changed from Disabled to Pending."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -276,10 +284,6 @@ msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
 msgstr "New vendor account application"
 
-msgctxt "Languages::vendor_commission"
-msgid "Vendor commission"
-msgstr "Vendor commission"
-
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
 msgstr "Vendor ID"
@@ -328,25 +332,9 @@ msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 msgstr "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
 
-msgctxt "SettingsOptions::include_shipping"
-msgid "Include shipping cost in vendors commission"
-msgstr "Include shipping cost in vendors commission"
-
-msgctxt "SettingsOptions::include_payment_surcharge"
-msgid "Take payment surcharge from vendors"
-msgstr "Take payment surcharge from vendors"
-
-msgctxt "SettingsOptions::commissions_header"
-msgid "Commissions"
-msgstr "Commissions"
-
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
 msgstr "Display product vendor"
-
-msgctxt "SettingsTooltips::include_payment_surcharge"
-msgid "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
-msgstr "If enabled a customers will not be able see payment surcharge and it will not be applied to order total"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
