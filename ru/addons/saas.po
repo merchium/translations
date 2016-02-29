@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/saas.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-29 01:56-0500\n"
+"PO-Revision-Date: 2016-02-29 05:55-0500\n"
 
 msgctxt "Addons::name::saas"
 msgid "SaaS mode"
@@ -393,18 +393,6 @@ msgctxt "Languages::saas.subscription_account"
 msgid "Subscription account"
 msgstr "Управление подпиской"
 
-msgctxt "Languages::saas.select_pay_mode"
-msgid "Select mode of payment"
-msgstr "Выберите режим оплаты"
-
-msgctxt "Languages::saas.pay_mode_automatically"
-msgid "Automatically"
-msgstr "Автоматически"
-
-msgctxt "Languages::saas.pay_mode_manually"
-msgid "Manually via invoices"
-msgstr "Вручную через инвойсы"
-
 msgctxt "Languages::saas.error_plan_products"
 msgid "Your current plan allows to create up to [n] product. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] products. To continue, please <a href=\"[href]\">upgrade</a> it."
 msgstr "Ваш текущий план не позволяет создать больше [n] продукта. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план.|Ваш текущий план не позволяет создать больше [n] продуктов. Чтобы продолжить, перейдите на <a href=\"[href]\">новый</a> план."
@@ -670,7 +658,7 @@ msgid "Company name"
 msgstr "Название компании"
 
 msgctxt "Languages::sw.site_admin_email"
-msgid "Store administrator\\'s email"
+msgid "Store administrator's email"
 msgstr "Email администратора магазина"
 
 msgctxt "Languages::sw.address_text"
@@ -995,5 +983,65 @@ msgstr "Спасибо, что прошли по ссылке! Теперь мы
 
 msgctxt "Languages::saas.styles_num"
 msgid "[n] style|[n] styles"
-msgstr ""
+msgstr "[n] стиль|[n] стиля|[n] стилей"
+
+msgctxt "Languages::saas.transaction_item_name"
+msgid "Name"
+msgstr "Название"
+
+msgctxt "Languages::saas.transaction_month"
+msgid "[n] month|[n] months"
+msgstr "[n] месяц|[n] месяца|[n] месяцев"
+
+msgctxt "Languages::saas.transaction_day"
+msgid "[n] day|[n] days"
+msgstr "[n] день|[n] дня|[n] дней"
+
+msgctxt "Languages::saas.transaction_plan"
+msgid "\"[item_name]\" plan, [period]"
+msgstr "план \"[item_name]\", [period]"
+
+msgctxt "Languages::saas.transaction_plan_no_period"
+msgid "\"[item_name]\" plan"
+msgstr "план \"[item_name]\""
+
+msgctxt "Languages::saas.transaction_app"
+msgid "\"[item_name]\" app, [period]"
+msgstr "приложение \"[item_name]\", [period]"
+
+msgctxt "Languages::saas.transaction_app_no_period"
+msgid "\"[item_name]\" app"
+msgstr "приложение \"[item_name]\""
+
+msgctxt "Languages::saas.transaction_theme"
+msgid "\"[item_name]\" theme, [period]"
+msgstr "тема \"[item_name]\", [period]"
+
+msgctxt "Languages::saas.transaction_theme_no_period"
+msgid "\"[item_name]\" theme"
+msgstr "тема \"[item_name]\""
+
+msgctxt "Languages::saas.status_new"
+msgid "New"
+msgstr "Новый"
+
+msgctxt "Languages::saas.status_accepted"
+msgid "Completed"
+msgstr "Завершен"
+
+msgctxt "Languages::saas.status_declined"
+msgid "Failed"
+msgstr "Неудачный"
+
+msgctxt "Languages::saas.billing"
+msgid "Billing"
+msgstr "Счета"
+
+msgctxt "Languages::saas.pay"
+msgid "Pay"
+msgstr "Оплатить"
+
+msgctxt "Languages::saas.new_transaction"
+msgid "New payment"
+msgstr "Новый платеж"
 
