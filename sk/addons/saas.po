@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: tygh1"
+msgstr "Project-Id-Version: tygh"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -379,18 +379,6 @@ msgstr "Other"
 msgctxt "Languages::saas.subscription_account"
 msgid "Subscription account"
 msgstr "Subscription account"
-
-msgctxt "Languages::saas.select_pay_mode"
-msgid "Select mode of payment"
-msgstr "Select mode of payment"
-
-msgctxt "Languages::saas.pay_mode_automatically"
-msgid "Automatically"
-msgstr "Automatically"
-
-msgctxt "Languages::saas.pay_mode_manually"
-msgid "Manually via invoices"
-msgstr "Manually via invoices"
 
 msgctxt "Languages::saas.error_plan_products"
 msgid "Your current plan allows to create up to [n] product. To continue, please <a href=\"[href]\">upgrade</a> it.|Your current plan allows you to create up to [n] products. To continue, please <a href=\"[href]\">upgrade</a> it."
@@ -983,3 +971,63 @@ msgstr "Thanks for confirming your store is still alive!"
 msgctxt "Languages::saas.styles_num"
 msgid "[n] style|[n] styles"
 msgstr "[n] style|[n] styles"
+
+msgctxt "Languages::saas.transaction_item_name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::saas.transaction_month"
+msgid "[n] month|[n] months"
+msgstr "[n] month|[n] months"
+
+msgctxt "Languages::saas.transaction_day"
+msgid "[n] day|[n] days"
+msgstr "[n] day|[n] days"
+
+msgctxt "Languages::saas.transaction_plan"
+msgid "\"[item_name]\" plan, [period]"
+msgstr "\"[item_name]\" plan, [period]"
+
+msgctxt "Languages::saas.transaction_plan_no_period"
+msgid "\"[item_name]\" plan"
+msgstr "\"[item_name]\" plan"
+
+msgctxt "Languages::saas.transaction_app"
+msgid "\"[item_name]\" app, [period]"
+msgstr "\"[item_name]\" app, [period]"
+
+msgctxt "Languages::saas.transaction_app_no_period"
+msgid "\"[item_name]\" app"
+msgstr "\"[item_name]\" app"
+
+msgctxt "Languages::saas.transaction_theme"
+msgid "\"[item_name]\" theme, [period]"
+msgstr "\"[item_name]\" theme, [period]"
+
+msgctxt "Languages::saas.transaction_theme_no_period"
+msgid "\"[item_name]\" theme"
+msgstr "\"[item_name]\" theme"
+
+msgctxt "Languages::saas.status_new"
+msgid "New"
+msgstr "New"
+
+msgctxt "Languages::saas.status_accepted"
+msgid "Completed"
+msgstr "Completed"
+
+msgctxt "Languages::saas.status_declined"
+msgid "Failed"
+msgstr "Failed"
+
+msgctxt "Languages::saas.billing"
+msgid "Billing"
+msgstr "Billing"
+
+msgctxt "Languages::saas.pay"
+msgid "Pay"
+msgstr "Pay"
+
+msgctxt "Languages::saas.new_transaction"
+msgid "New payment"
+msgstr "New payment"
