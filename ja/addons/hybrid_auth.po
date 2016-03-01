@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/hybrid_auth.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-12-30 03:57-0500\n"
+"PO-Revision-Date: 2016-02-29 14:57-0500\n"
 
 msgctxt "Addons::name::hybrid_auth"
 msgid "Social login"
@@ -118,15 +118,15 @@ msgstr "パスワードはこちらから変更いただけます"
 
 msgctxt "Languages::hybrid_auth.link_provider"
 msgid "Social network accounts"
-msgstr ""
+msgstr "SNSアカウント"
 
 msgctxt "Languages::hybrid_auth.text_link_provider"
 msgid "Assign your social network account to this one and use it to log in"
-msgstr ""
+msgstr "指定したSNSサービスの会員情報を利用したログインが可能になります。"
 
 msgctxt "Languages::hybrid_auth.text_user_is_already_link"
 msgid "This social network account is already being used"
-msgstr ""
+msgstr "指定したSNSサービスのアカウントはすでに他の会員情報に関連づけられています"
 
 msgctxt "Languages::hybrid_auth.connect_social"
 msgid "Connect social account"
@@ -134,11 +134,11 @@ msgstr "SNSサービスと会員アカウントの関連付け"
 
 msgctxt "Languages::hybrid_auth.connect_social_title"
 msgid "Such user already exists"
-msgstr ""
+msgstr "既存の会員アカウントとの関連付けが必要です"
 
 msgctxt "Languages::hybrid_auth.text_connect_social"
 msgid "<p>The user with the e-mail specified during social login already exists.</p><p>If you want to assign a social network account to the registered user, please log in.</p>"
-msgstr ""
+msgstr "<p>ご指定のSNSサービスで利用しているEメールアドレスですでに会員登録が行われています。</p><p>SNSサービスを利用して既存の会員アカウントへのログインを可能するにはEメールアドレスとパスワードを入力して会員アカウントとSNSサービスの関連付けを行ってください。</p><p>※ この関連付け作業は次回からは発生しません。</p>"
 
 msgctxt "Languages::hybrid_auth.specify_email"
 msgid "Specify email"
@@ -146,11 +146,11 @@ msgstr "Eメールアドレスの登録"
 
 msgctxt "Languages::hybrid_auth.specify_email_title"
 msgid "The e-mail was not specified."
-msgstr ""
+msgstr "Eメールアドレスの登録が必要です。"
 
 msgctxt "Languages::hybrid_auth.text_specify_email"
 msgid "<p>When logging through the social network the e-mail was not specified.</p><p>Please enter your e-mail and click Continue.</p>"
-msgstr ""
+msgstr "<p>SNSサービスを利用したログインの際にEメールアドレスを取得できませんでした。</p><p>Eメールアドレスを入力して「続ける」ボタンをクリックしてください。</p>"
 
 msgctxt "Languages::hybrid_auth_menu_description"
 msgid "Create social provider"
@@ -178,33 +178,33 @@ msgstr "SNSプロバイダの閲覧"
 
 msgctxt "Languages::hybrid_auth.instruction_facebook"
 msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developers.facebook.com/apps' target='_blank'>Facebook Developers</a>."
-msgstr ""
+msgstr "<a href='https://developers.facebook.com/apps' target='_blank'>Facebook Developers</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_google"
 msgid "Use ID and Secret key that you've received after creating a project on <a href='https://code.google.com/apis/console/?pli=1' target='_blank'>Google</a>."
-msgstr ""
+msgstr "<a href='https://code.google.com/apis/console/?pli=1' target='_blank'>Google</a> でプロジェクト作成後に発行されるIDとシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_paypal"
 msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a>."
-msgstr ""
+msgstr "<a href='https://developer.paypal.com/developer/applications' target='_blank'>PayPal Developers</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_twitter"
 msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://apps.twitter.com/' target='_blank'>Twitter</a>."
-msgstr ""
+msgstr "<a href='https://apps.twitter.com/' target='_blank'>Twitter</a> でアプリ作成後に発行されるID（カスタマーキー）とシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_yahoo"
 msgid "Use ID (Identificator) and Secret key that you've received after creating an application on <a href='https://developer.apps.yahoo.com/dashboard/createKey.html' target='_blank'>Yahoo</a>."
-msgstr ""
+msgstr "<a href='https://developer.apps.yahoo.com/dashboard/createKey.html' target='_blank'>Yahoo</a> でアプリ作成後に発行されるIDとシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_live"
 msgid "Use the application ID and Secret key that you've received after adding an application on <a href='https://account.live.com/developers/applications/create' target='_blank'>Live</a>."
-msgstr ""
+msgstr "<a href='https://account.live.com/developers/applications/create' target='_blank'>Live</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_linkedin"
 msgid "Use ID (Consumer key) and Secret key that you've received after creating an application on <a href='https://www.linkedin.com/developer/apps' target='_blank'>LinkedIn Developers</a>."
-msgstr ""
+msgstr "<a href='https://www.linkedin.com/developer/apps' target='_blank'>LinkedIn Developers</a> でアプリ作成後に発行されるID（カスタマーキー）とシークレットキーを登録してください。"
 
 msgctxt "Languages::hybrid_auth.instruction_foursquare"
 msgid "Use the application ID and Secret key that you've received after creating an application on <a href='https://foursquare.com/developers/apps' target='_blank'>Fousquare</a>."
-msgstr ""
+msgstr "<a href='https://foursquare.com/developers/apps' target='_blank'>Fousquare</a> でアプリ作成後に発行されるアプリケーションIDとシークレットキーを登録してください。"
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-25 09:57-0500\n"
+"PO-Revision-Date: 2016-02-29 14:57-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -490,7 +490,7 @@ msgstr "カートに追加"
 
 msgctxt "Languages::add_to_comparison_list"
 msgid "Add to comparison list"
-msgstr ""
+msgstr "比較リストに追加"
 
 msgctxt "Languages::add_user"
 msgid "Add user"
@@ -1266,11 +1266,11 @@ msgstr "商品フィルタオプション"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr ""
+msgstr "トップページ用商品フィルタ"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr ""
+msgstr "トップページに表示する商品フィルタのオプション"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1378,7 +1378,7 @@ msgstr "アップロードしたPOパッケージの構成が正しくないた�
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr ""
+msgstr "各言語向けPOファイルを格納する <b>\"[pack_path]\"</b> 内のファイル構成が正しくありません。"
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -2062,11 +2062,11 @@ msgstr "比較"
 
 msgctxt "Languages::product_comparison_list"
 msgid "Comparison list"
-msgstr ""
+msgstr "比較リスト"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr ""
+msgstr "商品比較リストに移動"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -2154,7 +2154,7 @@ msgstr "このブロックは以下についてデフォルト設定とは異な
 
 msgctxt "Languages::pages_menu_description"
 msgid "Create and publish pages, polls, forms and links."
-msgstr ""
+msgstr "ページ・アンケート・フォームおよびリンクの管理を行います。"
 
 msgctxt "Languages::continue"
 msgid "Continue"
@@ -3226,7 +3226,7 @@ msgstr "インポート前に既存の商品ファイルを削除"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr ""
+msgstr "バックアップファイルをアップロードできません。\"var/backups\" ディレクトリのパーミッションを確認してください。"
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3682,7 +3682,7 @@ msgstr "次のフィールドは必須フィールドのためレイアウトか
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr ""
+msgstr "データはエクスポートされませんでした。誤ったエクスポート範囲の指定が原因の可能性があります。 <a class=\"cm-post\" href=\"[url]\">エクスポート範囲をクリア</a>して再度エクスポートしてください。"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3846,7 +3846,7 @@ msgstr "入力したセキュリティコードが短すぎます"
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr ""
+msgstr "管理者用Eメールアドレスやパスワードをショップフロントから変更することはできません。顧客用アカウントでログインしてください。"
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -6458,7 +6458,7 @@ msgstr "パッケージ"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "パッケージ内容を表示"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -7362,7 +7362,7 @@ msgstr "商品がカートに追加されました"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr ""
+msgstr "商品が比較リストに追加されました"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "この商品はすでにカートに入っています。"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr ""
+msgstr "この商品はすでに比較リストに登録されています"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -10530,39 +10530,39 @@ msgstr "<b>[mime]</b> MIMEタイプのファイルに関する 作成/アップ�
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>現在、[product] をフリーモードでご利用いただいています。フリーモードは無料でお使いいただけますが、一部機能に制限があります。この機能を利用するには、[product] のライセンスを購入いただく必要があります。</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr ""
+msgstr "<p>現在、[product] をフリーモードでご利用いただいています。フリーモードは無料でお使いいただけますが、一部機能に制限があります。<br> この機能を利用するには、[product] のライセンスを購入いただく必要があります。</p><p>ライセンスを購入すると、以下のような機能を利用できます :</p>"
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "キャンペーン機能の拡張 : カテゴリー・商品単位でのキャンペーンだけでなく、カート単位でのキャンペーンを設定できます"
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "複数ショップ管理 : 1つの管理画面で複数のショップを管理できます"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "ユーザーグループ : お客様をグルーピングし、各グループ単位でのキャンペーンや、特定のグループのみアクセスできる商品などを設定できます"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "複数の言語および通貨を設定できます"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "30以上のフルモード専用アドオンを利用できます"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "テクニカルサポートを受けることができます"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr ""
+msgstr "ライセンスの購入"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10582,7 +10582,7 @@ msgstr "フルモードを有効化してください"
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr ""
+msgstr "[product] のライセンス番号が必要です"
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -11158,7 +11158,7 @@ msgstr "インストールから30日間無料でCS-Cartのすべての機能を
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr ""
+msgstr "インストールから30日間はCS-Cartのすべての機能を無料でお試しいただけます。ライセンスキーの登録は不要です。<br /><br />30日間経過後はライセンスを購入の上、管理画面から登録いただく必要があります。<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11274,7 +11274,7 @@ msgstr "ファイルのFTP転送に失敗しました"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr ""
+msgstr "指定されたディレクトリにCS-Cartが見つかりませんでした。正しいディレクトリが指定されているかご確認ください。"
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11598,7 +11598,7 @@ msgstr "テーマエディターパネルの 表示/非表示"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "スタイル名に以下の文字を含めることはできません: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12098,19 +12098,19 @@ msgstr "お使いのCS-Cartは現在トライアルモードです。<br /><br /
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr ""
+msgstr "お使いの [product] の試用期間は終了しました。"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr ""
+msgstr "[product] を引き続き利用するにはライセンスキーを登録してください"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr ""
+msgstr "ライセンスキーをお持ち出ない場合は、CS-Cartストアにて購入いただけます。<br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
-msgstr ""
+msgstr "ライセンスを購入"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12502,7 +12502,7 @@ msgstr "アップグレード"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "すべてのファイルおよびディレクトリのパーミッションが正しく設定されました。"
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -12530,39 +12530,39 @@ msgstr "お客様の[product]ライセンスではアップグレードできま
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr ""
+msgstr "アップグレードは複雑な処理を伴うため、予期できない理由により失敗することがあります。<br> より安全にアップグレードを行うためのポイントをご参照ください:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr ""
+msgstr "自社によるアップグレード作業がご不安な方向けに、<a href=\"[upgrade_center_specialist]\" target=\"_blank\">アップグレード代行サービス</a> もご用意しています。"
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr ""
+msgstr "アップグレード処理では標準搭載されていないアドオンの更新は行われません。アップグレード前に一旦すべての外部アドオンを無効化することをおすすめします。"
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr ""
+msgstr "スムーズにアップグレードを行うために、まずはテスト環境でアップグレードをお試しください。"
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr ""
+msgstr "アップグレード後は、商品登録や注文など、ショップの基本的な処理が正しく動作するか必ずご確認ください。"
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr ""
+msgstr "アップグレードに失敗する理由の大半が、お使いのサーバーの設定に起因するタイムアウトです。事前にPHPスクリプトのタイムアウトに関する設定を確認してください。"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr ""
+msgstr "お使いのサーバーでCS-Cartのアップグレードを行うことはおすすめできません。"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr ""
+msgstr "お使いのサーバーにおけるPHPスクリプトのタイムアウト設定が不適切です。 こちらはPHPの <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> パラメータまたは FastCGIの \"Timeout\" オプションに起因するものです。 この問題の解決のため、レンタルサーバー運営会社にお問い合わせいただくか、弊社までお問い合わせいただくことをおすすめいたします。"
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr ""
+msgstr "<p class=\"text-error\">テスト用PHPスクリプトを実行しています。このスクリプトは約6分間実行され、終了後にお使いのサーバーにおいてPHPスクリプトのタイムアウトが正しく設定されているかをお知らせします。</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12926,7 +12926,7 @@ msgstr "カテゴリーを見る"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr ""
+msgstr "比較リスト"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13346,7 +13346,7 @@ msgstr "開発"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr ""
+msgstr "POファイル  <b>\"[file]\"</b>  にシンタックスエラーまたは構成の不備があります。"
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13538,7 +13538,7 @@ msgstr "SNSをチェック"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
-msgstr ""
+msgstr "誤った検索結果が生成されるのを回避するため、Searchaniseアドオンはアップグレード中に自動で無効化されました。お手数ですが <a href=\"[url]\">アドオン</a> ページより手動で有効化してください。"
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
@@ -13566,7 +13566,7 @@ msgstr "同じ名称のプリセットがすでに存在します。他の名称
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "以下の文字はプリセットの名称に使用できません : \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13602,7 +13602,7 @@ msgstr "[field]フィールドを指定してください"
 
 msgctxt "Languages::update_translation"
 msgid "Update translations"
-msgstr ""
+msgstr "言語変数を更新"
 
 msgctxt "Languages::po_meta_error_validating_lang_code"
 msgid "Language code in the PO file does not match that of the updated language"
@@ -13618,7 +13618,7 @@ msgstr "ZipArchiveクラスが見つかりません。詳しくは <a href=\"htt
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr ""
+msgstr "\"Zip\" PHPエクステンションがインストールされていません。 ZIPアーカイブを生成するためには、\"Zip\" PHPエクステンションをインストールする必要があります。"
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13926,7 +13926,7 @@ msgstr "月"
 
 msgctxt "SettingsOptions::mailer_smtp_username"
 msgid "SMTP username"
-msgstr "SMTP認証を行う"
+msgstr "SMTPユーザー名"
 
 msgctxt "SettingsOptions::min_font_size"
 msgid "Minimum font size"
@@ -14430,7 +14430,7 @@ msgstr "ゲスト購入完了後に会員登録を可能にする"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
-msgstr "数量割引の適用時に商品オプションの内容を考慮しない"
+msgstr "1つの商品を異なるオプションの組み合わせでカートに複数追加した場合に、オプションの違いは考慮せず数量割引を適用する"
 
 msgctxt "SettingsOptions::header_8057"
 msgid "Proxy server for outgoing connections"
@@ -14498,7 +14498,7 @@ msgstr "デジタルコンテンツのダウンロード販売を行う"
 
 msgctxt "SettingsOptions::enable_compare_products"
 msgid "Allow customers to compare products"
-msgstr ""
+msgstr "お客様による商品の比較を許可する"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -15675,7 +15675,7 @@ msgstr "独自の改変がアップグレード中に削除される場合があ
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr "Will be changed"
+msgstr "変更されます"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
@@ -15703,7 +15703,7 @@ msgstr "言語のインストール"
 
 msgctxt "Languages::uc_upgrade_progress"
 msgid "Upgrade progress"
-msgstr "アップグレーの進捗状況"
+msgstr "アップグレードの進捗状況"
 
 msgctxt "Languages::upload_upgrade_package"
 msgid "Upload upgrade package"
@@ -15739,7 +15739,7 @@ msgstr "ファイル <b>[file]</b> に書き込みできません。手動で書
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr ""
+msgstr "<p>アップグレードに際してショップのデータベースおよびファイルがバックアップされました。バックアップファイルにはデータベース全体と画像以外のファイルが含まれ、サーバー上の [backup_file] に保存されています。</p><p>また、アップグレード時にはショップは一時クローズ状態となります。ショップが正しく動作していることを確認した上で<a href=\"[settings_section]\">再オープンしてください。</a></p><p>アップグレードに失敗した場合には、<strong>一般設定 → バックアップ/リストア</strong> からリストアしてください。</p><p>管理画面にアクセスできない場合は以下のリンクにアクセスしてリストアしてください。<b>重要 :</b> このリンクをクリックすると直ちにリストアが開始されます。管理画面にログインできない場合に限りご利用ください。 最新のバックアップからリストア:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15747,31 +15747,31 @@ msgstr "商品の追加情報の変数が多すぎるため、商品の追加情
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr ""
+msgstr "アップグレード日時"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr ""
+msgstr "右記のファイルのサムネイル生成に失敗しました : \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr ""
+msgstr "当ショップで快適にお買い物いただくために、<a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">クッキーを有効化してください。</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr ""
+msgstr "[CS-Cartアップグレード] ショップのバックアップが完了し、一時的にクローズされました。"
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr ""
+msgstr "価格が設定されていないため、 <b>\"[product]\"</b> はカートに追加されませんでした。"
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr ""
+msgstr "出品者は商品追加情報を新規登録することはできません。また、いくつかの商品追加情報については編集も許可されていません。"
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr ""
+msgstr "データベース構造のアップデート中にエラーが発生しました。 ([migration] を適用中)"
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
@@ -15779,39 +15779,39 @@ msgstr ""
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr ""
+msgstr "アップグレード中にエラーが発生しました。お手数ですがテクニカルサポートにお問い合わせください。"
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr ""
+msgstr "バックアップを作成できません。"
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr ""
+msgstr "残り [n] 秒|残り [n] 秒"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr ""
+msgstr "お使いのサーバーではPHPスクリプトにて \"max_execution_time\" の設定値を変更できるようです。CS-Cartのアップグレードを実施いただけます。"
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr ""
+msgstr "PHPスクリプトのタイムアウトをチェック"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr ""
+msgstr "同意して続ける"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr ""
+msgstr "リストア用スクリプトを準備できません。"
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr ""
+msgstr "【注意】 お使いのWebブラウザーでは <b>JavaScript</b> が無効化されています。注文するには次のボタンをクリックしてください : "
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "注文手続きに移動"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
@@ -15827,19 +15827,19 @@ msgstr ""
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "無料配送に使用"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "「無料配送に使用」がチェックされた配送方法においては、配送無料商品は送料計算の対象から除外されます。"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "配送無料商品を送料計算の対象から除外"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr ""
+msgstr "<p><b>配送無料</b> の商品が存在します。旧バージョンの [product] ではこれらの商品を購入する際に配送方法を選択する必要はありませんでしたが、本バージョンでは「無料配送に使用」が有効化された"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"

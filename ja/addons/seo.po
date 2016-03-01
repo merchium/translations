@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/seo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-12-30 03:57-0500\n"
+"PO-Revision-Date: 2016-02-29 14:57-0500\n"
 
 msgctxt "Addons::name::seo"
 msgid "SEO"
@@ -82,7 +82,7 @@ msgstr "新URL"
 
 msgctxt "Languages::seo.new_redirect"
 msgid "New Redirect"
-msgstr "ダイレクトの追加"
+msgstr "リダイレクトの追加"
 
 msgctxt "Languages::seo.error_old_url_exists"
 msgid "The URL you're redirecting from is already exist"
@@ -146,7 +146,7 @@ msgstr "マルチバイト文字のURLに対応する"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
 msgid "/product-name/"
-msgstr ""
+msgstr "/商品名/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_file"
 msgid "/product-name.html"
@@ -154,7 +154,7 @@ msgstr "/商品名.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
 msgid "/category-name/[subcategory-name/]product-name/"
-msgstr ""
+msgstr "/カテゴリー名/[サブカテゴリー名/]商品名/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category"
 msgid "/category-name/[subcategory-name/]product-name.html"
@@ -162,15 +162,15 @@ msgstr "/カテゴリー名/[サブカテゴリー名/]商品名.html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
 msgid "/parent-category/category/[page-2/]"
-msgstr ""
+msgstr "/親カテゴリー/カテゴリー/[ページ-2/]"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category"
 msgid "/parent-category/category-[page-2].html"
-msgstr ""
+msgstr "/親カテゴリー/カテゴリー/[ページ-2/].html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::root_category"
 msgid "/category/[page-2/]"
-msgstr ""
+msgstr "/カテゴリー/[ページ-2/]"
 
 msgctxt "SettingsVariants::seo::seo_page_type::page"
 msgid "/parent-page/page.html"
@@ -186,11 +186,11 @@ msgstr "/ページ/"
 
 msgctxt "SettingsVariants::seo::seo_other_type::directory"
 msgid "/item/"
-msgstr ""
+msgstr "/アイテム/"
 
 msgctxt "SettingsVariants::seo::seo_category_type::file"
 msgid "/category[-page-2].html"
-msgstr ""
+msgstr "/カテゴリー[-ページ-2].html"
 
 msgctxt "SettingsVariants::seo::seo_page_type::file"
 msgid "/page.html"
