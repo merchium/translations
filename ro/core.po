@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-29 14:55-0500\n"
+"PO-Revision-Date: 2016-03-01 10:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3682,7 +3682,7 @@ msgstr "Urmatoarele campuri sunt obligatorii si nu pot fi sterse din cofiguratie
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr ""
+msgstr "Nu există date exportate. Selecția greșită pentru export probabil cauzează această problemă. <a class=\"cm-post\" href=\"[url]\">Șterge selecția </a>, apoi încearcă din nou"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3846,7 +3846,7 @@ msgstr "CVV/CVC este prea scurt."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr ""
+msgstr "Este interzis schimbarea adresei de email sau parola administratorului din zona de client. Te rugăm să te conectezi utilizând un cont de client."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -6458,7 +6458,7 @@ msgstr "Pachete"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Arată conținutul coletului"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -7026,7 +7026,7 @@ msgstr "Creati o comanda"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr ""
+msgstr "Backup/Restaurare"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7362,7 +7362,7 @@ msgstr "Produs adaugat in cos"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr ""
+msgstr "Produsul a fost adăugat în lista ta de comparație"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
@@ -7426,7 +7426,7 @@ msgstr "Acest produs e deja adaugat in cos"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr ""
+msgstr "Acest produs este deja în lista de comparație"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
@@ -8798,7 +8798,7 @@ msgstr "Lungime colet (inch)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "ID site"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -9122,11 +9122,11 @@ msgstr "Fara semnatura"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr ""
+msgstr "Semnătura este necesară"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr ""
+msgstr "Semnătura unui adult este necesară"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
@@ -9134,7 +9134,7 @@ msgstr "Foloseste confirmarea Livrarii"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr ""
+msgstr "Tip confirmare"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -10170,7 +10170,7 @@ msgstr "Institutia dvs financiara a indicat faptul ca nu s-a putut face autentif
 
 msgctxt "Languages::text_backup_filename_hint"
 msgid "To download this backup, click the gear icon and select Download"
-msgstr ""
+msgstr "Pentru a descărca acest backup, click pe pictograma cu rotiță și alege Descarcă"
 
 msgctxt "Languages::text_backup_management_notice"
 msgid "This section allows you to manage your backup files.<br />- To restore the database, select the check box near the appropriate file name and click on Restore.<br />- To delete files, select the check boxes near the files that need to be deleted and click on Delete.<br />- To download a file to your local computer, click on the file name."
@@ -10530,7 +10530,7 @@ msgstr "Nu este permisa crearea/incarcarea/redenumirea de fisierelor <b>[mime]</
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>Utilizezi [product] în Modul Free. În Modul Free nu este nevoie de o licență și are o funcționalitate limitată. Pentru a utiliza această funcție, ai nevoie de o licență [product]</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
