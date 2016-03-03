@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:57-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -22,7 +22,7 @@ msgstr "Lehetővé teszi a fizetést PayPal Express Checkout, PayPal Pro, PayPal
 
 msgctxt "SettingsOptions::paypal::override_customer_info"
 msgid "Override customer info"
-msgstr "Ügyféladatok felülbírálása"
+msgstr "Ügyféladatok felülírása"
 
 msgctxt "SettingsOptions::paypal::test_mode"
 msgid "Test mode"
@@ -38,11 +38,11 @@ msgstr "Védelem alkalmazhatósága"
 
 msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
 msgid "Instant payment notification settings"
-msgstr "Azonnali fizetés értesítési beállításai"
+msgstr "Azonnali fizetés értesítés (IPN) beállításai"
 
 msgctxt "SettingsOptions::paypal::paypal_status_map"
 msgid "PayPal order status conversion map"
-msgstr "PayPal rendelés állapotának szinkronizálása"
+msgstr "PayPal státusztérkép"
 
 msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
 msgid "PayPal logo settings"
@@ -78,7 +78,7 @@ msgstr "A fizetéséhez használt pénznem eltér a megrendelés pénznemétől.
 
 msgctxt "Languages::pp_total_is_incorrect"
 msgid "Payment total is different than the order total."
-msgstr "Az összesen fizetendő összeg eltér a megrendelés összegétől."
+msgstr "A rendelés végösszege eltér a fizetési mód által megkapott végösszegtől."
 
 msgctxt "Languages::pp_mode"
 msgid "Paypal mode"
@@ -86,15 +86,15 @@ msgstr "PayPal mód"
 
 msgctxt "Languages::paypal_vendor"
 msgid "Vendor"
-msgstr ""
+msgstr "Eladó"
 
 msgctxt "Languages::paypal_use_in_context_checkout"
 msgid "Use In-Context Checkout"
-msgstr ""
+msgstr "In-Context Checkout használata"
 
 msgctxt "Languages::ttc_paypal_use_in_context_checkout"
 msgid "In-Context Checkout will not be used when the store is running in Widget mode"
-msgstr ""
+msgstr "Az \"In-Context Checkout\" nem használható akkor, ha az áruház widget módban fut"
 
 msgctxt "Languages::paypal_express_notice"
 msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
@@ -102,9 +102,9 @@ msgstr ""
 
 msgctxt "Languages::paypal_ipn_note"
 msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
-msgstr ""
+msgstr "Az Azonnali Fizetési Értesítések (IPN) szolgáltatás automatikusan tájékoztat minden PayPal-hoz kapcsolódó tranzakció-eseményről.<br>Amikor a vevő PayPal segítségével fizet ki egy rendelést, az automatikusan <b>Nyitott</b> státuszt kap.<br>A PayPal rendezere ezután IPN üzeneteket küld, amely tartalmazza a tranzakció státuszát. Így a rendelés státusza automatikusan megváltozik a PayPal státusztérképnek megfelelően."
 
 msgctxt "Languages::paypal_ipn_transaction_status"
 msgid "Transaction status"
-msgstr ""
+msgstr "Tranzakció állapota"
 

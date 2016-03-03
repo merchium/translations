@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/social_buttons.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-12-13 08:58-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -22,7 +22,7 @@ msgstr "Közösségi médiához (pl Twitter, Facebook, stb ...) kapcsolódó, to
 
 msgctxt "Languages::use_for_email_share"
 msgid "Send to friend form"
-msgstr "Küldés barátnak űrlap"
+msgstr "Küldés egy ismerősnek űrlap"
 
 msgctxt "Languages::facebook"
 msgid "Facebook"
@@ -242,7 +242,7 @@ msgstr "Adjon meg bármilyen Facebook alkalmazás azonosítót, különben a gom
 
 msgctxt "SettingsTooltips::social_buttons::facebook_href"
 msgid "Leave empty to use an actual page URL"
-msgstr "Hagyja üresen, ha a jelenlegi oldal URL-t akarja használni"
+msgstr "Hagyja üresen, ha az adott oldal URL-jét szeretné használni"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
 msgid "Enable to display profile photos below the button (standard layout only)"
@@ -690,19 +690,19 @@ msgstr "Érdekes"
 
 msgctxt "SettingsSections::social_buttons::gplus"
 msgid "Google plus"
-msgstr "Google plusz"
+msgstr "Google+"
 
 msgctxt "SettingsOptions::social_buttons::gplus_header"
 msgid "Google plus settings"
-msgstr "Google plusz beállítások"
+msgstr "Google+ beállítások"
 
 msgctxt "SettingsOptions::social_buttons::gplus_enable"
 msgid "Show Google plus button"
-msgstr "Google plusz nyomógomb megjelenítése"
+msgstr "Google+ gomb megjelenítése"
 
 msgctxt "SettingsOptions::social_buttons::gplus_href"
 msgid "Google plus href"
-msgstr "Google plusz href"
+msgstr "Google+ href"
 
 msgctxt "SettingsOptions::social_buttons::gplus_size"
 msgid "Size"
@@ -722,7 +722,7 @@ msgstr "Igazítás"
 
 msgctxt "SettingsOptions::social_buttons::gplus_expandto"
 msgid "Expand To"
-msgstr ""
+msgstr "Kibontás ide"
 
 msgctxt "SettingsOptions::social_buttons::gplus_recommendations"
 msgid "Recomendations"
@@ -750,7 +750,7 @@ msgstr "Közepes"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::standard"
 msgid "Standard"
-msgstr "Standard"
+msgstr "Hagyományos"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::tall"
 msgid "Tall"
@@ -766,7 +766,7 @@ msgstr "Buborék"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::inline"
 msgid "Inline"
-msgstr "Szövegközi"
+msgstr "Soron belüli"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::left"
 msgid "Left"

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:57-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -26,7 +26,7 @@ msgstr "Hozzon létre, és küldjön hírleveleket vevőinek."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
-msgstr "Sima"
+msgstr "Egyszerű"
 
 msgctxt "Languages::text_signup_for_subscriptions"
 msgid "Sign up for our newsletters!"
@@ -46,7 +46,7 @@ msgstr "Feliratkozók hozzáadása listából"
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "Az alábbi e-mail cím már a feliratkozottak között szerepel: <strong>[email]</strong>"
+msgstr "Az alábbi e-mail cím már a feliratkozottak között szerepel: <b>[email]</b>"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
@@ -154,7 +154,7 @@ msgstr "Nincs automatikus értesítés"
 
 msgctxt "Languages::show_on_checkout"
 msgid "Show at checkout"
-msgstr "Megjelenítés a pénztárban"
+msgstr "Megjelenítés a vásárlási folyamat során"
 
 msgctxt "Languages::show_on_registration"
 msgid "Show on registration"
@@ -202,7 +202,7 @@ msgstr "Automatikus értesítés hozzáadása"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
-msgstr "Random tárgyak (soronként egyet)"
+msgstr "Random tárgy (soronként egyet adjon meg)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
@@ -230,15 +230,15 @@ msgstr "Címzettek hozzáadása felhasználók listájából"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
-msgstr "Vásárlók elhagyott"
+msgstr "Vásárlók, akiknek van elhagyott"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
-msgstr "Kosárral vagy kívánságlistával"
+msgstr "Kosara vagy Kívánságlistája"
 
 msgctxt "Languages::which_is"
 msgid "which is"
-msgstr "ami"
+msgstr "amely"
 
 msgctxt "Languages::days_old"
 msgid "days old"
@@ -262,7 +262,7 @@ msgstr "Hírlevél sablon"
 
 msgctxt "Languages::newsletter_autoresponder"
 msgid "Newsletter autoresponder"
-msgstr "Automata értesítő hírlevél"
+msgstr "Automata értesítő levél"
 
 msgctxt "Languages::mailing_list"
 msgid "Mailing list"
@@ -330,7 +330,7 @@ msgstr "Új hírlevél lista"
 
 msgctxt "Languages::newsletters.new_subscribers"
 msgid "New subscribers"
-msgstr ""
+msgstr "Új feliratkozók"
 
 msgctxt "SettingsSections::newsletters::general"
 msgid "General"
@@ -382,7 +382,7 @@ msgstr "SSL"
 
 msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
 msgid "Use SMTP authentication"
-msgstr "SMTP autentikáció használata"
+msgstr "SMTP authentikáció használata"
 
 msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
 msgid "via SMTP server"

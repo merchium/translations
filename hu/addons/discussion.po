@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/discussion.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-17 05:57-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "Addons::name::discussion"
 msgid "Comments and reviews"
@@ -110,7 +110,7 @@ msgstr "Hozzászólások és értékelések"
 
 msgctxt "Languages::text_new_post_notification"
 msgid "This is a notification of a new post to"
-msgstr "Ez az értesítés egy új hozzászólásról. Téma:"
+msgstr "Ez egy értesítés új hozzászólásról. Téma:"
 
 msgctxt "Languages::text_approval_notice"
 msgid "This post needs approving"
@@ -210,7 +210,7 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::product_post_approval"
 msgid "Administrator must approve posts submitted by"
-msgstr "A rendszergazdának jóvá kell hagynia a következő hozzászólásait:"
+msgstr "Az adminisztrátornak jóvá kell hagynia a következő hozzászólásait:"
 
 msgctxt "SettingsOptions::discussion::product_post_ip_check"
 msgid "Only one post from one IP is allowed"
@@ -226,7 +226,7 @@ msgstr "Értesítés küldése a beszállító részére"
 
 msgctxt "SettingsOptions::discussion::product_share_discussion"
 msgid "Share discussion with product"
-msgstr "Ossza meg a véleményét a következő termékről:"
+msgstr "Ossza meg a véleményét a termékről"
 
 msgctxt "SettingsOptions::discussion::category_posts_per_page"
 msgid "Posts per page"
@@ -250,11 +250,11 @@ msgstr "Bejegyzések oldalanként"
 
 msgctxt "SettingsOptions::discussion::order_initiate"
 msgid "Allow customer to initiate discussion"
-msgstr "Vásárló hozzászólás kezdeményezésének engedélyezése"
+msgstr "A vásárló is indíthat kommunikációt"
 
 msgctxt "SettingsOptions::discussion::order_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Értesítés küldése a beszállító részére"
+msgstr "Értesítés küldése a eladó részére"
 
 msgctxt "SettingsOptions::discussion::giftreg_posts_per_page"
 msgid "Posts per page"
@@ -282,11 +282,11 @@ msgstr "Értesítések küldése e-mailben"
 
 msgctxt "SettingsOptions::discussion::page_notify_vendor"
 msgid "Send notifications to vendor"
-msgstr "Értesítés küldése a beszállító részére"
+msgstr "Értesítés küldése az eladónak"
 
 msgctxt "SettingsOptions::discussion::page_share_discussion"
 msgid "Share discussion with page"
-msgstr "Ossza meg a véleményét a következő oldalról:"
+msgstr "Ossza meg a véleményét az oldalról"
 
 msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
 msgid "Posts per page"
@@ -434,25 +434,25 @@ msgstr "Letiltott"
 
 msgctxt "Languages::discussion_tab_products"
 msgid "Product Reviews"
-msgstr ""
+msgstr "Termék értékelések"
 
 msgctxt "Languages::discussion_tab_categories"
 msgid "Category Reviews"
-msgstr ""
+msgstr "Kategória értékelések"
 
 msgctxt "Languages::discussion_tab_pages"
 msgid "Page Comments"
-msgstr ""
+msgstr "Oldal kommentek"
 
 msgctxt "Languages::discussion_tab_orders"
 msgid "Order Communication"
-msgstr ""
+msgstr "Rendelés kommunikáció"
 
 msgctxt "Languages::discussion_tab_home_page"
 msgid "Testimonials"
-msgstr ""
+msgstr "Ajánlások"
 
 msgctxt "Languages::discussion_tab_companies"
 msgid "Company Reviews"
-msgstr ""
+msgstr "Cég értékelések"
 

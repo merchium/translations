@@ -10,11 +10,11 @@ msgstr ""
 "X-Crowdin-File: /addons/reward_points.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2015-12-13 08:58-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "Addons::name::reward_points"
 msgid "Reward points"
-msgstr "Jutalompontok"
+msgstr "Hűségpontok"
 
 msgctxt "Addons::description::reward_points"
 msgid "Lets customers earn and spend points for purchases"
@@ -22,15 +22,15 @@ msgstr "Lehetővé teszi, hogy a vásárlók pontokat kaphassanak és felhaszná
 
 msgctxt "Languages::reward_points"
 msgid "Reward points"
-msgstr "Jutalompontok"
+msgstr "Hűségpontok"
 
 msgctxt "Languages::reward_points_log"
 msgid "Reward points log"
-msgstr "Jutalompont napló"
+msgstr "Hűségpontok naplója"
 
 msgctxt "Languages::reward_points_menu_description"
 msgid "Assign global reward points in your store."
-msgstr "Globális jutalompontok megadása az áruházában."
+msgstr "Globális hűségpontok megadása az áruházában."
 
 msgctxt "Languages::promotion_cond_reward_points"
 msgid "Points on user account"
@@ -50,7 +50,7 @@ msgstr "pont használatban"
 
 msgctxt "Languages::points_lower"
 msgid "points"
-msgstr "pont"
+msgstr "pontok"
 
 msgctxt "Languages::points_in_use_lowercase"
 msgid "[n] point in use|[n] points in use"
@@ -98,11 +98,11 @@ msgstr "A globális/kategória pontok felülírása"
 
 msgctxt "Languages::text_points_exceed_points_on_account"
 msgid "The number of the points entered by you exceeds the number of points at your account."
-msgstr "A megadott jutalompontok száma meghaladja a fiókjában lévő pontok számát."
+msgstr "A megadott hűségpontok száma meghaladja a felhasználói fiókhoz rendelt pontok számát."
 
 msgctxt "Languages::text_points_exceed_points_that_can_be_applied"
 msgid "The number of points entered by you exceeds the number of points that can be applied to this order."
-msgstr "A megadott jutalompontok száma meghaladja az ehhez a megrendeléshez alkalmazható pontok számát."
+msgstr "A megadott hűségpontok száma meghaladja az ehhez a megrendeléshez alkalmazható pontok számát."
 
 msgctxt "Languages::text_points_cannot_applied_because_subtotal_redeemed"
 msgid "Points cannot be applied because the subtotal is completely redeemed."
@@ -110,11 +110,11 @@ msgstr "A pontokat nem lehet felhasználni, mert a részösszeg teljesen fedezve
 
 msgctxt "Languages::text_cannot_apply_points_to_this_order_because_total"
 msgid "Unfortunately, you cannot apply points to this order, because the total cost is zero."
-msgstr "Sajnos, ennél a rendelésnél nem használhatja a jutalompontokat, mert az összes költség nulla."
+msgstr "Sajnos, ennél a rendelésnél nem használhatja a hűségpontokat, mert az összes költség nulla."
 
 msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
 msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
-msgstr "Sajnos, ennél a rendelésnél nem használhatja a jutalompontokat, mert nincs elég pont a fiókjában."
+msgstr "Sajnos, ennél a rendelésnél nem használhatja a hűségpontokat, mert nincs elég pont a fiókjában."
 
 msgctxt "Languages::text_order_status_has_not_been_changed"
 msgid "The order status has not been changed, because the user did not have enough points."
@@ -130,7 +130,7 @@ msgstr "Az ár pontokban csökkent:"
 
 msgctxt "Languages::earned_points"
 msgid "Points earned per product"
-msgstr "A termékenként kapott jutalompontok"
+msgstr "A termékenként kapott hűségpontok száma"
 
 msgctxt "Languages::override_g_points"
 msgid "Override global point value for all products in this category"
@@ -222,15 +222,15 @@ msgstr "A \"Pontok\" a megrendelés kedvezményének figyelembevételével újra
 
 msgctxt "SettingsOptions::reward_points::higher_level_extract"
 msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
-msgstr "Ha a termék és a termék kategóriája nem rendelkezik megadott jutalompontokkal, de magasabb szintű kategória rendelkezik ilyen jutalompontokkal, vegye az adatokat onnan"
+msgstr "Ha a termék és a termék kategóriája nem rendelkezik megadott hűségpontokkal, de magasabb szintű kategória rendelkezik ilyen hűségpontokkal, vegye az adatokat onnan"
 
 msgctxt "SettingsOptions::reward_points::several_points_action"
 msgid "If several reward points can be applied, set"
-msgstr "Ha több jutalompont is alkalmazható, állítsa be"
+msgstr "Ha több hűségpont is alkalmazható, állítsa be"
 
 msgctxt "SettingsOptions::reward_points::consider_zero_values"
 msgid "Apply zero reward point values"
-msgstr "Nulla jutalompont érték alkalmazása"
+msgstr "Nulla hűségpont érték alkalmazása"
 
 msgctxt "SettingsOptions::reward_points::log_per_page"
 msgid "Log lines per page"

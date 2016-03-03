@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-01 08:57-0500\n"
+"PO-Revision-Date: 2016-03-02 16:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1266,11 +1266,11 @@ msgstr "Termék szűrő opciók"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "A kezdőlap termékszűrői"
+msgstr "Kezdőlap termékszűrői"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "A kezdőlapon megjelenített termékszűrő opciók"
+msgstr "Kezdőlapon megjelenített termékszűrő lehetőségek"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -2066,7 +2066,7 @@ msgstr "Összehasonlító lista"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Összehasonlító listához"
+msgstr "Tovább, az összehasonlító listához"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
@@ -3226,7 +3226,7 @@ msgstr "Összes létező termék törlése importálás előtt"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
-msgstr "A biztonsági mentés fájl nem feltölthető. Kérlek, ellenőrizd a telepítésed \"var/backups\" mappájához tartozó jogokat."
+msgstr "A biztonsági mentés fájl nem feltölthető. Kérlek, ellenőrizd a \"var/backups\" mappájához tartozó jogokat."
 
 msgctxt "Languages::dump_file_not_writable"
 msgid "Please set write permissions on the database backup file."
@@ -3846,7 +3846,7 @@ msgstr "CVV/CVC túl rövid."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "Tilos az admin e-mailt vagy a jelszót az ügyfél területen megváltoztatni. Lépjen be egy ügyfélként!"
+msgstr "Tilos az admin e-mailt vagy a jelszót a webáruházi felületen megváltoztatni. Lépjen be egy ügyfélként!"
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -10562,7 +10562,7 @@ msgstr ""
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
-msgstr "Licenc frissítése"
+msgstr "Licensz frissítése"
 
 msgctxt "Languages::text_forbidden_uploaded_file_extension"
 msgid "It is not allowed to upload files with the <b>.[ext]</b> extension. Allowed extensions are: <b>[exts]</b>"
@@ -10582,7 +10582,7 @@ msgstr "<strong>Teljes üzemmód</strong> szükséges."
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr "[product] licenc szükséges."
+msgstr "[product] licensz szükséges."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -11158,7 +11158,7 @@ msgstr "Hozzáférés az összes funkcióhoz 30 napig, mely az aktiválástól k
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "Az összes funkció működik a telepítőcsomag letöltésétől számított 30 napig. Nem szükséges licenc kódot megadni.<br/><br/>A 30 napos próbaidőszak után licenc kódot kell vásárolnia, vagy ha már rendelkezik vele, meg kell adni.<br/><br/>"
+msgstr "Az összes funkció működik a telepítőcsomag letöltésétől számított 30 napig. Nem szükséges licensz kódot megadni.<br /><br />A 30 napos próbaidőszak után licensz kódot kell vásárolnia, vagy ha már rendelkezik vele, meg kell adni.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -12102,7 +12102,7 @@ msgstr "[product] próbaverziója lejárt"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr "Ha tovább szeretné használni, adja meg a licenc kódot"
+msgstr "Ha tovább szeretné használni a [product] terméket, adja meg a licensz kódot"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
@@ -12506,7 +12506,7 @@ msgstr "Minden fájl- és mappaengedély megfelelően beállításra került."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
-msgstr "Validálás"
+msgstr "Validálási probléma"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
@@ -12530,7 +12530,7 @@ msgstr "<p class=\"text-error\">Ez a frissítés nem elérhető az Ön [product]
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "A frissítés bonyolult folyamat. Hiba léphet fel rajtunk kívül álló okok miatt.<br> Az üzlet biztonságosabb frissítése érdekében készítettük az alábbi javaslatokat:"
+msgstr "A frissítés bonyolult folyamat. Hiba léphet fel rajtunk kívül álló okok miatt.<br> A frissítési folyamat biztonságosabbá tétele érdekében az alábbi tippeket készítettük:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."

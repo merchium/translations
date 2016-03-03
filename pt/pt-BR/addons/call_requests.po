@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-29 16:55-0500\n"
+"PO-Revision-Date: 2016-03-02 19:55-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -38,7 +38,7 @@ msgstr "Destacar as primeiras letras"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
-msgstr "Habilitar a opção \"Comprar agora com um clique\""
+msgstr "Ativar a opção \"Comprar agora com um clique\""
 
 msgctxt "SettingsOptions::call_requests::order_status"
 msgid "Order status"
@@ -50,7 +50,7 @@ msgstr "Máscara de telefone"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr "Deixar vazio para usar o padrão de telefone automático baseado no país, ou digite em um padrão personalizado. Você pode usar espaços, vírgulas, +, - e dígitos. Note que 9 representa qualquer dígito; Se você precisa de um 9, digite \\\9. Exemplos: + 9 (999) 999 99 99, 99999999, 999 999 99 ou +99-99-9999-9999."
+msgstr "Deixe vazio para usar automaticamente o padrão do país, ou se preferir digite um padrão personalizado. Você pode usar espaços, vírgulas, símbolos de + e -, e números. Observe que o número 9 representa qualquer dígito. Se você precisar de fato usar o número 9, digite \\\\9. Exemplos de máscaras: +99 (99) 99999-9999, (99) 99999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
@@ -98,7 +98,7 @@ msgstr "Telefone das configurações"
 
 msgctxt "Languages::call_requests.enter_phone_or_email_text"
 msgid "Please enter your phone number or email (for our manager to contact you)"
-msgstr "Por favor, digite seu número de telefone ou e-mail (para nosso gerente entrar em contato)"
+msgstr "Digite seu telefone ou e-mail (para que nós possamos entrar em contato com você)"
 
 msgctxt "Languages::call_requests.status.new"
 msgid "New"
