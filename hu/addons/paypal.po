@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 16:55-0500\n"
+"PO-Revision-Date: 2016-03-04 05:55-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -98,7 +98,7 @@ msgstr "Az \"In-Context Checkout\" nem használható akkor, ha az áruház widge
 
 msgctxt "Languages::paypal_express_notice"
 msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
-msgstr ""
+msgstr "Kereskedői azonosító (Merchant ID) szükséges az <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout funkció</a> használatához. Ezt az azonosítót a PayPal fiókba való bejelentkezést követően lehet megkeresni <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Kattintson a <b>Profil és beállítások</b> oldalon a <b>Business Profile</b> menüpontra.  Kattintson a <b>My business info</b> menüpontra, <b>Merchant account ID</b> a jobb oldali listában fog megjelenni."
 
 msgctxt "Languages::paypal_ipn_note"
 msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."

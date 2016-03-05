@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 11:56-0500\n"
+"PO-Revision-Date: 2016-03-03 03:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1278,7 +1278,7 @@ msgstr "Nastavení bloku"
 
 msgctxt "Languages::block_shipping_methods"
 msgid "Shipping methods"
-msgstr "Metody dopravy"
+msgstr "Způsoby dopravy"
 
 msgctxt "Languages::block_shipping_methods_description"
 msgid "Available shipping methods"
@@ -1474,7 +1474,7 @@ msgstr "Výpočet"
 
 msgctxt "Languages::calculate_shipping_cost"
 msgid "Calculate shipping cost"
-msgstr "Odhadnout cenu dopravy"
+msgstr "Vypočítat cenu dopravy"
 
 msgctxt "Languages::calendar"
 msgid "Calendar"
@@ -3390,7 +3390,7 @@ msgstr "Editovat zprávy"
 
 msgctxt "Languages::editing_shipping_method"
 msgid "Editing shipping method"
-msgstr "Změnit způsob dodání"
+msgstr "Editace způsobu dopravy"
 
 msgctxt "Languages::editing_sitemap_section"
 msgid "Editing sitemap section"
@@ -5382,7 +5382,7 @@ msgstr "Správa zpráv"
 
 msgctxt "Languages::manage_shippings"
 msgid "Shipping methods"
-msgstr "Způsob odběru zboží"
+msgstr "Způsoby dopravy"
 
 msgctxt "Languages::manage_sitemap"
 msgid "Manage sitemap"
@@ -6114,7 +6114,7 @@ msgstr "Nebyly vybrány žádné produtky"
 
 msgctxt "Languages::no_rates_for_empty_cart"
 msgid "<p class=\"error-text\" align=\"center\">Your cart is empty and the shipping cost cannot be estimated</p>"
-msgstr "<p class=\"error-text\" align=\"center\">Košík je pázdný a proto není možné určit cenu dopravy</p>"
+msgstr "<p class=\"error-text\" align=\"center\">Košík je prázdný a proto není možné odhadnout cenu dopravy</p>"
 
 msgctxt "Languages::no_shipping_required"
 msgid "No shipping required"
@@ -7642,7 +7642,7 @@ msgstr "PSČ"
 
 msgctxt "Languages::promotion_cond_shipping"
 msgid "Shipping methods"
-msgstr "Způsob odběru zboží"
+msgstr "Způsoby dopravy"
 
 msgctxt "Languages::promotion_op_amount"
 msgid "amount"
@@ -8034,7 +8034,7 @@ msgstr "Celkové objednávky"
 
 msgctxt "Languages::reports_parameter_10"
 msgid "Shipping costs"
-msgstr "Náklady na dopravu"
+msgstr "Ceny dopravy"
 
 msgctxt "Languages::reports_parameter_11"
 msgid "Categories"
@@ -8534,7 +8534,7 @@ msgstr "Vybrat profil"
 
 msgctxt "Languages::select_shipping_method"
 msgid "Select shipping method"
-msgstr "Vyberte způsob odběru zboží"
+msgstr "Vyberte způsob dopravy"
 
 msgctxt "Languages::select_state"
 msgid "Select state"
@@ -8718,7 +8718,7 @@ msgstr "Cena dopravy"
 
 msgctxt "Languages::shipping_cost"
 msgid "Shipping cost"
-msgstr "Náklady na dopravu"
+msgstr "Cena dopravy"
 
 msgctxt "Languages::shipping_estimation"
 msgid "Shipping estimation"
@@ -8734,15 +8734,15 @@ msgstr "Informace o dopravě"
 
 msgctxt "Languages::shipping_method"
 msgid "Shipping method"
-msgstr "Způsob odběru zboží"
+msgstr "Způsob dopravy"
 
 msgctxt "Languages::shipping_methods"
 msgid "Shipping methods"
-msgstr "Způsob dodání"
+msgstr "Způsoby dopravy"
 
 msgctxt "Languages::shipping_methods_menu_description"
 msgid "Set of rules and parameters to calculate the cost of shipping."
-msgstr "Soubor pravidel a parametrů pro výpočet přepravních nákladů."
+msgstr "Sada pravidel a parametrů pro výpočet ceny dopravy."
 
 msgctxt "Languages::shipping_name"
 msgid "Shipping name"
@@ -8994,11 +8994,11 @@ msgstr "Doplňkové pojištění pro naléhavé potřeby (až do CHF 3000.-)"
 
 msgctxt "Languages::ship_swisspost_error_intl_delivery"
 msgid "Cannot use this shipping method for the international delivery"
-msgstr "Nelze použít vybranou trasu pro mezinárodní dodávky"
+msgstr "Tento způsob dopravy nelze použít pro mezinárodní doručení"
 
 msgctxt "Languages::ship_swisspost_error_private_delivery"
 msgid "Cannot use this shipping method for the private delivery"
-msgstr "Nelze použít zvolenou metodu pro osobní doručení"
+msgstr "Tento způsob dopravy nelze použít pro osobní doručení"
 
 msgctxt "Languages::ship_swisspost_heavy_package"
 msgid "The package is too heavy"
@@ -10142,7 +10142,7 @@ msgstr "Pro pokračování v objednávce musíte být registrovaným uživatelem
 
 msgctxt "Languages::recalculate_shipping_cost"
 msgid "Recalculate shipping cost"
-msgstr "Přepočítat přepravní náklady"
+msgstr "Přepočítat cenu dopravy"
 
 msgctxt "Languages::text_applied_promotions"
 msgid "Applied promotions"
@@ -10727,7 +10727,7 @@ msgstr "Nebyly nalezeny žádné zásilky"
 
 msgctxt "Languages::text_no_shipping_methods"
 msgid "Sorry, it seems that we have no shipping options available for your location.<br/>Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
-msgstr "Bohužel, nejsou k dispozici žádné možnosti dopravy pro vaši destinaci.<br />Kontaktujte nás, prosím, a my se pokusíme vám zajistit doručení."
+msgstr "Omlouváme se, zdá se, že pro vaši oblast nemáme k dispozici žádné možnosti dopravy.<br/>Zkontrolujte dodací adresu a kontaktujte nás, pokud je vše v pořádku, pokusíme se společně problém vyřešit."
 
 msgctxt "Languages::text_no_upgrades_available"
 msgid "No upgrades currently available"
@@ -11055,7 +11055,7 @@ msgstr "Abyste mohli sdílet akce, ujistěte se, že sdílíte i příslušné p
 
 msgctxt "Languages::text_shipping_packages_info"
 msgid "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
-msgstr "Chcete-li zajistit přesnější výpočet nákladů na přepravu zboží, produkty byly rozděleny do obalů, jak je definováno nastavení zařízení a konfiguraci způsob dopravy. Následující informace je určena pouze pro referenční použití"
+msgstr "Pro zajištění přesnějšího výpočtu přepravních sazeb byly produkty rozděleny do obalů, jak je definováno v jejích nastavení a v konfiguraci způsobu dopravy. Následující informace je určena pouze pro referenční použití"
 
 msgctxt "Languages::text_shipping_rates_changed"
 msgid "Shipping rates were changed"
@@ -11243,7 +11243,7 @@ msgstr "Aktualizační balíček není možno stáhnout"
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "Tyto soubory mají lokální úpravy a budou zálohovány. Po dokončení aktualizace porovnejte záložní soubory s novými a znovu zaneste úpravy do nových souborů, je-li to nezbytné."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11251,7 +11251,7 @@ msgstr "Vaše verze softwaru [product] byla úspěšně zkontrolována. Nyní je
 
 msgctxt "Languages::text_uc_conflicts"
 msgid "The following files had local modifications"
-msgstr "Následující soubor byl místně změněn"
+msgstr "Následující soubory mají lokální úpravy"
 
 msgctxt "Languages::text_uc_db_right_needed"
 msgid "Not enough permissions to update database. Please assign the following privileges to your database user [db_user]: [priviliges]."
@@ -11295,7 +11295,7 @@ msgstr "FTP pověření pro přístup k souborům a nastavení správné oprávn
 
 msgctxt "Languages::text_uc_has_conflicts"
 msgid "Some of your files had local modifications. You can check them by clicking the following link"
-msgstr "Některé Vaše soubory prošli místní změnou. Překontrolujete je na následujícím odkazu"
+msgstr "Některé vaše soubory mají lokální úpravy. Můžete je zkontrolovat kliknutím na následující odkaz"
 
 msgctxt "Languages::text_uc_incorrect_upgrade_path"
 msgid "Wrong path to upgrade files"
@@ -11599,7 +11599,7 @@ msgstr "Zobrazit/skrýt panel editoru témat"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Název stylu nesmí obsahovat následující znaky: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12119,7 +12119,7 @@ msgstr "Pravda"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "Dodací lhůta se zobrazí vedle názvu způsobu dopravy. Pokud používáte výpočet přepravních sazeb v reálném čase, přepravní služba může poskytnout svoji vlastní dodací lhůtu. Lhůta od přepravní služby se pak zobrazí místo lhůty, kterou zde specifikujete."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12871,7 +12871,7 @@ msgstr "Úložiště ID"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Název dodavatele"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -13567,7 +13567,7 @@ msgstr "Styl s tímto názvem již existuje. Prosím, vyberte jiný."
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Název předvolby nesmí obsahovat následující znaky: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -14423,7 +14423,7 @@ msgstr "Umožnit zákazníkům zaplatit za objednávku znovu, pokud platební tr
 
 msgctxt "SettingsOptions::estimate_shipping_cost"
 msgid "Estimate shipping cost on cart page"
-msgstr "Zobrazit blok s výpočtem přibližné ceny dopravy v sekci nákupního košíku"
+msgstr "Odhadnout cenu dopravy na stránce nákupního košíku"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
@@ -14483,7 +14483,7 @@ msgstr "Zobrazit krok \"Způsob dopravy\""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr "Pokud je skrytý, je použita první aktivní metoda."
+msgstr "Pokud je skrytý, je použit první aktivní způsob."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
@@ -15035,11 +15035,11 @@ msgstr "(GMT + 01:00) Západ střední Afriky"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT+02:00) Atény, Bejrút, Istanbul"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT+02:00) Bukurešť"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15071,7 +15071,7 @@ msgstr "(GMT + 03:00) Moskva, Sant Petěrburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT+03:00) Minsk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15668,7 +15668,7 @@ msgstr "Oprávnění problém"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
-msgstr "Místní úpravy"
+msgstr "Lokální úpravy"
 
 msgctxt "Languages::text_uc_agreed_collisions"
 msgid "I understand that my local modifications will be permanently lost during the upgrade"
@@ -15776,7 +15776,7 @@ msgstr "Došlo k chybě během upgradu struktury databáze (použití migrace [m
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
-msgstr ""
+msgstr "Některé <strong>značky jazyka HTML</strong>, které jste použili, <strong>byly odstraněny</strong> z důvodu omezení vkládání HTML značek jako je například &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; a kód JavaScript. Proto se obsah, který jste vložili pomocí těchto značek nezobrazí."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -15828,19 +15828,19 @@ msgstr "Ignorovat"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr "Použití pro dopravu zdarma"
+msgstr "Použít pro dopravu zdarma"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Aktivovaný výrobek s dopravou zdarma bude vyloučen z dodací kalkulace pokud způsob dopravy má Použití pro dopravu zdarma aktivní"
+msgstr "Produkty s povolenou možností Doprava zdarma budou vyloučeny z výpočtu dopravného, pokud má způsob dopravy povolenu možnost Použít pro dopravu zdarma"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Vyloučit produkty s dopravou zdarma volba povoleno z kalkulace ceny"
+msgstr "Vyloučit produkty s povolenou možností Doprava zdarma z kalkulace dopravného"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Některé z vašich produktů mají vlastnosti <b>Doprava zdarma</b> povolenu. V dřívějších verzích [product] zákazník nemusel zvolit způsob dopravy při nákupu těchto výrobků.</p><p>Počínaje tímto [product] verze, si zákazník zvolí způsob dopravy na pokladně u výrobků s <b>Dopravou zdarma</b>.</p><p>Chcete-li nastavit způsob dopravy, který bude použit na dopravu zdarma, proveďte tyto kroky:</p><ol><li>jděte <b>Administrace ->Přepravní &amp; daně -> Způsoby dopravy</b>.</li><li>Vyberte stávající způsob dopravy, který chcete použít pro dopravu zdarma, nebo vytvořte novou.</li><li>Přejděte na <i>Další</i> sekci umožňující <b>Použít na dopravu zdarma</b>.</li></ol><p>Můžete nastavit libovolný počet způsobů přepravy, jaký chcete, na dopravu zdarma.</p><p>Všimněte si, že budete muset použít <b>Použít dopravu zdarma</b> možnosti konkrétních způsobů přepravy.</p><p>Zaškrtněte <b>Použití pro dopravu zdarma</b> políčko, chcete-li vyloučit výrobky s povolen <b>Doprava zdarma</b> možnosti na konkrétních způsobů přepravy. [product] vypočítá přepravní ceny ostatních výrobků z pořadí v souladu s <b>Doprava poplatky</b>.</p><p>Pokud necháte políčko nezaškrtnuté, [product] bude počítat přepravní cenu u všech výrobků z pořadí v souladu s <b>Přepravnímy poplatky</b>.</p>"
+msgstr "<p>Některé z vašich produktů mají povolenu vlastnost <b>Doprava zdarma</b>. V dřívějších verzích [product] zákazník nemusel při nákupu takových produktů zvolit způsob dopravy.</p><p>Počínaje touto verzí [product] si zákazník zvolí způsob dopravy na pokladně u produktů s <b>Dopravou zdarma</b>.</p><p>Pro nastavení způsobu dopravy, který bude použit na dopravu zdarma, proveďte tyto kroky:</p><ol><li>jděte na <b>Správa → Doprava &amp; daně → Způsoby dopravy</b>.</li><li>Vyberte stávající způsob dopravy, který chcete použít pro dopravu zdarma, nebo vytvořte nový.</li><li>Přejděte na sekci <i>Další</i> a povolte nastavení <b>Použít na dopravu zdarma</b>.</li></ol><p>Pro dopravu zdarma můžete nastavit libovolný počet způsobů dopravy.</p><p>Povšimněte si, že budete muset aplikovat možnost <b>Použít dopravu zdarma</b> na konkrétní způsoby dopravy.</p><p>Zaškrtněte políčko <b>Použít pro dopravu zdarma</b>, chcete-li vyloučit produkty s povolenou možností <b>Doprava zdarma</b> z kalkulace ceny dopravy. [product] vypočítá cenu dopravy ostatních produktů z objednávky v souladu s <b>Přepravními poplatky</b>.</p><p>Pokud necháte políčko nezaškrtnuté, [product] bude počítat dopravné pro všechny produkty z objednávky v souladu s <b>Přepravními poplatky</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
@@ -15860,7 +15860,7 @@ msgstr "DHL v reálném čase kalkulace přepravní změny"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
-msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby přepravní společnosti DHL.</p><p>Pokud se chceme zobrazit aktuální přepravní sazby za přepravu pro zákazníky, musíte udělat následující:.</p><ul><li>Přejděte do nabídky správa>doprava/daně>Způsoby přepravy</li><li>vyberte způsob dopravy DHL</li><li>přejděte na kartu Obecné a zadejte správný přístup k datům</li><li>přejděte na kartu Nastavení a zadejte správné ID a heslo</li></ul>"
+msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet přepravních sazeb v reálném čase, pokud používáte DHL jako přepravce.</p><p>Pokud chcete zobrazit aktuální přepravní sazby svým zákazníkům, musíte udělat následující:</p><ul><li>Přejděte do nabídky Správa>Doprava & daně>Způsoby dopravy</li><li>vyberte způsob dopravy DHL jako přepravce pro výpočet přepravních sazeb</li><li>přepněte na kartu Obecné a zadejte správnou přepravní službu</li><li>přepněte na kartu Konfigurovat a zadejte správné Site ID a heslo</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
@@ -16024,17 +16024,17 @@ msgstr "Soubor \"[file]\" již existuje."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Lokální úpravy"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Tyto soubory měly lokální úpravy. Během aktualizace byl vytvořen záložní archív v adresáři <strong>[dir]</strong>. Možná budete chtít tyto soubory v archívu zkontrolovat a znovu aplikovat změny do vašeho obchodu."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Nezkontrolováno"
 
 msgctxt "Languages::checked"
 msgid "Checked"
-msgstr ""
+msgstr "Zkontrolováno"
 
