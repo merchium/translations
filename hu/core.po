@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-04 05:55-0500\n"
+"PO-Revision-Date: 2016-03-09 08:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -466,7 +466,7 @@ msgstr "Alkategória hozzáadása"
 
 msgctxt "Languages::new_subscribers"
 msgid "New subscribers"
-msgstr ""
+msgstr "Új feliratkozók"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1774,11 +1774,11 @@ msgstr "Elfogadom a feltételeket a"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the [terms_href]"
-msgstr ""
+msgstr "Elolvastam és elfogadom az [terms_href]t"
 
 msgctxt "Languages::checkout_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Általános szerződési feltételek"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -12870,7 +12870,7 @@ msgstr "Áruház azonosító"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Eladó neve"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -14478,19 +14478,19 @@ msgstr ""
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr ""
+msgstr "\"Szállítási mód\" lépés megjelenítése"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr ""
+msgstr "Amennyiben rejtett, az első elérhető aktív mód lesz használva."
 
 msgctxt "SettingsOptions::display_payment_step"
 msgid "Display \"Payment method\" step"
-msgstr ""
+msgstr "\"Fizetési mód\" lépés megjelenítése"
 
 msgctxt "SettingsTooltips::display_payment_step"
 msgid "If hidden, the first active method will be used by default."
-msgstr ""
+msgstr "Amennyiben rejtett, az első elérhető aktív mód lesz használva."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
@@ -15034,11 +15034,11 @@ msgstr "(GMT+01:00) Nyugat Közép Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT+02:00) Athén, Bejrút, Isztambul"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT+02:00) Bukarest"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15070,7 +15070,7 @@ msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT + 03:00) Minszk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15338,15 +15338,15 @@ msgstr "SSL"
 
 msgctxt "SettingsVariants::configure_sign_in_step::new_customer_first"
 msgid "Display \"New customer\" first"
-msgstr ""
+msgstr "\"Új vásárló\" megjelenítése bal oldalon"
 
 msgctxt "SettingsVariants::configure_sign_in_step::returning_customer_first"
 msgid "Display \"Returning customer\" first"
-msgstr ""
+msgstr "\"Visszatérő vásárló\" megjelenítése bal oldalon"
 
 msgctxt "SettingsVariants::configure_sign_in_step::hide"
 msgid "Hide step completely"
-msgstr ""
+msgstr "Lépés elrejtése"
 
 msgctxt "SettingsVariants::sign_in_default_action::register"
 msgid "Register"
@@ -15362,11 +15362,11 @@ msgstr "Letiltás"
 
 msgctxt "SettingsVariants::secure_storefront::partial"
 msgid "Secure profile, checkout and order pages"
-msgstr ""
+msgstr "Biztonságos profil, pénztár és rendelési oldalak"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr ""
+msgstr "Teljes áruház biztonságos"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15406,7 +15406,7 @@ msgstr "Eredeti visszaállítása"
 
 msgctxt "Languages::set_custom_configuration"
 msgid "Set custom configuration"
-msgstr ""
+msgstr "Egyedi beállítás"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
@@ -15514,11 +15514,11 @@ msgstr "XID"
 
 msgctxt "Languages::payments.realex.result_message"
 msgid "Result message"
-msgstr "Eredmény üzenete"
+msgstr "Válaszüzenet"
 
 msgctxt "Languages::payments.realex.result_code"
 msgid "Result code"
-msgstr "Eredmény kódja"
+msgstr "Válaszkód"
 
 msgctxt "Languages::payments.realex.transaction_pasref"
 msgid "Transaction PASREF"
@@ -15530,23 +15530,23 @@ msgstr "Tranzakció rendelési azonosítója"
 
 msgctxt "Languages::payments.realex.avs.matched"
 msgid "Matched"
-msgstr ""
+msgstr "Egyeztetve"
 
 msgctxt "Languages::payments.realex.avs.not_matched"
 msgid "Not matched"
-msgstr ""
+msgstr "Nincs egyeztetve"
 
 msgctxt "Languages::payments.realex.avs.problem_with_check"
 msgid "Problem with check"
-msgstr ""
+msgstr "Probléma az ellenőrzés során"
 
 msgctxt "Languages::payments.realex.avs.unable_to_check"
 msgid "Unable to check"
-msgstr ""
+msgstr "Nem lehet ellenőrizni"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr ""
+msgstr "Részleges egyezés"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
@@ -15598,11 +15598,11 @@ msgstr ""
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
-msgstr ""
+msgstr "Opció kivételek"
 
 msgctxt "Languages::horizontal_filters"
 msgid "Horizontal filters"
-msgstr ""
+msgstr "Vízszintes szűrők"
 
 msgctxt "Languages::vendor_filters_description"
 msgid ""
@@ -15619,7 +15619,7 @@ msgstr "A frissítés letöltődött és telepítésre kész"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
-msgstr ""
+msgstr "Frissítő csatlakozás nem található"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
@@ -15663,7 +15663,7 @@ msgstr ""
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
-msgstr ""
+msgstr "Jogosultsági hiba"
 
 msgctxt "Languages::text_uc_local_modification"
 msgid "Local modifications"
@@ -15675,11 +15675,11 @@ msgstr "Megértem, hogy a helyi módosításaim átmenetileg elvesznek a frissí
 
 msgctxt "Languages::text_uc_will_be_changed"
 msgid "Will be changed"
-msgstr ""
+msgstr "Módosításra kerül"
 
 msgctxt "Languages::text_uc_will_be_deleted"
 msgid "Will be deleted"
-msgstr ""
+msgstr "Törlésre kerül"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
@@ -15687,7 +15687,7 @@ msgstr ""
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr ""
+msgstr "\"[validator]\" ellenőrző futtatása"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15695,7 +15695,7 @@ msgstr "Fájlok másolása"
 
 msgctxt "Languages::uc_run_migrations"
 msgid "Run migrations"
-msgstr ""
+msgstr "Migrációk futtatása"
 
 msgctxt "Languages::uc_install_languages"
 msgid "Install languages"
@@ -15715,7 +15715,7 @@ msgstr "Frissítési csomag feltöltésével gyorsjavításokat és bővítmény
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
-msgstr ""
+msgstr "Külső navigáció"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
@@ -15747,7 +15747,7 @@ msgstr ""
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr ""
+msgstr "Frissítve ekkor"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
@@ -15783,35 +15783,35 @@ msgstr ""
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
-msgstr ""
+msgstr "Nem hozhatóak létre biztonsági mentések."
 
 msgctxt "Languages::seconds_left"
 msgid "[n] second left|[n] seconds left"
-msgstr ""
+msgstr "[n] másodperc maradt"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr ""
+msgstr "Úgy néz ki, a szerver lehetővé teszi, hogy a \"max_execution_time\" beállítást a programkód módosítani tudja. A frissítési folyamat elkezdhető."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr ""
+msgstr "Ellenőrizze a PHP script időtúllépését"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr ""
+msgstr "Elfogadom és tovább"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr ""
+msgstr "Visszaállító script elkészítése sikertelen."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr ""
+msgstr "Megjegyzés! Az Ön böngészőjében letiltásra került a <b>JavaScript</b>. A rendelés kifizetéséhez kattintson "
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Irány a pénztár"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
@@ -15823,7 +15823,7 @@ msgstr "SCRUB mód"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Figyelmen kívül hagy"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
@@ -15843,7 +15843,7 @@ msgstr ""
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Kategória lomtárba helyezése"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
@@ -15879,11 +15879,11 @@ msgstr ""
 
 msgctxt "Languages::show_more"
 msgid "Show more"
-msgstr ""
+msgstr "Több elem megjelenítése"
 
 msgctxt "Languages::show_less"
 msgid "Show less"
-msgstr ""
+msgstr "Kevesebb elem megjelenítése"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
@@ -15907,31 +15907,31 @@ msgstr ""
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
-msgstr ""
+msgstr "Összes bővítmény letiltása"
 
 msgctxt "Languages::tools_addons_disable_third_party"
 msgid "Disable third-party add-ons"
-msgstr ""
+msgstr "Összes harmadik féltől származó bővítmény letiltása"
 
 msgctxt "Languages::tools_re_enable_add_ons"
 msgid "Re-enable add-ons"
-msgstr ""
+msgstr "Bővítmények újra engedélyezése"
 
 msgctxt "Languages::tools_addons_installed_count"
 msgid "Installed add-ons:"
-msgstr ""
+msgstr "Telepített bővítmények:"
 
 msgctxt "Languages::tools_addons_activated_count"
 msgid "Active add-ons:"
-msgstr ""
+msgstr "Aktív bővítmények:"
 
 msgctxt "Languages::tools_addons_core_addons_count"
 msgid "Built-in add-ons:"
-msgstr ""
+msgstr "Beépített bővítmények:"
 
 msgctxt "Languages::tools_addons_other_addons_count"
 msgid "Third-party add-ons:"
-msgstr ""
+msgstr "Harmadik féltől származó bővítmények:"
 
 msgctxt "Languages::tools_addons_disabled_msg"
 msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
@@ -15939,19 +15939,19 @@ msgstr ""
 
 msgctxt "Languages::addons_source"
 msgid "Source"
-msgstr ""
+msgstr "Forrás"
 
 msgctxt "Languages::addon_built_in"
 msgid "Built-in"
-msgstr ""
+msgstr "Beépített"
 
 msgctxt "Languages::addon_third_party"
 msgid "Third-party"
-msgstr ""
+msgstr "Harmadik féltől származó"
 
 msgctxt "Languages::subcategories_tree_cat"
 msgid "Subcategories tree"
-msgstr ""
+msgstr "Alkategória-fa"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
@@ -15963,7 +15963,7 @@ msgstr ""
 
 msgctxt "Languages::overwrite"
 msgid "Overwrite"
-msgstr ""
+msgstr "Felülírás"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
@@ -15979,11 +15979,11 @@ msgstr ""
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
-msgstr ""
+msgstr "CURL hiba"
 
 msgctxt "Languages::http_transport_error_prefix_socket"
 msgid "Socket Error"
-msgstr ""
+msgstr "Socket hiba"
 
 msgctxt "Languages::curl_error_code_reference_link"
 msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
@@ -15991,7 +15991,7 @@ msgstr ""
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] nap"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
@@ -16035,5 +16035,5 @@ msgstr ""
 
 msgctxt "Languages::checked"
 msgid "Checked"
-msgstr ""
+msgstr "Ellenőrzött"
 
