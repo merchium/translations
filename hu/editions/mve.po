@@ -10,19 +10,19 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-09 08:55-0500\n"
+"PO-Revision-Date: 2016-03-09 09:55-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
-msgstr "Áruház hozzáadása"
+msgstr "Eladó hozzáadása"
 
 msgctxt "Languages::add_companies_and_close"
 msgid "Add vendors and close"
-msgstr "Áruházak hozzáadása és bezárás"
+msgstr "Eladó hozzáadása és bezárás"
 
 msgctxt "Languages::add_vendor"
 msgid "Add vendor"
-msgstr "Áruház hozzáadása"
+msgstr "Eladó hozzáadása"
 
 msgctxt "Languages::add_vendor_administrator"
 msgid "Add vendor's administrator"
@@ -66,7 +66,7 @@ msgstr ""
 
 msgctxt "Languages::all_vendors"
 msgid "All vendors"
-msgstr "Minden áruház"
+msgstr "Minden eladó"
 
 msgctxt "Languages::apply_for_vendor_account"
 msgid "Apply for a vendor account"
@@ -74,7 +74,7 @@ msgstr ""
 
 msgctxt "Languages::available_for_vendor"
 msgid "Available for vendor"
-msgstr "Elérhető az áruház számára"
+msgstr "Elérhető a eladó számára"
 
 msgctxt "Languages::balance_carried_forward"
 msgid "Balance carried forward"
@@ -98,15 +98,15 @@ msgstr "Adminisztrátori fiók létrehozása"
 
 msgctxt "Languages::displayed_vendors"
 msgid "Displayed vendors"
-msgstr "Megjelenített áruházak"
+msgstr "Megjelenített eladók"
 
 msgctxt "Languages::editing_vendor"
 msgid "Editing vendor"
-msgstr "Áruház szerkesztése"
+msgstr "Eladó szerkesztése"
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
-msgstr "Az adminisztrátori fiók nem készült el. Az e-mail cím más felhasználóhoz tartozik. Manuálisan hozzá lehet adni adminisztrátorokat ehhez a céghez."
+msgstr "Az adminisztrátori fiók nem készült el. Az e-mail cím más felhasználóhoz tartozik. Manuálisan hozzá lehet adni adminisztrátorokat ehhez az eladóhoz."
 
 msgctxt "Languages::error_admin_not_created_name_already_used"
 msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "Languages::error_vendor_exists"
 msgid "The vendor with e-mail you have chosen already exists, please try another."
-msgstr "A kiválasztott email címhez tartozó cég már létezik, kérjük válasszon másikat."
+msgstr "A kiválasztott email címhez tartozó eladó már létezik, kérjük válasszon másikat."
 
 msgctxt "Languages::expenditure"
 msgid "Expenditure"
@@ -134,11 +134,11 @@ msgstr ""
 
 msgctxt "Languages::new_vendor"
 msgid "New vendor"
-msgstr "Áruház hozzáadása"
+msgstr "Új eladó"
 
 msgctxt "Languages::notify_vendor"
 msgid "Notify vendor"
-msgstr "Áruház tulajdonos értesítése"
+msgstr "Eladó értesítése"
 
 msgctxt "Languages::notify_vendors_by_email"
 msgid "Notify vendors by e-mail"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "Languages::privilege_sections.vendors"
 msgid "Vendors"
-msgstr "Áruházak"
+msgstr "Eladók"
 
 msgctxt "Languages::sales_period"
 msgid "Sales period"
@@ -174,7 +174,7 @@ msgstr ""
 
 msgctxt "Languages::search_by_vendor"
 msgid "Search by vendor"
-msgstr "Keresés áruház alapján"
+msgstr "Keresés eladó alapján"
 
 msgctxt "Languages::sort_by_company_asc"
 msgid "Sort by alphabetical: A to Z"
@@ -270,15 +270,15 @@ msgstr ""
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
-msgstr "Nem lehet törölni ezt az áruházat, mert az adatbázisban vannak olyan termékek, melyek ennek a cégnek a termékeit tartalmazzák. A fiók törléséhez először töröljön minden ilyen rendelést."
+msgstr "Nem lehet törölni ezt az eladót, mert az adatbázisban vannak olyan termékek, melyek ennek az eladónak a termékeit tartalmazzák. A fiók törléséhez először töröljön minden ilyen rendelést."
 
 msgctxt "Languages::vendor"
 msgid "Vendor"
-msgstr "Áruház"
+msgstr "Eladó"
 
 msgctxt "Languages::vendors"
 msgid "Vendors"
-msgstr "Áruházak"
+msgstr "Eladók"
 
 msgctxt "Languages::vendors_menu_description"
 msgid "Sorted list of vendor accounts registered in the store."
@@ -290,35 +290,35 @@ msgstr ""
 
 msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
-msgstr ""
+msgstr "Új eladói kérelem"
 
 msgctxt "Languages::vendor_id"
 msgid "Vendor ID"
-msgstr "Áruház azonosító"
+msgstr "Eladó azonosító"
 
 msgctxt "Languages::vendor_name"
 msgid "Vendor name"
-msgstr "Áruház neve"
+msgstr "Eladó neve"
 
 msgctxt "Languages::vendor_pages"
 msgid "Vendor pages"
-msgstr "Áruház oldalai"
+msgstr "Eladó oldalai"
 
 msgctxt "Languages::vendor_panel"
 msgid "Vendor panel"
-msgstr "Áruház panel"
+msgstr "Eladói panel"
 
 msgctxt "Languages::view_vendor_orders"
 msgid "View vendor orders"
-msgstr "Áruház rendeléseinek megtekintése"
+msgstr "Eladó felhasználóinak megtekintése"
 
 msgctxt "Languages::view_vendor_products"
 msgid "View vendor products"
-msgstr "Áruház termékeinek megtekintése"
+msgstr "Eladó termékeinek megtekintése"
 
 msgctxt "Languages::view_vendor_users"
 msgid "View vendor users"
-msgstr "Áruház felhasználóinak megtekintése"
+msgstr "Eladó felhasználóinak megtekintése"
 
 msgctxt "Languages::you_can_edit_account_details"
 msgid "You can edit the account details now."
@@ -326,57 +326,57 @@ msgstr "Itt szerkesztheti a felhasználói fiók adatait."
 
 msgctxt "SettingsSections::Vendors"
 msgid "Vendors"
-msgstr "Áruházak"
+msgstr "Eladók"
 
 msgctxt "SettingsOptions::vendors_per_page"
 msgid "Vendors per page"
-msgstr "Áruház/oldal"
+msgstr "Eladó/oldal"
 
 msgctxt "SettingsOptions::apply_for_vendor"
 msgid "Allow users to apply for vendor account"
-msgstr ""
+msgstr "Engedélyezés felhasználóknak, hogy eladói fiókot igényeljenek"
 
 msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-msgstr ""
+msgstr "Új adminisztrációs fiók készítése automatikusan, minden elfogadott eladó számára. (Amennyiben a \"Engedélyezés felhasználóknak, hogy eladói fiókot igényeljenek\" beállítás engedélyezett)"
 
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
-msgstr ""
+msgstr "Termék eladójának megjelenítése"
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
-msgstr ""
+msgstr "Eladói reigsztrációs űrlap"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
-msgstr ""
+msgstr "Eladó kategóriái"
 
 msgctxt "Languages::block_vendor_categories_description"
 msgid "Product categories available to a particular vendor"
-msgstr ""
+msgstr "Kategóriák, melyek bizonyos eladók számára engedélyezettek"
 
 msgctxt "Languages::block_vendor_information"
 msgid "Vendor information"
-msgstr ""
+msgstr "Eladói információ"
 
 msgctxt "Languages::block_vendor_logo"
 msgid "Vendor logo"
-msgstr ""
+msgstr "Eladó logója"
 
 msgctxt "Languages::block_vendor_search"
 msgid "Search by vendor products"
-msgstr ""
+msgstr "Keresés eladó termékei alapján"
 
 msgctxt "Languages::vendor_filters"
 msgid "Vendor Product filters"
-msgstr ""
+msgstr "Eladó termékszűrői"
 
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
-msgstr ""
+msgstr "Eladó termékei"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
-msgstr ""
+msgstr "Eladó szűrők"
 

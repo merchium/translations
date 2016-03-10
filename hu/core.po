@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-09 08:55-0500\n"
+"PO-Revision-Date: 2016-03-09 09:55-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7830,7 +7830,7 @@ msgstr "Gyorsítótár automatikus újraépítése"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "A módosított fájlokat valós időben követjük (a közvetlenül a szerveren módosított fájlokkal együtt) és újra cache-eljük. A blokkok gyorstárazása ki lesz kapcsolva. Ez kis mértékben befolyásolhatja az áruház teljesítményét. Éles üzemmódban javasolt a kikapcsolása."
+msgstr "A módosított fájlokat valós időben követjük (közvetlenül a szerveren módosított fájlokkal együtt) és újra gyorsítótárazzuk. A blokkok gyorstárazása ki lesz kapcsolva. Ez kis mértékben befolyásolhatja az áruház teljesítményét. Éles üzemmódban javasolt a kikapcsolása."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -10530,11 +10530,11 @@ msgstr "A <b>[mime]</b> MIME típusú fájlok létrehozása/frissítése/átneve
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr "<p>Jelenleg a [product] termék ingyenes verzióját használja. Az ingyenes verzióhoz nem szükséges licenc, és a funkciók korlátozottak. A korlátozott funkciók használatához [product] licencre van szüksége.</p>"
+msgstr "<p>Jelenleg a [product] termék ingyenes verzióját használja. Az ingyenes verzióhoz nem szükséges licensz, és a funkciók korlátozottak. A korlátozott funkciók használatához [product] licenszre van szüksége.</p>"
 
 msgctxt "Languages::text_forbidden_functionality_full"
 msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr "<p>Jelenleg a [product] termék ingyenes verzióját használja. Az ingyenes verzióhoz nem szükséges licenc, és a funkciók korlátozottak.  <br> A korlátozott funkciók használatához [product] licencre van szüksége.</p> <p>A [product] licenc megvásárlása és aktiválása rendkívül könnyű. A [product] licenccel teljes hozzáférést kap az alábbiakhoz:</p>"
+msgstr "<p>Jelenleg a [product] termék ingyenes verzióját használja. Az ingyenes verzióhoz nem szükséges licensz, és a funkciók korlátozottak.  <br> A korlátozott funkciók használatához [product] licensz van szüksége.</p> <p>A [product] licensz megvásárlása és aktiválása rendkívül könnyű. A [product] licensszel teljes hozzáférést kap az alábbiakhoz:</p>"
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
@@ -10550,15 +10550,15 @@ msgstr "Vásárlókat rendelhet Felhasználói csoportokhoz, és különböző a
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
-msgstr ""
+msgstr "Számos nyelv és valuta az áruházban"
 
 msgctxt "Languages::text_forbidden_feature_addons"
 msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr ""
+msgstr "Több, mint 30 bővítmény még jobbá teszi az áruházát"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "Technikai támogatás, és hozzáférés a Help Desk rendszerünkhöz"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -11142,7 +11142,7 @@ msgstr "Az áruház <strong>bezárva</strong>"
 
 msgctxt "Languages::text_store_mode_free"
 msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Néhány tulajdonság nem elérhető. Nincs időkorlát, licenckód nem szükséges.<br /><br />Ez az üzemmód bármikor aktiválható.<br /><br />Ha ezt az üzemmódot választod, azzal feliratkozol a hírek és ajánlatok újságunkra. Az e-maileket havonta egyszer vagy kétszer küldjük, amiről bármikor leiratkozhat."
+msgstr "Néhány tulajdonság nem elérhető. Nincs időkorlát, licenszkód nem szükséges.<br /><br />Ez az üzemmód bármikor aktiválható.<br /><br />Ha ezt az üzemmódot választod, azzal feliratkozol a hírek és ajánlatok újságunkra. Az e-maileket havonta egyszer vagy kétszer küldjük, amiről bármikor leiratkozhat."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11934,7 +11934,7 @@ msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "Ez a konténer nincs használatban. \"[container]\" konténer az alapértelmezett helyről lesz helyette. Állítsa be ezt a helyet alapértelmezettnek, hogy ez a konténer legyen \"[container]\" az összes helyen."
+msgstr "Ez a konténer NINCS használatban. \"[container]\" konténer tartalma az alapértelmezett helyről lesz beállítva. Állítsa be ezt a helyet alapértelmezettnek, hogy ez a konténer legyen \"[container]\" az összes helyen."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12106,7 +12106,7 @@ msgstr "Ha tovább szeretné használni a [product] terméket, adja meg a licens
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "Ha nincs még licenc kódja, megvásárolhatja a hivatalos honlapunkról:<br/>[buy_license]"
+msgstr "Ha nincs még licensz kódja, megvásárolhatja a hivatalos honlapunkról:<br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
@@ -12226,7 +12226,7 @@ msgstr "A Nulla súllyal rendelkező, nem letölthető termékeket úgy kezeljü
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
-msgstr "A kategóriák megjelenítése a navigációs útkövetőben."
+msgstr "A kategóriák megjelenítése a morzsa navigációban (breadcrumbs)."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
@@ -12554,7 +12554,7 @@ msgstr "Általában a frissítés azért nem sikerül, mert a PHP szkript futtat
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "NEM javasoljuk, hogy a frissítést az saját szerverén kezdje."
+msgstr "NEM javasoljuk, hogy a frissítést a saját szerverén kezdje."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
@@ -13750,7 +13750,7 @@ msgstr "Biztonságos kapcsolat engedélyezése az adminisztrációs panelhez"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Biztonságos kapcsolat engedélyezése a kirakati (storefront) oldalhoz"
+msgstr "Biztonságos kapcsolat engedélyezése az áruházban (storefront)"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14426,7 +14426,7 @@ msgstr "Szállítási költség becslése a kosárban"
 
 msgctxt "SettingsOptions::allow_create_account_after_order"
 msgid "Offer guest to create an account after successful order"
-msgstr "Fiók létrehozásának felajánlása a vendégfelhasználóknak sikeres megrendelés után"
+msgstr "Fiók létrehozásának felajánlása vendég vásárlók esetén, sikeres megrendelést követően"
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
@@ -14470,7 +14470,7 @@ msgstr "A \"Bejelentkezés\" lépés beállítása"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "Ezt a lépést csak akkor lehet elrejteni, ha nincs benne kötelező adatmező, és a névtelen fizetés megengedett."
+msgstr "Ezt a lépést csak akkor lehet elrejteni, ha nincs benne kötelező adatmező, és a vásárlás vendégként funkció megengedett."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -15562,7 +15562,7 @@ msgstr "Bejelentkezési űrlap"
 
 msgctxt "Languages::use_for_register"
 msgid "Create and edit profile form"
-msgstr ""
+msgstr "Felhasználói fiókok létrehozása és szerkesztése"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
@@ -15570,11 +15570,11 @@ msgstr ""
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
-msgstr ""
+msgstr "Rendelésem követése űrlap"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr ""
+msgstr "SEO bállítások az áruházhoz."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -15631,7 +15631,7 @@ msgstr ""
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr ""
+msgstr "A csomag sémája nem érvényes JSON formátumú"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
@@ -15659,7 +15659,7 @@ msgstr "Új verzió"
 
 msgctxt "Languages::migrations"
 msgid "Migrations"
-msgstr ""
+msgstr "Migrációk"
 
 msgctxt "Languages::permissions_issue"
 msgid "Permissions issue"
@@ -15807,7 +15807,7 @@ msgstr "Visszaállító script elkészítése sikertelen."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr "Megjegyzés! Az Ön böngészőjében letiltásra került a <b>JavaScript</b>. A rendelés kifizetéséhez kattintson "
+msgstr "Megjegyzés! Az Ön böngészőjében le van tiltva a <b>JavaScript</b> futtatása. A rendelés kifizetéséhez kattintson "
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
@@ -15995,15 +15995,15 @@ msgstr "[n] nap"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr ""
+msgstr "Nyomonkövetés weboldalon"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
-msgstr ""
+msgstr "Nem sikerült létrehozni új státuszt"
 
 msgctxt "Languages::maximum_number_of_statuses_reached"
 msgid "You have reached the maximum number of statuses"
-msgstr ""
+msgstr "Elérte a lehetséges státuszok számát"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
@@ -16011,19 +16011,19 @@ msgstr ""
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
-msgstr ""
+msgstr "Ismeretlen archív formátum: [ext]"
 
 msgctxt "Languages::error_file_not_found"
 msgid "File \"[file]\" not found."
-msgstr ""
+msgstr "A \"[file]\" fájl nem található."
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
-msgstr ""
+msgstr "A \"[file]\" már létezik."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Helyi módosítások"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
@@ -16031,7 +16031,7 @@ msgstr ""
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Nem ellenőrzött"
 
 msgctxt "Languages::checked"
 msgid "Checked"
