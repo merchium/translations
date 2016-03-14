@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-03 03:55-0500\n"
+"PO-Revision-Date: 2016-03-13 10:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2174,7 +2174,7 @@ msgstr "Konvertuji data v tabulce [table]"
 
 msgctxt "Languages::copyright_shopping_cart"
 msgid "[product] - Shopping Cart Software"
-msgstr "[product] - Nákupní Košík Software"
+msgstr "[product] - software elektronického obchodu"
 
 msgctxt "Languages::copy_from_layout"
 msgid "Copy data from layout"
@@ -2398,7 +2398,7 @@ msgstr "Libra kyperská"
 
 msgctxt "Languages::currency_code_czk"
 msgid "Czech Koruna"
-msgstr "Česká Koruna"
+msgstr "Česká koruna"
 
 msgctxt "Languages::currency_code_dkk"
 msgid "Danish Kroner"
@@ -4630,7 +4630,7 @@ msgstr "Poskytnutá sleva"
 
 msgctxt "Languages::including_tax"
 msgid "Including tax"
-msgstr "Včetně DPH"
+msgstr "Včetně daně"
 
 msgctxt "Languages::incompleted"
 msgid "Incomplete"
@@ -4654,7 +4654,7 @@ msgstr "Navýšit"
 
 msgctxt "Languages::inc_tax"
 msgid "inc tax"
-msgstr "včt. DPH"
+msgstr "vč. daně"
 
 msgctxt "Languages::index"
 msgid "Home page"
@@ -6106,7 +6106,7 @@ msgstr "Žádné menu"
 
 msgctxt "Languages::no_products_for_shipment"
 msgid "There are no products for shipment"
-msgstr "Žádné zboží určeno k přepravě"
+msgstr "Žádné zboží určené k přepravě"
 
 msgctxt "Languages::no_products_selected"
 msgid "No products selected"
@@ -6410,7 +6410,7 @@ msgstr "Ostatní"
 
 msgctxt "Languages::other_addons"
 msgid "Other add-ons"
-msgstr "Ostatní moduly"
+msgstr "Ostatní doplňky"
 
 msgctxt "Languages::output"
 msgid "Output"
@@ -6930,7 +6930,7 @@ msgstr "Oddělovač ceny"
 
 msgctxt "Languages::price_includes_tax"
 msgid "Price includes tax"
-msgstr "Cena včetně DPH"
+msgstr "Cena včetně daně"
 
 msgctxt "Languages::price_increased"
 msgid "Price has been increased by"
@@ -8082,7 +8082,7 @@ msgstr "Slevy a kupony"
 
 msgctxt "Languages::reports_parameter_9"
 msgid "Taxes"
-msgstr "DPH"
+msgstr "Daně"
 
 msgctxt "Languages::request"
 msgid "Request"
@@ -8706,7 +8706,7 @@ msgstr "Služba nebyla nalezena"
 
 msgctxt "Languages::shippings_taxes"
 msgid "Shipping & taxes"
-msgstr "Doprava & DPH"
+msgstr "Doprava & daně"
 
 msgctxt "Languages::shipping_address"
 msgid "Shipping address"
@@ -9854,7 +9854,7 @@ msgstr "Daň"
 
 msgctxt "Languages::taxes"
 msgid "Taxes"
-msgstr "DPH"
+msgstr "Daně"
 
 msgctxt "Languages::taxes_menu_description"
 msgid "Manage the set of taxes that are supported in your store."
@@ -10078,15 +10078,15 @@ msgstr "(zobrazeno na stránce detailů produktu v \"Další obrázky\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
-msgstr "Modul \"[addon_name]\" je nekompatibilní s následujícími moduly: [addons]. Nemůže být povolen"
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následujícími doplňky: [addons]. Nemůže být aktivován"
 
 msgctxt "Languages::text_addon_confclicts"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. These add-ons will be automatically disabled."
-msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Tyto doplňky budou automaticky zakázány."
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Tyto doplňky budou automaticky deaktivovány."
 
 msgctxt "Languages::text_addon_confclicts_on_install"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It has not been be enabled. Enable it manually and all the incompatible add-ons will be disabled automatically."
-msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Z tohoto důvodu nejsou automaticky povolena. Chcete-li aktivovat add-on, musíte ji aktivovat ručně a nekompatibilní doplňky budou vypnuta automaticky."
+msgstr "Doplněk \"[addon_name]\" není kompatibilní s následující doplňky: [addons]. Z tohoto důvodu nebyl aktivován. Aktivujte jej manuálně a všechny nekompatibilní doplňky budou deaktivovány automaticky."
 
 msgctxt "Languages::text_addon_installed"
 msgid "The <b>\"[addon]\"</b> add-on has been installed successfully"
@@ -10094,11 +10094,11 @@ msgstr "Doplněk <b>\"[addon]\"</b> byl v pořádku nainstalován"
 
 msgctxt "Languages::text_addon_install_dependencies"
 msgid "The add-on cannot be installed because a dependence on the [addon] add-on is set for it. Please install the [addon] add-on first."
-msgstr "Modul nelze nainstalovat, protože je závislý na modulu [addon]. Prosím nainstalujte nejdříve modul [addon]."
+msgstr "Doplněk nelze nainstalovat, protože je závislý na doplňku [addon]. Prosím nainstalujte nejdříve doplněk [addon]."
 
 msgctxt "Languages::text_addon_uninstalled"
 msgid "The <b>\"[addon]\"</b> add-on has been uninstalled."
-msgstr "Tento doplněk <b>\"[addon]\"</b> byl odinstalován"
+msgstr "Doplněk <b>\"[addon]\"</b> byl odinstalován."
 
 msgctxt "Languages::text_addon_uninstall_dependencies"
 msgid "The add-on cannot be uninstalled because the following add-ons depend on it: [addons]"
@@ -10182,7 +10182,7 @@ msgstr "Fakturace a dodací adresy jsou stejné"
 
 msgctxt "Languages::text_block_trial_notice"
 msgid "Your 30-day evaluation period has expired. Please, buy a license ([href]) or remove the software from your server."
-msgstr "Vaše 30denní zkušební doba uplynula. Zakupte si, prosím, licenci ([href]), nebo odeberte software z vašeho serveru."
+msgstr "Vaše 30denní zkušební doba uplynula. Zakupte si prosím licenci ([href]) nebo odstraňte software z vašeho serveru."
 
 msgctxt "Languages::text_cannot_create_directory"
 msgid "Cannot create the directory <b>[directory]</b>. Please check the permissions."
@@ -11923,7 +11923,7 @@ msgstr "Současný stav"
 
 msgctxt "Languages::tools_addons_no_addons"
 msgid "No add-ons"
-msgstr "Bez doplňků"
+msgstr "Žádné doplňky"
 
 msgctxt "Languages::tools_addons_no_third_party_addons"
 msgid "No third party add-ons"
@@ -12415,7 +12415,7 @@ msgstr "Odznačit vše"
 
 msgctxt "Languages::unset_tax_to_products"
 msgid "Remove selected taxes from all products"
-msgstr "Zrušit vybrané DPH ze všech produktů"
+msgstr "Odebrat zvolené daně ze všeho zboží"
 
 msgctxt "Languages::unsubscribe"
 msgid "Unsubscribe"
@@ -12539,7 +12539,7 @@ msgstr "Pokud nejste obeznámeni s technickými aspekty CS-Cart a procesu inovac
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "Upgrade neaktualizuje všechny doplňky třetích stran. To je důvod, proč doporučujeme zakázat všechny doplňky třetích stran před upgradem."
+msgstr "Aktualizace neaktualizuje doplňky třetích stran. To je důvod, proč před jejím zahájením doporučujeme zakázat všechny doplňky třetích stran."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
@@ -13279,7 +13279,7 @@ msgstr "Vyberte soubor ve formátu ZIP nebo PO"
 
 msgctxt "Languages::text_free_mode_activated"
 msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "Váš obchod jste přepilovat do režimu Zdarma.<br><br>Některé funkce (např. Některé doplňky) jsou v tomto režimu nedostupné."
+msgstr "Přepnuli jste váš obchod do režimu Zdarma. <br><br>Všimněte si, že v tomto režimu nejsou k dispozici některé funkce (např. některé doplňky)."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -13359,7 +13359,7 @@ msgstr "Oddělovač pro možnosti produktu s jejich kombinací (např. \"Barva: 
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
-msgstr "Nahrát & instalovat doplněk"
+msgstr "Nahrát & nainstalovat doplněk"
 
 msgctxt "Languages::upload_theme"
 msgid "Upload theme"
@@ -13407,7 +13407,7 @@ msgstr "Neplatný přístup k FTP"
 
 msgctxt "Languages::install_addon_text"
 msgid "Add-ons extend the functionality of your store. <br /> You can install an add-on by picking a [exts] format archive and clicking Upload & install."
-msgstr "Doplňky rozšiřují možnosti vašeho obchodu.<br />Doplňky můžete nainstalovat vyjmutím archivu ve formátu [exts] a klepnutím na Nahrajte a nainstalovat."
+msgstr "Doplňky rozšiřují možnosti vašeho obchodu.<br />Doplněk můžete nainstalovat výběrem archivu ve formátu [exts] a kliknutím na Nahrát & nainstalovat."
 
 msgctxt "Languages::xml_error"
 msgid "XML parse error"
@@ -13539,7 +13539,7 @@ msgstr "Buďte sociální"
 
 msgctxt "Languages::uc_searchanise_disabled"
 msgid "The Searchanise add-on was automatically disabled during upgrade to avoid false search results. Activate it at any time on the <a href=\"[url]\">Add-ons</a> page."
-msgstr "Doplněk Searchanise byl během aktualizace automaticky vypnut kvůli zamezení falešných výsledků. Kdykoliv jej můžete znovu aktivovat na stránce <a href=\"[url]\">Doplňky</a>."
+msgstr "Doplněk Searchanise byl během aktualizace automaticky vypnut pro zamezení špatných výsledků vyhledávání. Můžete je kdykoliv znovu aktivovat na stránce <a href=\"[url]\">Doplňky</a>."
 
 msgctxt "Languages::text_store_closed"
 msgid "Sorry, the store is temporarily closed for maintenance."
@@ -15712,7 +15712,7 @@ msgstr "Nahrát zdokonalení balíček"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Nahrávání aktualizovaných balíčeků umožňuje použít rychlé opravy nebo doplňku aktualizace. Můžete nahrát inovační balíček výběrem tgz, gz, zip archivu a klepnutím na tlačítko Nahrát."
+msgstr "Nahrávání balíčků aktualizací vám umožňuje aplikovat rychlé opravy nebo aktualizace doplňků. Můžete nahrát aktualizační balíček výběrem tgz,gz,zip archivu a kliknutím na tlačítko Nahrát."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15740,7 +15740,7 @@ msgstr "Nelze zapisovat do souboru <b>[file]</b>. Nastavení oprávnění k záp
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr "<p>Databáze a soubory vašeho obchodního domu byla zálohována před upgradem. Záloha zahrnuje celou databázi a všechny soubory s výjimkou snímků. Záložní archiv byl uložen na serveru: [backup_file].</p><p>Před upgrade, váš obchod byl uzavřen. Zkontrolujte, zda je jeho běh v pořádku po aktualizaci a  <a href=\"[settings_section]\"> otevřte ho</a>.</p><p>Pokud se něco pokazí během upgradu, jděte na admin panel <strong>Administration → Backup/Restore</strong> a zálohu obnovte.</p><p>Pokud nemůžete získat přístup k admin panelu, použíjte následující odkaz k obnovení poslední zálohy. <b>Důležité:</b> následujícího odkazu bude okamžitě zahájí proces obnovení. Použijte jej pouze v případě, že nemůžete přístoupit k admin panelu! Obnovení poslední zálohy:</p>"
+msgstr "<p>Databáze a soubory vašeho obchodu byly před aktualizací zazálohovány. Záloha zahrnuje celou databázi a všechny soubory s výjimkou obrázků. Záložní archiv byl uložen na serveru: [backup_file].</p><p>Před aktualizací byl váš obchod uzavřen. Zkontrolujte, zda je i po aktualizaci plně funkční a <a href=\"[settings_section]\">otevřete jej</a>.</p><p>Pokud se během aktualizace něco pokazí, přejděte na panel správce <strong>Správa → Záloha/Obnovení</strong> a zálohu obnovte.</p><p>Pokud nemůžete získat přístup k panelu správce, použijte k obnovení poslední zálohy následující odkaz. <b>Důležité:</b> kliknutím na odkaz bude okamžitě zahájen proces obnovení. Použijte jej pouze v případě, že nemůžete získat přístup k panelu správce! Obnovení poslední zálohy:</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15864,7 +15864,7 @@ msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet p�
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr "Aktualizace změny v [product] [version]"
+msgstr "Změny v aktualizaci [product] [version]"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
@@ -15892,19 +15892,19 @@ msgstr "[count] produkty byly přesunuty do <a href='[url]' target='_blank'>Tras
 
 msgctxt "Languages::feature_comparison_upgrade_notification_title"
 msgid "Changes in feature comparison"
-msgstr "Změny ve srovnání s funkcí"
+msgstr "Porovnání změn ve funkcích"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_text"
 msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
-msgstr "<b>Vlastnost srovnání</b> checkbox pod <b>Produkty → Produkty → &lt;Požadovaný produkt&gt;</b> byli odstraněny.<br>Zaškrtnutím nový <b>Aby zákazníci mohli porovnat produkty</b> pod položkou Nastavení → Obecné → Katalog můžete nyní umožňují svým zákazníkům přidávat žádné produkty ve vašem obchodě se srovnávacích seznamů.<br>Chcete-li ukázat na seznamu porovnání funkcí, musí mít jeden (nebo více) z následujících políček povolených pod <b>Výrobky → Funkce → &lt;Požadovaná funkce&gt;</b>:<br><ul><li>Zobrazit na kartě Funkce</li><li>Zobrazit v seznamu produktů</li><li>Zobrazit v záhlaví na stránce s podrobnostmi o produktu</li></ul>"
+msgstr "Zaškrtávací pole <b>Porovnání vlastností</b> pod <b>Produkty → Produkty → &lt;Požadovaný produkt&gt;</b> bylo odstraněno.<br>Zaškrtnutím nového pole <b>Povolit zákazníkům porovnat produkty</b> pod položkou Nastavení → Obecné → Katalog můžete nyní umožnit svým zákazníkům přidávat jakékoli produkty vašeho obchodu do porovnávacích seznamů.<br>Chcete-li vlastnost ukázat na seznamu porovnání, musí mít zaškrtnuto jedno (nebo více) z následujících políček ve <b>Produkty → Funkce → &lt;Požadovaná funkce&gt;</b>:<br><ul><li>Zobrazit na kartě Vlastnosti</li><li>Zobrazit v seznamu produktů</li><li>Zobrazit v záhlaví na stránce s podrobnostmi o produktu</li></ul>"
 
 msgctxt "Languages::text_uc_addon_upgrade_completed"
 msgid "Add-on \"[name]\" has been upgraded successfully"
-msgstr "Add-on \"[name]\" byl úspěšně aktualizován"
+msgstr "Doplněk \"[name]\" byl úspěšně aktualizován"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
-msgstr "Chcete-li zjistit, pokud určitý problém je způsoben doplňkem, můžete zakázat doplňky aplikace třetích stran nebo všechny doplňky. Znovu povolte později s jedním klepnutím."
+msgstr "Chcete-li zjistit, pokud určitý problém je způsoben doplňkem, můžete zakázat doplňky aplikace třetích stran nebo všechny doplňky. Povolte je znovu později jedním kliknutím."
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
@@ -15972,7 +15972,7 @@ msgstr "Přeskočit soubory a zálohování databáze"
 
 msgctxt "Languages::uc_open_store_email_body"
 msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
-msgstr "<p>Před upgradem, váš obchod byl uzavřen. Zkontrolujte, zda je spuštěn skvěle po upgradu a <a href=\"[settings_section]\">otevříte jej</a>.</p>"
+msgstr "<p>Před aktualizací byl váš obchod uzavřen. Zkontrolujte, zda je i po aktualizaci plně funkční a <a href=\"[settings_section]\">otevřete jej</a>.</p></p>"
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"

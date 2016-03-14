@@ -10,35 +10,35 @@ msgstr ""
 "X-Crowdin-File: /editions/mve.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-03 03:55-0500\n"
+"PO-Revision-Date: 2016-03-13 10:55-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
-msgstr "Přidání dodavatelů"
+msgstr "Přidání prodejců"
 
 msgctxt "Languages::add_companies_and_close"
 msgid "Add vendors and close"
-msgstr "Přidání dodavatelů a zavřít"
+msgstr "Přidat prodejce a zavřít"
 
 msgctxt "Languages::add_vendor"
 msgid "Add vendor"
-msgstr "Přidání prodejce"
+msgstr "Přidat prodejce"
 
 msgctxt "Languages::add_vendor_administrator"
 msgid "Add vendor's administrator"
-msgstr "Přidat administrátora prodejce"
+msgstr "Přidat správce prodejců"
 
 msgctxt "Languages::vendor_administrator"
 msgid "Vendor's administrator"
-msgstr "Administrátor prodejců"
+msgstr "Správce prodejců"
 
 msgctxt "Languages::vendor_administrators"
 msgid "Vendor's administrators"
-msgstr "Administrátoři prodejců"
+msgstr "Správci prodejců"
 
 msgctxt "Languages::vendor_administrators_menu_description"
 msgid "List of vendor's administrators, registered users with a vendor account."
-msgstr "Seznam administrátorů prodejců, registrovaných uživatelů s účtem prodejce."
+msgstr "Seznam správců prodejců, registrovaných uživatelů s účtem prodejce."
 
 msgctxt "Languages::vendor_candidate_notification"
 msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
@@ -46,7 +46,7 @@ msgstr "Dobrý den, <br/><br/>máte nového kandidáta na prodejce ve vašem obc
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
-msgstr "Přejděte na panel dodavatelů"
+msgstr "Přejděte na panel prodejců"
 
 msgctxt "Languages::vendor_account_balance_menu_description"
 msgid "Income and expenditure statistics (total, per vendor, per period)."
@@ -66,11 +66,11 @@ msgstr "Sloučení dvou účtů společnosti odstraní [company_name] z databáz
 
 msgctxt "Languages::all_vendors"
 msgid "All vendors"
-msgstr "Všichni dodavatelé"
+msgstr "Všichni prodejci"
 
 msgctxt "Languages::apply_for_vendor_account"
 msgid "Apply for a vendor account"
-msgstr "Použít pro účet prodejce"
+msgstr "Požádat o účet prodejce"
 
 msgctxt "Languages::available_for_vendor"
 msgid "Available for vendor"
@@ -94,7 +94,7 @@ msgstr "Prodejci"
 
 msgctxt "Languages::create_administrator_account"
 msgid "Create administrator account"
-msgstr "Vytvoření účtu administrátora"
+msgstr "Vytvořit účet správce"
 
 msgctxt "Languages::displayed_vendors"
 msgid "Displayed vendors"
@@ -106,15 +106,15 @@ msgstr "Úprava prodejce"
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
-msgstr "Účet administrátora nebyl vytvořen. E-mailová adresa patří jinému uživateli. Administrátora pro tohoto prodejce můžete přidat manuálně."
+msgstr "Účet správce nebyl vytvořen. E-mailová adresa patří jinému uživateli. Pro tohoto prodejce můžete přidat správce manuálně."
 
 msgctxt "Languages::error_admin_not_created_name_already_used"
 msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
-msgstr "Účet administrátora nebyl vytvořen. Uživatelské jméno patří jinému uživateli. Měli byste změnit jméno účtu administrátora."
+msgstr "Účet správce nebyl vytvořen. Uživatelské jméno patří jinému uživateli. Měli byste změnit jméno účtu správce."
 
 msgctxt "Languages::error_vendor_exists"
 msgid "The vendor with e-mail you have chosen already exists, please try another."
-msgstr "Prodejce s e-mailem, který jste vybrali již existuje, zkuste jiný."
+msgstr "Prodejce s e-mailem, který jste vybrali již existuje, zkuste prosím jiný."
 
 msgctxt "Languages::expenditure"
 msgid "Expenditure"
@@ -130,7 +130,7 @@ msgstr "Správa prodejců"
 
 msgctxt "Languages::new_administrator_account_created"
 msgid "New administrator account has been successfully created."
-msgstr "Nový Administrátorský účet byl úspěšně vytvořen."
+msgstr "Nový účet správce byl úspěšně vytvořen."
 
 msgctxt "Languages::new_vendor"
 msgid "New vendor"
@@ -202,7 +202,7 @@ msgstr "Vaši žádost na prodejce [company] byla schválena."
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_created"
 msgid "New administrator was created. You can access to the administrator area: [link] by using the following credentials:<br />Login: [login]<br />Password: [password]"
-msgstr "Byl vytvořen nový administrátor. Pro přístup k administraci: [link] použijte následující pověření:<br />Jméno: [login]<br />Heslo: [password]"
+msgstr "Byl vytvořen nový správce. Pro přístup ke správě: [link] použijte následující pověření:<br />Jméno: [login]<br />Heslo: [password]"
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
 msgid "Type of your account [login] changed to administrator. You may login into the administrator area: [link]"
@@ -338,7 +338,7 @@ msgstr "Umožňuje uživateli vytvořit účet dodavatele"
 
 msgctxt "SettingsOptions::create_vendor_administrator_account"
 msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
-msgstr "Automaticky vytvořit účet administratora pro nové schválení prodávajícím. (Pokud je nastaveno na \"Povolit uživately vytvořit účet dodavatele\")"
+msgstr "Automaticky vytvořit účet správce pro nově schváleného prodejce. (Pokud je povoleno nastavení \"Povolit uživatelům zažádat o účet prodejce\")"
 
 msgctxt "SettingsOptions::display_vendor"
 msgid "Display product vendor"
