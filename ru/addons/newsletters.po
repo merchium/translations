@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-11 13:55-0500\n"
+"PO-Revision-Date: 2016-03-16 11:55-0400\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -46,7 +46,7 @@ msgstr "Добавить подписчиков из списка пользов
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "Email <b>[email]</b> уже есть в списке рассылки"
+msgstr "Email <b>[email]</b> уже есть в списке подписчиков"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
@@ -156,9 +156,9 @@ msgctxt "Languages::show_on_checkout"
 msgid "Show at checkout"
 msgstr "Показывать на странице оформления заказа"
 
-msgctxt "Languages::show_on_registration"
-msgid "Show on registration"
-msgstr "Показывать при регистрации"
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr ""
 
 msgctxt "Languages::show_on_separate_page"
 msgid "Show on separate page"
@@ -415,4 +415,8 @@ msgstr "Без промо-акции"
 msgctxt "Languages::promotion_cond_subscribed"
 msgid "Customer is subscribed"
 msgstr "Покупатель подписан"
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr ""
 

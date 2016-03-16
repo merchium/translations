@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-14 07:55-0400\n"
+"PO-Revision-Date: 2016-03-16 08:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1162,7 +1162,7 @@ msgstr "流式"
 
 msgctxt "Languages::block_manager.full_width_layout"
 msgid "Full width"
-msgstr ""
+msgstr "整体宽度"
 
 msgctxt "Languages::block_manager.grid_columns"
 msgid "Grid columns"
@@ -1182,23 +1182,23 @@ msgstr "最小宽度"
 
 msgctxt "Languages::block_manager.forbid_changing_layout_in_css_mode"
 msgid "Changing layout when the theme is converted to CSS is not permitted. Please enable LESS mode in the <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">Theme editor</a>."
-msgstr ""
+msgstr "主题转换为CSS之后，不允许修改布局。请在 <a target=\"_blank\" class=\"cm-post\" href=\"[url]\">主题编辑器</a>启用LESS模式。"
 
 msgctxt "Languages::block_manager.add_layout_page"
 msgid "Add layout page"
-msgstr ""
+msgstr "添加布局页面"
 
 msgctxt "Languages::block_manager.editing_layout_page"
 msgid "Editing layout page"
-msgstr ""
+msgstr "编辑布局页面"
 
 msgctxt "Languages::block_manager.new_layout_page"
 msgid "New layout page"
-msgstr ""
+msgstr "新的布局页面"
 
 msgctxt "Languages::block_manager.layout_pages"
 msgid "Layout pages"
-msgstr ""
+msgstr "布局页面"
 
 msgctxt "Languages::block_menu"
 msgid "Menu"
@@ -1230,11 +1230,11 @@ msgstr "版块订单"
 
 msgctxt "Languages::block_our_brands"
 msgid "Brands"
-msgstr ""
+msgstr "品牌"
 
 msgctxt "Languages::block_our_brands_description"
 msgid "Product brands presented in the store"
-msgstr ""
+msgstr "店铺展示的商品品牌"
 
 msgctxt "Languages::block_pages"
 msgid "Pages"
@@ -1266,11 +1266,11 @@ msgstr "产品筛选方式"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr ""
+msgstr "主页商品筛选器"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr ""
+msgstr "显示在主页上的产品筛选选项"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1286,11 +1286,11 @@ msgstr "可用的配送方式"
 
 msgctxt "Languages::block_smarty_block"
 msgid "HTML block with Smarty support"
-msgstr ""
+msgstr "支持Smarty的HTML版块"
 
 msgctxt "Languages::block_smarty_block_description"
 msgid "Any HTML/Smarty content"
-msgstr ""
+msgstr "任何 HTML/Smarty 内容"
 
 msgctxt "Languages::block_template"
 msgid "Template"
@@ -1358,11 +1358,11 @@ msgstr "箱宽"
 
 msgctxt "Languages::brand"
 msgid "Brand"
-msgstr ""
+msgstr "品牌"
 
 msgctxt "Languages::brand_type"
 msgid "Brand/Manufacturer"
-msgstr ""
+msgstr "品牌/制造商"
 
 msgctxt "Languages::breadcrumbs"
 msgid "Breadcrumbs"
@@ -1370,15 +1370,15 @@ msgstr "面包屑"
 
 msgctxt "Languages::broken_addon_pack"
 msgid "Incorrect add-on structure. The uploaded pack cannot be installed."
-msgstr ""
+msgstr "错误的插件结构。上传的包无法安装。"
 
 msgctxt "Languages::broken_po_pack"
 msgid "Incorrect PO-pack structure. The uploaded pack cannot be installed."
-msgstr ""
+msgstr "错误的PO-包结构。上传的包无法安装。"
 
 msgctxt "Languages::incorrect_po_pack_structure"
 msgid "The structure of package that contains \".po\" translation files located at <b>\"[pack_path]\"</b> is incorrect."
-msgstr ""
+msgstr "在 <b>\"[pack_path]\"</b>中包含\".po\"翻译文件的包结构是错误的。"
 
 msgctxt "Languages::browse"
 msgid "Browse..."
@@ -1386,15 +1386,15 @@ msgstr "浏览..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr ""
+msgstr "<p>我们检测到您正在使用的浏览器不完全支持我们的管理页面。您可以继续使用当前的浏览器查看我们的网站，但它可能无法正常显示，和无法使用某些功能。</p><br><p>推荐使用以下浏览器访问管理界面︰</p> <br><ul><li>&ndash;<a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\"target=\"_blank\">IE9 及以上</a></li> <li>&ndash;<a href=\"http://www.mozilla.org/en-US/\"target=\"_blank\"> 火狐浏览器 (最新版本)</a></li> <li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\"target=\"_blank\"> 谷歌浏览器(最新版本)</a></li></ul> <br><p>单击链接下载您所选择的浏览器。下载完成后，通过运行安装程序安装浏览器。</p><br><p>如果你现在不能升级您的浏览器，您仍然可以访问管理面板，但是您可能不能充分利用所有的功能。 <br><br><a href=\"[url]\"> 继续</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
-msgstr ""
+msgstr "浏览器升级提示"
 
 msgctxt "Languages::bucket"
 msgid "Bucket"
-msgstr ""
+msgstr "Bucket"
 
 msgctxt "Languages::bulk_category_addition"
 msgid "Bulk category addition"
@@ -1402,7 +1402,7 @@ msgstr "批量添加分类"
 
 msgctxt "Languages::bulk_print_invoice"
 msgid "Invoice bulk print"
-msgstr ""
+msgstr "发票批量打印"
 
 msgctxt "Languages::bulk_product_addition"
 msgid "Bulk product addition"
@@ -1410,11 +1410,11 @@ msgstr "批量添加产品"
 
 msgctxt "Languages::button_bgcolor"
 msgid "Button background color"
-msgstr ""
+msgstr "按钮的背景颜色"
 
 msgctxt "Languages::button_text_color"
 msgid "Button text color"
-msgstr ""
+msgstr "按钮的文本颜色"
 
 msgctxt "Languages::but_change"
 msgid "Change"
@@ -1466,7 +1466,7 @@ msgstr "所知道的 USS 39码, 3 of 9.<br/>39码可以对字母数字字符进�
 
 msgctxt "Languages::cache_cleared"
 msgid "Cache has been cleared"
-msgstr ""
+msgstr "缓存已经清理"
 
 msgctxt "Languages::calculate"
 msgid "Calculate"
@@ -1514,7 +1514,7 @@ msgstr "没有可用的支付方式,所以您不能进行结帐."
 
 msgctxt "Languages::cannot_remove_active_theme"
 msgid "Cannot remove the active theme"
-msgstr ""
+msgstr "不能删除正在使用的主题"
 
 msgctxt "Languages::cannot_write_file"
 msgid "Cannot write to the file <b>[file]</b>. Please check the file and directory permissions."
@@ -1546,7 +1546,7 @@ msgstr "卡数字"
 
 msgctxt "Languages::carousel"
 msgid "Carousel"
-msgstr ""
+msgstr "轮播"
 
 msgctxt "Languages::carrier"
 msgid "Carrier"
@@ -1554,35 +1554,35 @@ msgstr "运输"
 
 msgctxt "Languages::carrier_aup"
 msgid "Australia Post"
-msgstr ""
+msgstr "澳大利亚邮政"
 
 msgctxt "Languages::carrier_can"
 msgid "Canada Post"
-msgstr ""
+msgstr "加拿大邮政"
 
 msgctxt "Languages::carrier_dhl"
 msgid "DHL"
-msgstr ""
+msgstr "DHL"
 
 msgctxt "Languages::carrier_fedex"
 msgid "FedEx"
-msgstr ""
+msgstr "联邦快递"
 
 msgctxt "Languages::carrier_swisspost"
 msgid "SwissPost"
-msgstr ""
+msgstr "瑞士邮政"
 
 msgctxt "Languages::carrier_temando"
 msgid "Temando"
-msgstr ""
+msgstr "Temando"
 
 msgctxt "Languages::carrier_ups"
 msgid "UPS"
-msgstr ""
+msgstr "UPS"
 
 msgctxt "Languages::carrier_usps"
 msgid "USPS"
-msgstr ""
+msgstr "美国邮政"
 
 msgctxt "Languages::cart"
 msgid "Cart"
@@ -1610,7 +1610,7 @@ msgstr "购物车项目"
 
 msgctxt "Languages::cart_subtotal"
 msgid "Cart subtotal"
-msgstr ""
+msgstr "购物车小计"
 
 msgctxt "Languages::cash_on_delivery"
 msgid "Cash on delivery"
@@ -1658,7 +1658,7 @@ msgstr "分类名称"
 
 msgctxt "Languages::cdn_settings"
 msgid "CDN settings"
-msgstr ""
+msgstr "CDN 的设置"
 
 msgctxt "Languages::central"
 msgid "Central"
@@ -1690,11 +1690,11 @@ msgstr "更改"
 
 msgctxt "Languages::change_access_permission_to_config"
 msgid "Also it is recommended to change the access permissions for the config.local.php file. It should have 644 (read/write for the owner and read for others) permissions."
-msgstr ""
+msgstr "同时建议更改 config.local.php 文件的访问权限。建议设置为 644 (所有者可读/写，其他人只读) 权限。"
 
 msgctxt "Languages::change_addons_initialization"
 msgid "Change add-ons initialization"
-msgstr ""
+msgstr "修改插件的初始化"
 
 msgctxt "Languages::change_language"
 msgid "Change language"
@@ -1714,7 +1714,7 @@ msgstr "修改权限"
 
 msgctxt "Languages::check_permissions"
 msgid "Check permissions"
-msgstr ""
+msgstr "检查权限"
 
 msgctxt "Languages::change_range"
 msgid "Change range"
@@ -1722,11 +1722,11 @@ msgstr "更改范围"
 
 msgctxt "Languages::change_language_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr ""
+msgstr "店铺当前为免费模式，只能使用一种语言。请把选择的语言设置为激活状态。"
 
 msgctxt "Languages::change_currency_in_free_mode"
 msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr ""
+msgstr "店铺当前为免费模式，只能使用一种货币。请把选择的货币设置为激活状态。"
 
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
@@ -1774,11 +1774,11 @@ msgstr "我接受这些条款中的"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the [terms_href]"
-msgstr ""
+msgstr "选中复选框接受 [terms_href]"
 
 msgctxt "Languages::checkout_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "条款和条件"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -1794,7 +1794,7 @@ msgstr "再次检查"
 
 msgctxt "Languages::check_all"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 msgctxt "Languages::check_disabled"
 msgid "Disabled"
@@ -1814,11 +1814,11 @@ msgstr "启用"
 
 msgctxt "Languages::check_hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "下架"
 
 msgctxt "Languages::check_pending"
 msgid "Pending"
-msgstr ""
+msgstr "待定的"
 
 msgctxt "Languages::check_number"
 msgid "Check Number"
@@ -1826,7 +1826,7 @@ msgstr "检查数字"
 
 msgctxt "Languages::check_ssl"
 msgid "Check SSL"
-msgstr ""
+msgstr "检查 SSL"
 
 msgctxt "Languages::check_uncheck_all"
 msgid "Check / uncheck all"
@@ -1850,11 +1850,11 @@ msgstr "选择分类"
 
 msgctxt "Languages::choose_user"
 msgid "Choose user"
-msgstr ""
+msgstr "选择用户"
 
 msgctxt "Languages::choose_your_country"
 msgid "Choose your country"
-msgstr ""
+msgstr "选择您的国家"
 
 msgctxt "Languages::choose_your_store_mode"
 msgid "Please choose your licensing mode"
@@ -2982,7 +2982,7 @@ msgstr "排序"
 
 msgctxt "Languages::deposit_amount"
 msgid "Deposit amount"
-msgstr ""
+msgstr "存款金额"
 
 msgctxt "Languages::desc"
 msgid "desc."
@@ -3442,7 +3442,7 @@ msgstr "编辑个人资料"
 
 msgctxt "Languages::edit_profile_note"
 msgid "Change email, password, shipping/billing info, and other profile settings"
-msgstr ""
+msgstr "修改邮箱、密码、配送/计费和其他配置项设置"
 
 msgctxt "Languages::edit_report"
 msgid "Edit report"
@@ -3470,7 +3470,7 @@ msgstr "邮件地址"
 
 msgctxt "Languages::emails"
 msgid "Emails"
-msgstr ""
+msgstr "邮件地址"
 
 msgctxt "Languages::email_address"
 msgid "E-mail address"
@@ -3606,7 +3606,7 @@ msgstr "您的帐户被禁用. 请联系站点管理人员."
 
 msgctxt "Languages::error_admin_not_created_email_already_used"
 msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this company manually."
-msgstr ""
+msgstr "管理员帐号创建失败，该邮箱属于其他用户。你可以手动给该公司创建管理员帐号。"
 
 msgctxt "Languages::error_ajax"
 msgid "Oops, something went wrong ([error]). Please try again."
@@ -3634,11 +3634,11 @@ msgstr "货币代码<b>[code]</b>已存在"
 
 msgctxt "Languages::error_delete_theme_company"
 msgid "One of your storefronts uses this theme. Please set another theme before deleting it."
-msgstr ""
+msgstr "有店铺前台正在使用该主题。请把该店铺前台设置为其他主题后再删除。"
 
 msgctxt "Languages::error_delete_theme_layout"
 msgid "Layout that uses this theme is set as 	default. Please set another layout as default."
-msgstr ""
+msgstr "使用此主题的布局为默认值。请先把默认值设置为其他布局。"
 
 msgctxt "Languages::error_demo_mode"
 msgid "The cart is working in the <b>DEMO</b> mode and this functionality is disabled."
@@ -3646,7 +3646,7 @@ msgstr "购物站工作在<b>演示</b>模式下此功能被禁用"
 
 msgctxt "Languages::error_empty_company_name"
 msgid "Company name cannot be empty"
-msgstr ""
+msgstr "公司名称不能为空"
 
 msgctxt "Languages::error_exim_cant_open_file"
 msgid "Cannot open uploaded file"
@@ -3674,7 +3674,7 @@ msgstr "CSV文件中的分隔符和你所选择的不同"
 
 msgctxt "Languages::error_exim_invalid_count_langs"
 msgid "Multi-language line count mismatch: different number of lines for different languages provided."
-msgstr ""
+msgstr "多语言行数不匹配：不同语言的行数不相同。"
 
 msgctxt "Languages::error_exim_layout_required_fields"
 msgid "The following fields are mandatory and cannot be removed from the layout:"
@@ -3682,7 +3682,7 @@ msgstr "以下字段是必须的不能从布局中删除:"
 
 msgctxt "Languages::error_exim_no_data_exported_new"
 msgid "No data exported. The wrong export range is probably causing this issue. <a class=\"cm-post\" href=\"[url]\">Clear the export range</a>, then try again"
-msgstr ""
+msgstr "数据导出失败，导出范围可能有误。<a class=\"cm-post\" href=\"[url]\">清除导出范围</a>，然后重试"
 
 msgctxt "Languages::error_exim_no_file_uploaded"
 msgid "No file uploaded"
@@ -3714,7 +3714,7 @@ msgstr "hash生成错误. 请选择其他付款方式."
 
 msgctxt "Languages::error_images_need_located_root_dir"
 msgid "Please specify the images directory within the store root directory. Put the images to import in this directory."
-msgstr ""
+msgstr "请在店铺根目录指定图片目录。然后把需要导入的图片放在该目录。"
 
 msgctxt "Languages::error_image_format_not_supported"
 msgid "The image format <b>[format]</b> is not supported by GD library installed on your server. The thumbnail was not created."
@@ -3750,7 +3750,7 @@ msgstr "没有选择任何项目!至少选一个复选框来执行此操作."
 
 msgctxt "Languages::error_occured"
 msgid "Error occurred."
-msgstr ""
+msgstr "发生错误"
 
 msgctxt "Languages::error_occurred"
 msgid "Error occurred"
@@ -3798,7 +3798,7 @@ msgstr "您所选的用户或邮件地址已存在.请尝试另一个."
 
 msgctxt "Languages::error_validator_color"
 msgid "The color code in the <b>[field]</b> field is invalid."
-msgstr ""
+msgstr "<b>[field]</b> 字段中的颜色代码是无效的。"
 
 msgctxt "Languages::error_validator_email"
 msgid "The email address in the <b>[field]</b> field is invalid."
@@ -3838,11 +3838,11 @@ msgstr "此邮政编码在<b>[field]</b>区域不正确.正确的格式是[extra
 
 msgctxt "Languages::error_vendor_exists"
 msgid "The company with e-mail you have chosen already exists, please try another."
-msgstr ""
+msgstr "该邮箱已绑定公司，请尝试其他邮箱。"
 
 msgctxt "Languages::error_validator_ccv"
 msgid "CVV/CVC is too short."
-msgstr ""
+msgstr "CVV/CVC 太短。"
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
@@ -3894,11 +3894,11 @@ msgstr "Oops!<br />我们无法找到您正在寻找的."
 
 msgctxt "Languages::exchange_rate"
 msgid "Live exchange rates"
-msgstr ""
+msgstr "实时汇率"
 
 msgctxt "Languages::exec"
 msgid "Execute"
-msgstr ""
+msgstr "执行"
 
 msgctxt "Languages::exim_remove_additional_images"
 msgid "Clean up"
@@ -3990,7 +3990,7 @@ msgstr ""
 
 msgctxt "Languages::fail"
 msgid "Fail"
-msgstr ""
+msgstr "失败"
 
 msgctxt "Languages::failed"
 msgid "Failed"
@@ -4006,7 +4006,7 @@ msgstr "假"
 
 msgctxt "Languages::faroese"
 msgid "Faroese"
-msgstr ""
+msgstr "法罗语"
 
 msgctxt "Languages::fast"
 msgid "Fast"
@@ -4026,11 +4026,11 @@ msgstr "特性"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
-msgstr ""
+msgstr "特征变量分隔符"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
-msgstr ""
+msgstr "添加和管理商品附加字段。"
 
 msgctxt "Languages::feature_code"
 msgid "Feature code"
@@ -4042,11 +4042,11 @@ msgstr "功能比较"
 
 msgctxt "Languages::feature_display_on_catalog"
 msgid "Show in product list"
-msgstr ""
+msgstr "在商品列表中显示"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr ""
+msgstr "在商品详情页的头部显示"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4114,7 +4114,7 @@ msgstr "该文件不能下载, 因为下载限制等于 [limit] 已超过."
 
 msgctxt "Languages::file_is_too_large"
 msgid "File is too large. Max uploading size is [size]."
-msgstr ""
+msgstr "文件太大。最大支持 [size]."
 
 msgctxt "Languages::file_tree"
 msgid "File tree"
@@ -4134,7 +4134,7 @@ msgstr "筛选"
 
 msgctxt "Languages::filters_menu_description"
 msgid "Product filters are displayed on the storefront and enable your customers to quickly find the products."
-msgstr ""
+msgstr "商品筛选器显示在店铺前台页面，方便用户快速找到商品。"
 
 msgctxt "Languages::filter_by"
 msgid "Filter by"
@@ -5390,7 +5390,7 @@ msgstr "站点地图管理"
 
 msgctxt "Languages::manage_stores"
 msgid "Manage stores"
-msgstr ""
+msgstr "管理店铺"
 
 msgctxt "Languages::mandatory"
 msgid "Required"
@@ -5410,7 +5410,7 @@ msgstr "标记为解决"
 
 msgctxt "Languages::marketing"
 msgid "Marketing"
-msgstr ""
+msgstr "市场营销"
 
 msgctxt "Languages::maximum_items_in_box"
 msgid "Maximum items in box"
@@ -5506,7 +5506,7 @@ msgstr "商户姓"
 
 msgctxt "Languages::merchant_login"
 msgid "Merchant login"
-msgstr ""
+msgstr "商户登录"
 
 msgctxt "Languages::merchant_name"
 msgid "Merchant name"
@@ -5726,7 +5726,7 @@ msgstr "最受欢迎的"
 
 msgctxt "Languages::most_popular_addons"
 msgid "Most popular add-ons"
-msgstr ""
+msgstr "最受欢迎的插件"
 
 msgctxt "Languages::mr"
 msgid "Mr."
@@ -5770,7 +5770,7 @@ msgstr "我的积分"
 
 msgctxt "Languages::na"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 msgctxt "Languages::name"
 msgid "Name"
@@ -5798,7 +5798,7 @@ msgstr "最新的"
 
 msgctxt "Languages::new_administrator_password"
 msgid "New administrator password"
-msgstr ""
+msgstr "新的管理员密码"
 
 msgctxt "Languages::new_category"
 msgid "New category"
@@ -5854,7 +5854,7 @@ msgstr "新的语言变量"
 
 msgctxt "Languages::new_layout"
 msgid "New layout"
-msgstr ""
+msgstr "新的布局"
 
 msgctxt "Languages::new_link"
 msgid "New link"
@@ -5926,7 +5926,7 @@ msgstr "新保存的搜索"
 
 msgctxt "Languages::new_section"
 msgid "New section"
-msgstr ""
+msgstr "新的区域"
 
 msgctxt "Languages::new_shipment"
 msgid "New shipment"
@@ -5970,11 +5970,11 @@ msgstr "新的用户资料"
 
 msgctxt "Languages::new_vendor"
 msgid "New store"
-msgstr ""
+msgstr "新的店铺"
 
 msgctxt "Languages::new_zealand"
 msgid "New Zealand"
-msgstr ""
+msgstr "新西兰"
 
 msgctxt "Languages::next"
 msgid "Next"
@@ -6002,11 +6002,11 @@ msgstr "普通"
 
 msgctxt "Languages::norway"
 msgid "Norway"
-msgstr ""
+msgstr "挪威"
 
 msgctxt "Languages::norwegian"
 msgid "Norwegian"
-msgstr ""
+msgstr "挪威语"
 
 msgctxt "Languages::note"
 msgid "Note"
@@ -6066,7 +6066,7 @@ msgstr "非用户"
 
 msgctxt "Languages::not_installed"
 msgid "Not installed"
-msgstr ""
+msgstr "未安装"
 
 msgctxt "Languages::not_scroll_automatically"
 msgid "Do not scroll automatically"
@@ -6074,7 +6074,7 @@ msgstr "不要自动滚动"
 
 msgctxt "Languages::no_categories_available"
 msgid "No categories available"
-msgstr ""
+msgstr "没有可用的分类"
 
 msgctxt "Languages::no_data"
 msgid "No data found"
@@ -6086,7 +6086,7 @@ msgstr "没有发现满足此图表条件的数据"
 
 msgctxt "Languages::no_files"
 msgid "No files"
-msgstr ""
+msgstr "没有文件"
 
 msgctxt "Languages::no_image"
 msgid "No image"
@@ -6126,7 +6126,7 @@ msgstr "没有这种折扣券. <br />请再试一次."
 
 msgctxt "Languages::no_themes_available"
 msgid "No themes available"
-msgstr ""
+msgstr "没有可用的主题"
 
 msgctxt "Languages::no_users_found"
 msgid "No users found"
@@ -6154,7 +6154,7 @@ msgstr "已存在相同名称的对象.您要覆盖它吗?"
 
 msgctxt "Languages::object_not_found"
 msgid "The [object] not found"
-msgstr ""
+msgstr "找不到 [object]"
 
 msgctxt "Languages::of"
 msgid "of"
@@ -6162,7 +6162,7 @@ msgstr "对"
 
 msgctxt "Languages::off"
 msgid "Off"
-msgstr ""
+msgstr "关闭"
 
 msgctxt "Languages::offline"
 msgid "Offline"
@@ -6170,11 +6170,11 @@ msgstr "离线"
 
 msgctxt "Languages::offset"
 msgid "Offset"
-msgstr ""
+msgstr "偏移量"
 
 msgctxt "Languages::ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "Languages::old_price"
 msgid "Old price"
@@ -6202,11 +6202,11 @@ msgstr "开/关"
 
 msgctxt "Languages::on_site_template_editing"
 msgid "On-site template editing"
-msgstr ""
+msgstr "在线模版编辑"
 
 msgctxt "Languages::on_site_live_editing"
 msgid "On-site live editing"
-msgstr ""
+msgstr "在线实时编辑"
 
 msgctxt "Languages::open"
 msgid "Open"
@@ -6218,7 +6218,7 @@ msgstr "展开"
 
 msgctxt "Languages::open_file_or_create_new"
 msgid "Open a file or create a new one to get started."
-msgstr ""
+msgstr "从打开或新建一个文件开始。"
 
 msgctxt "Languages::open_in_new_window"
 msgid "Open in new window"
@@ -6250,7 +6250,7 @@ msgstr "选项已成功地应用于选定的产品"
 
 msgctxt "Languages::options_menu_description"
 msgid "Manage global product options and option variants in your store."
-msgstr ""
+msgstr "管理店铺的全局商品选项和选项变量。"
 
 msgctxt "Languages::options_settings"
 msgid "Options settings"
@@ -6310,15 +6310,15 @@ msgstr "订单"
 
 msgctxt "Languages::orders_not_allow_to_change_company"
 msgid "Company has not been changed. It is not allowed to change the company when editing an order."
-msgstr ""
+msgstr "没有修改公司。编辑订单时不允许修改公司。"
 
 msgctxt "Languages::orders_no_items"
 msgid "Use the \"Add products\" button above to add products to order."
-msgstr ""
+msgstr "使用上方的 \"添加商品\" 按钮来添加订单中的商品。"
 
 msgctxt "Languages::order_by_status"
 msgid "Order by status"
-msgstr ""
+msgstr "按订单状态"
 
 msgctxt "Languages::order_date"
 msgid "Order date"
@@ -6410,7 +6410,7 @@ msgstr "其他"
 
 msgctxt "Languages::other_addons"
 msgid "Other add-ons"
-msgstr ""
+msgstr "其他插件"
 
 msgctxt "Languages::output"
 msgid "Output"
@@ -6422,7 +6422,7 @@ msgstr "缺货操作"
 
 msgctxt "Languages::out_of_stock_products"
 msgid "Out of stock"
-msgstr ""
+msgstr "缺货"
 
 msgctxt "Languages::override_by_dispatch"
 msgid "Override locations by dispatch"
@@ -6458,7 +6458,7 @@ msgstr "包裹"
 
 msgctxt "Languages::show_package_contents"
 msgid "Show Package Contents"
-msgstr ""
+msgstr "显示包内容"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -6586,23 +6586,23 @@ msgstr ""
 
 msgctxt "Languages::payments.epdq.bgcolor"
 msgid "Background color"
-msgstr ""
+msgstr "背景颜色"
 
 msgctxt "Languages::payments.epdq.btn_bgcolor"
 msgid "Button background color"
-msgstr ""
+msgstr "按钮的背景颜色"
 
 msgctxt "Languages::payments.epdq.btn_textcolor"
 msgid "Button text color"
-msgstr ""
+msgstr "按钮的文本颜色"
 
 msgctxt "Languages::payments.epdq.font_type"
 msgid "Font type"
-msgstr ""
+msgstr "字体"
 
 msgctxt "Languages::payments.epdq.hash_error"
 msgid "Sorry, the hash string does not match"
-msgstr ""
+msgstr "对不起，哈希字符串不匹配"
 
 msgctxt "Languages::payments.epdq.instructions"
 msgid "<ol><li><p>Enter the following URL in the \"Technical information\"→\"Transaction feedback\" section in the ePDQ admin area:</p><p>for the \"accepted\" and \"cancelled\" payments: [url]</p></li><li>Make sure that the \"Timing of the request\" is set to \"Always online\", and \"Request method\" is set to \"POST\"</li><li>Define the \"SHA-OUT pass phrase\" value in the ePDQ admin area as you like, then duplicate it in the \"SHA-IN pass phrase\" field in the \"Data and origin verification\" section, and also in the \"Pass-phrase\" field below</li><li>Make sure that the \"Default operation code\" option in the ePDQ admin area has the same value as the \"Transaction type\" option value below</li><li>Set the \"Hash algorithm\" parameter to \"SHA-1\" in the \"Global security parameters\" section in the ePDQ admin area</li></ol>"
@@ -6614,19 +6614,19 @@ msgstr ""
 
 msgctxt "Languages::payments.epdq.tbl_bgcolor"
 msgid "Table background color"
-msgstr ""
+msgstr "表格背景颜色"
 
 msgctxt "Languages::payments.epdq.tbl_textcolor"
 msgid "Table text color"
-msgstr ""
+msgstr "表格文本颜色"
 
 msgctxt "Languages::payments.epdq.textcolor"
 msgid "Text color"
-msgstr ""
+msgstr "文本颜色"
 
 msgctxt "Languages::payments.epdq.title"
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 msgctxt "Languages::payments.signin_to_checkout"
 msgid "<a href=[url]>Sign in</a> to check out"
@@ -6738,7 +6738,7 @@ msgstr "周期"
 
 msgctxt "Languages::per_item"
 msgid "Per Item"
-msgstr ""
+msgstr "每个商品"
 
 msgctxt "Languages::per_page"
 msgid "Per Page"
@@ -6762,7 +6762,7 @@ msgstr "PHP信息"
 
 msgctxt "Languages::pick_store"
 msgid "Pick a store"
-msgstr ""
+msgstr "选择一个店铺"
 
 msgctxt "Languages::pie"
 msgid "Pie"
@@ -8254,7 +8254,7 @@ msgstr "保存"
 
 msgctxt "Languages::saved_search"
 msgid "Saved searches"
-msgstr ""
+msgstr "已保存的搜索"
 
 msgctxt "Languages::save_and_close"
 msgid "Save and close"
@@ -8262,7 +8262,7 @@ msgstr "保存并关闭"
 
 msgctxt "Languages::save_as"
 msgid "Save As..."
-msgstr ""
+msgstr "另存为..."
 
 msgctxt "Languages::save_changes"
 msgid "Save changes"
@@ -8326,7 +8326,7 @@ msgstr "按订单搜索"
 
 msgctxt "Languages::search_by_owner"
 msgid "Search by owner"
-msgstr ""
+msgstr "按所有者搜索"
 
 msgctxt "Languages::search_by_price"
 msgid "Search by price"
@@ -8346,7 +8346,7 @@ msgstr "按产品编码搜索"
 
 msgctxt "Languages::search_by_vendor"
 msgid "Search by store"
-msgstr ""
+msgstr "按店铺搜索"
 
 msgctxt "Languages::search_by_weight"
 msgid "Search by weight"
@@ -8398,7 +8398,7 @@ msgstr "搜索字符串"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr ""
+msgstr "商品、客户、订单和CMS页面搜索"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -8422,7 +8422,7 @@ msgstr "区域"
 
 msgctxt "Languages::section_is_not_completed"
 msgid "Section is not completed."
-msgstr ""
+msgstr "未完成区域"
 
 msgctxt "Languages::section_links"
 msgid "Section links"
@@ -8438,7 +8438,7 @@ msgstr "安全"
 
 msgctxt "Languages::security"
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 msgctxt "Languages::secure_checkout"
 msgid "Secure checkout"
@@ -8450,11 +8450,11 @@ msgstr ""
 
 msgctxt "Languages::secure_storefront_url_already_exists"
 msgid "The value of the <strong>Secure storefront URL</strong> parameter mentioned by you already belongs to another company."
-msgstr ""
+msgstr "<strong>Secure storefront URL</strong> 的参数值与其他公司冲突。"
 
 msgctxt "Languages::security_settings"
 msgid "Security settings"
-msgstr ""
+msgstr "安全设置"
 
 msgctxt "Languages::see_demo"
 msgid "See demo"
@@ -8470,7 +8470,7 @@ msgstr "选择框"
 
 msgctxt "Languages::selected"
 msgid "Selected"
-msgstr ""
+msgstr "已选择"
 
 msgctxt "Languages::selected_items"
 msgid "Selected items"
@@ -8494,7 +8494,7 @@ msgstr "选择国家"
 
 msgctxt "Languages::select_customer"
 msgid "Select customer"
-msgstr ""
+msgstr "选择客户"
 
 msgctxt "Languages::select_dates"
 msgid "Select dates"
@@ -8606,7 +8606,7 @@ msgstr "设置"
 
 msgctxt "Languages::settings_wizard"
 msgid "Settings wizard"
-msgstr ""
+msgstr "设置向导"
 
 msgctxt "Languages::settings_wizard_close_tooltip"
 msgid "Wizard will be possible to re-open in the menu 'Settings -> Settings wizard'."
@@ -9118,23 +9118,23 @@ msgstr "航空服务中心"
 
 msgctxt "Languages::ship_ups_delivery_confirmation"
 msgid "No Signature"
-msgstr ""
+msgstr "不需要签字"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_signature"
 msgid "Signature Required"
-msgstr ""
+msgstr "需要签字"
 
 msgctxt "Languages::ship_ups_delivery_confirmation_adult_signature"
 msgid "Adult Signature Required"
-msgstr ""
+msgstr "需要成人签字"
 
 msgctxt "Languages::ship_ups_use_delivery_confirmation"
 msgid "Use Delivery confirmation"
-msgstr ""
+msgstr "使用配送确认"
 
 msgctxt "Languages::ship_ups_dcist_type"
 msgid "Confirmation type"
-msgstr ""
+msgstr "确认类型"
 
 msgctxt "Languages::ship_usps_container"
 msgid "Container"
@@ -9434,7 +9434,7 @@ msgstr "网站编号 (EPT)"
 
 msgctxt "Languages::size"
 msgid "Size"
-msgstr ""
+msgstr "尺寸"
 
 msgctxt "Languages::skiplastpage"
 msgid "Skip the last page"
@@ -9454,7 +9454,7 @@ msgstr "产品编码"
 
 msgctxt "Languages::slovak"
 msgid "Slovak"
-msgstr ""
+msgstr "斯洛伐克语"
 
 msgctxt "Languages::slow"
 msgid "Slow"
@@ -9466,7 +9466,7 @@ msgstr "小件物品"
 
 msgctxt "Languages::smarty_block"
 msgid "HTML block with Smarty support"
-msgstr ""
+msgstr "支持Smarty的HTML版块"
 
 msgctxt "Languages::sms_customer_registered"
 msgid "Customer [name] has been registered."
@@ -9482,7 +9482,7 @@ msgstr "已下单"
 
 msgctxt "Languages::snapshot_date"
 msgid "Snapshot date"
-msgstr ""
+msgstr "快照日期"
 
 msgctxt "Languages::sort_by"
 msgid "Sort by"
@@ -9490,7 +9490,7 @@ msgstr "排序依据"
 
 msgctxt "Languages::sort_by_null_asc"
 msgid "No sorting"
-msgstr ""
+msgstr "不排序"
 
 msgctxt "Languages::sort_by_popularity_asc"
 msgid "Sort by Popularity: Low to High"
@@ -9538,7 +9538,7 @@ msgstr "图片排序"
 
 msgctxt "Languages::spanish"
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙语"
 
 msgctxt "Languages::specific_settings"
 msgid "Specific settings"
@@ -9554,7 +9554,7 @@ msgstr "速度"
 
 msgctxt "Languages::ssl_certificate"
 msgid "SSL certificate"
-msgstr ""
+msgstr "SSL 证书"
 
 msgctxt "Languages::staff_only_notes"
 msgid "Staff only notes"
@@ -9622,7 +9622,7 @@ msgstr "状态已修改"
 
 msgctxt "Languages::status_changed_after_process_payment"
 msgid "Order status was set according to the payment processing result"
-msgstr ""
+msgstr "订单状态已经按照支付处理结果设置"
 
 msgctxt "Languages::stay_connected"
 msgid "Stay Connected"
@@ -9654,7 +9654,7 @@ msgstr "停止其他规则"
 
 msgctxt "Languages::storage"
 msgid "Storage"
-msgstr ""
+msgstr "存储"
 
 msgctxt "Languages::store"
 msgid "Store"
@@ -9662,23 +9662,23 @@ msgstr "商店"
 
 msgctxt "Languages::storefront"
 msgid "Storefront"
-msgstr ""
+msgstr "店铺前台"
 
 msgctxt "Languages::storefront_url"
 msgid "Storefront URL"
-msgstr ""
+msgstr "店铺首页的URL"
 
 msgctxt "Languages::storefront_url_already_exists"
 msgid "The value of the <strong>Storefront URL</strong> parameter mentioned by you already belongs to another company."
-msgstr ""
+msgstr "<strong>Storefront URL</strong> 的参数值与其他公司冲突。"
 
 msgctxt "Languages::storefront_url_not_defined"
 msgid "Storefront URL not defined"
-msgstr ""
+msgstr "店铺首页URL未定义"
 
 msgctxt "Languages::stores"
 msgid "Stores"
-msgstr ""
+msgstr "店铺"
 
 msgctxt "Languages::store_locator"
 msgid "Store locator"
@@ -9686,11 +9686,11 @@ msgstr "商店位置"
 
 msgctxt "Languages::store_mode"
 msgid "Licensing mode"
-msgstr ""
+msgstr "授权模式"
 
 msgctxt "Languages::store_mode_changed"
 msgid "Licensing mode has been changed"
-msgstr ""
+msgstr "授权模式已被更改"
 
 msgctxt "Languages::store_number"
 msgid "Store number"
@@ -9698,19 +9698,19 @@ msgstr "商店编号"
 
 msgctxt "Languages::store_object_denied"
 msgid "The [object_type] [object_name] is unavailable for this store."
-msgstr ""
+msgstr "[object_type] [object_name] 在当前店铺不可用。"
 
 msgctxt "Languages::store_theme"
 msgid "Storefront theme"
-msgstr ""
+msgstr "店铺前台主题"
 
 msgctxt "Languages::store_mode_will_be_changed_to_free"
 msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr ""
+msgstr "安装完整性检查失败。你的店铺将在 2 天内切换到免费模式。请与我们的 <a href=\"[href]\"> 支持团队</a>联系。"
 
 msgctxt "Languages::store_mode_will_be_changed_to_trial"
 msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr ""
+msgstr "安装完整性检查失败。你的店铺将在 2 天内将切换到体验模式。请与我们的 <a href=\"[href]\"> 支持团队</a>联系。"
 
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
@@ -9758,7 +9758,7 @@ msgstr "小计金额"
 
 msgctxt "Languages::suburb"
 msgid "Suburb"
-msgstr ""
+msgstr "郊区"
 
 msgctxt "Languages::successful"
 msgid "Successful"
@@ -9766,7 +9766,7 @@ msgstr "成功的"
 
 msgctxt "Languages::successfully_registered"
 msgid "Successfully registered"
-msgstr ""
+msgstr "成功注册"
 
 msgctxt "Languages::successful_login"
 msgid "You have been successfully logged in."
@@ -9774,7 +9774,7 @@ msgstr "您已成功登录."
 
 msgctxt "Languages::success_registration_text"
 msgid "Congratulations! The registration was successful!<br/>Now, you have full access to all the store features. Click on \"My account\" to see them."
-msgstr ""
+msgstr "祝贺你注册成功 ！ <br/>现在，你可以访问店铺所有功能。单击\"我的账户\"查看完整功能。"
 
 msgctxt "Languages::suffix"
 msgid "Suffix"
@@ -9806,11 +9806,11 @@ msgstr "附加费标题"
 
 msgctxt "Languages::sweden"
 msgid "Sweden"
-msgstr ""
+msgstr "瑞典"
 
 msgctxt "Languages::swedish"
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典语"
 
 msgctxt "Languages::swing"
 msgid "Swing"
@@ -9818,7 +9818,7 @@ msgstr ""
 
 msgctxt "Languages::switch_layout"
 msgid "Switch layout"
-msgstr ""
+msgstr "切换布局"
 
 msgctxt "Languages::symbol"
 msgid "Symbol"
@@ -9870,15 +9870,15 @@ msgstr "税率"
 
 msgctxt "Languages::temando_centimetres"
 msgid "centimetres"
-msgstr ""
+msgstr "厘米"
 
 msgctxt "Languages::temando_feet"
 msgid "feet"
-msgstr ""
+msgstr "英尺"
 
 msgctxt "Languages::temando_inches"
 msgid "inches"
-msgstr ""
+msgstr "英寸"
 
 msgctxt "Languages::temando_method_depottodepot"
 msgid "Depot to Depot"
@@ -9890,11 +9890,11 @@ msgstr ""
 
 msgctxt "Languages::temando_metres"
 msgid "metres"
-msgstr ""
+msgstr "米"
 
 msgctxt "Languages::temando_package_backpack"
 msgid "Backpack"
-msgstr ""
+msgstr "背包"
 
 msgctxt "Languages::temando_package_bale"
 msgid "Bale"
@@ -9982,15 +9982,15 @@ msgstr ""
 
 msgctxt "Languages::temando_package_wheel"
 msgid "Wheel/Tyre"
-msgstr ""
+msgstr "车轮/轮胎"
 
 msgctxt "Languages::temando_subclass_excessbaggage"
 msgid "Excess Baggage"
-msgstr ""
+msgstr "超重行李"
 
 msgctxt "Languages::temando_subclass_furniture"
 msgid "Furniture"
-msgstr ""
+msgstr "家具"
 
 msgctxt "Languages::temando_subclass_householdgoods"
 msgid "Household Goods"

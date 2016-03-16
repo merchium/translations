@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: core.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 12:00-0500\n"
+"PO-Revision-Date: 2016-03-16 10:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -466,7 +466,7 @@ msgstr "Thêm danh mục con"
 
 msgctxt "Languages::new_subscribers"
 msgid "New subscribers"
-msgstr ""
+msgstr "Đăng ký nhận tin mới"
 
 msgctxt "Languages::add_subscriber"
 msgid "Add subscriber"
@@ -1774,11 +1774,11 @@ msgstr "Tôi chấp nhận các điều khoản trong"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the [terms_href]"
-msgstr ""
+msgstr "Nhấp chọn để chấp nhận [terms_href]"
 
 msgctxt "Languages::checkout_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Điều khoản và Điều kiện"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -11242,7 +11242,7 @@ msgstr "Không thể tải về các gói nâng cấp"
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "Những tập tin đã thay đổi cục bộ và sẽ được sao lưu. Sau khi nâng cấp xong, so sánh các tập tin sao lưu với các tập tin mới và áp dụng lại những sửa đổi các tập tin mới, nếu cần thiết."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11598,7 +11598,7 @@ msgstr "Ẩn/Hiển thị bảng điều khiển biên tập chủ đề"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Tên kiểu dáng không thể chứa các ký tự sau: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12118,7 +12118,7 @@ msgstr "Đúng"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "Thời gian giao hàng sẽ xuất hiện bên cạnh tên của các phương pháp vận chuyển. Nếu bạn dùng thời gian thực để tính tỷ lệ vận chuyển, Dịch vụ vận chuyển của bạn có thể cung cấp thời gian giao hàng riêng của mình. Thời gian cung cấp bởi các dịch vụ vận chuyển sẽ được hiển thị thay vì thời gian bạn chỉ định ở đây."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12502,7 +12502,7 @@ msgstr "Trung tâm nâng cấp"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "Tất cả các quyền tập tin và thư mục đã được điều chỉnh đúng cách."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -12870,7 +12870,7 @@ msgstr "ID Cửa hàng"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Tên nhà cung cấp"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -13370,7 +13370,7 @@ msgstr "Tải lên và cài đặt một chủ đề mới là một cách tuy�
 
 msgctxt "Languages::install_upgrade_package_text"
 msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
-msgstr ""
+msgstr "Bạn có thể tải gói nâng cấp một cách thủ công từ các máy tính cá nhân, máy chủ của bạn, hoặc từ một vị trí từ xa. Xác định vị trí một kho lưu trữ định dạng [exts] và nhấp vào <strong>Tải lên</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13566,7 +13566,7 @@ msgstr "Cài sẵn với tên này đã tồn tại. Hãy chọn một tên khá
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Tên đặt trước không thể chứa các ký tự sau: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -14414,7 +14414,7 @@ msgstr "Yêu cầu khách hàng đồng ý với điều khoản &amp; điều k
 
 msgctxt "SettingsTooltips::agree_terms_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
-msgstr ""
+msgstr "Nội dung của điều khoản & điều kiện sẽ được lấy từ biến ngôn ngữ \"terms_and_conditions_content\"."
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -15034,11 +15034,11 @@ msgstr "(GMT + 01:00) Tây Trung Phi"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT + 02:00) Athens, Beirut, Istanbul"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT + 02:00) Bucharest"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15070,7 +15070,7 @@ msgstr "(GMT + 03:00) Moskva, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT + 03:00) Minsk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15546,7 +15546,7 @@ msgstr "Không thể kiểm tra"
 
 msgctxt "Languages::payments.realex.avs.partial_match"
 msgid "Partial match"
-msgstr ""
+msgstr "Một phần kết hợp"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
@@ -15991,49 +15991,49 @@ msgstr ""
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] ngày|[n] ngày"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr ""
+msgstr "Theo dõi trên trang web"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
-msgstr ""
+msgstr "Không thể tạo một trạng thái mới"
 
 msgctxt "Languages::maximum_number_of_statuses_reached"
 msgid "You have reached the maximum number of statuses"
-msgstr ""
+msgstr "Bạn đã đạt đến số tối đa của các trạng thái"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
-msgstr ""
+msgstr "Tình trạng trở lại thất bại khi được hỏi với CURLOPT_SSL_VERIFYSTATUS."
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
-msgstr ""
+msgstr "Định dạng lưu trữ không rõ: [ext]"
 
 msgctxt "Languages::error_file_not_found"
 msgid "File \"[file]\" not found."
-msgstr ""
+msgstr "Tập tin \"[file]\" không tìm thấy."
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
-msgstr ""
+msgstr "Tập tin \"[file]\" đã tồn tại."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Sửa đổi cục bộ"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Những tập tin đã thay đổi cục bộ. Trong quá trình nâng cấp một kho lưu trữ sao lưu được tạo ra trong thư mục <strong>[dir]</strong>. Bạn có thể muốn kiểm tra các tập tin trong kho lưu trữ và áp dụng lại các sửa đổi đến cửa hàng của bạn."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Không kiểm tra"
 
 msgctxt "Languages::checked"
 msgid "Checked"
-msgstr ""
+msgstr "Kiểm tra"
 
