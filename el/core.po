@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: el\n"
 "X-Crowdin-File: core.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 11:56-0500\n"
+"PO-Revision-Date: 2016-03-24 02:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11242,7 +11242,7 @@ msgstr "Δεν μπορείτε να κατεβάσετε το πακέτο αν
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "Αυτά τα αρχεία έχουν τοπικό τροποποιήσεις και θα δημιουργηθούν αντίγραφα. Μόλις ολοκληρωθεί η αναβάθμιση, συγκρίνετε τα αρχεία αντιγράφων ασφαλείας με τα νέα αρχεία και εφαρμόστε ξανά τις τροποποιήσεις για τα νέα αρχεία, εάν αυτό είναι απαραίτητο."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11598,7 +11598,7 @@ msgstr "Απόκρυψη/Εμφάνιση πίνακα επεξεργασίας 
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Το όνομα του στυλ δεν μπορεί να περιέχει τους ακόλουθους χαρακτήρες: \"/ # % ? * : ; { } \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12118,7 +12118,7 @@ msgstr "Αληθές"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "Ο χρόνος παράδοσης θα εμφανίζεται δίπλα στο όνομα του τροπου αποστολής. Εάν χρησιμοποιείτε τροπο αποστολης με ποσοστό υπολογισμού σε πραγματικο χρονο, τοτε ο τροπος αποστολης σας μπορεί να παρέχει το δικό του χρόνο παράδοσης. θα εμφανιστεί η ώρα που παρέχεται από την υπηρεσία αποστολής αντί για την ώρα που καθορίζετε εδώ."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12870,7 +12870,7 @@ msgstr "Ταυτότητα πωλητή"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Όνομα πωλητή"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -13566,7 +13566,7 @@ msgstr "Το στυλ με αυτό το όνομα υπάρχει ήδη. Πα�
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Το Όνομα Προεπιλογής δεν μπορει να περιεχει τους εξης χαρακτηρες: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -15034,11 +15034,11 @@ msgstr "(GMT+01:00) West Central Africa"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT+02:00) Athens, Beirut, Istanbul, Minsk"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT+02:00) Bucharest"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15070,7 +15070,7 @@ msgstr "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT + 03:00) Μινσκ"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15775,7 +15775,7 @@ msgstr "Παρουσιάστηκε σφάλμα κατά την αναβάθμι
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
-msgstr ""
+msgstr "Ορισμένες <strong>ετικέτες HTML</strong> που έχετε χρησιμοποιήσει <strong>διακόπηκαν</strong> λόγω των περιορισμών σχετικά με την εισαγωγή HTML ετικέτες, όπως &lt; αντικείμενο &gt;, &lt; iframe &gt;, &lt; embed &gt; και κώδικα JavaScript. Γι αυτό το λόγο δεν θα εμφανιστεί το περιεχόμενο που έχετε τοποθετήσει μέσω αυτές τις ετικέτες."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -16023,17 +16023,29 @@ msgstr "Το αρχείο \"[file]\" υπάρχει ήδη."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Τοπικες τροποποιήσεις"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Αυτά τα αρχεία είχαν τοπικες τροποποιήσεις. Στη διάρκεια της αναβάθμισης, ένα εφεδρικό αρχείο δημιουργήθηκε στον κατάλογο <strong>[dir]</strong>. Μπορεί αν θέλετε να ελέγξετε αυτά τα αρχεία εκει , και να εφαρμόσετε ξανά τις τροποποιήσεις στο κατάστημά σας."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Δεν ελέγχθηκε"
 
 msgctxt "Languages::checked"
 msgid "Checked"
+msgstr "ελέγχθηκε"
+
+msgctxt "Languages::error_filter_by_feature_exists"
+msgid "Filter by feature \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::error_filter_by_product_field_exists"
+msgid "Filter by product field \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::shipping_address_changed"
+msgid "Shipping address has been changed"
 msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/ebay.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-02-11 07:56-0500\n"
+"PO-Revision-Date: 2016-03-25 14:55-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -162,7 +162,7 @@ msgstr "eBay kategori durumu"
 
 msgctxt "Languages::ebay_associated_category"
 msgid "Associated eBay category"
-msgstr ""
+msgstr "İlişkili eBay Kategori"
 
 msgctxt "Languages::ebay_category_preferences"
 msgid "eBay Category <br> Preferences"
@@ -170,7 +170,7 @@ msgstr "eBay Kategori <br>tercihleri"
 
 msgctxt "Languages::ebay_category_preferences_tooltip"
 msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
-msgstr ""
+msgstr "Şablon eBay kategorisini kullanın veya mağaza bu kategori altında giren ürün için farklı eBay Kategori atama"
 
 msgctxt "Languages::ebay_template"
 msgid "eBay template"
@@ -526,7 +526,7 @@ msgstr "eBay ürün durumu"
 
 msgctxt "Languages::ebay_product_status_not_exported"
 msgid "Not exported"
-msgstr ""
+msgstr "Verilmeyen"
 
 msgctxt "Languages::ebay_product_status_active"
 msgid "Active"
@@ -538,7 +538,7 @@ msgstr "Sona erdi"
 
 msgctxt "Languages::ebay_success_exported_product_notice"
 msgid "Product was successfully exported to eBay"
-msgstr ""
+msgstr "Ürün başarıyla eBay için verildi"
 
 msgctxt "Languages::ebay_success_close_product_notice"
 msgid "Product successfully ended on eBay"
@@ -594,7 +594,7 @@ msgstr "Başarıyla sona eren ürünler:"
 
 msgctxt "Languages::ebay_count_product_fail_ended"
 msgid "Products ending failed:"
-msgstr ""
+msgstr "Biten ürünler başarısız oldu:"
 
 msgctxt "Languages::ebay_end_products_on_ebay"
 msgid "End eBay sales"
@@ -602,35 +602,35 @@ msgstr "eBay satışını sonlandır"
 
 msgctxt "Languages::products_assigned"
 msgid "Products assigned"
-msgstr ""
+msgstr "Atanan ürünleri"
 
 msgctxt "Languages::ttc_products_assigned"
 msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
-msgstr ""
+msgstr "Ayrıca bir eBay şablonu birden çok ürün için bir kez uygulayabilirsiniz. Ürünler için → ürünleri et, sonra vites düğmesine basın ve seçmek için şablonu uygulamak istediğiniz ürünleri onay kutularını düzenlemek kene seçili. Açılan pencerede sadece eBay şablonları onay kutusunu işaretli bırakın ve seçilen değiştir'i tıklatın."
 
 msgctxt "Languages::ebay_template_category_product"
 msgid "Use eBay template's category"
-msgstr ""
+msgstr "Ebay şablonun kategorisini kullanın"
 
 msgctxt "Languages::ebay_set_manualy"
 msgid "Assign a different eBay category"
-msgstr ""
+msgstr "Farklı eBay Kategori atama"
 
 msgctxt "Languages::ebay_end_template_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "EBay satışını sonlandır"
 
 msgctxt "Languages::ebay_action_export_product"
 msgid "Export product"
-msgstr ""
+msgstr "Ürün ihracat"
 
 msgctxt "Languages::ebay_action_update_product"
 msgid "Update product"
-msgstr ""
+msgstr "Ürünleri güncelle"
 
 msgctxt "Languages::ebay_action_upload_image_product"
 msgid "Upload the product image"
-msgstr ""
+msgstr "Ürün resim yükleme"
 
 msgctxt "Languages::ebay_action_get_status_product"
 msgid "Get product status"
@@ -638,27 +638,27 @@ msgstr "Ürün durumunu öğren"
 
 msgctxt "Languages::ebay_action_end_product"
 msgid "Ending sale on eBay"
-msgstr ""
+msgstr "EBay son satış"
 
 msgctxt "Languages::ebay_show_logs"
 msgid "Show logs"
-msgstr ""
+msgstr "Göstermek günlükleri"
 
 msgctxt "Languages::ebay_international_shipping_cost"
 msgid "International shipping fee"
-msgstr ""
+msgstr "Uluslararası Nakliye ücreti"
 
 msgctxt "Languages::ebay_international_shipping_cost_tooltip"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Tek bir ürün için sabit kargo eğer kargo tipi düz ise (nakliye ve taşıma eBay ayarlaında ise.)."
 
 msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
 msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Uluslararası Nakliye ücreti (her ek madde ayar eBay) sırayla ek her öğe için"
 
 msgctxt "Languages::ebay_international_shipping_cost_additional"
 msgid "Additional international shipping fee"
-msgstr ""
+msgstr "Ek uluslararası nakliye ücreti"
 
 msgctxt "Languages::ebay_logs"
 msgid "eBay logs"
@@ -670,55 +670,55 @@ msgstr "eBay ürünleri"
 
 msgctxt "Languages::ebay_sync_products_status"
 msgid "Get product status from eBay"
-msgstr ""
+msgstr "EBay ürün durumunu öğrenme"
 
 msgctxt "Languages::ebay_get_product_status"
 msgid "Getting product \"[product]\" status from eBay"
-msgstr ""
+msgstr "EBay ürün \"[product]\" durumunu öğrenme"
 
 msgctxt "Languages::ebay_update_status_summary_title"
 msgid "Summary: Product status retrieval from eBay"
-msgstr ""
+msgstr "Özet: Ürün durumu alma eBay dan"
 
 msgctxt "Languages::ebay_count_product_successfully_status_updated"
 msgid "Products with updated statuses:"
-msgstr ""
+msgstr "Güncellenme Zamanı durumları olan ürünleri:"
 
 msgctxt "Languages::ebay_count_product_fail_status_updated"
 msgid "Products with status update errors:"
-msgstr ""
+msgstr "Durum güncelleştirme hatalı ürünleri:"
 
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
-msgstr ""
+msgstr "Ürünler: atlandı"
 
 msgctxt "Languages::ebay_addon_trial_license_expired"
 msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr ""
+msgstr "EBay eklenti deneme süresi doldu. Eklentiyi devre dışı bırakıldı. <a href=\"[ebay_license_url]\" target=\"_blank\"> lisans satın</a> eBay eklentiyi kullanmaya devam etmek için."
 
 msgctxt "Languages::ebay_addon_used_trial_license"
 msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr ""
+msgstr "EBay eklenti içinde duruşma tarz kullanmakta. Deneme süresi içinde [days] sona erecek. deneme süresi sona erdikten sonra eklentiyi kullanmaya devam etmek için <a href=\"[ebay_license_url]\" target=\"_blank\"> eBay ek lisans satın</a>."
 
 msgctxt "Languages::ebay_addon_plural_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] day|[n] gün"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"
-msgstr ""
+msgstr "\"[product]\" ürün eBay verilmedi"
 
 msgctxt "Languages::ebay_product_already_sales_closed"
 msgid "Sales of product \"[product]\" were already completed on eBay"
-msgstr ""
+msgstr "\"[product]\" ürün satışı zaten eBay tamamlandı"
 
 msgctxt "Languages::ebay_failed_request"
 msgid "Failed request to [url]. Http status code: [code]"
-msgstr ""
+msgstr "[url] isteği başarısız oldu. HTTP durum kodu: [code]"
 
 msgctxt "Languages::ebay_package_type"
 msgid "eBay package type"
-msgstr ""
+msgstr "eBay paket türü"
 
 msgctxt "Languages::ebay_category"
 msgid "eBay Category"
@@ -726,45 +726,45 @@ msgstr "eBay Kategorisi"
 
 msgctxt "Languages::ebay_region"
 msgid "eBay region"
-msgstr ""
+msgstr "eBay bölge"
 
 msgctxt "Languages::ebay_synchronization_title"
 msgid "Synchronizing eBay data"
-msgstr ""
+msgstr "EBay veri eşitleme"
 
 msgctxt "Languages::ebay_synchronization_regions"
 msgid "Synchronizing eBay regions"
-msgstr ""
+msgstr "EBay bölgeleri eşitleme"
 
 msgctxt "Languages::ebay_synchronization_categories"
 msgid "Synchronizing eBay categories (it may take around 3 minutes)"
-msgstr ""
+msgstr "EBay Kategoriler (yaklaşık 3 dakika sürebilir) eşitleme"
 
 msgctxt "Languages::ebay_synchronization_shipping_services"
 msgid "Synchronizing eBay shipping services"
-msgstr ""
+msgstr "Eşitleme eBay nakliye hizmetleri"
 
 msgctxt "Languages::ebay_synchronization_category_features"
 msgid "Synchronizing eBay category features"
-msgstr ""
+msgstr "Ebay Kategori özellikleri eşitleniyor"
 
 msgctxt "Languages::ebay_changed_region_message"
 msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
-msgstr ""
+msgstr "Ebay bölge değiştirdikten sonra lütfen diğer ayarlarını denetleyin. Eğer şablon türü nakliye'nın <br>için hesaplanan seti, ana para biriminize (Yönetim → para birimleri) değiştirmek, şirket adresi (ayarları → şirket) ve ağırlık ölçü birimleri (ayarları → genel) buna göre. Eğer şablon türü nakliye Dünün <br>düz, değişiklik ana para biriminize (Yönetim → para birimleri) ayarlanır."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_title"
 msgid "eBay Synchronization add-on has been updated"
-msgstr ""
+msgstr "eBay eşitleme eklenti güncelleme"
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_active"
 msgid "Retrieve the statuses of your products from eBay before you continue to use the eBay Synchronization add-on.<br>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay.<br>Do this for all your eBay templates."
-msgstr ""
+msgstr "Ebay eşitlemesi eklentisini kullanabilmek devam etmeden önce ürün durumları eBay dan almak. <br>Pazarlama gitmek → eBay → eBay şablonları, bir şablon üzerinde hover, dişli düğmesini tıklatın ve eBay dan Get ürün durumu seçin. <br>Ebay şablonlarınız için bunu."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_disable"
 msgid "You used and disabled eBay Synchronization add-on. If you decide to use the add-on again, complete the following steps:<br><ul><li>Go to Add-ons → Manage add-ons</li><li>Find eBay synchronization add-on and set its status to active</li><li>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay</li><li>Repeat the previous step for all your eBay templates</li></ul>"
-msgstr ""
+msgstr "Kullanılan ve eBay eşitleme eklenti devre dışı. Eklentiyi yeniden kullanmaya karar verirseniz, aşağıdaki adımları izleyin: <br><ul><li>Eklentileri → Yönet Eklentiler gidin</li> <li>bulun eBay eşitleme eklemek-üstünde ve set durumunu etkin</li> <li>pazarlama → eBay → eBay şablonları için bir şablon üzerinde gezdirin, dişli düğmesini tıklatın basıp gidin Get ürün durum--dan eBay</li> <li>eBay şablonlarınız için önceki adımı yineleyin</li></ul>"
 
 msgctxt "Languages::export_products_to_ebay"
 msgid "Export/Revise products on eBay"
-msgstr ""
+msgstr "İhracat/eBay ürünleri gözden geçir"
 

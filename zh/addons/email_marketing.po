@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/email_marketing.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-16 08:55-0400\n"
+"PO-Revision-Date: 2016-03-20 12:55-0400\n"
 
 msgctxt "Addons::name::email_marketing"
 msgid "E-mail marketing"
@@ -34,7 +34,7 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.subscription_pending"
 msgid "Email confirmation is required!"
-msgstr ""
+msgstr "电子邮件确认为必填项 ！"
 
 msgctxt "Languages::email_marketing.text_subscription_pending"
 msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
@@ -42,7 +42,7 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.confirm_subscription"
 msgid "Please confirm subscription"
-msgstr ""
+msgstr "请确认订阅"
 
 msgctxt "Languages::email_marketing.text_confirm_subscription"
 msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
@@ -50,7 +50,7 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.subscription_confirmed_2"
 msgid "Subscription confirmed"
-msgstr ""
+msgstr "订阅确认"
 
 msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
 msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
@@ -66,7 +66,7 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.email_subscribed_2optin"
 msgid "Subscription confirmed"
-msgstr ""
+msgstr "订阅确认"
 
 msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
 msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
@@ -74,7 +74,7 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.unsubscribe_successful"
 msgid "Unsubscribe successful"
-msgstr ""
+msgstr "取消订阅成功"
 
 msgctxt "Languages::email_marketing.text_unsubscribe_successful"
 msgid "Your email has been removed from our list."
@@ -94,11 +94,11 @@ msgstr ""
 
 msgctxt "Languages::email_marketing.new_subscriber"
 msgid "New subscriber"
-msgstr ""
+msgstr "新订阅者"
 
 msgctxt "Languages::email_marketing.sync"
 msgid "Sync"
-msgstr ""
+msgstr "同步"
 
 msgctxt "Languages::email_marketing.text_subscribe"
 msgid "Subscribe to our newsletter"
@@ -150,7 +150,7 @@ msgstr ""
 
 msgctxt "SettingsOptions::email_marketing::em_service"
 msgid "Email integration provider"
-msgstr ""
+msgstr "电子邮件集成供应商"
 
 msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
 msgid "API key"
@@ -158,11 +158,11 @@ msgstr ""
 
 msgctxt "SettingsOptions::email_marketing::em_mailchimp_list"
 msgid "List"
-msgstr ""
+msgstr "列表"
 
 msgctxt "SettingsOptions::email_marketing::em_madmimi_username"
 msgid "E-mail"
-msgstr ""
+msgstr "邮件"
 
 msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
 msgid "API key"
@@ -170,7 +170,7 @@ msgstr ""
 
 msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
 msgid "List"
-msgstr ""
+msgstr "列表"
 
 msgctxt "SettingsVariants::email_marketing::em_service::dummy"
 msgid "--"

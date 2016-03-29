@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: hu\n"
 "X-Crowdin-File: core.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-10 16:55-0500\n"
+"PO-Revision-Date: 2016-03-24 02:56-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10542,7 +10542,7 @@ msgstr "Teljes promóciók: képes lesz nem csak katalógus-, hanem kosárpromó
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr ""
+msgstr "Több-áruházas mód: ezáltal több webáruházat is képes lesz egyetlen adminisztrációs felület segítségével kezelni"
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
@@ -12510,7 +12510,7 @@ msgstr "Validálási probléma"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr ""
+msgstr "\"[validator_name]\" ellenőrzés hibakóddal tért vissza"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -13346,7 +13346,7 @@ msgstr "Fejlesztés"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr ""
+msgstr "PO-file <b>[file]</b> szintaktikai hibát tartalmaz, vagy helytelen a struktúrája. (minden szöveges sor végén legyen ENTER!)"
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13618,7 +13618,7 @@ msgstr "ZipArchive osztály nem található. Részletesen ezen a linken tájéko
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr ""
+msgstr "\"Zip\" PHP bővítmény nincs telepítve. Kérjük telepítse a \"Zip\" PHP bővítményt annak érdekében, hogy ZIP fájlokat tudjon létrehozni, vagy kicsomagolni."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -14414,7 +14414,7 @@ msgstr "Az Általános Szerződési Feltételek elfogadása a vásárlási folya
 
 msgctxt "SettingsTooltips::agree_terms_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
-msgstr ""
+msgstr "Az Általános Szerződési Feltételek szövege a \"terms_and_conditions_content\" nyelvi változóban található."
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -14474,7 +14474,7 @@ msgstr "Ezt a lépést csak akkor lehet elrejteni, ha nincs benne kötelező ada
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
-msgstr ""
+msgstr "Alapértelmezett lehetőség az \"Új vásárló\" szekcióban a \"Bejelentkezés\"-nél"
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
@@ -14494,15 +14494,15 @@ msgstr "Amennyiben rejtett, az első elérhető aktív mód lesz használva."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr ""
+msgstr "Letölthető termékek értékesítése"
 
 msgctxt "SettingsOptions::enable_compare_products"
 msgid "Allow customers to compare products"
-msgstr ""
+msgstr "A vásárlók összehasonlíthatnak termékeket"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
-msgstr ""
+msgstr "A szerveren SSL tanúsítvány telepítése szükséges!"
 
 msgctxt "SettingsTooltips::secure_admin"
 msgid "SSL certificate is required to be installed on your server"
@@ -14522,7 +14522,7 @@ msgstr "Szállítási és számlázási címek"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
-msgstr ""
+msgstr "Hagyja üresen a átlátszó háttér esetén"
 
 msgctxt "SettingsTooltips::secure_auth"
 msgid "SSL certificate is required to be installed on your server"
@@ -15322,7 +15322,7 @@ msgstr "Cím típusa"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr ""
+msgstr "Termék csak olyan kategóriába kerülhet, amit a tulajdonos cég hozott létre."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
@@ -15410,7 +15410,7 @@ msgstr "Egyedi beállítás"
 
 msgctxt "Languages::use_default_block_configuration"
 msgid "Use default block configuration"
-msgstr ""
+msgstr "Az alapértelmezett blokk konfiguráció használata"
 
 msgctxt "Languages::private_files"
 msgid "Private files"
@@ -15426,27 +15426,27 @@ msgstr "Sablonok"
 
 msgctxt "Languages::payments.realex.referring_url"
 msgid "Please supply this URL to your Realex Payments account manager"
-msgstr ""
+msgstr "Please supply this URL to your Realex Payments account manager"
 
 msgctxt "Languages::payments.realex.referring_ip"
 msgid "Please supply the IP address of your server to your Realex Payments account manager"
-msgstr ""
+msgstr "Please supply the IP address of your server to your Realex Payments account manager"
 
 msgctxt "Languages::payments.realex.settlement"
 msgid "Settlement"
-msgstr ""
+msgstr "Settlement"
 
 msgctxt "Languages::payments.realex.delayed_settlement"
 msgid "Delayed settlement"
-msgstr ""
+msgstr "Delayed settlement"
 
 msgctxt "Languages::payments.realex.auto_settled"
 msgid "Auto-settled"
-msgstr ""
+msgstr "Auto-settled"
 
 msgctxt "Languages::payments.realex.text_status_map"
 msgid "Realex to CS-Cart order status conversion map"
-msgstr ""
+msgstr "Realex - CS-Cart rendelési státusz megfeleltetés"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
@@ -15486,7 +15486,7 @@ msgstr "A kártya a jelentés szerint elveszett, vagy ellopták"
 
 msgctxt "Languages::payments.realex.refferal"
 msgid "Referral by bank"
-msgstr ""
+msgstr "Bank által ajánlva"
 
 msgctxt "Languages::payments.realex.avs_postcode"
 msgid "AVS Postcode"
@@ -15550,11 +15550,11 @@ msgstr "Részleges egyezés"
 
 msgctxt "Languages::payments.realex.wrong_card_type"
 msgid "This payment is unavailable for this type of credit cards."
-msgstr ""
+msgstr "Ez a fizetési mód nem érhető el a megadott kártyához."
 
 msgctxt "Languages::payments.realex.incorrect_valid_trhu"
 msgid "Incorrect values of 'Valid thru' fields."
-msgstr ""
+msgstr "Helytelen értékek az érvényességi idő mezőkben."
 
 msgctxt "Languages::use_for_login"
 msgid "Login form"
@@ -15566,7 +15566,7 @@ msgstr "Felhasználói fiókok létrehozása és szerkesztése"
 
 msgctxt "Languages::use_for_checkout"
 msgid "Checkout (user information) form"
-msgstr ""
+msgstr "Vásárlás (felhasználó információ) űrlap"
 
 msgctxt "Languages::use_for_track_orders"
 msgid "Track my order form"
@@ -15582,7 +15582,7 @@ msgstr "robots.txt"
 
 msgctxt "Languages::robots_title"
 msgid "Editing: robots.txt"
-msgstr ""
+msgstr "Robots.txt szerkesztése"
 
 msgctxt "Languages::edit_robots"
 msgid "Edit robots.txt"
@@ -15590,11 +15590,11 @@ msgstr "Robots.txt szerkesztése"
 
 msgctxt "Languages::restore_robots"
 msgid "Restore the default robots.txt"
-msgstr ""
+msgstr "robots.txt visszaállítása alapértelmezettre"
 
 msgctxt "Languages::payments.proxypay3.declined_reason_text"
 msgid "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
-msgstr ""
+msgstr "Error in Data Validation of the Credit Card Information. Either the Credit Card Number was invalid, or the Expiration Date, or the Card Verification Code."
 
 msgctxt "Languages::option_exceptions"
 msgid "Option exceptions"
@@ -15627,7 +15627,7 @@ msgstr ""
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr ""
+msgstr "Csomag séma nem található"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
@@ -15683,7 +15683,7 @@ msgstr "Törlésre kerül"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr ""
+msgstr "Frissítési csomag ellenőzések"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
@@ -15719,23 +15719,23 @@ msgstr "Külső navigáció"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr ""
+msgstr "Helytelen tulajdonság típus. Néhány tulajdonság nem lett frissítve."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr ""
+msgstr "Tulajdonság név hiányzik. Néhány tulajdonság nem lett frissítve."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
-msgstr ""
+msgstr "Legalább egy áruháznak maradnia kell"
 
 msgctxt "Languages::datakeeper.error_unsupported_file_type"
 msgid "File cannot be restored. Only .sql, .zip and .tgz files are allowed."
-msgstr ""
+msgstr "Fájl nem állítható vissza. Csak az .sql, .zip és .tgz fájlok használhatók."
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr ""
+msgstr "Nem lehet írni a <b>[file]</b> fájlt. Állítsa be az írási jogosultságot manuálisan, vagy ellenőrizze az FTP hozzáférést a szerverhez a <a href=\"[url]\"> Frissítési központ\"</a>ban"
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
@@ -15743,7 +15743,7 @@ msgstr ""
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr ""
+msgstr "Keresés tulajdonság alapján nem lehetséges a túl nagy számú tulajdonság-variáció miatt."
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
@@ -15751,27 +15751,27 @@ msgstr "Frissítve ekkor"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr ""
+msgstr "Nem lehet létrehozni a bélyegképet a fájlhoz \"[file]\": [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr ""
+msgstr "A maximális vásárlási élmény érdekében, kérjük, hogy <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">engedélyezze böngészőjében a sütik elfogadását</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr ""
+msgstr "Frissítési központ: Az áruházról készült biztonsági mentés, valamint be lett zárva."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr ""
+msgstr "A <b>\"[product]\"</b> termék nem került be a kosárba, mert nincs ára."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr ""
+msgstr "Eladók nem hozhatnak létre terméktulajdonságokat, vagy azok variánsait. Néhány terméktulajdonság nem módosítható."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr ""
+msgstr "Hiba az adatbázis struktúra frissításekor (a [migration] migráció érvényesítése közben)."
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
@@ -15851,11 +15851,11 @@ msgstr ""
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Változások az ingyenes szállításban"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Változások a DHL valós idejű kalkulációban"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
@@ -15863,19 +15863,19 @@ msgstr ""
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "Friss változások a [product] [version]-ban"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
-msgstr ""
+msgstr "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr ""
+msgstr "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
-msgstr ""
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>Hogyan állíthatom be az eWAY API kulcsot és jelszót?</a>"
 
 msgctxt "Languages::show_more"
 msgid "Show more"
@@ -15887,11 +15887,11 @@ msgstr "Kevesebb elem megjelenítése"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
-msgstr ""
+msgstr "[count] termék került a <a href='[url]' target='_blank'>Lomtár kategóriába</a>"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_title"
 msgid "Changes in feature comparison"
-msgstr ""
+msgstr "Változások a tulajdonság összehasonlításban"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_text"
 msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
@@ -15899,7 +15899,7 @@ msgstr ""
 
 msgctxt "Languages::text_uc_addon_upgrade_completed"
 msgid "Add-on \"[name]\" has been upgraded successfully"
-msgstr ""
+msgstr "A \"[name]\" bővítmény sikeresen frissítve"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
@@ -15955,11 +15955,11 @@ msgstr "Alkategória-fa"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
-msgstr ""
+msgstr "A sablon felülírja az áruház beállításait"
 
 msgctxt "Languages::settings_overwrite_text"
 msgid "<b>[theme_name]</b> will set following settings on activation"
-msgstr ""
+msgstr "<b>[theme_name]</b> aktiváláskor az alábbiakat állítja be"
 
 msgctxt "Languages::overwrite"
 msgid "Overwrite"
@@ -15967,11 +15967,11 @@ msgstr "Felülírás"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
-msgstr ""
+msgstr "Fájlok kihagyása és adatbázismentés"
 
 msgctxt "Languages::uc_open_store_email_body"
 msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
-msgstr ""
+msgstr "<p>Frissítés előtt az áruház bezárásra került. Ellenőrizze, hogy minden rendben működik-e a frissítést követően, és <a href=\"[settings_section]\">nyissa ki</a> az áruházat.</p>"
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
@@ -16036,4 +16036,16 @@ msgstr "Nem ellenőrzött"
 msgctxt "Languages::checked"
 msgid "Checked"
 msgstr "Ellenőrzött"
+
+msgctxt "Languages::error_filter_by_feature_exists"
+msgid "Filter by feature \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::error_filter_by_product_field_exists"
+msgid "Filter by product field \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::shipping_address_changed"
+msgid "Shipping address has been changed"
+msgstr ""
 

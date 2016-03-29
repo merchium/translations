@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: core.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 19:55-0500\n"
+"PO-Revision-Date: 2016-03-24 02:59-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -16035,5 +16035,17 @@ msgstr ""
 
 msgctxt "Languages::checked"
 msgid "Checked"
+msgstr ""
+
+msgctxt "Languages::error_filter_by_feature_exists"
+msgid "Filter by feature \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::error_filter_by_product_field_exists"
+msgid "Filter by product field \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::shipping_address_changed"
+msgid "Shipping address has been changed"
 msgstr ""
 

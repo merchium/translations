@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: hu\n"
 "X-Crowdin-File: /editions/mve.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-10 16:55-0500\n"
+"PO-Revision-Date: 2016-03-23 08:54-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -26,15 +26,15 @@ msgstr "Eladó hozzáadása"
 
 msgctxt "Languages::add_vendor_administrator"
 msgid "Add vendor's administrator"
-msgstr ""
+msgstr "Eladói adminisztrátor hozzáadása"
 
 msgctxt "Languages::vendor_administrator"
 msgid "Vendor's administrator"
-msgstr ""
+msgstr "Eladói adminisztártor"
 
 msgctxt "Languages::vendor_administrators"
 msgid "Vendor's administrators"
-msgstr ""
+msgstr "Eladói adminisztrátorok"
 
 msgctxt "Languages::vendor_administrators_menu_description"
 msgid "List of vendor's administrators, registered users with a vendor account."
@@ -46,7 +46,7 @@ msgstr ""
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
-msgstr ""
+msgstr "Tovább az eladói felületre"
 
 msgctxt "Languages::vendor_account_balance_menu_description"
 msgid "Income and expenditure statistics (total, per vendor, per period)."
@@ -54,7 +54,7 @@ msgstr ""
 
 msgctxt "Languages::merge_vendor"
 msgid "Merge vendor"
-msgstr ""
+msgstr "Eladó egyesítése"
 
 msgctxt "Languages::select_new_owner_company"
 msgid "Select a new owner of this company's profile data:"
@@ -70,7 +70,7 @@ msgstr "Minden eladó"
 
 msgctxt "Languages::apply_for_vendor_account"
 msgid "Apply for a vendor account"
-msgstr ""
+msgstr "Eladói fiók igénylése"
 
 msgctxt "Languages::available_for_vendor"
 msgid "Available for vendor"
@@ -78,19 +78,19 @@ msgstr "Elérhető a eladó számára"
 
 msgctxt "Languages::balance_carried_forward"
 msgid "Balance carried forward"
-msgstr ""
+msgstr "Átvitt egyenleg"
 
 msgctxt "Languages::block_vendors"
 msgid "Vendors"
-msgstr ""
+msgstr "Eladók"
 
 msgctxt "Languages::charge_to_vendor_account"
 msgid "Charge to vendor account"
-msgstr ""
+msgstr "Eladói fiók feltöltése"
 
 msgctxt "Languages::companies"
 msgid "Vendors"
-msgstr ""
+msgstr "Eladók"
 
 msgctxt "Languages::create_administrator_account"
 msgid "Create administrator account"
@@ -118,15 +118,15 @@ msgstr "A kiválasztott email címhez tartozó eladó már létezik, kérjük v�
 
 msgctxt "Languages::expenditure"
 msgid "Expenditure"
-msgstr ""
+msgstr "Kiadás"
 
 msgctxt "Languages::income"
 msgid "Income"
-msgstr ""
+msgstr "Bevétel"
 
 msgctxt "Languages::manage_vendors"
 msgid "Manage vendors"
-msgstr ""
+msgstr "Eladók kezelése"
 
 msgctxt "Languages::new_administrator_account_created"
 msgid "New administrator account has been successfully created."
@@ -142,23 +142,23 @@ msgstr "Eladó értesítése"
 
 msgctxt "Languages::notify_vendors_by_email"
 msgid "Notify vendors by e-mail"
-msgstr ""
+msgstr "Eladók értesítése e-mailen"
 
 msgctxt "Languages::privileges.manage_payouts"
 msgid "Manage payouts"
-msgstr ""
+msgstr "Kifizetések kezelése"
 
 msgctxt "Languages::privileges.manage_vendors"
 msgid "Manage vendors"
-msgstr ""
+msgstr "Eladók kezelése"
 
 msgctxt "Languages::privileges.view_payouts"
 msgid "View payouts"
-msgstr ""
+msgstr "Kifizetések megtekintése"
 
 msgctxt "Languages::privileges.view_vendors"
 msgid "View vendors"
-msgstr ""
+msgstr "Eladók megtekintése"
 
 msgctxt "Languages::privilege_sections.vendors"
 msgid "Vendors"
@@ -166,11 +166,11 @@ msgstr "Eladók"
 
 msgctxt "Languages::sales_period"
 msgid "Sales period"
-msgstr ""
+msgstr "Eladási időszak"
 
 msgctxt "Languages::sales_period_total"
 msgid "Sales period total"
-msgstr ""
+msgstr "Teljes eladási időszak"
 
 msgctxt "Languages::search_by_vendor"
 msgid "Search by vendor"
@@ -178,11 +178,11 @@ msgstr "Keresés eladó alapján"
 
 msgctxt "Languages::sort_by_company_asc"
 msgid "Sort by alphabetical: A to Z"
-msgstr ""
+msgstr "Név szerint: növekvő"
 
 msgctxt "Languages::sort_by_company_desc"
 msgid "Sort by alphabetical: Z to A"
-msgstr ""
+msgstr "Név szerint: csökkenő"
 
 msgctxt "Languages::text_company_status_active_to_pending"
 msgid "Your vendor status has been changed from Active to Pending."
@@ -238,11 +238,11 @@ msgstr ""
 
 msgctxt "Languages::text_new_payment_was_created"
 msgid "New payment was created"
-msgstr ""
+msgstr "Új fizetés sikeresen létrehozva"
 
 msgctxt "Languages::text_not_approved_vendors"
 msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
-msgstr ""
+msgstr "Eladók várnak ellenőrzésre. Az <a href=\"[link]\">alábbi linken</a> megtekintheti őket."
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
@@ -250,23 +250,23 @@ msgstr "Hozzáférés az összes funkcióhoz 30 napig, mely az aktiválástól k
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
-msgstr ""
+msgstr "Kérése sikeresen létrejött. Hamarosan megválaszoljuk e-mailben."
 
 msgctxt "Languages::total_amount_due"
 msgid "Total amount due"
-msgstr ""
+msgstr "Teljes összeg"
 
 msgctxt "Languages::total_period_payout"
 msgid "Total sales period payout"
-msgstr ""
+msgstr "Teljes értékesítési időszak kifizetési"
 
 msgctxt "Languages::total_unpaid_balance"
 msgid "Total unpaid balance"
-msgstr ""
+msgstr "Ki nem fizetett egyenleg összesen"
 
 msgctxt "Languages::tt_views_payments_update_taxes"
 msgid "If payment surcharge is taken from vendors, taxes are not calculated"
-msgstr ""
+msgstr "Amennyiben felár kerül felszámolásra az eladókhoz, adókat nem kalkulál a rendszer"
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
@@ -286,7 +286,7 @@ msgstr "Azon cégek listája, melyek áruházzal rendelkeznek."
 
 msgctxt "Languages::vendor_account_balance"
 msgid "Account balance"
-msgstr ""
+msgstr "Fiókegyenleg"
 
 msgctxt "Languages::vendor_approval_pending"
 msgid "New vendor account application"
@@ -375,6 +375,18 @@ msgstr "Eladó termékszűrői"
 msgctxt "Languages::vendor_products"
 msgid "Vendor products"
 msgstr "Eladó termékei"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr ""
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr ""
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr ""
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"

@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ro\n"
 "X-Crowdin-File: core.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 11:55-0500\n"
+"PO-Revision-Date: 2016-03-24 02:54-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -11158,7 +11158,7 @@ msgstr "Acces complet la toate caracteristicile in timpul perioadei de proba de 
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr ""
+msgstr "Toate caracteristicile sunt disponibile pe parcursul a 30 de zile de la descărcarea pachetului de instalare. Nu este nevoie să introduci numărul licenței.<br /><br />După expirarea perioadei de încercare de 30 de zile, trebuie să cumperi o licență sau să introduci numărul licenței dacă ai deja una.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -12098,7 +12098,7 @@ msgstr "Magazinul dvs. este in modul Trial.<br /><br />in cazul in care perioada
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr ""
+msgstr "Perioada de încercare a [product] s-a terminat"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
@@ -16035,5 +16035,17 @@ msgstr ""
 
 msgctxt "Languages::checked"
 msgid "Checked"
+msgstr ""
+
+msgctxt "Languages::error_filter_by_feature_exists"
+msgid "Filter by feature \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::error_filter_by_product_field_exists"
+msgid "Filter by product field \"[name]\" already exists."
+msgstr ""
+
+msgctxt "Languages::shipping_address_changed"
+msgid "Shipping address has been changed"
 msgstr ""
 

@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: tr\n"
 "X-Crowdin-File: core.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-02 11:59-0500\n"
+"PO-Revision-Date: 2016-03-25 14:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1786,7 +1786,7 @@ msgstr "Devam edebilmek için koşulları kabul etmelisiniz."
 
 msgctxt "Languages::terms_and_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
-msgstr ""
+msgstr "<p>Bu şartlar ve koşulları (\"Şartlar\", \"Şartlar ve koşullar\") dikkatle kullanmadan önce <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> Web sitesi ve mobil uygulama (\"hizmet\") işletilen My Mobile App şirketim tarafından (\"biz\", \"biz\" veya \"bizim\") okuyun.</p> <p>Yanına varılabilir ya da istimal belgili tanımlık hizmet tarafından <strong>Bu şartlara bağlı kalmayı kabul edersiniz. Şartları herhangi bir bölümünü katılmıyorum o zaman hizmet erişebilir değil.</strong></p> <p><strong>Satın alma</strong></p> <p>Herhangi bir ürün veya hizmeti (\"satın alma\") aracılığıyla kullanıma sunulan hizmet satın almak isterseniz, satın alma, herhangi bir sınırlama olmaksızın dahil olmak üzere ilgili bazı bilgileri girmeniz istenebilir sizin...</p> <p><strong>İçerik</strong></p> <p>Bizim hizmet posta, bağlantı, saklamak, paylaşmak ve başka bazı bilgileri, metin, grafikler, videolar veya diğer materyallerin (\"içerik\") kullanılabilir hale sağlar. Siz sorumlusunuz...</p> <p><strong>Değişiklikleri</strong></p> <p>, Değiştirmek veya bu şartları herhangi bir zamanda değiştirmek için kendi tercihimiz doğrultusunda, hakkımızı saklı tutuyoruz. Bir gözden geçirme malzeme ise yeni şartlar önce en az 30 gün bildirim alma efekti sağlamak çalışacağız. Ne malzeme değişiklik teşkil bizim takdirine bağlı olarak belirlenecektir.</p> <p><strong>Bize ulaşın</strong></p> <p>Bu koşulları hakkında herhangi bir sorunuz varsa, lütfen bize ulaşın.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -3126,7 +3126,7 @@ msgstr "Gösterim tipi"
 
 msgctxt "Languages::display_variants_count"
 msgid "Number of displayed filter variants before scroll"
-msgstr ""
+msgstr "Görüntülenen filtre türevleri kaydırma önce sayısı"
 
 msgctxt "Languages::domains"
 msgid "Domains"
@@ -3846,7 +3846,7 @@ msgstr "CVV/CVC çok kısa."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr ""
+msgstr "Bu yönetici e-posta veya müşteri alanında parolayı değiştirmek için yasakladı. Lütfen bir müşteri hesabı kullanarak oturum açın."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -7830,7 +7830,7 @@ msgstr "Cache i otomatik olarak yeniden oluştur"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr ""
+msgstr "Değiştirilen dosyaları gerçek zamanlı (doğrudan sunucuda değiştirilmesi dosyaları dahil) izlenen ve yeniden önbelleğe alınmış. Blok önbelleği devre dışı bırakılacak. Mağaza performansı biraz etkilenebilir. Üretim üzerinde devre dışı bırakmak için önerilir."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -10538,7 +10538,7 @@ msgstr "Şu anda ürünü Ücretsiz modunda [product] kullanmaktasınız <p>. Ü
 
 msgctxt "Languages::text_forbidden_feature_promotions"
 msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr ""
+msgstr "Tam promosyonlar: sadece katalog promosyonlar eklemek, ama aynı zamanda promosyonlar sepeti yapabileceksiniz"
 
 msgctxt "Languages::text_forbidden_feature_multistore"
 msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
@@ -10546,7 +10546,7 @@ msgstr "Çoklu mağaza özelliği: Birden fazla mağazayı birbirine bağlayabil
 
 msgctxt "Languages::text_forbidden_feature_customer"
 msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr ""
+msgstr "Kullanıcı grupları ve yöneticileri için ayar farklı ayrıcalıkları için müşteri atamak"
 
 msgctxt "Languages::text_forbidden_feature_languages"
 msgid "Several languages and currencies in your store"
@@ -10558,7 +10558,7 @@ msgstr "Mağaza daha iyi yapmak için hazırlanmış 30'dan fazla eklentileri"
 
 msgctxt "Languages::text_forbidden_feature_support"
 msgid "Technical support and access to our Customer Help Desk"
-msgstr ""
+msgstr "Teknik destek ve bizim müşteri yardım masası erişimi"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -10618,7 +10618,7 @@ msgstr "Lightbox"
 
 msgctxt "Languages::text_payment_first_data_notice"
 msgid "Please log in to FirstData Connect 2.0 Admin, open the \"Administration\" tab, click on the \"Connect 2.0 Setup\" link.<br /> Set the following URL in the \"Order Submission Form\", \"Confirmation Page\", \"Failure Page\" sections: [return_url]<br />"
-msgstr ""
+msgstr "Lütfen FirstData bağlamak 2.0 Admin için giriş, \"Yönetim\" sekmesini açın, \"Bağlamak 2.0 Kur\" bağlantı. üzerinde tıklayın < br / > ertesi gün URL \"sipariş gönderme\", \"Onay sayfası\", \"Hatası sayfası\" bölümleri formunda: [return_url] < br / >"
 
 msgctxt "Languages::text_links"
 msgid "Text links"
@@ -11158,7 +11158,7 @@ msgstr "Aktivasyondan itibaren 30 günlük deneme süresi boyunca tüm özellikl
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr ""
+msgstr "30 gün sonra yükleme paketinin karşıdan yükleme sırasında tüm özellikler kullanılabilir. Lisans anahtarı. girmeniz gerekmez < br / > < br / > 30 günlük deneme süresi bittikten sonra lisans satın almak ya da zaten varsa lisans anahtarını girin gerekir. < br / > < br / >"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11230,7 +11230,7 @@ msgstr "Aşağıdaki dosyalar yedeklenecek"
 
 msgctxt "Languages::text_uc_broken_package"
 msgid "The upgrade package seems to be broken. Please refresh packages list and try to download it again"
-msgstr ""
+msgstr "Yükseltme paketini kırık gibi görünüyor. Lütfen paket listesini yenilemek ve tekrar indirmek deneyin"
 
 msgctxt "Languages::text_uc_cannot_lock_upgrade_process"
 msgid "Failed to disable upgrade process launching"
@@ -11242,7 +11242,7 @@ msgstr "Güncelleme paketi indirilemedi"
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "Bu dosyaların yerel değişiklikler ve yedeklenir. Yükseltme tamamlandıktan sonra yedekleme dosyaları yeni dosyalarla karşılaştırır ve yeni dosyalar için yapılan değişiklikleri yeniden."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11274,7 +11274,7 @@ msgstr "FTP transfer failed"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr ""
+msgstr "CS-Cart yükleme belirtilen dizinde bulmak koyamadık. Lütfen doğru FTP dizin girdiğinizden emin olun."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11598,7 +11598,7 @@ msgstr "Tema editör panelini Göster/gizle"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Stil adı aşağıdaki karakterleri içeremez: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -11810,7 +11810,7 @@ msgstr "Tema editör modu"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr ""
+msgstr "Bu parametre için varsayılan stiller değişiklik yapamazsınız. Önce yeni bir tane oluşturun"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11934,7 +11934,7 @@ msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr ""
+msgstr "Bu kapsayıcı kullanılır. \"[container]\" konteyner varsayılan konumdaki yerine kullanılır. Bu kapsayıcıdaki tüm mekanlar için \"[container]\" kullanmak için varsayılan olarak bu konumu ayarlayın."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -12098,15 +12098,15 @@ msgstr "This <strong>trial version</strong> of CS-Cart shopping cart software is
 
 msgctxt "Languages::trial_expired"
 msgid "Your trial version of [product] is finished"
-msgstr ""
+msgstr "[product] deneme sürümünü bitti"
 
 msgctxt "Languages::text_input_license_code"
 msgid "To continue working with [product] enter the license key"
-msgstr ""
+msgstr "Devam etmek için [product] ile çalışma girmek belgili tanımlık ruhsat anahtar"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr ""
+msgstr "Bir lisans anahtarı varsa, bizim resmi web sitesinde satın alabilirsiniz <br/>[buy_license]"
 
 msgctxt "Languages::buy_license"
 msgid "Buy the license"
@@ -12118,7 +12118,7 @@ msgstr "Doğru"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "Teslim süresi nakliye yöntemi adının yanında görüntülenir. Gerçek zamanlı aktarma oranı hesaplama kullanırsanız, nakliye hizmetiniz kendi teslim süresi sağlayabilir. Nakliye hizmeti tarafından sağlanan zaman burada belirttiğiniz zaman yerine görüntülenir."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12302,7 +12302,7 @@ msgstr "Domain name that you want to use instead of the CloudFront domain name f
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr ""
+msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12502,7 +12502,7 @@ msgstr "Güncelleme merkezi"
 
 msgctxt "Languages::upgrade_center_permission_adjusted_properly"
 msgid "All file and folder permissions have been adjusted properly."
-msgstr ""
+msgstr "Tüm dosya ve klasör izinleri düzgün ayarlanmış bulunuyor."
 
 msgctxt "Languages::upgrade_center.validation_issue"
 msgid "Validation issue"
@@ -12510,7 +12510,7 @@ msgstr "Doğrulama sorunu"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr ""
+msgstr "\"[validator_name]\" durumu doğrulayıcısı başarısız durum döndürdü"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12530,39 +12530,39 @@ msgstr "Bu güncelleme versiyonuna sahip olma hakkınız bulunmuyor.(Güncelleme
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr ""
+msgstr "Yükseltme karmaşık bir süreçtir. Kontrolümüz dışında nedenlerle başarısız. Yükseltmeyi deponuzun ipuçları sizin için hazırladık daha güvenli hale getirmek için <br>:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr ""
+msgstr "CS-Cart ve yükseltme işleminin teknik yönleriyle aşina değilseniz, bu <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> Kiralık bir uzman</a> veya mağaza sizin için yükseltmek için <a href=\"[upgrade_center_team]\" target=\"_blank\"> destek ekibimizle sormak</a> öneririz."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr ""
+msgstr "Yükseltme üçüncü parti Eklentiler güncelleştirmez. Bu yüzden yükseltmeden önce tüm üçüncü taraf eklentileri devre dışı bırakmak tavsiye ediyoruz."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr ""
+msgstr "Mağaza ilk yükseltme sorunsuz gitmek emin olmak için test kopyasını yükseltmek."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr ""
+msgstr "Yükseltmenin ardından, deponuzun temel işlevselliğini kontrol edin."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr ""
+msgstr "PHP komut dosyası yürütme sunucu yapılandırması nedeniyle sonlandırıldı genellikle, yükseltme başarısız olur. PHP komut dosyası zaman aşımı ayarları, sunucunuzdaki kontrol etmek esastır"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr ""
+msgstr "Sunucunuzu yükseltme işlemini başlatmanizi tavsiye etmiyoruz."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr ""
+msgstr "Sunucu yanlış PHP komut dosyası zaman aşımı ayarları vardır. Bu PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> işlev veya FastCGI kısıtlamalar nedeniyle \"Zaman aşımı\" seçenekleri olabilir. Bu sorunu gidermek veya sizin için yükseltmeyi gerçekleştirmek için teknik destek ekibimize başvurun için barındırma sağlayıcınıza başvurun öneririz."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr ""
+msgstr "<p class=\"text-error\"> kukla bir PHP komut dosyası başlamıştır. 6 dakika boyunca çalışacağız. Denetimi bittiğinde, PHP komut dosyasının zaman aşımına uğrayan doğru ayarlanmış olmadığını söyleyeceğim. Evet ise, senden daha yükseltme işlemine başlamaya hazır. Onay emin olmak için bitmesini sunucunuzun doğru PHP zaman aşımı yapılandırmasına sahip bekleyin.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -12870,7 +12870,7 @@ msgstr "Vendor ID"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Satıcı adı"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -13018,7 +13018,7 @@ msgstr "Varsayılan para birimi durumu değiştirilemez"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr ""
+msgstr "Güvenli bağlantı denetimi başarısız oldu. Lütfen SSL sertifikası, sunucunuzda yüklü olduğundan emin olun. Daha fazla bilgi için <a href=\"[href]\" target=\"_blank\"> Bilgi Bankası makale</a> check out."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13346,7 +13346,7 @@ msgstr "Geliştirme"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr ""
+msgstr "PO-dosya <b>\"[file]\"</b> sözdizimi hatası veya yanlış yapısı içerir."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13370,7 +13370,7 @@ msgstr "Uploading and installing a new theme is a great way to personalize your 
 
 msgctxt "Languages::install_upgrade_package_text"
 msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
-msgstr ""
+msgstr "Bir yükseltme paketi el ile yerel makineden sunucu veya uzak bir konumdan yükleyebilirsiniz. [exts] biçimi arşiv konumunu belirtin ve <strong>karşıya yükle</strong> seçeneğini tıklatın."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13566,7 +13566,7 @@ msgstr "Bu ad zaten mevcut. Lütfen başka bir tane deneyin."
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Hazır ayar adının değil aşağıdaki karakterleri içerebilir: \"/ # %? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -13618,7 +13618,7 @@ msgstr "The ZipArchive class not found. Read more: <a href=\"https://php.net/man
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr ""
+msgstr "\"Zip\" PHP uzantısı yüklü değil. Lütfen yükleyin \"Zip\" PHP uzantısı oluşturmak ve ZIP-Arşiv ayıklamak için."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13750,7 +13750,7 @@ msgstr "Enable secure connection in the administration panel"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr ""
+msgstr "Mağazası için güvenli bağlantı etkinleştirme"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14414,7 +14414,7 @@ msgstr "Ask customers to agree with terms &amp; conditions during checkout"
 
 msgctxt "SettingsTooltips::agree_terms_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"terms_and_conditions_content\" language variable."
-msgstr ""
+msgstr "Şartlar ve koşullar metninin \"terms_and_conditions_content\" dil değişkeninden alınır."
 
 msgctxt "SettingsOptions::repay"
 msgid "Allow customers to pay order again if transaction was declined"
@@ -14470,7 +14470,7 @@ msgstr "\"Oturum aç\" adımını yapılandır"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr ""
+msgstr "Bu adım yalnızca herhangi bir gerekli iletişim bilgileri alanları olmayan ve anonim ödeme izin gizli olabilir."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14478,7 +14478,7 @@ msgstr "\"Oturum Aç\"ta bulunan \"Yeni müşteri\" bölümü için varsayılan 
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr ""
+msgstr "\"Sevkiyat yöntemi\" adım görüntüleme"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -15034,11 +15034,11 @@ msgstr "(GMT + 01:00) Batı Orta Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT + 02:00) Atina, Beyrut, Istanbul"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT + 02:00) Bükreş"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15070,7 +15070,7 @@ msgstr "(GMT + 03:00) Moskova, St. Petersburg, Volgograd"
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT + 03:00) Minsk"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15366,7 +15366,7 @@ msgstr "Güvenli profil, sipariş ve ödeme sayfaları"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Tam güvenli site"
+msgstr "Tam site güvenli"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15611,11 +15611,11 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr ""
+msgstr "Yükseltme bağlayıcı [connector_id] hatalı veriler döndürdü"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr ""
+msgstr "Yükseltme paketini karşıdan yüklendiği ve kurulmaya hazır oldu"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
@@ -15623,7 +15623,7 @@ msgstr "Yükseltme bağlayıcısı bulunamadı"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr ""
+msgstr "Paket şema (schema.json) okunamıyor"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
@@ -15631,7 +15631,7 @@ msgstr "Paket içerik şeması bulunamadı"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr ""
+msgstr "Paket şema geçerli bir JSON değil"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
@@ -15639,19 +15639,19 @@ msgstr "Yasak: Eklenti ana dosyalarınızı ([path]) yükseltmeye çalışıyor"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr ""
+msgstr "Şemada açıklanmayan geçişleri pakette veya şema geçiş dosyaları eksik bağlantılar vardır"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr ""
+msgstr "Şemada açıklanmayan dil paketi içeren veya şema diller dosyalar eksik bağlantılar vardır"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr ""
+msgstr "Paketi, şemada açıklanmayan dosyaları içerir veya şema bağlantıları için eksik dosyaları vardır."
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr ""
+msgstr "Şemada açıklanmayan öncesi/sonrası komut dosyaları pakette veya şema bağlantıları için eksik dosyaları vardır."
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15683,11 +15683,11 @@ msgstr "Silinecek"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr ""
+msgstr "Yükseltme paketini doğrulayıcıları"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr ""
+msgstr "\"[validator]\" durumu doğrulayıcısı'nı yürütmek"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15711,7 +15711,7 @@ msgstr "Yükseltme paketini yükle"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr ""
+msgstr "Yükleme yükseltme paketini düzeltmeleri veya eklenti yükseltmeleri uygulamanıza olanak sağlar. Bir tgz gz, seçerek bir yükseltme paketi yükleyebilir zip formatında Arşiv ve Upload tıklayarak."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15735,51 +15735,51 @@ msgstr "Dosya geri yüklenemiyor. Yalnızca .sql, .zip ve .tgz dosyaları izin v
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr ""
+msgstr "<b>[file]</b> için dosya yazılamıyor. Yazılabilir izinlerini el ile ayarlamak veya <a href=\"[url]\"> \"Merkezi yükseltme\"</a> bölümünde sunucunuza FTP erişimi denetleyin"
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
-msgstr ""
+msgstr "<p>Mağazanızın veritabanını ve dosyaları sırt yukarıya yükseltmeden önce. Yedek arşiv, tüm veritabanını ve görüntüleri hariç tüm dosyaları içerir. Yedek arşiv sunucunuzda depolanan: [backup_file].</p><p>Yükseltme işleminden önce senin dükkan kapalı. Bu yükseltme ve <a href=\"[settings_section]\"> bunu aç</a> sonra iyi çalışıp çalışmadığını kontrol edin.</p><p>Yükseltme sırasında bir şeyler ters giderse, senin admin paneline gidin <strong>Yönetim → yedekleme/geri yükleme</strong>, yedeği geri yükleme yüklemek için.</p><p>Yönetim panelinize erişemiyorsanız son yedeğini geri yüklemek için bu bağlantıyı kullanın: [restore_link]. Önemli: Bu bağlantı hemen geri yükleme işlemi başlatılır. Yalnızca yönetim panelinize erişemiyorsanız kullanma!</p>"
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr ""
+msgstr "Arama özellikleri tarafından değişik aşırı sayıda nedeniyle kullanılamaz."
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
-msgstr ""
+msgstr "Üzerinde yükseltilmiş"
 
 msgctxt "Languages::error_unable_to_create_thumbnail"
 msgid "Unable to create thumbnail for file \"[file]\": [error]"
-msgstr ""
+msgstr "Dosya \"[file]\" için küçük resim oluşturulamıyor: [error]"
 
 msgctxt "Languages::cookie_is_disabled"
 msgid "For a complete shopping experience, please <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\">set your browser to accept cookies</a>"
-msgstr ""
+msgstr "Tam bir alışveriş deneyimi için lütfen <a href=\"http://www.wikihow.com/Enable-Cookies-in-Your-Internet-Web-Browser\" target=\"_blank\"> tarayıcınızın çerezleri kabul edecek şekilde ayarla</a>"
 
 msgctxt "Languages::uc_restore_email_subject"
 msgid "Upgrade center: Store has been backed up and closed."
-msgstr ""
+msgstr "Yükseltme Merkezi: mağaza sırt yukarıya ve kapalı."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr ""
+msgstr "Çünkü bir fiyat yok ürün <b>\"[product]\"</b> sepetine eklenmemiş."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr ""
+msgstr "Satıcı ürün özellikleri ve onların türevleri oluşturamazsınız. Bazı ürün özellikleri değiştirilemez."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
-msgstr ""
+msgstr "Veritabanı yapısı (uygulanan geçiş [migration]) yükseltme sırasında bir hata oluştu."
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
-msgstr ""
+msgstr "Sen <strong>kesildi</strong> HTML ekleme konusunda kısıtlamalar nedeniyle kullandığı bazı <strong>HTML etiketleri</strong> Etiketler gibi &lt; Nesne &gt;, &lt; IFRAME &gt;, &lt; embed &gt; ve JavaScript kodu. Bu yüzden bu etiketleri taktığınız içeriği görüntülenmez."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr ""
+msgstr "Yükseltme işlemi sırasında hatalar oluştu. Lütfen sorunu araştırmak için teknik desteğe başvurun."
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
@@ -15791,91 +15791,91 @@ msgstr "[n] saniye kaldı|[n] saniye kaldı"
 
 msgctxt "Languages::text_uc_timeout_check_success"
 msgid "Looks like your server allows to change the \"max_execution_time\" option from the script. You are good to go with the upgrade process."
-msgstr ""
+msgstr "Sunucu komut dosyasından \"max_execution_time\" seçeneği değiştirmek için sağlar gibi görünüyor. Yükseltme işlemine başlamaya hazır."
 
 msgctxt "Languages::check_php_timeout"
 msgid "Check PHP script timeout"
-msgstr ""
+msgstr "Onay PHP komut dosyası zaman aşımı"
 
 msgctxt "Languages::i_agree_continue"
 msgid "I agree and continue"
-msgstr ""
+msgstr "Ben katılıyorum ve devam"
 
 msgctxt "Languages::upgrade_center.error_unable_to_prepare_restore"
 msgid "Unable to prepare restore script."
-msgstr ""
+msgstr "Geri yükleme komut dosyası hazırlamak yapamaz."
 
 msgctxt "Languages::text_cc_javascript_disabled"
 msgid "Note! Your browser has the <b>JavaScript</b> disabled. To pay for your order click"
-msgstr ""
+msgstr "Not! Tarayıcınızda <b>JavaScript</b> devre dışı vardır. Sipariş için ödeme için tıklatın"
 
 msgctxt "Languages::cc_button_submit"
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Ödemeye geç"
 
 msgctxt "Languages::payments.rocketgate.avs_mode"
 msgid "AVS Mode"
-msgstr ""
+msgstr "AVS modu"
 
 msgctxt "Languages::payments.rocketgate.scrub_mode"
 msgid "SCRUB Mode"
-msgstr ""
+msgstr "BODUR modu"
 
 msgctxt "Languages::payments.rocketgate.ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Yoksay"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "Kullanım ücretsiz nakliye"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr ""
+msgstr "Sevkiyat yöntemi için ücretsiz nakliye seçeneği etkin kullanım varsa ücretsiz nakliye seçeneği etkin ürünleriyle kargo hesaplamasına dahil"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr ""
+msgstr "Etkin ücretsiz nakliye seçeneği ile ürünleri nakliye fiyat hesaplama dışı bırakılacak"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr ""
+msgstr "<p>Senin ürünlerden bazıları etkin <b>ücretsiz nakliye</b> özelliğine sahip. [product] önceki sürümlerinde bir müşteri bu ürünleri satın alırken bir nakliye yöntemi seçin gerekmiyordu.</p> <p>Bu [product] sürüm'den başlayarak, bir müşteri bir nakliye yöntemi kasada ürünleri için <b>ücretsiz nakliye</b> özelliği etkin seçer.</p> <p>Ücretsiz nakliye kullanılacak olan bir nakliye yöntemi ayarlamak için aşağıdaki adımları izleyin:</p> <ol><li><b>Yönetim → kargo ve vergi → gönderme yöntemleri</b> için gidin.</li> <li>Mevcut nakliye ücretsiz nakliye için kullanmak istediğiniz yöntemi seçin veya yeni bir tane oluşturun.</li> <li>Kaydırma <i>ilave</i> bölümüne ve Etkinleştir <b>ücretsiz nakliye kullan</b> ayarı.</li></ol> <p>Birçok gönderme yöntemleri ücretsiz nakliye için istediğiniz gibi ayarlayabilirsiniz.</p> <p><b>Kullanım için ücretsiz nakliye</b> seçeneği için belirli gönderme yöntemleri uygulamak zorunda Not.</p> <p>Ürünleri ile etkin dışlamak istiyorsanız <b>ücretsiz nakliye kullan</b> onay kutusunu işaretleyin nakliye fiyat hesaplama. [product] <b>ücretsiz nakliye</b> seçeneği siparişin <b>nakliye ücretleri</b> uygun olarak diğer ürünlerinden nakliye fiyatı hesaplamak.</p> <p>[product], unticked onay kutusunu bırakmak, tüm ürünleri <b>nakliye ücretleri</b> uygun olarak sipariş için nakliye fiyat hesaplayacaktır.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
-msgstr ""
+msgstr "Çöp kutusu Kategori"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Bir ürün mağaza son kategori silindiğinde, bu kategori için taşınır."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
-msgstr ""
+msgstr "Ücretsiz nakliye değişiklikleri"
 
 msgctxt "Languages::dhl_upgrade_notification_title"
 msgid "DHL realtime shipping rate calculation changes"
-msgstr ""
+msgstr "DHL gerçek zamanlı hesaplama kurundaki nakliye"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
-msgstr ""
+msgstr "<p>[product] en son sürümü gerçek zamanlı bir taşıyıcı olarak DHL kullanırsanız oranı hesaplama nakliye için farklı ayarlara sahip.</p> <p>Sevkiyat kurları müşterilerinize göstermek istiyorsanız, bunu yapmak:</p> <ul><li>Yönetim gidin > nakliye ve vergi > nakliye yöntemleri</li> <li>Genel sekmesine geçin ve uygun nakliye hizmeti girin</li> <li>DHL kargo oranları hesaplamak için bir taşıyıcı olarak kullanan nakliye yöntemi seçin</li> <li>Yapılandırma sekmesine geçin ve uygun Site Kimliği ve şifre girin</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
-msgstr ""
+msgstr "[product] [version] yükseltme değişiklikleri"
 
 msgctxt "Languages::eway_upgrade_notification_title"
 msgid "eWAY, eWAY Direct Payment and eWAY Shared Payment payment processors are no longer supported"
-msgstr ""
+msgstr "eWAY, eWAY doğrudan ödeme ve eWAY paylaşılan ödeme ödeme işlemciler artık desteklenmiyor"
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr ""
+msgstr "<p><b>eWAY</b>, <b>eWAY doğrudan ödeme</b> ve <b>eWAY paylaşılan ödeme</b> bu [product] sürümü bu yana desteklenmez.</p> <p>Sen <b>eWAY doğrudan ödeme (hızlı API) yükseltme</b> veya <b>eWAY duyarlı paylaşılan (hızlı API)</b> için öneririz, aşağıdaki talimatları uygulayın:</p> <ul><li>Yönetim gidin > ödeme yöntemleri</li> <li>eWAY işlemci kullanan ödeme yöntemleri açık biri itiraz</li> <li>Genel sekmesine geçin ve eWAY doğrudan ödeme (hızlı API) veya eWAY duyarlı paylaşılan (hızlı API) ödeme işlemci</li> <li>geçiş için konfigürasyon tanımla sekmesini ve uygun belirtin: <ul><li>API anahtarı, API şifre ve şifreleme anahtarı eWAY doğrudan ödeme (hızlı API) için</li> <li>API anahtarı ve eWAY duyarlı paylaşılan (hızlı API) parolasını API</li></ul></li></ul> <p>eWAY, eWAY doğrudan ödeme ve eWAY paylaşılan ödeme hala olacak ama operasyonel kullanım dışı eWAY, onlara eWAY doğrudan ödeme kullanım dışı ve buna göre eWAY paylaşılan ödeme kullanılmayan <b>yeniden adlandırılamaz</b>.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
-msgstr ""
+msgstr "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'> kadar canlı benim eWAY API anahtarı ve parola nasıl belirlerim?</a>"
 
 msgctxt "Languages::show_more"
 msgid "Show more"
@@ -15887,23 +15887,23 @@ msgstr "Daha az göster"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
-msgstr ""
+msgstr "[count] ürünleri <a href='[url]' target='_blank'> çöp Kategori</a> taşındı"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_title"
 msgid "Changes in feature comparison"
-msgstr ""
+msgstr "Değişiklikler özellik karşılaştırması"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_text"
 msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
-msgstr ""
+msgstr "Altındaki <b>özellik karşılaştırması</b> onay kutusunu <b>ürünleri → → &lt; istenen ürün &gt;</b> kaldırıldı. <br>Altındaki ayarlar → genel → yeni <b>ürünleri karşılaştırmak için müşteriler izin ver</b> onay kutusunu işaretleyerek tarafından katalog, herhangi bir ürün deponuzda karşılaştırma listesine eklemek müşterilerinize şimdi etkinleştirmek. <br>Altında görmek bir karşılaştırma listesinde bir özellik bir (veya daha fazla) aşağıdaki onay kutularının etkin olması gerekir <b>ürünleri → özellikler → &lt; istenen özelliği &gt;</b>: <br><ul><li>Özellikler sekmesinde göster</li> <li>göstermek ürün listesinde</li> <li>Ürün Ayrıntıları sayfasında üstbilgisinde göster</li></ul>"
 
 msgctxt "Languages::text_uc_addon_upgrade_completed"
 msgid "Add-on \"[name]\" has been upgraded successfully"
-msgstr ""
+msgstr "Eklenti \"[name]\" başarıyla yükseltildi"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
-msgstr ""
+msgstr "Bir eklenti tarafından belirli bir soruna neden olup olmadığını belirlemek için seni üçüncü parti eklentiler veya tüm eklentileri devre dışı bırakabilirsiniz. Onları daha sonra tek bir tıklama ile yeniden etkinleştirin."
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
@@ -15911,11 +15911,11 @@ msgstr "Tüm eklentileri devre dışı bırak"
 
 msgctxt "Languages::tools_addons_disable_third_party"
 msgid "Disable third-party add-ons"
-msgstr ""
+msgstr "Üçüncü taraf eklentileri devre dışı bırakın"
 
 msgctxt "Languages::tools_re_enable_add_ons"
 msgid "Re-enable add-ons"
-msgstr ""
+msgstr "Eklentileri yeniden etkinleştirmeniz"
 
 msgctxt "Languages::tools_addons_installed_count"
 msgid "Installed add-ons:"
@@ -15923,11 +15923,11 @@ msgstr "Yüklü eklentiler:"
 
 msgctxt "Languages::tools_addons_activated_count"
 msgid "Active add-ons:"
-msgstr ""
+msgstr "Etkin Eklentiler:"
 
 msgctxt "Languages::tools_addons_core_addons_count"
 msgid "Built-in add-ons:"
-msgstr ""
+msgstr "Yerleşik Eklentiler:"
 
 msgctxt "Languages::tools_addons_other_addons_count"
 msgid "Third-party add-ons:"
@@ -15935,31 +15935,31 @@ msgstr "Third-party Eklentiler:"
 
 msgctxt "Languages::tools_addons_disabled_msg"
 msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
-msgstr ""
+msgstr "Bir yönetici tüm eklentileri veya üçüncü parti Eklentiler devre dışı. <br>Basın yeniden etkinleştirmek eklentileri düğmesini daha önce etkin olan eklentileri başlatmak için."
 
 msgctxt "Languages::addons_source"
 msgid "Source"
-msgstr ""
+msgstr "Kaynak"
 
 msgctxt "Languages::addon_built_in"
 msgid "Built-in"
-msgstr ""
+msgstr "Yerleşik"
 
 msgctxt "Languages::addon_third_party"
 msgid "Third-party"
-msgstr ""
+msgstr "Üçüncü taraf"
 
 msgctxt "Languages::subcategories_tree_cat"
 msgid "Subcategories tree"
-msgstr ""
+msgstr "Alt ağaç"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
-msgstr ""
+msgstr "Tema mağaza ayarların üzerine yazar."
 
 msgctxt "Languages::settings_overwrite_text"
 msgid "<b>[theme_name]</b> will set following settings on activation"
-msgstr ""
+msgstr "<b>[theme_name]</b> etkinleştirme ayarları aşağıdaki ayarla"
 
 msgctxt "Languages::overwrite"
 msgid "Overwrite"
@@ -15967,73 +15967,85 @@ msgstr "Üzerine yaz"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
-msgstr ""
+msgstr "Dosyaları atla ve veritabanı yedekleme"
 
 msgctxt "Languages::uc_open_store_email_body"
 msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
-msgstr ""
+msgstr "<p>Yükseltme işleminden önce senin stok kapatıldı. Bu yükseltme ve <a href=\"[settings_section]\"> açın</a> sonra iyi çalışıp çalışmadığını kontrol edin.</p></p>"
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
-msgstr ""
+msgstr "<p class='upgrade-center_notice-msg'> Bu iletinin kopyası, yöneticinin e-posta gönderildi.</p> <hr>"
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
-msgstr ""
+msgstr "CURL hata"
 
 msgctxt "Languages::http_transport_error_prefix_socket"
 msgid "Socket Error"
-msgstr ""
+msgstr "Yuva hatası"
 
 msgctxt "Languages::curl_error_code_reference_link"
 msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
-msgstr ""
+msgstr "Curl hata nedenini öğrenmek için <a target=\"_blank\" href=\"[href]\"> Bu</a> makaledeki senin hata numarasına bakın."
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] day|[n] gün"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr ""
+msgstr "Web sitesinde izlemek"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
-msgstr ""
+msgstr "Yeni bir durum oluşturulamadı"
 
 msgctxt "Languages::maximum_number_of_statuses_reached"
 msgid "You have reached the maximum number of statuses"
-msgstr ""
+msgstr "Durumları sayısı üst sınırına"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
-msgstr ""
+msgstr "Durumu CURLOPT_SSL_VERIFYSTATUS ile sorulduğunda hata verdi."
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
-msgstr ""
+msgstr "Bilinmeyen Arşiv biçimi: [ext]"
 
 msgctxt "Languages::error_file_not_found"
 msgid "File \"[file]\" not found."
-msgstr ""
+msgstr "Dosya \"[file] değil kurmak\"."
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
-msgstr ""
+msgstr "\"[file]\" dosyası zaten var."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Yerel değişiklikler"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Bu dosyaları yerel değişiklikler vardı. Yükseltme sırasında bir yedek arşiv <strong>[dir]</strong> dizininde oluşturuldu. Bu dosyalar arşiv kontrol ve değişiklikleri saklamak için yeniden uygulamak isteyebilirsiniz."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Değil ekose desenli"
 
 msgctxt "Languages::checked"
 msgid "Checked"
-msgstr ""
+msgstr "Kontrol"
+
+msgctxt "Languages::error_filter_by_feature_exists"
+msgid "Filter by feature \"[name]\" already exists."
+msgstr "Filtre özelliği \"[name]\" tarafından zaten."
+
+msgctxt "Languages::error_filter_by_product_field_exists"
+msgid "Filter by product field \"[name]\" already exists."
+msgstr "Ürün alanını \"[name]\" tarafından filtre zaten."
+
+msgctxt "Languages::shipping_address_changed"
+msgid "Shipping address has been changed"
+msgstr "Teslim adresi değiştirildi"
 
