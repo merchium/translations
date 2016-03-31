@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/newsletters.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-29 11:54-0400\n"
+"PO-Revision-Date: 2016-03-30 12:54-0400\n"
 
 msgctxt "Addons::name::newsletters"
 msgid "Newsletters"
@@ -18,23 +18,23 @@ msgstr "სიახლეები"
 
 msgctxt "Addons::description::newsletters"
 msgid "Lets you configure newsletter sending"
-msgstr ""
+msgstr "აძლევს სიახლეების კონფიგურაციის საშუალებას"
 
 msgctxt "Languages::newsletters_menu_description"
 msgid "Create and send newsletters to your customer."
-msgstr ""
+msgstr "სიახლეების შექმნა და გაგზავნა მომხმარებლებს."
 
 msgctxt "Languages::news_plain"
 msgid "Plain"
-msgstr ""
+msgstr "უბრალო"
 
 msgctxt "Languages::text_signup_for_subscriptions"
 msgid "Sign up for our newsletters!"
-msgstr ""
+msgstr "გამოწერეთ ჩვენი სიახლეები!"
 
 msgctxt "Languages::tmpl_subscription"
 msgid "Newsletters: subscription form"
-msgstr ""
+msgstr "საფოსტო სიახლეები: გამოწერის ფორმა"
 
 msgctxt "Languages::unsubscribe_link"
 msgid "Unsubscribe link"
@@ -42,15 +42,15 @@ msgstr "სიახლეების გამოწერის გაუქ�
 
 msgctxt "Languages::ne_add_subscribers_from_users"
 msgid "Add subscribers from the list of users"
-msgstr "უბრალო"
+msgstr "გამომწერების დამატება მომხმარებლების სიიდან"
 
 msgctxt "Languages::ne_warning_subscr_email_exists"
 msgid "<b>[email]</b> is already in the subscribers list"
-msgstr "ასეთი ელ-ფოსტა <b>[email]</b> უკევ არსებობს დაგზავნის სიებში"
+msgstr "ასეთი ელ-ფოსტა <b>[email]</b> უკევ არსებობს გამოწერის სიებში"
 
 msgctxt "Languages::warning_subscribers_import"
 msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
-msgstr ""
+msgstr "გამოწერის ზოგიერთი სია, მითითებული ფაილში, ვერ მოიძებნა მონაცემების ბაზაში. ზოგიერთი იმპორტირებული გამომწერი გამოწერის სიებისათვის დარჩებიან ნიშანის გარეშე."
 
 msgctxt "Languages::subscribers_menu_item_text"
 msgid "Subscribers"
@@ -58,55 +58,55 @@ msgstr "გამომწერები"
 
 msgctxt "Languages::block_mailing_lists"
 msgid "Newsletter subscription"
-msgstr ""
+msgstr "გამოწერა სიახლეებზე"
 
 msgctxt "Languages::block_mailing_lists_description"
 msgid "Email field for newsletter subscription"
-msgstr ""
+msgstr "ველი ელ-ფოსტისათვის სიახლეებზე გამოწერისთვის"
 
 msgctxt "Languages::privileges.view_newsletters"
 msgid "View newsletters"
-msgstr ""
+msgstr "სიახლეების ნახვა"
 
 msgctxt "Languages::privileges.manage_newsletters"
 msgid "Manage newsletters"
-msgstr ""
+msgstr "სიახლეების მართვა"
 
 msgctxt "Languages::warning_newsletter_no_recipients"
 msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
-msgstr ""
+msgstr "გამოწერა არ არის გაგზავნილი, ვინაიდან არ არიან გამომწერები, რომლებიც აკმაყოფილებენ მითითებულ პირობებს."
 
 msgctxt "Languages::text_newsletter_sent"
 msgid "The newsletter(s) have been sent successfully."
-msgstr ""
+msgstr "სიახლე(ები) წარმატებით გაიგზავნა."
 
 msgctxt "Languages::email_cannot_be_empty"
 msgid "E-mail cannot be empty"
-msgstr ""
+msgstr "ელ-ფოსტის ველი არ უნდა იყოს ცარიელი"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
-msgstr ""
+msgstr "შეტყობინების გაგზავნა [email]...-ზე"
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
-msgstr ""
+msgstr "თქვენი ელ-ფოსტა წარმატებით დამატებულია გამოწერის სიებში"
 
 msgctxt "Languages::error_email_already_subscribed"
 msgid "Your e-mail is already subscribed."
-msgstr ""
+msgstr "თქვენი ელ-ფოსტა უკვე არის გამოწერის სიებში."
 
 msgctxt "Languages::text_subscriber_removed"
 msgid "Your e-mail has been successfully removed from our free e-mail updates list"
-msgstr ""
+msgstr "თქვენი ელ-ფოსტა წაშლილია გამოწერის სიებიდან"
 
 msgctxt "Languages::text_subscriber_activated"
 msgid "Your email has been successfully activated"
-msgstr ""
+msgstr "თქვენი ელ-ფოსტა წარმატებით აქტივირებულია"
 
 msgctxt "Languages::link_message_for_test_letter"
 msgid "The link will be displayed in a live newsletter"
-msgstr ""
+msgstr "ეს ბმული იქნება ნაჩვენები ნამდვილ გამოწერაში"
 
 msgctxt "Languages::newsletters"
 msgid "Newsletters"
@@ -118,91 +118,91 @@ msgstr "ავტომოპასუხეები"
 
 msgctxt "Languages::campaigns"
 msgid "Campaigns"
-msgstr ""
+msgstr "კამპანიები"
 
 msgctxt "Languages::sent"
 msgid "Sent"
-msgstr "გაგზავნა"
+msgstr "გაგზავნილია"
 
 msgctxt "Languages::subscribers_num"
 msgid "Number of subscribers"
-msgstr ""
+msgstr "გამომწერების რაოდენობა"
 
 msgctxt "Languages::editing_mailing_list"
 msgid "Editing mailing list"
-msgstr "ე-ფოსტების სიის რედაქტირება"
+msgstr "გამოწერის სიის რედაქტირება"
 
 msgctxt "Languages::from_name"
 msgid "From name"
-msgstr ""
+msgstr "ვისგან"
 
 msgctxt "Languages::from_email"
 msgid "From email"
-msgstr ""
+msgstr "გამგზავნის ელ-ფოსტა"
 
 msgctxt "Languages::reply_to"
 msgid "Reply to"
-msgstr ""
+msgstr "ელ-ფოსტა პასუხისთვის"
 
 msgctxt "Languages::register_autoresponder"
 msgid "Confirmation email"
-msgstr ""
+msgstr "დადასტურების ელ-ფოსტა"
 
 msgctxt "Languages::no_autoresponder"
 msgid "No autoresponder"
-msgstr ""
+msgstr "ავტომოპასუხეს გარეშე"
 
 msgctxt "Languages::show_on_checkout"
 msgid "Show at checkout"
-msgstr ""
+msgstr "ჩვენება შეკვეთის გაფორმების გვერდზე"
 
 msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
 msgid "Show on the Registration and Profile Details pages"
-msgstr ""
+msgstr "ჩვენება რეგისტრაციის და პროფილის დეტალების გვერდებზე"
 
 msgctxt "Languages::show_on_separate_page"
 msgid "Show on separate page"
-msgstr ""
+msgstr "ჩვენება ცალკეულ გვერდზე"
 
 msgctxt "Languages::campaign_stats"
 msgid "Campaign statistics"
-msgstr ""
+msgstr "კამპანიის სტატისტიკა"
 
 msgctxt "Languages::add_campaign"
 msgid "Add campaign"
-msgstr ""
+msgstr "კამპანიის დამატება"
 
 msgctxt "Languages::new_campaign"
 msgid "New campaign"
-msgstr ""
+msgstr "ახალი კამპანია"
 
 msgctxt "Languages::newsletter_templates"
 msgid "Newsletter templates"
-msgstr ""
+msgstr "გამოწერის შაბლონები"
 
 msgctxt "Languages::newsletter_autoresponders"
 msgid "Newsletter autoresponders"
-msgstr ""
+msgstr "გამოწერის ავტომოპასუხეები"
 
 msgctxt "Languages::subject"
 msgid "Subject"
-msgstr "სათაური"
+msgstr "თემა"
 
 msgctxt "Languages::add_newsletter"
 msgid "Add newsletter"
-msgstr ""
+msgstr "გამოწერის დამატება"
 
 msgctxt "Languages::add_template"
 msgid "Add template"
-msgstr "ახალი შაბლონი"
+msgstr "შაბლონის დამატება"
 
 msgctxt "Languages::add_autoresponder"
 msgid "Add autoresponder"
-msgstr ""
+msgstr "ავტომოპასუხეს დამატება"
 
 msgctxt "Languages::more_subjects"
 msgid "Random subjects (one per line)"
-msgstr ""
+msgstr "შემთხვევითი თემა (ერთი თითო ხაზზე)"
 
 msgctxt "Languages::body_html"
 msgid "HTML body"
@@ -214,35 +214,35 @@ msgstr "შაბლონი არ არის"
 
 msgctxt "Languages::load"
 msgid "Load"
-msgstr ""
+msgstr "ჩამოტვირთვა"
 
 msgctxt "Languages::campaign"
 msgid "Campaign"
-msgstr ""
+msgstr "კამპანია"
 
 msgctxt "Languages::send_to"
 msgid "Send to"
-msgstr ""
+msgstr "გაგზავნა"
 
 msgctxt "Languages::add_recipients_from_users"
 msgid "Add recipients from users"
-msgstr ""
+msgstr "მიმღებთა დამატება მომხმარებლების სიიდან"
 
 msgctxt "Languages::customers_with_abandoned"
 msgid "Customers with abandoned"
-msgstr ""
+msgstr "მყიდველები დაუმთავრებელი საყიდლებით"
 
 msgctxt "Languages::cart_or_wishlist"
 msgid "Cart or Wishlist"
-msgstr ""
+msgstr "კალათა ან სურვილების სია"
 
 msgctxt "Languages::which_is"
 msgid "which is"
-msgstr ""
+msgstr "რომელიც"
 
 msgctxt "Languages::days_old"
 msgid "days old"
-msgstr ""
+msgstr "დღეები"
 
 msgctxt "Languages::send_to_test_email"
 msgid "Send to test email"
@@ -258,11 +258,11 @@ msgstr "სიახლეები"
 
 msgctxt "Languages::newsletter_template"
 msgid "Newsletter template"
-msgstr "სიახლეების დაგზავნის შაბლონები"
+msgstr "სიახლეების დაგზავნის შაბლონი"
 
 msgctxt "Languages::newsletter_autoresponder"
 msgid "Newsletter autoresponder"
-msgstr ""
+msgstr "გამოწერის ავტომოპასუხეები"
 
 msgctxt "Languages::mailing_list"
 msgid "Mailing list"
@@ -270,31 +270,31 @@ msgstr "დაგზავნის სია"
 
 msgctxt "Languages::confirmed"
 msgid "Confirmed"
-msgstr "დამოწმებული"
+msgstr "დაადასტურებული"
 
 msgctxt "Languages::subscribed_to"
 msgid "Subscribed to [num] lists"
-msgstr ""
+msgstr "გამოწერილია [num] სიახლეებზე"
 
 msgctxt "Languages::subscribed"
 msgid "Subscribed"
-msgstr "ხელმოწერილი"
+msgstr "გამოწერილია"
 
 msgctxt "Languages::text_success_subscription"
 msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
-msgstr ""
+msgstr "თქვენ მოიწერეთ უფასო გამოწერაზე სიახლეებზე და აქციებზე!"
 
 msgctxt "Languages::text_unsubscribe_instructions"
 msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
-msgstr ""
+msgstr "ჩვენ პატივს ვცემთ თქვენს კერძო ცხოვრებას. ჩვენ არ ვუგზავნით სიახლეებს იმ მომხარებლებს, რომლებსაც არ უნდათ მათი მიღება. თქვენ მიიღეთ ეს შეტყობინება, იმიტომ რომ გამოწერილი ხართ ჩვენს სიახლეებზე.<br /><br /> იმისათვის, რომ გააუქმოთ გამოწერა გადადით შემდეგ ბმულით:"
 
 msgctxt "Languages::updates_subscription"
 msgid "updates and promotions subscription"
-msgstr ""
+msgstr "გამოწერა განახლებებზე და აქციებზე"
 
 msgctxt "Languages::ult_shared_with"
 msgid "Shared with:"
-msgstr "გაზიარებულია:"
+msgstr "გაზიარება:"
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
 msgid "Email of a sender."
@@ -302,19 +302,19 @@ msgstr "გამომგზავნის ელ-ფოსტა."
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
 msgid "Name of a sender (e.g. company name)."
-msgstr ""
+msgstr "გამომგზავნის სახელი (მაგალითად კომპანიის სახელი)."
 
 msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
 msgid "Email to send replies to."
-msgstr ""
+msgstr "ელ-ფოსტა რომელზეც იგზავნება პასუხები."
 
 msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
 msgid "If several subjects are specified, email subject is randomly picked from this list."
-msgstr ""
+msgstr "თუ მითიტებული რამოდენიმე თემა, წერილის თემა ირჩევა შემთხვევით მაგ სიიდან."
 
 msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
 msgid "If the message text contains the unsubscribe link, it will be empty for these users."
-msgstr ""
+msgstr "თუ შეტყობინება შეიცავს ბმულს გამოწერის გაუქმებისათვის, ის იქნება ცარიელი მაგ მომხმარებლებისთვის."
 
 msgctxt "Languages::add_mailing_lists"
 msgid "Add mailing list"
@@ -322,35 +322,35 @@ msgstr "ელ-ფოსტის სიის დამატება"
 
 msgctxt "Languages::manage_subscribers"
 msgid "Manage subscribers"
-msgstr ""
+msgstr "გამომწერების მართვა"
 
 msgctxt "Languages::new_mailing_lists"
 msgid "New mailing list"
-msgstr ""
+msgstr "ახალი ელ-ფოსტის სია"
 
 msgctxt "Languages::newsletters.new_subscribers"
 msgid "New subscribers"
-msgstr ""
+msgstr "ახალი გამომწერები"
 
 msgctxt "SettingsSections::newsletters::general"
 msgid "General"
-msgstr ""
+msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
 msgid "Newsletters sent per step"
-msgstr ""
+msgstr "გამოწერის გაგზავნა ერთ ნაბიჯამდე"
 
 msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
 msgid "Advanced mailing server options"
-msgstr ""
+msgstr "საფოსტო სერვისის გაფართოებული პარამეტრები"
 
 msgctxt "SettingsOptions::newsletters::mailer_send_method"
 msgid "Method of sending e-mails"
-msgstr ""
+msgstr "ელ-ფოსტის გაგზავნის ხერხი"
 
 msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
 msgid "SMTP server settings"
-msgstr ""
+msgstr "SMTP სერვერის პარამეტრები"
 
 msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
 msgid "SMTP host"
@@ -386,7 +386,7 @@ msgstr "SMTP ავტორიზაციის გამოყენება
 
 msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
 msgid "via SMTP server"
-msgstr "sMTP სერვერით"
+msgstr "SMTP სერვერით"
 
 msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
 msgid "via php mail function"
@@ -398,25 +398,25 @@ msgstr "ნაგულისხმევი პარამეტრები�
 
 msgctxt "SettingsSections::newsletters::promotions"
 msgid "Promotions"
-msgstr "აქციები"
+msgstr "პრომო-აქციები"
 
 msgctxt "SettingsOptions::newsletters::coupon"
 msgid "Choose a promotion whose promo code will be given at subscription"
-msgstr ""
+msgstr "იმ პრომო-აქციის შერჩევა, რომელიც იქნება გამოყენებული გამოწერის დროს"
 
 msgctxt "Languages::subscribers_promo_subject"
 msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
-msgstr ""
+msgstr "მადლობთ გამოწერისთვის! გამოიყენეთ კუპონის კოდი [coupon] ომ მიიღოთ ჩვენი სპეციალური შემოთავაზება \"[promotion]\"."
 
 msgctxt "Languages::subscribers_no_promo"
 msgid "No promotion"
-msgstr ""
+msgstr "პრომო-აქციის გარეშე"
 
 msgctxt "Languages::promotion_cond_subscribed"
 msgid "Customer is subscribed"
-msgstr ""
+msgstr "მყიდველი გამოწერილია"
 
 msgctxt "Languages::addons.newsletters.email_exists_in_list"
 msgid "<b>[email]</b> is already in the mailing list"
-msgstr ""
+msgstr "<b>[email]</b> უკვე საფოსტო სიაშია"
 

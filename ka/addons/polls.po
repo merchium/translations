@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/polls.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-29 11:54-0400\n"
+"PO-Revision-Date: 2016-03-30 12:54-0400\n"
 
 msgctxt "Addons::name::polls"
 msgid "Polls"
@@ -18,7 +18,7 @@ msgstr "გამოკითხვები"
 
 msgctxt "Addons::description::polls"
 msgid "Adds a possibility to add customized polls to the site"
-msgstr ""
+msgstr "მომხმარებლების გამოკითხვები ხმის მიცემის ფორმები საიტზე"
 
 msgctxt "Languages::use_for_polls"
 msgid "Polls"
@@ -26,15 +26,15 @@ msgstr "გამოკითხვები"
 
 msgctxt "Languages::tmpl_polls_central"
 msgid "Central"
-msgstr "ცენტრალიზება"
+msgstr "ცენტრალური"
 
 msgctxt "Languages::tmpl_polls_side"
 msgid "Side box"
-msgstr ""
+msgstr "გრაფაში"
 
 msgctxt "Languages::polls_answers_with_comments"
 msgid "Answers with comments"
-msgstr "პასუხების კომენტარებით"
+msgstr "პასუხები კომენტარებით"
 
 msgctxt "Languages::polls_have_completed"
 msgid "You have already completed this poll."
@@ -62,7 +62,7 @@ msgstr "გამოკითხვები"
 
 msgctxt "Languages::text_you_have_already_filled_this_poll"
 msgid "You have already completed this poll"
-msgstr ""
+msgstr "თქვენ უკვე დაასრულეთ გამოკითხვა"
 
 msgctxt "Languages::block_polls"
 msgid "Polls"
@@ -90,15 +90,15 @@ msgstr "გამოკითხვის დამატება"
 
 msgctxt "Languages::required_not_answered"
 msgid "You should answer all the mandatory questions"
-msgstr ""
+msgstr "გთხოვთ, უპასუხეთ ყველა საჭირო კითხვას"
 
 msgctxt "Languages::thanks_for_voting"
 msgid "Thank you for taking time to complete this poll."
-msgstr ""
+msgstr "გმადლობთ, გამოკითხვაში მონაცილეობისათვის."
 
 msgctxt "Languages::poll_show_results"
 msgid "Poll results visible to"
-msgstr ""
+msgstr "გამოკითხვის შედეგების ჩვენება"
 
 msgctxt "Languages::poll_results_nobody"
 msgid "nobody"
@@ -110,15 +110,15 @@ msgstr "ხმამიცემული მომხმარებლებ�
 
 msgctxt "Languages::poll_results_everybody"
 msgid "everybody (in a pop-up)"
-msgstr ""
+msgstr "ყველას (in a pop-up)"
 
 msgctxt "Languages::poll_header"
 msgid "Poll header"
-msgstr ""
+msgstr "გამოკითხვის სათაური"
 
 msgctxt "Languages::poll_footer"
 msgid "Poll footer"
-msgstr ""
+msgstr "ტექსტი გამოკითხვის ქვედა ნაწილში"
 
 msgctxt "Languages::poll_results"
 msgid "Poll message"
@@ -142,23 +142,23 @@ msgstr "გამოკითხვის დამატება"
 
 msgctxt "Languages::polls_total_submited"
 msgid "Total number of submitted poll forms"
-msgstr ""
+msgstr "შევსებული ფორმების საერთო რაოდენობა"
 
 msgctxt "Languages::polls_total_completed"
 msgid "Number of poll forms completed in full"
-msgstr ""
+msgstr "სრულად შევსებული ფორმების რაოდენობა"
 
 msgctxt "Languages::polls_first_submited"
 msgid "First poll form submitted"
-msgstr ""
+msgstr "პირველი შევსებული ფორმა"
 
 msgctxt "Languages::polls_last_submited"
 msgid "Last poll form submitted"
-msgstr ""
+msgstr "ბოლო შევსებული ფორმა"
 
 msgctxt "Languages::statistics_by_questions"
 msgid "Statistics by questions"
-msgstr ""
+msgstr "შეკითხვების სტატისტიკა"
 
 msgctxt "Languages::view_answers"
 msgid "View answers"
@@ -178,15 +178,15 @@ msgstr "შეკითხვის ტექსტი"
 
 msgctxt "Languages::select_single_type"
 msgid "Select single option"
-msgstr "მონიშნეთ ერთი პარამეტრი"
+msgstr "აირჩიეთ პასუხის ერთი ვარიანტი"
 
 msgctxt "Languages::select_one_or_more_type"
 msgid "Select one or more options"
-msgstr ""
+msgstr "აირჩიეთ პასუხის ერთი ან რამოდენიმე ვარიანტი"
 
 msgctxt "Languages::text_answer_type"
 msgid "Provide a textual answer"
-msgstr ""
+msgstr "საკუთარი პასუხი"
 
 msgctxt "Languages::answer_text"
 msgid "Answer text"
@@ -194,11 +194,11 @@ msgstr "პასუხის ტექსტი"
 
 msgctxt "Languages::text_box"
 msgid "Text box"
-msgstr ""
+msgstr "ტექსტის ველი"
 
 msgctxt "Languages::tt_addons_polls_hooks_pages_tabs_content_post_poll_results"
 msgid "Message that is displayed in the storefront after the poll is completed."
-msgstr ""
+msgstr "შეტყობინება, რომელიც ჩანს მაღაზიაში გამოკითხვის დასრულების შემდეგ."
 
 msgctxt "SettingsSections::polls::general"
 msgid "General"
@@ -206,9 +206,9 @@ msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::polls::polls_votes_on_page"
 msgid "Votes on page"
-msgstr ""
+msgstr "ხმები გვერდზე"
 
 msgctxt "SettingsOptions::polls::polls_comments_on_page"
 msgid "Answers on page"
-msgstr ""
+msgstr "პასუხები გვერდზე"
 
