@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-30 08:57-0400\n"
+"PO-Revision-Date: 2016-04-04 01:45-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1778,7 +1778,7 @@ msgstr "Отметьте флажок, чтобы принять [terms_href]"
 
 msgctxt "Languages::checkout_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Условия использования"
 
 msgctxt "Languages::checkout_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
@@ -11598,7 +11598,7 @@ msgstr "Скрыть/показать редактор тем"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Название стиля не может содержать следующие символы: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12119,7 +12119,7 @@ msgstr "Истина"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "Время доставки отображается рядом с названием метода доставки. Если вы используете сервисы для расчета доставки, они могут возвращать свое собственное время. И это время будет отображаться вместо времени, указанного в этом поле."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12871,7 +12871,7 @@ msgstr "ID магазина"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "Имя продавца"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -15035,11 +15035,11 @@ msgstr "(GMT+01:00) Западная Африка"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr ""
+msgstr "(GMT+02:00) Афины, Бейрут, Стамбул, Минск"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
-msgstr ""
+msgstr "(GMT+02:00) Бухарест"
 
 msgctxt "SettingsVariants::timezone::Africa/Cairo"
 msgid "(GMT+02:00) Cairo"
@@ -15071,7 +15071,7 @@ msgstr "(GMT+03:00) Москва, Санкт Петербург, Волгогр�
 
 msgctxt "SettingsVariants::timezone::Europe/Minsk"
 msgid "(GMT+03:00) Minsk"
-msgstr ""
+msgstr "(GMT + 03:00) Минск"
 
 msgctxt "SettingsVariants::timezone::Africa/Nairobi"
 msgid "(GMT+03:00) Nairobi"
@@ -15776,7 +15776,7 @@ msgstr "Произошла ошибка во время обновления с�
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
-msgstr ""
+msgstr "Некоторые из использованных вами <strong>HTML-тегов</strong> <strong>были вырезаны</strong> из-за ограничения на вставку определенных тегов, например &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript. Поэтому подобные данные не будут отображаться."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -15952,19 +15952,19 @@ msgstr "Сторонние"
 
 msgctxt "Languages::subcategories_tree_cat"
 msgid "Subcategories tree"
-msgstr ""
+msgstr "Дерево подкатегорий"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
-msgstr ""
+msgstr "Тема перезаписывает настройки магазина"
 
 msgctxt "Languages::settings_overwrite_text"
 msgid "<b>[theme_name]</b> will set following settings on activation"
-msgstr ""
+msgstr "Тема <b>[theme_name]</b> при активации поменяет следующие настройки"
 
 msgctxt "Languages::overwrite"
 msgid "Overwrite"
-msgstr ""
+msgstr "Перезаписать"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
@@ -15980,31 +15980,31 @@ msgstr ""
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
-msgstr ""
+msgstr "Ошибка в библиотеке CURL"
 
 msgctxt "Languages::http_transport_error_prefix_socket"
 msgid "Socket Error"
-msgstr ""
+msgstr "Ошибка в сокете"
 
 msgctxt "Languages::curl_error_code_reference_link"
 msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
-msgstr ""
+msgstr "Чтобы узнать, что вызвало ошибку в библиотеке CURL, найдите номер ошибки в <a target=\"_blank\" href=\"[href]\"> этой статье</a>."
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
-msgstr ""
+msgstr "[n] день|[n] дня|[n] дней"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr ""
+msgstr "Проверить на сайте"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
-msgstr ""
+msgstr "Не удалось создать новый статус"
 
 msgctxt "Languages::maximum_number_of_statuses_reached"
 msgid "You have reached the maximum number of statuses"
-msgstr ""
+msgstr "Вы достигли максимального количества статусов"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
@@ -16012,19 +16012,19 @@ msgstr ""
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
-msgstr ""
+msgstr "Неизвестный формат архива: [ext]"
 
 msgctxt "Languages::error_file_not_found"
 msgid "File \"[file]\" not found."
-msgstr ""
+msgstr "Файл \"[file]\" не найден."
 
 msgctxt "Languages::error_file_already_exists"
 msgid "File \"[file]\" already exists."
-msgstr ""
+msgstr "Файл \"[file]\" уже существует."
 
 msgctxt "Languages::local_modifications"
 msgid "Local modifications"
-msgstr ""
+msgstr "Локальные изменения"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
@@ -16040,17 +16040,17 @@ msgstr ""
 
 msgctxt "Languages::error_filter_by_feature_exists"
 msgid "Filter by feature \"[name]\" already exists."
-msgstr ""
+msgstr "Фильтр по характеристике \"[name]\" уже существует."
 
 msgctxt "Languages::error_filter_by_product_field_exists"
 msgid "Filter by product field \"[name]\" already exists."
-msgstr ""
+msgstr "Фильтр по свойству продукта \"[name]\" уже существует."
 
 msgctxt "Languages::shipping_address_changed"
 msgid "Shipping address has been changed"
-msgstr ""
+msgstr "Адрес доставки был изменен"
 
 msgctxt "Languages::theme_editor_not_supported"
 msgid "This theme doesn't support theme editor"
-msgstr ""
+msgstr "Эта тема не поддерживает редактор тем"
 
