@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/social_buttons.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-30 12:54-0400\n"
+"PO-Revision-Date: 2016-04-03 13:54-0400\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -18,11 +18,11 @@ msgstr "სოციალური ქსელის ღილაკები"
 
 msgctxt "Addons::description::social_buttons"
 msgid "Social media and e-mail share buttons (Twitter, Facebook, etc.)"
-msgstr ""
+msgstr "ამატებს პოპულარული სოციალური ქსელების ღილაკებს (Twitter, Facebook და ა. შ.)"
 
 msgctxt "Languages::use_for_email_share"
 msgid "Send to friend form"
-msgstr ""
+msgstr "ფორმა \"რეკომენდაცია ამხანაგს\""
 
 msgctxt "Languages::facebook"
 msgid "Facebook"
@@ -30,7 +30,7 @@ msgstr "Facebook"
 
 msgctxt "Languages::facebook_obj_type"
 msgid "Facebook object type"
-msgstr ""
+msgstr "Facebook-ის ობიექტის ტიპი"
 
 msgctxt "Languages::fb_activities"
 msgid "Activities"
@@ -66,15 +66,15 @@ msgstr "ვებ გვერდები"
 
 msgctxt "Languages::error_no_recipient_address"
 msgid "Please enter your friends e-mail address to proceed"
-msgstr ""
+msgstr "რომ გააგრძელოთ, შეიყვანეთ თქვენი მეგობრის ელ-ფოსტა"
 
 msgctxt "Languages::recommendation_from"
 msgid "Recommendation from"
-msgstr ""
+msgstr "რეკომენდაცია"
 
 msgctxt "Languages::text_recommendation_notes"
 msgid "Your friend has recommended this page to you. Please follow the link:"
-msgstr ""
+msgstr "ეს გვერდი რეკომენდირებულია თქვენი მეგობრის მიერ. გთხოვთ, გადახვიდეთ ბმულზე:"
 
 msgctxt "Languages::your_email"
 msgid "Your e-mail"
@@ -122,7 +122,7 @@ msgstr "Twitter-ის ღილაკის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::twitter_via"
 msgid "Via"
-msgstr ""
+msgstr "მეშვეობით"
 
 msgctxt "SettingsOptions::social_buttons::twitter_size"
 msgid "Button size"
@@ -130,7 +130,7 @@ msgstr "ღილაკის ზომა"
 
 msgctxt "SettingsOptions::social_buttons::twitter_display_count"
 msgid "Display count"
-msgstr ""
+msgstr "რაოდენობის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::twitter_display_on"
 msgid "Display on"
@@ -150,27 +150,27 @@ msgstr "Facebook app ID"
 
 msgctxt "SettingsOptions::social_buttons::facebook_href"
 msgid "The URL of the page to like"
-msgstr ""
+msgstr "გვერდის URL-ი, რომელიც იქნება აღნიშნული შეტყობინებაში"
 
 msgctxt "SettingsOptions::social_buttons::facebook_send"
 msgid "Include a Send button with the Like button"
-msgstr ""
+msgstr "«გაგზავნის» ღილაკის ჩვენება «მომწონს» ღილაკთან ერთად"
 
 msgctxt "SettingsOptions::social_buttons::facebook_width"
 msgid "Width of the Like button (px)"
-msgstr ""
+msgstr "«მომწონს» ღილაკის სიგანე პიქსელებში"
 
 msgctxt "SettingsOptions::social_buttons::facebook_layout"
 msgid "Button layout"
-msgstr ""
+msgstr "ღილაკის სტილი"
 
 msgctxt "SettingsOptions::social_buttons::facebook_show_faces"
 msgid "Display profile photos"
-msgstr ""
+msgstr "მომხმარებლების ფოტოს ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::facebook_action"
 msgid "Button verb"
-msgstr ""
+msgstr "წარწერა ღილაკზე"
 
 msgctxt "SettingsOptions::social_buttons::facebook_lang"
 msgid "Language"
@@ -182,19 +182,19 @@ msgstr "ღილაკის შრიფტი"
 
 msgctxt "SettingsOptions::social_buttons::facebook_colorscheme"
 msgid "Color scheme"
-msgstr ""
+msgstr "ფერების სქემა"
 
 msgctxt "SettingsOptions::social_buttons::facebook_display_on"
 msgid "Display on"
-msgstr ""
+msgstr "ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_header"
 msgid "Vkontakte settings"
-msgstr ""
+msgstr "Vkontakte-ის პარამეტრები"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_enable"
 msgid "Show Vkontakte button"
-msgstr ""
+msgstr "Vkontakte-ის ღილაკის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_appid"
 msgid "Vkontakte app ID"
@@ -202,7 +202,7 @@ msgstr "Vkontakte app ID"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_button_style"
 msgid "Button layout"
-msgstr ""
+msgstr "ღილაკის სტილი"
 
 msgctxt "SettingsOptions::social_buttons::vkontakte_height"
 msgid "Button height (px)"
@@ -234,23 +234,23 @@ msgstr "ჩვენება"
 
 msgctxt "SettingsTooltips::social_buttons::twitter_via"
 msgid "User name to attribute the Tweet to (i.e. 'via @username')"
-msgstr ""
+msgstr "მომხმარებლის სახელი, რომელიც იქნება აღნიშნული შეტყობინებებში (via @username)"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
 msgid "Specify any Facebook app ID, otherwise the button will not be shown"
-msgstr ""
+msgstr "შეიყვანეთ Facebook-ის ნებისმიერი აპლიკაციის ID, წინააღმდეგ შემთხვევაში ღილაკი არ იქნება ნაჩვენები"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_href"
 msgid "Leave empty to use an actual page URL"
-msgstr ""
+msgstr "დატოვეთ ცარიელი, რომ გამოიყენოთ გვერდის URL-ი, რომელზეც მოთავსებულია ღილაკი"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
 msgid "Enable to display profile photos below the button (standard layout only)"
-msgstr ""
+msgstr "ჩართეთ, რომ მომხმარებლის ფოტო ნაჩვენები იყოს ღილაკის ქვემოთ (მხოლოდ ღილაკის სტანდარტული სტილის დროს)"
 
 msgctxt "SettingsTooltips::social_buttons::vkontakte_width"
 msgid "Only for the button with text counter"
-msgstr ""
+msgstr "მხოლოდ ღილაკისთვის ტექსტური მრიცხველით"
 
 msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
 msgid "Medium"
@@ -318,11 +318,11 @@ msgstr "დიდი მრიცხველით"
 
 msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::like"
 msgid "Like"
-msgstr "მოწონება"
+msgstr "მომწონს"
 
 msgctxt "SettingsVariants::social_buttons::facebook_action::like"
 msgid "Like"
-msgstr "მოწონება"
+msgstr "მომწონს"
 
 msgctxt "SettingsVariants::social_buttons::facebook_action::recommend"
 msgid "Recommend"
@@ -366,7 +366,7 @@ msgstr "ჩეხური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::cy_GB"
 msgid "Welsh"
-msgstr ""
+msgstr "უელსური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::da_DK"
 msgid "Danish"
@@ -422,7 +422,7 @@ msgstr "სპარსული"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fb_LT"
 msgid "Leet Speak"
-msgstr ""
+msgstr "Leet Speak"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fi_FI"
 msgid "Finnish"
@@ -430,7 +430,7 @@ msgstr "ფინური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fo_FO"
 msgid "Faroese"
-msgstr ""
+msgstr "ფარერული"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fr_CA"
 msgid "French (Canada)"
@@ -442,7 +442,7 @@ msgstr "ფრანგული (ფრანგული)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::fy_NL"
 msgid "Frisian"
-msgstr ""
+msgstr "ფრიზური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ga_IE"
 msgid "Irish"
@@ -522,11 +522,11 @@ msgstr "მაკედონიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ml_IN"
 msgid "Malayalam"
-msgstr ""
+msgstr "მალაიალამი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ms_MY"
 msgid "Malay"
-msgstr ""
+msgstr "მალაიური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::nb_NO"
 msgid "Norwegian (bokmal)"
@@ -546,7 +546,7 @@ msgstr "ნორვეგიული (nynorsk)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::pa_IN"
 msgid "Punjabi"
-msgstr ""
+msgstr "პანჯაბი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::pl_PL"
 msgid "Polish"
@@ -578,7 +578,7 @@ msgstr "სლოვაკური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::sl_SI"
 msgid "Slovenian"
-msgstr "სლოვაკური"
+msgstr "სლოვენური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::sq_AL"
 msgid "Albanian"
@@ -598,15 +598,15 @@ msgstr "Swahili"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::ta_IN"
 msgid "Tamil"
-msgstr "Tamil"
+msgstr "ტამილური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::te_IN"
 msgid "Telugu"
-msgstr "Telugu"
+msgstr "ტელუგუ"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::th_TH"
 msgid "Thai"
-msgstr ""
+msgstr "ტაი"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::tl_PH"
 msgid "Filipino"
@@ -626,15 +626,15 @@ msgstr "ვიეტნამური"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_CN"
 msgid "Simplified Chinese (China)"
-msgstr ""
+msgstr "გამარტივებული ჩინური (ჩინეთი)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_HK"
 msgid "Traditional Chinese (Hong Kong)"
-msgstr ""
+msgstr "ტრადიციული ჩინური (ჰონგ-კონგი)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_TW"
 msgid "Traditional Chinese (Taiwan)"
-msgstr ""
+msgstr "ტრადიციული ჩინური (ტაივანი)"
 
 msgctxt "SettingsVariants::social_buttons::facebook_action_font::arial"
 msgid "Arial"
@@ -690,55 +690,55 @@ msgstr "ეს საინტერესოა"
 
 msgctxt "SettingsSections::social_buttons::gplus"
 msgid "Google plus"
-msgstr ""
+msgstr "Google plus"
 
 msgctxt "SettingsOptions::social_buttons::gplus_header"
 msgid "Google plus settings"
-msgstr ""
+msgstr "Google plus-ის პარამეტრები"
 
 msgctxt "SettingsOptions::social_buttons::gplus_enable"
 msgid "Show Google plus button"
-msgstr ""
+msgstr "Google plus-ის ღილაკის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::gplus_href"
 msgid "Google plus href"
-msgstr ""
+msgstr "Google plus href"
 
 msgctxt "SettingsOptions::social_buttons::gplus_size"
 msgid "Size"
-msgstr ""
+msgstr "ზომა"
 
 msgctxt "SettingsOptions::social_buttons::gplus_annotation"
 msgid "Annotation"
-msgstr ""
+msgstr "ანოტაცია"
 
 msgctxt "SettingsOptions::social_buttons::gplus_width"
 msgid "Width"
-msgstr ""
+msgstr "სიგანე"
 
 msgctxt "SettingsOptions::social_buttons::gplus_align"
 msgid "Align"
-msgstr ""
+msgstr "გასწორება"
 
 msgctxt "SettingsOptions::social_buttons::gplus_expandto"
 msgid "Expand To"
-msgstr ""
+msgstr "გაფართოება"
 
 msgctxt "SettingsOptions::social_buttons::gplus_recommendations"
 msgid "Recomendations"
-msgstr ""
+msgstr "რეკომენდაციები"
 
 msgctxt "SettingsOptions::social_buttons::gplus_display_on"
 msgid "Display on"
-msgstr ""
+msgstr "ჩვენება"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::products"
 msgid "Product details pages"
-msgstr ""
+msgstr "პროდუქტის დეტალური გვერდი"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::pages"
 msgid "Pages"
-msgstr ""
+msgstr "გვერდები"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::small"
 msgid "Small"
@@ -746,27 +746,27 @@ msgstr "პატარა"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::medium"
 msgid "Medium"
-msgstr ""
+msgstr "საშუალო"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::standard"
 msgid "Standard"
-msgstr ""
+msgstr "სტანდარტი"
 
 msgctxt "SettingsVariants::social_buttons::gplus_size::tall"
 msgid "Tall"
-msgstr ""
+msgstr "მაღალი"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::none"
 msgid "None"
-msgstr ""
+msgstr "ცარიელი"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::bubble"
 msgid "Bubble"
-msgstr ""
+msgstr "ბუშტი"
 
 msgctxt "SettingsVariants::social_buttons::gplus_annotation::inline"
 msgid "Inline"
-msgstr ""
+msgstr "შიგნით"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::left"
 msgid "Left"
@@ -774,23 +774,23 @@ msgstr "მარცხნივ"
 
 msgctxt "SettingsVariants::social_buttons::gplus_align::right"
 msgid "Right"
-msgstr "მარჯვნიდან"
+msgstr "მარჯვნივ"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::top"
 msgid "Top"
-msgstr ""
+msgstr "მაღლა"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::right"
 msgid "Right"
-msgstr ""
+msgstr "მარჯვნივ"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::bottom"
 msgid "Bottom"
-msgstr ""
+msgstr "დაბლა"
 
 msgctxt "SettingsVariants::social_buttons::gplus_expandto::left"
 msgid "Left"
-msgstr ""
+msgstr "მარცხნივ"
 
 msgctxt "SettingsVariants::social_buttons::gplus_recommendations::yes"
 msgid "Yes"
@@ -814,15 +814,15 @@ msgstr "გვერდები"
 
 msgctxt "SettingsSections::social_buttons::pinterest"
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_header"
 msgid "Pinterest settings"
-msgstr ""
+msgstr "Pinterest-ის პარამეტრები"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_enable"
 msgid "Show Pinterest button"
-msgstr ""
+msgstr "Pinterest-ის ღილაკის ჩვენება"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_size"
 msgid "Button size"
@@ -838,15 +838,15 @@ msgstr "დიდი"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_shape"
 msgid "Shape"
-msgstr ""
+msgstr "ფორმა"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::rect"
 msgid "Rectangular"
-msgstr ""
+msgstr "მართკუთხედი"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
 msgid "Circular"
-msgstr ""
+msgstr "მრგვალი"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_color"
 msgid "Color"

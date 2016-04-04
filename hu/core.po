@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: hu\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-30 08:55-0400\n"
+"PO-Revision-Date: 2016-03-31 05:54-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1786,7 +1786,7 @@ msgstr "A továbblépéshez el kell fogadnia az Általános Szerződési Feltét
 
 msgctxt "Languages::terms_and_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
-msgstr ""
+msgstr "<p>Kérjük figyelmesen olvassa el ezeket a Szerződési Feltételeket mielőtt használja a <a href=\"http://www.mywebsite.com\">http://www.oldalam.com</a> weboldalt és mobil alkalmazást (a \"Szolgáltatás\") üzemeltetője a Cégem Kft. (hivatkozás: \"mi\", vagy \"miénk\").</p><p><strong> A szolgáltatás használatával elfogadja a Feltételeket. Amennyiben nem ért egyet a feltételek bármely pontjával, kérjük, hogy ne használja ezt a szolgáltatást. </strong></p><p><strong>Vásárlások</strong></p><p>Amennyiben bármely oldal által kínált terméket, vagy szolgáltatást meg szeretne vásárolni , köteles adatot szolgáltatni a vásárlás teljesítéséhez ...</p><p><strong>Tartalom</strong></p><p> Ide jön a szolgáltatás tartalmi korlátozása / hozzáférése ...</p><p><strong>Változások</strong></p><p>Szerzőésmódosításhoz kapcsolódó információk ....</p><p><strong>Kapcsolat</strong></p><p>Amennyiben további információra lenne szüksége, kérjük vegye fel velünk a kapcsolatot.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -11242,7 +11242,7 @@ msgstr "A frissítési csomag letöltése sikertelen"
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "Ezen fájlok tartalmaznak helyi módosításokat, ezért biztonsági mentés készült róluk. Miután a frissítési folyamat befejeződött, hasonlítsa össze a mentett és az új fájlokat, és végezze el a módosításokat újra."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -11598,7 +11598,7 @@ msgstr "Arculat szerkesztése panel mutatása/elrejtése"
 
 msgctxt "Languages::theme_editor.incorrect_style_name"
 msgid "Style name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "A stílus neve nem tartalmazhatja a következő karaktereket: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.in_stock"
 msgid "In stock"
@@ -12118,7 +12118,7 @@ msgstr "Igaz"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr ""
+msgstr "A szállítási idő közvetlenül a szállítási mód neve mellett jelenik meg. Amennyiben valós idejű kalkulációt használ, a szállítási szolgáltató elképzelhető, hogy egyedi szállítási időt határoz meg. Ebben az esetben a szolgáltató által meghatározott szállítási idő fog megjelenni."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -12286,7 +12286,7 @@ msgstr "Időszak statisztikáinak lekérése (nap, hét, hónap, év)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr ""
+msgstr "Paraméter, ami alapján az értékek rendezésre kerülnek.  Összhangban kell lennie a megjelenítendő paraméterekkel (pl. Termékek költségei - Összköltség vagy Termékek száma - Elemek száma)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -12538,7 +12538,7 @@ msgstr "Ha nem ismeri a  CS-Cart technikai vonatkozásait és a frissítési fol
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr ""
+msgstr "A frissítési folyamat nem tartalmazza a harmadik féltől származó bővítményeket. Éppen ezért javasoljuk, hogy tiltsa le ezeket a bővítményeket mielőtt elindítja a frissítést."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
@@ -12562,7 +12562,7 @@ msgstr "A szervere PHP szkript túllépési idő beállítása nem megfelelő. E
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr ""
+msgstr "<p class=\"text-error\">Elindítottunk egy ál PHP scriptet. Ez 6 percig fog futni. Amikor az ellenőrzés befejeződött, információt fog látni azzal kapcsolatban, hogy a script időtúllépési értéke megfelelően állítható-e. Amennyiben igen, a frissítési folyamat elindítható. Kérjük várjon, amíg az ellenőrzés befejeződik, így meggyőződhet róla, hogy a szerver beállításai helyesek.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13018,7 +13018,7 @@ msgstr "Az alapértelmezett pénznem státuszát nem lehet megváltoztatni"
 
 msgctxt "Languages::warning_https_is_disabled"
 msgid "The secure connection check has failed. Please ensure that SSL certificate is installed on your server. Check out the <a href=\"[href]\" target=\"_blank\">Knowledge base article</a> for more details."
-msgstr ""
+msgstr "A biztonságos kapcsolat ellenőrzése nem sikerült. Kérjük győződjön meg róla, hogy SSL tanúsítvány telepítve van-e a szerveren. Tudjon meg többet a <a href=\"[href]\" target=\"_blank\">Tudásbázisunkból</a>."
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
@@ -13566,7 +13566,7 @@ msgstr "Ezzel a névvel már létezik előbeállítás. Kérjük válasszon más
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Az előbeállítás neve nem tartalmazhatja az alábbi karaktereket: \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -15611,7 +15611,7 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr ""
+msgstr "Frissítési csatlakozás [connector_id] hibás adattal tért vissza"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
@@ -15623,7 +15623,7 @@ msgstr "Frissítő csatlakozás nem található"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr ""
+msgstr "A csomag sémája nem olvasható (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
@@ -15639,19 +15639,19 @@ msgstr "Tilos: A bővítmény megpróbálja módosítani az alapmotor fájljait 
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr ""
+msgstr "A csomag olyan migrációs fájlokat tartalmaz, melyek nem kerültek be a séma leírásába, vagy a séma hiányzó fájl(ok)ra mutat"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr ""
+msgstr "A csomag olyan nyelveket tartalmaz, melyek nem kerültek be a séma leírásába, vagy a séma hiányzó fájl(ok)ra mutat"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr ""
+msgstr "A csomag olyan fájlokat tartalmaz, melyek nem kerültek be a séma leírásába, vagy a séma hiányzó fájl(ok)ra mutat"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr ""
+msgstr "A csomag olyan elő/utó scripteket tartalmaz, melyek nem kerültek be a schema leírásba, vagy a schema hiányzó fájl(ok)ra mutat"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15779,7 +15779,7 @@ msgstr ""
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
-msgstr ""
+msgstr "Hiba történt a frissítési folyamat során. Kérjük, hogy vegye fel a kapcsolatot a technikai támogatásunkkal."
 
 msgctxt "Languages::error_unable_to_create_backups"
 msgid "Unable to create backups."
@@ -15847,7 +15847,7 @@ msgstr "Kategória lomtárba helyezése"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr ""
+msgstr "Amikor egy terméket törölnek az utolsó kategóriából, akkor ebbe a kategóriába kerül."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
@@ -15903,7 +15903,7 @@ msgstr "A \"[name]\" bővítmény sikeresen frissítve"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
-msgstr ""
+msgstr "Annak érdekében, hogy kiderüljön, hogy egy harmadik féltől származó bővítmény okozza-e a problémát, letilthatja ezeket a bővítményeket. Később egyetlen kattintással újra engedélyezheti őket."
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
@@ -15935,7 +15935,7 @@ msgstr "Harmadik féltől származó bővítmények:"
 
 msgctxt "Languages::tools_addons_disabled_msg"
 msgid "An administrator disabled all add-ons or third-party add-ons.<br> Press the Re-enable add-ons button to initialize the add-ons that were previously active."
-msgstr ""
+msgstr "Egy adminisztrátor az összes harmadik féltől származó bővítményt letiltotta.<br>Kattinston az Bővítmények újra engedélyezése gombra, hogy a korábban aktív bővítményeket visszakapcsolja."
 
 msgctxt "Languages::addons_source"
 msgid "Source"
@@ -15975,7 +15975,7 @@ msgstr "<p>Frissítés előtt az áruház bezárásra került. Ellenőrizze, hog
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
-msgstr ""
+msgstr "<p class='upgrade-center_notice-msg'>Ez az üzenet továbbítva lett az adminisztrátor e-mail címére.</p><hr>"
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
@@ -15987,7 +15987,7 @@ msgstr "Socket hiba"
 
 msgctxt "Languages::curl_error_code_reference_link"
 msgid "To learn what caused the Curl error, look for your error number in <a target=\"_blank\" href=\"[href]\">this article</a>."
-msgstr ""
+msgstr "A Curl hiba okát az <a target=\"_blank\" href=\"[href]\">alábbi bejegyzés</a>ben szereplő kódok alapján tudja kideríteni."
 
 msgctxt "Languages::n_days"
 msgid "[n] day|[n] days"
@@ -16007,7 +16007,7 @@ msgstr "Elérte a lehetséges státuszok számát"
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
-msgstr ""
+msgstr "A státusz hibával tért vissza amikor CURLOPT_SSL_VERIFYSTATUS kérés történt."
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
@@ -16027,7 +16027,7 @@ msgstr "Helyi módosítások"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Ezen fájlok módosítást tartalmaztak. A frissítési folyamat során arhiválásra kerültek a <strong>[dir]</strong> mappába. Kéjük hasonlítsa össze a régi és új fájlokat, és amennyiben szükséges, végezze el újra a módosításokat."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
@@ -16039,17 +16039,17 @@ msgstr "Ellenőrzött"
 
 msgctxt "Languages::error_filter_by_feature_exists"
 msgid "Filter by feature \"[name]\" already exists."
-msgstr ""
+msgstr "\"[name]\" terméktulajdonság szűrő már létezik."
 
 msgctxt "Languages::error_filter_by_product_field_exists"
 msgid "Filter by product field \"[name]\" already exists."
-msgstr ""
+msgstr "\"[name]\" termékmező szűrő már létezik."
 
 msgctxt "Languages::shipping_address_changed"
 msgid "Shipping address has been changed"
-msgstr ""
+msgstr "Szállítási cím megváltozott"
 
 msgctxt "Languages::theme_editor_not_supported"
 msgid "This theme doesn't support theme editor"
-msgstr ""
+msgstr "Ez a kinézet nem támogatja a vizuális szerkesztőt"
 

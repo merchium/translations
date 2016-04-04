@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/searchanise.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-30 12:54-0400\n"
+"PO-Revision-Date: 2016-04-03 13:54-0400\n"
 
 msgctxt "Addons::name::searchanise"
 msgid "Searchanise"
@@ -18,7 +18,7 @@ msgstr "Searchanise"
 
 msgctxt "Addons::description::searchanise"
 msgid "Turns on the <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a> fast search service"
-msgstr ""
+msgstr "დაკავშირება სწრაფი ძებნის სერვერთან <a target=\"_blank\" href=\"http://searchanise.com/\">Searchanise</a>"
 
 msgctxt "Languages::searchanise"
 msgid "Searchanise"
@@ -26,55 +26,55 @@ msgstr "Searchanise"
 
 msgctxt "Languages::text_se_import_status_queued"
 msgid "The product catalog is queued for syncing with Searchanise."
-msgstr ""
+msgstr "პროდუქციის კატალოგი დაემატა სინქრონიზაციის რიგში Searchanise-ის სერვისთან."
 
 msgctxt "Languages::text_se_re_indexation_required"
 msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
-msgstr ""
+msgstr "Searchanise: საჭიროა რეინდექსაცია (დააჭირეთ ღილაკს <strong>Force re-indexation</strong> მართვის პანელში <a href=\"[link]\">Searchanise</a>)."
 
 msgctxt "Languages::text_se_new_engine_store"
 msgid "Searchanise: New search engine for [store] created. Catalog import started."
-msgstr ""
+msgstr "Searchanise: ახალი საძიებო ძრავა მაღაზიაში [store] შექმნილია. კატალოგის იმპორტი დაწყებულია."
 
 msgctxt "Languages::text_se_seo_settings_notice"
 msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
-msgstr ""
+msgstr "თუ თქვენ შეიცვალეთ SEO მოდულის პარამეტრები, გთხოვთ გაუშვათ განმეორებით <a href=\"[link]\">სინქრონიზაცია</a> პროდუქციის კატალოგის Searchanise-ის სერვისთან, იმისთვის რომ პროდუქციის URL-ი განახლდეს."
 
 msgctxt "Languages::text_se_connect_error"
 msgid "An error occurred during Searchanise registration. Please try later."
-msgstr ""
+msgstr "მოხდა შეცდომა რეგისტრაციი დროს Searchanise-ის სერვერში. გთხოვთ სცადოთ მოგვიანებით."
 
 msgctxt "Languages::text_se_import_status_processing"
 msgid "The product catalog syncing is in progress."
-msgstr ""
+msgstr "მიმდინარეობს პროდუქციის კატალოგის სინქრონიზაცია."
 
 msgctxt "Languages::text_se_import_status_done"
 msgid "The product catalog was synced successfully with Searchanise."
-msgstr ""
+msgstr "პროდუქციის კატალოგი წარმატებით სინქრონიზებულია Searchanis-ის სერვერთან."
 
 msgctxt "Languages::text_se_import_status_none"
 msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
-msgstr ""
+msgstr "პროდუქციის კატალოგი ჯერ არ არის სინქრონიზებული Searchanis-ის სერვერთან. გთხოვთ, დააჭირეთ \"სინქრონიზირება\"-ს."
 
 msgctxt "Languages::text_se_data_update"
 msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
-msgstr ""
+msgstr "გთხოვთ გაითვალისწინოთ, რომ მონაცემები სერვერზე Searchanise განახლდება 2-3 წუთის დაგვიანებით მას შემდეგ, რაც შეიტანთ ცვლილებებს მაღაზიაში."
 
 msgctxt "Languages::text_se_signup"
 msgid "Click the button below to connect to Searchanise."
-msgstr ""
+msgstr "დააჭირეთ ღილაკს ქვემოთ, რომ დააკავშიროთ მაღაზია Searchanise-ის სერვისთან."
 
 msgctxt "Languages::text_se_just_connected"
 msgid "Congratulations, you've just connected to Searchanise."
-msgstr ""
+msgstr "გილოცავთ, თქვენ წარმატებით დააკავშირეთ მაღაზია Searchanise-ის სერვისთან."
 
 msgctxt "Languages::text_se_connected"
 msgid "You've connected to Searchanise."
-msgstr ""
+msgstr "მაღაზია დაკავშირებულია Searchanise-ის სერვისთან."
 
 msgctxt "Languages::text_se_database_restore_notice"
 msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
-msgstr ""
+msgstr "მონაცემები იყო აღდგენილია მონაცემების ბაზის დამფიდან. თუ დამფში ოყო მონაცემები პროდუქციაზე, გაუშვით განმეორებით <a href=\"[link]\">სინქრონიზაცია</a> პროდუქციის კატალოგის Searchanise-ის სერვისთან."
 
 msgctxt "Languages::text_se_only_root_can_register"
 msgid "Only the root admin has the permission to connect to Searchanise"
@@ -82,11 +82,11 @@ msgstr "მხოლოდ მთავარ ადმინისტრატ�
 
 msgctxt "Languages::se_did_you_mean"
 msgid "Did you mean"
-msgstr "ხომ არ გულისხმობდით"
+msgstr "შესაძლოა თქვენ იგულისხმეთ"
 
 msgctxt "Languages::se_product_id"
 msgid "Product Id"
-msgstr "პროდუქტის ID"
+msgstr "პროდუქტის Id"
 
 msgctxt "Languages::se_title"
 msgid "Title"
@@ -118,19 +118,19 @@ msgstr "სურათის Url"
 
 msgctxt "Languages::se_category_Id"
 msgid "Category Id"
-msgstr "კატეგორიის ID"
+msgstr "კატეგორიის Id"
 
 msgctxt "Languages::se_category_usergroup_ids"
 msgid "Category Usergroup Ids"
-msgstr ""
+msgstr "მომხმარებლების ჯგუფის კატეგორიის Ids"
 
 msgctxt "Languages::se_usergroup_ids"
 msgid "Usergroup Ids"
-msgstr "მომხმარებელთა ჯგუფის ID"
+msgstr "მომხმარებელთა ჯგუფის Id"
 
 msgctxt "Languages::se_company_id"
 msgid "Company Id"
-msgstr "ორგანიზაციის ID"
+msgstr "ორგანიზაციის Id"
 
 msgctxt "Languages::se_empty_categories"
 msgid "Without Categories"
@@ -138,15 +138,15 @@ msgstr "კატეგორიის გარეშე"
 
 msgctxt "Languages::se_price_for_usergroup_id"
 msgid "Price for usergroup Id ([id])"
-msgstr ""
+msgstr "ფასი Id ([id]) მომხმარებელთა ჯგუფისთვის"
 
 msgctxt "Languages::se_for_feature_id"
 msgid "Feature \"[id]\" Id"
-msgstr ""
+msgstr "\"[id]\" Id პარამეტრები"
 
 msgctxt "Languages::se_relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "შესაბამისობა"
 
 msgctxt "Languages::se_products"
 msgid "Products"
@@ -154,11 +154,11 @@ msgstr "პროდუქტები"
 
 msgctxt "Languages::se_popular_suggestions"
 msgid "Popular suggestions"
-msgstr ""
+msgstr "რჩევები"
 
 msgctxt "Languages::sort_by_relevance_asc"
 msgid "Sort by Relevance"
-msgstr ""
+msgstr "სორტირება შესაბამისობით"
 
 msgctxt "Languages::se_api_key"
 msgid "API key"

@@ -10,31 +10,31 @@ msgstr ""
 "X-Crowdin-File: /addons/reward_points.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-30 12:54-0400\n"
+"PO-Revision-Date: 2016-04-03 13:54-0400\n"
 
 msgctxt "Addons::name::reward_points"
 msgid "Reward points"
-msgstr "სასაჩუქრე ქულები"
+msgstr "საბონუსო ქულები"
 
 msgctxt "Addons::description::reward_points"
 msgid "Lets customers earn and spend points for purchases"
-msgstr ""
+msgstr "ბონუსები და ჯილდოები შესყიდვებისთვისს"
 
 msgctxt "Languages::reward_points"
 msgid "Reward points"
-msgstr "სასაჩუქრე ქულები"
+msgstr "საბონუსო ქულები"
 
 msgctxt "Languages::reward_points_log"
 msgid "Reward points log"
-msgstr "სასაჩუქრე ქულების ლოგი"
+msgstr "საბონუსო ქულების ჟურნალი"
 
 msgctxt "Languages::reward_points_menu_description"
 msgid "Assign global reward points in your store."
-msgstr ""
+msgstr "გლობალური საბონუსო ქულების პარამეტრები მაღაზიაში."
 
 msgctxt "Languages::promotion_cond_reward_points"
 msgid "Points on user account"
-msgstr ""
+msgstr "მომხმარებლის ბონუსები"
 
 msgctxt "Languages::points"
 msgid "Points"
@@ -42,11 +42,11 @@ msgstr "ქულები"
 
 msgctxt "Languages::points_in_use"
 msgid "Points in use"
-msgstr "გამოყენებული ქულები"
+msgstr "გამოყენებადი ქულები"
 
 msgctxt "Languages::points_in_use_lower"
 msgid "points in use"
-msgstr "გამოყენებული ქულები"
+msgstr "გამოყენებადი ქულები"
 
 msgctxt "Languages::points_lower"
 msgid "points"
@@ -54,11 +54,11 @@ msgstr "ქულები"
 
 msgctxt "Languages::points_in_use_lowercase"
 msgid "[n] point in use|[n] points in use"
-msgstr ""
+msgstr "[n] ქულა გამოყენებულია|[n] ქულები გამოყენებულია"
 
 msgctxt "Languages::points_lowercase"
 msgid "[n] point|[n] points"
-msgstr ""
+msgstr "[n] ქულა|[n] ქულები"
 
 msgctxt "Languages::points_to_use"
 msgid "Points to use"
@@ -66,7 +66,7 @@ msgstr "გამოსაყენებელი ქულები"
 
 msgctxt "Languages::point_payment"
 msgid "Point payment"
-msgstr "ანგარიშწორება ქულებით"
+msgstr "გადახდა ქულებით"
 
 msgctxt "Languages::point_price"
 msgid "Price in points"
@@ -74,11 +74,11 @@ msgstr "ფასი ქულებში"
 
 msgctxt "Languages::text_increase_points_in_use"
 msgid "The points used in the order were added to user account."
-msgstr ""
+msgstr "ქულები, გამოყენებულნი შეკვეთაში, იყვნენ დამატებულნი თქვენს ანგარიშზე."
 
 msgctxt "Languages::text_points_used_in_order"
 msgid "Points were used in order"
-msgstr ""
+msgstr "ქულები იყვნენ გამოყენებულნი შეკვეთაში"
 
 msgctxt "Languages::text_point_in_account"
 msgid "You have"
@@ -86,55 +86,55 @@ msgstr "თქვენ გაქვთ"
 
 msgctxt "Languages::pay_by_points"
 msgid "Allow payment by points"
-msgstr "ქულებით გადახდა"
+msgstr "ქულებით გადახდის შესაძლებლობა"
 
 msgctxt "Languages::override_per"
 msgid "Override global PER"
-msgstr ""
+msgstr "გლობალური PER-ის ჩანაცვლება"
 
 msgctxt "Languages::override_gc_points_brief"
 msgid "Override global/category points"
-msgstr ""
+msgstr "გლობალური ქულების და კატეგორიის ქულების ჩანაცვლება"
 
 msgctxt "Languages::text_points_exceed_points_on_account"
 msgid "The number of the points entered by you exceeds the number of points at your account."
-msgstr ""
+msgstr "ქულების რაოდენობა, რომელიც თქვენ შეიყვანეთ, უფრო მეტია, ვიდრე ქულების რაოდენობა თქვენს ანგარიშზე."
 
 msgctxt "Languages::text_points_exceed_points_that_can_be_applied"
 msgid "The number of points entered by you exceeds the number of points that can be applied to this order."
-msgstr ""
+msgstr "ქულების რაოდენობა, რომელიც თქვენ შეიყვანეთ, უფრო მეტია, ვიდრე შეიძლება გამოყენებული იქნას ამ შეკვეთაში."
 
 msgctxt "Languages::text_points_cannot_applied_because_subtotal_redeemed"
 msgid "Points cannot be applied because the subtotal is completely redeemed."
-msgstr ""
+msgstr "ქულები არ შეიძლება იყოს გამოყენებული, რადგან ჯამი მთლიანად დაფარულია."
 
 msgctxt "Languages::text_cannot_apply_points_to_this_order_because_total"
 msgid "Unfortunately, you cannot apply points to this order, because the total cost is zero."
-msgstr ""
+msgstr "სამწუხაროდ, თქვენ ვერ შეძლებთ გამოიყენოთ ქულები ამ შეკვეთაში, რადგან მისი საერთო ღირებულება უდრის ნულს."
 
 msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
 msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
-msgstr ""
+msgstr "სამწუხაროდ, თქვენ ვერ შეძლებთ გამოიყენოთ ქულები ამ შეკვეთაში, რადგან თქვენს ანგარიშზე არ არის საკმარისი ქულა."
 
 msgctxt "Languages::text_order_status_has_not_been_changed"
 msgid "The order status has not been changed, because the user did not have enough points."
-msgstr ""
+msgstr "შეკვეთის სტატუსი არ იყო შეცვლილი, იმიტომ რომ მომხმარებელს არ აქვს საკმარისი ქულა."
 
 msgctxt "Languages::price_in_points_increased"
 msgid "Price in points has been increased by"
-msgstr ""
+msgstr "ფასი ქულებში გაიზარდა ასე"
 
 msgctxt "Languages::price_in_points_decreased"
 msgid "Price in points has been decreased by"
-msgstr ""
+msgstr "ფასი ქულებში დაიკლო ასე"
 
 msgctxt "Languages::earned_points"
 msgid "Points earned per product"
-msgstr ""
+msgstr "თითო პროდუქტის ქულა"
 
 msgctxt "Languages::override_g_points"
 msgid "Override global point value for all products in this category"
-msgstr ""
+msgstr "გლობალური ქულების ჩანაცვლება ამ კატეგორიის ყველა პროდუქციისათვის"
 
 msgctxt "Languages::amount_type"
 msgid "Amount type"
@@ -146,11 +146,11 @@ msgstr "მაქსიმუმი"
 
 msgctxt "Languages::earned_point_modifier"
 msgid "Earned point modifier"
-msgstr ""
+msgstr "ქულების მოდიფიკატორი"
 
 msgctxt "Languages::override_gc_points"
 msgid "Override global/category point value for this product"
-msgstr ""
+msgstr "ამ პროდუქციისათვის გლობალური ქულების და კატეგორიის ქულების ჩანაცვლება"
 
 msgctxt "Languages::view_user_points"
 msgid "View user points"
@@ -158,11 +158,11 @@ msgstr "მომხმარებლის ქულების ნახვ�
 
 msgctxt "Languages::log"
 msgid "Log"
-msgstr "ლოგი"
+msgstr "მოვლენების ჟურნალი"
 
 msgctxt "Languages::subtract"
 msgid "Subtract"
-msgstr ""
+msgstr "ჩამოჭრა"
 
 msgctxt "Languages::change_points"
 msgid "Change points"
@@ -170,11 +170,11 @@ msgstr "ქულების შეცვლა"
 
 msgctxt "Languages::add_subtract_points"
 msgid "Add & subtract points"
-msgstr ""
+msgstr "ქულების დამატება ან ჩამოჭრა"
 
 msgctxt "Languages::cleanup_log"
 msgid "Cleanup log"
-msgstr "ლოგის გასუფთავება"
+msgstr "მოვლენების ჟურნალის გასუფთავება"
 
 msgctxt "Languages::we_would_like_to_inform"
 msgid "We would like to inform you that"
@@ -182,11 +182,11 @@ msgstr "ჩვენ გვსურს შეგატყობინოთ რ
 
 msgctxt "Languages::reward_points_subj_added_to"
 msgid "have been added to your account."
-msgstr "დამატებულია თქვენს ანგარიშში."
+msgstr "დამატებულია თქვენს აკაუნტში."
 
 msgctxt "Languages::reward_points_subj_subtracted_from"
 msgid "have been subtracted from your account."
-msgstr ""
+msgstr "ჩამოიწერა თქვენს აკაუნტიდან."
 
 msgctxt "Languages::privileges.manage_reward_points"
 msgid "Manage reward points system"
@@ -198,61 +198,61 @@ msgstr "ზოგადი"
 
 msgctxt "SettingsOptions::reward_points::point_rate"
 msgid "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
-msgstr ""
+msgstr "ქულების კონვერტაციის კურსი (ქულების რაოდენობა ტოლი 1 სტანდარტული ერთეულის)"
 
 msgctxt "SettingsOptions::reward_points::auto_price_in_points"
 msgid "\"Price in points\" is calculated automatically on PER basis"
-msgstr ""
+msgstr "«ფასი ქულებში» ის ავტომატურად გამოითვლება კონვერტაციის კურსის საფუძველზე"
 
 msgctxt "SettingsOptions::reward_points::price_in_points_with_discounts"
 msgid "\"Price in points\" is recalculated taking into account discounts"
-msgstr ""
+msgstr "«ფასი ქულებში» გამოითვლება ფასდაკლების გათვალისწინებით"
 
 msgctxt "SettingsOptions::reward_points::points_with_discounts"
 msgid "\"Points\" is recalculated taking into account discounts"
-msgstr ""
+msgstr "«ქულები» გამოითვლება ფასდაკლების გათვალისწინებით"
 
 msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
 msgid "\"Price in points\" is recalculated taking into account order discounts"
-msgstr ""
+msgstr "«ფასი ქულებში» გამოითვლება საერთო შეკვეთის ფასდაკლების გათვალისწინებით"
 
 msgctxt "SettingsOptions::reward_points::reward_points_order_discount"
 msgid "\"Points\" is recalculated taking into account order discounts"
-msgstr ""
+msgstr "«ქულები» გამოითვლება საერთო შეკვეთის ფასდაკლების გათვალისწინებით"
 
 msgctxt "SettingsOptions::reward_points::higher_level_extract"
 msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
-msgstr ""
+msgstr "თუ ქულები არ არის მითითებული პროდუქციისათვის ან პროდუქციის კატეგორიისთვის, მაგრამ მითითებულია უმაღლესი დონის კატეგორიისათვის, აიღეთ მონაცემები იქიდან"
 
 msgctxt "SettingsOptions::reward_points::several_points_action"
 msgid "If several reward points can be applied, set"
-msgstr ""
+msgstr "თუ შესაძლებელია სხვადასხვა რაოდენობის საბონუსო ქულების გამოიყენება, მაშინ"
 
 msgctxt "SettingsOptions::reward_points::consider_zero_values"
 msgid "Apply zero reward point values"
-msgstr ""
+msgstr "ნულოვანი საბონუსო ქულების გამოყენება"
 
 msgctxt "SettingsOptions::reward_points::log_per_page"
 msgid "Log lines per page"
-msgstr ""
+msgstr "ხაზების რაოდენება მოვლენების წიგნის თითო გვერდზე"
 
 msgctxt "SettingsTooltips::reward_points::consider_zero_values"
 msgid "The reward points rules with the zero values should be considered"
-msgstr ""
+msgstr "ნულოვანი საბონუსო ქულების გამოყენების წესების განხილვა"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
 msgid "Absolute minimal value"
-msgstr ""
+msgstr "აბსოლუტური მინიმალური ღირებულება"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
 msgid "Minimal percentage value"
-msgstr ""
+msgstr "მინიმალური საპროცენტო ღირებულება"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
 msgid "Absolute maximal value"
-msgstr ""
+msgstr "აბსოლუტური მაქსიმალური ღირებულება"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
 msgid "Maximal percentage value"
-msgstr ""
+msgstr "მაქსიმალური საპროცენტო ღირებულება"
 
