@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-05 13:54-0400\n"
+"PO-Revision-Date: 2016-04-08 12:54-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -18,15 +18,15 @@ msgstr "Twigmo"
 
 msgctxt "Addons::description::twigmo"
 msgid "Connect your store to the <a href=\"http://www.twigmo.com/\" target=\"_blank\">Twigmo service</a> to get a mobile version of your store, a mobile admin application as well a native mobile store application. Some features are only available in paid plans."
-msgstr ""
+msgstr "შეაერთეთ თქვენი მაღაზია <a href=\"http://www.twigmo.com/\">სერვისთან Twigmo</a> იმისათვის რომ შექმნათ თქვენი მაღაზიის მობილური ვებ-ვერსია (პლუს აპლიკაცია) და მართოთ ის ადმინისტრატორის მობილური აპლიკაციის მეშვეობით. ზოგიერთი ფუნქციები ხელმისაწვდომია ფასიან გამოწერაში."
 
 msgctxt "SettingsSections::twigmo::service"
 msgid "Twigmo account"
-msgstr "Twigmo-ს ანგარიში"
+msgstr "Twigmo აკაუნტი"
 
 msgctxt "SettingsSections::twigmo::storefront"
 msgid "Mobile Storefront"
-msgstr ""
+msgstr "მობილური ვერსიის პარამეტრები"
 
 msgctxt "SettingsSections::twigmo::admin_app"
 msgid "Admin app"
@@ -38,7 +38,7 @@ msgstr "განახლება"
 
 msgctxt "SettingsSections::twigmo::twg_push"
 msgid "Push notifications"
-msgstr ""
+msgstr "Push-შეტყობინება"
 
 msgctxt "Languages::twgadmin_access_id"
 msgid "Access ID"
@@ -50,15 +50,15 @@ msgstr "ერთ წელზე მეტი"
 
 msgctxt "Languages::twgadmin_error_cannot_connect_store"
 msgid "Cannot connect to Twigmo service at this time. Please try again later. If the problem is still there, please visit <a href=\"http://support.twigmo.com\" target=\"_blank\">Twigmo Support Portal</a> for assistance."
-msgstr ""
+msgstr "Twigmo-ს სერვისთან დაკავშირება ვერ მოხერხდა. გთხოვთ სცადოთ მოგვიანებით. თუ ეს შეცდომა ვერ გამოსწორდება დიდი ხანის განმავლობაში, გთხოვთ, გადახვიდეთ <a href=\"http://support.twigmo.com\" target=\"_blank\">Twigmo-ს მხარდაჭერის საიტზე</a>."
 
 msgctxt "Languages::twgadmin_text_store_connected"
 msgid "Your store was connected to Twigmo service successfully!"
-msgstr ""
+msgstr "თქვენი მაღაზია წარმატებით დაკავშირებულია Twigmo-ს სერვისთან!"
 
 msgctxt "Languages::twgadmin_connect_your_store"
 msgid "Connect your store to the Twigmo service"
-msgstr ""
+msgstr "Twigmo-ს სერვისთან დაკავშირება"
 
 msgctxt "Languages::twgadmin_connect"
 msgid "Connect"
@@ -66,19 +66,19 @@ msgstr "დაკავშირება"
 
 msgctxt "Languages::tt_addons_twigmo_settings_settings_twgadmin_home_page_content"
 msgid "If 'Desktop home page blocks' is selected, there are all the supported types of the desktop home page blocks displayed on the Mobile Storefront home page. If 'Twigmo home page blocks' is selected, Twigmo home page blocks are displayed (configured in 'Design'->'Blocks'->'Twigmo home page'). If a category is selected, only its products are displayed on the Mobile Storefront home page."
-msgstr ""
+msgstr "თუ თქვენ აირჩიეთ \"მთავარი გვერდის ბლოკები სრული ვერსიიდან\", მაშინ მობილური ვერსიის მთავარ გვერდზე იქნებიან ნაჩვენები ყველა ხარდაჭერილი ბლოკები, რომლებიც არიან მაღაზიის სრულ ვერსიაში. თუ თქვენ აირჩიეთ \"მთავარი გვერდის ბლოკები მობილური ვერსიიდან\", იქნება ნაჩვენები ბლოკების სპეციალური კომპლექტი, რომელიც არის შემდეგ გვერდზე (\"დიაზინი\"->\"ბლოკები\"->Twigmo-ს \"მთავარი გვერდი\"). თუ კი არჩეულია კატეგორია, მაშინ მობილური ვერსიის მთავარ გვერდზე ნაჩვენები იქნება მხოლოდ მაგ კატეგორიის პროდუქცია."
 
 msgctxt "Languages::twgadmin_manage_settings"
 msgid "Service account infomation"
-msgstr ""
+msgstr "ინფორმაცია სერვისის აკაუნტზე"
 
 msgctxt "Languages::twgadmin_manage_storefront_settings"
 msgid "Mobile Storefront settings"
-msgstr ""
+msgstr "მობილური ვერსიი პარამეტრები"
 
 msgctxt "Languages::twgadmin_wrong_api_object_data"
 msgid "Wrong [object] data"
-msgstr ""
+msgstr "ობიექტის არასწორი მონაცემები [object]"
 
 msgctxt "Languages::twgadmin_wrong_api_data"
 msgid "Wrong API data"
@@ -86,31 +86,31 @@ msgstr "არასწორი API მონაცემები"
 
 msgctxt "Languages::twgadmin_wrong_shipping_info"
 msgid "Failed to place order: wrong shipping data"
-msgstr "შეკვეთის განთავსება შეუძლებელია: არასწორი ინფორმაცია მიწოდების შესახებ"
+msgstr "შეცდომა შეკვეთის განთავსებისას: არასწორი ინფორმაცია მიწოდების შესახებ"
 
 msgctxt "Languages::twgadmin_wrong_payment_info"
 msgid "Failed to place order: wrong payment data"
-msgstr ""
+msgstr "შეცდომა შეკვეთის განთავსების დროს: არასწორი გადახდის მონაცემები"
 
 msgctxt "Languages::twgadmin_object_was_not_found"
 msgid "The [object] data were not found"
-msgstr ""
+msgstr "[object] არ იყო ნაპოვნი"
 
 msgctxt "Languages::twgadmin_fail_create_user"
 msgid "Failed to create user"
-msgstr "მომხმარებლის შექმნა შეუძლებელია"
+msgstr "მომხმარებლის შექმნა ვერ მოხერხდა"
 
 msgctxt "Languages::twgadmin_fail_post_order"
 msgid "Failed to place order"
-msgstr "შეუძლებელია შეკვეთის განთავსება"
+msgstr "ვერ მოხერხდა შეკვეთის განთავსება"
 
 msgctxt "Languages::twg_post_request_fail"
 msgid "Failed to post request"
-msgstr "შეუძლებელია კომენტარის განთავსება"
+msgstr "ვერ მოხერხდა კომენტარის განთავსება"
 
 msgctxt "Languages::twgadmin_error_validator_required"
 msgid "The '[field]' field is mandatory"
-msgstr "ველის შევსება  '[field]' აუცილებელია"
+msgstr "ველის შევსება '[field]' აუცილებელია"
 
 msgctxt "Languages::twgadmin_mobile_version"
 msgid "Mobile version"
@@ -122,11 +122,11 @@ msgstr "Twigmo-ს ახალი ვერსიის მოდული ხ�
 
 msgctxt "Languages::twgadmin_home_page_content"
 msgid "Home page content"
-msgstr "საწყისი გვერდის შემცველობა"
+msgstr "მთავარი გვერდის შემცველობა"
 
 msgctxt "Languages::twgadmin_use_mobile_frontend_for"
 msgid "Show mobile version for"
-msgstr ""
+msgstr "მობილური ვერსიის ჩვენება"
 
 msgctxt "Languages::twgadmin_phones"
 msgid "Phones"
@@ -138,27 +138,27 @@ msgstr "ცხრილები"
 
 msgctxt "Languages::twgadmin_home_page_blocks"
 msgid "Desktop home page blocks"
-msgstr ""
+msgstr "მთავარი გვერდის ბლოკები სრული ვერსიიდან"
 
 msgctxt "Languages::twgadmin_tw_home_page_blocks"
 msgid "Twigmo home page blocks"
-msgstr ""
+msgstr "Twigmo-ს მთავარი გვერდის ბლოკები"
 
 msgctxt "Languages::twgadmin_homepage"
 msgid "Twigmo home page"
-msgstr ""
+msgstr "Twigmo-ს მთავარი გვერდი"
 
 msgctxt "Languages::twgadmin_edit_these_blocks"
 msgid "Edit these blocks"
-msgstr "ბლოკების რედაქტირება"
+msgstr "ამ ბლოკების რედაქტირება"
 
 msgctxt "Languages::twgadmin_select_skin"
 msgid "Skin"
-msgstr "გარსი"
+msgstr "გარეგნობა"
 
 msgctxt "Languages::twgadmin_hide_header"
 msgid "Hide header"
-msgstr ""
+msgstr "სათაურის დამალვა"
 
 msgctxt "Languages::twg_btn_load_more_items"
 msgid "Load More"
@@ -166,31 +166,31 @@ msgstr "ჩატვირთე მეტი"
 
 msgctxt "Languages::twg_btn_log_in_to_checkout"
 msgid "Sign in to checkout"
-msgstr "ავტორიზება ანგარიშსწორებისთვის"
+msgstr "ავტორიზაცია შეძენის წინ"
 
 msgctxt "Languages::twg_lbl_copy_from_billing"
 msgid "Ship to the same address"
-msgstr ""
+msgstr "მიწოდება ამ მისამართზე"
 
 msgctxt "Languages::twg_msg_date_invalid"
 msgid "Please enter a valid date."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ სწორი თარიღი."
 
 msgctxt "Languages::twg_msg_dateiso_invalid"
 msgid "Please enter a valid date (YYYY-MM-DD)."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ სწორი თარიღი (ფორმატში წწ-თთ-დდ)."
 
 msgctxt "Languages::twg_msg_digits_required"
 msgid "Please enter only digits."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ მხოლოდ ციფრები."
 
 msgctxt "Languages::twg_msg_email_invalid"
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ სწორი ელ-ფოსტის მისამართი."
 
 msgctxt "Languages::twg_msg_extension_invalid"
 msgid "Please enter a value with a valid extension."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ მნიშვნელობა სწორი გაფართოებით."
 
 msgctxt "Languages::twg_msg_field_required"
 msgid "This field is required."
@@ -198,27 +198,27 @@ msgstr "ეს ველი სავალდებულოა."
 
 msgctxt "Languages::twg_msg_fill_required_fields"
 msgid "Please fill in all the required fields."
-msgstr ""
+msgstr "გთხოვთ, შეავსოთ ყველა სავალდებულო ველი."
 
 msgctxt "Languages::twg_msg_field_invalid"
 msgid "Please fix this field."
-msgstr "გთხოვთ შეასწოროთ ეს ველი."
+msgstr "გთხოვთ შეასწოროთ ამ ველის მნიშვნელობა."
 
 msgctxt "Languages::twg_msg_max_length"
 msgid "Please enter no more than {0} characters."
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ არაუმეტეს {0} სიმბოლო."
 
 msgctxt "Languages::twg_msg_max_value"
 msgid "Please enter a value less than or equal to {0}."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ {0} სიმბოლო ან ნაკლები."
 
 msgctxt "Languages::twg_msg_min_length"
 msgid "Please enter at least {0} characters."
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ მინიმუმ {0} სიმბოლო."
 
 msgctxt "Languages::twg_msg_min_value"
 msgid "Please enter a value greater than or equal to {0}."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ მნიშვნელობა {0}-ის თანაბარი ან მეტი."
 
 msgctxt "Languages::twg_msg_number_invalid"
 msgid "Please enter a valid number."
@@ -226,31 +226,31 @@ msgstr "გთხოვთ შეიყვანოთ სწორი ნომ
 
 msgctxt "Languages::twg_msg_order_was_placed"
 msgid "Your order has been placed!<br />The order ID is "
-msgstr ""
+msgstr "თქვენი შეკვეთა წარმატებით განთავსებულია!<br />შეკვეთის ნომერი "
 
 msgctxt "Languages::twg_msg_orders_were_placed"
 msgid "Your orders have been placed!<br />The order IDs are "
-msgstr ""
+msgstr "თქვენი შეკვეთები წარმატებით იყვნენ განთავსებული!<br />შეკვეთების ნომრები "
 
 msgctxt "Languages::twg_msg_cc_invalid"
 msgid "Please enter a valid credit card number."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ საკრედიტო ბარათის სწორი ნომერი."
 
 msgctxt "Languages::twg_msg_range_length"
 msgid "Please enter a value between {0} and {1} characters long."
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ მნიშვნელობა {0} და {1} სიმბოლოების სიგრძის შორის."
 
 msgctxt "Languages::twg_msg_range_value"
 msgid "Please enter a value between {0} and {1}."
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ მნიშვნელობა {0} და {1} სიმბოლოების შორის."
 
 msgctxt "Languages::twg_msg_same_value_required"
 msgid "Please enter the same value again."
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ იგივე მნიშვნელობა კიდევ ერთხელ."
 
 msgctxt "Languages::twg_msg_url_invalid"
 msgid "Please enter a valid URL."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ სწორი URL."
 
 msgctxt "Languages::twg_cart_info"
 msgid "[amount] ([total])"
@@ -270,35 +270,35 @@ msgstr "Twitter"
 
 msgctxt "Languages::twg_desktop_site"
 msgid "Desktop site"
-msgstr ""
+msgstr "სრული ვერსია"
 
 msgctxt "Languages::twgadmin_connect_to_first_ult"
 msgid "Your store is not connected to the Twigmo service yet. Please ask the root store administrator to do it."
-msgstr ""
+msgstr "თქვენი მაღაზია არ არის დაკავშირებული Twigmo-ს სერვისთან. დახმარებისთვის დაუკავშირდით მაღაზიის მთავარ ადმინისტრატორს."
 
 msgctxt "Languages::twgadmin_mobile_logo"
 msgid "Mobile Storefront logo"
-msgstr ""
+msgstr "მობილური ვერსიის ლოგო"
 
 msgctxt "Languages::twgadmin_mobile_favicon"
 msgid "iOS device home screen icon"
-msgstr ""
+msgstr "იკონკა iOS მოწყობილობების დესკტოპისთვის"
 
 msgctxt "Languages::twgadmin_url_for_facebook"
 msgid "URL of your Facebook page"
-msgstr ""
+msgstr "თქვენი გვერდის URL Facebook-ზე"
 
 msgctxt "Languages::twgadmin_url_for_twitter"
 msgid "URL of your Twitter page"
-msgstr ""
+msgstr "თქვენი გვერდის URL Twitter-ზე"
 
 msgctxt "Languages::twgadmin_only_req_profile_fields"
 msgid "Show only user profile fields marked as required"
-msgstr ""
+msgstr "მყიდველის პროფილის მხოლოდ აუცილებელი ველების ჩვენება"
 
 msgctxt "Languages::twgadmin_reinstall"
 msgid "The version of Twigmo add-on files does not match the one in the database, so the mobile version of your store has been disabled. Please re-install Twigmo add-on (click Uninstall, then Install on the add-ons list) to enable it."
-msgstr ""
+msgstr "ფაილების ვერსიაTvigmo-ს მოდულში არ ემთხვევა მითითებულს თქვენს მონაცემების ბაზაში, ამიტომ თქვენი მაღაზიის მობილური ვერსია იყო გამორთული. გთხოვთ, ხელახლა დააყენოთ Twigmo-ს მოდული (მოდულის სიაში დააწკაპეთ 'წაშლა', შემდეგ 'დაყენება'), იმისათვის, რომ ისევ ჩართოთ."
 
 msgctxt "Languages::twg_view_cart_checkout"
 msgid "View cart & checkout"
@@ -306,23 +306,23 @@ msgstr "კალათის ნახვა & ანგარიშსწო�
 
 msgctxt "Languages::twg_sign_in_to_checkout"
 msgid "Sign in to checkout"
-msgstr "ავტოირება ანგარიშსწორებისთვის"
+msgstr "ავტორიზაცია შეძენის წინ"
 
 msgctxt "Languages::twg_only_via_desktop"
 msgid "This product can be added to cart only via the [linkOpen]desktop website[linkClose]."
-msgstr ""
+msgstr "ეს პროდუქტი შეიძლება დაემატოს კალათაში მხოლოდ [linkOpen] საიტის სრული ვერსიიდან [linkClose]."
 
 msgctxt "Languages::twg_share_on_social"
 msgid "Share on social networks"
-msgstr ""
+msgstr "გაზიარება სოციალურ ქსელებში"
 
 msgctxt "Languages::twgadmin_order_via_twigmo"
 msgid "[This order was placed via Twigmo Mobile Storefront]"
-msgstr ""
+msgstr "[ეს შეკვეთა იყო განთავსებული საიტის მობილური ვერსიიდან Twigmo]"
 
 msgctxt "Languages::twgadmin_on_social"
 msgid "Twigmo on social media"
-msgstr "Twigmo ან სოციალური მედია"
+msgstr "Twigmo სოციალურ ქსელებში"
 
 msgctxt "Languages::twg_contact_twigmo_support"
 msgid "Contact Twigmo support"
@@ -334,43 +334,43 @@ msgstr "გეოლოკაციის ჩართვა"
 
 msgctxt "Languages::tt_addons_twigmo_settings_settings_twgadmin_enable_geolocation"
 msgid "If enabled, shipping and billing address fields will be populated with the address determined by a geolocation service on the registration and checkout pages."
-msgstr ""
+msgstr "თუ ჩართულია, მაშინ რეგსიტრაციის და გადახდის გვერდზე, გადაზიდვის მისამართი და მყიდველის მისამართი ავტომატურად იქნებიან შევსებული მნიშვნელობებით, რომელიც დაადგინა გეოლოკაციის სერვისმა."
 
 msgctxt "Languages::twg_billing_is_the_same"
 msgid "Billing address is the same"
-msgstr "საცხოვრებელი მისამართი არის იგივე"
+msgstr "გადამხდელის მისამართი არის იგივე"
 
 msgctxt "Languages::twgadmin_upgrade_addon"
 msgid "Twigmo add-on upgrade has started."
-msgstr ""
+msgstr "დაწყებულია Twigmo-ს მოდულის განახლების პროცესი."
 
 msgctxt "Languages::twgadmin_download_twigmo"
 msgid "Downloading Twigmo upgrade package. Please wait..."
-msgstr ""
+msgstr "იტვირთება მოდულის ახალი ვერსია. გთხოვთ, დაელოდოთ..."
 
 msgctxt "Languages::twgadmin_checking_permissions"
 msgid "Done.</br>Checking file permissions..."
-msgstr ""
+msgstr "ჩამოტვირთვა დასრულებულია.</br>მიმდინარეობს ფაილების ხელმისაწვდომობის უფლებების შემოწმება..."
 
 msgctxt "Languages::twgadmin_no_files_permissions"
 msgid "Error: Cannot overwrite the existing Twigmo add-on files. Please check and correct the file permissions manually or [link]provide your FTP access details[/link] (if they are provided, please make sure this FTP user has enough permissions to modify files on the server)."
-msgstr ""
+msgstr "შეცდომა: Twigmo-ს მოდულის ფაილების განახლების უფლება არ გაქვთ. გთხოვთ შეამოწმოთ და დააკორექტირეთ ჩაწერის უფლება ხელით ან [link] მიუთითეთ თქვენი FTP აკაუნტის მონაცემები[/link] (თუ უკვე მითითებულია ამ გვერდზე, დარწმუნდით, რომ მითითებულ FTP აკაუნტს აქვს ფაილების მოდიფიკაციის უფლება სერვერზე)."
 
 msgctxt "Languages::twgadmin_backup_files"
 msgid "Backing up Twigmo files..."
-msgstr ""
+msgstr "მიმდინარეობს Twigmo -ს მოდულის ფაილების სარეზერვო კოპირება..."
 
 msgctxt "Languages::twgadmin_backup_settings"
 msgid "Backing up Twigmo add-on settings..."
-msgstr ""
+msgstr "მიმდინარეობს Twigmo -ს მოდულის პარამეტრების სარეზერვო კოპირება..."
 
 msgctxt "Languages::twgadmin_uninstall_addon"
 msgid "Uninstalling Twigmo add-on..."
-msgstr ""
+msgstr "მიმდინარეობს Twigmo -ს მოდულის წაშლა..."
 
 msgctxt "Languages::twgadmin_restore_settings"
 msgid "Restoring Twigmo add-on settings..."
-msgstr ""
+msgstr "მიმდინარეობს Twigmo -ს მოდულის პარამეტრების აღდგენა..."
 
 msgctxt "Languages::twg_min_product_quantity"
 msgid "Minimum order quantity"
@@ -378,15 +378,15 @@ msgstr "შეკვეთაში ნივთების მინიმა�
 
 msgctxt "Languages::twg_checkout_terms_n_conditions"
 msgid "I accept Terms and Conditions"
-msgstr ""
+msgstr "მე ვეთანხმები წესებს"
 
 msgctxt "Languages::twgadmin_cant_create_file"
 msgid "Cannot create a file [file]. Please create it manually in [path] (only in case you need to customize the selected Twigmo mobile skin)."
-msgstr ""
+msgstr "ვერ შევქმენი ფაილი [file]. გთხოვთ, შექმნათ ის ხელით დირექტორიაში [path] (მხოლოდ იმ შემთხვევაში თუ თქვენ გსურთ შეცვალოთ თქვენი საიტის მობილური ვერსიის შერჩეული სქინი)."
 
 msgctxt "Languages::twg_visit_our_mobile_store"
 msgid "Visit our mobile site"
-msgstr ""
+msgstr "ეწვიეთ ჩვენს მობილურ საიტს"
 
 msgctxt "Languages::twg_app_for_android"
 msgid "App for Android"
@@ -398,19 +398,19 @@ msgstr "აპლიკაცია iPad-ისთვის"
 
 msgctxt "Languages::twgadmin_url_on_appstore"
 msgid "URL of your app on iTunes App Store"
-msgstr ""
+msgstr "URL აპლიკაცია iTunes App Store-ში"
 
 msgctxt "Languages::twgadmin_url_on_googleplay"
 msgid "URL of your app on Google Play"
-msgstr ""
+msgstr "URL აპლიკაცია Google Play-ში"
 
 msgctxt "Languages::twg_product_added_to_cart"
 msgid "Product Added to Cart"
-msgstr "პროუქტი დამატებულია კალათაში"
+msgstr "პროდუქტი დამატებულია კალათაში"
 
 msgctxt "Languages::twg_configurable_via_desktop"
 msgid "This is a configurable product. It can be configured only via [linkOpen]the desktop website[linkClose]."
-msgstr ""
+msgstr "ეს არის კონფიგურირებადი პროდუქცია.მისი კონფიგურირება შესაძლებელია მხოლოდ [linkOpen]საიტის სრულ ვერსიაში[linkClose]."
 
 msgctxt "Languages::twg_requrring_via_desktop"
 msgid "This is a subscription product. Its subscription plan can be selected only via [linkOpen]the desktop website[linkClose]."
