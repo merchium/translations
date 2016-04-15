@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-11 11:00-0400\n"
+"PO-Revision-Date: 2016-04-13 08:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4789,13 +4789,9 @@ msgctxt "Languages::ip_address"
 msgid "IP address"
 msgstr "IP-адреса"
 
-msgctxt "Languages::issuer"
-msgid "Issuer"
-msgstr "Емітент"
-
-msgctxt "Languages::issuer_info"
-msgid "Issuer information"
-msgstr "Інформація емітента"
+msgctxt "Languages::manager"
+msgid "Manager"
+msgstr ""
 
 msgctxt "Languages::is_back_in_stock"
 msgid "is back in stock!"
@@ -8053,6 +8049,10 @@ msgstr "Вартість товару"
 msgctxt "Languages::reports_parameter_14"
 msgid "The number of products"
 msgstr "Кількість товарів"
+
+msgctxt "Languages::reports_parameter_15"
+msgid "Managers"
+msgstr ""
 
 msgctxt "Languages::reports_parameter_2"
 msgid "The number of orders"
@@ -16062,5 +16062,9 @@ msgstr ""
 
 msgctxt "Languages::copy"
 msgid "Copy"
+msgstr ""
+
+msgctxt "Languages::addon_uninstall_sql_error"
+msgid "An error in an SQL query occurred during the add-on uninstallation."
 msgstr ""
 
