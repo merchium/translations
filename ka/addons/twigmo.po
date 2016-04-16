@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/twigmo.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-14 10:54-0400\n"
+"PO-Revision-Date: 2016-04-15 11:54-0400\n"
 
 msgctxt "Addons::name::twigmo"
 msgid "Twigmo"
@@ -426,15 +426,15 @@ msgstr "თემა Basic"
 
 msgctxt "Languages::twgadmin_connect_notification"
 msgid "The <a href=\"[addon_link]\">Twigmo add-on</a> is not connected to the <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo service</a>. Set it up to enable a mobile version of your store for iOS and Android."
-msgstr ""
+msgstr "ამ ეტაპზე,<a href=\"[addon_link]\">Twigmo-ს მოდული</a> არ არის ჩართული <a href=\"http://www.twigmo.com\" target=\"_blank\">Twigmo-ს სერვისთან</a>. დააკონფიგურირეთ ეს მოდული, რომ აჩვენოთ თქვენი მაღაზიის მობილური ვერსია iOS-ის და Android-ის მოწყობილობებისათვის."
 
 msgctxt "Languages::twgadmin_phpmod_required"
 msgid "PHP extension module [php_module_name] is required for proper operation of the Twigmo add-on. Please install it."
-msgstr ""
+msgstr "Twigmo-ს add-on-ის მუშაობისთვის საჭიროა გაფართოების მოდული PHP [php_module_name]. გთხოვთ დაანსტალიროთ იგი."
 
 msgctxt "Languages::twgadmin_select_store"
 msgid "Please select a store first"
-msgstr ""
+msgstr "პირველ რიგში, გთხოვთ, აირჩიოთ მაღაზია"
 
 msgctxt "Languages::twg_is_logged_in"
 msgid "logged in."
@@ -446,15 +446,15 @@ msgstr "შეკვეთის ნახვა და განთავსე
 
 msgctxt "Languages::twg_login_to_add_to_cart"
 msgid "This product cannot be added to the cart because you are not logged in."
-msgstr "ეს პროდუქტი ვერ დაემატება კალათას რადგან თქვენ ჯერ არ გაგივლიათ ავტორიზაცია."
+msgstr "ეს პროდუქცია ვერ დაემატება კალათას რადგან თქვენ ჯერ არ გაგივლიათ ავტორიზაცია."
 
 msgctxt "Languages::twgadmin_disconnected"
 msgid "Disconnected"
-msgstr "გათიშული"
+msgstr "გათიშულია"
 
 msgctxt "Languages::twgadmin_connected"
 msgid "Connected"
-msgstr "დაკავშირებული"
+msgstr "დაკავშირებულია"
 
 msgctxt "Languages::twgadmin_terms"
 msgid "Terms and conditions"
@@ -470,7 +470,7 @@ msgstr "მაღაზიები"
 
 msgctxt "Languages::twgadmin_curl_error"
 msgid "Couldn't get HTTP response from the Twigmo server. Please make sure that your server supports executing HTTP requests either through curl or sockets."
-msgstr ""
+msgstr "Twigmo-ს სერვერისგან HTTP პასუხის მიღება ვერ მოხერხდა. დარწმუნდით, რომ თქვენი სერვერი მხარს უჭერს HTTP მოთხოვნებს curl-ის დახმარებით ან სოკეტების დახმარებით."
 
 msgctxt "Languages::twgadmin_open_te"
 msgid "Visual Editor"
@@ -478,31 +478,31 @@ msgstr "ვიზუალური რედაქტორი"
 
 msgctxt "Languages::twgadmin_open_cp"
 msgid "Twigmo Control Panel"
-msgstr "Twigmo-ს სამართავი პანელი"
+msgstr "Twigmo-ს კონტროლის პანელი"
 
 msgctxt "Languages::twgadmin_no_token_recieved"
 msgid "Twigmo failed to retrieve authentication token. [linkOpen]Go back[linkClose]"
-msgstr ""
+msgstr "Twigmo-ს სერვერისგან დაშვების ნიშნის მიღება ვერ მოხერხდა. [linkOpen]უკან დაბრუნება[linkClose]"
 
 msgctxt "Languages::twg_buy_only_via_desktop"
 msgid "This product can be purchased via [linkOpen]the desktop website[linkClose]."
-msgstr ""
+msgstr "შეძენისათვის გამოიყენეთ [linkOpen]საიტის სრული ვერსია[linkClose]."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_email"
 msgid "Enter your Twigmo account email address. If you have no Twigmo account, it will be created for you automatically (your email address will be verified)."
-msgstr ""
+msgstr "შეიყვანეთ თქვენი Twigmo-ს აკაუნტის ელ-ფოსტა. თუ თქვენ არ გაქვთ აკაუნტი, იგი ავტომატურად შეიქმნება თქვენთვის (თქვენ უნდა დაადასტუროთ თქვენი ელ-ფოსტის მისამართი)."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_password"
 msgid "Enter your Twigmo account password. If you have no Twigmo account, please enter a secure password and we will create a new Twigmo account for you."
-msgstr ""
+msgstr "შეიყვანეთ თქვენი Twigmo-ს აკაუნტის პაროლი. თუ თქვენ არ გაქვთ აკაუნტი, შეიყვანეთ უსაფრთხო პაროლი, რის მერე ჩვენ შეგიქმნით Twigmo-ს აკაუნტს."
 
 msgctxt "Languages::tt_addons_twigmo_settings_connect_twgadmin_stores"
 msgid "Select stores that are to be connected to the Twigmo service."
-msgstr ""
+msgstr "აირჩიეთ მაღაზიებ, რომლებიც იქნებიან დაკავშირებულნი Twigmo-ს სერვისთან."
 
 msgctxt "Languages::twg_cannot_redirect_to_desktop"
 msgid "The desktop site cannot be displayed in this mode, but the link will work fine on a real mobile device."
-msgstr ""
+msgstr "ამ რეჟიმში საიტის სრული ვერსიის ჩვენება შეუძლებელია, მაგრამ რეალურ მობილურ მოწყობილობაზე ეს ბმული იმუშავებს."
 
 msgctxt "Languages::twgadmin_about"
 msgid "About Twigmo"
@@ -510,7 +510,7 @@ msgstr "Twigmo-ს შესახებ"
 
 msgctxt "Languages::twgadmin_addon_version"
 msgid "Add-on version"
-msgstr ""
+msgstr "Add-on-ის ვერსია"
 
 msgctxt "Languages::twgadmin_disconnect"
 msgid "Disconnect"
@@ -518,7 +518,7 @@ msgstr "კავშირის გაწყვეტა"
 
 msgctxt "Languages::twgadmin_disconnect_whole"
 msgid "Disconnect whole addon"
-msgstr ""
+msgstr "Addon-ს გამორთვა"
 
 msgctxt "Languages::plan"
 msgid "Plan"
@@ -526,7 +526,7 @@ msgstr "გეგმა"
 
 msgctxt "Languages::twgadmin_failed_to_decompress_files"
 msgid "Failed to extract files from the archive"
-msgstr ""
+msgstr "არქივიდან ფაილების გამოტანა ვერ მოხერხდა"
 
 msgctxt "Languages::twgadmin_upgrade_completed"
 msgid "Upgrade completed"
@@ -538,7 +538,7 @@ msgstr "სტატისტიკა"
 
 msgctxt "Languages::twapp_timeline"
 msgid "Timeline"
-msgstr ""
+msgstr "ისტორია"
 
 msgctxt "Languages::twapp_manage_accounts"
 msgid "Manage accounts"
@@ -546,27 +546,27 @@ msgstr "ანგარიშების მართვა"
 
 msgctxt "Languages::twapp_low_stock"
 msgid "Low stock"
-msgstr "არ არის საწყობში"
+msgstr "ცოტაა გაყიდვაში"
 
 msgctxt "Languages::twapp_low_stock_products"
 msgid "Low stock products"
-msgstr "პროდუქტები რომლებიც არ არის საწყობში"
+msgstr "პროდუქცია რომელიც ცოტაა გაყიდვაში"
 
 msgctxt "Languages::twapp_all_low_stock_products"
 msgid "All low stock products"
-msgstr "ყველა პროდუქტი რომელიც არ არის საწყობში"
+msgstr "ყველა პროდუქცია რომელიც ცოტაა გაყიდვაში"
 
 msgctxt "Languages::twapp_delete_account"
 msgid "Delete account"
-msgstr "ანგარიშის წაშლა"
+msgstr "აკაუნტის წაშლა"
 
 msgctxt "Languages::twapp_app_account_info"
 msgid "Fill in the fields below to sign in."
-msgstr ""
+msgstr "შეავსეთ ველები, რომ შეხვიდეთ მაღაზიაში."
 
 msgctxt "Languages::twapp_login_or_email"
 msgid "Login/Email"
-msgstr "ავტორიზაცია/E-Mail"
+msgstr "Login/E-Mail"
 
 msgctxt "Languages::twapp_latest_orders"
 msgid "Latest orders"
@@ -590,7 +590,7 @@ msgstr "არ არის გაყიდვაში"
 
 msgctxt "Languages::twapp_signing_in"
 msgid "Signing in..."
-msgstr "ავტორიზება..."
+msgstr "ავტორიზაცია..."
 
 msgctxt "Languages::twapp_two_days_sales"
 msgid "Sales for the last 2 days"
@@ -658,23 +658,23 @@ msgstr "კვი"
 
 msgctxt "Languages::twapp_stat_month_1"
 msgid "w1"
-msgstr ""
+msgstr "კვ1"
 
 msgctxt "Languages::twapp_stat_month_2"
 msgid "w2"
-msgstr ""
+msgstr "კვ2"
 
 msgctxt "Languages::twapp_stat_month_3"
 msgid "w3"
-msgstr ""
+msgstr "კვ3"
 
 msgctxt "Languages::twapp_stat_month_4"
 msgid "w4"
-msgstr ""
+msgstr "კვ4"
 
 msgctxt "Languages::twapp_stat_month_5"
 msgid "w5"
-msgstr ""
+msgstr "კვ5"
 
 msgctxt "Languages::twapp_net_error_title"
 msgid "No network connection"
@@ -682,145 +682,145 @@ msgstr "ქსელთან კავშირი არ არის"
 
 msgctxt "Languages::twapp_net_error_message"
 msgid "Cannot load data. Please check your network connection."
-msgstr ""
+msgstr "მონაცემების დატვირთვა ვერ ხერხდება. გთოხვთ, შეამოწმოთ კავშირი ქსელთან."
 
 msgctxt "Languages::twapp_in_stock_lowercase"
 msgid "in stock"
-msgstr ""
+msgstr "გაყიდვაში"
 
 msgctxt "Languages::twapp_receive_push"
 msgid "Push notifications"
-msgstr ""
+msgstr "Push-შეტყობინებები"
 
 msgctxt "Languages::twapp_will_affect_all_stores"
 msgid "Updating this field will affect all stores"
-msgstr ""
+msgstr "ამ ველის განახლება გაკეთდება ყველა მაღაზიებში"
 
 msgctxt "Languages::twapp_data_lang"
 msgid "Data lang."
-msgstr ""
+msgstr "მონაცემთა ენა."
 
 msgctxt "Languages::twg_placed"
 msgid "Placed"
-msgstr ""
+msgstr "განთავსებული"
 
 msgctxt "Languages::twgadmin_mobile_admin_application"
 msgid "Twigmo Mobile Admin application"
-msgstr ""
+msgstr "ადმინისტრატორის Twigmo-ს მობილური აპლიკაცია"
 
 msgctxt "Languages::twgadmin_download_app"
 msgid "Download the app"
-msgstr ""
+msgstr "აპლიკაციის ჩამოტვირთვა"
 
 msgctxt "Languages::twgadmin_download_app_hint"
 msgid "This app is available on the <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\">selected Twigmo plans</a> only."
-msgstr ""
+msgstr "ეს აპლიკაცია ხელმისაწვდომია მხოლოდ <a href=\"http://www.twigmo.com/pricing/\" target=\"_blank\"> Twigmo-ს შერჩეული გეგმებში</a>."
 
 msgctxt "Languages::twgadmin_saved"
 msgid "Saved"
-msgstr ""
+msgstr "შენახული"
 
 msgctxt "Languages::twapp_admin_url"
 msgid "Admin URL"
-msgstr ""
+msgstr "ადმინისტრატორის URL"
 
 msgctxt "Languages::twgadmin_auth_fail_access_id"
 msgid "You have no permissions to log in to the store with this Access ID."
-msgstr ""
+msgstr "ამ ID-ით თქვენ არ გაქვთ მაღაზიაში შესვლის უფლება."
 
 msgctxt "Languages::twgadmin_mobile_app"
 msgid "Mobile app"
-msgstr ""
+msgstr "მობილური აპლიკაცია"
 
 msgctxt "Languages::twgadmin_qr_for_admin"
 msgid "QR code for the app<br>login page"
-msgstr ""
+msgstr "QR-კოდი აპლიკაციაში <br> ავტორიზაციისთვის"
 
 msgctxt "Languages::twgadmin_qr_for_admin_comment"
 msgid "Please install the Twigmo admin application first. Then use it to scan the QR code. This code contains the Twigmo Access ID [access_id], this admin panel URL and your admin panel login (email or username). You will only need to enter your admin panel password manually."
-msgstr ""
+msgstr "გთხოვთ, დააყენოთ Twigmo-ს მობილური აპლიკაცია. მერე მისი დახმარებით დაასკანირეთ QR-კოდი. ეს QR-კოდი შეიცავს Twigmo-ში შესვლის ID-ის [access_id], აღნიშნული პანელის ადმინისტრატორის URL-ს და თქვენი ადმინისტრატორის პანელის ლოგინი (ელ-ფოსტა ან მომხმარებლის სახელი). თქვენ უნდა ხელით შეიყვანოთ თქვენი ადმინისტრატორის პაროლი."
 
 msgctxt "Languages::twapp_wrong_api_login_data"
 msgid "No data is received from this admin URL. Please, check it. Also, make sure that the Twigmo add-on is enabled and connected to the service in your store"
-msgstr ""
+msgstr "მითითებული URL-დან მონაცემები არ არის მიღებული. გთხოვთ შეამოწმოთ სისწორე. ასევე დარწმუნდით, რომ თქვენს მაღაზიაში Twigmo-ს addon-ი ჩართულია და შეერთებულია სერვისთან"
 
 msgctxt "Languages::twapp_scan_qr"
 msgid "Scan the QR code in your store admin panel"
-msgstr ""
+msgstr "თქვენი მაღაზიის ადმინისტრატორის პანელშიდაასკანირეთ თქვენი QR-კოდი"
 
 msgctxt "Languages::twapp_tap_to_scan"
 msgid "Tap to scan"
-msgstr ""
+msgstr "დააჭირეთ სკანირებისთვის"
 
 msgctxt "Languages::twapp_fill_manually"
 msgid "Fill in the fields manually"
-msgstr ""
+msgstr "შეავსეთ ველები ხელით"
 
 msgctxt "Languages::twapp_fill_to_sign_in"
 msgid "Fill in the fields below to sign in."
-msgstr ""
+msgstr "შეავსეთ ველები, რომ შეხვიდეთ მაღაზიაში."
 
 msgctxt "Languages::twgadmin_show_product_code"
 msgid "Show product code on product details page"
-msgstr ""
+msgstr "პროდუქტის კოდის ჩვენება პროდუქტის დეტალურ გვერდზე"
 
 msgctxt "Languages::twapp_add_account"
 msgid "Add account"
-msgstr "ანგარიშის დამატება"
+msgstr "აკაუნტის დამატება"
 
 msgctxt "Languages::twapp_pull_to_refresh"
 msgid "Pull to refresh"
-msgstr ""
+msgstr "გაწიეთ განახლებისთვის"
 
 msgctxt "Languages::twapp_release_to_refresh"
 msgid "Release to refresh"
-msgstr ""
+msgstr "გაუშვით განახლებისთვის"
 
 msgctxt "Languages::twapp_could_not_connect"
 msgid "Could not connect to the Twigmo add-on at [URL]."
-msgstr ""
+msgstr "Twigmo-ს მოდულთან დაკავშირება მისამართით [URL] ვერ მოხერხდა."
 
 msgctxt "Languages::twgadmin_push_notifications"
 msgid "Push notifications"
-msgstr ""
+msgstr "Push-შეტყობინებები"
 
 msgctxt "Languages::twgadmin_send_push_notifications"
 msgid "Send push notifications to your mobile store app users"
-msgstr ""
+msgstr "Push-შეტყობინებების მიწოდება თქვენი მობილური მაღაზიის აპლიკაციის მომხმარებლებისათვის"
 
 msgctxt "Languages::twgadmin_select_store_short"
 msgid "Select a store"
-msgstr ""
+msgstr "მაღაზიის არჩევა"
 
 msgctxt "Languages::twgadmin_push_notification_text"
 msgid "Push notification text"
-msgstr ""
+msgstr "Push-შეტყობინების ტექსტი"
 
 msgctxt "Languages::twgadmin_push_notification_comment"
 msgid "Please refer to the policies of <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> and <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a> regarding sending ads in push notifications. Your mobile app can be banned for violating these policies."
-msgstr ""
+msgstr "გთოხვთ, გაეცნოთ პოლიტიკას <a href=\"https://developer.apple.com/app-store/review/guidelines/#push-notifications\" target=\"_blank\">Apple</a> და <a href=\"https://play.google.com/intl/en/about/developer-content-policy.html\" target=\"_blank\">Google</a>, რომლებიც ეხება რეკლამის მიწოდებას push-შეტყობინებებში. წესების დარღვევის შემთხვევაში თქვენი მობილური აპლიკაცია შეიძლება დაიბლოკოს."
 
 msgctxt "Languages::twgadmin_push_will_send_to"
 msgid "This message will be sent to <b>[ios_amount]</b> iOS and <b>[android_amount]</b> Android users of your store app."
-msgstr ""
+msgstr "ეს შეტყობინება გადაეგზავნება თქვენი მაღაზიის მობილური აპლიკაციის <b>[ios_amount]</b> iOS და <b>[android_amount]</b> Android მოწყობილობების მომხმარებლებს."
 
 msgctxt "Languages::twgadmin_push_has_uploaded"
 msgid "Your message has been uploaded to the server and it has started sending the message to your mobile app users (it may take up to an hour depending on the number of users)."
-msgstr ""
+msgstr "თქვენი შეტყობინება ატვირთულია სერვერზე, და თქვენი მაღაზიის მობილური აპლიკაციის მომხმარებლებისთვის დაიწყო შეტყობინებების მიწოდება (ამას შეიძლება დასჭირდეს ერთი საათი, დამოკიდებულია მომხმარებლების რაოდენობაზე)."
 
 msgctxt "Languages::twgadmin_send_push"
 msgid "Send push notifications about order status update to the mobile store app users"
-msgstr ""
+msgstr "შეკვეთის სტატუსის შეცვლის დროს push-შეტყობინებების გაგზავნა მაღაზიის მობილური აპლიკაციის მომხმარებლებისათვის"
 
 msgctxt "Languages::twgadmin_send_push_error"
 msgid "Oops, something went wrong. We cannot confirm your message was sent. Please <a href=\"http://support.twigmo.com\" target=\"_blank\">contact Twigmo support team</a> to resolve this issue."
-msgstr ""
+msgstr "მოხდა შეცდომა. თქვენი შეტყობინების გაგზავნის სტატუსი უცნობია. გთოხვთ, <a href=\"http://support.twigmo.com\" target=\"_blank\">დაუკავშირდეთ Twigmo-ს ტექნიკური დახმარების სერვისთან</a> ამ პრობლემის მოსაგვარებლად."
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_android"
 msgid "[This order was placed via Twigmo Mobile Application for Android]"
-msgstr ""
+msgstr "[ეს შეკვეთა იყო განთავსებული Twigmo-ს მობილური აპლიკაციით Android-თვის]"
 
 msgctxt "Languages::twgadmin_order_via_twigmo_app_ios"
 msgid "[This order was placed via Twigmo Mobile Application for iOS]"
-msgstr ""
+msgstr "[ეს შეკვეთა იყო განთავსებული Twigmo-ს მობილური აპლიკაციით iOS-თვის]"
 
