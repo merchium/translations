@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-13 09:55-0400\n"
+"PO-Revision-Date: 2016-04-18 01:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10968,10 +10968,6 @@ msgctxt "Languages::text_proxypay_notice"
 msgid "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 msgstr "验证脚本:&nbsp;&nbsp;&nbsp;<b>    [validation_url]</b><br />确认脚本:&nbsp;&nbsp;&nbsp;<b> [confirmation_url]</b><br />Ok 页面:&nbsp;&nbsp;&nbsp;<b>    [ok_url]</b><br />不Ok 页面: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 
-msgctxt "Languages::text_qbms_notice"
-msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>您仅需要使用 \"测试\" 模式如果您有一个PTC帐户. </p> <p>在您的应用程序的注册过程设置以下值: <br /> - 类型: hosted (web-based app)<br />- 订阅 URL: [response_url]<br />- 更改 URL: [response_url]<br />- 取消 URL: [response_url]<br /> </p> <p><b>连接支持单</b>在这创建连接后将自动填写: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (请更换[My_App_ID]成为您的AppID数字) 然后点击\"使用此连接\" 按钮.</p>   <p>要获得\"签名证书\"请参考 <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />在您创建证书后(Intuit CA & Client Signed) 请完成以下的:<br />1. 从创建的CSR中解压key(这些步骤仅适用于使用 keytool)<br />&nbsp; - 下载的 Java 类从证书导出私钥: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - 编译此类: \"javac ExportPriv.java\"<br />&nbsp; - 导出私钥到文件: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. 在客户端保存签署证书文件 (如 qbms_cert.txt)<br />3. 将在步骤 1 中提取的密钥保存到相同的文件.<br /></p>"
-
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
 msgstr ""
@@ -16063,5 +16059,45 @@ msgstr ""
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.quickbooks_connection"
+msgid "QuickBooks Connection"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.configuration_required"
+msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.app_token"
+msgid "App Token"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.oauth_consumer_key"
+msgid "OAuth Consumer Key"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.oauth_consumer_secret"
+msgid "OAuth Consumer Secret"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.token_expires"
+msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.token_expired"
+msgid "The token has expired."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.renew_token"
+msgid "Press \"Connect to QuickBooks\" to renew the token."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.upgrade_notification_title"
+msgid "QB Merchant Service payment processor changes"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
 msgstr ""
 

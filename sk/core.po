@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: sk\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-13 08:00-0400\n"
+"PO-Revision-Date: 2016-04-18 01:58-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10972,10 +10972,6 @@ msgctxt "Languages::text_proxypay_notice"
 msgid "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 msgstr "Overovací skript:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Potvrdzovací skript:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok stránka:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok stránka: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 
-msgctxt "Languages::text_qbms_notice"
-msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>\"Testovací\" režim by ste mali používať jedine ak máte PTC účet. </p> <p>Počas registrácie vašej žiadosti zadajte nasledovné hodnoty: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> bude automaticky vyplnený po tom čo vytvoríte pripojenie tu: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (prepíšte prosím [My_App_ID] na vaše AppID čislo) a kliknite na tlačidlo \"Use this connection\".</p><p>Pre získanie \"Signed certificate\" prosím konzultujte <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />Po vytvorení certifikátov (Intuit CA & Client Signed) prosím vykonajte nalsedovné:<br />1. Extrahujte kľúč z vami vytvoreného CSR (tieto kroky sú aplikovateľné len ak ste použili keytoll)<br />&nbsp; - Stiahnite Java class pre export súkromného kľúča z certifikátu: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Kompilujte túto triedu: \"javac ExportPriv.java\"<br />&nbsp; - Exportujte Kľúč do súboru: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Uložte klientom podpísaný certifikát do súboru (napr. qbms_cert.txt)<br />3. Do rovnakého súboru uložte kľúč ktorý ste vyextrahovali v kroku 1<br />4. Pomocou tohto formulára uploadujte výsledný súbor.<br /></p>"
-
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
 msgstr "Naše značky"
@@ -16067,5 +16063,45 @@ msgstr ""
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.quickbooks_connection"
+msgid "QuickBooks Connection"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.configuration_required"
+msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.app_token"
+msgid "App Token"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.oauth_consumer_key"
+msgid "OAuth Consumer Key"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.oauth_consumer_secret"
+msgid "OAuth Consumer Secret"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.token_expires"
+msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.token_expired"
+msgid "The token has expired."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.renew_token"
+msgid "Press \"Connect to QuickBooks\" to renew the token."
+msgstr ""
+
+msgctxt "Languages::payments.qbms.upgrade_notification_title"
+msgid "QB Merchant Service payment processor changes"
+msgstr ""
+
+msgctxt "Languages::payments.qbms.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
 msgstr ""
 
