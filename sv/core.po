@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: sv-SE\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-18 01:59-0400\n"
+"PO-Revision-Date: 2016-04-19 10:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1720,14 +1720,6 @@ msgctxt "Languages::change_range"
 msgid "Change range"
 msgstr "Ändra intervall"
 
-msgctxt "Languages::change_language_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "Butiken är igång i fritt läge. I det här läget kan du använda endast ett språk. Bara ändra statusen till aktiv för att aktivera det språk du vill använda."
-
-msgctxt "Languages::change_currency_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr "Butiken är igång i fritt läge. I det här läget kan du använda endast en valuta. Bara ändra statusen till aktiv för att aktivera den valuta du vill."
-
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
 msgstr "Debiterade belopp"
@@ -2623,14 +2615,6 @@ msgstr "Tecken"
 msgctxt "Languages::current_database_size"
 msgid "Current database size"
 msgstr "Aktuella databasstorleken"
-
-msgctxt "Languages::currency_hidden_status_free"
-msgid "The status <b>Hidden</b> for currency cannot be used in the free mode."
-msgstr "Status <b>dolda</b> för valuta kan inte användas i fritt läge."
-
-msgctxt "Languages::language_hidden_status_free"
-msgid "The status <b>Hidden</b> for language cannot be used in the free mode."
-msgstr "Status <b>dolda</b> för språk kan inte användas i fritt läge."
 
 msgctxt "Languages::current_path"
 msgid "Current path"
@@ -6793,8 +6777,8 @@ msgid "Please be patient"
 msgstr "Ha tålamod"
 
 msgctxt "Languages::please_enter_license_here"
-msgid "Please enter license number here"
-msgstr "Vänligen ange licensnummer här"
+msgid "Enter your license number here"
+msgstr ""
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -9704,14 +9688,6 @@ msgctxt "Languages::store_theme"
 msgid "Storefront theme"
 msgstr "Skyltfönster tema"
 
-msgctxt "Languages::store_mode_will_be_changed_to_free"
-msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation fullständighetskontrollen misslyckades. Din butik kommer växlar till fri träningstyp inom 2 dagar. Vänligen kontakta vårt <a href=\"[href]\"> supportteam</a>"
-
-msgctxt "Languages::store_mode_will_be_changed_to_trial"
-msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation fullständighetskontrollen misslyckades. Din butik kommer att byta till testläge inom 2 dagar. Vänligen kontakta vårt <a href=\"[href]\"> supportteam</a>"
-
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
 msgstr "Underkategorier"
@@ -10529,36 +10505,8 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Det är inte tillåtet att skapa/ladda upp/byta namn på filer av <b>[mime]</b> MIME-typen."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr "<p>Du använder [product] i fritt läge. Fritt läge kräver inte en licens och har begränsad funktionalitet. Om du vill använda den här funktionen behöver du en [product] licens.</p>"
-
-msgctxt "Languages::text_forbidden_functionality_full"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr "<p>Du använder [product] i fritt läge. Fritt läge kräver inte en licens och har begränsad funktionalitet.  <br>Att använda den här funktionen behöver du en [product] licens.</p> <p>Köpa [product] licensen och aktivera det är lätt som en plätt. Med den [product] licensen får du full tillgång till dessa funktioner:</p>"
-
-msgctxt "Languages::text_forbidden_feature_promotions"
-msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr "Full kampanjer: du kommer att kunna lägga till inte bara katalogen kampanjer, men också vagn kampanjer"
-
-msgctxt "Languages::text_forbidden_feature_multistore"
-msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr "Multi butik funktioner: du kommer att kunna ansluta flera skyltfönster och hantera dem via en admin panel"
-
-msgctxt "Languages::text_forbidden_feature_customer"
-msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr "Tilldela kunder till användargrupper och inställningen olikt privilegierar för administratörer"
-
-msgctxt "Languages::text_forbidden_feature_languages"
-msgid "Several languages and currencies in your store"
-msgstr "Flera språk och valutor i din butik"
-
-msgctxt "Languages::text_forbidden_feature_addons"
-msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr "Över 30 tillägg ur lådan för att göra din butik ännu bättre"
-
-msgctxt "Languages::text_forbidden_feature_support"
-msgid "Technical support and access to our Customer Help Desk"
-msgstr "Teknisk support och tillgång till vår kund Help Desk"
+msgid "<p>To use this feature, you need a [product] license.</p>"
+msgstr ""
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -11124,10 +11072,6 @@ msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
 msgstr "Förvaring ändrats framgångsrikt"
 
-msgctxt "Languages::text_store_mode_changed_to_free"
-msgid "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
-msgstr "<p>30-dagars provperioden är över. Din butik har stängts automatiskt till <strong>Free mode</strong>. <p><p>Observera att endast grundläggande uppsättning verktyg för e-handel finns i gratis läge. <p> <p>För att använda programvaran användning i Full läge, måste du köpa den full kommersiell licensen och ange licensnyckeln på sidan <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> licensieringsalternativ</a> in. <p>"
-
 msgctxt "Languages::text_store_mode_changed_to_full"
 msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
 msgstr "<strong>Full-läge</strong> har aktiverats. I det här läget finns alla avancerade e-handel funktioner."
@@ -11135,10 +11079,6 @@ msgstr "<strong>Full-läge</strong> har aktiverats. I det här läget finns alla
 msgctxt "Languages::text_store_mode_closed"
 msgid "The store was <b>closed</b>"
 msgstr "Butiken var <b>stängd</b>"
-
-msgctxt "Languages::text_store_mode_free"
-msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Vissa funktioner är inte tillgängliga. Inga tidsbegränsningar underförstådda, licensnummer inte krävs. < br / > < br / > detta läget kan aktiveras på någon gång. < br / > < br / > genom att välja detta läge du också prenumerera på våra nyheter & erbjuder nyhetsbrev. Vi skickar e-post om en eller två gånger i månaden. Du kommer att kunna avsluta prenumerationen helst."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11149,8 +11089,8 @@ msgid "The store was <b>opened</b>"
 msgstr "Butiken var <b>öppnade</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
-msgstr "Full tillgång till alla funktioner under försöksperioden 30-dagars, start från tiden av aktivering. < br / > < br / > efter 30-dagars provperioden är över, i detta läge blir otillgänglig och fritt läge aktiveras automatiskt. < br / > < br / >"
+msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
+msgstr ""
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -12089,24 +12029,24 @@ msgid "Trial mode cannot be activated"
 msgstr "Testläge kan inte aktiveras"
 
 msgctxt "Languages::trial_notice"
-msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Din butik är den rättegång läge. < br / > < br / > när 30-dagars provperioden är över, det fritt läget aktiveras automatiskt. < br / > < br / > för att hålla den full tillgången till alla funktioner efter testperioden är över och permanent avfärda detta meddelande, köpa en licens och <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> aktivera det Full läget</a>."
+msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr ""
 
 msgctxt "Languages::trial_expired"
-msgid "Your trial version of [product] is finished"
-msgstr "Din utvärderingsversion av [product] är klar"
+msgid "Your [product] trial period has expired"
+msgstr ""
 
 msgctxt "Languages::text_input_license_code"
-msgid "To continue working with [product] enter the license key"
-msgstr "Att fortsätta arbeta med [product] gå in licensnyckel"
+msgid "Please enter your license number to be able to manage your store:"
+msgstr ""
 
 msgctxt "Languages::text_buy_new_license"
-msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "Om du inte har en licensnyckel, du kan köpa den på vår officiella hemsida <br/>[buy_license]"
+msgid "If you don't have a license number yet, you can purchase it at our official website."
+msgstr ""
 
 msgctxt "Languages::buy_license"
-msgid "Buy the license"
-msgstr "Köpa licensen"
+msgid "Purchase a license"
+msgstr ""
 
 msgctxt "Languages::true"
 msgid "True"
@@ -13271,10 +13211,6 @@ msgstr "Inte Tillåt kunder att lägga produkten i kundvagnen"
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
 msgstr "Välj en fil i PO eller ZIP-format"
-
-msgctxt "Languages::text_free_mode_activated"
-msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "Du har bytt din butik till fri träningstyp. <br><br>Obs att några funktioner (t.ex. vissa tillägg) är inte tillgängliga i det här läget."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -16099,5 +16035,29 @@ msgstr ""
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_money_back_guarantee"
+msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
+msgstr ""
+
+msgctxt "Languages::admin_panel_will_be_blocked"
+msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr ""
+
+msgctxt "Languages::text_license_is_disabled"
+msgid "The license is disabled. Please check your license status."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid"
+msgid "Invalid license number. Please enter a valid license number."
+msgstr ""
+
+msgctxt "Languages::text_license_is_disabled_full"
+msgid "The license is disabled. Please check your license status or select a different store mode."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid_full"
+msgid "Invalid license number. Please enter a valid license number or select a different store mode."
 msgstr ""
 

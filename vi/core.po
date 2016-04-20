@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-18 01:59-0400\n"
+"PO-Revision-Date: 2016-04-19 10:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1720,14 +1720,6 @@ msgctxt "Languages::change_range"
 msgid "Change range"
 msgstr "Thay đổi phạm vi"
 
-msgctxt "Languages::change_language_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "Cửa hàng đang chạy trong chế độ miễn phí. Trong chế độ này, bạn chỉ có thể sử dụng một ngôn ngữ. Chỉ cần thay đổi trạng thái hoạt động đơn hàng để kích hoạt ngôn ngữ mà bạn muốn."
-
-msgctxt "Languages::change_currency_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr "Cửa hàng đang chạy trong chế độ miễn phí. Trong chế độ này, bạn chỉ có thể sử dụng một loại tiền tệ. Chỉ cần thay đổi trạng thái hoạt động đơn hàng để kích hoạt tiền tệ mà bạn muốn."
-
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
 msgstr "Số tiền chi trả"
@@ -2623,14 +2615,6 @@ msgstr "Ký hiệu"
 msgctxt "Languages::current_database_size"
 msgid "Current database size"
 msgstr "Kích thước cơ sở dữ liệu hiện thời"
-
-msgctxt "Languages::currency_hidden_status_free"
-msgid "The status <b>Hidden</b> for currency cannot be used in the free mode."
-msgstr "Trạng thái <b>Ẩn</b> đối với tiền tệ không thể được sử dụng trong chế độ miễn phí."
-
-msgctxt "Languages::language_hidden_status_free"
-msgid "The status <b>Hidden</b> for language cannot be used in the free mode."
-msgstr "Trạng thái <b>Ẩn</b> cho ngôn ngữ không được sử dụng trong chế độ miễn phí."
 
 msgctxt "Languages::current_path"
 msgid "Current path"
@@ -6793,8 +6777,8 @@ msgid "Please be patient"
 msgstr "Xin hãy kiên nhẫn"
 
 msgctxt "Languages::please_enter_license_here"
-msgid "Please enter license number here"
-msgstr "Vui lòng nhập số giấy phép ở đây"
+msgid "Enter your license number here"
+msgstr ""
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -9704,14 +9688,6 @@ msgctxt "Languages::store_theme"
 msgid "Storefront theme"
 msgstr "Chủ đề trang"
 
-msgctxt "Languages::store_mode_will_be_changed_to_free"
-msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Kiểm tra cài đặt trọn vẹn không thành công. Cửa hàng của bạn sẽ chuyển sang chế độ miễn phí trong vòng 2 ngày. Xin vui lòng liên hệ với <a href=\"[href]\">bộ phận hỗ trợ</a> của chúng tôi"
-
-msgctxt "Languages::store_mode_will_be_changed_to_trial"
-msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Kiểm tra cài đặt trọn vẹn không thành công. Cửa hàng của bạn sẽ chuyển sang chế độ miễn phí trong vòng 2 ngày. Xin vui lòng liên hệ với <a href=\"[href]\">bộ phận hỗ trợ</a> của chúng tôi"
-
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
 msgstr "Danh mục con"
@@ -10529,36 +10505,8 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Nó không được cho phép để tạo/tải lên/đổi tên tập tin của loại MIME <b>[mime]</b>."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr "<p>Bạn đang sử dụng [product] trong chế độ miễn phí. Chế độ miễn phí không yêu cầu một giấy phép và bị hạn chế chức năng. Để sử dụng tính năng này, bạn cần một giấy phép [product].</p>"
-
-msgctxt "Languages::text_forbidden_functionality_full"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr "<p>Bạn đang sử dụng [product] trong chế độ miễn phí. Chế độ miễn phí không yêu cầu một giấy phép và bị hạn chế chức năng.  <br>Để sử dụng tính năng này, bạn cần một giấy phép [product].</p> <p>Mua giấy phép [product] và kích hoạt nó rất dễ dàng. Với giấy phép [product] bạn sẽ được truy cập vào các tính năng:</p>"
-
-msgctxt "Languages::text_forbidden_feature_promotions"
-msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr "Đầy đủ các chương trình khuyến mãi: bạn sẽ có thể thêm không chỉ danh mục chương trình khuyến mãi, nhưng cũng có cả giỏ hàng khuyến mãi"
-
-msgctxt "Languages::text_forbidden_feature_multistore"
-msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr "Chức năng nhiều cửa hàng: bạn sẽ có thể kết nối một số cửa hàng và quản lý chúng thông qua một bảng quản trị"
-
-msgctxt "Languages::text_forbidden_feature_customer"
-msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr "Gán khách cho Nhóm Người Dùng và cài đặt đặc quyền khác nhau cho các quản trị viên"
-
-msgctxt "Languages::text_forbidden_feature_languages"
-msgid "Several languages and currencies in your store"
-msgstr "Một số ngôn ngữ và các loại tiền tệ trong cửa hàng của bạn"
-
-msgctxt "Languages::text_forbidden_feature_addons"
-msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr "Trên 30 add-on loại ra khỏi hộp để làm cho cửa hàng của bạn tốt hơn"
-
-msgctxt "Languages::text_forbidden_feature_support"
-msgid "Technical support and access to our Customer Help Desk"
-msgstr "Hỗ trợ kỹ thuật và tiếp cận với chúng tôi qua Customer Help Desk"
+msgid "<p>To use this feature, you need a [product] license.</p>"
+msgstr ""
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -11124,10 +11072,6 @@ msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
 msgstr "Lưu trữ thay đổi thành công"
 
-msgctxt "Languages::text_store_mode_changed_to_free"
-msgid "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
-msgstr "<p>Thời gian dùng thử 30 ngày đã hết. Cửa hàng của bạn đã tự động chuyển sang <strong>chế độ miễn phí</strong>. <p><p>Lưu ý rằng chỉ tập hợp các công cụ thương mại điện tử cơ bản có sẵn trong chế độ miễn phí. <p> <p>Để sử dụng phần mềm ở chế độ đầy đủ, bạn phải mua giấy phép và nhập mã khóa giấy phép trên trang <p><a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> Chế độ được cấp phép</a>"
-
 msgctxt "Languages::text_store_mode_changed_to_full"
 msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
 msgstr "<strong>Chế độ đầy đủ</strong> đã được kích hoạt. Trong chế độ này, tất cả các tính năng thương mại điện tử tiên tiến có sẵn."
@@ -11135,10 +11079,6 @@ msgstr "<strong>Chế độ đầy đủ</strong> đã được kích hoạt. Tr
 msgctxt "Languages::text_store_mode_closed"
 msgid "The store was <b>closed</b>"
 msgstr "Cửa hàng đã <b>đóng cửa</b>"
-
-msgctxt "Languages::text_store_mode_free"
-msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Một số tính năng không có sẵn. Không có giới hạn thời gian, số giấy phép là không cần thiết. <br /> <br /> Chế độ này có thể được kích hoạt tại bất kỳ thời điểm nào. <br /> <br /> Bằng cách chọn chế độ này bạn cũng đã đăng ký để nhận tin tức & khuyến mãi của chúng tôi. Chúng tôi gửi email về một lần hoặc hai lần một tháng. Bạn sẽ có thể bỏ đăng ký bất kỳ lúc nào."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11149,8 +11089,8 @@ msgid "The store was <b>opened</b>"
 msgstr "Cửa hàng đã <b>mở</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
-msgstr "Đầy đủ quyền truy cập vào tất cả tính năng trong thời gian dùng thử 30 ngày, bắt đầu từ thời điểm kích hoạt. <br /> <br /> Sau khi hết thời gian dùng thử 30 ngày, chế độ này sẽ trở thành không có sẵn, và chế độ MIỄN PHÍ sẽ được kích hoạt tự động. <br /> <br />"
+msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
+msgstr ""
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -12089,24 +12029,24 @@ msgid "Trial mode cannot be activated"
 msgstr "Không thể kích hoạt chế độ dùng thử"
 
 msgctxt "Languages::trial_notice"
-msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Cửa hàng của bạn đang trong chế độ Dùng Thử. <br /> <br /> Khi hết thời gian dùng thử 30 ngày, chế độ miễn phí sẽ được kích hoạt tự động. <br /> <br /> để giữ toàn quyền truy cập vào tất cả các tính năng sau khi thời gian dùng thử và vĩnh viễn bỏ qua thông báo này, hãy mua một giấy phép và <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> kích hoạt chế độ đầy đủ</a>."
+msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr ""
 
 msgctxt "Languages::trial_expired"
-msgid "Your trial version of [product] is finished"
-msgstr "Đã kết thúc phiên bản dùng thử của bạn [product]"
+msgid "Your [product] trial period has expired"
+msgstr ""
 
 msgctxt "Languages::text_input_license_code"
-msgid "To continue working with [product] enter the license key"
-msgstr "Để tiếp tục làm việc với [product] nhập giấy phép khóa"
+msgid "Please enter your license number to be able to manage your store:"
+msgstr ""
 
 msgctxt "Languages::text_buy_new_license"
-msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "Nếu bạn không có một giấy phép khóa, bạn có thể mua nó trên website chính thức của chúng tôi <br/>[buy_license]"
+msgid "If you don't have a license number yet, you can purchase it at our official website."
+msgstr ""
 
 msgctxt "Languages::buy_license"
-msgid "Buy the license"
-msgstr "Mua giấy phép"
+msgid "Purchase a license"
+msgstr ""
 
 msgctxt "Languages::true"
 msgid "True"
@@ -13271,10 +13211,6 @@ msgstr "Không cho phép khách hàng thêm sản phẩm vào giỏ hàng"
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
 msgstr "Chọn một tập tin trong các định dạng PO hoặc ZIP"
-
-msgctxt "Languages::text_free_mode_activated"
-msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "Bạn đã chuyển cửa hàng của bạn sang chế độ miễn phí. <br><br>Lưu ý rằng trong chế độ này một số tính năng (ví dụ: một số add-on) không có sẵn."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -16099,5 +16035,29 @@ msgstr ""
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_money_back_guarantee"
+msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
+msgstr ""
+
+msgctxt "Languages::admin_panel_will_be_blocked"
+msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr ""
+
+msgctxt "Languages::text_license_is_disabled"
+msgid "The license is disabled. Please check your license status."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid"
+msgid "Invalid license number. Please enter a valid license number."
+msgstr ""
+
+msgctxt "Languages::text_license_is_disabled_full"
+msgid "The license is disabled. Please check your license status or select a different store mode."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid_full"
+msgid "Invalid license number. Please enter a valid license number or select a different store mode."
 msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-18 01:55-0400\n"
+"PO-Revision-Date: 2016-04-19 09:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1720,14 +1720,6 @@ msgctxt "Languages::change_range"
 msgid "Change range"
 msgstr "Změnit rozsah"
 
-msgctxt "Languages::change_language_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "Obchod je spuštěn v režimu free. V tomto režimu lze použít pouze jeden jazyk. Stačí, když změníte stav na aktivní jazyk, který chcete aktivovat."
-
-msgctxt "Languages::change_currency_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr "Obchod je spuštěn v režimu free. V tomto režimu lze použít pouze jednu měnu. Stačí změnit stav na aktivní, aby se aktivovala měnu, kterou chcete."
-
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
 msgstr "Množstevní cena"
@@ -2623,14 +2615,6 @@ msgstr "Symbol"
 msgctxt "Languages::current_database_size"
 msgid "Current database size"
 msgstr "Aktuální velikost databáze"
-
-msgctxt "Languages::currency_hidden_status_free"
-msgid "The status <b>Hidden</b> for currency cannot be used in the free mode."
-msgstr "Nelze použít stav <b>Skrytý</b> pro měnu ve free režimu."
-
-msgctxt "Languages::language_hidden_status_free"
-msgid "The status <b>Hidden</b> for language cannot be used in the free mode."
-msgstr "Nelze použít stav <b>Skrytý</b> pro jazyk ve free režimu."
 
 msgctxt "Languages::current_path"
 msgid "Current path"
@@ -6793,8 +6777,8 @@ msgid "Please be patient"
 msgstr "Prosím, buďte trpěliví"
 
 msgctxt "Languages::please_enter_license_here"
-msgid "Please enter license number here"
-msgstr "Prosím, zadejte zde číslo licence"
+msgid "Enter your license number here"
+msgstr "Zadat své licenční číslo zde"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -9704,14 +9688,6 @@ msgctxt "Languages::store_theme"
 msgid "Storefront theme"
 msgstr "Téma veřejné stránky obchodu"
 
-msgctxt "Languages::store_mode_will_be_changed_to_free"
-msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Kontrola integrity instalace se nezdařila. Váš obchod se přepne na bezplatnou verzi na dva dny. Obraťte se na technickou podporu <a href=\"[href]\">podpůrný tým</a>"
-
-msgctxt "Languages::store_mode_will_be_changed_to_trial"
-msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Kontrola integrity instalace se nezdařila. Váš obchod se přepne na bezplatnou verzi na dva dny. Obraťte se na technickou podporu <a href=\"[href]\">podpůrný tým</a>"
-
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
 msgstr "Podkategorie"
@@ -10530,36 +10506,8 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "Není dovoleno vytvořit/uploadovat/přejmenovat soubor MIME <b>[mime]</b>."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr "<p>Jste v současné době pomocí [product] ve Free Modu. Režim Free Mod nevyžaduje licenci a má omezenou funkčnost. Chcete-li použít tuto funkci, budete potřebovat [product] licenci.</p>"
-
-msgctxt "Languages::text_forbidden_functionality_full"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr "<p>Ty jsou v současné době pomocí [product] v Free Mode. Tento mód nevyžaduje licenci a má omezenou funkčnost.<br>Chcete-li použít tuto funkci, budete potřebovat [product] licenci.</p><p>Nákup [product] licence a aktivací je jednoduché jako facka. S [product] licencí, budete mít plný přístup k těmto funkcím: </p>"
-
-msgctxt "Languages::text_forbidden_feature_promotions"
-msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr "Plné propagace: budete mít možnost přidat nejen katalog propagace, ale také košík propagace"
-
-msgctxt "Languages::text_forbidden_feature_multistore"
-msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr "Funkce Multi-Store: spravovat více obchodů za použití jednotného admin panelu"
-
-msgctxt "Languages::text_forbidden_feature_customer"
-msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr "Přiřazení zákazníkům do Skupiny uživatelů a nastavení různých oprávnění pro administrátory"
-
-msgctxt "Languages::text_forbidden_feature_languages"
-msgid "Several languages and currencies in your store"
-msgstr "Několik jazyků a měn ve vašem obchodě"
-
-msgctxt "Languages::text_forbidden_feature_addons"
-msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr "Více než 30 vestavěných doplňků, aby váš obchod byl ještě lepší"
-
-msgctxt "Languages::text_forbidden_feature_support"
-msgid "Technical support and access to our Customer Help Desk"
-msgstr "Technická podpora a přístup k našemu zákazníckemu Help Desk"
+msgid "<p>To use this feature, you need a [product] license.</p>"
+msgstr "<p>Chcete-li použít tuto funkci, budete potřebovat [product] licenci.</p>"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -11125,10 +11073,6 @@ msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
 msgstr "Úložiště úspěšně změněno"
 
-msgctxt "Languages::text_store_mode_changed_to_free"
-msgid "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
-msgstr "<p>Vaše 30denní zkušební verze skončila. Obchod byl automaticky přepnut na <strong>Režim zdarma</strong>.<p><p>V Režimu zdarma je dostupná pouze základní sada eCommerce nástrojů.<p><p>Abyste mohli používat plnou verzi softwaru, musíte si zakoupit plnou komerční licenci a zadat licenční klíč na stránce <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Režim licencování</a>.<p>"
-
 msgctxt "Languages::text_store_mode_changed_to_full"
 msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
 msgstr "<strong>Plná verze</strong> byla aktivována. V tomto režimu jsou přístupné všechny pokročilé funkce eCommerce."
@@ -11136,10 +11080,6 @@ msgstr "<strong>Plná verze</strong> byla aktivována. V tomto režimu jsou př�
 msgctxt "Languages::text_store_mode_closed"
 msgid "The store was <b>closed</b>"
 msgstr "Obchod byl <b>uzavřen</b>"
-
-msgctxt "Languages::text_store_mode_free"
-msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Některé funkce jsou nedostupné. Nejsou žádné časové omezení a nevyžaduje se licenční číslo.<br /><br />Tento režim může být aktivován kdykoliv.<br /><br />Výběrem tohoto režimu se zároveň přihlásíte k odběru našich novinek a nabídek. E-maily posíláme jednou nebo dvakrát za měsíc. Kdykoliv se můžete odhlásit."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11150,8 +11090,8 @@ msgid "The store was <b>opened</b>"
 msgstr "Obchod byl <b>otevřený</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
-msgstr "Neomezený přístup ke všem funkcím během 30denní zkušební doby, počínaje od momentu aktivace.<br /><br />Na konci 30denní zkušební doby se tento režim vypne a automaticky bude aktivován režim Zdarma.<br /><br />"
+msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
+msgstr "Plný přístup ke všem funkcím během 30 denní zkušební doby, počínaje od okamžiku aktivace.<br /><br />Po uplynutí 30-ti denní zkušební doby, budete muset zakoupit licenci nebo zadat číslo platné provozní licence, aby jste mohli spravovat svůj obchod.<br /><br />"
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -12090,24 +12030,24 @@ msgid "Trial mode cannot be activated"
 msgstr "Nelze aktivovat zkušební režim"
 
 msgctxt "Languages::trial_notice"
-msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Váš obchod je ve zkušebním režimu.<br /><br />Na konci 30denní zkušební lhůty bude automaticky aktivován režim Zdarma.<br /><br />Pro zachování přístupu ke všem funkcím po vypršení zkušební doby si zakupte licenci a <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivujte si plnou verzi</a>."
+msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr "Váš obchod je ve zkušebním režimu.<br /><br />Po vypršení 30 denní zkušební doby, budete muset zadat platné licenční číslo, aby jste mohli spravovat svůj obchod.<br /><br />Chcete-li odmítnout tuto zprávu trvale a přístup na Admin panel po uplynutí zkušební doby je ukonce, si zakoupit licenci a <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">aktivovat plného režimu</a>."
 
 msgctxt "Languages::trial_expired"
-msgid "Your trial version of [product] is finished"
-msgstr "Vaše zkušební verze [product] je dokončena"
+msgid "Your [product] trial period has expired"
+msgstr "Váše [product] zkušební doba uplynula"
 
 msgctxt "Languages::text_input_license_code"
-msgid "To continue working with [product] enter the license key"
-msgstr "Chcete-li pokračovat v práci s [product], zadejte licenční klíč"
+msgid "Please enter your license number to be able to manage your store:"
+msgstr "Prosím, zadejte své licenční číslo, aby bylo možné řídit svůj obchod:"
 
 msgctxt "Languages::text_buy_new_license"
-msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "Pokud nemáte licenční klíč, můžete si jej koupit na našich oficiálních stránkách<br/>[buy_license]"
+msgid "If you don't have a license number yet, you can purchase it at our official website."
+msgstr "Pokud ještě nemáte licenční číslo, můžete si jej koupit na našich oficiálních internetových stránkách."
 
 msgctxt "Languages::buy_license"
-msgid "Buy the license"
-msgstr "Koupit licenci"
+msgid "Purchase a license"
+msgstr "Zakoupení licence"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -13272,10 +13212,6 @@ msgstr "Neumožnit zákazníkům přidat zboží do košíku"
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
 msgstr "Vyberte soubor ve formátu ZIP nebo PO"
-
-msgctxt "Languages::text_free_mode_activated"
-msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "Přepnuli jste váš obchod do režimu Zdarma. <br><br>Všimněte si, že v tomto režimu nejsou k dispozici některé funkce (např. některé doplňky)."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -16064,41 +16000,65 @@ msgstr "Během odinstalace doplňku došlo k chybě v dotazu SQL."
 
 msgctxt "Languages::payments.qbms.quickbooks_connection"
 msgid "QuickBooks Connection"
-msgstr ""
+msgstr "QuickBooks Connection"
 
 msgctxt "Languages::payments.qbms.configuration_required"
 msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
-msgstr ""
+msgstr "<p>Vyplňte níže uvedená pole a uložte změny:<br>- Aplikace Token<br>- OZákaznický spotřebitelský klíč<br>- OZákaznický spotřebitelský tajný klíč</p><p>Klikněte na \"Připojit k QuickBooks\" tlačítko, které se objeví namísto této zprávy do konce konfiguraci platby.</p>"
 
 msgctxt "Languages::payments.qbms.app_token"
 msgid "App Token"
-msgstr ""
+msgstr "Aplikace Token"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_key"
 msgid "OAuth Consumer Key"
-msgstr ""
+msgstr "OZákaznický spotřebitelský klíč"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_secret"
 msgid "OAuth Consumer Secret"
-msgstr ""
+msgstr "OZákaznický spotřebitelský tajný klíč"
 
 msgctxt "Languages::payments.qbms.token_expires"
 msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
-msgstr ""
+msgstr "Token vyprší v <b>[date]</b> za <b>[time]</b>."
 
 msgctxt "Languages::payments.qbms.token_expired"
 msgid "The token has expired."
-msgstr ""
+msgstr "Token vypršel."
 
 msgctxt "Languages::payments.qbms.renew_token"
 msgid "Press \"Connect to QuickBooks\" to renew the token."
-msgstr ""
+msgstr "Stisknutím tlačítka \"Připojit k QuickBooks\" obnovite token."
 
 msgctxt "Languages::payments.qbms.upgrade_notification_title"
 msgid "QB Merchant Service payment processor changes"
-msgstr ""
+msgstr "QB Merchant Service platba změny procesor"
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
+msgstr ""
+
+msgctxt "Languages::text_money_back_guarantee"
+msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
+msgstr "Nabízíme záruku vrácení peněz na 30 dní. Pokud se vám nelíbí váš produkt, vrátíme vám peníze, neptal se na žádné zbytečné otázky."
+
+msgctxt "Languages::admin_panel_will_be_blocked"
+msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Kontrola instalace integrity selhala. Přístup k Admin panelu bude zablokován do 2 dnů. Obraťte se na náš <a href=\"[href]\">tým podpory</a>"
+
+msgctxt "Languages::text_license_is_disabled"
+msgid "The license is disabled. Please check your license status."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid"
+msgid "Invalid license number. Please enter a valid license number."
+msgstr ""
+
+msgctxt "Languages::text_license_is_disabled_full"
+msgid "The license is disabled. Please check your license status or select a different store mode."
+msgstr ""
+
+msgctxt "Languages::text_license_is_invalid_full"
+msgid "Invalid license number. Please enter a valid license number or select a different store mode."
 msgstr ""
 

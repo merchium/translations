@@ -1712,14 +1712,6 @@ msgctxt "Languages::change_range"
 msgid "Change range"
 msgstr "Change range"
 
-msgctxt "Languages::change_language_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-msgstr "The shop is running in the Free mode. In this mode, you can use only one language. Just change the status to Active in order to activate the language you want."
-
-msgctxt "Languages::change_currency_in_free_mode"
-msgid "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-msgstr "The shop is running in the Free mode. In this mode, you can use only one currency. Just change the status to Active in order to activate the currency you want."
-
 msgctxt "Languages::charged_amount"
 msgid "Charged amount"
 msgstr "Charged amount"
@@ -2615,14 +2607,6 @@ msgstr "Sign"
 msgctxt "Languages::current_database_size"
 msgid "Current database size"
 msgstr "Current database size"
-
-msgctxt "Languages::currency_hidden_status_free"
-msgid "The status <b>Hidden</b> for currency cannot be used in the free mode."
-msgstr "The status <b>Hidden</b> for currency cannot be used in the free mode."
-
-msgctxt "Languages::language_hidden_status_free"
-msgid "The status <b>Hidden</b> for language cannot be used in the free mode."
-msgstr "The status <b>Hidden</b> for language cannot be used in the free mode."
 
 msgctxt "Languages::current_path"
 msgid "Current path"
@@ -6785,8 +6769,8 @@ msgid "Please be patient"
 msgstr "Please be patient"
 
 msgctxt "Languages::please_enter_license_here"
-msgid "Please enter license number here"
-msgstr "Please enter license number here"
+msgid "Enter your license number here"
+msgstr "Enter your license number here"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -9696,14 +9680,6 @@ msgctxt "Languages::store_theme"
 msgid "Storefront theme"
 msgstr "Storefront theme"
 
-msgctxt "Languages::store_mode_will_be_changed_to_free"
-msgid "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Free mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-
-msgctxt "Languages::store_mode_will_be_changed_to_trial"
-msgid "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr "Installation integrity check failed. Your store will switch to Trial mode within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-
 msgctxt "Languages::subcategories"
 msgid "Subcategories"
 msgstr "Subcategories"
@@ -10521,36 +10497,8 @@ msgid "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME
 msgstr "It is not allowed to create/upload/rename files of the <b>[mime]</b> MIME type."
 
 msgctxt "Languages::text_forbidden_functionality"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-msgstr "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality. To use this feature, you need a [product] license.</p>"
-
-msgctxt "Languages::text_forbidden_functionality_full"
-msgid "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-msgstr "<p>You are currently using [product] in the Free Mode. The Free Mode doesn't require a license and has limited functionality.  <br> To use this feature, you need a [product] license.</p><p>Buying the [product] license and activating it is easy as pie. With the [product] license you'll get the full access to these features:</p>"
-
-msgctxt "Languages::text_forbidden_feature_promotions"
-msgid "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-msgstr "Full promotions: you'll be able to add not only catalog promotions, but also cart promotions"
-
-msgctxt "Languages::text_forbidden_feature_multistore"
-msgid "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-msgstr "Multi-store functionality: you'll be able to connect several storefronts and manage them via one admin panel"
-
-msgctxt "Languages::text_forbidden_feature_customer"
-msgid "Assigning customers to User Groups and setting different privileges for admins"
-msgstr "Assigning customers to User Groups and setting different privileges for admins"
-
-msgctxt "Languages::text_forbidden_feature_languages"
-msgid "Several languages and currencies in your store"
-msgstr "Several languages and currencies in your store"
-
-msgctxt "Languages::text_forbidden_feature_addons"
-msgid "Over 30 add-ons out of the box to make your store even better"
-msgstr "Over 30 add-ons out of the box to make your store even better"
-
-msgctxt "Languages::text_forbidden_feature_support"
-msgid "Technical support and access to our Customer Help Desk"
-msgstr "Technical support and access to our Customer Help Desk"
+msgid "<p>To use this feature, you need a [product] license.</p>"
+msgstr "<p>To use this feature, you need a [product] license.</p>"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -10960,10 +10908,6 @@ msgctxt "Languages::text_proxypay_notice"
 msgid "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 msgstr "Validation script:&nbsp;&nbsp;&nbsp;<b>[validation_url]</b><br />Confirmation script:&nbsp;&nbsp;&nbsp;<b>[confirmation_url]</b><br />Ok page:&nbsp;&nbsp;&nbsp;<b> 	[ok_url]</b><br />Nok page: &nbsp;&nbsp;&nbsp;<b> [nok_url]</b><br />"
 
-msgctxt "Languages::text_qbms_notice"
-msgid "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-msgstr "<p>You should use the \"test\" mode only if you have a PTC account. </p> <p>During registration of your application set the following values: <br /> - Type: hosted (web-based app)<br /> - Subscribe URL: [response_url]<br /> - Change URL: [response_url]<br /> - Cancel URL: [response_url]<br /> </p> <p><b>Connection ticket</b> will be filled out automatically after you create the connection here: http://merchantaccount.ptc.quickbooks.com/j/sdkconnection/connectionList?appid=[My_App_ID] (please replace the [My_App_ID] with your AppID number) and click the \"Use this connection\" button.</p><p>To get \"Signed certificate\" please refer to the <b>http://developer.intuit.com/QuickBooksSDK/chart.asp?id=496</b> <br />After you have created the certificates (Intuit CA & Client Signed) please do the following:<br />1. extract the key from the CSR you created (these steps are applicable only if keytool was used)<br />&nbsp; - Download the Java class to export Private key from the certificate: http://mark.foster.cc/pub/java/ExportPriv.java<br />&nbsp; - Compile this class: \"javac ExportPriv.java\"<br />&nbsp; - Export the Key to the file: \"java ExportPriv <keystore> <alias> <password> > exported-pkcs8.key\"<br />2. Save the client signed certificate to the file (e.g. qbms_cert.txt)<br />3. Save to the same file the Key that was extracted at step 1.<br />4. Upload the resulting file using this form.<br /></p>"
-
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
 msgstr "Our Brands"
@@ -11120,10 +11064,6 @@ msgctxt "Languages::text_storage_changed"
 msgid "Storage changed successfully"
 msgstr "Storage changed successfully"
 
-msgctxt "Languages::text_store_mode_changed_to_free"
-msgid "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
-msgstr "<p>The 30-day trial period is over. Your store has been automatically switched to the <strong>Free mode</strong>.<p>	<p>Note that only basic set of eCommerce tools is available in the Free mode.<p>	<p>In order to use the use software in the Full mode, you must purchase the full commercial license and enter the license key on the <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">Licensing mode</a> page in.<p>"
-
 msgctxt "Languages::text_store_mode_changed_to_full"
 msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
 msgstr "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
@@ -11131,10 +11071,6 @@ msgstr "<strong>Full mode</strong> has been activated. In this mode, all the adv
 msgctxt "Languages::text_store_mode_closed"
 msgid "The store was <b>closed</b>"
 msgstr "The store was <b>closed</b>"
-
-msgctxt "Languages::text_store_mode_free"
-msgid "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
-msgstr "Some features are unavailable. No time restrictions implied, license number is not required.<br /><br />This mode can be activated at any time.<br /><br />By picking this mode you also subscribe to our news & offers newsletter. We send the emails about once or twice a month. You'll be able to unsubscribe any time."
 
 msgctxt "Languages::text_store_mode_full"
 msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
@@ -11145,8 +11081,8 @@ msgid "The store was <b>opened</b>"
 msgstr "The store was <b>opened</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
-msgstr "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable, and the Free mode will be activated automatically.<br /><br />"
+msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
+msgstr "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -12085,24 +12021,24 @@ msgid "Trial mode cannot be activated"
 msgstr "Trial mode cannot be activated"
 
 msgctxt "Languages::trial_notice"
-msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr "Your store is in the Trial mode.<br /><br />When the 30-day trial period is over, the Free mode will be activated automatically.<br /><br />In order to keep the full access to all features after the trial period is over and permanently dismiss this message, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
+msgstr "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
 
 msgctxt "Languages::trial_expired"
-msgid "Your trial version of [product] is finished"
-msgstr "Your trial version of [product] is finished"
+msgid "Your [product] trial period has expired"
+msgstr "Your [product] trial period has expired"
 
 msgctxt "Languages::text_input_license_code"
-msgid "To continue working with [product] enter the license key"
-msgstr "To continue working with [product] enter the license key"
+msgid "Please enter your license number to be able to manage your store:"
+msgstr "Please enter your license number to be able to manage your store:"
 
 msgctxt "Languages::text_buy_new_license"
-msgid "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
-msgstr "If you do not have a license key, you can purchase it on our official website<br/>[buy_license]"
+msgid "If you don't have a license number yet, you can purchase it at our official website."
+msgstr "If you don't have a license number yet, you can purchase it at our official website."
 
 msgctxt "Languages::buy_license"
-msgid "Buy the license"
-msgstr "Buy the license"
+msgid "Purchase a license"
+msgstr "Purchase a license"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -13267,10 +13203,6 @@ msgstr "Do not allow customers to add the product to cart"
 msgctxt "Languages::po_file"
 msgid "Choose a file in the PO or ZIP format"
 msgstr "Choose a file in the PO or ZIP format"
-
-msgctxt "Languages::text_free_mode_activated"
-msgid "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
-msgstr "You have switched your store to the Free mode.<br><br>Note that in this mode some features (e.g. certain add-ons) are unavailable."
 
 msgctxt "Languages::hidden_categories"
 msgid "Hidden categories"
@@ -16056,3 +15988,71 @@ msgstr "Copy"
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
 msgstr "An error in an SQL query occurred during the add-on uninstallation."
+
+msgctxt "Languages::payments.qbms.quickbooks_connection"
+msgid "QuickBooks Connection"
+msgstr "QuickBooks Connection"
+
+msgctxt "Languages::payments.qbms.configuration_required"
+msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
+msgstr "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
+
+msgctxt "Languages::payments.qbms.app_token"
+msgid "App Token"
+msgstr "App Token"
+
+msgctxt "Languages::payments.qbms.oauth_consumer_key"
+msgid "OAuth Consumer Key"
+msgstr "OAuth Consumer Key"
+
+msgctxt "Languages::payments.qbms.oauth_consumer_secret"
+msgid "OAuth Consumer Secret"
+msgstr "OAuth Consumer Secret"
+
+msgctxt "Languages::payments.qbms.token_expires"
+msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
+msgstr "The token expires on <b>[date]</b> at <b>[time]</b>."
+
+msgctxt "Languages::payments.qbms.token_expired"
+msgid "The token has expired."
+msgstr "The token has expired."
+
+msgctxt "Languages::payments.qbms.renew_token"
+msgid "Press \"Connect to QuickBooks\" to renew the token."
+msgstr "Press \"Connect to QuickBooks\" to renew the token."
+
+msgctxt "Languages::payments.qbms.upgrade_notification_title"
+msgid "QB Merchant Service payment processor changes"
+msgstr "QB Merchant Service payment processor changes"
+
+msgctxt "Languages::payments.qbms.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
+msgstr "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
+
+msgctxt "Languages::text_money_back_guarantee"
+msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
+msgstr "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
+
+msgctxt "Languages::admin_panel_will_be_blocked"
+msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+msgstr "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
+
+msgctxt "Languages::text_license_is_disabled"
+msgid "The license is disabled. Please check your license status."
+msgstr "The license is disabled. Please check your license status."
+
+msgctxt "Languages::text_license_is_invalid"
+msgid "Invalid license number. Please enter a valid license number."
+msgstr "Invalid license number. Please enter a valid license number."
+
+msgctxt "Languages::text_license_is_disabled_full"
+msgid "The license is disabled. Please check your license status or select a different store mode."
+msgstr "The license is disabled. Please check your license status or select a different store mode."
+
+msgctxt "Languages::text_license_is_invalid_full"
+msgid "Invalid license number. Please enter a valid license number or select a different store mode."
+msgstr "Invalid license number. Please enter a valid license number or select a different store mode."
+
+msgctxt "Languages::shipping_tips"
+msgid ""
+msgstr ""
