@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-19 09:55-0400\n"
+"PO-Revision-Date: 2016-04-20 03:54-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -16036,7 +16036,7 @@ msgstr "QB Merchant Service platba změny procesor"
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
-msgstr ""
+msgstr "<p>Nejnovější verze produktu [product] má různá nastavení platebních metod, pokud používáte QB obchodníka jako procesor.</p><p>Chcete-li použít platební metody, udělejte to následujícím způsobem:</p><ul><li>přejděte do Administrace> Platební metody</li><li>zvolite způsob platby, který používá QB obchodníka jako procesor</li><li>přejdete na kartu Konfigurace</li><li>vstoupite do správy App token zákaznického klíče OAuth a zadejte tajný zákaznický klíč OAuth</li><li>provedete připojení k QuickBooks</li></ul>"
 
 msgctxt "Languages::text_money_back_guarantee"
 msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
@@ -16048,17 +16048,21 @@ msgstr "Kontrola instalace integrity selhala. Přístup k Admin panelu bude zabl
 
 msgctxt "Languages::text_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr ""
+msgstr "Licence je zakázána. Zkontrolujte, prosím, stav licence."
 
 msgctxt "Languages::text_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
-msgstr ""
+msgstr "Neplatné licenční číslo. Prosím, zadejte platné licenční číslo."
 
 msgctxt "Languages::text_license_is_disabled_full"
 msgid "The license is disabled. Please check your license status or select a different store mode."
-msgstr ""
+msgstr "Licence je zakázána. Zkontrolujte stav licence nebo zvolte jiný režim obchodu."
 
 msgctxt "Languages::text_license_is_invalid_full"
 msgid "Invalid license number. Please enter a valid license number or select a different store mode."
+msgstr "Neplatné licenční číslo. Prosím, zadejte platné licenční číslo nebo zvolte jiný režim obchodu."
+
+msgctxt "Languages::shipping_tips"
+msgid " "
 msgstr ""
 
