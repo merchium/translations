@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: tr\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-20 03:17-0400\n"
+"PO-Revision-Date: 2016-04-29 07:57-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -6842,7 +6842,7 @@ msgstr "Posta URL"
 
 msgctxt "Languages::powered_by"
 msgid "Powered by"
-msgstr "Cs-cart Design Team"
+msgstr "Made with Love by"
 
 msgctxt "Languages::po_number"
 msgid "PO number"
@@ -7810,7 +7810,7 @@ msgstr "Cache i otomatik olarak yeniden oluştur"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Değiştirilen dosyaları gerçek zamanlı (doğrudan sunucuda değiştirilmesi dosyaları dahil) izlenen ve yeniden önbelleğe alınmış. Blok önbelleği devre dışı bırakılacak. Mağaza performansı biraz etkilenebilir. Üretim üzerinde devre dışı bırakmak için önerilir."
+msgstr ""
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -16063,5 +16063,13 @@ msgstr ""
 
 msgctxt "Languages::shipping_tips"
 msgid " "
+msgstr ""
+
+msgctxt "Languages::error_directory_not_writable"
+msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
+msgstr ""
+
+msgctxt "Languages::error_cannot_delete_files"
+msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr ""
 

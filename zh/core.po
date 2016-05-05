@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-20 03:11-0400\n"
+"PO-Revision-Date: 2016-05-01 21:53-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -7286,7 +7286,7 @@ msgstr "产品数量"
 
 msgctxt "Languages::products_bar"
 msgid "Products bar"
-msgstr ""
+msgstr "产品栏"
 
 msgctxt "Languages::products_cost"
 msgid "Products cost"
@@ -8178,7 +8178,7 @@ msgstr "风险信息"
 
 msgctxt "Languages::romanian"
 msgid "Romanian"
-msgstr ""
+msgstr "罗马尼亚"
 
 msgctxt "Languages::root_category"
 msgid "Root category"
@@ -8206,7 +8206,7 @@ msgstr "运行时间"
 
 msgctxt "Languages::russian"
 msgid "Russian"
-msgstr ""
+msgstr "俄语"
 
 msgctxt "Languages::sale"
 msgid "Sale"
@@ -8602,7 +8602,7 @@ msgstr ""
 
 msgctxt "Languages::share"
 msgid "Share"
-msgstr ""
+msgstr "分享"
 
 msgctxt "Languages::share.congratulations_first_order"
 msgid "Congratulations on you first complete order."
@@ -8782,7 +8782,7 @@ msgstr "包裹长度 (英寸)"
 
 msgctxt "Languages::ship_dhl_site_id"
 msgid "Site ID"
-msgstr ""
+msgstr "站点 ID"
 
 msgctxt "Languages::ship_dhl_width"
 msgid "Package width (inches)"
@@ -10762,7 +10762,7 @@ msgstr ""
 
 msgctxt "Languages::text_payment_have_not_been_deleted"
 msgid "Payment cannot be deleted."
-msgstr ""
+msgstr "无法删除付款。"
 
 msgctxt "Languages::text_paypal_processing_payment"
 msgid "Please wait while processing the payment details..."
@@ -10918,7 +10918,7 @@ msgstr "验证脚本:&nbsp;&nbsp;&nbsp;<b>    [validation_url]</b><br />确认�
 
 msgctxt "Languages::our_brands"
 msgid "Our Brands"
-msgstr ""
+msgstr "我们的品牌"
 
 msgctxt "Languages::text_qty_discounts"
 msgid "Our quantity discounts"
@@ -11414,7 +11414,7 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.color_gen_default"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 msgctxt "Languages::theme_editor.color_gen_light_pastel"
 msgid "Light pastel"
@@ -11450,7 +11450,7 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.content_bg"
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 msgctxt "Languages::theme_editor.css"
 msgid "Custom CSS"
@@ -11458,7 +11458,7 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.customize"
 msgid "Customize"
-msgstr ""
+msgstr "自定义"
 
 msgctxt "Languages::theme_editor.decorative_color"
 msgid "Decorative"
@@ -11486,23 +11486,23 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.font"
 msgid "Font"
-msgstr ""
+msgstr "字体"
 
 msgctxt "Languages::theme_editor.fonts"
 msgid "Fonts"
-msgstr ""
+msgstr "字体"
 
 msgctxt "Languages::theme_editor.font_color"
 msgid "Font"
-msgstr ""
+msgstr "字体"
 
 msgctxt "Languages::theme_editor.footer"
 msgid "Footer"
-msgstr ""
+msgstr "底部"
 
 msgctxt "Languages::theme_editor.footer_text"
 msgid "Footer text"
-msgstr ""
+msgstr "底部文本"
 
 msgctxt "Languages::theme_editor.full_width"
 msgid "Full width"
@@ -11510,7 +11510,7 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.general"
 msgid "General"
-msgstr ""
+msgstr "常规"
 
 msgctxt "Languages::theme_editor.general_bg"
 msgid "General"
@@ -11542,11 +11542,11 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.links_font"
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 msgctxt "Languages::theme_editor.link_color"
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 msgctxt "Languages::theme_editor.logos"
 msgid "Logos"
@@ -11602,7 +11602,7 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.styles"
 msgid "Styles"
-msgstr ""
+msgstr "样式"
 
 msgctxt "Languages::theme_editor.style"
 msgid "Style"
@@ -11614,15 +11614,15 @@ msgstr ""
 
 msgctxt "Languages::theme_editor.style_name"
 msgid "Style name"
-msgstr ""
+msgstr "样式名称"
 
 msgctxt "Languages::theme_editor.price"
 msgid "Price"
-msgstr ""
+msgstr "价格"
 
 msgctxt "Languages::theme_editor.price_font"
 msgid "Price tag"
-msgstr ""
+msgstr "价格标签"
 
 msgctxt "Languages::theme_editor.primary_button"
 msgid "Primary button"
@@ -16063,5 +16063,13 @@ msgstr ""
 
 msgctxt "Languages::shipping_tips"
 msgid " "
+msgstr ""
+
+msgctxt "Languages::error_directory_not_writable"
+msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
+msgstr ""
+
+msgctxt "Languages::error_cannot_delete_files"
+msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr ""
 

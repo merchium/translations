@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ka\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-20 03:13-0400\n"
+"PO-Revision-Date: 2016-04-29 07:55-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -12046,7 +12046,7 @@ msgstr ""
 
 msgctxt "Languages::buy_license"
 msgid "Purchase a license"
-msgstr ""
+msgstr "ლიცენზიის შეძენა"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12806,11 +12806,11 @@ msgstr "მომწოდებლის ID"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr ""
+msgstr "გამყიდველების სახელი"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
-msgstr "ანგარიშის მფლობელის სახელი"
+msgstr "მაღაზიის სახელი"
 
 msgctxt "Languages::vendor_pages"
 msgid "Store pages"
@@ -12834,7 +12834,7 @@ msgstr "ნახვა"
 
 msgctxt "Languages::viewing_feature"
 msgid "Viewing feature"
-msgstr ""
+msgstr "ფილტრის ნახვა"
 
 msgctxt "Languages::viewing_filter"
 msgid "Viewing filter"
@@ -12862,7 +12862,7 @@ msgstr "კატეგორიებსი ჩვენება"
 
 msgctxt "Languages::view_comparison_list"
 msgid "Comparison list"
-msgstr ""
+msgstr "შედარების სია"
 
 msgctxt "Languages::view_details"
 msgid "View details"
@@ -13115,7 +13115,7 @@ msgstr "ვიჯეტის კოდი"
 
 msgctxt "Languages::widget_what_is_it"
 msgid "<a href=\"[href]\" target=\"_blank\">What is it?</a>"
-msgstr ""
+msgstr "<a href=\"[href]\" target=\"_blank\">რა არის ეს?</a>"
 
 msgctxt "Languages::width"
 msgid "Width"
@@ -13603,7 +13603,7 @@ msgstr "სახელი"
 
 msgctxt "Languages::promotions.cond_any"
 msgid "any"
-msgstr "რომელიმე"
+msgstr "ნებისმიერი"
 
 msgctxt "Languages::promotions.cond_all"
 msgid "all"
@@ -13683,11 +13683,11 @@ msgstr "დაცული კავშირის დამყარება 
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr ""
+msgstr "დაცული კავშირის გამოყენება მაღაზიასთან"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
-msgstr ""
+msgstr "HTTPS კავშირის შენარჩუნება დაცულ საიტზე პირველი ვიზიტისას"
 
 msgctxt "SettingsOptions::license_number"
 msgid "License number"
@@ -14127,7 +14127,7 @@ msgstr ""
 
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
-msgstr ""
+msgstr "პროდუქცის ამოწურივის შესახებ შეტყობინება"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
@@ -14451,7 +14451,7 @@ msgstr ""
 
 msgctxt "SettingsTooltips::user_multiple_profiles"
 msgid "Shipping and billing addresses"
-msgstr ""
+msgstr "შეკვეთის მიწოდების და საცხოვრებელი მისამართი იგივეა?"
 
 msgctxt "SettingsTooltips::thumbnail_background_color"
 msgid "Leave empty for transparent background"
@@ -14727,7 +14727,7 @@ msgstr ""
 
 msgctxt "SettingsVariants::date_format::%b %e, %Y"
 msgid "Sep 29, 2005 (month day, year)"
-msgstr ""
+msgstr "სექ 29, 2005(თვე, დღე, წელი)"
 
 msgctxt "SettingsVariants::default_products_sorting::product"
 msgid "Product name"
@@ -15760,7 +15760,7 @@ msgstr "იგნორირება"
 
 msgctxt "Languages::use_for_free_shipping"
 msgid "Use for free shipping"
-msgstr ""
+msgstr "უფასო მიწოდება"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
@@ -15988,11 +15988,11 @@ msgstr ""
 
 msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
-msgstr ""
+msgstr "მიწოდების დრო"
 
 msgctxt "Languages::copy"
 msgid "Copy"
-msgstr ""
+msgstr "კოპირება"
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
@@ -16064,5 +16064,13 @@ msgstr ""
 
 msgctxt "Languages::shipping_tips"
 msgid " "
+msgstr ""
+
+msgctxt "Languages::error_directory_not_writable"
+msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
+msgstr ""
+
+msgctxt "Languages::error_cannot_delete_files"
+msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr ""
 

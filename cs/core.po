@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-20 03:54-0400\n"
+"PO-Revision-Date: 2016-04-30 02:53-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -16065,4 +16065,12 @@ msgstr "Neplatné licenční číslo. Prosím, zadejte platné licenční čísl
 msgctxt "Languages::shipping_tips"
 msgid " "
 msgstr ""
+
+msgctxt "Languages::error_directory_not_writable"
+msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
+msgstr "Adresář \"[dir]\" není zapisovatelný. Zkontrolujte, prosím, oprávnění pro tento adresář vaší instalace."
+
+msgctxt "Languages::error_cannot_delete_files"
+msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
+msgstr "Nelze smazat soubory: <b>[files]</b>. Prosím, zkontrolujte oprávnění."
 

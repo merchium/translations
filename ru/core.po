@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-20 03:16-0400\n"
+"PO-Revision-Date: 2016-04-29 07:57-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -6778,7 +6778,7 @@ msgstr "Пожалуйста, подождите"
 
 msgctxt "Languages::please_enter_license_here"
 msgid "Enter your license number here"
-msgstr ""
+msgstr "Пожалуйста, введите номер лицензии"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -11090,7 +11090,7 @@ msgstr "Магазин был <b>открыт</b>"
 
 msgctxt "Languages::text_store_mode_trial"
 msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
-msgstr ""
+msgstr "Все функции доступны на протяжении 30 дней с момента скачивания дистрибутива. Ввод номера лицензии не требуется. <br /><br /> Для продолжения работы после окончания пробного периода (30 дней) будет необходимо приобрести лицензию или ввести имеющийся лицензионный ключ.<br /><br />"
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -12034,19 +12034,19 @@ msgstr ""
 
 msgctxt "Languages::trial_expired"
 msgid "Your [product] trial period has expired"
-msgstr ""
+msgstr "Срок использования пробной версии  [product] истек"
 
 msgctxt "Languages::text_input_license_code"
 msgid "Please enter your license number to be able to manage your store:"
-msgstr ""
+msgstr "Для продолжения работы с  [product] введите лицензионный ключ"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you don't have a license number yet, you can purchase it at our official website."
-msgstr ""
+msgstr "Если у вас еще нет лицензионного ключа, вы можете приобрести его на нашем официальном сайте."
 
 msgctxt "Languages::buy_license"
 msgid "Purchase a license"
-msgstr ""
+msgstr "Купить лицензию"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -16039,7 +16039,7 @@ msgstr ""
 
 msgctxt "Languages::text_money_back_guarantee"
 msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
-msgstr ""
+msgstr "<strong>100% гарантия возврата денег!</strong> Если вам хотя-бы что-то не понравится в нашем продукте, мы просто вернем вам деньги. <strong>Никаких лишних вопросов.</strong> На возврат у вас есть целых <strong>30 дней.</strong>"
 
 msgctxt "Languages::admin_panel_will_be_blocked"
 msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
@@ -16047,7 +16047,7 @@ msgstr ""
 
 msgctxt "Languages::text_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr ""
+msgstr "Лицензия будет отключена. Пожалуйста, проверьте статус вашей лицензии."
 
 msgctxt "Languages::text_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
@@ -16063,5 +16063,13 @@ msgstr ""
 
 msgctxt "Languages::shipping_tips"
 msgid " "
+msgstr ""
+
+msgctxt "Languages::error_directory_not_writable"
+msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
+msgstr ""
+
+msgctxt "Languages::error_cannot_delete_files"
+msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr ""
 
