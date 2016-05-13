@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/call_requests.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-17 08:55-0400\n"
+"PO-Revision-Date: 2016-05-13 03:53-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -34,7 +34,7 @@ msgstr "Réécrire le téléphone"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr ""
+msgstr "Mettre en évidence les premiers caractères"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -46,15 +46,15 @@ msgstr "Statut de commande"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr ""
+msgstr "Masque téléphonique"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr ""
+msgstr "Laisser vide pour utiliser modèle automatique téléphone par pays, ou entrez un motif personnalisé. Vous pouvez utiliser des espaces, des virgules, +, - et les chiffres. Notez que 9 représente un chiffre ; Si vous avez besoin d’un 9, tapez \\\9. Exemples : +9 (999) 999 99 99, 99999999, 999 999 99 ou + 99-99-9999-9999."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr ""
+msgstr "Comprenant des parenthèses, espaces, etc. Utiliser pour mettre en surbrillance le code de pays, indicatif régional et préfixe téléphone."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
