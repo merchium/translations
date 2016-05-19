@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-06 11:53-0400\n"
+"PO-Revision-Date: 2016-05-18 11:00-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -10506,7 +10506,7 @@ msgstr "Не разрешается создавать/загружать/пер
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>Чтобы пользоваться этой функцией, приобретите лицензию [product].</p>"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -11178,7 +11178,7 @@ msgstr "Не получается загрузить дистрибутив об
 
 msgctxt "Languages::text_uc_changed_files_message"
 msgid "These files have local modifications and will be backed up. Once the upgrade is complete, compare the backup files with the new files and reapply the modifications to the new files, if necessary."
-msgstr ""
+msgstr "В этих файлах локальные изменения, поэтому будет сделана их резервная копия. После завершения обновления сравните файлы резервной копии с новыми файлами и перенесите изменения из старых в новые, если это необходимо."
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
@@ -12030,7 +12030,7 @@ msgstr "Пробный период не может быть включен"
 
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr ""
+msgstr "Магазин работает в пробном режиме.<br /><br />После окончания пробного 30-дневного периода нужно будет ввести действительный лицензионный ключ, чтобы дальше пользоваться магазином.<br /><br />Чтобы навсегда отключить это сообщение и войти в панель администратора после окончания пробного периода, купите лицензию и <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">активируйте полную версию</a>."
 
 msgctxt "Languages::trial_expired"
 msgid "Your [product] trial period has expired"
@@ -12054,7 +12054,7 @@ msgstr "Истина"
 
 msgctxt "Languages::tt_views_shippings_update_delivery_time"
 msgid "The delivery time appears next to the name of the shipping method. If you use realtime shipping rate calculation, your shipping service may provide its own delivery time. The time provided by the shipping service will be displayed instead of the time you specify here."
-msgstr "Время доставки отображается рядом с названием метода доставки. Если вы используете сервисы для расчета доставки, они могут возвращать свое собственное время. И это время будет отображаться вместо времени, указанного в этом поле."
+msgstr "Время доставки отображается рядом с названием способа доставки. Если вы используете сервисы для расчета доставки, они могут возвращать свое собственное время. И это время будет отображаться вместо времени, указанного в этом поле."
 
 msgctxt "Languages::ttc_page_title"
 msgid "Page title displayed on a browser panel."
@@ -13302,7 +13302,7 @@ msgstr "Загрузка и установка новой темы  — это �
 
 msgctxt "Languages::install_upgrade_package_text"
 msgid "You can upload an upgrade package manually from the local machine, your server, or from a remote location. Specify the location of a [exts] format archive and click <strong>Upload</strong>."
-msgstr ""
+msgstr "Вы можете загрузить пакет обновления вручную с локального компьютера, сервера или с удаленного адреса. Укажите местоположение архива в формате [exts] и нажмите <strong>Загрузить</strong>."
 
 msgctxt "Languages::non_writable_directories"
 msgid "The following directories do not have writable permissions"
@@ -13498,7 +13498,7 @@ msgstr "Схема с таким именем уже существует. По�
 
 msgctxt "Languages::theme_editor.incorrect_preset_name"
 msgid "Preset name can not contain the following characters: \"/ # % ? * : ; { } \\ \""
-msgstr ""
+msgstr "Название предустановки не может содержать эти символы : \"/ # % ? * : ; { } \\ \""
 
 msgctxt "Languages::theme_editor.convert_to_css"
 msgid "Convert to CSS"
@@ -15707,7 +15707,7 @@ msgstr "Произошла ошибка во время обновления с�
 
 msgctxt "Languages::text_entered_html_was_sanitized"
 msgid "Some <strong>HTML tags</strong> that you have used <strong>were cut off</strong> because of the restrictions on inserting HTML tags such as &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; and JavaScript code. That's why the content that you've inserted via these tags will not be displayed."
-msgstr "Некоторые из использованных вами <strong>HTML-тегов</strong> <strong>были вырезаны</strong> из-за ограничения на вставку определенных тегов, например &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript. Поэтому подобные данные не будут отображаться."
+msgstr "Некоторые из использованных вами <strong>HTML-тегов</strong> <strong>были вырезаны</strong> из-за ограничения на вставку определенных тегов, например &lt;object&gt;, &lt;iframe&gt;, &lt;embed&gt; и код JavaScript. Поэтому контент, добавленный этими тегам, не будет отображаться."
 
 msgctxt "Languages::text_uc_package_installed_with_errors"
 msgid "Errors occurred during the upgrade process. Please contact technical support to investigate the problem."
@@ -15899,15 +15899,15 @@ msgstr "Перезаписать"
 
 msgctxt "Languages::upgrade_center.skip_backup"
 msgid "Skip files and database backup"
-msgstr ""
+msgstr "Не делать резервную копию файлов и базы данных"
 
 msgctxt "Languages::uc_open_store_email_body"
 msgid "<p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p></p>"
-msgstr ""
+msgstr "<p>Перед обновлением ваш магазин закрылся. Убедитесь, что магазин работает нормально после обновления и <a href=\"[settings_section]\">откройте его</a>.</p></p>"
 
 msgctxt "Languages::upgrade_notification_message"
 msgid "<p class='upgrade-center_notice-msg'>Copy of this message was sent to administrator's email.</p><hr>"
-msgstr ""
+msgstr "<p class='upgrade-center_notice-msg'>Копия этого сообщения отправлена на электронную почту администратора.</p><hr>"
 
 msgctxt "Languages::http_transport_error_prefix_curl"
 msgid "Curl Error"
@@ -15927,7 +15927,7 @@ msgstr "[n] день|[n] дня|[n] дней"
 
 msgctxt "Languages::track_on_carrier_site"
 msgid "Track on website"
-msgstr "Проверить на сайте"
+msgstr "Отследить на сайте"
 
 msgctxt "Languages::unable_to_create_status"
 msgid "Couldn't create a new status"
@@ -15939,7 +15939,7 @@ msgstr "Вы достигли максимального количества с
 
 msgctxt "Languages::curl_error_description_curle_ssl_invalidcertstatus"
 msgid "Status returned failure when asked with CURLOPT_SSL_VERIFYSTATUS."
-msgstr ""
+msgstr "Ошибка возврата статуса при запросе CURLOPT_SSL_VERIFYSTATUS."
 
 msgctxt "Languages::error_unknown_archive_format"
 msgid "Unknown archive format: [ext]"
@@ -15959,15 +15959,15 @@ msgstr "Локальные изменения"
 
 msgctxt "Languages::local_modifications_message"
 msgid "These files had local modifications. During the upgrade a backup archive was created in the <strong>[dir]</strong> directory. You may want to check these files in the archive and reapply the modifications to your store."
-msgstr ""
+msgstr "Эти файлы содержат локальные изменения. Во время обновления была создана резервная копия в папке <strong>[dir]</strong>. Сравните файлы резервной копии с новыми файлами и перенесите изменения из старых в новые."
 
 msgctxt "Languages::not_checked"
 msgid "Not checked"
-msgstr ""
+msgstr "Не проверен"
 
 msgctxt "Languages::checked"
 msgid "Checked"
-msgstr ""
+msgstr "Проверен"
 
 msgctxt "Languages::error_filter_by_feature_exists"
 msgid "Filter by feature \"[name]\" already exists."
@@ -15995,47 +15995,47 @@ msgstr "Скопировать"
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
-msgstr ""
+msgstr "Во время удаления модуля произошла ошибка в SQL-запросе."
 
 msgctxt "Languages::payments.qbms.quickbooks_connection"
 msgid "QuickBooks Connection"
-msgstr ""
+msgstr "Соединение с QuickBooks"
 
 msgctxt "Languages::payments.qbms.configuration_required"
 msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
-msgstr ""
+msgstr "<p>Заполните поля ниже и сохраните изменения:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Нажмите кнопку \"Connect to QuickBooks\", которая появится вместо этого сообщения, для завершения настройки способа оплаты.</p>"
 
 msgctxt "Languages::payments.qbms.app_token"
 msgid "App Token"
-msgstr ""
+msgstr "App Token"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_key"
 msgid "OAuth Consumer Key"
-msgstr ""
+msgstr "OAuth Consumer Key"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_secret"
 msgid "OAuth Consumer Secret"
-msgstr ""
+msgstr "OAuth Consumer Secret"
 
 msgctxt "Languages::payments.qbms.token_expires"
 msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
-msgstr ""
+msgstr "Действие токена заканчивается <b>[date]</b> в <b>[time]</b>."
 
 msgctxt "Languages::payments.qbms.token_expired"
 msgid "The token has expired."
-msgstr ""
+msgstr "Срок действия токена истек."
 
 msgctxt "Languages::payments.qbms.renew_token"
 msgid "Press \"Connect to QuickBooks\" to renew the token."
-msgstr ""
+msgstr "Нажмите \"Connect to QuickBooks\" для обновления токена."
 
 msgctxt "Languages::payments.qbms.upgrade_notification_title"
 msgid "QB Merchant Service payment processor changes"
-msgstr ""
+msgstr "Изменения процессора оплаты QB Merchant Service"
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
-msgstr ""
+msgstr "<p>В последней версии [product] изменились настройки способов оплаты, использующих процессор QB Merchant Service.</p><p>Если хотите использовать эти способы оплаты дальше, сделайте вот что:</p><ul><li>перейдите в Администрирование > Способы оплаты</li><li>щелкните по способу оплаты, который использует процессор QB Merchant Service</li><li>перейдите на вкладку Настроить</li><li>введите правильные App Token, OAuth Consumer Key и OAuth Consumer Secret</li><li>подключитесь к QuickBooks</li></ul>"
 
 msgctxt "Languages::text_money_back_guarantee"
 msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
@@ -16043,23 +16043,23 @@ msgstr "Если вам что-то не понравится в нашем пр
 
 msgctxt "Languages::admin_panel_will_be_blocked"
 msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr ""
+msgstr "Ваша установка CS-Cart не прошла проверку на целостность файлов. Доступ в панель администратора заблокирован на 2 дня. Пожалуйста, свяжитесь с нашей <a href=\"[href]\">техподдержкой</a>."
 
 msgctxt "Languages::text_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr "Лицензия будет отключена. Пожалуйста, проверьте статус вашей лицензии."
+msgstr "Лицензия отключена. Пожалуйста, проверьте статус вашей лицензии."
 
 msgctxt "Languages::text_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
-msgstr ""
+msgstr "Недействительный лицензионный ключ. Пожалуйста, введите действительный."
 
 msgctxt "Languages::text_license_is_disabled_full"
 msgid "The license is disabled. Please check your license status or select a different store mode."
-msgstr ""
+msgstr "Лицензия отключена. Пожалуйста, проверьте статус лицензии или выберите другой режим работы магазина."
 
 msgctxt "Languages::text_license_is_invalid_full"
 msgid "Invalid license number. Please enter a valid license number or select a different store mode."
-msgstr ""
+msgstr "Недействительный лицензионный ключ. Пожалуйста, введите действительный или выберите другой режим работы магазина."
 
 msgctxt "Languages::shipping_tips"
 msgid " "
@@ -16067,9 +16067,9 @@ msgstr ""
 
 msgctxt "Languages::error_directory_not_writable"
 msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
-msgstr ""
+msgstr "Запись в директорию \"[dir]\" запрещена. Пожалуйста, проверьте права доступа к этой директории."
 
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
-msgstr ""
+msgstr "Невозможно удалить эти файлы: <b>[files]</b>. Пожалуйста, проверьте права доступа."
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ro\n"
 "X-Crowdin-File: /addons/ebay.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-08 05:54-0400\n"
+"PO-Revision-Date: 2016-05-15 15:53-0400\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -230,43 +230,43 @@ msgstr "Alege regiunea licitației eBay pentru care site-ul tău va funcționa"
 
 msgctxt "Languages::ttc_use_as_default"
 msgid "Use this template for products with no template defined"
-msgstr ""
+msgstr "Utilizaţi acest şablon pentru produsele cu nici un şablon definit"
 
 msgctxt "Languages::ttc_ebay_root_category"
 msgid "The product root category at eBay"
-msgstr ""
+msgstr "Categoria de produse rădăcină la eBay"
 
 msgctxt "Languages::ttc_ebay_root_sec_category"
 msgid "The additional product root category at eBay"
-msgstr ""
+msgstr "Categoria de rădăcină de produs suplimentar la ebay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at eBay"
-msgstr ""
+msgstr "Subcategoria de produs suplimentar la ebay"
 
 msgctxt "Languages::ttc_shipping_type"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr ""
+msgstr "Alegeţi dacă utilizaţi tipul de transport calculate sau plat. Calculează - transportul va fi calculat în funcţie de adresa postala a clienţiilor, greutatea pachetului, şi tipul de servicii de curierat oferi; Plat - rata de transport vor fi stabilite"
 
 msgctxt "Languages::ttc_domestic_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr ""
+msgstr "Alege serviciul de livrare care va fi folosit pentru livrarea de produse în regiunea interne"
 
 msgctxt "Languages::ttc_international_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr ""
+msgstr "Alege serviciul de livrare care va fi folosit pentru livrarea de produse la nivel mondial"
 
 msgctxt "Languages::ttc_dispatch_days"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr ""
+msgstr "Perioada de livrare a unui produs catre client (în zile)"
 
 msgctxt "Languages::ttc_ebay_payment_methods"
 msgid "Payment method(s), available for a template"
-msgstr ""
+msgstr "Metoda(ele) de plată, disponibile pentru un şablon"
 
 msgctxt "Languages::ttc_paypal_email"
 msgid "Define login of the PayPal account"
-msgstr ""
+msgstr "Setari login-contul PayPal"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
@@ -274,19 +274,19 @@ msgstr "Setari login-contul PayPal"
 
 msgctxt "Languages::ttc_free_shipping"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr ""
+msgstr "Alege, dacă doriţi transport gratuit aplicat produselor într-un şablon"
 
 msgctxt "Languages::ttc_shipping_cost"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Pret transport fix pentru un singur articol, în cazul în care tipul de expediere este plat. Serviciile de transport şi manipulare setate la eBay( in contul de eBay)."
 
 msgctxt "Languages::ttc_shipping_cost_additional"
 msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Pret pentru fiecare element suplimentare de transport într-o comandă (fiecare element suplimentare setat din eBay)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Additional shipping fee"
-msgstr ""
+msgstr "Taxa de transport suplimentar"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
@@ -314,11 +314,11 @@ msgstr "eBay Descriere descriere a produsului pentru a fi utilizate la eBay"
 
 msgctxt "Languages::override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Redefinire a nume produs si descriere pe eBay"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
-msgstr ""
+msgstr "Alege, dacă doriţi numele şi descrierea produsului original va fi înlocuit cu acesta, specificate în titlul de produs eBay şi câmpurile descriere produs eBay"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
@@ -326,7 +326,7 @@ msgstr "Politica de returnare"
 
 msgctxt "Languages::ttc_return_policy"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr ""
+msgstr "Alege dacă se întoarce (retururi!) sunt permise sau nu pentru produse grupate sub acest şablon"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -342,7 +342,7 @@ msgstr "După primirea articolului, cumpărătorul dumneavoastră ar trebui să 
 
 msgctxt "Languages::ttc_contact_time"
 msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
-msgstr ""
+msgstr "Alegeţi perioada în care un cumpărător trebuie să contacteze pentru a confirma că el/ea a primit produsul"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
@@ -350,7 +350,7 @@ msgstr "Restituirea se va acorda ca"
 
 msgctxt "Languages::ttc_refund_method"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr ""
+msgstr "Alegeţi acţiunea care va înlocui întoarcerea, dacă nu este permis"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -370,7 +370,7 @@ msgstr "Livrare retur vor fi plătite de"
 
 msgctxt "Languages::ttc_cost_paid_by"
 msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
-msgstr ""
+msgstr "Alege, cine va plăti pentru transportul de retur cumpărare - vânzătorul sau cumpărătorul"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -386,7 +386,7 @@ msgstr "Descriere politică"
 
 msgctxt "Languages::ttc_return_policy_descr"
 msgid "Write the detailed description of your return policy here"
-msgstr ""
+msgstr "Scrie descrierea detaliată a politicii de returnare aici"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -414,7 +414,7 @@ msgstr "Revizuit după ultimul export"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr ""
+msgstr "Exportul de imagini de \"[product]\" produs eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"

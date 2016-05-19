@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: hu\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-29 07:55-0400\n"
+"PO-Revision-Date: 2016-05-14 09:53-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4774,7 +4774,7 @@ msgstr "IP cím"
 
 msgctxt "Languages::manager"
 msgid "Manager"
-msgstr ""
+msgstr "Menedzser"
 
 msgctxt "Languages::is_back_in_stock"
 msgid "is back in stock!"
@@ -6778,7 +6778,7 @@ msgstr "Kérjük várjon"
 
 msgctxt "Languages::please_enter_license_here"
 msgid "Enter your license number here"
-msgstr ""
+msgstr "Írja be licenszkódját ide"
 
 msgctxt "Languages::please_select_one"
 msgid "Please, select one"
@@ -8034,7 +8034,7 @@ msgstr "A termékek száma"
 
 msgctxt "Languages::reports_parameter_15"
 msgid "Managers"
-msgstr ""
+msgstr "Menedzserek"
 
 msgctxt "Languages::reports_parameter_2"
 msgid "The number of orders"
@@ -10506,7 +10506,7 @@ msgstr "A <b>[mime]</b> MIME típusú fájlok létrehozása/frissítése/átneve
 
 msgctxt "Languages::text_forbidden_functionality"
 msgid "<p>To use this feature, you need a [product] license.</p>"
-msgstr ""
+msgstr "<p>Ezen funkció használatához [product] licenszre van szüksége.</p>"
 
 msgctxt "Languages::upgrade_license"
 msgid "Upgrade license"
@@ -12034,7 +12034,7 @@ msgstr ""
 
 msgctxt "Languages::trial_expired"
 msgid "Your [product] trial period has expired"
-msgstr ""
+msgstr "A [product] próbaidőszaka lejárt"
 
 msgctxt "Languages::text_input_license_code"
 msgid "Please enter your license number to be able to manage your store:"
@@ -12046,7 +12046,7 @@ msgstr ""
 
 msgctxt "Languages::buy_license"
 msgid "Purchase a license"
-msgstr ""
+msgstr "Várásoljon licenszet"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -15987,19 +15987,19 @@ msgstr "Ez a kinézet nem támogatja a vizuális szerkesztőt"
 
 msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
-msgstr ""
+msgstr "Szállítási státuszok"
 
 msgctxt "Languages::copy"
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
-msgstr ""
+msgstr "A bővítmény eltávolítása közben SQL hiba lépett fel."
 
 msgctxt "Languages::payments.qbms.quickbooks_connection"
 msgid "QuickBooks Connection"
-msgstr ""
+msgstr "QuickBooks csatlakozás"
 
 msgctxt "Languages::payments.qbms.configuration_required"
 msgid "<p>Fill in the fields below and save the changes:<br>- App Token<br>- OAuth Consumer Key<br> - OAuth Consumer Secret</p><p>Click \"Connect to QuickBooks\" button that will appear instead of this message to finish payment configuration.</p>"
@@ -16007,31 +16007,31 @@ msgstr ""
 
 msgctxt "Languages::payments.qbms.app_token"
 msgid "App Token"
-msgstr ""
+msgstr "Alkalmazás hozzáférési kulcs (App Token)"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_key"
 msgid "OAuth Consumer Key"
-msgstr ""
+msgstr "OAuth Consumer Kulcs"
 
 msgctxt "Languages::payments.qbms.oauth_consumer_secret"
 msgid "OAuth Consumer Secret"
-msgstr ""
+msgstr "OAuth Consumer Titkos kulcs"
 
 msgctxt "Languages::payments.qbms.token_expires"
 msgid "The token expires on <b>[date]</b> at <b>[time]</b>."
-msgstr ""
+msgstr "A hozzáférési kulcs (token) <b>[date]</b> <b>[time]</b> időpontban lejár."
 
 msgctxt "Languages::payments.qbms.token_expired"
 msgid "The token has expired."
-msgstr ""
+msgstr "A hozzáférési kulcs (token) lejárt."
 
 msgctxt "Languages::payments.qbms.renew_token"
 msgid "Press \"Connect to QuickBooks\" to renew the token."
-msgstr ""
+msgstr "Nyomja meg a \"Csatlakozás QuickBookshoz\" gombot, hogy megújítsa a hozzáférési kulcsot (tokent)."
 
 msgctxt "Languages::payments.qbms.upgrade_notification_title"
 msgid "QB Merchant Service payment processor changes"
-msgstr ""
+msgstr "QB Merchant Service (QBMS) fizetési szolgáltatás változásai"
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
@@ -16043,23 +16043,23 @@ msgstr ""
 
 msgctxt "Languages::admin_panel_will_be_blocked"
 msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr ""
+msgstr "A telepítési integritás meghibásodott. Az áruház adminisztrációs felülete 2 napon belül elérhetetlen lesz. Kérjük vegye fel a kapcsolatot a <a href=\"[href]\">terméktámogatással</a>"
 
 msgctxt "Languages::text_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr ""
+msgstr "A licensz letiltásra került. Kérjük ellenőrizze a licensz státuszát."
 
 msgctxt "Languages::text_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
-msgstr ""
+msgstr "Helytelen licenszkód. Kérjük helyes licenszkódot adjon meg."
 
 msgctxt "Languages::text_license_is_disabled_full"
 msgid "The license is disabled. Please check your license status or select a different store mode."
-msgstr ""
+msgstr "A licensz letiltásra került. Kérjük ellenőrizze a licensz státuszát, vagy válasszon másik áruházi módot."
 
 msgctxt "Languages::text_license_is_invalid_full"
 msgid "Invalid license number. Please enter a valid license number or select a different store mode."
-msgstr ""
+msgstr "Helytelen licenszkód. Kérjük helyes licenszkódot adjon meg, vagy válasszon más áruházi módot."
 
 msgctxt "Languages::shipping_tips"
 msgid " "
@@ -16067,9 +16067,9 @@ msgstr ""
 
 msgctxt "Languages::error_directory_not_writable"
 msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
-msgstr ""
+msgstr "\"[dir]\" mappa nem írható. Kérjük ellenőrizze a jogosultságokat erre a mappára."
 
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
-msgstr ""
+msgstr "Nem lehet törölni az alábbi fájlokat: <b>[files]</b>. Kérjük ellenőrizze a jogosultságokat."
 
