@@ -8744,26 +8744,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Shipping service"
 
-msgctxt "Languages::ship_aup_delivery_confirmation_cost"
-msgid "Delivery Confirmation cost"
-msgstr "Delivery Confirmation cost"
-
-msgctxt "Languages::ship_aup_delivery_confirmation_international_cost"
-msgid "Delivery Confirmation International cost"
-msgstr "Delivery Confirmation International cost"
-
-msgctxt "Languages::ship_aup_rpi_fee"
-msgid "Registered Post International Parcels fee"
-msgstr "Registered Post International Parcels fee"
-
-msgctxt "Languages::ship_aup_use_delivery_confirmation"
-msgid "Use Delivery Confirmation"
-msgstr "Use Delivery Confirmation"
-
-msgctxt "Languages::ship_can_merchant_id"
-msgid "Merchant ID"
-msgstr "Merchant ID"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "Package height (inches)"
@@ -14929,7 +14909,7 @@ msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
 msgstr "(GMT-01:00) Azores"
 
-msgctxt "SettingsVariants::timezone::Africa/Reykjavik"
+msgctxt "SettingsVariants::timezone::Atlantic/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
 msgstr "(GMT) Casablanca, Monrovia"
 
@@ -15025,11 +15005,11 @@ msgctxt "SettingsVariants::timezone::Asia/Tashkent"
 msgid "(GMT+05:00) Islamabad, Karachi, Tashkent"
 msgstr "(GMT+05:00) Islamabad, Karachi, Tashkent"
 
-msgctxt "SettingsVariants::timezone::Asia/Calcutta"
+msgctxt "SettingsVariants::timezone::Asia/Kolkata"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
 msgstr "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
 
-msgctxt "SettingsVariants::timezone::Asia/Katmandu"
+msgctxt "SettingsVariants::timezone::Asia/Kathmandu"
 msgid "(GMT+05:45) Kathmandu"
 msgstr "(GMT+05:45) Kathmandu"
 
@@ -16064,3 +16044,103 @@ msgstr "Directory \"[dir]\" is not writable. Please check permissions for this d
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr "Cannot delete files: <b>[files]</b>. Please check the permissions."
+
+msgctxt "Languages::shippings.can.business_account_information"
+msgid "Business account information"
+msgstr "Business account information"
+
+msgctxt "Languages::shippings.can.customer_number"
+msgid "Customer number"
+msgstr "Customer number"
+
+msgctxt "Languages::ttc_shippings.can.customer_number"
+msgid "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
+msgstr "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
+
+msgctxt "Languages::shippings.can.contract_id"
+msgid "Contract ID"
+msgstr "Contract ID"
+
+msgctxt "Languages::ttc_shippings.can.contract_id"
+msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
+msgstr "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
+
+msgctxt "Languages::shippings.can.api_keys"
+msgid "API keys"
+msgstr "API keys"
+
+msgctxt "Languages::shippings.can.username"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "Languages::shippings.can.password"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "Languages::shippings.can.options"
+msgid "Delivery options"
+msgstr "Delivery options"
+
+msgctxt "Languages::shippings.can.option_so"
+msgid "Signature"
+msgstr "Signature"
+
+msgctxt "Languages::shippings.can.option_cov"
+msgid "Coverage"
+msgstr "Coverage"
+
+msgctxt "Languages::ttc_shippings.can.option_cov"
+msgid "Requires amount"
+msgstr "Requires amount"
+
+msgctxt "Languages::shippings.can.option_cov_amount"
+msgid "Coverage amount"
+msgstr "Coverage amount"
+
+msgctxt "Languages::shippings.can.option_cod"
+msgid "Collect on Delivery"
+msgstr "Collect on Delivery"
+
+msgctxt "Languages::shippings.can.option_pa18"
+msgid "Proof of Age Required - 18"
+msgstr "Proof of Age Required - 18"
+
+msgctxt "Languages::shippings.can.option_pa19"
+msgid "Proof of Age Required - 19"
+msgstr "Proof of Age Required - 19"
+
+msgctxt "Languages::shippings.can.option_hfp"
+msgid "Card for pickup"
+msgstr "Card for pickup"
+
+msgctxt "Languages::shippings.can.option_dns"
+msgid "Do not safe drop"
+msgstr "Do not safe drop"
+
+msgctxt "Languages::shippings.can.option_lad"
+msgid "Leave at door - do not card"
+msgstr "Leave at door - do not card"
+
+msgctxt "Languages::canada_post_upgrade_notification_title"
+msgid "Canada Post realtime shipping rate calculation changes"
+msgstr "Canada Post realtime shipping rate calculation changes"
+
+msgctxt "Languages::canada_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
+msgstr "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
+
+msgctxt "Languages::shippings.aup.pac_api_key"
+msgid "PAC API key"
+msgstr "PAC API key"
+
+msgctxt "Languages::shippings.aup.currency_not_configured"
+msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
+msgstr "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
+
+msgctxt "Languages::australia_post_upgrade_notification_title"
+msgid "Australia Post realtime shipping rate calculation changes"
+msgstr "Australia Post realtime shipping rate calculation changes"
+
+msgctxt "Languages::australia_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
+msgstr "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"

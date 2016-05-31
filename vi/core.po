@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-06 18:53-0400\n"
+"PO-Revision-Date: 2016-05-31 07:46-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4774,7 +4774,7 @@ msgstr "Địa chỉ IP"
 
 msgctxt "Languages::manager"
 msgid "Manager"
-msgstr ""
+msgstr "Quản lý"
 
 msgctxt "Languages::is_back_in_stock"
 msgid "is back in stock!"
@@ -8034,7 +8034,7 @@ msgstr "Số lượng sản phẩm"
 
 msgctxt "Languages::reports_parameter_15"
 msgid "Managers"
-msgstr ""
+msgstr "Quản lý"
 
 msgctxt "Languages::reports_parameter_2"
 msgid "The number of orders"
@@ -8751,26 +8751,6 @@ msgstr "Địa chỉ vận chuyển và thanh toán là giống nhau?"
 msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "Dịch vụ vận chuyển"
-
-msgctxt "Languages::ship_aup_delivery_confirmation_cost"
-msgid "Delivery Confirmation cost"
-msgstr "Chi phí xác nhận giao hàng"
-
-msgctxt "Languages::ship_aup_delivery_confirmation_international_cost"
-msgid "Delivery Confirmation International cost"
-msgstr "Chi phí giao hàng quốc tế xác nhận"
-
-msgctxt "Languages::ship_aup_rpi_fee"
-msgid "Registered Post International Parcels fee"
-msgstr "Lệ phí đăng ký bưu kiện quốc tế"
-
-msgctxt "Languages::ship_aup_use_delivery_confirmation"
-msgid "Use Delivery Confirmation"
-msgstr "Sử dụng xác nhận giao hàng"
-
-msgctxt "Languages::ship_can_merchant_id"
-msgid "Merchant ID"
-msgstr "ID thương gia"
 
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
@@ -12030,23 +12010,23 @@ msgstr "Không thể kích hoạt chế độ dùng thử"
 
 msgctxt "Languages::trial_notice"
 msgid "Your store is in the Trial mode.<br /><br />When the 30-day trial period expires, you'll have to enter a valid license number to be able to manage your store.<br /><br />To dismiss this message permanently, and to access to the Administration panel after the trial period is over, purchase a license and <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\">activate the Full mode</a>."
-msgstr ""
+msgstr "Cửa hàng của bạn đang trong chế độ Dùng Thử. <br /> <br /> Khi hết thời gian dùng thử 30 ngày, chế độ miễn phí sẽ được kích hoạt tự động. <br /> <br /> để giữ toàn quyền truy cập vào tất cả các tính năng sau khi thời gian dùng thử và vĩnh viễn bỏ qua thông báo này, hãy mua một giấy phép và <a class=\"cm-dialog-opener cm-dialog-auto-size\" data-ca-target-id=\"store_mode_dialog\"> kích hoạt chế độ đầy đủ</a>."
 
 msgctxt "Languages::trial_expired"
 msgid "Your [product] trial period has expired"
-msgstr ""
+msgstr "[product] giai đoạn dùng thử của bạn đã hết hạn"
 
 msgctxt "Languages::text_input_license_code"
 msgid "Please enter your license number to be able to manage your store:"
-msgstr ""
+msgstr "Vui lòng nhập số giấy phép của bạn để có thể quản lý các cửa hàng của bạn:"
 
 msgctxt "Languages::text_buy_new_license"
 msgid "If you don't have a license number yet, you can purchase it at our official website."
-msgstr ""
+msgstr "Nếu bạn chưa có một số giấy phép, bạn có thể mua nó tại website chính thức của chúng tôi."
 
 msgctxt "Languages::buy_license"
 msgid "Purchase a license"
-msgstr ""
+msgstr "Mua một giấy phép"
 
 msgctxt "Languages::true"
 msgid "True"
@@ -12446,7 +12426,7 @@ msgstr "Xác nhận vấn đề"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr ""
+msgstr "Validator \"[validator_name]\" tình trạng trả lại thất bại"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -14936,9 +14916,9 @@ msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
 msgstr "(GMT-01:00) Azores"
 
-msgctxt "SettingsVariants::timezone::Africa/Reykjavik"
+msgctxt "SettingsVariants::timezone::Atlantic/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
-msgstr "(GMT) Casablanca, Monrovia"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
@@ -15032,13 +15012,13 @@ msgctxt "SettingsVariants::timezone::Asia/Tashkent"
 msgid "(GMT+05:00) Islamabad, Karachi, Tashkent"
 msgstr "(GMT + 05:00) Islamabad, Karachi, Tashkent"
 
-msgctxt "SettingsVariants::timezone::Asia/Calcutta"
+msgctxt "SettingsVariants::timezone::Asia/Kolkata"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
-msgstr "(GMT + 05:30) Chennai, Kolkata, Mumbai, New Delhi"
+msgstr ""
 
-msgctxt "SettingsVariants::timezone::Asia/Katmandu"
+msgctxt "SettingsVariants::timezone::Asia/Kathmandu"
 msgid "(GMT+05:45) Kathmandu"
-msgstr "(GMT + 05:45) Kathmandu"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Asia/Novosibirsk"
 msgid "(GMT+06:00) Almaty, Novosibirsk"
@@ -15883,7 +15863,7 @@ msgstr "Bên thứ ba"
 
 msgctxt "Languages::subcategories_tree_cat"
 msgid "Subcategories tree"
-msgstr ""
+msgstr "Cây danh mục con"
 
 msgctxt "Languages::settings_overwrite_title"
 msgid "The theme overwrites store settings"
@@ -15971,31 +15951,31 @@ msgstr "Kiểm tra"
 
 msgctxt "Languages::error_filter_by_feature_exists"
 msgid "Filter by feature \"[name]\" already exists."
-msgstr ""
+msgstr "Lọc bởi tính năng \"[name]\" đã tồn tại."
 
 msgctxt "Languages::error_filter_by_product_field_exists"
 msgid "Filter by product field \"[name]\" already exists."
-msgstr ""
+msgstr "Lọc bởi mục sản phẩm \"[name]\" đã tồn tại."
 
 msgctxt "Languages::shipping_address_changed"
 msgid "Shipping address has been changed"
-msgstr ""
+msgstr "Địa chỉ vận chuyển đã được thay đổi"
 
 msgctxt "Languages::theme_editor_not_supported"
 msgid "This theme doesn't support theme editor"
-msgstr ""
+msgstr "Giao diện này không hỗ trợ trình biên tập chủ đề"
 
 msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
-msgstr ""
+msgstr "Tình trạng lô hàng"
 
 msgctxt "Languages::copy"
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 msgctxt "Languages::addon_uninstall_sql_error"
 msgid "An error in an SQL query occurred during the add-on uninstallation."
-msgstr ""
+msgstr "Trong một truy vấn SQL có lỗi trong quá trình gỡ bỏ add-on."
 
 msgctxt "Languages::payments.qbms.quickbooks_connection"
 msgid "QuickBooks Connection"
@@ -16039,27 +16019,27 @@ msgstr ""
 
 msgctxt "Languages::text_money_back_guarantee"
 msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
-msgstr ""
+msgstr "Chúng bảo đảm hoàn tiền trong 30 ngày. Nếu bạn không thích sản phẩm của chúng tôi, chúng tôi sẽ trả lại bạn tiền, không cần lý do."
 
 msgctxt "Languages::admin_panel_will_be_blocked"
 msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
-msgstr ""
+msgstr "Kiểm tra tính toàn vẹn cài đặt không thành công. Truy cập vào bảng điều khiển quản lý sẽ bị chặn trong vòng 2 ngày. Xin vui lòng liên hệ với <a href=\"[href]\">đội ngũ hỗ trợ</a>"
 
 msgctxt "Languages::text_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr ""
+msgstr "Giấy phép bị vô hiệu hóa. Vui lòng kiểm tra tình trạng giấy phép của bạn."
 
 msgctxt "Languages::text_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
-msgstr ""
+msgstr "Số giấy phép không hợp lệ. Vui lòng nhập một số khác."
 
 msgctxt "Languages::text_license_is_disabled_full"
 msgid "The license is disabled. Please check your license status or select a different store mode."
-msgstr ""
+msgstr "Giấy phép bị vô hiệu hóa. Xin vui lòng kiểm tra tình trạng giấy phép của bạn hoặc chọn một chế độ khác cho cửa hàng."
 
 msgctxt "Languages::text_license_is_invalid_full"
 msgid "Invalid license number. Please enter a valid license number or select a different store mode."
-msgstr ""
+msgstr "Số giấy phép không hợp lệ. Xin vui lòng nhập một số giấy phép khác hoặc chọn một chế độ khác cho cửa hàng."
 
 msgctxt "Languages::shipping_tips"
 msgid " "
@@ -16067,9 +16047,109 @@ msgstr ""
 
 msgctxt "Languages::error_directory_not_writable"
 msgid "Directory \"[dir]\" is not writable. Please check permissions for this directory of your installation."
-msgstr ""
+msgstr "Thư mục \"[dir]\" không thể ghi được. Vui lòng kiểm tra quyền cho thư mục này trong cài đặt của bạn."
 
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
+msgstr "Không thể xóa tập tin: <b>[files]</b>. Xin vui lòng kiểm tra quyền truy cập."
+
+msgctxt "Languages::shippings.can.business_account_information"
+msgid "Business account information"
+msgstr ""
+
+msgctxt "Languages::shippings.can.customer_number"
+msgid "Customer number"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.customer_number"
+msgid "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
+msgstr ""
+
+msgctxt "Languages::shippings.can.contract_id"
+msgid "Contract ID"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.contract_id"
+msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
+msgstr ""
+
+msgctxt "Languages::shippings.can.api_keys"
+msgid "API keys"
+msgstr ""
+
+msgctxt "Languages::shippings.can.username"
+msgid "Username"
+msgstr ""
+
+msgctxt "Languages::shippings.can.password"
+msgid "Password"
+msgstr ""
+
+msgctxt "Languages::shippings.can.options"
+msgid "Delivery options"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_so"
+msgid "Signature"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cov"
+msgid "Coverage"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.option_cov"
+msgid "Requires amount"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cov_amount"
+msgid "Coverage amount"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cod"
+msgid "Collect on Delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_pa18"
+msgid "Proof of Age Required - 18"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_pa19"
+msgid "Proof of Age Required - 19"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_hfp"
+msgid "Card for pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_dns"
+msgid "Do not safe drop"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_lad"
+msgid "Leave at door - do not card"
+msgstr ""
+
+msgctxt "Languages::canada_post_upgrade_notification_title"
+msgid "Canada Post realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::canada_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
+msgstr ""
+
+msgctxt "Languages::shippings.aup.pac_api_key"
+msgid "PAC API key"
+msgstr ""
+
+msgctxt "Languages::shippings.aup.currency_not_configured"
+msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
+msgstr ""
+
+msgctxt "Languages::australia_post_upgrade_notification_title"
+msgid "Australia Post realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::australia_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
 msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-File: /addons/paypal.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-13 03:53-0400\n"
+"PO-Revision-Date: 2016-05-30 17:59-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -66,7 +66,7 @@ msgstr "Utiliser un format de graphique valide, par exemple .gif, .jpg ou .png. 
 
 msgctxt "Languages::ipn_errors"
 msgid "IPN errors"
-msgstr ""
+msgstr "Erreurs de l’IPN"
 
 msgctxt "Languages::pp_product_count_is_incorrect"
 msgid "Number of paid items is different than the number of items in the order"
@@ -94,15 +94,15 @@ msgstr ""
 
 msgctxt "Languages::ttc_paypal_use_in_context_checkout"
 msgid "In-Context Checkout will not be used when the store is running in Widget mode"
-msgstr ""
+msgstr "Dans le contexte de caisse ne sera pas utilisé lorsque le magasin est en cours d’exécution en mode Widget"
 
 msgctxt "Languages::paypal_express_notice"
 msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
-msgstr ""
+msgstr "Un marchand ID est requis pour utiliser la <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'> fonctionnalité de vérification dans le contexte</a> au sein de cette intégration. Vous pouvez chercher votre marchand ID en vous connectant sur <a href='https://www.paypal.com/' target='_blank'> https://www.paypal.com/</a>. Cliquez sur l’icône de profil du côté supérieur droit de la page, puis sélectionnez <b>le profil et les paramètres</b> dans le menu <b>Profil de l’entreprise</b>. (Si vous ne voyez pas l’icône de profil en haut de la page, cliquez sur le <b>Profil</b> qui s’affiche dans le menu principal lors de l' <b>onglet mon compte</b>). Cliquez sur <b>mes informations d’entreprise</b> sur la gauche et l' <b>ID de compte marchand</b> sont affiché dans la liste des éléments de profil sur la droite."
 
 msgctxt "Languages::paypal_ipn_note"
 msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
-msgstr ""
+msgstr "Notification instantanée de paiement (IPN) est un service qui avertit automatiquement les marchands des événements liés aux transactions de PayPal. <br>Lorsqu’un client passe une commande et choisit PayPal comme mode de paiement, l’ordre obtient l’état <b>ouvert</b>. <br>PayPal puis envoie des messages de Notification instantanée de paiement qui incluent le statut de la transaction. Ce statut change le statut de la commande dans votre magasin selon le plan de conversion du statut."
 
 msgctxt "Languages::paypal_ipn_transaction_status"
 msgid "Transaction status"

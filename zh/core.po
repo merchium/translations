@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-01 21:53-0400\n"
+"PO-Revision-Date: 2016-05-31 07:42-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -8752,26 +8752,6 @@ msgctxt "Languages::shipping_service"
 msgid "Shipping service"
 msgstr "配送服务"
 
-msgctxt "Languages::ship_aup_delivery_confirmation_cost"
-msgid "Delivery Confirmation cost"
-msgstr "确认配送成本"
-
-msgctxt "Languages::ship_aup_delivery_confirmation_international_cost"
-msgid "Delivery Confirmation International cost"
-msgstr "确认国际配送成本"
-
-msgctxt "Languages::ship_aup_rpi_fee"
-msgid "Registered Post International Parcels fee"
-msgstr "挂号邮件国际包裹费"
-
-msgctxt "Languages::ship_aup_use_delivery_confirmation"
-msgid "Use Delivery Confirmation"
-msgstr "使用配送确认"
-
-msgctxt "Languages::ship_can_merchant_id"
-msgid "Merchant ID"
-msgstr "商店名称"
-
 msgctxt "Languages::ship_dhl_height"
 msgid "Package height (inches)"
 msgstr "包裹高度 (英寸)"
@@ -14936,7 +14916,7 @@ msgctxt "SettingsVariants::timezone::Atlantic/Azores"
 msgid "(GMT-01:00) Azores"
 msgstr ""
 
-msgctxt "SettingsVariants::timezone::Africa/Reykjavik"
+msgctxt "SettingsVariants::timezone::Atlantic/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
 msgstr ""
 
@@ -15032,11 +15012,11 @@ msgctxt "SettingsVariants::timezone::Asia/Tashkent"
 msgid "(GMT+05:00) Islamabad, Karachi, Tashkent"
 msgstr ""
 
-msgctxt "SettingsVariants::timezone::Asia/Calcutta"
+msgctxt "SettingsVariants::timezone::Asia/Kolkata"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
 msgstr ""
 
-msgctxt "SettingsVariants::timezone::Asia/Katmandu"
+msgctxt "SettingsVariants::timezone::Asia/Kathmandu"
 msgid "(GMT+05:45) Kathmandu"
 msgstr ""
 
@@ -16071,5 +16051,105 @@ msgstr ""
 
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
+msgstr ""
+
+msgctxt "Languages::shippings.can.business_account_information"
+msgid "Business account information"
+msgstr ""
+
+msgctxt "Languages::shippings.can.customer_number"
+msgid "Customer number"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.customer_number"
+msgid "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
+msgstr ""
+
+msgctxt "Languages::shippings.can.contract_id"
+msgid "Contract ID"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.contract_id"
+msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
+msgstr ""
+
+msgctxt "Languages::shippings.can.api_keys"
+msgid "API keys"
+msgstr ""
+
+msgctxt "Languages::shippings.can.username"
+msgid "Username"
+msgstr ""
+
+msgctxt "Languages::shippings.can.password"
+msgid "Password"
+msgstr ""
+
+msgctxt "Languages::shippings.can.options"
+msgid "Delivery options"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_so"
+msgid "Signature"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cov"
+msgid "Coverage"
+msgstr ""
+
+msgctxt "Languages::ttc_shippings.can.option_cov"
+msgid "Requires amount"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cov_amount"
+msgid "Coverage amount"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_cod"
+msgid "Collect on Delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_pa18"
+msgid "Proof of Age Required - 18"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_pa19"
+msgid "Proof of Age Required - 19"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_hfp"
+msgid "Card for pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_dns"
+msgid "Do not safe drop"
+msgstr ""
+
+msgctxt "Languages::shippings.can.option_lad"
+msgid "Leave at door - do not card"
+msgstr ""
+
+msgctxt "Languages::canada_post_upgrade_notification_title"
+msgid "Canada Post realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::canada_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
+msgstr ""
+
+msgctxt "Languages::shippings.aup.pac_api_key"
+msgid "PAC API key"
+msgstr ""
+
+msgctxt "Languages::shippings.aup.currency_not_configured"
+msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
+msgstr ""
+
+msgctxt "Languages::australia_post_upgrade_notification_title"
+msgid "Australia Post realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::australia_post_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
 msgstr ""
 
