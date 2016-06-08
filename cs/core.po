@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-31 07:42-0400\n"
+"PO-Revision-Date: 2016-06-07 12:59-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -14919,7 +14919,7 @@ msgstr "(GMT-01:00) Azory"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
-msgstr ""
+msgstr "(GMT) Casablanca, Monrovia"
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
@@ -15015,11 +15015,11 @@ msgstr "(GMT + 05:00) Islámábád, Karáčí, Taškent"
 
 msgctxt "SettingsVariants::timezone::Asia/Kolkata"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
-msgstr ""
+msgstr "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
 
 msgctxt "SettingsVariants::timezone::Asia/Kathmandu"
 msgid "(GMT+05:45) Kathmandu"
-msgstr ""
+msgstr "(GMT + 05:45) Káthmándú"
 
 msgctxt "SettingsVariants::timezone::Asia/Novosibirsk"
 msgid "(GMT+06:00) Almaty, Novosibirsk"
@@ -16056,71 +16056,71 @@ msgstr "Nelze smazat soubory: <b>[files]</b>. Prosím, zkontrolujte oprávnění
 
 msgctxt "Languages::shippings.can.business_account_information"
 msgid "Business account information"
-msgstr ""
+msgstr "Informace o Firemním účtu"
 
 msgctxt "Languages::shippings.can.customer_number"
 msgid "Customer number"
-msgstr ""
+msgstr "Zákaznické číslo"
 
 msgctxt "Languages::ttc_shippings.can.customer_number"
 msgid "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
-msgstr ""
+msgstr "Je zapotřebí zákaznické číslo pro komerční zákazníky a řešení pro členy Small Business dostat slevu, pokud je zásilka poštou jménem zákazníka"
 
 msgctxt "Languages::shippings.can.contract_id"
 msgid "Contract ID"
-msgstr ""
+msgstr "Smlouva ID"
 
 msgctxt "Languages::ttc_shippings.can.contract_id"
-msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
-msgstr ""
+msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general business users"
+msgstr "ID smlouvy je povinna získat zlevněné sazby pro komerční zákazníky, když je zadáno číslo zákazníka. ID smlouvy musí být vynecháno pro řešení pro malé firmy členů nebo obecné obchodní uživatele"
 
 msgctxt "Languages::shippings.can.api_keys"
 msgid "API keys"
-msgstr ""
+msgstr "API klíče"
 
 msgctxt "Languages::shippings.can.username"
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 msgctxt "Languages::shippings.can.password"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 msgctxt "Languages::shippings.can.options"
 msgid "Delivery options"
-msgstr ""
+msgstr "Možnosti doručení"
 
 msgctxt "Languages::shippings.can.option_so"
 msgid "Signature"
-msgstr ""
+msgstr "Podpis"
 
 msgctxt "Languages::shippings.can.option_cov"
 msgid "Coverage"
-msgstr ""
+msgstr "Zpravodajství"
 
 msgctxt "Languages::ttc_shippings.can.option_cov"
 msgid "Requires amount"
-msgstr ""
+msgstr "Požadované množství"
 
 msgctxt "Languages::shippings.can.option_cov_amount"
 msgid "Coverage amount"
-msgstr ""
+msgstr "Výše krytí"
 
 msgctxt "Languages::shippings.can.option_cod"
 msgid "Collect on Delivery"
-msgstr ""
+msgstr "Na dobírku"
 
 msgctxt "Languages::shippings.can.option_pa18"
 msgid "Proof of Age Required - 18"
-msgstr ""
+msgstr "Doklad o věku - povinné - 18"
 
 msgctxt "Languages::shippings.can.option_pa19"
 msgid "Proof of Age Required - 19"
-msgstr ""
+msgstr "Doklad o věku - povinné - 19"
 
 msgctxt "Languages::shippings.can.option_hfp"
 msgid "Card for pickup"
-msgstr ""
+msgstr "Karta pro vyzvednutí"
 
 msgctxt "Languages::shippings.can.option_dns"
 msgid "Do not safe drop"
@@ -16132,25 +16132,25 @@ msgstr ""
 
 msgctxt "Languages::canada_post_upgrade_notification_title"
 msgid "Canada Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Kanadská pošta v reálném čase změní výpočet sazba za dopravu"
 
 msgctxt "Languages::canada_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
-msgstr ""
+msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby pro zásilku v reálném čase, pokud používáte Kanadskou poštu jako Dopravce.</p><p>Chcete-li zobrazit aktuální sazby za dopravu svým klientům, provedete to následujícím způsobem:</p><ul><li>jděte do Administration > Shipping & taxes > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Kanadou poštu jako dopravce pro výpočet ceny za dopravu</li><li>přepněte na kartě Obecné a vstupte řádně do Přepravní služba</li><li>přejděte na kartu Konfigurace a zadějte správný <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API klíč</a></li></ul>"
 
 msgctxt "Languages::shippings.aup.pac_api_key"
 msgid "PAC API key"
-msgstr ""
+msgstr "PAC API klíč"
 
 msgctxt "Languages::shippings.aup.currency_not_configured"
 msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
-msgstr ""
+msgstr "Chcete-li povolit Kanadskou dopravu, musíte mít měnu Kanadský dolar povoleno."
 
 msgctxt "Languages::australia_post_upgrade_notification_title"
 msgid "Australia Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Australská pošta v reálném čase změní výpočet sazba za dopravu"
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
-msgstr ""
+msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby pro zásilku v reálném čase, pokud používáte Australskou poštu jako Dopravce.</p><p>Chcete-li zobrazit aktuální sazby za dopravu svým klientům, provedete to následujícím způsobem:</p><ul><li>jděte do Administration > Shipping & taxes > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Australská pošta jako dopravce pro výpočet ceny za dopravu</li><li>přepněte na kartě Obecné a vstupte řádně do Přepravní služba</li><li>přejděte na kartu Konfigurace a zadejte správný <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API klíč</a></li></ul>"
 

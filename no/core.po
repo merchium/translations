@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: no\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-31 07:44-0400\n"
+"PO-Revision-Date: 2016-06-04 13:59-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -1886,7 +1886,7 @@ msgstr "Tøm"
 
 msgctxt "Languages::clear_cache"
 msgid "Clear cache"
-msgstr "Tøm hurtigbufferen"
+msgstr "Tøm hurtigbuffer/cache"
 
 msgctxt "Languages::generate_cache"
 msgid "Generate cache"
@@ -2722,7 +2722,7 @@ msgstr "Database dataendringer"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Sikkerhetskopier/gjenopprett"
+msgstr "Sikkerhetskopi/gjenopprett"
 
 msgctxt "Languages::database_structure_changes"
 msgid "Database structure changes"
@@ -2766,7 +2766,7 @@ msgstr "DB Backup/Gjenopprett"
 
 msgctxt "Languages::backup_restore"
 msgid "Backup/Restore"
-msgstr "Sikkerhetskopier/gjenopprett"
+msgstr "Sikkerhetskopi/gjenopprett"
 
 msgctxt "Languages::create_backup"
 msgid "Create backup"
@@ -7006,7 +7006,7 @@ msgstr "Opprett ordre"
 
 msgctxt "Languages::privileges.backup_restore"
 msgid "Backup/Restore"
-msgstr "Sikkerhetskopier/gjenopprett"
+msgstr "Sikkerhetskopi/gjenopprett"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
@@ -7318,7 +7318,7 @@ msgstr "Produkter link type"
 
 msgctxt "Languages::products_menu_description"
 msgid "View, add and edit products that are shown to visitors of your store."
-msgstr "Vis, legg til og rediger produkter som vises til besøkende på nettbutikken din."
+msgstr "Vis, legg til og rediger produkter som selges i nettbutikken din."
 
 msgctxt "Languages::products_required"
 msgid "Please add product(s)"
@@ -7506,7 +7506,7 @@ msgstr "Kampanjer"
 
 msgctxt "Languages::promotions_menu_description"
 msgid "Promote goods and offer bonuses basing on customers memberships."
-msgstr "Promoter varer og tilby bonuser til dine kunder."
+msgstr "Promoter varer og tilby bonuser og rabatter til dine kunder."
 
 msgctxt "Languages::promotion_bonus_discount_on_categories"
 msgid "Discount on all products in categories"
@@ -14918,7 +14918,7 @@ msgstr "(GMT-01:00) Azorene"
 
 msgctxt "SettingsVariants::timezone::Atlantic/Reykjavik"
 msgid "(GMT) Casablanca, Monrovia"
-msgstr ""
+msgstr "(GMT) Casablanca, Monrovia"
 
 msgctxt "SettingsVariants::timezone::Europe/London"
 msgid "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
@@ -15014,11 +15014,11 @@ msgstr "(GMT+05:00) Islamabad, Karachi, Tashkent"
 
 msgctxt "SettingsVariants::timezone::Asia/Kolkata"
 msgid "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
-msgstr ""
+msgstr "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
 
 msgctxt "SettingsVariants::timezone::Asia/Kathmandu"
 msgid "(GMT+05:45) Kathmandu"
-msgstr ""
+msgstr "(GMT+05:45) Katmandu"
 
 msgctxt "SettingsVariants::timezone::Asia/Novosibirsk"
 msgid "(GMT+06:00) Almaty, Novosibirsk"
@@ -15486,7 +15486,7 @@ msgstr "Spor mine ordre skjema"
 
 msgctxt "Languages::seo_menu_description"
 msgid "SEO settings of your store."
-msgstr "SEO innstillinger for nettbutikken."
+msgstr "SEO verktøy for nettbutikken."
 
 msgctxt "Languages::seo_robots"
 msgid "robots.txt"
@@ -16055,101 +16055,101 @@ msgstr "Kan ikke slette filene: <b>[files]</b>. Sjekk rettighetene."
 
 msgctxt "Languages::shippings.can.business_account_information"
 msgid "Business account information"
-msgstr ""
+msgstr "Informasjon om forretningskonto"
 
 msgctxt "Languages::shippings.can.customer_number"
 msgid "Customer number"
-msgstr ""
+msgstr "Kundenummer"
 
 msgctxt "Languages::ttc_shippings.can.customer_number"
 msgid "Customer number is required for commercial customers and Solutions for Small Business members to get discounted rates if parcel is mailed on behalf of customer"
-msgstr ""
+msgstr "Kundenummeret kreves for kommersielle kunder for at medlemmer skal kunne å få rabatterte priser hvis pakken er sendt på vegne av kunden"
 
 msgctxt "Languages::shippings.can.contract_id"
 msgid "Contract ID"
-msgstr ""
+msgstr "Kontrakt ID"
 
 msgctxt "Languages::ttc_shippings.can.contract_id"
-msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general businesss users"
-msgstr ""
+msgid "Contract ID is required to obtain discounted rates for commercial customers when the Customer number is specified. Contract ID must be omitted for Solutions for Small Business members or general business users"
+msgstr "Kontrakt-ID er nødvendig for å få rabatt for kommersielle kunder når kundenummeret er angitt. Kontrakt ID må utelates for småbedrifters medlemmer eller generelt for firmabrukere"
 
 msgctxt "Languages::shippings.can.api_keys"
 msgid "API keys"
-msgstr ""
+msgstr "API nøkler"
 
 msgctxt "Languages::shippings.can.username"
 msgid "Username"
-msgstr ""
+msgstr "Brukernavn"
 
 msgctxt "Languages::shippings.can.password"
 msgid "Password"
-msgstr ""
+msgstr "Passord"
 
 msgctxt "Languages::shippings.can.options"
 msgid "Delivery options"
-msgstr ""
+msgstr "Leveringsalternativer"
 
 msgctxt "Languages::shippings.can.option_so"
 msgid "Signature"
-msgstr ""
+msgstr "Signatur"
 
 msgctxt "Languages::shippings.can.option_cov"
 msgid "Coverage"
-msgstr ""
+msgstr "Dekning"
 
 msgctxt "Languages::ttc_shippings.can.option_cov"
 msgid "Requires amount"
-msgstr ""
+msgstr "Nødvendig beløp"
 
 msgctxt "Languages::shippings.can.option_cov_amount"
 msgid "Coverage amount"
-msgstr ""
+msgstr "Dekningsbeløp"
 
 msgctxt "Languages::shippings.can.option_cod"
 msgid "Collect on Delivery"
-msgstr ""
+msgstr "Betal ved levering"
 
 msgctxt "Languages::shippings.can.option_pa18"
 msgid "Proof of Age Required - 18"
-msgstr ""
+msgstr "Aldersbevis nødvendig - 18"
 
 msgctxt "Languages::shippings.can.option_pa19"
 msgid "Proof of Age Required - 19"
-msgstr ""
+msgstr "Aldersbevis nødvendig - 19"
 
 msgctxt "Languages::shippings.can.option_hfp"
 msgid "Card for pickup"
-msgstr ""
+msgstr "Kort for henting"
 
 msgctxt "Languages::shippings.can.option_dns"
 msgid "Do not safe drop"
-msgstr ""
+msgstr "Ikke sikker avlevering"
 
 msgctxt "Languages::shippings.can.option_lad"
 msgid "Leave at door - do not card"
-msgstr ""
+msgstr "Lever på døren - ikke kort"
 
 msgctxt "Languages::canada_post_upgrade_notification_title"
 msgid "Canada Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Canada Post sanntid frakt beregning endring"
 
 msgctxt "Languages::canada_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
-msgstr ""
+msgstr "<p>Den siste versjonen av [product] har ulik innstilling for sanntid fraktpris beregning hvis du bruker Canada Post som leverandør.</p><p>vis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velge fraktmetoden som bruker Canada Post som leverandør fo å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig frakt tjeneste</li><li>bytt til fanen Konfigurer og skriv inn riktig <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API nøkkel</a></li></ul>"
 
 msgctxt "Languages::shippings.aup.pac_api_key"
 msgid "PAC API key"
-msgstr ""
+msgstr "PAC API-nøkkel"
 
 msgctxt "Languages::shippings.aup.currency_not_configured"
 msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
-msgstr ""
+msgstr "For å aktivere Australia Post frakt, må du ha australske dollar aktivert som valuta."
 
 msgctxt "Languages::australia_post_upgrade_notification_title"
 msgid "Australia Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Australia Post sanntid frakt beregning endringer"
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
-msgstr ""
+msgstr "<p>Den siste versjonen av [product] har ulike innstillinger for sanntid fraktprisen beregning hvis du bruker Australia Post som leverandør.</p><p>Hvis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velg fraktmetoden som bruker Australia Post som en leverandør for å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig frakt tjeneste</li><li>bytte til fanen Konfigurer og skriv inn riktig <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API-nøkkel</a></li></ul>"
 
