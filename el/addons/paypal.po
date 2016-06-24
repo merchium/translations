@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: el\n"
 "X-Crowdin-File: /addons/paypal.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-17 08:56-0400\n"
+"PO-Revision-Date: 2016-06-17 11:59-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -107,4 +107,20 @@ msgstr "Το Instant Payment Notification (IPN) είναι μια υπηρεσί
 msgctxt "Languages::paypal_ipn_transaction_status"
 msgid "Transaction status"
 msgstr "Κατάσταση Συναλλαγης"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr ""
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr ""
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr ""
 

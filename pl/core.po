@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-07 10:59-0400\n"
+"PO-Revision-Date: 2016-06-20 02:59-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -16132,7 +16132,7 @@ msgstr ""
 
 msgctxt "Languages::canada_post_upgrade_notification_title"
 msgid "Canada Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Kalkulacja w czasie rzeczywistym kosztów dostawy w Canada Post"
 
 msgctxt "Languages::canada_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
@@ -16144,11 +16144,11 @@ msgstr "Klucz PAC API"
 
 msgctxt "Languages::shippings.aup.currency_not_configured"
 msgid "To activate the Australia Post shipping processor, you must have the Australian Dollar currency enabled."
-msgstr ""
+msgstr "Aby aktywować wysyłki przez Australia Post, musi być włączona waluta Dolar australijski."
 
 msgctxt "Languages::australia_post_upgrade_notification_title"
 msgid "Australia Post realtime shipping rate calculation changes"
-msgstr ""
+msgstr "Kalkulacja w czasie rzeczywistym kosztów dostawy w Australia Post"
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
