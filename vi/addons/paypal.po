@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /addons/paypal.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-17 11:59-0400\n"
+"PO-Revision-Date: 2016-06-30 05:58-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -98,11 +98,11 @@ msgstr "Thanh toán trong bối cảnh này sẽ không được sử dụng khi
 
 msgctxt "Languages::paypal_express_notice"
 msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
-msgstr ""
+msgstr "Một ID thương gia là cần thiết để sử dụng <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'> tính năng thanh toán trong bối cảnh</a> trong hội nhập này. Bạn có thể tìm kiếm thương gia của bạn ID bằng cách đăng nhập vào <a href='https://www.paypal.com/' target='_blank'> https://www.paypal.com/</a>. Nhấp vào biểu tượng cấu hình trên bên phải trên cùng của trang và sau đó chọn <b>tiểu sử và các cài đặt</b> trong trình đơn <b>Cấu hình doanh nghiệp</b>. (Nếu bạn không thấy biểu tượng tiểu sử ở đầu trang, bấm vào <b>hồ sơ</b>, xuất hiện trong trình đơn hàng đầu khi chọn <b>tab Tài khoản của tôi</b>.) Nhấp vào <b>thông tin doanh nghiệp của tôi</b> ở bên trái, và các <b>thương gia tài khoản ID</b> sẽ được hiển thị trong danh sách các mục cấu hình trên bên phải."
 
 msgctxt "Languages::paypal_ipn_note"
 msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
-msgstr ""
+msgstr "Thông báo thanh toán ngay lập tức (IPN) là một dịch vụ tự động thông báo cho các thương gia của các sự kiện liên quan đến giao dịch PayPal. <br>Khi một khách hàng những nơi một đơn đặt hàng và chọn PayPal như là phương thức thanh toán, các đơn đặt hàng được trạng thái <b>mở</b>. <br>PayPal rồi gửi tin nhắn tức thì thanh toán thông báo bao gồm trạng thái giao dịch. Tình trạng này sẽ thay đổi tình trạng đơn hàng trong cửa hàng của bạn theo bản đồ chuyển đổi trạng thái."
 
 msgctxt "Languages::paypal_ipn_transaction_status"
 msgid "Transaction status"
@@ -110,17 +110,17 @@ msgstr "Tình trạng giao dịch"
 
 msgctxt "Languages::addons.paypal.surcharge_policy_notice"
 msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
-msgstr ""
+msgstr "Surcharge đã được thiết lập cho phương thức thanh toán sử dụng dịch vụ PayPal. Hãy chắc chắn rằng điều này phù hợp với <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\"> Thỏa thuận người dùng cho các dịch vụ PayPal</a> cho khu vực của bạn."
 
 msgctxt "Languages::addons.paypal.rma.perform_refund"
 msgid "Give a refund via PayPal"
-msgstr ""
+msgstr "Cung cấp cho hoàn lại tiền qua PayPal"
 
 msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
 msgid "A refund will be made once an administrator changes the return request status"
-msgstr ""
+msgstr "Hoàn lại tiền sẽ được thực hiện sau khi người quản trị thay đổi trạng thái về yêu cầu"
 
 msgctxt "Languages::addons.paypal.rma.refund_performed"
 msgid "The refund has been made via PayPal"
-msgstr ""
+msgstr "Khoản tiền hoàn lại đã được thực hiện thông qua PayPal"
 
