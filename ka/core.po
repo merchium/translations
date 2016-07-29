@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ka\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-01 09:01-0400\n"
+"PO-Revision-Date: 2016-07-28 09:02-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4099,6 +4099,10 @@ msgstr "ფაილის გადმოწერა შეუძლებე�
 msgctxt "Languages::file_is_too_large"
 msgid "File is too large. Max uploading size is [size]."
 msgstr "ფაილი საკმაოდ დიდია. მაქსიმალური ასატვირთი ფაილის ზომა არის [size]."
+
+msgctxt "Languages::files_are_too_large"
+msgid "Total size of the uploaded files exceeds the maximum limit of [size]."
+msgstr ""
 
 msgctxt "Languages::file_tree"
 msgid "File tree"
@@ -16152,5 +16156,17 @@ msgstr ""
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
+msgstr ""
+
+msgctxt "Languages::ups_upgrade_notification_title"
+msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
+msgstr ""
+
+msgctxt "Languages::ups_upgrade_notification_text"
+msgid "<p><b>UPS Canada: Expedited SM</b> and <b>UPS Polish: Today Intercity</b> shipping services are not supported since this [product] version. If you were using them, do the following:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses UPS as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li></ul>"
+msgstr ""
+
+msgctxt "Languages::warning_default_language_sharing_removed"
+msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
 msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-30 05:58-0400\n"
+"PO-Revision-Date: 2016-07-28 09:05-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3830,7 +3830,7 @@ msgstr "CVV/CVC là quá ngắn."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "Nó đã cấm để thay đổi các email quản trị hoặc mật khẩu trong khu vực khách hàng. Xin vui lòng đăng nhập bằng một tài khoản khách hàng."
+msgstr "Điều này là không được phép để thay đổi email quản trị hoặc mật khẩu trong khu vực khách hàng. Xin vui lòng đăng nhập bằng một tài khoản khách hàng."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4099,6 +4099,10 @@ msgstr "Các tập tin không thể được tải xuống vì vượt quá gi�
 msgctxt "Languages::file_is_too_large"
 msgid "File is too large. Max uploading size is [size]."
 msgstr "Tập tin là quá lớn. Tải lên kích thước tối đa là [size]."
+
+msgctxt "Languages::files_are_too_large"
+msgid "Total size of the uploaded files exceeds the maximum limit of [size]."
+msgstr ""
 
 msgctxt "Languages::file_tree"
 msgid "File tree"
@@ -15783,7 +15787,7 @@ msgstr "eWAY, eWAY Direct Payment và eWAY Shared Payment không còn được h
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr ""
+msgstr "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> và <b>eWAY Shared Payment</b> không được hỗ trợ kể từ phiên bản này [product].</p> <p>Chúng tôi đề nghị bạn <b>nâng cấp lên eWAY Direct Payment (Rapid API)</b> hoặc <b>eWAY Responsive Shared (Rapid API)</b>, đây là hướng dẫn:</p> <ul><li>đi đến Quản trị > Phương thức thanh toán</li> <li>mở một trong các phương thức thanh toán bằng cách sử dụng deprecated eWAY xử lý</li> <li>chuyển sang tab Chung và chỉ định eWAY Direct Payment (Rapid API) hoặc eWAY Responsive Shared (Rapid API) xử lý thanh toán</li> <li>chuyển sang tab Cấu hình và xác định đúng: <ul><li>khóa API, mật khẩu API và khoá mật mã cho eWAY Direct Payment (Rapid API)</li> <li>khóa API và mật khẩu API cho eWAY Responsive Shared (Rapid API)</li></ul></li></ul> <p>eWAY, eWAY Direct Payment và eWAY Shared Payment vẫn sẽ hoạt động nhưng chúng tôi <b>đã đổi tên</b> họ Deprecated eWAY, Deprecated eWAY Direct Payment và Deprecated eWAY Shared Payment cho phù hợp.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
@@ -16152,4 +16156,16 @@ msgstr "Australia Post tính toán thời gian thực tỷ lệ vận chuyển t
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
 msgstr "<p>Phiên bản mới nhất của [product] có các cài đặt khác nhau cho thời gian thực vận chuyển tính toán tỷ lệ nếu bạn sử dụng Australia Post là một Nhà vận chuyển.</p> <p>Nếu bạn muốn hiển thị giá vận chuyển hiện tại cho khách hàng của bạn, làm như sau:</p> <ul><li>đi đến Quản trị > Vận chuyển & thuế > Phương thức vận chuyển</li> <li>chọn phương pháp vận chuyển có sử dụng Australia Post là một Nhà vận chuyển để tính toán tỷ giá vận chuyển</li> <li>chuyển sang tab Chung và nhập vào các dịch vụ vận chuyển thích hợp</li> <li>chuyển sang tab Cấu hình và nhập trang thích hợp <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
+
+msgctxt "Languages::ups_upgrade_notification_title"
+msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
+msgstr ""
+
+msgctxt "Languages::ups_upgrade_notification_text"
+msgid "<p><b>UPS Canada: Expedited SM</b> and <b>UPS Polish: Today Intercity</b> shipping services are not supported since this [product] version. If you were using them, do the following:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses UPS as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li></ul>"
+msgstr ""
+
+msgctxt "Languages::warning_default_language_sharing_removed"
+msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
+msgstr ""
 
