@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-31 07:45-0400\n"
+"PO-Revision-Date: 2016-10-14 20:01-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -179,4 +179,12 @@ msgstr "Клиент [customer]-<a href=\"[href]\"> ждет вашего зво
 msgctxt "Languages::call_requests.error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid."
 msgstr "Недопустимый номер телефона в поле <b>[field]</b>."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr ""
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr ""
 

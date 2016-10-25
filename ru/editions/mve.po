@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /editions/mve.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-31 07:45-0400\n"
+"PO-Revision-Date: 2016-10-14 20:01-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -194,7 +194,7 @@ msgstr "Ваш статус продавца был изменен с деакт
 
 msgctxt "Languages::text_company_status_pending"
 msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
-msgstr ""
+msgstr "Отложенный статус позволяет вам войти в панель администрирования, изменить информацию о вашей компании и заполнить ваш магазин продуктами."
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -346,11 +346,11 @@ msgstr "Отображать продавца на странице продук
 
 msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
 msgid "Applying vendors must agree to the terms & conditions"
-msgstr ""
+msgstr "Используя поставщиков, вы должны согласится с условиями использования"
 
 msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
-msgstr ""
+msgstr "Текст Условий соглашения будет взят из языковой переменной \"terms_and_conditions_content\"."
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
@@ -386,33 +386,45 @@ msgstr "Товары продавца"
 
 msgctxt "Languages::apply_shipping_for_all_vendors"
 msgid "Allow shipping for all vendors"
-msgstr ""
+msgstr "Разрешить доставку для всех поставщиков"
 
 msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
 msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
-msgstr ""
+msgstr "Способ доставки будет применяться для всех поставщиков. Вы уверены, что хотите продолжить?"
 
 msgctxt "Languages::shipping_applied_to_vendors"
 msgid "The shipping method was applied to [vendors] vendors"
-msgstr ""
+msgstr "Способ доставки был применен к [vendors] поставщикам"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
 msgstr "Фильтры продавца"
 
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr ""
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr ""
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr ""
+
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"
-msgstr ""
+msgstr "Я принимаю [terms_href]"
 
 msgctxt "Languages::vendor_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Условия использования"
 
 msgctxt "Languages::vendor_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
-msgstr ""
+msgstr "Чтобы продолжить, Вам нужно принять наши условия соглашения."
 
 msgctxt "Languages::vendor_terms_n_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
-msgstr ""
+msgstr "<p>Пожалуйста, прочтите эти условия соглашения («Условия», «Условия соглашения») перед использованием веб-сайта <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> и мобильного приложения («служба») действует при помощи моей компании («нас», «мы» или «наш»).</p><p><strong>Получая доступ или используя услуги, вы соглашаетесь с этими условиями. Если вы не согласны с какой-либо части условий, то вы не можете получить доступ к службе.</strong></p><p><strong>Покупки</strong></p><p>Если вы хотите приобрести любой товар или услугу,</strong> доступную через службу («Покупка»), вам может быть предложено предоставить определенную информацию, имеющую отношение к вашей покупке, без ограничения, ваше...</p> <p><strong>Содержание</strong></p><p>Наш сервис позволяет размещать ссылки, хранить, передавать и иным образом доводить определенную информацию, текст, графику, видео или другие материалы (\"Содержание\"). Вы отвечаете за...</p><p><strong>Изменения</strong></p><p>Мы оставляем за собой право, на наше усмотрение, изменять или заменять эти условия в любое время. Если мы внесем существенные изменения, то постараемся уведомить Вас как минимум за 30 дней до вступления каких-либо новых условий в силу. Понятие существенные изменения будет определяться по своему усмотрению.</p><p><strong>Свяжитесь с нами</strong></p><p>Если у вас есть какие-либо вопросы, связанные с этими условиями, пожалуйста, свяжитесь с нами.</p>"
 

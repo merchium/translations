@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: no\n"
 "X-Crowdin-File: /addons/google_export.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-21 06:59-0400\n"
+"PO-Revision-Date: 2016-10-04 08:07-0400\n"
 
 msgctxt "Addons::name::google_export"
 msgid "Google export"
@@ -51,4 +51,16 @@ msgstr "Du kan ikke ikke bruke prisen på 0,00 for Googles produkt Feed. Element
 msgctxt "Languages::addons.google_export.notice"
 msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
 msgstr "Før du eksporterer dine produkter til Googles produktfeed, sørg for at koden for butikkens <a href=\"[currency_url]\">primærvaluta</a> er i samsvar med <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> og at <a href=\"[settings_url]\">vektsymboler som benyttes</a> er en av følgende: lb, oz, g, kg"
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "Google eksport"
+
+msgctxt "Languages::addons.google_export.google_name_option"
+msgid "Name option (Google export)"
+msgstr "Navn valg (Google eksport)"
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr ""
 

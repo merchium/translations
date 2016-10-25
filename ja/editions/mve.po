@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /editions/mve.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-05-31 07:44-0400\n"
+"PO-Revision-Date: 2016-10-04 08:05-0400\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -186,15 +186,15 @@ msgstr "アルファベット順: Z から A"
 
 msgctxt "Languages::text_company_status_active_to_pending"
 msgid "Your vendor status has been changed from Active to Pending."
-msgstr ""
+msgstr "あなたの出品者ステータスが「有効」から「保留」に変更されました。"
 
 msgctxt "Languages::text_company_status_disabled_to_pending"
 msgid "Your vendor status has been changed from Disabled to Pending."
-msgstr ""
+msgstr "あなたの出品者ステータスが「無効」から「保留」に変更されました。"
 
 msgctxt "Languages::text_company_status_pending"
 msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
-msgstr ""
+msgstr "ステータスが「保留」でも出品者管理画面にログインし、出品者情報や商品を登録することができます。"
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
@@ -354,7 +354,7 @@ msgstr ""
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
-msgstr ""
+msgstr "出品者登録申請フォーム"
 
 msgctxt "Languages::block_vendor_categories"
 msgid "Vendor categories"
@@ -399,6 +399,18 @@ msgstr ""
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
 msgstr "出品者フィルタ"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr ""
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr ""
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr ""
 
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"

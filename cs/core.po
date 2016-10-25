@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-28 12:00-0400\n"
+"PO-Revision-Date: 2016-10-20 07:01-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -122,7 +122,7 @@ msgstr "Aktivní styl"
 
 msgctxt "Languages::active_products"
 msgid "Active products"
-msgstr "Aktivní produkty"
+msgstr "Aktivní zboží"
 
 msgctxt "Languages::active_promotions"
 msgid "Active promotions"
@@ -410,15 +410,15 @@ msgstr "Přidat platbu"
 
 msgctxt "Languages::add_product"
 msgid "Add product"
-msgstr "Přidat produkt"
+msgstr "Přidat zboží"
 
 msgctxt "Languages::add_products"
 msgid "Add products"
-msgstr "Přidat produkty"
+msgstr "Přidat zboží"
 
 msgctxt "Languages::add_products_and_close"
 msgid "Add products and close"
-msgstr "Přidat produkty a zavřít"
+msgstr "Přidat zboží a zavřít"
 
 msgctxt "Languages::add_products_to_section"
 msgid "Add product(s) to this section"
@@ -426,7 +426,7 @@ msgstr "Přidat zboží do této sekce"
 
 msgctxt "Languages::add_product_filter"
 msgid "Add product filter"
-msgstr "Přidat filtr produktů"
+msgstr "Přidat filtr zboží"
 
 msgctxt "Languages::add_promotions"
 msgid "Add promotions"
@@ -614,7 +614,7 @@ msgstr "Všechny vlastnosti"
 
 msgctxt "Languages::all_filters"
 msgid "All product filters"
-msgstr "Všechny filtry produktů"
+msgstr "Všechny filtry zboží"
 
 msgctxt "Languages::all_pages"
 msgid "All pages"
@@ -622,7 +622,7 @@ msgstr "Všechny stránky"
 
 msgctxt "Languages::all_products_have_been_updated"
 msgid "All products have been updated successfully."
-msgstr "Všechny produkty byly úspěšně aktualizovány."
+msgstr "Všechno zboží bylo úspěšně aktualizováno."
 
 msgctxt "Languages::all_vendors"
 msgid "All stores"
@@ -770,7 +770,7 @@ msgstr "Použít jako odkaz"
 
 msgctxt "Languages::apply_tax_to_products"
 msgid "Apply selected taxes to all products"
-msgstr "Použít vybranou daň pro všechny produkty"
+msgstr "Použít vybrané daně pro všechno zboží"
 
 msgctxt "Languages::apply_to_all_languages"
 msgid "Apply to all languages"
@@ -778,7 +778,7 @@ msgstr "Platí pro všechny jazyky"
 
 msgctxt "Languages::apply_to_products"
 msgid "Apply to products"
-msgstr "Použít na produkty"
+msgstr "Použít pro zboží"
 
 msgctxt "Languages::approve"
 msgid "Approve"
@@ -970,7 +970,7 @@ msgstr "Vítejte na nákupu!"
 
 msgctxt "Languages::back_in_stock_notification_header"
 msgid "We are writing to inform you that the following product is back in stock in our store:"
-msgstr "Obracíme se na vás s informací, že tento produkt je opět skladem v našem obchodě:"
+msgstr "Obracíme se na Vás s informací, že toto zboží je v našem obchodě opět skladem:"
 
 msgctxt "Languages::balance"
 msgid "Balance"
@@ -1070,7 +1070,7 @@ msgstr "Strom kategórii"
 
 msgctxt "Languages::block_products_description"
 msgid "Product showcase"
-msgstr "Ukázka produktů"
+msgstr "Přehlídka zboží"
 
 msgctxt "Languages::block_cart_content"
 msgid "Cart content"
@@ -1234,7 +1234,7 @@ msgstr "Značky"
 
 msgctxt "Languages::block_our_brands_description"
 msgid "Product brands presented in the store"
-msgstr "Značky v obchodě"
+msgstr "Značky zboží nabízeného v obchodě"
 
 msgctxt "Languages::block_pages"
 msgid "Pages"
@@ -1254,23 +1254,23 @@ msgstr "Dostupné způsoby platby"
 
 msgctxt "Languages::block_products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "Languages::block_product_filters"
 msgid "Product filters"
-msgstr "Filtry produktů"
+msgstr "Filtry zboží"
 
 msgctxt "Languages::block_product_filters_description"
 msgid "Product filtering options"
-msgstr "Možnosti filtrování produktů"
+msgstr "Možnosti filtrování zboží"
 
 msgctxt "Languages::block_product_filters_home"
 msgid "Product filters for home page"
-msgstr "Filtry produktu pro domovskou stránku"
+msgstr "Filtry zboží pro domovskou stránku"
 
 msgctxt "Languages::block_product_filters_home_description"
 msgid "Product filtering options, displayed on home page"
-msgstr "Produkt filtrování zobrazených na domovské stránce"
+msgstr "Možnosti filtrování zboží, zobrazené na domovské stránce"
 
 msgctxt "Languages::block_settings"
 msgid "Block settings"
@@ -1386,7 +1386,7 @@ msgstr "Prohlížet..."
 
 msgctxt "Languages::browser_upgrade_notice"
 msgid "<p>We have detected that the browser you are using is not fully supported by our Admin Panel. You can view this site using your current browser but it may not display properly, and you may not be able to fully use all features.</p><br><p>Admin Panel is best viewed using the following browsers:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 and above</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (latest version)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (latest version)</a></li></ul><br><p>Click on one of the links to download the browser of your choice. Once the download has completed, install the browser by running the setup program.</p><br><p>If you cannot upgrade your browser now, you can still access Admin Panel, but you may not be able to fully use all features.<br><br><a href=\"[url]\">Continue</a></p>"
-msgstr "<p>Zjistili jsme, že prohlížeč který používáte není plně podporován naším Admin Panelem. Můžete zobrazit tuto lokalitu pomocí svého aktuálního prohlížeče, ale to se nemusí zobrazovat správně a nebudete moci plně využít všechny funkce.</p><br><p>Admin Panel je optimalizován pomocí těchto prohlížečů:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 a vyšší</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (Nejnovější verze)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (Poslední verze)</a></li></ul><br><p>Klikněte na jeden z odkazů na stažení prohlížeče dle vašeho výběru. Po dokončení stahování, nainstalujte prohlížeč spuštěním instalačního programu.</p><br><p>Pokud nemůžete inovovat svůj prohlížeč teď, budete mít stále přístup k Admin Panel, ale nebudete moci plně využít všechny funkce.<br><a href=\"[url]\">Pokračovat</a></p>"
+msgstr "<p>Zjistili jsme, že používaný prohlížeč není plně podporován naším Admin Panelem. Můžete zobrazit tyto stránky pomocí svého aktuálního prohlížeče, ale ty se nemusí zobrazovat správně a nebudete moci plně využít všechny funkce.</p><br><p>Admin Panel je optimalizován pro tyto prohlížeče:</p><br><ul><li>&ndash; <a href=\"http://windows.microsoft.com/en-US/internet-explorer/products/ie/home\" target=\"_blank\">Internet Explorer 9 a vyšší</a></li><li>&ndash; <a href=\"http://www.mozilla.org/en-US/\" target=\"_blank\">Mozilla Firefox (aktuální verze)</a></li><li>&ndash; <a href=\"https://www.google.com/intl/en/chrome/browser/\" target=\"_blank\">Google Chrome (aktuální verze)</a></li></ul><br><p>Klikněte na jeden z odkazů pro stažení prohlížeče dle Vašeho výběru. Po dokončení stahování prohlížeč nainstalujte spuštěním instalačního programu.</p><br><p>Pokud nemůžete aktualizovat svůj prohlížeč teď, budete mít stále přístup k Admin Panel, ale nebudete moci plně využít všechny jeho funkce.<br><br><a href=\"[url]\">Pokračovat</a></p>"
 
 msgctxt "Languages::browser_upgrade_notice_title"
 msgid "Browser Upgrade Notice"
@@ -1406,7 +1406,7 @@ msgstr "Faktura hromadný tisk"
 
 msgctxt "Languages::bulk_product_addition"
 msgid "Bulk product addition"
-msgstr "Hromadné přidání produktů"
+msgstr "Hromadné přidání zboží"
 
 msgctxt "Languages::button_bgcolor"
 msgid "Button background color"
@@ -1502,7 +1502,7 @@ msgstr "Zrušit cílovou URL"
 
 msgctxt "Languages::cannot_buy"
 msgid "You cannot buy the product with these option variants"
-msgstr "Nemůžete koupit produkt s těmito volbami"
+msgstr "Nemůžete si koupit zboží s těmito variantami"
 
 msgctxt "Languages::cannot_proccess_checkout"
 msgid "Your cart is empty, so you cannot proceed to checkout."
@@ -1634,7 +1634,7 @@ msgstr "Byly přidány kategorie"
 
 msgctxt "Languages::categories_menu_description"
 msgid "View product categories which are used to group products in your store."
-msgstr "Zobrazit kategorie produktů, které se používají k seskupovaní výrobků ve vašem obchodě."
+msgstr "Zobrazit kategorie zboží, které se používají k seskupení zboží ve vašem obchodě."
 
 msgctxt "Languages::category"
 msgid "Category"
@@ -2058,11 +2058,11 @@ msgstr "Seznam porovnání"
 
 msgctxt "Languages::comparison_list_note"
 msgid "Go to the products comparison list"
-msgstr "Přejít na produkty seznamu porovnání"
+msgstr "Přejít na seznam porovnání zboží"
 
 msgctxt "Languages::compare_product_features"
 msgid "Compare product features"
-msgstr "Porovnat funkce produktu"
+msgstr "Porovnat vlastnosti zboží"
 
 msgctxt "Languages::comparison_list"
 msgid "Comparison list"
@@ -2694,7 +2694,7 @@ msgstr "Vlastní rozsah"
 
 msgctxt "Languages::cutted_product_codes"
 msgid "The following product codes are too long and were cut to 32 figures:"
-msgstr "Následující kódy výrobků jsou příliš dlouhé a byly zkráceny na 32 znaků:"
+msgstr "Následující kódy zboží jsou příliš dlouhé a byly zkráceny na 32 znaků:"
 
 msgctxt "Languages::cvv2"
 msgid "CVV/CVC"
@@ -2830,7 +2830,7 @@ msgstr "Výchozí rozložení"
 
 msgctxt "Languages::default_long_options_template"
 msgid "Default template (long product option names)"
-msgstr "Výchozí šablona (dlouhé názvy pro volbu výrobků)"
+msgstr "Výchozí šablona (dlouhé názvy možností zboží)"
 
 msgctxt "Languages::default_product_details_view"
 msgid "Parent ([default])"
@@ -2858,7 +2858,7 @@ msgstr "Definováno"
 
 msgctxt "Languages::defined_desired_products"
 msgid "List of desired products"
-msgstr "Seznam požadovaných produktů"
+msgstr "Seznam žádaného zboží"
 
 msgctxt "Languages::defined_items"
 msgid "defined items"
@@ -2878,7 +2878,7 @@ msgstr "Smazáno"
 
 msgctxt "Languages::deleted_product"
 msgid "DELETED PRODUCT"
-msgstr "SMAZANÝ PRODUKT"
+msgstr "SMAZANÉ ZBOŽÍ"
 
 msgctxt "Languages::delete_all_found"
 msgid "Delete all found"
@@ -3206,7 +3206,7 @@ msgstr "Vertical drop-down list"
 
 msgctxt "Languages::drop_existing_data"
 msgid "Delete all existing product files before import"
-msgstr "Smazat všechny soubory existujících produktů před importováním"
+msgstr "Smazat všechny existující soubory zboží před importem"
 
 msgctxt "Languages::cant_create_backup_file"
 msgid "Cannot upload backup file. Please check permissions for the \"var/backups\" directory of your installation."
@@ -3274,7 +3274,7 @@ msgstr "Editace měny"
 
 msgctxt "Languages::editing_defined_products"
 msgid "Editing defined products"
-msgstr "Editace určených produktů"
+msgstr "Úprava určeného zboží"
 
 msgctxt "Languages::editing_file"
 msgid "Editing file"
@@ -3326,7 +3326,7 @@ msgstr "Úpravy menus"
 
 msgctxt "Languages::editing_option"
 msgid "Editing option"
-msgstr "Editace varianty"
+msgstr "Editace možnosti"
 
 msgctxt "Languages::editing_order"
 msgid "Editing order"
@@ -3342,11 +3342,11 @@ msgstr "Upravit způsob platby"
 
 msgctxt "Languages::editing_product"
 msgid "Editing product"
-msgstr "Upravit produkt"
+msgstr "Upravit zboží"
 
 msgctxt "Languages::editing_product_feature"
 msgid "Editing product feature"
-msgstr "Změnit vlastnosti produktu"
+msgstr "Úprava vlastnosti zboží"
 
 msgctxt "Languages::editing_profile"
 msgid "Editing profile"
@@ -3418,7 +3418,7 @@ msgstr "Upravit objednávku"
 
 msgctxt "Languages::edit_products"
 msgid "Edit products"
-msgstr "Upravit produkty"
+msgstr "Upravit zboží"
 
 msgctxt "Languages::edit_profile"
 msgid "Edit profile"
@@ -3438,15 +3438,15 @@ msgstr "Editovat vybrané"
 
 msgctxt "Languages::edp_access_granted"
 msgid "Now you can download the purchased products."
-msgstr "Nyní můžete stáhnout zakoupený produkt."
+msgstr "Nyní si můžete zakoupené zboží stáhnout."
 
 msgctxt "Languages::edp_access_subj"
 msgid "Access to electronically distributed products is granted"
-msgstr "Přítup k elektronicky distribuovaným produktům je udělen"
+msgstr "Přístup k elektronicky distribuovanému zboží je udělen"
 
 msgctxt "Languages::edp_enable_shipping"
 msgid "Enable shipping for downloadable products"
-msgstr "Povolit dopravu"
+msgstr "Povolit dopravu pro zboží určené ke stažení"
 
 msgctxt "Languages::email"
 msgid "Email"
@@ -4006,7 +4006,7 @@ msgstr "Vlastnost"
 
 msgctxt "Languages::features"
 msgid "Features"
-msgstr "Parametry produktů"
+msgstr "Vlastnosti"
 
 msgctxt "Languages::features_delimiter"
 msgid "Feature variants delimiter"
@@ -4014,7 +4014,7 @@ msgstr "Oddělovač variant funkcí"
 
 msgctxt "Languages::features_menu_description"
 msgid "Add and manage extra product fields."
-msgstr "Přidat další atrributy produktů."
+msgstr "Přidat a spravovat další pole zboží."
 
 msgctxt "Languages::feature_code"
 msgid "Feature code"
@@ -4026,11 +4026,11 @@ msgstr "Umožnit porovnání vlastností"
 
 msgctxt "Languages::feature_display_on_catalog"
 msgid "Show in product list"
-msgstr "Zobrazit v seznamu produktů"
+msgstr "Zobrazit v seznamu zboží"
 
 msgctxt "Languages::feature_display_on_header"
 msgid "Show in header on the product details page"
-msgstr "Zobrazit v záhlaví na stránce s podrobnostmi o produktu"
+msgstr "Zobrazit v záhlaví na stránce s podrobnostmi o zboží"
 
 msgctxt "Languages::feature_display_on_product"
 msgid "Show on the Features tab"
@@ -4122,7 +4122,7 @@ msgstr "Filtry"
 
 msgctxt "Languages::filters_menu_description"
 msgid "Product filters are displayed on the storefront and enable your customers to quickly find the products."
-msgstr "Filtry produktů umožňují zákazníkům snadno a hlavně rychle najít produkty, které hledají."
+msgstr "Filtry zboží jsou zobrazeny v obchodu a umožňují zákazníkům snadno a rychle najít zboží."
 
 msgctxt "Languages::filter_by"
 msgid "Filter by"
@@ -4136,9 +4136,13 @@ msgctxt "Languages::filter_name"
 msgid "Filter name"
 msgstr "Název filtru"
 
+msgctxt "Languages::filters_in_use"
+msgid "All features are already in use"
+msgstr ""
+
 msgctxt "Languages::finance_product_code"
 msgid "Finance product code"
-msgstr "Kód produktu"
+msgstr "Finanční kód zboží"
 
 msgctxt "Languages::financial_state"
 msgid "Financial state"
@@ -4230,7 +4234,7 @@ msgstr "Zdarma"
 
 msgctxt "Languages::free_products"
 msgid "Free products"
-msgstr "Bezplatné produkty"
+msgstr "Zboží zdarma"
 
 msgctxt "Languages::free_shipping"
 msgid "Free shipping"
@@ -4634,7 +4638,7 @@ msgstr "Nesprávně vyplněné hlášení"
 
 msgctxt "Languages::incorrect_price_warning"
 msgid "Product has not been added to the cart. Please enter the correct price."
-msgstr "Produkt nebyl přidán do košíku.Vložte, prosím, správnou cenu."
+msgstr "Zboží nebylo přidáno do košíku. Vložte prosím správnou cenu."
 
 msgctxt "Languages::increase"
 msgid "Increase"
@@ -4718,7 +4722,7 @@ msgstr "Další informace o zřízení obchodu"
 
 msgctxt "Languages::welcome_screen.thanks"
 msgid "Thank you for choosing [product]. Happy selling!"
-msgstr "Děkujeme, že jste si vybrali výrobek [product]. Šťastný prodej!"
+msgstr "Děkujeme, že jste si vybrali [product]. Mnoho úspěchů!"
 
 msgctxt "Languages::installer_complete_title"
 msgid "Installation successfully finished"
@@ -5066,7 +5070,7 @@ msgstr "Propojené kategorie"
 
 msgctxt "Languages::linked_products"
 msgid "Linked products"
-msgstr "Propojené produkty"
+msgstr "Propojené zboží"
 
 msgctxt "Languages::links"
 msgid "Links"
@@ -5168,6 +5172,10 @@ msgctxt "Languages::login"
 msgid "Login"
 msgstr "Přihlášení"
 
+msgctxt "Languages::login_url"
+msgid "Login URL"
+msgstr ""
+
 msgctxt "Languages::logos"
 msgid "Logos"
 msgstr "Loga"
@@ -5258,7 +5266,7 @@ msgstr "Objednávky"
 
 msgctxt "Languages::log_type_products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "Languages::log_type_requests"
 msgid "Requests"
@@ -5274,7 +5282,7 @@ msgstr "Zeměpisná délka"
 
 msgctxt "Languages::low_stock_subj"
 msgid "Low inventory of \"[product]\""
-msgstr "Nízké zásoby na skladě pro \"[product]\""
+msgstr "Nízký stav skladu \"[product]\""
 
 msgctxt "Languages::mac_key"
 msgid "Mac key"
@@ -5358,7 +5366,7 @@ msgstr "Správce stránek"
 
 msgctxt "Languages::manage_products"
 msgid "Manage products"
-msgstr "Správce produktů"
+msgstr "Spravovat zboží"
 
 msgctxt "Languages::manage_reports"
 msgid "Manage reports"
@@ -5882,7 +5890,7 @@ msgstr "Nový příspěvek"
 
 msgctxt "Languages::new_product"
 msgid "New product"
-msgstr "Nový produkt"
+msgstr "Nové zboží"
 
 msgctxt "Languages::new_profile"
 msgid "New profile"
@@ -5915,6 +5923,14 @@ msgstr "Nová sekce"
 msgctxt "Languages::new_shipment"
 msgid "New shipment"
 msgstr "Nová zásilka"
+
+msgctxt "Languages::detailed_shipment"
+msgid "Detailed shipment"
+msgstr ""
+
+msgctxt "Languages::create_detailed_shipment"
+msgid "Create detailed shipment »"
+msgstr ""
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -6010,7 +6026,7 @@ msgstr "Zadali jste [DECIMALS] desetinných míst pro [CURRENCY]. Maximální po
 
 msgctxt "Languages::notice_undeliverable_products_removed"
 msgid "Undeliverable products have been removed from your cart. You may proceed with the purchase."
-msgstr "Nedoručitelné výrobky byly odebrány z nákupního košíku. Můžete pokračovat v nákupu."
+msgstr "Nedoručitelné zboží bylo z nákupního košíku odebráno. Můžete pokračovat v nákupu."
 
 msgctxt "Languages::notice_update_customer_details"
 msgid "The customer updated the email address in the profile. Select the check box to update the order details:"
@@ -6034,7 +6050,7 @@ msgstr "Oznámit majitele obchodu"
 
 msgctxt "Languages::notify_when_back_in_stock"
 msgid "Notify me when this product is back in stock"
-msgstr "Upozornit, když je tento produkt opět skladem"
+msgstr "Upozornit, až bude toto zboží opět skladem"
 
 msgctxt "Languages::not_active"
 msgid "Not active"
@@ -6094,7 +6110,7 @@ msgstr "Žádné zboží určené k přepravě"
 
 msgctxt "Languages::no_products_selected"
 msgid "No products selected"
-msgstr "Nebyly vybrány žádné produtky"
+msgstr "Nebylo vybráno žádné zboží"
 
 msgctxt "Languages::no_rates_for_empty_cart"
 msgid "<p class=\"error-text\" align=\"center\">Your cart is empty and the shipping cost cannot be estimated</p>"
@@ -6222,7 +6238,7 @@ msgstr "Optimliazuji tabulku"
 
 msgctxt "Languages::options"
 msgid "Options"
-msgstr "Varianty"
+msgstr "Možnosti"
 
 msgctxt "Languages::options_for"
 msgid "Options for"
@@ -6230,11 +6246,11 @@ msgstr "Nastavení pro"
 
 msgctxt "Languages::options_have_been_applied_to_products"
 msgid "Options have been successfully applied to the selected products"
-msgstr "Varianty byly úspěšně přidány do vybraného zboží"
+msgstr "Možnosti byly úspěšně použity na vybrané zboží"
 
 msgctxt "Languages::options_menu_description"
 msgid "Manage global product options and option variants in your store."
-msgstr "Zobrazit, přidat nebo upravit globální nastavení produktů a jejich variant."
+msgstr "Spravovat globální možnosti zboží a varianty možností ve vašem obchodu."
 
 msgctxt "Languages::options_settings"
 msgid "Options settings"
@@ -6250,15 +6266,15 @@ msgstr "Kombinace variant"
 
 msgctxt "Languages::option_name"
 msgid "Option name"
-msgstr "Název varianty"
+msgstr "Název možnosti"
 
 msgctxt "Languages::option_unlinked"
 msgid "Global option \"[option_name]\" has been deactivated for the product"
-msgstr "Souhrnná volba \"[option_name]\" byla odpojena z tohoto produktu"
+msgstr "Globální možnost \"[option_name]\" byla pro toto zboží deaktivována"
 
 msgctxt "Languages::option_variants"
 msgid "Option variants"
-msgstr "Varianty voleb"
+msgstr "Varianty možnosti"
 
 msgctxt "Languages::opt_currency_name"
 msgid "Show currency titles"
@@ -6286,7 +6302,7 @@ msgstr "Objednávka"
 
 msgctxt "Languages::ordered_products"
 msgid "Ordered products"
-msgstr "Objednané produkty"
+msgstr "Objednané zboží"
 
 msgctxt "Languages::orders"
 msgid "Orders"
@@ -6298,7 +6314,7 @@ msgstr "Společnost nebyla změněna. Při úpravách objednávky nesmíte měni
 
 msgctxt "Languages::orders_no_items"
 msgid "Use the \"Add products\" button above to add products to order."
-msgstr "Pomocí tlačítka nahoře \"Přidejte produkty\" přidat produkty na objednávku."
+msgstr "Použijte tlačítko \"Přidat zboží\" nahoře pro přidání zboží do objednávky."
 
 msgctxt "Languages::order_by_status"
 msgid "Order by status"
@@ -6418,7 +6434,7 @@ msgstr "Použijte tento obsah pro všechny nainstalované bloky"
 
 msgctxt "Languages::override_product_data"
 msgid "Apply values to all the selected products"
-msgstr "Aplikovat hodnoty na všechny vybrané produkty"
+msgstr "Použít hodnoty na všechno vybrané zboží"
 
 msgctxt "Languages::owner"
 msgid "Owner"
@@ -6740,6 +6756,10 @@ msgctxt "Languages::phone2_label"
 msgid "International"
 msgstr "Mezinárodní"
 
+msgctxt "Languages::phone2"
+msgid "International"
+msgstr ""
+
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
 msgstr "PHP informace"
@@ -6952,6 +6972,14 @@ msgctxt "Languages::print_invoice"
 msgid "Print invoice"
 msgstr "Tisk objednávky"
 
+msgctxt "Languages::edit_invoice"
+msgid "Edit invoice"
+msgstr ""
+
+msgctxt "Languages::remove_invoice"
+msgid "Remove invoice"
+msgstr ""
+
 msgctxt "Languages::print_order_details"
 msgid "Print order details"
 msgstr "Tisknout detail objednávky"
@@ -7116,6 +7144,14 @@ msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
 msgstr "Správa uživatelů"
 
+msgctxt "Languages::privileges.manage_email_templates"
+msgid "Manage email templates"
+msgstr ""
+
+msgctxt "Languages::privileges.manage_document_templates"
+msgid "Manage document templates"
+msgstr ""
+
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
 msgstr "Nastavení aktualizace"
@@ -7270,71 +7306,71 @@ msgstr "Postup vybrán"
 
 msgctxt "Languages::product"
 msgid "Product"
-msgstr "Produkt"
+msgstr "Zboží"
 
 msgctxt "Languages::products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "Languages::products2"
 msgid "Products2"
-msgstr "Produkt 2"
+msgstr "Zboží2"
 
 msgctxt "Languages::products_added_to_cart"
 msgid "The products were added to your cart"
-msgstr "Produkty byly přidány do košíku"
+msgstr "Zboží bylo přidáno do košíku"
 
 msgctxt "Languages::products_amount"
 msgid "Product quantity"
-msgstr "Monžství produktů"
+msgstr "Množství zboží"
 
 msgctxt "Languages::products_bar"
 msgid "Products bar"
-msgstr "Nabídka produktu"
+msgstr "Pruh zboží"
 
 msgctxt "Languages::products_cost"
 msgid "Products cost"
-msgstr "Produktové náklady"
+msgstr "Náklady na zboží"
 
 msgctxt "Languages::products_for_shipment_not_selected"
 msgid "Products for shipment were not selected"
-msgstr "Nebyly vybrány produkty k dodávce"
+msgstr "Nebylo vybráno zboží pro přepravu"
 
 msgctxt "Languages::products_found"
 msgid "Products found"
-msgstr "Nalezené produkty"
+msgstr "Nalezeno zboží"
 
 msgctxt "Languages::products_grid"
 msgid "Products grid"
-msgstr "Mřížka produktů"
+msgstr "Mřížka zboží"
 
 msgctxt "Languages::products_information"
 msgid "Products information"
-msgstr "Informace o produktech"
+msgstr "Informace o zboží"
 
 msgctxt "Languages::products_in_cart"
 msgid "Products in cart"
-msgstr "Produkty v košíku"
+msgstr "Zboží v košíku"
 
 msgctxt "Languages::products_links_type"
 msgid "Products links type"
-msgstr "Typové označení zboží"
+msgstr "Typ propojení zboží"
 
 msgctxt "Languages::products_menu_description"
 msgid "View, add and edit products that are shown to visitors of your store."
-msgstr "Zobrazit, přidávat a upravovat produkty z nabídky obchodu."
+msgstr "Zobrazit, přidávat a upravovat zboží, které je zobrazeno návštěvníkům vašeho obchodu."
 
 msgctxt "Languages::products_required"
 msgid "Please add product(s)"
-msgstr "Prosím, přidejte produkt (y)"
+msgstr "Přidejte prosím zboží"
 
 msgctxt "Languages::products_stat"
 msgid "Product statistics"
-msgstr "Statistiky produktu"
+msgstr "Statistiky zboží"
 
 msgctxt "Languages::products_weight"
 msgid "Products weight"
-msgstr "Váha produktů"
+msgstr "Hmotnost zboží"
 
 msgctxt "Languages::products_were_sent"
 msgid "The products have been sent out to you. The order information is given below"
@@ -7342,119 +7378,119 @@ msgstr "Zboží bylo zasláno na Vaši adresu. Informace o objednávce jsou uved
 
 msgctxt "Languages::product_added_to_cart"
 msgid "The product was added to your cart"
-msgstr "Produkt byl přidán do košíku"
+msgstr "Zboží bylo přidáno do Vašeho košíku"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
-msgstr "Produkt byl přidán do Seznamu porovnání"
+msgstr "Zboží byl přidáno do Vašeho Seznamu porovnání"
 
 msgctxt "Languages::product_cannot_be_added"
 msgid "The product cannot be added to cart. Check if all the uploading files meet the necessary conditions"
-msgstr "Produkt nemuže být přidán do košíku. Překontrolujte, jestli jsou splněny všechny podmnky pro uploadované soubory"
+msgstr "Produkt nemůže být přidán do košíku. Zkontrolujte, zda všechny nahrávané soubory splňují nezbytné podmínky"
 
 msgctxt "Languages::product_code"
 msgid "Product code"
-msgstr "Kód produktu"
+msgstr "Kód zboží"
 
 msgctxt "Languages::product_columns"
 msgid "Product columns"
-msgstr "Sloupce produktů"
+msgstr "Sloupce zboží"
 
 msgctxt "Languages::product_combinations"
 msgid "Product combinations"
-msgstr "Kombinace produktů"
+msgstr "Kombinace zboží"
 
 msgctxt "Languages::product_coming_soon"
 msgid "This product can't be added to cart now. It will be available on [avail_date]"
-msgstr "Tento produkt bude dostupný od [avail_date]"
+msgstr "Toto zboží nemůže být nyní přidáno do košíku. Bude k dispozici od [avail_date]"
 
 msgctxt "Languages::product_coming_soon_add"
 msgid "This product will be shipped on [avail_date]"
-msgstr "Tento produkt bude možné zakoupit [avail_date]"
+msgstr "Toto zboží bude odesláno po [avail_date]"
 
 msgctxt "Languages::product_details"
 msgid "Product details page"
-msgstr "Detail produktu"
+msgstr "Stránka s podrobnostmi o zboží"
 
 msgctxt "Languages::product_details_view"
 msgid "Product details view"
-msgstr "Podrobné informace o produktu"
+msgstr "Zobrazení podrobností o zboží"
 
 msgctxt "Languages::product_feature_cannot_assigned"
 msgid "The feature \"[feature_name]\" cannot be assigned to the product \"[product_name]\""
-msgstr "Tato vlastnost \"[feature_name]\" nemůže být přidělena tomuto produktu \"[product_name]\""
+msgstr "Vlastnost \"[feature_name]\" nemůže být přiřazena zboží \"[product_name]\""
 
 msgctxt "Languages::product_fields"
 msgid "Product fields"
-msgstr "Pole produktu"
+msgstr "Pole zboží"
 
 msgctxt "Languages::product_groups"
 msgid "Product groups"
-msgstr "Skupiny produktů"
+msgstr "Skupiny zboží"
 
 msgctxt "Languages::product_id"
 msgid "Product ID"
-msgstr "Produkt ID"
+msgstr "ID zboží"
 
 msgctxt "Languages::product_images"
 msgid "Product images"
-msgstr "Obrázky produktů"
+msgstr "Obrázky zboží"
 
 msgctxt "Languages::product_inventory"
 msgid "Product inventory"
-msgstr "O výrobku"
+msgstr "Zásoby zboží"
 
 msgctxt "Languages::product_in_cart"
 msgid "This product is already in the cart"
-msgstr "Tento produkt již je v košíku"
+msgstr "Toto zboží již v košíku je"
 
 msgctxt "Languages::product_in_comparison_list"
 msgid "This product is already in the comparison list"
-msgstr "Tento produkt již je v seznamu porovnání produktů"
+msgstr "Toto zboží již v seznamu porovnání zboží je"
 
 msgctxt "Languages::product_name"
 msgid "Product name"
-msgstr "Název produktu"
+msgstr "Název zboží"
 
 msgctxt "Languages::product_notification_subscribed"
 msgid "You have been subscribed to the product in stock notifications"
-msgstr "Byli jste přihlášeni k odběru produktu oznámeních na skladě"
+msgstr "Byli jste přihlášeni k odběru oznámení o zboží na skladě"
 
 msgctxt "Languages::product_notification_unsubscribed"
 msgid "You have been unsubscribed from the product in stock notifications"
-msgstr "Byli jste odhlásili z výrobku oznámeních na skladě"
+msgstr "Byli jste odhlášeni z odběru oznámení o zboží na skladě"
 
 msgctxt "Languages::product_options"
 msgid "Product options"
-msgstr "Nastavení produktu"
+msgstr "Možnosti zboží"
 
 msgctxt "Languages::product_options_forbidden_combination"
 msgid "The <strong>[product]</strong> product has options that are included in the forbidden combination. The product was deleted from the cart"
-msgstr "<strong>[product]</strong> produkt má možnosti, které jsou zahrnuty v zakázané kombinací. Výrobek byl odstraněn z košíku"
+msgstr "Zboží <strong>[product]</strong> má možnosti, které jsou zahrnuty v zakázané kombinaci. Zboží bylo z košíku odstraněno"
 
 msgctxt "Languages::product_disabled_options"
 msgid "The product <strong>[product]</strong> has options or option variants that are not available anymore, so it was removed from cart"
-msgstr "Produkt <strong>[product]</strong> má možnosti nebo varianty možností, které již nejsou k dispozici, proto byl odstraněn z košíku"
+msgstr "Zboží <strong>[product]</strong> má možnosti nebo varianty možností, které již nejsou k dispozici, proto bylo z košíku odstraněno"
 
 msgctxt "Languages::product_s"
 msgid "Product(s)"
-msgstr "Produkt(y)"
+msgstr "Zboží"
 
 msgctxt "Languages::product_subscriptions"
 msgid "Product subscriptions"
-msgstr "Předplatné produktu"
+msgstr "Předplatné zboží"
 
 msgctxt "Languages::product_summary"
 msgid "Product summary"
-msgstr "Přehled produktů"
+msgstr "Souhrn zboží"
 
 msgctxt "Languages::product_tabs"
 msgid "Product tabs"
-msgstr "Záložky produktu"
+msgstr "Záložky zboží"
 
 msgctxt "Languages::product_type"
 msgid "Product type"
-msgstr "Typy produktů"
+msgstr "Typ zboží"
 
 msgctxt "Languages::profile"
 msgid "Profile"
@@ -7514,15 +7550,15 @@ msgstr "Konstruktor pro automatické udělování slev a odměn."
 
 msgctxt "Languages::promotion_bonus_discount_on_categories"
 msgid "Discount on all products in categories"
-msgstr "Sleva na všechny produkty v kategorii"
+msgstr "Sleva na všechno zboží v kategoriích"
 
 msgctxt "Languages::promotion_bonus_discount_on_products"
 msgid "Discount on products"
-msgstr "Sleva na produkty"
+msgstr "Sleva na zboží"
 
 msgctxt "Languages::promotion_bonus_free_products"
 msgid "Free products"
-msgstr "Produkty zdarma"
+msgstr "Zboží zdarma"
 
 msgctxt "Languages::promotion_bonus_free_shipping"
 msgid "Free shipping"
@@ -7546,7 +7582,7 @@ msgstr "Sleva na objednávku"
 
 msgctxt "Languages::promotion_bonus_product_discount"
 msgid "Product discount"
-msgstr "Sleva na produkty"
+msgstr "Sleva na zboží"
 
 msgctxt "Languages::promotion_cond_auto_coupons"
 msgid "Automatically generated coupon codes"
@@ -7566,7 +7602,7 @@ msgstr "Kód kuponu"
 
 msgctxt "Languages::promotion_cond_feature"
 msgid "Product feature"
-msgstr "Vlastnosti produktu"
+msgstr "Vlastnost zboží"
 
 msgctxt "Languages::promotion_cond_number_of_usages"
 msgid "Number of usages"
@@ -7582,15 +7618,15 @@ msgstr "Způsob platby"
 
 msgctxt "Languages::promotion_cond_price"
 msgid "Product price"
-msgstr "Cena produktu"
+msgstr "Cena zboží"
 
 msgctxt "Languages::promotion_cond_products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "Languages::promotion_cond_products_number"
 msgid "Total products in the cart"
-msgstr "Celkové množství produktů v košíku"
+msgstr "Celkové množství zboží v košíku"
 
 msgctxt "Languages::promotion_cond_purchased_products"
 msgid "Purchased products"
@@ -7610,7 +7646,7 @@ msgstr "Objednávka celkem"
 
 msgctxt "Languages::promotion_cond_total_weight"
 msgid "Total products weight in the cart"
-msgstr "Celková  váha produktů v košíku"
+msgstr "Celková hmotnost zboží v košíku"
 
 msgctxt "Languages::promotion_cond_usergroup"
 msgid "User group"
@@ -7746,7 +7782,7 @@ msgstr "Rychlé menu"
 
 msgctxt "Languages::quick_product_viewer"
 msgid "Quick product viewer"
-msgstr "Prohlížeč Quick produktů"
+msgstr "Rychlý prohlížeč zboží"
 
 msgctxt "Languages::quick_view"
 msgid "Quick view"
@@ -7814,7 +7850,7 @@ msgstr "Automaticky přegenerovat cache při změně souboru"
 
 msgctxt "Languages::rebuild_cache_automatically_tooltip"
 msgid "Modified files are tracked in real time (including the files modified directly on server) and re-cached. Block cache will be disabled. Store performance may be slightly affected. Recommended to disable on production."
-msgstr "Změněné soubory jsou sledovány v reálném čase (včetně souborů upravený přímo na serveru) a re-cache. Blok mezipaměti se vypne. Výkon obchodu může být mírně ovlivněn."
+msgstr "Změněné soubory jsou sledovány v reálném čase (včetně souborů upravených přímo na serveru) a znovu kešovány. Keš bloků bude vypnuta. Výkon obchodu může být mírně ovlivněn. Doporučeno zakázat v produkčním režimu."
 
 msgctxt "Languages::rebuild_combinations"
 msgid "Rebuild combinations"
@@ -8026,15 +8062,15 @@ msgstr "Kategorie"
 
 msgctxt "Languages::reports_parameter_12"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "Languages::reports_parameter_13"
 msgid "Product costs"
-msgstr "Produktové náklady"
+msgstr "Náklady na zboží"
 
 msgctxt "Languages::reports_parameter_14"
 msgid "The number of products"
-msgstr "Počet produktů"
+msgstr "Počet zboží"
 
 msgctxt "Languages::reports_parameter_15"
 msgid "Managers"
@@ -8322,15 +8358,15 @@ msgstr "Hledat podle ceny"
 
 msgctxt "Languages::search_by_product_features"
 msgid "Search by product features"
-msgstr "Hledat podle vlastností produktů"
+msgstr "Hledat podle vlastností zboží"
 
 msgctxt "Languages::search_by_product_filters"
 msgid "Search by product filters"
-msgstr "Hledat podle filtru produktu"
+msgstr "Hledat podle filtrů zboží"
 
 msgctxt "Languages::search_by_sku"
 msgid "Search by product code"
-msgstr "Hledat podle kódu produktu"
+msgstr "Hledat podle kódu zboží"
 
 msgctxt "Languages::search_by_vendor"
 msgid "Search by store"
@@ -8366,11 +8402,11 @@ msgstr "Možnosti vyhledávání"
 
 msgctxt "Languages::search_product"
 msgid "Search product"
-msgstr "Hledat produkt"
+msgstr "Hledat zboží"
 
 msgctxt "Languages::search_products"
 msgid "Search products"
-msgstr "Hledat produkty"
+msgstr "Hledat zboží"
 
 msgctxt "Languages::search_results"
 msgid "Search results"
@@ -8386,7 +8422,7 @@ msgstr "Hledat řetězec"
 
 msgctxt "Languages::search_tooltip"
 msgid "Search for products, customers, orders and CMS pages"
-msgstr "Vyhledávání produktů, zákazníků, objednávek a stránek CMS"
+msgstr "Vyhledávání zboží, zákazníků, objednávek a stránek CMS"
 
 msgctxt "Languages::search_words"
 msgid "Search words"
@@ -8470,7 +8506,7 @@ msgstr "Vybrat vše"
 
 msgctxt "Languages::select_all_product_options"
 msgid "You should select all product options"
-msgstr "Měli byste vybrat všechny možnosti produktů"
+msgstr "Měli byste vybrat všechny možnosti zboží"
 
 msgctxt "Languages::select_block"
 msgid "Select block"
@@ -8510,11 +8546,11 @@ msgstr "Nejprve vybrat předchozí nastavení"
 
 msgctxt "Languages::select_product"
 msgid "Select product"
-msgstr "Vybrat produkt"
+msgstr "Vybrat zboží"
 
 msgctxt "Languages::select_products"
 msgid "Select products"
-msgstr "Vybrat produkty"
+msgstr "Vybrat zboží"
 
 msgctxt "Languages::select_profile"
 msgid "Select profile"
@@ -8614,11 +8650,11 @@ msgstr "Gratulujeme k prvnímu provedení objednávky."
 
 msgctxt "Languages::share.first_order_tweet"
 msgid "Wow! The first complete order in my [product]-powered store"
-msgstr "Wow! První kompletní objednávka v mém [product] -obchodě"
+msgstr "Páni! První kompletní objednávka v mém obchodu poháněném [product]"
 
 msgctxt "Languages::share.installation_tweet"
 msgid "I have just created an online store with [product_name]"
-msgstr "Právě jsem vytvořil on-line obchod s [product_name]"
+msgstr "Právě jsem vytvořil elektronický obchod pomocí [product_name]"
 
 msgctxt "Languages::sharedsec"
 msgid "SharedSec"
@@ -8670,7 +8706,7 @@ msgstr "Odesláno"
 
 msgctxt "Languages::shipped_products"
 msgid "Shipped products"
-msgstr "Odeslané produkty"
+msgstr "Odeslané zboží"
 
 msgctxt "Languages::shipper_number"
 msgid "Shipper number"
@@ -10034,7 +10070,7 @@ msgstr "(zobrazeno v pop up okně)"
 
 msgctxt "Languages::text_additional_thumbnail"
 msgid "(displayed on product details page in \"Additional images\")"
-msgstr "(zobrazeno na stránce detailů produktu v \"Další obrázky\")"
+msgstr "(zobrazeno na stránce detailů zboží v \"Další obrázky\")"
 
 msgctxt "Languages::text_addon_cannot_enable"
 msgid "Add-on \"[addon_name]\" is incompatible with the following add-ons: [addons]. It cannot be enabled"
@@ -10086,11 +10122,11 @@ msgstr "Amazon Checkout zatím neodpovídá, čekejte prosím. Je možné že ob
 
 msgctxt "Languages::text_amazon_incorrect_products_count"
 msgid "Number of products in your cart differs from the number of products in the Amazon request."
-msgstr "Počet položek ve vašem nákupním košíku se liší od počtu zboží v dotazu Amazon."
+msgstr "Počet položek ve Vašem nákupním košíku se liší od počtu zboží v dotazu na Amazon."
 
 msgctxt "Languages::text_amazon_link_message"
 msgid "For testing purposes, the Merchant URL may be the HTTP link to your store, but the live mode requires secure connection and you must use the HTTPS link. Also, remember to enable the production mode on Amazon's Seller Central website when you are ready to go live."
-msgstr "Pro účely testování může být obchodnická URL HTTP odkazem do vašeho obchodu, ale mód ostrého provozu vyžaduje zabezpečené připojení a musíte tedy použít HTTPS odkaz. Když budete připraveni začít s ostrou provozem, nezapomeňte také v Amazon 's Seller Central aktivovat Production mode."
+msgstr "Pro účely testování může být Merchant URL HTTP odkaz do vašeho obchodu, ale režim ostrého provozu vyžaduje zabezpečené připojení a musíte tedy použít HTTPS odkaz. Až budete připraveni začít s ostrým provozem, nezapomeňte také v Amazon's Seller Central aktivovat produkční režim."
 
 msgctxt "Languages::text_amazon_surcharge"
 msgid "<b>Note:</b> According to the Amazon <a href='https://payments.amazon.com/sdui/sdui/about?nodeId=6019' target='_blank'>policy</a> (B4.2), surcharges are not supported. Any surcharges you may have set will be ignored when Amazon Checkout is used."
@@ -10182,11 +10218,11 @@ msgstr "Tento kupon může být použit pouze jednou. Již jste ho využil/a."
 
 msgctxt "Languages::text_cart_amount_changed"
 msgid "The quantity of the product <b>[product]</b> in your cart  has been changed to allowable."
-msgstr "Množství produktu <b>[product]</b> v košíku bylo změněno."
+msgstr "Množství zboží <b>[product]</b> ve Vašem košíku bylo změněno na množství povolené."
 
 msgctxt "Languages::text_cart_amount_corrected"
 msgid "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
-msgstr "Počet produktů ve skladu není dostatečný pro vaši objednávku. Množství produktů <b>[product]</b> bylo změněno ve vašem košíku."
+msgstr "Počet zboží na skladě není pro Vaši objednávku dostatečný. Množství zboží <b>[product]</b> bylo ve Vašem košíku změněno."
 
 msgctxt "Languages::text_cart_empty"
 msgid "Your cart is empty"
@@ -10202,7 +10238,7 @@ msgstr "Minimální množství pro \"[product]\" je <b>[quantity]</b>"
 
 msgctxt "Languages::text_cart_not_enough_inventory"
 msgid "The number of products in the inventory is not enough for your order"
-msgstr "Množství zboží dostupné není dost pro vaši objednávku"
+msgstr "Počet zboží na skladě není pro Vaši objednávku dostatečný"
 
 msgctxt "Languages::text_cart_zero_inventory"
 msgid "<b>[product]</b> has zero inventory and cannot be added to the cart"
@@ -10210,7 +10246,7 @@ msgstr "<b>[product]</b> má nulové zásoby a nelze jej přidat do košíku"
 
 msgctxt "Languages::text_cart_zero_inventory_and_removed"
 msgid "<b>[product]</b> has zero inventory and is removed from the cart"
-msgstr "<b>[product]</b> má nulové zásoby a je odebrán z vozíku"
+msgstr "<b>[product]</b> má nulové zásoby a je z košíku odebírán"
 
 msgctxt "Languages::text_categories_have_been_deleted"
 msgid "Categories have been deleted successfully."
@@ -10218,7 +10254,7 @@ msgstr "Kategorie byla úspěšně odstraněna."
 
 msgctxt "Languages::text_category_delimiter"
 msgid "Category path delimiter for product main category (e.g. \"Computers///Desktops\")"
-msgstr "Oddělovač cesty kategorie pro hlavní kategorii produktu (např.\"Computers///Desktops\")"
+msgstr "Oddělovač cesty kategorie pro hlavní kategorii zboží (např. \"Computers///Desktops\")"
 
 msgctxt "Languages::text_category_detailed_image"
 msgid "(optional displayed on category details page only)"
@@ -10226,7 +10262,7 @@ msgstr "(nepovinně zobrazeno pouze v kategorii detaily stránky)"
 
 msgctxt "Languages::text_category_has_been_deleted"
 msgid "Category, subcategories and their products have been deleted successfully."
-msgstr "Kategorie, podkategorie a jejich produkty jsou úspěšně odstraněny."
+msgstr "Kategorie, podkategorie a jejich zboží byly úspěšně odstraněny."
 
 msgctxt "Languages::text_category_icon"
 msgid "(displayed on category list and details pages)"
@@ -10286,7 +10322,7 @@ msgstr "Vrátit se"
 
 msgctxt "Languages::text_combination_out_of_stock"
 msgid "No products with the selected options in stock"
-msgstr "Zboží ve vybraném provedení není skladem"
+msgstr "Zboží s vybranými možnostmi není skladem"
 
 msgctxt "Languages::text_companies_activated"
 msgid "Selected companies have been activated"
@@ -10375,7 +10411,7 @@ msgstr "Úpravy textu"
 
 msgctxt "Languages::text_edp_product"
 msgid "This product is electronically distributed"
-msgstr "Tento produkt je distribuován elektronicky"
+msgstr "Toto zboží je distribuováno elektronicky"
 
 msgctxt "Languages::text_ekey_not_valid"
 msgid "The confirmation link is invalid or has expired."
@@ -10415,7 +10451,7 @@ msgstr "Níže je uveden seznam polí, které mohou být exportovány.  <b>Zvýr
 
 msgctxt "Languages::text_exim_import_features_note"
 msgid "<h4>Product features import format</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code>where,<dl class=\"dl-horizontal\"><dt>%Feature ID%</dt><dd>the id of feature</dd><dt>%Group name%</dt><dd>the name of feature group</dd><dt>%Feature name%</dt><dd>the name of feature</dd><dt>%Feature type%</dt><dd>the feature type (C - checkbox, M - multiple checkboxes, S - text select box, N - number select box, E - extended selectbox, T - simple text, O - number, D - date)</dd><dt>%Feature value%</dt><dd>the feature value (several values can be delimited by comma)</dd></dl><p>Several features must be delimited by semicolon.</p><h5>Example:</h5><code>ISBN: T[1233423423]; Release date: D[05/05/07]; Color: S[Red]</code>"
-msgstr "<h4>Format dovoz pro vlastnosti výrobku</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code> kde <dl class=\"dl-horizontální\"><dt>%Feature ID%</dt><dd>je ID vlastnost</dd><dt>%Group name%</dt><dd>Názov skupiny vlastnosti</dd><dt>%Feature name%</dt><dd>Názov vlastnosti</dd><dt>%Feature type%</dt><dd>typ vlastnosti (C - zaškrtávacie police, M - viacero zaškrtávacích políčok, s - pole s výberom textů, N - pól s výberom Čísla, E - Rozšířené pólový s výberom, T - jednoduchý text, ON - číslo, D - datum)</dd><dt>%Feature value%</dt><dd>Hodnota funkce (může být několik hodnota oddělených čárkou)</dd></dl><p>Několik vlastnosti musi být oddělených středníkem</p><h5>Napríklad:</h5><code>ISBN: T [1233423423]; Datum vydání: D[05/05/07] Barvě: S [Red]</code>"
+msgstr "<h4>Formát importu vlastností zboží</h4><code>{$ldelim}%Feature ID%{$rdelim} (%Group name%) %Feature name%: %Feature type%[%Feature value%]</code> kde <dl class=\"dl-horizontální\"><dt>%Feature ID%</dt><dd>je ID vlastnost</dd><dt>%Group name%</dt><dd>název skupiny vlastností</dd><dt>%Feature name%</dt><dd>název vlastnosti</dd><dt>%Feature type%</dt><dd>typ vlastnosti (C - zaškrtávací pole, M - vícero zaškrtávacích polí, s - textové pole s výběrem, N - číselné pole s výběrem, E - rozšířené výběrové pole, T - jednoduchý text, O - číslo, D - datum)</dd><dt>%Feature value%</dt><dd>hodnota vlastnosti (několik hodnot může být oddělených čárkou)</dd></dl><p>několik vlastností musí být odděleno středníkem</p><h5>Příklad:</h5><code>ISBN: T[1233423423]; Datum vydání: D[05/05/07] Barva: S [Červená]</code>"
 
 msgctxt "Languages::text_exim_import_files_note"
 msgid "<h4>File import format</h4><code>%File location%</code> where, <dl class=\"dl-horizontal\"> <dt>%File location%</dt> <dd>can be an absolute or relative path in a server file system or a URL</dd> </dl> <p>Several files must be delimited by comma.</p> <h5>Example 1:</h5><code>file1.jpg</code><h5>Example 2:</h5><code>backup/file1.zip, images/file2.jpg</code>"
@@ -10439,7 +10475,7 @@ msgstr "Ujistěte se, prosím, že soubory které importujete mají správný UT
 
 msgctxt "Languages::text_expired_license"
 msgid "Unfortunately, your subscription for [product] software is over. Please renew it as soon as possible to avoid the program suspending."
-msgstr "Vaše předplatné softwaru [product] bohužel skončilo. Chcete-li nadále používat program, obnovte ho, prosím, čím dříve tím lépe."
+msgstr "Vaše předplatné software [product] bohužel vypršelo. Obnovte si jej co nejdříve, aby nedošlo k jeho pozastavení."
 
 msgctxt "Languages::tmpl_text_fancybox"
 msgid "FancyBox"
@@ -10447,7 +10483,7 @@ msgstr "FancyBox"
 
 msgctxt "Languages::text_features_delimiter"
 msgid "Delimiter between variant values of a product feature."
-msgstr "Oddělovač mezi variantami hodnotami funkce produktu."
+msgstr "Oddělovač mezi variantami hodnot vlastnosti zboží."
 
 msgctxt "Languages::text_feedback_notice"
 msgid "The parameters that will be sent to our server to analyze the functionality and the current configuration are listed below.<br />Please note that no personal or financial information will be sent. After you get acquainted with the list of the parameters, click on \"Send\".<br />"
@@ -10455,7 +10491,7 @@ msgstr "Parametry, které budou odeslány na našem serveru analyzovat funkčnos
 
 msgctxt "Languages::text_files_directory"
 msgid "Directory where product files are located. This will be used if the \"File\" field data is specified without a path."
-msgstr "Adresář, kde jsou umístěny soubory produktu. Tento adresa bude použit v případě, že \"soubor\" datové pole je specifikován bez cesty."
+msgstr "Adresář, kde jsou umístěny soubory zboží. Tento bude použit v případě, že datové pole \"File\" je specifikováno bez cesty."
 
 msgctxt "Languages::text_file_created"
 msgid "The file <b>[file]</b> has been successfully created"
@@ -10505,9 +10541,45 @@ msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
 msgstr "Není dovoleno nahrávat soubory s velikostí větší než <b>[size]</b>"
 
+msgctxt "Languages::text_license_required_full"
+msgid "Your current CS-Cart edition is Professional. We also offer another one, a more advanced edition—<b>Ultimate</b>. With CS-Cart Ultimate, you'll be able to use unlimited number of storefronts and the mobile commerce app as well as the eBay Synchronization add-on and the Facebook app without additional fees. To unlock unlimited storefonts and mobile commerce, get the Ultimate license."
+msgstr ""
+
+msgctxt "Languages::text_license_required_storefronts"
+msgid "Add as many storefronts as you want and manage them via a single admin panel."
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile"
+msgid "Manage your store conveniently on-the-go via your mobile device."
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook"
+msgid "Build your store into your Facebook page to get closer to your audience and draw more new customers."
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay"
+msgid "Boost your sales by selling products presented in your CS-Cart store on the world's biggest marketplace—eBay."
+msgstr ""
+
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
 msgstr "Prosím, dokončete svou platbu.<br />Toto je zajištěna platební stránka, obsluhována z bezpečné lokace."
+
+msgctxt "Languages::text_license_required_storefronts-title"
+msgid "Unlimited Storefronts"
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile-title"
+msgid "Mobile Admin panel App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook-title"
+msgid "Facebook App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay-title"
+msgid "eBay Synchronization"
+msgstr ""
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -10515,7 +10587,7 @@ msgstr "Aktivovat <strong>Plný režim</strong>."
 
 msgctxt "Languages::license_required"
 msgid "[product] license required."
-msgstr "[product] požadovaná licence."
+msgstr "Licence [product] požadována."
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10563,7 +10635,7 @@ msgstr "<h4>Není registrovaným členem?</h4><p>Vytvoření nového účtu je s
 
 msgctxt "Languages::text_login_to_add_to_cart"
 msgid "This product cannot be added to the<br>cart because you are not logged in."
-msgstr "Tento produkt nemůže být přidán do<br>košíku, protože nejste přihlášen."
+msgstr "Toto zboží nemůže být přidáno do<br>košíku, protože nejste přihlášeni."
 
 msgctxt "Languages::text_mail_area_logo"
 msgid "Logo for <b>invoices</b>"
@@ -10623,7 +10695,7 @@ msgstr "Nejsou definovány žádné [items]"
 
 msgctxt "Languages::text_no_matching_products_found"
 msgid "No products found matching the search criteria"
-msgstr "Nebyly nalezeny žádné produkty, které by splnily vyhledávací kritéria"
+msgstr "Nebylo nalezeno žádné zboží plnící kritéria hledání"
 
 msgctxt "Languages::text_no_matching_results_found"
 msgid "No results match the search query"
@@ -10639,15 +10711,15 @@ msgstr "Platba není vyžadována."
 
 msgctxt "Languages::text_no_products"
 msgid "There are no products in this section"
-msgstr "V této sekci nejsou žádné produkty"
+msgstr "V této sekci není žádné zboží"
 
 msgctxt "Languages::text_no_products_defined"
 msgid "No products defined"
-msgstr "Nejsou definovány žádné produkty"
+msgstr "Není definováno žádné zboží"
 
 msgctxt "Languages::text_no_products_found"
 msgid "No products found"
-msgstr "Žádné produkty nenalezeny"
+msgstr "Nenalezeno žádné zboží"
 
 msgctxt "Languages::selected_filters"
 msgid "Selected filters"
@@ -10679,7 +10751,7 @@ msgstr "Nastavte, prosím, náseldující URL v sekci Technické Inforamce na Og
 
 msgctxt "Languages::text_options_no_inventory"
 msgid "In order to create option combinations, you must have the \"Inventory\" check box selected for at least one product option."
-msgstr "Chcete-li vytvořit kombinace možností, musíte mít alespoň u jedné volitelné vlastnosti zboží zaškrtnuté políčko \"Inventář\"."
+msgstr "Chcete-li vytvořit kombinace možností, musíte mít alespoň u jedné volitelné možnosti zboží zaškrtnuté políčko \"Inventář\"."
 
 msgctxt "Languages::text_order_backordered"
 msgid "Your order has been backordered. We will contact you at the first opportunity."
@@ -10823,31 +10895,31 @@ msgstr "prettyPhoto"
 
 msgctxt "Languages::text_price_dec_sign_delimiter"
 msgid "Decimal separator for product prices."
-msgstr "Oddělovač pro cenu produktů"
+msgstr "Oddělovač desetinných míst pro ceny zboží."
 
 msgctxt "Languages::text_products_added"
 msgid "The products have been added successfully. See the list of the new products below."
-msgstr "Následující produkty byly přidány do obchodu:"
+msgstr "Zboží bylo úspěšně přidáno. Viz seznam nového zboží níže."
 
 msgctxt "Languages::text_products_cloned"
 msgid "The products have been cloned successfully. Below the list of new products"
-msgstr "Zboží bylo úspěšně naklonované. Seznam nového zboží se nachází níže"
+msgstr "Zboží bylo úspěšně naklonováno. Viz seznam nového zboží níže"
 
 msgctxt "Languages::text_products_have_been_deleted"
 msgid "Products have been deleted successfully."
-msgstr "Produkty byly úspěšně odstraněny."
+msgstr "Zboží bylo úspěšně odstraněno."
 
 msgctxt "Languages::text_products_updated"
 msgid "The following products have been updated:"
-msgstr "Následující produkt byl změněn:"
+msgstr "Následující zboží bylo aktualizováno:"
 
 msgctxt "Languages::text_products_updated_successfully"
 msgid "The product(s) have been updated successfully"
-msgstr "Produkt(y) byly úspěšně aktualizován(y)"
+msgstr "Zboží bylo úspěšně aktualizováno"
 
 msgctxt "Languages::text_product_cloned"
 msgid "The product has been cloned"
-msgstr "Produkt <b>[product]</b> byl naklonován úspěšně. Nyní může editovat nový produkt."
+msgstr "Zboží bylo naklonováno"
 
 msgctxt "Languages::text_product_detailed_image"
 msgid "(optional displayed in popup window)"
@@ -10863,11 +10935,11 @@ msgstr "Následující <a href=\"[url]\" target=\"_blank\">filtry zboží</a> by
 
 msgctxt "Languages::text_product_has_been_deleted"
 msgid "Product has been deleted successfully."
-msgstr "Produkt byl úspěšně odstraněn."
+msgstr "Zboží bylo úspěšně odstraněno."
 
 msgctxt "Languages::text_product_thumbnail"
 msgid "(displayed on products list and product details pages)"
-msgstr "(zobrazeno na seznamu produktů a detailní stránce produktu)"
+msgstr "(zobrazeno na seznamu zboží a stránce podrobností o zboží)"
 
 msgctxt "Languages::text_profile_activated"
 msgid "Your profile has now been activated, you may login using the username you received in the previous e-mail."
@@ -10927,7 +10999,7 @@ msgstr "Redaktor"
 
 msgctxt "Languages::text_remove_additional_images"
 msgid "When importing additional images of an updated product, existing images of this product will be deleted before import"
-msgstr "Před importem dalších obrázků aktualizovaného produktu budou stávající obrázky odstraněny"
+msgstr "Před importem dalších obrázků aktualizovaného zboží budou stávající obrázky odstraněny"
 
 msgctxt "Languages::text_remove_backup_files"
 msgid "Warning! If you remove the backup files, you will not be able to restore your previous installation. Ensure that the new version is working properly, and the backup database files are in a safe place."
@@ -10935,11 +11007,11 @@ msgstr "Varování! Jestliže odeberete zálohovací soubory, nebude již možn�
 
 msgctxt "Languages::text_required_group_product"
 msgid "Please select a product for the required group [group_name]"
-msgstr "Vyberte, prosím, produkt z požadované skupiny [group_name]"
+msgstr "Vyberte prosím zboží z požadované skupiny [group_name]"
 
 msgctxt "Languages::text_reset_inventory_description"
 msgid "Quantity of all products in the store will be reset."
-msgstr "Množství všech produktů v obchodě se vynulují."
+msgstr "Množství všeho zboží v obchodě bude vynulováno."
 
 msgctxt "Languages::text_restore_question"
 msgid "Are you sure that you want to restore the template?"
@@ -10979,11 +11051,11 @@ msgstr "Pozor! Některá data nebudou zkopírovány v průběhu tohoto procesu: 
 
 msgctxt "Languages::text_share_promotions_tooltip"
 msgid "In order to share promotions make sure the respective products are also shared (check Share products below)"
-msgstr "Abyste mohli sdílet akce, ujistěte se, že sdílíte i příslušné produkty (zaškrtněte \"Sdílet produkty níže\")"
+msgstr "Abyste mohli sdílet akce, ujistěte se, že sdílíte i příslušné zboží (zaškrtněte Sdílet zboží níže)"
 
 msgctxt "Languages::text_shipping_packages_info"
 msgid "To ensure a more precise shipping rate estimation, the products have been separated into packages as defined by the product settings and the shipping method configuration. The following info is for referential use only"
-msgstr "Pro zajištění přesnějšího výpočtu přepravních sazeb byly produkty rozděleny do obalů, jak je definováno v jejích nastavení a v konfiguraci způsobu dopravy. Následující informace je určena pouze pro referenční použití"
+msgstr "Pro zajištění přesnějšího výpočtu přepravních sazeb bylo zboží rozděleno do obalů, jak je definováno v jeho nastavení a v konfiguraci způsobu dopravy. Následující informace je určena pouze pro referenční použití"
 
 msgctxt "Languages::text_shipping_rates_changed"
 msgid "Shipping rates were changed"
@@ -11083,11 +11155,11 @@ msgstr "Všechny funkce jsou k dispozici po dobu 30 dnů po instalaci. Nemusíte
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
-msgstr "Poplatek <b>[tax]</b> byl použit na všechny produkty"
+msgstr "Daň <b>[tax]</b> byla použita na všechno zboží"
 
 msgctxt "Languages::text_tax_unset"
 msgid "The tax <b>[tax]</b> has been removed from all products"
-msgstr "Poplatek <b>[tax]</b> byl odebrán ze všech produktů"
+msgstr "Daň <b>[tax]</b> byla odebrána ze všeho zboží"
 
 msgctxt "Languages::text_template_changed"
 msgid "Your changes have not been saved.Press OK to save changes or Cancel to discard them."
@@ -11167,7 +11239,7 @@ msgstr "Tyto soubory mají lokální úpravy a budou zálohovány. Po dokončen�
 
 msgctxt "Languages::text_uc_check_ok"
 msgid "Your [product] version has been checked successfully. It is ready for upgrade."
-msgstr "Vaše verze softwaru [product] byla úspěšně zkontrolována. Nyní je připravena pro aktualizaci."
+msgstr "Vaše verze [product] byla úspěšně zkontrolována. Je připravena pro aktualizaci."
 
 msgctxt "Languages::text_uc_conflicts"
 msgid "The following files had local modifications"
@@ -11223,7 +11295,7 @@ msgstr "Nesprávná cesta k souborům aktualizace"
 
 msgctxt "Languages::text_uc_license_number_required"
 msgid "Please enter your [product] license number"
-msgstr "Prosím, zadejte své licenční číslo pro [product]"
+msgstr "Zadejte prosím své licenční číslo [product]"
 
 msgctxt "Languages::text_uc_list_of_updates_missing"
 msgid "List of upgrades is missing"
@@ -11303,7 +11375,7 @@ msgstr "Na stránce je používána měna kterou platební systém nepodporuje. 
 
 msgctxt "Languages::text_upgrade_available"
 msgid "A new version of [product] is available. If you want to upgrade to the latest version now, click <a href=\"[link]\">here</a>."
-msgstr "Je k dispozici nová verze produktu [product]. Pokud chcete provést update na nejnovější verzi, klikněte <a href=\"[link]\">zde</a>."
+msgstr "Je k dispozici nová verze [product]. Pokud chcete nyní provést aktualizaci na nejnovější verzi, klikněte <a href=\"[link]\">zde</a>."
 
 msgctxt "Languages::text_usergroup_activated"
 msgid "The user group level you requested has been activated"
@@ -11891,7 +11963,7 @@ msgstr "Celková cena"
 
 msgctxt "Languages::total_product_cost"
 msgid "Total product cost"
-msgstr "Celková cena produktu"
+msgstr "Celková cena zboží"
 
 msgctxt "Languages::total_results"
 msgid "Total results"
@@ -11920,6 +11992,10 @@ msgstr "TPE"
 msgctxt "Languages::track"
 msgid "Track"
 msgstr "Sledovat"
+
+msgctxt "Languages::tracking_num"
+msgid "Tracking number"
+msgstr ""
 
 msgctxt "Languages::tracking_number"
 msgid "Tracking number"
@@ -12019,7 +12095,7 @@ msgstr "Váš obchod je ve zkušebním režimu.<br /><br />Po vypršení 30 denn
 
 msgctxt "Languages::trial_expired"
 msgid "Your [product] trial period has expired"
-msgstr "Váše [product] zkušební doba uplynula"
+msgstr "Vaše zkušební doba [product] uplynula"
 
 msgctxt "Languages::text_input_license_code"
 msgid "Please enter your license number to be able to manage your store:"
@@ -12047,7 +12123,7 @@ msgstr "Titulek stránky zobrazena na panelu prohlížeče."
 
 msgctxt "Languages::ttc_popularity"
 msgid "Product popularity rating based on how many times the storefront has been viewed, number of additions to cart and number of purchases."
-msgstr "Ukazatel popularity produktu je založen na tom, jak často byl produkt v obchodě viděn, kolikrát byl přidán do košíku a kolikrát byl produkt zakoupen."
+msgstr "Ukazatel popularity zboží je založen na tom, kolikrát bylo zboží v obchodě zobrazeno, kolikrát bylo přidáno do košíku a kolikrát bylo zakoupeno."
 
 msgctxt "Languages::ttc_storefront_url"
 msgid "All the storefronts domain names must be associated with the same IP-address. Note: Switch to \"All stores\" to edit"
@@ -12139,11 +12215,11 @@ msgstr "Šablona odpovědná za zobrazování doplňkových polí pro metodu pla
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_items_in_box"
 msgid "Use this field to define the minimum and maximum number of product items to be shipped in a separate box. Enter a non-zero value and specify the box dimensions below."
-msgstr "Toto pole používejte pro nastavení minimálních a maximálních počtů položek zboží, které mohou být dopravovány v samostatném boxu. Zadejte nenulovou hodnotu a určit rozměry boxu níže."
+msgstr "Toto pole používejte pro nastavení minimálních a maximálních počtů položek zboží, které mohou být dopravovány v samostatné krabici. Zadejte nenulovou hodnotu a určete rozměry krabice níže."
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_weight"
 msgid "Non-downloadable products with zero weight are handled as having minimal possible non-zero weight"
-msgstr "Nestiahnuteľné produkty s nulovou hmotností se zpracovávají jako kdyby měli minimální možnou nenulovou hmotnost"
+msgstr "Zboží neurčené ke stažení s nulovou hmotností se zpracovává jako kdyby mělo minimální možnou nenulovou hmotnost"
 
 msgctxt "Languages::tt_views_products_update_categories"
 msgid "Categories to be displayed in the navigation breadcrumbs."
@@ -12151,7 +12227,7 @@ msgstr "Kategorie budou zobrazeny v mininavigácii."
 
 msgctxt "Languages::tt_views_products_update_inventory"
 msgid "Track in stock product quanity. Enable the \"Enable inventory tracking\" option (Settings -> General) to modify."
-msgstr "Sledujte množství zásob na skladě. Povolte \"Zapnout sledování zásob\" v Nastavení -> Obecné pro úpravu."
+msgstr "Sledujte množství zásob na skladě. Povolte volbu \"Povolit sledování zásob\" (Nastavení -> Obecné) pro úpravu."
 
 msgctxt "Languages::tt_views_products_update_list_price"
 msgid "Manufacturer suggested retail price."
@@ -12159,27 +12235,27 @@ msgstr "Výrobce doporučené maloobchodní ceny."
 
 msgctxt "Languages::tt_views_products_update_out_of_stock_actions"
 msgid "Note that the 'Buy in advance' option requires a positive product amount while the 'Sign up for notification' option requires a non-positive amount. Also note that the 'Sign up for notification' option is not applied to products tracked with options."
-msgstr "Možnost \"Koupit předem\" umožní objednat produkt i před datumem dostupnosti. Produkt musí být v tomto případě skladem. \"Zadat email pro oznámení \" zase slouží pro případy, kdy dojde k vyprodání produktu a zákazníci mohou zadat svůj email, na který jim dojde upozornění o opětovném naskladnění."
+msgstr "Vezměte na vědomí, že možnost 'Koupit předem' vyžaduje kladné množství zboží, zatímco možnost 'Přihlásit se pro oznámení' vyžaduje množství záporné. Také možnost 'Přihlásit se pro oznámení' není použita pro položky zboží, které jsou sledovány s jejich možnostmi."
 
 msgctxt "Languages::tt_views_products_update_product_details_layout"
 msgid "By default, the template that is defined in the settings of the main product category is used"
-msgstr "Standardně bude použita šablona, která je uvedena v nastaveních hlavní kategorie produktu"
+msgstr "Standardně bude použita šablona, která je uvedena v nastaveních hlavní kategorie zboží"
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_catalog"
 msgid "Show this feature on product list pages along with product description."
-msgstr "Zobrazit tuto vlastnost na seznamu zboží spolu s popisem zboží."
+msgstr "Zobrazit tuto vlastnost na stránkách seznamu zboží spolu s popisem zboží."
 
 msgctxt "Languages::tt_views_product_features_update_feature_display_on_product"
 msgid "If enabled, the product feature is displayed on the product details page in the storefront"
-msgstr "Pokud je povoleno, taot vlastnost produktu bude zobrazena na stránce s detailem produktu"
+msgstr "Je-li povoleno, tato vlastnost zboží je zobrazena v obchodu na stránce s podrobnostmi o zboží"
 
 msgctxt "Languages::tt_views_product_features_update_prefix"
 msgid "An affix that precedes the product feature."
-msgstr "Předpona, která předchází vlastnostem produktu."
+msgstr "Předpona, která předchází vlastnost produktu."
 
 msgctxt "Languages::tt_views_product_features_update_suffix"
 msgid "An affix that follows the product feature."
-msgstr "Přípona, která následuje po vlastnostech produktu."
+msgstr "Přípona, která následuje vlastnost zboží."
 
 msgctxt "Languages::tt_views_product_options_update_incorrect_filling_message"
 msgid "Message that is displayed if the entered data is incorrect."
@@ -12191,7 +12267,7 @@ msgstr "Poznámka která udává hodnotu, kterou je třeba vložit."
 
 msgctxt "Languages::tt_views_product_options_update_inventory"
 msgid "If enabled, the option is taken into account when forming the product inventory."
-msgstr "Pokud je povoleno, bude se udržovat skladová zásoba s ohledem na variantu produktu."
+msgstr "Je-li povoleno, možnost bude zahrnuta při sestavování skladových zásob zboží."
 
 msgctxt "Languages::tt_views_product_options_update_regexp"
 msgid "Regular expression specifying a pattern to match."
@@ -12207,7 +12283,7 @@ msgstr "Období pro analýzu (den, týden, měsíc, rok)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_dependence"
 msgid "Parameter to sort values by. It should relate to the Value to display param (e.g. Product costs—Total cost or Number of products—Number of items)."
-msgstr "Parametr, podle kterého budou seřazeny hodnoty. To by se mělo týkat hodnoty zobrazení parametrů (např. Ceny zboží - Celková cena nebo Počet produktů - Počet položek)."
+msgstr "Parametr pro řazení hodnot. Ten by se měl týkat parametru Hodnota pro zobrazení (např. Ceny zboží—Celková cena nebo Počet zboží—Počet položek)."
 
 msgctxt "Languages::tt_views_sales_reports_update_table_limit"
 msgid "Max number of chart components."
@@ -12255,7 +12331,7 @@ msgstr "Hodnota nastavení nelze měnit, protože totožné e-mailovou adresu re
 
 msgctxt "Languages::unable_delete_vendor_orders_exists"
 msgid "Unable to delete this store because there are orders containing the products of this company in the store database. To delete the account, please delete all such orders first."
-msgstr "Nemůžete zavřít tento obchod, protože v databázi se nacházejí objednávky obsahující zboží této společnosti. Před odstraněním účtu nejprve, prosím, vymažte všechny takové objednávky."
+msgstr "Nemůžete odstranit tento obchod, protože v databázi se nacházejí objednávky obsahující zboží této společnosti. Pro odstranění účtu nejprve prosím všechny takové objednávky odstraňte."
 
 msgctxt "Languages::unable_to_assign_usergroup"
 msgid "Unable to assign the usergroup. Please contact the shop administrator."
@@ -12383,7 +12459,7 @@ msgstr "<p class=\"text-error\">Vaše předplatné pro aktualizace vypršelo a b
 
 msgctxt "Languages::update_products"
 msgid "Update products"
-msgstr "Aktualizace produktů"
+msgstr "Aktualizovat zboží"
 
 msgctxt "Languages::update_profile"
 msgid "Update profile"
@@ -12555,7 +12631,7 @@ msgstr "Košíky uživatelů"
 
 msgctxt "Languages::users_carts_menu_description"
 msgid "Lists of products that have not been purchased for some reason."
-msgstr "Seznam produktů, které nebyly z nějakého důvodu zakoupeny."
+msgstr "Seznam zboží, které nebylo z nějakého důvodu zakoupeno."
 
 msgctxt "Languages::users_menu_description"
 msgid "Manage user accounts that are registered at your store."
@@ -12635,7 +12711,7 @@ msgstr "Použít vlastní zobrazení"
 
 msgctxt "Languages::use_custom_weight_settings"
 msgid "Use custom weight settings"
-msgstr "Použijte zákaznické nastavení váhy"
+msgstr "Použít vlastní nastavení hmotnosti"
 
 msgctxt "Languages::use_existing_block"
 msgid "Use Existing Block"
@@ -12835,7 +12911,7 @@ msgstr "Ukázat všechny objednávky"
 
 msgctxt "Languages::view_all_product_features"
 msgid "View all product features"
-msgstr "Zobrazit všechny funkce produktu"
+msgstr "Zobrazit všechny vlastnosti zboží"
 
 msgctxt "Languages::view_cart"
 msgid "View cart"
@@ -12867,19 +12943,19 @@ msgstr "Zobrazit stránku"
 
 msgctxt "Languages::view_product"
 msgid "View product"
-msgstr "Zobrazit produkt"
+msgstr "Zobrazit zboží"
 
 msgctxt "Languages::view_products"
 msgid "View products"
-msgstr "Ukázat produkty"
+msgstr "Zobrazit zboží"
 
 msgctxt "Languages::view_product_features"
 msgid "View product features"
-msgstr "Zobrazit vlastnosti výrobku"
+msgstr "Zobrazit vlastnosti zboží"
 
 msgctxt "Languages::view_purchased_products"
 msgid "View purchased products"
-msgstr "Zobrazit zakoupené produkty"
+msgstr "Zobrazit zakoupené zboží"
 
 msgctxt "Languages::view_report"
 msgid "View report"
@@ -12903,7 +12979,7 @@ msgstr "Zobrazit objednávky"
 
 msgctxt "Languages::view_vendor_products"
 msgid "View store products"
-msgstr "Zobrazit produkty"
+msgstr "Zobrazit zboží obchodu"
 
 msgctxt "Languages::view_vendor_users"
 msgid "View store users"
@@ -12963,7 +13039,7 @@ msgstr "Tato \"[condition]\" podmínka může být použita pouze ve skupině s 
 
 msgctxt "Languages::warning_store_optimization_dev"
 msgid "Auto cache update enabled.<br /><br />Modified files are tracked in real time (including the files modified directly on server) and re-cached.<br /><br />Store performance may be slightly affected. Recommended to disable on production in the <a href=\"[link]\">Themes</a>."
-msgstr "Automatická aktualizace mezipaměti povolena.<br /><br />Upravené soubory jsou sledovány v reálném čase (včetně souborů upravených přímo na serveru) a znovu uloženy do mezipaměti.<br /><br />Výkon obchodu může být mírně ovlivněn. Doporučujeme vypnout při tvorbě <a href=\"[link]\">témata</a>."
+msgstr "Automatická aktualizace mezipaměti povolena.<br /><br />Upravené soubory jsou sledovány v reálném čase (včetně souborů upravených přímo na serveru) a znovu uloženy do mezipaměti.<br /><br />Výkon obchodu může být mírně ovlivněn. Doporučujeme vypnout v produkčním režimu v <a href=\"[link]\">Tématech</a>."
 
 msgctxt "Languages::warning_store_optimization_dev_disabled"
 msgid "Auto cache update disabled.<br /><br />Clear compiled templates manually after modifying the theme files by following <a href=\"[link]\">this link</a> to apply the changes."
@@ -12987,7 +13063,7 @@ msgstr "E-Mail/Objednávka ID nebyla v databázi nalezena."
 
 msgctxt "Languages::warning_variants_removal"
 msgid "Clicking on Save will remove product feature values."
-msgstr "Kliknutím na tlačítko Uložit odstranit hodnoty vlastností produktu."
+msgstr "Kliknutí na tlačítko Uložit odstraní hodnoty vlastností zboží."
 
 msgctxt "Languages::website"
 msgid "Website"
@@ -13067,7 +13143,7 @@ msgstr "Týden"
 
 msgctxt "Languages::weight"
 msgid "Weight"
-msgstr "Váha"
+msgstr "Hmotnost"
 
 msgctxt "Languages::weight_dependences"
 msgid "Weight dependencies"
@@ -13075,11 +13151,11 @@ msgstr "Cena v závislosti na váze"
 
 msgctxt "Languages::weight_limit"
 msgid "Weight limit"
-msgstr "Váhový limit"
+msgstr "Hmotnostní limit"
 
 msgctxt "Languages::weight_modifier"
 msgid "Weight modifier"
-msgstr "Váhový modifikátor"
+msgstr "Hmotnostní modifikátor"
 
 msgctxt "Languages::weight_symbol"
 msgid "Weight symbol"
@@ -13187,7 +13263,7 @@ msgstr "Požádat zákazníka, aby zadal cenu"
 
 msgctxt "Languages::zpa_permit"
 msgid "Allow customers to add the product to cart"
-msgstr "Umožnit zákazníkům přidat produkt do košíku"
+msgstr "Umožnit zákazníkům přidat zboží do košíku"
 
 msgctxt "Languages::zpa_refuse"
 msgid "Do not allow customers to add the product to cart"
@@ -13219,15 +13295,15 @@ msgstr "Sdílet platební metody"
 
 msgctxt "Languages::clone_products"
 msgid "Share products"
-msgstr "Sdílet produkty"
+msgstr "Sdílet zboží"
 
 msgctxt "Languages::clone_product_features"
 msgid "Share product features"
-msgstr "Sdílet vlastnosti produktů"
+msgstr "Sdílet vlastnosti zboží"
 
 msgctxt "Languages::clone_product_filters"
 msgid "Share product filters"
-msgstr "Sdílet filtry produktů"
+msgstr "Sdílet filtry zboží"
 
 msgctxt "Languages::clone_profile_fields"
 msgid "Share profile fields"
@@ -13271,7 +13347,7 @@ msgstr "Oddělovač možností"
 
 msgctxt "Languages::text_product_option_delimiter"
 msgid "Delimiter for product options within an option combination (e.g. \"Color: Red, Size: Small\")"
-msgstr "Oddělovač pro možnosti produktu s jejich kombinací (např. \"Barva: Červená, Velikost: Malá\")"
+msgstr "Oddělovač pro možnosti zboží v rámci kombinace možností (např. \"Barva: Červená, Velikost: Malá\")"
 
 msgctxt "Languages::upload_addon"
 msgid "Upload & install add-on"
@@ -13511,7 +13587,7 @@ msgstr "Kompilované CSS soubory nepodporují styling. Obnovte LESS v <a target=
 
 msgctxt "Languages::need_product_name"
 msgid "You have to specify product name"
-msgstr "Musíte zadat název produktu"
+msgstr "Je nutné zadat název zboží"
 
 msgctxt "Languages::api_required_field"
 msgid "The [field] field is required"
@@ -13575,7 +13651,7 @@ msgstr "Všechny kategorie zahrnuty"
 
 msgctxt "Languages::text_all_products_included"
 msgid "All products included"
-msgstr "Všechny produkty zahrnuté"
+msgstr "Všechno zboží zahrnuto"
 
 msgctxt "Languages::usergroup_registered"
 msgid "Registered users"
@@ -13623,7 +13699,7 @@ msgstr "Obecné"
 
 msgctxt "SettingsSections::Image_verification"
 msgid "Image verification"
-msgstr "CAPTCH"
+msgstr "Ověření obrázkem"
 
 msgctxt "SettingsSections::Logging"
 msgid "Logging"
@@ -13707,7 +13783,7 @@ msgstr "Uživatelé"
 
 msgctxt "SettingsOptions::log_type_products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "SettingsOptions::log_type_categories"
 msgid "Categories"
@@ -13791,7 +13867,7 @@ msgstr "Jednotka hmotnosti"
 
 msgctxt "SettingsOptions::admin_products_per_page"
 msgid "Products per page"
-msgstr "Počet produktů na stránce"
+msgstr "Položek na stránku"
 
 msgctxt "SettingsOptions::company_country"
 msgid "Company country"
@@ -14031,7 +14107,7 @@ msgstr "Výchozí země"
 
 msgctxt "SettingsOptions::products_per_page"
 msgid "Products per page"
-msgstr "Počet produktů na stránce"
+msgstr "Položek na stránku"
 
 msgctxt "SettingsOptions::company_users_department"
 msgid "User department e-mail address"
@@ -14043,7 +14119,7 @@ msgstr "Použít pro"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_width"
 msgid "Products list (category, search, etc) thumbnail width"
-msgstr "Šířka náhledu seznamu produktů (kategorie, hledání, atd.)"
+msgstr "Šířka náhledu u seznamu produktů (kategorie, hledání, atd.)"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
@@ -14055,7 +14131,7 @@ msgstr "E-mailová adresa administrátora webu"
 
 msgctxt "SettingsOptions::product_lists_thumbnail_height"
 msgid "Products list (category, search, etc) thumbnail height"
-msgstr "Šířka náhledu seznamu produktů (kategorie, hledání, atd.)"
+msgstr "Výška náhledu u seznamu produktů (kategorie, hledání, atd.)"
 
 msgctxt "SettingsOptions::company_orders_department"
 msgid "Order department e-mail address"
@@ -14067,7 +14143,7 @@ msgstr "Výchozí telefon"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
-msgstr "Šířka náhledu stránky s detaily produktu"
+msgstr "Šířka náhledu u stránky s detaily zboží"
 
 msgctxt "SettingsOptions::header_7004"
 msgid "Catalog"
@@ -14087,7 +14163,7 @@ msgstr "Povolit sledování zásob"
 
 msgctxt "SettingsOptions::product_details_thumbnail_height"
 msgid "Product details page thumbnail height"
-msgstr "Výška náhledu stránky s detaily produktu"
+msgstr "Výška náhledu u stránky s detaily zboží"
 
 msgctxt "SettingsOptions::allow_negative_amount"
 msgid "Allow negative amount in inventory"
@@ -14095,11 +14171,19 @@ msgstr "Povolit záporné množství v zásobách"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_width"
 msgid "Product quick view thumbnail width"
-msgstr "Šířka náhledu rychlého zobrazení produktu"
+msgstr "Šířka náhledu u rychlého náhledu zboží"
 
 msgctxt "SettingsOptions::product_quick_view_thumbnail_height"
 msgid "Product quick view thumbnail height"
-msgstr "Výška náhledu rychlého zobrazení produktu"
+msgstr "Výška náhledu u rychlého náhledu zboží"
+
+msgctxt "SettingsOptions::product_admin_mini_icon_width"
+msgid "Admin panel: product mini-icon thumbnail width"
+msgstr ""
+
+msgctxt "SettingsOptions::product_admin_mini_icon_height"
+msgid "Admin panel: product mini-icon thumbnail height"
+msgstr ""
 
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
@@ -14107,7 +14191,7 @@ msgstr "E-mailová adresa pro odpověď na newsletter"
 
 msgctxt "SettingsOptions::edp_key_ttl"
 msgid "Download key TTL (for electronically distributed products), hours"
-msgstr "Ke stažení klíč TTL (pro elektronicky distribuované výrobky), hodiny"
+msgstr "TTL klíče ke stažení (pro elektronicky distribuované zboží), hodiny"
 
 msgctxt "SettingsOptions::low_stock_threshold"
 msgid "Low stock notification threshold"
@@ -14115,15 +14199,15 @@ msgstr "Hranice pro upozornění o nízkém stavu zásob"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
-msgstr "Počet sloupců v seznamu produktů"
+msgstr "Počet sloupců v seznamu zboží"
 
 msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
-msgstr "Zobrazit produkty z podkategorií vybrané kategorie"
+msgstr "Zobrazit zboží z podkategorií vybrané kategorie"
 
 msgctxt "SettingsOptions::display_options_modifiers"
 msgid "Display modifiers for product options"
-msgstr "Zobrazit modifikátory pro možnosti produktů"
+msgstr "Zobrazit modifikátory pro možnosti zboží"
 
 msgctxt "SettingsOptions::exception_style"
 msgid "Exception style"
@@ -14131,15 +14215,15 @@ msgstr "Styl výjimky"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_width"
 msgid "Product cart page thumbnail width"
-msgstr "Šířka náhledu košíku ze stránky produktu"
+msgstr "Šířka náhledu zboží u stránky košíku"
 
 msgctxt "SettingsOptions::product_cart_thumbnail_height"
 msgid "Product cart page thumbnail height"
-msgstr "Výška náhledu košíku ze stránky produktu"
+msgstr "Výška náhledu zboží u stránky košíku"
 
 msgctxt "SettingsOptions::show_out_of_stock_products"
 msgid "Show out of stock products"
-msgstr "Zobrazovat vyprodané produkty"
+msgstr "Zobrazovat vyprodané zboží"
 
 msgctxt "SettingsOptions::category_lists_thumbnail_width"
 msgid "Categories list thumbnail width"
@@ -14151,7 +14235,7 @@ msgstr "Odhad daní pomocí výchozí adresy na stránkách košíku/procesu obj
 
 msgctxt "SettingsOptions::show_prices_taxed_clean"
 msgid "Display prices with taxes on category/product pages if the method of calculating taxes is based on a unit's price"
-msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách kategorií/produktů ceny s daní"
+msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách kategorií/zboží ceny s daní"
 
 msgctxt "SettingsOptions::cart_prices_w_taxes"
 msgid "Display prices with taxes on cart/checkout pages if the method of calculating taxes is based on a unit's price"
@@ -14159,7 +14243,7 @@ msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách ko
 
 msgctxt "SettingsOptions::in_stock_field"
 msgid "Show number of available products"
-msgstr "Zobrazit počet dostupných výrobků"
+msgstr "Zobrazit počet dostupného zboží"
 
 msgctxt "SettingsOptions::thumbnails_gallery"
 msgid "Display mini thumbnail images as a gallery"
@@ -14183,11 +14267,11 @@ msgstr "Výška náhledu seznamu kategorií"
 
 msgctxt "SettingsOptions::default_product_details_view"
 msgid "Product detailed page view"
-msgstr "Výchozí vzhled stránky produktu"
+msgstr "Zobrazení detailní stránky produktu"
 
 msgctxt "SettingsOptions::product_details_in_tab"
 msgid "Display product details in tabs"
-msgstr "Zobrazit detaily produktu v záložce"
+msgstr "Zobrazit detaily zboží v záložkách"
 
 msgctxt "SettingsOptions::display_track_orders"
 msgid "Display track my orders section"
@@ -14195,15 +14279,15 @@ msgstr "Zobrazit sekci Sledovat mé objednávky"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
-msgstr "Nastavení rozložení seznamu produktů"
+msgstr "Nastavení rozložení seznamu zboží"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Dostupné zobrazení seznamu produktů"
+msgstr "Dostupná zobrazení seznamu zboží"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Výchozí zobrazení seznamu produktů"
+msgstr "Výchozí zobrazení seznamu zboží"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
@@ -14211,11 +14295,11 @@ msgstr "Použít vybrané zobrazení pouze pro aktuální kategorii nebo stránk
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
-msgstr "Dostupné řazení seznamu produktů"
+msgstr "Dostupná řazení seznamu zboží"
 
 msgctxt "SettingsOptions::default_products_sorting"
 msgid "Product list default sorting"
-msgstr "Výchozí řazení produktů"
+msgstr "Výchozí řazení seznamu zboží"
 
 msgctxt "SettingsOptions::enable_quick_view"
 msgid "Enable quick view"
@@ -14347,7 +14431,7 @@ msgstr "Po dokončení objednávky nabídnout neregistrovaným zákazníkům mo�
 
 msgctxt "SettingsOptions::disregard_options_for_discounts"
 msgid "Disregard product options when calculating quantity discounts"
-msgstr "Při výpočtu množstevních slev nebrat v úvahu varianty produktů"
+msgstr "Při výpočtu množstevních slev nebrat v úvahu možnosti zboží"
 
 msgctxt "SettingsOptions::header_8057"
 msgid "Proxy server for outgoing connections"
@@ -14397,6 +14481,10 @@ msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
 msgstr "Zobrazit krok \"Způsob dopravy\""
 
+msgctxt "SettingsOptions::email_templates"
+msgid "Email templates mode"
+msgstr ""
+
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
 msgstr "Pokud je skrytý, je použit první aktivní způsob."
@@ -14411,11 +14499,11 @@ msgstr "Pokud je skrytý, je použita první aktivní metoda."
 
 msgctxt "SettingsOptions::enable_edp"
 msgid "Enable selling downloadable products"
-msgstr "Povolit prodávání produktů ke stažení"
+msgstr "Povolit prodej zboží určeného ke stažení"
 
 msgctxt "SettingsOptions::enable_compare_products"
 msgid "Allow customers to compare products"
-msgstr "Umožňuje zákazníkům porovnat výrobky"
+msgstr "Umožnit zákazníkům porovnávat zboží"
 
 msgctxt "SettingsTooltips::secure_storefront"
 msgid "SSL certificate is required to be installed on your server"
@@ -14451,7 +14539,7 @@ msgstr "Při pokusu přejít k objednávce bude nákupní proces vždy začínat
 
 msgctxt "SettingsTooltips::store_optimization_dev"
 msgid "Track modifications in real-time and automatically re-cache modified files (works with files modified directly on server, too.) May slightly affect store performance. Recommended to disable on production."
-msgstr "Sledovat změny v reálném čase a automaticky znovu ukládat modifikované soubory do mezipaměti (i soubory upravené přímo na serveru). Může mírně ovlivnit výkon obchodu. Doporučujeme vypnout při tvorbě."
+msgstr "Sledovat změny v reálném čase a automaticky znovu ukládat modifikované soubory do mezipaměti (i soubory upravené přímo na serveru). Může mírně ovlivnit výkon obchodu. Doporučujeme vypnout v produkčním režimu."
 
 msgctxt "SettingsTooltips::show_menu_descriptions"
 msgid "If you disable this check box, description of menu items will be hidden"
@@ -14559,7 +14647,7 @@ msgstr "15:43"
 
 msgctxt "SettingsVariants::min_order_amount_type::only_products"
 msgid "Products"
-msgstr "Produkty"
+msgstr "Zboží"
 
 msgctxt "SettingsVariants::allow_anonymous_shopping::hide_price_and_add_to_cart"
 msgid "Hide price and the \"Add to cart\" button"
@@ -14715,7 +14803,7 @@ msgstr "Září 29, 2005 (měsíc, den, rok)"
 
 msgctxt "SettingsVariants::default_products_sorting::product"
 msgid "Product name"
-msgstr "Název produktu"
+msgstr "Název zboží"
 
 msgctxt "SettingsVariants::day::%a, %b %e"
 msgid "Tue, Jan 3"
@@ -15125,6 +15213,14 @@ msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
 msgstr "(GMT + 13:00) Nuku'alofa"
 
+msgctxt "SettingsVariants::email_templates::old"
+msgid "Old (stored on file system)"
+msgstr ""
+
+msgctxt "SettingsVariants::email_templates::new"
+msgid "New (nice and editable via admin panel)"
+msgstr ""
+
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
 msgstr "Při registraci vyžadovat pouze kontaktní informace"
@@ -15239,7 +15335,7 @@ msgstr "Typ adresy"
 
 msgctxt "Languages::product_must_have_owner_category"
 msgid "Product must belong to some category created by the owner company."
-msgstr "Produkt musí patřit do některé z vlastnických společností vytvořených kategorií."
+msgstr "Zboží musí patřit do některé z kategorií vytvořených společností vlastníka."
 
 msgctxt "SettingsVariants::mailer_smtp_ecrypted_connection::none"
 msgid "None"
@@ -15311,11 +15407,11 @@ msgstr "Tento HTML kód bude vložen mezi tagy &lt;head&gt;&lt;/head&gt;"
 
 msgctxt "Languages::category_deletion_side_effects"
 msgid "This will delete all selected category's products, as well as its subcategories and their products."
-msgstr "Tato akce odstraní všechny produkty z vybrané kategorie, včetně jejích podkategorií a jejich produktů."
+msgstr "Tato akce odstraní všechno zboží z vybrané kategorie, včetně jejích podkategorií a zboží v nich."
 
 msgctxt "Languages::bulk_category_deletion_side_effects"
 msgid "This will delete all selected categories' products, as well as their subcategories and their products."
-msgstr "Tato akce odstraní všechny produkty z vybrané kategorie, včetně jejích podkategorií a jejich produktů."
+msgstr "Tato akce odstraní všechno zboží z vybraných kategorií, včetně jejich podkategorií a zboží v nich."
 
 msgctxt "Languages::restore_original"
 msgid "Restore original"
@@ -15636,11 +15732,11 @@ msgstr "Mimo navigace"
 
 msgctxt "Languages::exim_error_incorrect_feature_type"
 msgid "Incorrect feature type. Some product features were not updated."
-msgstr "Nesprávný typ funkce. Některé funkce výrobku nebyly aktualizovány."
+msgstr "Nesprávný typ vlastnosti. Některé vlastnosti zboží nebyly aktualizovány."
 
 msgctxt "Languages::exim_error_empty_feature_name"
 msgid "Feature name is missing. Some product features were not updated."
-msgstr "Chybí název funkce. Některé funkce výrobku nebyly aktualizovány."
+msgstr "Chybí název vlastnosti. Některé vlastnosti zboží nebyly aktualizovány."
 
 msgctxt "Languages::unable_to_delete_last_storefront"
 msgid "At least one storefront must remain"
@@ -15657,6 +15753,10 @@ msgstr "Nelze zapisovat do souboru <b>[file]</b>. Nastavení oprávnění k záp
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
 msgstr "<p>Databáze a soubory vašeho obchodu byly před aktualizací zazálohovány. Záloha zahrnuje celou databázi a všechny soubory s výjimkou obrázků. Záložní archiv byl uložen na serveru: [backup_file].</p><p>Před aktualizací byl váš obchod uzavřen. Zkontrolujte, zda je i po aktualizaci plně funkční a <a href=\"[settings_section]\">otevřete jej</a>.</p><p>Pokud se během aktualizace něco pokazí, přejděte na panel správce <strong>Správa → Záloha/Obnovení</strong> a zálohu obnovte.</p><p>Pokud nemůžete získat přístup k panelu správce, použijte k obnovení poslední zálohy následující odkaz. <b>Důležité:</b> kliknutím na odkaz bude okamžitě zahájen proces obnovení. Použijte jej pouze v případě, že nemůžete získat přístup k panelu správce! Obnovení poslední zálohy:</p>"
+
+msgctxt "Languages::uc_backup_info_subj"
+msgid "Upgrade Center: Store has been backed up and closed."
+msgstr ""
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15680,11 +15780,11 @@ msgstr "Centrum aktualizací: Obchod byl zálohován a uzavřen."
 
 msgctxt "Languages::warning_zero_price_restricted_product"
 msgid "Product <b>\"[product]\"</b> has not been added to the cart, because it doesn't have a price."
-msgstr "Produkt <b>\"[product]\"</b> nebyl přidán do košíku, protože nemá cenu."
+msgstr "Zboží <b>\"[product]\"</b> nebylo přidáno do košíku, protože nemá cenu."
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr "Dodavatelé nemohou vytvářet funkcí produktu a jejich varianty. Nelze upravit některé vlastnosti produktu."
+msgstr "Dodavatelé nemohou vytvářet vlastnosti zboží a jejich varianty. Některé vlastnosti zboží nemohly být upraveny."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
@@ -15748,15 +15848,15 @@ msgstr "Použít pro dopravu zdarma"
 
 msgctxt "Languages::tt_views_products_components_products_shipping_settings_free_shipping"
 msgid "Products with the Free shipping option enabled will be excluded from shipping calculation if shipping method has the Use for free shipping option enabled"
-msgstr "Produkty s povolenou možností Doprava zdarma budou vyloučeny z výpočtu dopravného, pokud má způsob dopravy povolenu možnost Použít pro dopravu zdarma"
+msgstr "Zboží s povolenou možností Doprava zdarma bude vyloučeno z výpočtu dopravného, pokud má způsob dopravy povolenu možnost Použít pro dopravu zdarma"
 
 msgctxt "Languages::tt_views_shippings_update_use_for_free_shipping"
 msgid "Exclude products with the enabled Free shipping option from the shipping price calculation"
-msgstr "Vyloučit produkty s povolenou možností Doprava zdarma z kalkulace dopravného"
+msgstr "Vyloučit zboží s povolenou možností Doprava zdarma z kalkulace dopravného"
 
 msgctxt "Languages::free_shipping_upgrade_notification_text"
 msgid "<p>Some of your products have the <b>Free shipping</b> property enabled. In earlier versions of [product] a customer didn't have to choose a shipping method when buying these products.</p><p>Starting with this [product] version, a customer chooses a shipping method at checkout for products with the <b>Free shipping</b> property enabled.</p><p>To set up a shipping method that will be used for free shipping, complete these steps:</p><ol><li>Go to <b>Administration → Shipping &amp; taxes → Shipping methods</b>.</li><li>Choose the existing shipping method that you want to use for free shipping, or create a new one.</li><li>Scroll to the <i>Extra</i> section and enable the <b>Use for free shipping</b> setting.</li></ol><p>You can set up as many shipping methods as you want for free shipping.</p><p>Note that you have to apply the <b>Use for free shipping</b> option to particular shipping methods.</p><p>Tick the <b>Use for free shipping</b> checkbox, if you want to exclude the products with the enabled <b>Free shipping</b> option from the shipping price calculation. [product] will calculate the shipping price of the other products from the order in accordance with the <b>Shipping charges</b>.</p><p>If you leave the checkbox unticked, [product] will calculate the shipping price for all products from the order in accordance with the <b>Shipping charges</b>.</p>"
-msgstr "<p>Některé z vašich produktů mají povolenu vlastnost <b>Doprava zdarma</b>. V dřívějších verzích [product] zákazník nemusel při nákupu takových produktů zvolit způsob dopravy.</p><p>Počínaje touto verzí [product] si zákazník zvolí způsob dopravy na pokladně u produktů s <b>Dopravou zdarma</b>.</p><p>Pro nastavení způsobu dopravy, který bude použit na dopravu zdarma, proveďte tyto kroky:</p><ol><li>jděte na <b>Správa → Doprava &amp; daně → Způsoby dopravy</b>.</li><li>Vyberte stávající způsob dopravy, který chcete použít pro dopravu zdarma, nebo vytvořte nový.</li><li>Přejděte na sekci <i>Další</i> a povolte nastavení <b>Použít na dopravu zdarma</b>.</li></ol><p>Pro dopravu zdarma můžete nastavit libovolný počet způsobů dopravy.</p><p>Povšimněte si, že budete muset aplikovat možnost <b>Použít dopravu zdarma</b> na konkrétní způsoby dopravy.</p><p>Zaškrtněte políčko <b>Použít pro dopravu zdarma</b>, chcete-li vyloučit produkty s povolenou možností <b>Doprava zdarma</b> z kalkulace ceny dopravy. [product] vypočítá cenu dopravy ostatních produktů z objednávky v souladu s <b>Přepravními poplatky</b>.</p><p>Pokud necháte políčko nezaškrtnuté, [product] bude počítat dopravné pro všechny produkty z objednávky v souladu s <b>Přepravními poplatky</b>.</p>"
+msgstr "<p>Některé z vašich položek zboží mají povolenu vlastnost <b>Doprava zdarma</b>. V dřívějších verzích [product] zákazník nemusel při nákupu takového zboží zvolit způsob dopravy.</p><p>Počínaje touto verzí [product] si zákazník zvolí způsob dopravy na pokladně u zboží s <b>Dopravou zdarma</b>.</p><p>Pro nastavení způsobu dopravy, který bude použit na dopravu zdarma, proveďte tyto kroky:</p><ol><li>jděte na <b>Správa → Doprava &amp; daně → Způsoby dopravy</b>.</li><li>Vyberte stávající způsob dopravy, který chcete použít pro dopravu zdarma, nebo vytvořte nový.</li><li>Přejděte na sekci <i>Další</i> a povolte nastavení <b>Použít na dopravu zdarma</b>.</li></ol><p>Pro dopravu zdarma můžete nastavit libovolný počet způsobů dopravy.</p><p>Povšimněte si, že budete muset aplikovat možnost <b>Použít dopravu zdarma</b> na konkrétní způsoby dopravy.</p><p>Zaškrtněte políčko <b>Použít pro dopravu zdarma</b>, chcete-li vyloučit zboží s povolenou možností <b>Doprava zdarma</b> z kalkulace ceny dopravy. [product] vypočítá cenu dopravy ostatního zboží z objednávky v souladu s <b>Přepravními poplatky</b>.</p><p>Pokud necháte políčko nezaškrtnuté, [product] bude počítat dopravné pro všechno zboží z objednávky v souladu s <b>Přepravními poplatky</b>.</p>"
 
 msgctxt "Languages::trash_category"
 msgid "Trash category"
@@ -15764,7 +15864,7 @@ msgstr "Odpadková kategorie"
 
 msgctxt "Languages::trash_category_description"
 msgid "When a product is deleted from the last category in the store, it will be moved to this category."
-msgstr "Pokud je výrobek odstraněn z poslední kategorie v obchodě, bude přemístěn do této kategorie."
+msgstr "Pokud je zboží odstraněno z poslední kategorie v obchodě, bude přemístěn do této kategorie."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
@@ -15788,7 +15888,7 @@ msgstr "eWay, eWay s přímou platbou a eWay Sdílené platby platebních proces
 
 msgctxt "Languages::eway_upgrade_notification_text"
 msgid "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> and <b>eWAY Shared Payment</b> are not supported since this [product] version.</p><p>We strongly recommend you to <b>upgrade to eWAY Direct Payment (Rapid API)</b> or <b>eWAY Responsive Shared (Rapid API)</b>, here are the instructions:</p><ul><li>go to Administration > Payment methods</li><li>open one of the payment methods utilizing deprecated eWAY processor</li><li>switch to General tab and specify eWAY Direct Payment (Rapid API) or eWAY Responsive Shared (Rapid API) payment processor</li><li>switch to Configure tab and specify proper:<ul><li>API Key, API Password and Encryption Key for eWAY Direct Payment (Rapid API)</li><li>API Key and API Password for eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment and eWAY Shared Payment will still be operational but we <b>renamed</b> them to Deprecated eWAY, Deprecated eWAY Direct Payment and Deprecated eWAY Shared Payment accordingly.</p>"
-msgstr "<p><b>eWay</b>, <b>eWay přímé platby</b> a <b>eWay společnou Platba</b> není podporován touto verzí [product].</p><p>Důrazně doporučujeme, <b>Aktualizace eWay přímých plateb (Rapid API)<b> nebo <b>Eway Citlivé Shared (Rapid API)</b> pokynů:</p><ul><li>Přejděte do Administration>Platba</li><li>otevřená metoda platby, který používá procesor Eway</li><li>Přejděte na kartu Obecné a vyberte platební procesoru eWay přímé platby (Rapid API) nebo eWay citlivý Shared (Rapid API)</li><li>přejděte na kartu Nastavení a zadejte v tomto pořadí:<ul><li>API klíč, heslo, API a šifrovací klíč pro eWay přímé platby (Rapid API)</li><li>klíč API a heslo API pro eWay Responsive Sdílené ( Rapid API)</li></ul></li></ul><p>eWay, eWay s přímou platbou a Eway Citlivé Shared budou stále k dispozici, ale bude<b> přejmenován</b> datum eWay, respektive datum eWay přímých plateb a společnou Citlivé datum Eway.</p>"
+msgstr "<p><b>eWAY</b>, <b>eWAY Direct Payment</b> a <b>eWAY Shared Payment</b> nejsou touto verzí [product] podporovány.</p><p>Důrazně Vám doporučujeme <b>aktualizaci na eWAY Direct Payment (Rapid API)</b> nebo <b>eWAY Responsive Shared (Rapid API)</b>, zde jsou pokyny:</p><ul><li>přejděte do Administration > Payment methods</li><li>otevřete jednu z metod platby, která používá zastaralý procesor eWAY</li><li>přejděte na kartu General a vyberte platební procesor eWAY Direct Payment (Rapid API) nebo eWAY Responsive Shared (Rapid API)</li><li>přejděte na kartu Configure a zadejte v tomto pořadí:<ul><li>API Key, API Password a Encryption Key pro eWAY Direct Payment (Rapid API)</li><li>API Key a API Password pro eWAY Responsive Shared (Rapid API)</li></ul></li></ul><p>eWAY, eWAY Direct Payment a eWAY Shared Payment budou stále k dispozici, ale <b>přejmenovali</b> jsme je proto na Deprecated eWAY, Deprecated eWAY Direct Payment a Deprecated eWAY Shared Payment.</p>"
 
 msgctxt "Languages::eway_configuration_note"
 msgid "<a href='https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password' target='_blank'>How do I set up my Live eWAY API Key and Password?</a>"
@@ -15804,7 +15904,7 @@ msgstr "Zobrazit méně"
 
 msgctxt "Languages::products_moved_to_trash"
 msgid "[count] products were moved to <a href='[url]' target='_blank'>Trash category</a>"
-msgstr "[count] produkty byly přesunuty do <a href='[url]' target='_blank'>Trash kategorie</a>"
+msgstr "[count] zboží bylo přesunuto do <a href='[url]' target='_blank'>kategorie Trash</a>"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_title"
 msgid "Changes in feature comparison"
@@ -15812,7 +15912,7 @@ msgstr "Porovnání změn ve funkcích"
 
 msgctxt "Languages::feature_comparison_upgrade_notification_text"
 msgid "The <b>Feature comparison</b> checkbox under <b>Products → Products → &lt;Desired Product&gt;</b> has been removed.<br>By ticking the new <b>Allow customers to compare products</b> checkbox under Settings → General → Catalog, you can now enable your customers to add any products in your store to comparison lists.<br>To show up on a comparison list, a feature must have one (or more) of the following checkboxes enabled under <b>Products → Features → &lt;Desired Feature&gt;</b>:<br><ul><li>Show on the Features tab</li><li>Show in product list</li><li>Show in header on the product details page</li></ul>"
-msgstr "Zaškrtávací pole <b>Porovnání vlastností</b> pod <b>Produkty → Produkty → &lt;Požadovaný produkt&gt;</b> bylo odstraněno.<br>Zaškrtnutím nového pole <b>Povolit zákazníkům porovnat produkty</b> pod položkou Nastavení → Obecné → Katalog můžete nyní umožnit svým zákazníkům přidávat jakékoli produkty vašeho obchodu do porovnávacích seznamů.<br>Chcete-li vlastnost ukázat na seznamu porovnání, musí mít zaškrtnuto jedno (nebo více) z následujících políček ve <b>Produkty → Funkce → &lt;Požadovaná funkce&gt;</b>:<br><ul><li>Zobrazit na kartě Vlastnosti</li><li>Zobrazit v seznamu produktů</li><li>Zobrazit v záhlaví na stránce s podrobnostmi o produktu</li></ul>"
+msgstr "Zaškrtávací pole <b>Porovnání vlastností</b> pod <b>Zboží → Zboží → &lt;Požadované zboží&gt;</b> bylo odstraněno.<br>Zaškrtnutím nového pole <b>Povolit zákazníkům porovnat produkty</b> pod položkou Nastavení → Obecné → Katalog můžete nyní umožnit svým zákazníkům přidávat jakékoli zboží vašeho obchodu do porovnávacích seznamů.<br>Chcete-li vlastnost ukázat na seznamu porovnání, musí mít zaškrtnuto jedno (nebo více) z následujících políček ve <b>Zboží → Funkce → &lt;Požadovaná funkce&gt;</b>:<br><ul><li>Zobrazit na kartě Vlastnosti</li><li>Zobrazit v seznamu produktů</li><li>Zobrazit v záhlaví na stránce s podrobnostmi o zboží</li></ul>"
 
 msgctxt "Languages::text_uc_addon_upgrade_completed"
 msgid "Add-on \"[name]\" has been upgraded successfully"
@@ -15960,7 +16060,7 @@ msgstr "Filtr podle funkcí \"[name]\" již existuje."
 
 msgctxt "Languages::error_filter_by_product_field_exists"
 msgid "Filter by product field \"[name]\" already exists."
-msgstr "Filtr podle oboru výrobku \"[name]\" již existuje."
+msgstr "Filtr podle pole zboží \"[name]\" již existuje."
 
 msgctxt "Languages::shipping_address_changed"
 msgid "Shipping address has been changed"
@@ -15973,6 +16073,262 @@ msgstr "Toto téma nepodporuje téma editor"
 msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
 msgstr "Datum odeslání"
+
+msgctxt "Languages::email_templates"
+msgid "Email templates"
+msgstr ""
+
+msgctxt "Languages::editing_email_template"
+msgid "Editing email template"
+msgstr ""
+
+msgctxt "Languages::customer_notifications"
+msgid "Customer notifications"
+msgstr ""
+
+msgctxt "Languages::admin_notifications"
+msgid "Administrator notifications"
+msgstr ""
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "Languages::variables"
+msgid "Variables"
+msgstr ""
+
+msgctxt "Languages::snippets"
+msgid "Snippets"
+msgstr ""
+
+msgctxt "Languages::code_snippets"
+msgid "Code snippets"
+msgstr ""
+
+msgctxt "Languages::editing_email_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::editing_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::snippet_exists"
+msgid "The snippet with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::document_exists"
+msgid "The document with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::email_template_exists"
+msgid "The email template with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::need_snippet_name"
+msgid "You have to specify valid snippet name"
+msgstr ""
+
+msgctxt "Languages::snippets_have_been_deleted"
+msgid "Snippets have been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::add_email_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::add_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::editing_document"
+msgid "Editing [name]"
+msgstr ""
+
+msgctxt "Languages::product_info"
+msgid "Product info"
+msgstr ""
+
+msgctxt "Languages::add_table_column"
+msgid "Add column"
+msgstr ""
+
+msgctxt "Languages::editing_table_column"
+msgid "Editing column"
+msgstr ""
+
+msgctxt "Languages::table_column_has_been_deleted"
+msgid "Product column has been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::restore_default_value"
+msgid "Restore default value"
+msgstr ""
+
+msgctxt "Languages::send_test_email"
+msgid "Send test email"
+msgstr ""
+
+msgctxt "Languages::text_test_email_sent"
+msgid "Test email was sent to <b>[email]</b> address."
+msgstr ""
+
+msgctxt "Languages::editing_global_vars"
+msgid "Editing global variables"
+msgstr ""
+
+msgctxt "Languages::global_vars"
+msgid "Global variables"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_subj"
+msgid "Order #[order] has been processed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_text"
+msgid "Your order has been processed successfully."
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_subj"
+msgid "Order #[order] has been completed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_text"
+msgid "Your order has been completed. Thank you for choosing us."
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_subj"
+msgid "Order #[order] has been placed successfully"
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_text"
+msgid "Thank you for the order. You are welcome to come back!"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_subj"
+msgid "Order #[order] failed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_text"
+msgid "Your order has been unsuccessful. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_subj"
+msgid "Order #[order] has been declined"
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_text"
+msgid "Your order has been declined. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_subj"
+msgid "Order #[order] has been backordered"
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_text"
+msgid "Your order has been backordered."
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_subj"
+msgid "Order #[order] has been canceled"
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_text"
+msgid "Your order has been canceled. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_subj"
+msgid "The status of order #[order] has been changed to [status]"
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_text"
+msgid "The status of your order has been changed to [status]."
+msgstr ""
+
+msgctxt "Languages::email_template.activate_profile"
+msgid "User profile requires activation"
+msgstr ""
+
+msgctxt "Languages::email_template.back_in_stock_notification"
+msgid "Back in stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.create_profile"
+msgid "User profile creation"
+msgstr ""
+
+msgctxt "Languages::email_template.edp_access"
+msgid "Orders: access to downloadable products"
+msgstr ""
+
+msgctxt "Languages::email_template.give_coupon"
+msgid "Promotions: coupon"
+msgstr ""
+
+msgctxt "Languages::email_template.low_stock"
+msgid "Product low stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification"
+msgid "Order notification: [name]"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification_default"
+msgid "Order notification: Default template for a new order status"
+msgstr ""
+
+msgctxt "Languages::email_template.profile_activated"
+msgid "User profile activation"
+msgstr ""
+
+msgctxt "Languages::email_template.recover_password"
+msgid "Password recovery"
+msgstr ""
+
+msgctxt "Languages::email_template.reminder"
+msgid "Admin password expiration"
+msgstr ""
+
+msgctxt "Languages::email_template.shipment_products"
+msgid "Orders: products shipped"
+msgstr ""
+
+msgctxt "Languages::email_template.track"
+msgid "Orders: tracking"
+msgstr ""
+
+msgctxt "Languages::email_template.update_profile"
+msgid "User profile update"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_activation"
+msgid "User group activation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_disactivation"
+msgid "User group disactivation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_request"
+msgid "User group request"
+msgstr ""
+
+msgctxt "Languages::email_template.upgrade_backup_info"
+msgid "Upgrade: restore link"
+msgstr ""
+
+msgctxt "Languages::email_template.params.attach_invoice"
+msgid "Attach a PDF invoice"
+msgstr ""
+
+msgctxt "Languages::edit_customer_notification"
+msgid "Edit the email sent to customers"
+msgstr ""
+
+msgctxt "Languages::edit_admin_notification"
+msgid "Edit the email sent to administrators"
+msgstr ""
 
 msgctxt "Languages::copy"
 msgid "Copy"
@@ -16020,11 +16376,11 @@ msgstr "QB Merchant Service platba změny procesor"
 
 msgctxt "Languages::payments.qbms.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for payment methods if you use QB Merchant Service as a Processor.</p><p>If you want to use the payment methods, do this:</p><ul><li>go to Administration > Payment methods</li><li>choose the payment method that uses QB Merchant Service as a Processor</li><li>switch to the Configure tab</li><li>enter the proper App Token, OAuth Consumer Key and OAuth Consumer Secret</li><li>perform connection to QuickBooks</li></ul>"
-msgstr "<p>Nejnovější verze produktu [product] má různá nastavení platebních metod, pokud používáte QB obchodníka jako procesor.</p><p>Chcete-li použít platební metody, udělejte to následujícím způsobem:</p><ul><li>přejděte do Administrace> Platební metody</li><li>zvolite způsob platby, který používá QB obchodníka jako procesor</li><li>přejdete na kartu Konfigurace</li><li>vstoupite do správy App token zákaznického klíče OAuth a zadejte tajný zákaznický klíč OAuth</li><li>provedete připojení k QuickBooks</li></ul>"
+msgstr "<p>Nejnovější verze [product] má různá nastavení platebních metod, pokud používáte jako procesor QB Merchant Service.</p><p>Chcete-li platební metody využívat, udělejte následující:</p><ul><li>přejděte do Administrace > Platební metody</li><li>zvolte způsob platby, který používá QB Merchant Service jako procesor</li><li>přejdete na kartu Konfigurovat</li><li>vložte správný App Token, OAuth Consumer Key a OAuth Consumer Secret</li><li>proveďte připojení ke QuickBooks</li></ul>"
 
 msgctxt "Languages::text_money_back_guarantee"
 msgid "We offer 30-day money-back guarantee. If you don't like our product, we'll return you the money, no needless questions asked."
-msgstr "Nabízíme záruku vrácení peněz na 30 dní. Pokud se vám nelíbí váš produkt, vrátíme vám peníze, neptal se na žádné zbytečné otázky."
+msgstr "Nabízíme záruku vrácení peněz po dobu 30 dní. Pokud se Vám náš produkt nelíbí, vrátíme Vám peníze, bez zbytečných otázek."
 
 msgctxt "Languages::admin_panel_will_be_blocked"
 msgid "Installation integrity check failed. The access to the Administration panel will be blocked within 2 days. Please contact our <a href=\"[href]\">support team</a>"
@@ -16057,6 +16413,10 @@ msgstr "Adresář \"[dir]\" není zapisovatelný. Zkontrolujte, prosím, oprávn
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr "Nelze smazat soubory: <b>[files]</b>. Prosím, zkontrolujte oprávnění."
+
+msgctxt "Languages::feature_groups"
+msgid "Feature groups"
+msgstr ""
 
 msgctxt "Languages::shippings.can.business_account_information"
 msgid "Business account information"
@@ -16140,7 +16500,7 @@ msgstr "Kanadská pošta v reálném čase změní výpočet sazba za dopravu"
 
 msgctxt "Languages::canada_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
-msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby pro zásilku v reálném čase, pokud používáte Kanadskou poštu jako Dopravce.</p><p>Chcete-li zobrazit aktuální sazby za dopravu svým klientům, provedete to následujícím způsobem:</p><ul><li>jděte do Administration > Shipping & taxes > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Kanadou poštu jako dopravce pro výpočet ceny za dopravu</li><li>přepněte na kartě Obecné a vstupte řádně do Přepravní služba</li><li>přejděte na kartu Konfigurace a zadějte správný <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API klíč</a></li></ul>"
+msgstr "<p>Nejnovější verze [product] má odlišná nastavení pro výpočet sazeb dopravného v reálném čase, pokud používáte Canada Post jako dopravce.</p><p>Chcete-li svým klientům zobrazit aktuální sazby dopravného, proveďte následující:</p><ul><li>přejděte do Správa > Doprava & daně > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Canada Post jako dopravce pro výpočet sazeb dopravného</li><li>přepněte na kartu Obecné a vložte správnou Dopravní službu</li><li>přepněte na kartu Konfigurovat a vložte správné <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API klíče</a></li></ul>"
 
 msgctxt "Languages::shippings.aup.pac_api_key"
 msgid "PAC API key"
@@ -16156,7 +16516,35 @@ msgstr "Australská pošta v reálném čase změní výpočet sazba za dopravu"
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
-msgstr "<p>Nejnovější verze [product] má různá nastavení pro výpočet sazby pro zásilku v reálném čase, pokud používáte Australskou poštu jako Dopravce.</p><p>Chcete-li zobrazit aktuální sazby za dopravu svým klientům, provedete to následujícím způsobem:</p><ul><li>jděte do Administration > Shipping & taxes > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Australská pošta jako dopravce pro výpočet ceny za dopravu</li><li>přepněte na kartě Obecné a vstupte řádně do Přepravní služba</li><li>přejděte na kartu Konfigurace a zadejte správný <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API klíč</a></li></ul>"
+msgstr "<p>Nejnovější verze [product] má odlišná nastavení pro výpočet sazeb dopravného v reálném čase, pokud používáte Australia Post jako dopravce.</p><p>Chcete-li svým klientům zobrazit aktuální sazby dopravného, proveďte následující:</p><ul><li>přejděte do Správa > Doprava & daně > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá Australia Post jako dopravce pro výpočet sazeb dopravného</li><li>přepněte na kartu Obecné a vložte správnou Dopravní službu</li><li>přepněte na kartu Konfigurovat a vložte správný <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API klíč</a></li></ul>"
+
+msgctxt "Languages::licensing_and_upgrades"
+msgid "Licensing and upgrades"
+msgstr ""
+
+msgctxt "Languages::addon_license_key_tooltip"
+msgid "Enter license key you've received by e-mail in order to receive the add-on upgrades."
+msgstr ""
+
+msgctxt "Languages::api_shipments_update_not_allowed"
+msgid "Only the tracking_number and carrier params can be updated"
+msgstr ""
+
+msgctxt "Languages::cannot_remove_theme_has_dependent_themes"
+msgid "The theme can't be removed as the following themes depend on it: [dependent_themes]"
+msgstr ""
+
+msgctxt "Languages::text_installing_theme_dependencies"
+msgid "Installing the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::text_unable_to_install_theme_dependencies"
+msgid "Unable to install the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::exim_cannot_create_variant_for_shareable_feature"
+msgid "You cannot create a variant for a shareable feature."
+msgstr ""
 
 msgctxt "Languages::ups_upgrade_notification_title"
 msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
@@ -16164,9 +16552,441 @@ msgstr "UPS Kanada: Zrychlené SM a UPS polštine: Dnes Meziměstské přepravn�
 
 msgctxt "Languages::ups_upgrade_notification_text"
 msgid "<p><b>UPS Canada: Expedited SM</b> and <b>UPS Polish: Today Intercity</b> shipping services are not supported since this [product] version. If you were using them, do the following:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses UPS as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li></ul>"
-msgstr "<p><b>UPS Kanada: spěšná SM</b> a <b>UPS polsky: dnes meziměstské</b> přepravních služby nejsou podporovány od této verze [product]. Pokud je používáte, postupujte takto:</p><ul><li>přejděte na Správa> Doprava a daně> Způsoby dopravy</li><li>zvolte způsob dopravy, který používá UPS jako Dopravce pro výpočet sazby za dopravu</li>,<li>přepněte na kartu Obecné a zadejte správnou přepravní službu</li></ul>"
+msgstr "<p>Přepravní služby <b>UPS Canada: Expedited SM</b> a <b>UPS Polish: Today Intercity</b> nejsou od této verze [product] podporovány. Pokud je používáte, proveďte následující:</p><ul><li>přejděte do Správa > Doprava & daně > Způsoby dopravy</li><li>zvolte způsob dopravy, který používá UPS jako dopravce pro výpočet sazeb dopravného</li><li>přepněte na kartu Obecné a zadejte správnou přepravní službu</li></ul>"
 
 msgctxt "Languages::warning_default_language_sharing_removed"
 msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
 msgstr "Výchozí jazyk je definován v nastavení byl odstraněn kvůli <b>[company]</b> obchodu. Prosím, aktualizujte výchozí Frontend jazyk hodnotu na následující stránce: <a href=\"[link]\">Nastavení :: Vzhled</a>"
+
+msgctxt "Languages::page_url"
+msgid "Page URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_url"
+msgid "The page inner URL"
+msgstr ""
+
+msgctxt "Languages::page_target_url"
+msgid "Target URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_target_url"
+msgid "The URL to redirect customers to"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.freight_account_number"
+msgid "Freight account number"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_extra_large_box"
+msgid "FedEx Extra Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_large_box"
+msgid "FedEx Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_medium_box"
+msgid "FedEx Medium Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_small_box"
+msgid "FedEx Small Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_business_service_center"
+msgid "Business service center"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_drop_box"
+msgid "Drop box"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.options"
+msgid "Delivery options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_broker_select_option"
+msgid "Broker select option"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_call_before_delivery"
+msgid "Call before delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod"
+msgid "COD"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_amount"
+msgid "COD amount"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type"
+msgid "COD collection type"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_any"
+msgid "Any"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_cash"
+msgid "Cash"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_guaranteed_funds"
+msgid "Guaranteed funds"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_custom_delivery_window"
+msgid "Custom delivery window"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods"
+msgid "Dangerous goods"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options"
+msgid "Hazardous content options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_battery"
+msgid "Battery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_hazardous_materials"
+msgid "Hazardous materials"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_orm_d"
+msgid "ORM-D"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_limited_quantities_commodities"
+msgid "Limited quantities commodities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_reportable_quantities"
+msgid "Reportable quantities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_small_quantity_exception"
+msgid "Small quantity exception"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility"
+msgid "Dangerous goods accessibility"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_accessible"
+msgid "Accessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_inaccessible"
+msgid "Inaccessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_break_down_pallets"
+msgid "Do not break down pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_stack_pallets"
+msgid "Do not stack pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dry_ice"
+msgid "Dry ice"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_east_coast_special"
+msgid "East Coast special"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_electronic_trade_documents"
+msgid "Electronic trade documents"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_extreme_length"
+msgid "Extreme length"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_food"
+msgid "Food"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_fedex_one_rate"
+msgid "FedEx One Rate"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_guarantee"
+msgid "Freight guarantee"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_to_collect"
+msgid "Freight to collect"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_future_day_shipment"
+msgid "Future day shipment"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_hold_at_location"
+msgid "Hold at location"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_home_delivery_premium"
+msgid "Home delivery Premium"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_delivery"
+msgid "Inside delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_pickup"
+msgid "Inside pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_controlled_export_service"
+msgid "International controlled export service"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_traffic_in_arms_regulations"
+msgid "International traffic in arms regulations"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_delivery"
+msgid "Liftgate delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_pickup"
+msgid "Liftgate pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_delivery"
+msgid "Limited access delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_pickup"
+msgid "Limited access pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_pharmacy_delivery"
+msgid "Pharmacy delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_poison"
+msgid "Poison"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_protection_from_freezing"
+msgid "Protection from freezing"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_returns_clearance"
+msgid "Returns clearance"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_delivery"
+msgid "Saturday delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_pickup"
+msgid "Saturday pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_top_load"
+msgid "Top load"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_title"
+msgid "FedEx realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
+msgstr ""
+
+msgctxt "Languages::template_document_order_invoice"
+msgid "Invoice"
+msgstr ""
+
+msgctxt "Languages::template_document_order_summary"
+msgid "Order summary"
+msgstr ""
+
+msgctxt "Languages::template_document_packing_slip_default"
+msgid "Packing slip"
+msgstr ""
+
+msgctxt "Languages::documents"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Languages::document_preview_order_not_found"
+msgid "Couldn't find an order. Preview only works with existing data. Please create an order and use Preview again."
+msgstr ""
+
+msgctxt "Languages::editing_order_invoice"
+msgid "Editing invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::email_order_invoice_subject"
+msgid "[company_name]: Invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::edit_and_send_invoice"
+msgid "Tweak and send invoice"
+msgstr ""
+
+msgctxt "Languages::error_profile_field_name_exists"
+msgid "A profile field with this name already exists. Please choose another name."
+msgstr ""
+
+msgctxt "Languages::profile_field_name"
+msgid "Field name"
+msgstr ""
+
+msgctxt "Languages::text_character_identifier_tooltip"
+msgid "A character sequence that serves as an identifier. You can use figures from 0 to 9, symbols of the English alphabet and the following signs: \"-\", \"_\", \".\"."
+msgstr ""
+
+msgctxt "SettingsOptions::monitor_core_changes"
+msgid "Monitor changes in core files"
+msgstr ""
+
+msgctxt "Languages::core_files_have_been_modified"
+msgid "Some of your core files have been changed.<br/><a href=\"[changes_url]\" target=\"_blank\">View changes</a> <a href=\"[settings_url]\" target=\"_blank\">Disable this check</a>"
+msgstr ""
+
+msgctxt "Languages::scan_for_modified_core_files"
+msgid "Scan for changed core files"
+msgstr ""
+
+msgctxt "Languages::last_scan_time"
+msgid "Last scan time"
+msgstr ""
+
+msgctxt "Languages::no_modified_core_files_found"
+msgid "No changed core files found"
+msgstr ""
+
+msgctxt "Languages::modified_core_files_found"
+msgid "Some of your core files have been changed. This may become a problem when upgrading [product] as changes in these files may be lost."
+msgstr ""
+
+msgctxt "Languages::file_changes_detector"
+msgid "File changes detector"
+msgstr ""
+
+msgctxt "Languages::privileges.view_file_changes"
+msgid "View file changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_title"
+msgid "Vendor commission changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_text"
+msgid "<p>Vendor commissions have been replaced with vendor plans, and an own plan has been created for each vendor. However, absolute commissions are no longer supported.</p>"
+msgstr ""
+
+msgctxt "Languages::vendors_with_absolute_commissions_notice"
+msgid "<p>The following vendors had absolute commissions before the upgrade:</p><ul>[vendors_list]</ul><p>The <b>Transaction fee</b> in their plans has been set to 0.</p><p>The sizes of absolute commissions still remain in the database, but are no longer used. However, you can use that data to set up new vendor plans with relative commissions. Learn more in this article:</p>[instructions]"
+msgstr ""
+
+msgctxt "Languages::absolute_commissions_instructions"
+msgid "<a href=\"http://docs.cs-cart.com/4.3.x/user_guide/addons/vendor_commission/vendor_commissions_and_plans.html\" target=\"_blank\">Upgrading from 4.3.x to 4.4.x: Vendor Commissions and Vendor Plans</a>"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_title"
+msgid "Google Export changes"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for data feeds: <b>Google price</b> doesn't include tax now.</p><p>If you want to export products with tax included in the price, do the following:</p><ul><li>Go to Administration &rarr; Add-ons &rarr; Data feeds.</li><li>Choose the data feed used to export products to Google Product Feed.</li><li>Switch to the <b>Fields mapping</b> tab and select <b>Google price (with tax included)</b> for the <b>price</b> field.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::error_shipment_not_created"
+msgid "Couldn't create a shipment. Please choose a carrier or enter a tracking number."
+msgstr ""
+
+msgctxt "Languages::my_cart"
+msgid "My cart"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions"
+msgid "Exclusive discounts"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions_content"
+msgid "Subscribe to our news and get a 10% discount coupon!"
+msgstr ""
+
+msgctxt "Languages::tmpl_subscription_advanced"
+msgid "Subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_newsletters_subscription_advanced"
+msgid "Newsletters: subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_payment_icons_rus"
+msgid "Payment systems russian icons"
+msgstr ""
+
+msgctxt "Languages::my_account_links_advanced"
+msgid "My account advanced"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_enabled"
+msgid "You are free to use the API now"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_disabled"
+msgid "From now on, you cannot use the API"
+msgstr ""
+
+msgctxt "Languages::report_a_bug"
+msgid "Report a bug"
+msgstr ""
+
+msgctxt "Languages::import_results"
+msgid "Import results"
+msgstr ""
+
+msgctxt "Languages::import_errors"
+msgid "Import errors"
+msgstr ""
+
+msgctxt "Languages::email_template_import_success_msg"
+msgid "All the email templates have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::document_import_success_msg"
+msgid "All the documents have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::count_document_successfully_imported"
+msgid "Documents successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_successfully_imported"
+msgid "Email templates successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_successfully_imported"
+msgid "Snippets successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_document_fail_imported"
+msgid "Documents import failed:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_fail_imported"
+msgid "Email templates import failed:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_fail_imported"
+msgid "Snippets import failed:"
+msgstr ""
 

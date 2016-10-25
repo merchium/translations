@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-28 09:04-0400\n"
+"PO-Revision-Date: 2016-10-20 07:07-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -4136,6 +4136,10 @@ msgctxt "Languages::filter_name"
 msgid "Filter name"
 msgstr "Nombre del filtro"
 
+msgctxt "Languages::filters_in_use"
+msgid "All features are already in use"
+msgstr ""
+
 msgctxt "Languages::finance_product_code"
 msgid "Finance product code"
 msgstr "Código de producto de finanzas"
@@ -5168,6 +5172,10 @@ msgctxt "Languages::login"
 msgid "Login"
 msgstr "Acceso"
 
+msgctxt "Languages::login_url"
+msgid "Login URL"
+msgstr ""
+
 msgctxt "Languages::logos"
 msgid "Logos"
 msgstr "Logos"
@@ -5915,6 +5923,14 @@ msgstr "Nueva sección"
 msgctxt "Languages::new_shipment"
 msgid "New shipment"
 msgstr "Nuevo envío"
+
+msgctxt "Languages::detailed_shipment"
+msgid "Detailed shipment"
+msgstr ""
+
+msgctxt "Languages::create_detailed_shipment"
+msgid "Create detailed shipment »"
+msgstr ""
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -6743,6 +6759,10 @@ msgctxt "Languages::phone2_label"
 msgid "International"
 msgstr "Internacional"
 
+msgctxt "Languages::phone2"
+msgid "International"
+msgstr ""
+
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
 msgstr "Información PHP"
@@ -6955,6 +6975,14 @@ msgctxt "Languages::print_invoice"
 msgid "Print invoice"
 msgstr "Imprimir orden pedido"
 
+msgctxt "Languages::edit_invoice"
+msgid "Edit invoice"
+msgstr ""
+
+msgctxt "Languages::remove_invoice"
+msgid "Remove invoice"
+msgstr ""
+
 msgctxt "Languages::print_order_details"
 msgid "Print order details"
 msgstr "Imprimir detalle de pedido"
@@ -7118,6 +7146,14 @@ msgstr "Administrar grupos de usuarios"
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
 msgstr "Gestionar usuarios"
+
+msgctxt "Languages::privileges.manage_email_templates"
+msgid "Manage email templates"
+msgstr ""
+
+msgctxt "Languages::privileges.manage_document_templates"
+msgid "Manage document templates"
+msgstr ""
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -10507,9 +10543,45 @@ msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
 msgstr "No está permitido subir archivos con tamaño mayor de <b>[size]</b>"
 
+msgctxt "Languages::text_license_required_full"
+msgid "Your current CS-Cart edition is Professional. We also offer another one, a more advanced edition—<b>Ultimate</b>. With CS-Cart Ultimate, you'll be able to use unlimited number of storefronts and the mobile commerce app as well as the eBay Synchronization add-on and the Facebook app without additional fees. To unlock unlimited storefonts and mobile commerce, get the Ultimate license."
+msgstr ""
+
+msgctxt "Languages::text_license_required_storefronts"
+msgid "Add as many storefronts as you want and manage them via a single admin panel."
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile"
+msgid "Manage your store conveniently on-the-go via your mobile device."
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook"
+msgid "Build your store into your Facebook page to get closer to your audience and draw more new customers."
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay"
+msgid "Boost your sales by selling products presented in your CS-Cart store on the world's biggest marketplace—eBay."
+msgstr ""
+
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
 msgstr "Por favor completa pago siguiente.<br /> esta es una página de pago seguro, suministrada desde un entorno seguro."
+
+msgctxt "Languages::text_license_required_storefronts-title"
+msgid "Unlimited Storefronts"
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile-title"
+msgid "Mobile Admin panel App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook-title"
+msgid "Facebook App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay-title"
+msgid "eBay Synchronization"
+msgstr ""
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -11922,6 +11994,10 @@ msgstr "TPE"
 msgctxt "Languages::track"
 msgid "Track"
 msgstr "Seguir"
+
+msgctxt "Languages::tracking_num"
+msgid "Tracking number"
+msgstr ""
 
 msgctxt "Languages::tracking_number"
 msgid "Tracking number"
@@ -14103,6 +14179,14 @@ msgctxt "SettingsOptions::product_quick_view_thumbnail_height"
 msgid "Product quick view thumbnail height"
 msgstr "Alto de la miniatura en la vista rápida de producto"
 
+msgctxt "SettingsOptions::product_admin_mini_icon_width"
+msgid "Admin panel: product mini-icon thumbnail width"
+msgstr ""
+
+msgctxt "SettingsOptions::product_admin_mini_icon_height"
+msgid "Admin panel: product mini-icon thumbnail height"
+msgstr ""
+
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
 msgstr "E-mail de respuesta para la newsletter"
@@ -14398,6 +14482,10 @@ msgstr "Opción por defecto para la sección \"Nuevo cliente\" en \"Iniciar sesi
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
 msgstr "Mostrar el paso de \"Método de envío\""
+
+msgctxt "SettingsOptions::email_templates"
+msgid "Email templates mode"
+msgstr ""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -15127,6 +15215,14 @@ msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
 msgstr "(GMT+13:00) Nuku'alofa"
 
+msgctxt "SettingsVariants::email_templates::old"
+msgid "Old (stored on file system)"
+msgstr ""
+
+msgctxt "SettingsVariants::email_templates::new"
+msgid "New (nice and editable via admin panel)"
+msgstr ""
+
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
 msgstr "Solicitar solo información de contacto en el registro"
@@ -15660,6 +15756,10 @@ msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
 msgstr "<p>La base de datos y archivos de su tienda ha sido respaldados antes de la actualización. El archivo de copia de seguridad incluye la base de datos entera y todos los archivos excepto las imágenes. El archivo de copia de seguridad se ha almacenado en el servidor: [backup_file].</p> <p>Antes de la actualización, la tienda fue cerrada. Compruebe si está funcionando bien después de la actualización y <a href=\"[settings_section]\"> lo abrimos</a>.</p> <p>Si algo sale mal durante la actualización, vaya a su panel de administración <strong>Administración → Backup y Restore</strong>, para restaurar la copia de seguridad.</p> <p>Si usted no puede acceder a su panel de administración, use este enlace para restaurar la última copia de seguridad: [restore_link]. Importante: este enlace inmediatamente iniciará el proceso de restauración. Utilizarlo únicamente si usted no puede acceder a su panel de administración!</p>"
 
+msgctxt "Languages::uc_backup_info_subj"
+msgid "Upgrade Center: Store has been backed up and closed."
+msgstr ""
+
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
 msgstr "Buscar por características no está disponible debido al excesivo número de variantes."
@@ -15976,6 +16076,262 @@ msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
 msgstr ""
 
+msgctxt "Languages::email_templates"
+msgid "Email templates"
+msgstr ""
+
+msgctxt "Languages::editing_email_template"
+msgid "Editing email template"
+msgstr ""
+
+msgctxt "Languages::customer_notifications"
+msgid "Customer notifications"
+msgstr ""
+
+msgctxt "Languages::admin_notifications"
+msgid "Administrator notifications"
+msgstr ""
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "Languages::variables"
+msgid "Variables"
+msgstr ""
+
+msgctxt "Languages::snippets"
+msgid "Snippets"
+msgstr ""
+
+msgctxt "Languages::code_snippets"
+msgid "Code snippets"
+msgstr ""
+
+msgctxt "Languages::editing_email_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::editing_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::snippet_exists"
+msgid "The snippet with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::document_exists"
+msgid "The document with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::email_template_exists"
+msgid "The email template with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::need_snippet_name"
+msgid "You have to specify valid snippet name"
+msgstr ""
+
+msgctxt "Languages::snippets_have_been_deleted"
+msgid "Snippets have been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::add_email_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::add_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::editing_document"
+msgid "Editing [name]"
+msgstr ""
+
+msgctxt "Languages::product_info"
+msgid "Product info"
+msgstr ""
+
+msgctxt "Languages::add_table_column"
+msgid "Add column"
+msgstr ""
+
+msgctxt "Languages::editing_table_column"
+msgid "Editing column"
+msgstr ""
+
+msgctxt "Languages::table_column_has_been_deleted"
+msgid "Product column has been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::restore_default_value"
+msgid "Restore default value"
+msgstr ""
+
+msgctxt "Languages::send_test_email"
+msgid "Send test email"
+msgstr ""
+
+msgctxt "Languages::text_test_email_sent"
+msgid "Test email was sent to <b>[email]</b> address."
+msgstr ""
+
+msgctxt "Languages::editing_global_vars"
+msgid "Editing global variables"
+msgstr ""
+
+msgctxt "Languages::global_vars"
+msgid "Global variables"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_subj"
+msgid "Order #[order] has been processed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_text"
+msgid "Your order has been processed successfully."
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_subj"
+msgid "Order #[order] has been completed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_text"
+msgid "Your order has been completed. Thank you for choosing us."
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_subj"
+msgid "Order #[order] has been placed successfully"
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_text"
+msgid "Thank you for the order. You are welcome to come back!"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_subj"
+msgid "Order #[order] failed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_text"
+msgid "Your order has been unsuccessful. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_subj"
+msgid "Order #[order] has been declined"
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_text"
+msgid "Your order has been declined. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_subj"
+msgid "Order #[order] has been backordered"
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_text"
+msgid "Your order has been backordered."
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_subj"
+msgid "Order #[order] has been canceled"
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_text"
+msgid "Your order has been canceled. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_subj"
+msgid "The status of order #[order] has been changed to [status]"
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_text"
+msgid "The status of your order has been changed to [status]."
+msgstr ""
+
+msgctxt "Languages::email_template.activate_profile"
+msgid "User profile requires activation"
+msgstr ""
+
+msgctxt "Languages::email_template.back_in_stock_notification"
+msgid "Back in stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.create_profile"
+msgid "User profile creation"
+msgstr ""
+
+msgctxt "Languages::email_template.edp_access"
+msgid "Orders: access to downloadable products"
+msgstr ""
+
+msgctxt "Languages::email_template.give_coupon"
+msgid "Promotions: coupon"
+msgstr ""
+
+msgctxt "Languages::email_template.low_stock"
+msgid "Product low stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification"
+msgid "Order notification: [name]"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification_default"
+msgid "Order notification: Default template for a new order status"
+msgstr ""
+
+msgctxt "Languages::email_template.profile_activated"
+msgid "User profile activation"
+msgstr ""
+
+msgctxt "Languages::email_template.recover_password"
+msgid "Password recovery"
+msgstr ""
+
+msgctxt "Languages::email_template.reminder"
+msgid "Admin password expiration"
+msgstr ""
+
+msgctxt "Languages::email_template.shipment_products"
+msgid "Orders: products shipped"
+msgstr ""
+
+msgctxt "Languages::email_template.track"
+msgid "Orders: tracking"
+msgstr ""
+
+msgctxt "Languages::email_template.update_profile"
+msgid "User profile update"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_activation"
+msgid "User group activation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_disactivation"
+msgid "User group disactivation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_request"
+msgid "User group request"
+msgstr ""
+
+msgctxt "Languages::email_template.upgrade_backup_info"
+msgid "Upgrade: restore link"
+msgstr ""
+
+msgctxt "Languages::email_template.params.attach_invoice"
+msgid "Attach a PDF invoice"
+msgstr ""
+
+msgctxt "Languages::edit_customer_notification"
+msgid "Edit the email sent to customers"
+msgstr ""
+
+msgctxt "Languages::edit_admin_notification"
+msgid "Edit the email sent to administrators"
+msgstr ""
+
 msgctxt "Languages::copy"
 msgid "Copy"
 msgstr ""
@@ -16058,6 +16414,10 @@ msgstr ""
 
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
+msgstr ""
+
+msgctxt "Languages::feature_groups"
+msgid "Feature groups"
 msgstr ""
 
 msgctxt "Languages::shippings.can.business_account_information"
@@ -16160,6 +16520,34 @@ msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
 msgstr ""
 
+msgctxt "Languages::licensing_and_upgrades"
+msgid "Licensing and upgrades"
+msgstr ""
+
+msgctxt "Languages::addon_license_key_tooltip"
+msgid "Enter license key you've received by e-mail in order to receive the add-on upgrades."
+msgstr ""
+
+msgctxt "Languages::api_shipments_update_not_allowed"
+msgid "Only the tracking_number and carrier params can be updated"
+msgstr ""
+
+msgctxt "Languages::cannot_remove_theme_has_dependent_themes"
+msgid "The theme can't be removed as the following themes depend on it: [dependent_themes]"
+msgstr ""
+
+msgctxt "Languages::text_installing_theme_dependencies"
+msgid "Installing the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::text_unable_to_install_theme_dependencies"
+msgid "Unable to install the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::exim_cannot_create_variant_for_shareable_feature"
+msgid "You cannot create a variant for a shareable feature."
+msgstr ""
+
 msgctxt "Languages::ups_upgrade_notification_title"
 msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
 msgstr ""
@@ -16170,5 +16558,437 @@ msgstr ""
 
 msgctxt "Languages::warning_default_language_sharing_removed"
 msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
+msgstr ""
+
+msgctxt "Languages::page_url"
+msgid "Page URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_url"
+msgid "The page inner URL"
+msgstr ""
+
+msgctxt "Languages::page_target_url"
+msgid "Target URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_target_url"
+msgid "The URL to redirect customers to"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.freight_account_number"
+msgid "Freight account number"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_extra_large_box"
+msgid "FedEx Extra Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_large_box"
+msgid "FedEx Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_medium_box"
+msgid "FedEx Medium Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_small_box"
+msgid "FedEx Small Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_business_service_center"
+msgid "Business service center"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_drop_box"
+msgid "Drop box"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.options"
+msgid "Delivery options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_broker_select_option"
+msgid "Broker select option"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_call_before_delivery"
+msgid "Call before delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod"
+msgid "COD"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_amount"
+msgid "COD amount"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type"
+msgid "COD collection type"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_any"
+msgid "Any"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_cash"
+msgid "Cash"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_guaranteed_funds"
+msgid "Guaranteed funds"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_custom_delivery_window"
+msgid "Custom delivery window"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods"
+msgid "Dangerous goods"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options"
+msgid "Hazardous content options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_battery"
+msgid "Battery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_hazardous_materials"
+msgid "Hazardous materials"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_orm_d"
+msgid "ORM-D"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_limited_quantities_commodities"
+msgid "Limited quantities commodities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_reportable_quantities"
+msgid "Reportable quantities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_small_quantity_exception"
+msgid "Small quantity exception"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility"
+msgid "Dangerous goods accessibility"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_accessible"
+msgid "Accessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_inaccessible"
+msgid "Inaccessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_break_down_pallets"
+msgid "Do not break down pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_stack_pallets"
+msgid "Do not stack pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dry_ice"
+msgid "Dry ice"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_east_coast_special"
+msgid "East Coast special"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_electronic_trade_documents"
+msgid "Electronic trade documents"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_extreme_length"
+msgid "Extreme length"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_food"
+msgid "Food"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_fedex_one_rate"
+msgid "FedEx One Rate"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_guarantee"
+msgid "Freight guarantee"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_to_collect"
+msgid "Freight to collect"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_future_day_shipment"
+msgid "Future day shipment"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_hold_at_location"
+msgid "Hold at location"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_home_delivery_premium"
+msgid "Home delivery Premium"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_delivery"
+msgid "Inside delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_pickup"
+msgid "Inside pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_controlled_export_service"
+msgid "International controlled export service"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_traffic_in_arms_regulations"
+msgid "International traffic in arms regulations"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_delivery"
+msgid "Liftgate delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_pickup"
+msgid "Liftgate pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_delivery"
+msgid "Limited access delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_pickup"
+msgid "Limited access pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_pharmacy_delivery"
+msgid "Pharmacy delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_poison"
+msgid "Poison"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_protection_from_freezing"
+msgid "Protection from freezing"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_returns_clearance"
+msgid "Returns clearance"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_delivery"
+msgid "Saturday delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_pickup"
+msgid "Saturday pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_top_load"
+msgid "Top load"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_title"
+msgid "FedEx realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
+msgstr ""
+
+msgctxt "Languages::template_document_order_invoice"
+msgid "Invoice"
+msgstr ""
+
+msgctxt "Languages::template_document_order_summary"
+msgid "Order summary"
+msgstr ""
+
+msgctxt "Languages::template_document_packing_slip_default"
+msgid "Packing slip"
+msgstr ""
+
+msgctxt "Languages::documents"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Languages::document_preview_order_not_found"
+msgid "Couldn't find an order. Preview only works with existing data. Please create an order and use Preview again."
+msgstr ""
+
+msgctxt "Languages::editing_order_invoice"
+msgid "Editing invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::email_order_invoice_subject"
+msgid "[company_name]: Invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::edit_and_send_invoice"
+msgid "Tweak and send invoice"
+msgstr ""
+
+msgctxt "Languages::error_profile_field_name_exists"
+msgid "A profile field with this name already exists. Please choose another name."
+msgstr ""
+
+msgctxt "Languages::profile_field_name"
+msgid "Field name"
+msgstr ""
+
+msgctxt "Languages::text_character_identifier_tooltip"
+msgid "A character sequence that serves as an identifier. You can use figures from 0 to 9, symbols of the English alphabet and the following signs: \"-\", \"_\", \".\"."
+msgstr ""
+
+msgctxt "SettingsOptions::monitor_core_changes"
+msgid "Monitor changes in core files"
+msgstr ""
+
+msgctxt "Languages::core_files_have_been_modified"
+msgid "Some of your core files have been changed.<br/><a href=\"[changes_url]\" target=\"_blank\">View changes</a> <a href=\"[settings_url]\" target=\"_blank\">Disable this check</a>"
+msgstr ""
+
+msgctxt "Languages::scan_for_modified_core_files"
+msgid "Scan for changed core files"
+msgstr ""
+
+msgctxt "Languages::last_scan_time"
+msgid "Last scan time"
+msgstr ""
+
+msgctxt "Languages::no_modified_core_files_found"
+msgid "No changed core files found"
+msgstr ""
+
+msgctxt "Languages::modified_core_files_found"
+msgid "Some of your core files have been changed. This may become a problem when upgrading [product] as changes in these files may be lost."
+msgstr ""
+
+msgctxt "Languages::file_changes_detector"
+msgid "File changes detector"
+msgstr ""
+
+msgctxt "Languages::privileges.view_file_changes"
+msgid "View file changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_title"
+msgid "Vendor commission changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_text"
+msgid "<p>Vendor commissions have been replaced with vendor plans, and an own plan has been created for each vendor. However, absolute commissions are no longer supported.</p>"
+msgstr ""
+
+msgctxt "Languages::vendors_with_absolute_commissions_notice"
+msgid "<p>The following vendors had absolute commissions before the upgrade:</p><ul>[vendors_list]</ul><p>The <b>Transaction fee</b> in their plans has been set to 0.</p><p>The sizes of absolute commissions still remain in the database, but are no longer used. However, you can use that data to set up new vendor plans with relative commissions. Learn more in this article:</p>[instructions]"
+msgstr ""
+
+msgctxt "Languages::absolute_commissions_instructions"
+msgid "<a href=\"http://docs.cs-cart.com/4.3.x/user_guide/addons/vendor_commission/vendor_commissions_and_plans.html\" target=\"_blank\">Upgrading from 4.3.x to 4.4.x: Vendor Commissions and Vendor Plans</a>"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_title"
+msgid "Google Export changes"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for data feeds: <b>Google price</b> doesn't include tax now.</p><p>If you want to export products with tax included in the price, do the following:</p><ul><li>Go to Administration &rarr; Add-ons &rarr; Data feeds.</li><li>Choose the data feed used to export products to Google Product Feed.</li><li>Switch to the <b>Fields mapping</b> tab and select <b>Google price (with tax included)</b> for the <b>price</b> field.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::error_shipment_not_created"
+msgid "Couldn't create a shipment. Please choose a carrier or enter a tracking number."
+msgstr ""
+
+msgctxt "Languages::my_cart"
+msgid "My cart"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions"
+msgid "Exclusive discounts"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions_content"
+msgid "Subscribe to our news and get a 10% discount coupon!"
+msgstr ""
+
+msgctxt "Languages::tmpl_subscription_advanced"
+msgid "Subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_newsletters_subscription_advanced"
+msgid "Newsletters: subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_payment_icons_rus"
+msgid "Payment systems russian icons"
+msgstr ""
+
+msgctxt "Languages::my_account_links_advanced"
+msgid "My account advanced"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_enabled"
+msgid "You are free to use the API now"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_disabled"
+msgid "From now on, you cannot use the API"
+msgstr ""
+
+msgctxt "Languages::report_a_bug"
+msgid "Report a bug"
+msgstr ""
+
+msgctxt "Languages::import_results"
+msgid "Import results"
+msgstr ""
+
+msgctxt "Languages::import_errors"
+msgid "Import errors"
+msgstr ""
+
+msgctxt "Languages::email_template_import_success_msg"
+msgid "All the email templates have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::document_import_success_msg"
+msgid "All the documents have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::count_document_successfully_imported"
+msgid "Documents successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_successfully_imported"
+msgid "Email templates successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_successfully_imported"
+msgid "Snippets successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_document_fail_imported"
+msgid "Documents import failed:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_fail_imported"
+msgid "Email templates import failed:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_fail_imported"
+msgid "Snippets import failed:"
 msgstr ""
 

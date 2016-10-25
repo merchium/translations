@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: nl\n"
 "X-Crowdin-File: /addons/paypal.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-06-22 03:59-0400\n"
+"PO-Revision-Date: 2016-10-12 08:00-0400\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -86,15 +86,15 @@ msgstr "PayPal modus"
 
 msgctxt "Languages::paypal_vendor"
 msgid "Vendor"
-msgstr ""
+msgstr "Verkoper"
 
 msgctxt "Languages::paypal_use_in_context_checkout"
 msgid "Use In-Context Checkout"
-msgstr ""
+msgstr "Gebruik In-Context afrekenen"
 
 msgctxt "Languages::ttc_paypal_use_in_context_checkout"
 msgid "In-Context Checkout will not be used when the store is running in Widget mode"
-msgstr ""
+msgstr "In-Context afrekenen wordt niet gebruikt als de webwinkel in Widget modus wordt uitgevoerd"
 
 msgctxt "Languages::paypal_express_notice"
 msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
@@ -106,7 +106,7 @@ msgstr ""
 
 msgctxt "Languages::paypal_ipn_transaction_status"
 msgid "Transaction status"
-msgstr ""
+msgstr "Transactie status"
 
 msgctxt "Languages::addons.paypal.surcharge_policy_notice"
 msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "Languages::addons.paypal.rma.perform_refund"
 msgid "Give a refund via PayPal"
-msgstr ""
+msgstr "Een terugbetaling geven via PayPal"
 
 msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
 msgid "A refund will be made once an administrator changes the return request status"
@@ -122,5 +122,5 @@ msgstr ""
 
 msgctxt "Languages::addons.paypal.rma.refund_performed"
 msgid "The refund has been made via PayPal"
-msgstr ""
+msgstr "De terugboeking is gedaan via PayPal"
 

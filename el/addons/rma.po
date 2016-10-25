@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: el\n"
 "X-Crowdin-File: /addons/rma.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-26 08:00-0400\n"
+"PO-Revision-Date: 2016-10-04 08:04-0400\n"
 
 msgctxt "Addons::name::rma"
 msgid "RMA"
@@ -199,4 +199,16 @@ msgstr "Εμφάνιση περίοδου επιστροφής των προϊό
 msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
 msgid "Do not take weekends into account when calculating product return period"
 msgstr "Μην πάρετε τα Σαββατοκύριακα υπόψη κατά τον υπολογισμό  της περιόδου επιστροφής των προϊόντων"
+
+msgctxt "Languages::email_template.rma_slip_notification"
+msgid "RMA slip"
+msgstr ""
+
+msgctxt "Languages::template_document_rma_packing_slip_default"
+msgid "Return request: packing slip"
+msgstr ""
+
+msgctxt "Languages::document_preview_return_request_not_found"
+msgid "Couldn't find a return request. Preview only works with existing data. Please create a return request and use Preview again."
+msgstr ""
 

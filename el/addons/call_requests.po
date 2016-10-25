@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -8,9 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: el\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-26 08:00-0400\n"
+"PO-Revision-Date: 2016-10-04 08:04-0400\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -179,4 +179,12 @@ msgstr "Ο πελάτης [customer] είναι <a href=\"[href]\"> εν ανα�
 msgctxt "Languages::call_requests.error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid."
 msgstr "Ο αριθμός τηλεφώνου στο πεδίο <b>[field]</b> δεν είναι έγκυρος."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr ""
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr ""
 

@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: tr\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-28 09:05-0400\n"
+"PO-Revision-Date: 2016-10-20 07:07-0400\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3830,7 +3830,7 @@ msgstr "CVV/CVC çok kısa."
 
 msgctxt "Languages::error_change_admin_data_in_frontend"
 msgid "It's forbidden to change the admin email or password in the customer area. Please sign in using a customer account."
-msgstr "Bu yönetici e-posta veya müşteri alanında parolayı değiştirmek için yasakladı. Lütfen bir müşteri hesabı kullanarak oturum açın."
+msgstr "Yönetici e-postası veya parolasını müşteri alanında değiştirmek yasaktır. Lütfen üye hesabını kullanarak oturum açınız."
 
 msgctxt "Languages::exact_phrase"
 msgid "The exact phrase"
@@ -4135,6 +4135,10 @@ msgstr "Filtre tanımı"
 msgctxt "Languages::filter_name"
 msgid "Filter name"
 msgstr "Filtre adı"
+
+msgctxt "Languages::filters_in_use"
+msgid "All features are already in use"
+msgstr ""
 
 msgctxt "Languages::finance_product_code"
 msgid "Finance product code"
@@ -5168,6 +5172,10 @@ msgctxt "Languages::login"
 msgid "Login"
 msgstr "Giriş"
 
+msgctxt "Languages::login_url"
+msgid "Login URL"
+msgstr ""
+
 msgctxt "Languages::logos"
 msgid "Logos"
 msgstr "Logolar"
@@ -5915,6 +5923,14 @@ msgstr "Yeni bölüm"
 msgctxt "Languages::new_shipment"
 msgid "New shipment"
 msgstr "Yeni gönderi"
+
+msgctxt "Languages::detailed_shipment"
+msgid "Detailed shipment"
+msgstr ""
+
+msgctxt "Languages::create_detailed_shipment"
+msgid "Create detailed shipment »"
+msgstr ""
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -6740,6 +6756,10 @@ msgctxt "Languages::phone2_label"
 msgid "International"
 msgstr "Uluslararası"
 
+msgctxt "Languages::phone2"
+msgid "International"
+msgstr ""
+
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
 msgstr "PHP bilgisi"
@@ -6952,6 +6972,14 @@ msgctxt "Languages::print_invoice"
 msgid "Print invoice"
 msgstr "faturayı yazdır"
 
+msgctxt "Languages::edit_invoice"
+msgid "Edit invoice"
+msgstr ""
+
+msgctxt "Languages::remove_invoice"
+msgid "Remove invoice"
+msgstr ""
+
 msgctxt "Languages::print_order_details"
 msgid "Print order details"
 msgstr "Sipariş Detaylarını Yazdır"
@@ -7115,6 +7143,14 @@ msgstr "Manage user groups"
 msgctxt "Languages::privileges.manage_users"
 msgid "Manage users"
 msgstr "Manage users"
+
+msgctxt "Languages::privileges.manage_email_templates"
+msgid "Manage email templates"
+msgstr ""
+
+msgctxt "Languages::privileges.manage_document_templates"
+msgid "Manage document templates"
+msgstr ""
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -10504,9 +10540,45 @@ msgctxt "Languages::text_forbidden_uploaded_file_size"
 msgid "It is not allowed to upload files with size more than <b>[size]</b>"
 msgstr "It is not allowed to upload files with size more than <b>[size]</b>"
 
+msgctxt "Languages::text_license_required_full"
+msgid "Your current CS-Cart edition is Professional. We also offer another one, a more advanced edition—<b>Ultimate</b>. With CS-Cart Ultimate, you'll be able to use unlimited number of storefronts and the mobile commerce app as well as the eBay Synchronization add-on and the Facebook app without additional fees. To unlock unlimited storefonts and mobile commerce, get the Ultimate license."
+msgstr ""
+
+msgctxt "Languages::text_license_required_storefronts"
+msgid "Add as many storefronts as you want and manage them via a single admin panel."
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile"
+msgid "Manage your store conveniently on-the-go via your mobile device."
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook"
+msgid "Build your store into your Facebook page to get closer to your audience and draw more new customers."
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay"
+msgid "Boost your sales by selling products presented in your CS-Cart store on the world's biggest marketplace—eBay."
+msgstr ""
+
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
 msgstr "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
+
+msgctxt "Languages::text_license_required_storefronts-title"
+msgid "Unlimited Storefronts"
+msgstr ""
+
+msgctxt "Languages::text_license_required_mobile-title"
+msgid "Mobile Admin panel App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_facebook-title"
+msgid "Facebook App"
+msgstr ""
+
+msgctxt "Languages::text_license_required_ebay-title"
+msgid "eBay Synchronization"
+msgstr ""
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
@@ -11078,7 +11150,7 @@ msgstr "Tam erişim tüm özelliklerine 30 günlük deneme süresi boyunca harek
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
-msgstr "30 gün sonra yükleme paketinin karşıdan yükleme sırasında tüm özellikler kullanılabilir. Lisans anahtarı. girmeniz gerekmez < br / > < br / > 30 günlük deneme süresi bittikten sonra lisans satın almak ya da zaten varsa lisans anahtarını girin gerekir. < br / > < br / >"
+msgstr "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
 
 msgctxt "Languages::text_tax_applied"
 msgid "The tax <b>[tax]</b> has been applied to all products"
@@ -11194,7 +11266,7 @@ msgstr "FTP transfer failed"
 
 msgctxt "Languages::text_uc_ftp_cart_directory_not_found"
 msgid "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
-msgstr "CS-Cart yükleme belirtilen dizinde bulmak koyamadık. Lütfen doğru FTP dizin girdiğinizden emin olun."
+msgstr "We were unable to find CS-Cart installation in the specified directory. Please make sure that you have entered the correct FTP directory."
 
 msgctxt "Languages::text_uc_ftp_connection_failed"
 msgid "FTP connection failed"
@@ -11730,7 +11802,7 @@ msgstr "Tema editör modu"
 
 msgctxt "Languages::theme_editor.create_style_first"
 msgid "You cannot modify this parameter for default styles. Create a new one first"
-msgstr "Bu parametre için varsayılan stiller değişiklik yapamazsınız. Önce yeni bir tane oluşturun"
+msgstr "You cannot modify this parameter for default styles. Create a new one first"
 
 msgctxt "Languages::the_test_transaction"
 msgid "This is a TEST transaction"
@@ -11854,7 +11926,7 @@ msgstr "Tooltip"
 
 msgctxt "Languages::container_not_used"
 msgid "This container is NOT used. \"[container]\" container from the default location will be used instead. Set this location as default to use this container as \"[container]\" for all locations."
-msgstr "Bu kapsayıcı kullanılır. \"[container]\" konteyner varsayılan konumdaki yerine kullanılır. Bu kapsayıcıdaki tüm mekanlar için \"[container]\" kullanmak için varsayılan olarak bu konumu ayarlayın."
+msgstr "Bu kap <strong>kullanılmaz</strong>. Bunun yerine varsayılan konumdaki \"[container]\" kabı kullanılır. Bu kabı bütün konumlarda \"[container]\" olarak kullanmak için, bu konumu varsayılan olarak ayarlayın."
 
 msgctxt "Languages::top_panel"
 msgid "Top panel"
@@ -11919,6 +11991,10 @@ msgstr "TİP"
 msgctxt "Languages::track"
 msgid "Track"
 msgstr "İzle"
+
+msgctxt "Languages::tracking_num"
+msgid "Tracking number"
+msgstr ""
 
 msgctxt "Languages::tracking_number"
 msgid "Tracking number"
@@ -12222,7 +12298,7 @@ msgstr "Domain name that you want to use instead of the CloudFront domain name f
 
 msgctxt "Languages::tt_views_storage_cdn_key"
 msgid "AWS Access Key ID. See <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a> to learn how to get key and secret key."
-msgstr "AWS Access Key ID. See <a href=\"http://amzn.to/14FZLi3\" target=\"_blank\">http://amzn.to/14FZLi3</a> to learn how to get key and secret key."
+msgstr "AWS Erişim Anahtarı kimliği. Anahtar ve gizli anahtarın nasıl alınacağını öğrenmek için, bkz. <a href=\"http://amzn.to/1sT9aw0\" target=\"_blank\">http://amzn.to/1sT9aw0</a>"
 
 msgctxt "Languages::tt_views_taxes_update_regnumber"
 msgid "Registration number of this tax in the store."
@@ -12430,7 +12506,7 @@ msgstr "Doğrulama sorunu"
 
 msgctxt "Languages::upgrade_center.validator_fail_result"
 msgid "Validator \"[validator_name]\" returned fail status"
-msgstr "\"[validator_name]\" durumu doğrulayıcısı başarısız durum döndürdü"
+msgstr "Validator \"[validator_name]\" returned fail status"
 
 msgctxt "Languages::upgrade_center.filehash_check_failed"
 msgid "Upgrade is impossible due to file integrity check error. Please contact the technical support team."
@@ -12450,39 +12526,39 @@ msgstr "Bu güncelleme versiyonuna sahip olma hakkınız bulunmuyor.(Güncelleme
 
 msgctxt "Languages::upgrade_center.warning_msg_upgrade_is_complicated"
 msgid "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
-msgstr "Yükseltme karmaşık bir süreçtir. Kontrolümüz dışında nedenlerle başarısız. Yükseltmeyi deponuzun ipuçları sizin için hazırladık daha güvenli hale getirmek için <br>:"
+msgstr "The upgrade is a complicated process. It can be failed due to reasons that are beyond our control.<br> To make the upgrade of your store safer, we have prepared tips for you:"
 
 msgctxt "Languages::upgrade_center.warning_msg_specialists"
 msgid "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
-msgstr "CS-Cart ve yükseltme işleminin teknik yönleriyle aşina değilseniz, bu <a href=\"[upgrade_center_specialist]\" target=\"_blank\"> Kiralık bir uzman</a> veya mağaza sizin için yükseltmek için <a href=\"[upgrade_center_team]\" target=\"_blank\"> destek ekibimizle sormak</a> öneririz."
+msgstr "If you are not familiar with technical aspects of CS-Cart and the upgrade process, we strongly recommend that you <a href=\"[upgrade_center_specialist]\" target=\"_blank\">hire a specialist</a> or <a href=\"[upgrade_center_team]\" target=\"_blank\">ask our support team</a> to upgrade your store for you."
 
 msgctxt "Languages::upgrade_center.warning_msg_third_party_add_ons"
 msgid "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
-msgstr "Yükseltme üçüncü parti Eklentiler güncelleştirmez. Bu yüzden yükseltmeden önce tüm üçüncü taraf eklentileri devre dışı bırakmak tavsiye ediyoruz."
+msgstr "The upgrade doesn't update third-party add-ons. That's why we recommend that you disable all the third-party add-ons before the upgrade."
 
 msgctxt "Languages::upgrade_center.warning_msg_test_local"
 msgid "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
-msgstr "Mağaza ilk yükseltme sorunsuz gitmek emin olmak için test kopyasını yükseltmek."
+msgstr "Upgrade the test copy of your store first to make sure that the upgrade will go smoothly."
 
 msgctxt "Languages::upgrade_center.warning_msg_after_upgrade"
 msgid "After the upgrade, check the basic functionality of your store."
-msgstr "Yükseltmenin ardından, deponuzun temel işlevselliğini kontrol edin."
+msgstr "After the upgrade, check the basic functionality of your store."
 
 msgctxt "Languages::upgrade_center.warning_msg_generally"
 msgid "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
-msgstr "PHP komut dosyası yürütme sunucu yapılandırması nedeniyle sonlandırıldı genellikle, yükseltme başarısız olur. PHP komut dosyası zaman aşımı ayarları, sunucunuzdaki kontrol etmek esastır"
+msgstr "Generally, the upgrade fails because the PHP script execution is terminated due to your server configuration. It's essential to check the PHP script timeout settings on your server"
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_fail"
 msgid "We DO NOT recommend to start the upgrade on your server."
-msgstr "Sunucunuzu yükseltme işlemini başlatmanizi tavsiye etmiyoruz."
+msgstr "We DO NOT recommend to start the upgrade on your server."
 
 msgctxt "Languages::upgrade_center.warning_msg_timeout_check_failed"
 msgid "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
-msgstr "Sunucu yanlış PHP komut dosyası zaman aşımı ayarları vardır. Bu PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\"> set_time_limit</a> işlev veya FastCGI kısıtlamalar nedeniyle \"Zaman aşımı\" seçenekleri olabilir. Bu sorunu gidermek veya sizin için yükseltmeyi gerçekleştirmek için teknik destek ekibimize başvurun için barındırma sağlayıcınıza başvurun öneririz."
+msgstr "Your server has wrong PHP script timeout settings. This could be due to restrictions on the PHP <a href=\"http://php.net/manual/en/function.set-time-limit.php\" target=\"_blank\">set_time_limit</a> function or FastCGI \"Timeout\" options. We recommend you to contact your hosting provider in order to resolve this issue or contact our tech support team to perform the upgrade for you."
 
 msgctxt "Languages::upgrade_center.warning_msg_executed_php"
 msgid "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
-msgstr "<p class=\"text-error\"> kukla bir PHP komut dosyası başlamıştır. 6 dakika boyunca çalışacağız. Denetimi bittiğinde, PHP komut dosyasının zaman aşımına uğrayan doğru ayarlanmış olmadığını söyleyeceğim. Evet ise, senden daha yükseltme işlemine başlamaya hazır. Onay emin olmak için bitmesini sunucunuzun doğru PHP zaman aşımı yapılandırmasına sahip bekleyin.</p>"
+msgstr "<p class=\"text-error\">We have started a dummy PHP script. It will be working during 6 minutes. When the check is finished, we'll tell you if the PHP script's timeouts can be set correctly. If yes, than you are good to go with the upgrade. Please wait until the check is finished to be sure that your server has correct PHP timeout configuration.</p>"
 
 msgctxt "Languages::upload"
 msgid "Upload"
@@ -13262,7 +13338,7 @@ msgstr "Geliştirme"
 
 msgctxt "Languages::po_file_is_incorrect"
 msgid "PO-file <b>\"[file]\"</b> contains syntax errors or incorrect structure."
-msgstr "PO-dosya <b>\"[file]\"</b> sözdizimi hatası veya yanlış yapısı içerir."
+msgstr "PO-dosyası <b>\"[file]\"</b> sözdizimi hataları veya yanlış yapı içeriyor."
 
 msgctxt "Languages::product_option_delimiter"
 msgid "Option delimiter"
@@ -13534,7 +13610,7 @@ msgstr "The ZipArchive class not found. Read more: <a href=\"https://php.net/man
 
 msgctxt "Languages::error_zip_php_extension_not_installed"
 msgid "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
-msgstr "\"Zip\" PHP uzantısı yüklü değil. Lütfen yükleyin \"Zip\" PHP uzantısı oluşturmak ve ZIP-Arşiv ayıklamak için."
+msgstr "\"Zip\" PHP extension is not installed. Please install the \"Zip\" PHP extension to create and extract ZIP-archives."
 
 msgctxt "Languages::make_archive"
 msgid "Make archive"
@@ -13666,7 +13742,7 @@ msgstr "Enable secure connection in the administration panel"
 
 msgctxt "SettingsOptions::secure_storefront"
 msgid "Enable secure connection for the storefront"
-msgstr "Mağazası için güvenli bağlantı etkinleştirme"
+msgstr "Vitrin için güvenli bağlantıyı etkinleştir"
 
 msgctxt "SettingsOptions::keep_https"
 msgid "Keep HTTPS connection once a secure page is visited"
@@ -14100,6 +14176,14 @@ msgctxt "SettingsOptions::product_quick_view_thumbnail_height"
 msgid "Product quick view thumbnail height"
 msgstr "Product quick view thumbnail height"
 
+msgctxt "SettingsOptions::product_admin_mini_icon_width"
+msgid "Admin panel: product mini-icon thumbnail width"
+msgstr ""
+
+msgctxt "SettingsOptions::product_admin_mini_icon_height"
+msgid "Admin panel: product mini-icon thumbnail height"
+msgstr ""
+
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
 msgstr "Reply-To newsletter e-mail address"
@@ -14386,7 +14470,7 @@ msgstr "\"Oturum aç\" adımını yapılandır"
 
 msgctxt "SettingsTooltips::configure_sign_in_step"
 msgid "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
-msgstr "Bu adım yalnızca herhangi bir gerekli iletişim bilgileri alanları olmayan ve anonim ödeme izin gizli olabilir."
+msgstr "This step can be hidden only if it doesn't have any required contact info fields and anonymous checkout is allowed."
 
 msgctxt "SettingsOptions::sign_in_default_action"
 msgid "Default option for the \"New customer\" section at the \"Sign in\""
@@ -14394,7 +14478,11 @@ msgstr "\"Oturum Aç\"ta bulunan \"Yeni müşteri\" bölümü için varsayılan 
 
 msgctxt "SettingsOptions::display_shipping_step"
 msgid "Display \"Shipping method\" step"
-msgstr "\"Sevkiyat yöntemi\" adım görüntüleme"
+msgstr "\"Gönderi yöntemi\" adımını göster"
+
+msgctxt "SettingsOptions::email_templates"
+msgid "Email templates mode"
+msgstr ""
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -14950,7 +15038,7 @@ msgstr "(GMT + 01:00) Batı Orta Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
 msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr "(GMT + 02:00) Atina, Beyrut, Istanbul"
+msgstr "(GMT + 02:00) Atina, Beyrut, İstanbul"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
@@ -15124,6 +15212,14 @@ msgctxt "SettingsVariants::timezone::Pacific/Tongatapu"
 msgid "(GMT+13:00) Nuku'alofa"
 msgstr "(GMT + 13:00) Nuku'alofa"
 
+msgctxt "SettingsVariants::email_templates::old"
+msgid "Old (stored on file system)"
+msgstr ""
+
+msgctxt "SettingsVariants::email_templates::new"
+msgid "New (nice and editable via admin panel)"
+msgstr ""
+
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
 msgstr "Kayıtta yalnız iletişim bilgisini gerekli tut"
@@ -15282,7 +15378,7 @@ msgstr "Güvenli profil, sipariş ve ödeme sayfaları"
 
 msgctxt "SettingsVariants::secure_storefront::full"
 msgid "Secure full site"
-msgstr "Tam site güvenli"
+msgstr "Secure full site"
 
 msgctxt "Languages::last_year"
 msgid "Last year"
@@ -15527,11 +15623,11 @@ msgstr ""
 
 msgctxt "Languages::uc_broken_upgrade_connector"
 msgid "Upgrade connector [connector_id] returned incorrect data"
-msgstr "Yükseltme bağlayıcı [connector_id] hatalı veriler döndürdü"
+msgstr "Upgrade connector [connector_id] returned incorrect data"
 
 msgctxt "Languages::uc_downloaded_and_ready"
 msgid "Upgrade package has been downloaded and ready to install"
-msgstr "Yükseltme paketini karşıdan yüklendiği ve kurulmaya hazır oldu"
+msgstr "Yükseltme paketi indirildi ve yüklenmeye hazır durumda"
 
 msgctxt "Languages::uc_connector_not_found"
 msgid "Upgrade connector not found"
@@ -15539,15 +15635,15 @@ msgstr "Yükseltme bağlayıcısı bulunamadı"
 
 msgctxt "Languages::uc_unable_to_read_schema"
 msgid "Unable to read package schema (schema.json)"
-msgstr "Paket şema (schema.json) okunamıyor"
+msgstr "Unable to read package schema (schema.json)"
 
 msgctxt "Languages::uc_package_schema_not_found"
 msgid "Package content schema not found"
-msgstr "Paket içerik şeması bulunamadı"
+msgstr "Package content schema not found"
 
 msgctxt "Languages::uc_package_schema_is_not_json"
 msgid "Package schema is not a valid JSON"
-msgstr "Paket şema geçerli bir JSON değil"
+msgstr "Package schema is not a valid JSON"
 
 msgctxt "Languages::uc_addon_package_forbidden_path"
 msgid "Forbidden: Add-on tries to upgrade core files ([path])"
@@ -15555,19 +15651,19 @@ msgstr "Yasak: Eklenti ana dosyalarınızı ([path]) yükseltmeye çalışıyor"
 
 msgctxt "Languages::uc_addon_package_migrations_forbidden"
 msgid "Package contains migrations that were not described in schema or schema has links to missing migration files"
-msgstr "Şemada açıklanmayan geçişleri pakette veya şema geçiş dosyaları eksik bağlantılar vardır"
+msgstr "Package contains migrations that were not described in schema or schema has links to missing migration files"
 
 msgctxt "Languages::uc_addon_package_languages_forbidden"
 msgid "Package contains languages that were not described in schema or schema has links to missing languages files"
-msgstr "Şemada açıklanmayan dil paketi içeren veya şema diller dosyalar eksik bağlantılar vardır"
+msgstr "Package contains languages that were not described in schema or schema has links to missing languages files"
 
 msgctxt "Languages::uc_addon_package_files_do_not_match_schema"
 msgid "Package contains files that were not described in schema or schema has links to missing files"
-msgstr "Paketi, şemada açıklanmayan dosyaları içerir veya şema bağlantıları için eksik dosyaları vardır."
+msgstr "Package contains files that were not described in schema or schema has links to missing files"
 
 msgctxt "Languages::uc_addon_package_pre_post_scripts_mismatch"
 msgid "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
-msgstr "Şemada açıklanmayan öncesi/sonrası komut dosyaları pakette veya şema bağlantıları için eksik dosyaları vardır."
+msgstr "Package contains pre/post scripts that were not described in schema or schema has links to missing files"
 
 msgctxt "Languages::new_version"
 msgid "New version"
@@ -15599,11 +15695,11 @@ msgstr "Silinecek"
 
 msgctxt "Languages::uc_title_validators"
 msgid "Upgrade package validators"
-msgstr "Yükseltme paketini doğrulayıcıları"
+msgstr "Yükseltme paketi doğrulayıcıları"
 
 msgctxt "Languages::uc_execute_validator"
 msgid "Execute \"[validator]\" validator"
-msgstr "\"[validator]\" durumu doğrulayıcısı'nı yürütmek"
+msgstr "\"[validator]\" doğrulayıcısını işlet"
 
 msgctxt "Languages::uc_copy_files"
 msgid "Copy files"
@@ -15627,7 +15723,7 @@ msgstr "Yükseltme paketini yükle"
 
 msgctxt "Languages::upload_upgrade_text"
 msgid "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
-msgstr "Yükleme yükseltme paketini düzeltmeleri veya eklenti yükseltmeleri uygulamanıza olanak sağlar. Bir tgz gz, seçerek bir yükseltme paketi yükleyebilir zip formatında Arşiv ve Upload tıklayarak."
+msgstr "Uploading upgrade package allows you to apply HotFixes or Add-on upgrades. You can upload an upgrade pack by picking a tgz,gz,zip format archive and clicking Upload."
 
 msgctxt "Languages::outside_navigation"
 msgid "Outside navigation"
@@ -15651,15 +15747,19 @@ msgstr "Dosya geri yüklenemiyor. Yalnızca .sql, .zip ve .tgz dosyaları izin v
 
 msgctxt "Languages::datakeeper.file_cannot_be_overrided"
 msgid "Cannot write to the file <b>[file]</b>. Set the writable permissions manually or check the FTP access to your server in the <a href=\"[url]\">\"Upgrade center\"</a> section"
-msgstr "<b>[file]</b> için dosya yazılamıyor. Yazılabilir izinlerini el ile ayarlamak veya <a href=\"[url]\"> \"Merkezi yükseltme\"</a> bölümünde sunucunuza FTP erişimi denetleyin"
+msgstr "<b>[file]</b> dosyasına yazılamıyor. Yazılabilir izinleri el ile ayarlayın veya <a href=\"[url]\"> \"Yükseltme merkezi\"</a> bölümünde sunucunuzun FTP erişimini kontrol edin"
 
 msgctxt "Languages::uc_restore_email_body"
 msgid "<p>Your store's database and files has been backed up before the upgrade. The backup archive includes the whole database and all files except for images. The backup archive has been stored on your server: [backup_file].</p><p>Before the upgrade, your store was closed. Check if it's running fine after the upgrade and <a href=\"[settings_section]\">open it</a>.</p><p>If something goes wrong during the upgrade, go to your admin panel, <strong>Administration → Backup/Restore</strong>, to restore the backup.</p><p>If you can't access your admin panel, use the following link to restore the last backup. <b>Important:</b> following this link will immediately launch the restore process. Use it only if you can't access your admin panel! Restore the last backup:</p>"
 msgstr "<p>Mağazanızın veritabanını ve dosyaları sırt yukarıya yükseltmeden önce. Yedek arşiv, tüm veritabanını ve görüntüleri hariç tüm dosyaları içerir. Yedek arşiv sunucunuzda depolanan: [backup_file].</p><p>Yükseltme işleminden önce senin dükkan kapalı. Bu yükseltme ve <a href=\"[settings_section]\"> bunu aç</a> sonra iyi çalışıp çalışmadığını kontrol edin.</p><p>Yükseltme sırasında bir şeyler ters giderse, senin admin paneline gidin <strong>Yönetim → yedekleme/geri yükleme</strong>, yedeği geri yükleme yüklemek için.</p><p>Yönetim panelinize erişemiyorsanız son yedeğini geri yüklemek için bu bağlantıyı kullanın: [restore_link]. Önemli: Bu bağlantı hemen geri yükleme işlemi başlatılır. Yalnızca yönetim panelinize erişemiyorsanız kullanma!</p>"
 
+msgctxt "Languages::uc_backup_info_subj"
+msgid "Upgrade Center: Store has been backed up and closed."
+msgstr ""
+
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
-msgstr "Arama özellikleri tarafından değişik aşırı sayıda nedeniyle kullanılamaz."
+msgstr "Özelliklere göre arama çok fazla sayıda değişkeden dolayı kullanılamaz."
 
 msgctxt "Languages::upgraded_on"
 msgid "Upgraded on"
@@ -15973,6 +16073,262 @@ msgctxt "Languages::shipment_statuses"
 msgid "Shipment statuses"
 msgstr "Sevk irsaliyesi durumları"
 
+msgctxt "Languages::email_templates"
+msgid "Email templates"
+msgstr ""
+
+msgctxt "Languages::editing_email_template"
+msgid "Editing email template"
+msgstr ""
+
+msgctxt "Languages::customer_notifications"
+msgid "Customer notifications"
+msgstr ""
+
+msgctxt "Languages::admin_notifications"
+msgid "Administrator notifications"
+msgstr ""
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "Languages::variables"
+msgid "Variables"
+msgstr ""
+
+msgctxt "Languages::snippets"
+msgid "Snippets"
+msgstr ""
+
+msgctxt "Languages::code_snippets"
+msgid "Code snippets"
+msgstr ""
+
+msgctxt "Languages::editing_email_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::editing_snippet"
+msgid "Editing snippet"
+msgstr ""
+
+msgctxt "Languages::snippet_exists"
+msgid "The snippet with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::document_exists"
+msgid "The document with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::email_template_exists"
+msgid "The email template with the chosen code already exists, please try another."
+msgstr ""
+
+msgctxt "Languages::need_snippet_name"
+msgid "You have to specify valid snippet name"
+msgstr ""
+
+msgctxt "Languages::snippets_have_been_deleted"
+msgid "Snippets have been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::add_email_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::add_snippet"
+msgid "Add snippet"
+msgstr ""
+
+msgctxt "Languages::editing_document"
+msgid "Editing [name]"
+msgstr ""
+
+msgctxt "Languages::product_info"
+msgid "Product info"
+msgstr ""
+
+msgctxt "Languages::add_table_column"
+msgid "Add column"
+msgstr ""
+
+msgctxt "Languages::editing_table_column"
+msgid "Editing column"
+msgstr ""
+
+msgctxt "Languages::table_column_has_been_deleted"
+msgid "Product column has been deleted successfully."
+msgstr ""
+
+msgctxt "Languages::restore_default_value"
+msgid "Restore default value"
+msgstr ""
+
+msgctxt "Languages::send_test_email"
+msgid "Send test email"
+msgstr ""
+
+msgctxt "Languages::text_test_email_sent"
+msgid "Test email was sent to <b>[email]</b> address."
+msgstr ""
+
+msgctxt "Languages::editing_global_vars"
+msgid "Editing global variables"
+msgstr ""
+
+msgctxt "Languages::global_vars"
+msgid "Global variables"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_subj"
+msgid "Order #[order] has been processed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_p_text"
+msgid "Your order has been processed successfully."
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_subj"
+msgid "Order #[order] has been completed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_c_text"
+msgid "Your order has been completed. Thank you for choosing us."
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_subj"
+msgid "Order #[order] has been placed successfully"
+msgstr ""
+
+msgctxt "Languages::change_order_status_o_text"
+msgid "Thank you for the order. You are welcome to come back!"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_subj"
+msgid "Order #[order] failed"
+msgstr ""
+
+msgctxt "Languages::change_order_status_f_text"
+msgid "Your order has been unsuccessful. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_subj"
+msgid "Order #[order] has been declined"
+msgstr ""
+
+msgctxt "Languages::change_order_status_d_text"
+msgid "Your order has been declined. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_subj"
+msgid "Order #[order] has been backordered"
+msgstr ""
+
+msgctxt "Languages::change_order_status_b_text"
+msgid "Your order has been backordered."
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_subj"
+msgid "Order #[order] has been canceled"
+msgstr ""
+
+msgctxt "Languages::change_order_status_i_text"
+msgid "Your order has been canceled. Please contact shop administration."
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_subj"
+msgid "The status of order #[order] has been changed to [status]"
+msgstr ""
+
+msgctxt "Languages::change_order_status_default_text"
+msgid "The status of your order has been changed to [status]."
+msgstr ""
+
+msgctxt "Languages::email_template.activate_profile"
+msgid "User profile requires activation"
+msgstr ""
+
+msgctxt "Languages::email_template.back_in_stock_notification"
+msgid "Back in stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.create_profile"
+msgid "User profile creation"
+msgstr ""
+
+msgctxt "Languages::email_template.edp_access"
+msgid "Orders: access to downloadable products"
+msgstr ""
+
+msgctxt "Languages::email_template.give_coupon"
+msgid "Promotions: coupon"
+msgstr ""
+
+msgctxt "Languages::email_template.low_stock"
+msgid "Product low stock notification"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification"
+msgid "Order notification: [name]"
+msgstr ""
+
+msgctxt "Languages::email_template.order_notification_default"
+msgid "Order notification: Default template for a new order status"
+msgstr ""
+
+msgctxt "Languages::email_template.profile_activated"
+msgid "User profile activation"
+msgstr ""
+
+msgctxt "Languages::email_template.recover_password"
+msgid "Password recovery"
+msgstr ""
+
+msgctxt "Languages::email_template.reminder"
+msgid "Admin password expiration"
+msgstr ""
+
+msgctxt "Languages::email_template.shipment_products"
+msgid "Orders: products shipped"
+msgstr ""
+
+msgctxt "Languages::email_template.track"
+msgid "Orders: tracking"
+msgstr ""
+
+msgctxt "Languages::email_template.update_profile"
+msgid "User profile update"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_activation"
+msgid "User group activation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_disactivation"
+msgid "User group disactivation"
+msgstr ""
+
+msgctxt "Languages::email_template.usergroup_request"
+msgid "User group request"
+msgstr ""
+
+msgctxt "Languages::email_template.upgrade_backup_info"
+msgid "Upgrade: restore link"
+msgstr ""
+
+msgctxt "Languages::email_template.params.attach_invoice"
+msgid "Attach a PDF invoice"
+msgstr ""
+
+msgctxt "Languages::edit_customer_notification"
+msgid "Edit the email sent to customers"
+msgstr ""
+
+msgctxt "Languages::edit_admin_notification"
+msgid "Edit the email sent to administrators"
+msgstr ""
+
 msgctxt "Languages::copy"
 msgid "Copy"
 msgstr "Kopya"
@@ -16056,6 +16412,10 @@ msgstr "Dizin \"[dir]\" yazılabilir değil. Lütfen, yüklemenizin bu dizine ai
 msgctxt "Languages::error_cannot_delete_files"
 msgid "Cannot delete files: <b>[files]</b>. Please check the permissions."
 msgstr "Dosya silemezsiniz: <b>[files]</b>. Lütfen izinleri denetleyin."
+
+msgctxt "Languages::feature_groups"
+msgid "Feature groups"
+msgstr ""
 
 msgctxt "Languages::shippings.can.business_account_information"
 msgid "Business account information"
@@ -16157,6 +16517,34 @@ msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
 msgstr ""
 
+msgctxt "Languages::licensing_and_upgrades"
+msgid "Licensing and upgrades"
+msgstr ""
+
+msgctxt "Languages::addon_license_key_tooltip"
+msgid "Enter license key you've received by e-mail in order to receive the add-on upgrades."
+msgstr ""
+
+msgctxt "Languages::api_shipments_update_not_allowed"
+msgid "Only the tracking_number and carrier params can be updated"
+msgstr ""
+
+msgctxt "Languages::cannot_remove_theme_has_dependent_themes"
+msgid "The theme can't be removed as the following themes depend on it: [dependent_themes]"
+msgstr ""
+
+msgctxt "Languages::text_installing_theme_dependencies"
+msgid "Installing the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::text_unable_to_install_theme_dependencies"
+msgid "Unable to install the theme dependencies: [dependencies]"
+msgstr ""
+
+msgctxt "Languages::exim_cannot_create_variant_for_shareable_feature"
+msgid "You cannot create a variant for a shareable feature."
+msgstr ""
+
 msgctxt "Languages::ups_upgrade_notification_title"
 msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
 msgstr ""
@@ -16167,5 +16555,437 @@ msgstr ""
 
 msgctxt "Languages::warning_default_language_sharing_removed"
 msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
+msgstr ""
+
+msgctxt "Languages::page_url"
+msgid "Page URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_url"
+msgid "The page inner URL"
+msgstr ""
+
+msgctxt "Languages::page_target_url"
+msgid "Target URL"
+msgstr ""
+
+msgctxt "Languages::tt_views_pages_components_pages_link_page_target_url"
+msgid "The URL to redirect customers to"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.freight_account_number"
+msgid "Freight account number"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_extra_large_box"
+msgid "FedEx Extra Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_large_box"
+msgid "FedEx Large Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_medium_box"
+msgid "FedEx Medium Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_package_type_fedex_small_box"
+msgid "FedEx Small Box"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_business_service_center"
+msgid "Business service center"
+msgstr ""
+
+msgctxt "Languages::ship_fedex_drop_off_type_drop_box"
+msgid "Drop box"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.options"
+msgid "Delivery options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_broker_select_option"
+msgid "Broker select option"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_call_before_delivery"
+msgid "Call before delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod"
+msgid "COD"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_amount"
+msgid "COD amount"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type"
+msgid "COD collection type"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_any"
+msgid "Any"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_cash"
+msgid "Cash"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_cod_collection_type_guaranteed_funds"
+msgid "Guaranteed funds"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_custom_delivery_window"
+msgid "Custom delivery window"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods"
+msgid "Dangerous goods"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options"
+msgid "Hazardous content options"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_battery"
+msgid "Battery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_hazardous_materials"
+msgid "Hazardous materials"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_orm_d"
+msgid "ORM-D"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_limited_quantities_commodities"
+msgid "Limited quantities commodities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_reportable_quantities"
+msgid "Reportable quantities"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_small_quantity_exception"
+msgid "Small quantity exception"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility"
+msgid "Dangerous goods accessibility"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_accessible"
+msgid "Accessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_inaccessible"
+msgid "Inaccessible"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_break_down_pallets"
+msgid "Do not break down pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_do_not_stack_pallets"
+msgid "Do not stack pallets"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_dry_ice"
+msgid "Dry ice"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_east_coast_special"
+msgid "East Coast special"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_electronic_trade_documents"
+msgid "Electronic trade documents"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_extreme_length"
+msgid "Extreme length"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_food"
+msgid "Food"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_fedex_one_rate"
+msgid "FedEx One Rate"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_guarantee"
+msgid "Freight guarantee"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_freight_to_collect"
+msgid "Freight to collect"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_future_day_shipment"
+msgid "Future day shipment"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_hold_at_location"
+msgid "Hold at location"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_home_delivery_premium"
+msgid "Home delivery Premium"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_delivery"
+msgid "Inside delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_inside_pickup"
+msgid "Inside pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_controlled_export_service"
+msgid "International controlled export service"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_international_traffic_in_arms_regulations"
+msgid "International traffic in arms regulations"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_delivery"
+msgid "Liftgate delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_liftgate_pickup"
+msgid "Liftgate pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_delivery"
+msgid "Limited access delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_limited_access_pickup"
+msgid "Limited access pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_pharmacy_delivery"
+msgid "Pharmacy delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_poison"
+msgid "Poison"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_protection_from_freezing"
+msgid "Protection from freezing"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_returns_clearance"
+msgid "Returns clearance"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_delivery"
+msgid "Saturday delivery"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_saturday_pickup"
+msgid "Saturday pickup"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.option_top_load"
+msgid "Top load"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_title"
+msgid "FedEx realtime shipping rate calculation changes"
+msgstr ""
+
+msgctxt "Languages::shippings.fedex.upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
+msgstr ""
+
+msgctxt "Languages::template_document_order_invoice"
+msgid "Invoice"
+msgstr ""
+
+msgctxt "Languages::template_document_order_summary"
+msgid "Order summary"
+msgstr ""
+
+msgctxt "Languages::template_document_packing_slip_default"
+msgid "Packing slip"
+msgstr ""
+
+msgctxt "Languages::documents"
+msgid "Documents"
+msgstr ""
+
+msgctxt "Languages::document_preview_order_not_found"
+msgid "Couldn't find an order. Preview only works with existing data. Please create an order and use Preview again."
+msgstr ""
+
+msgctxt "Languages::editing_order_invoice"
+msgid "Editing invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::email_order_invoice_subject"
+msgid "[company_name]: Invoice for order #[order_id]"
+msgstr ""
+
+msgctxt "Languages::edit_and_send_invoice"
+msgid "Tweak and send invoice"
+msgstr ""
+
+msgctxt "Languages::error_profile_field_name_exists"
+msgid "A profile field with this name already exists. Please choose another name."
+msgstr ""
+
+msgctxt "Languages::profile_field_name"
+msgid "Field name"
+msgstr ""
+
+msgctxt "Languages::text_character_identifier_tooltip"
+msgid "A character sequence that serves as an identifier. You can use figures from 0 to 9, symbols of the English alphabet and the following signs: \"-\", \"_\", \".\"."
+msgstr ""
+
+msgctxt "SettingsOptions::monitor_core_changes"
+msgid "Monitor changes in core files"
+msgstr ""
+
+msgctxt "Languages::core_files_have_been_modified"
+msgid "Some of your core files have been changed.<br/><a href=\"[changes_url]\" target=\"_blank\">View changes</a> <a href=\"[settings_url]\" target=\"_blank\">Disable this check</a>"
+msgstr ""
+
+msgctxt "Languages::scan_for_modified_core_files"
+msgid "Scan for changed core files"
+msgstr ""
+
+msgctxt "Languages::last_scan_time"
+msgid "Last scan time"
+msgstr ""
+
+msgctxt "Languages::no_modified_core_files_found"
+msgid "No changed core files found"
+msgstr ""
+
+msgctxt "Languages::modified_core_files_found"
+msgid "Some of your core files have been changed. This may become a problem when upgrading [product] as changes in these files may be lost."
+msgstr ""
+
+msgctxt "Languages::file_changes_detector"
+msgid "File changes detector"
+msgstr ""
+
+msgctxt "Languages::privileges.view_file_changes"
+msgid "View file changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_title"
+msgid "Vendor commission changes"
+msgstr ""
+
+msgctxt "Languages::vendor_commission_changes_upgrade_notification_text"
+msgid "<p>Vendor commissions have been replaced with vendor plans, and an own plan has been created for each vendor. However, absolute commissions are no longer supported.</p>"
+msgstr ""
+
+msgctxt "Languages::vendors_with_absolute_commissions_notice"
+msgid "<p>The following vendors had absolute commissions before the upgrade:</p><ul>[vendors_list]</ul><p>The <b>Transaction fee</b> in their plans has been set to 0.</p><p>The sizes of absolute commissions still remain in the database, but are no longer used. However, you can use that data to set up new vendor plans with relative commissions. Learn more in this article:</p>[instructions]"
+msgstr ""
+
+msgctxt "Languages::absolute_commissions_instructions"
+msgid "<a href=\"http://docs.cs-cart.com/4.3.x/user_guide/addons/vendor_commission/vendor_commissions_and_plans.html\" target=\"_blank\">Upgrading from 4.3.x to 4.4.x: Vendor Commissions and Vendor Plans</a>"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_title"
+msgid "Google Export changes"
+msgstr ""
+
+msgctxt "Languages::google_export_upgrade_notification_text"
+msgid "<p>The latest version of [product] has different settings for data feeds: <b>Google price</b> doesn't include tax now.</p><p>If you want to export products with tax included in the price, do the following:</p><ul><li>Go to Administration &rarr; Add-ons &rarr; Data feeds.</li><li>Choose the data feed used to export products to Google Product Feed.</li><li>Switch to the <b>Fields mapping</b> tab and select <b>Google price (with tax included)</b> for the <b>price</b> field.</li></ul>"
+msgstr ""
+
+msgctxt "Languages::error_shipment_not_created"
+msgid "Couldn't create a shipment. Please choose a carrier or enter a tracking number."
+msgstr ""
+
+msgctxt "Languages::my_cart"
+msgid "My cart"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions"
+msgid "Exclusive discounts"
+msgstr ""
+
+msgctxt "Languages::exclusive_promotions_content"
+msgid "Subscribe to our news and get a 10% discount coupon!"
+msgstr ""
+
+msgctxt "Languages::tmpl_subscription_advanced"
+msgid "Subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_newsletters_subscription_advanced"
+msgid "Newsletters: subscription advanced form"
+msgstr ""
+
+msgctxt "Languages::tmpl_payment_icons_rus"
+msgid "Payment systems russian icons"
+msgstr ""
+
+msgctxt "Languages::my_account_links_advanced"
+msgid "My account advanced"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_enabled"
+msgid "You are free to use the API now"
+msgstr ""
+
+msgctxt "Languages::api_access_has_been_disabled"
+msgid "From now on, you cannot use the API"
+msgstr ""
+
+msgctxt "Languages::report_a_bug"
+msgid "Report a bug"
+msgstr ""
+
+msgctxt "Languages::import_results"
+msgid "Import results"
+msgstr ""
+
+msgctxt "Languages::import_errors"
+msgid "Import errors"
+msgstr ""
+
+msgctxt "Languages::email_template_import_success_msg"
+msgid "All the email templates have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::document_import_success_msg"
+msgid "All the documents have been imported without errors."
+msgstr ""
+
+msgctxt "Languages::count_document_successfully_imported"
+msgid "Documents successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_successfully_imported"
+msgid "Email templates successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_successfully_imported"
+msgid "Snippets successfully imported:"
+msgstr ""
+
+msgctxt "Languages::count_document_fail_imported"
+msgid "Documents import failed:"
+msgstr ""
+
+msgctxt "Languages::count_email_template_fail_imported"
+msgid "Email templates import failed:"
+msgstr ""
+
+msgctxt "Languages::count_snippet_fail_imported"
+msgid "Snippets import failed:"
 msgstr ""
 
