@@ -4772,13 +4772,9 @@ msgctxt "Languages::ip_address"
 msgid "IP address"
 msgstr "IP address"
 
-msgctxt "Languages::issuer"
-msgid "Issuer"
-msgstr "Issuer"
-
-msgctxt "Languages::issuer_info"
-msgid "Issuer information"
-msgstr "Issuer information"
+msgctxt "Languages::manager"
+msgid "Manager"
+msgstr "Manager"
 
 msgctxt "Languages::is_back_in_stock"
 msgid "is back in stock!"
@@ -5923,6 +5919,10 @@ msgstr "New shipment"
 msgctxt "Languages::detailed_shipment"
 msgid "Detailed shipment"
 msgstr "Detailed shipment"
+
+msgctxt "Languages::create_detailed_shipment"
+msgid "Create detailed shipment »"
+msgstr "Create detailed shipment »"
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -8063,6 +8063,10 @@ msgstr "Product costs"
 msgctxt "Languages::reports_parameter_14"
 msgid "The number of products"
 msgstr "The number of products"
+
+msgctxt "Languages::reports_parameter_15"
+msgid "Managers"
+msgstr "Managers"
 
 msgctxt "Languages::reports_parameter_2"
 msgid "The number of orders"
@@ -16793,17 +16797,17 @@ msgctxt "Languages::shippings.fedex.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
 msgstr "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
 
-msgctxt "Languages::template_document_invoice_default"
+msgctxt "Languages::template_document_order_invoice"
 msgid "Invoice"
 msgstr "Invoice"
+
+msgctxt "Languages::template_document_order_summary"
+msgid "Order summary"
+msgstr "Order summary"
 
 msgctxt "Languages::template_document_packing_slip_default"
 msgid "Packing slip"
 msgstr "Packing slip"
-
-msgctxt "Languages::template_document_order_details_default"
-msgid "Order details"
-msgstr "Order details"
 
 msgctxt "Languages::documents"
 msgid "Documents"
@@ -16936,3 +16940,43 @@ msgstr "From now on, you cannot use the API"
 msgctxt "Languages::report_a_bug"
 msgid "Report a bug"
 msgstr "Report a bug"
+
+msgctxt "Languages::import_results"
+msgid "Import results"
+msgstr "Import results"
+
+msgctxt "Languages::import_errors"
+msgid "Import errors"
+msgstr "Import errors"
+
+msgctxt "Languages::email_template_import_success_msg"
+msgid "All the email templates have been imported without errors."
+msgstr "All the email templates have been imported without errors."
+
+msgctxt "Languages::document_import_success_msg"
+msgid "All the documents have been imported without errors."
+msgstr "All the documents have been imported without errors."
+
+msgctxt "Languages::count_document_successfully_imported"
+msgid "Documents successfully imported:"
+msgstr "Documents successfully imported:"
+
+msgctxt "Languages::count_email_template_successfully_imported"
+msgid "Email templates successfully imported:"
+msgstr "Email templates successfully imported:"
+
+msgctxt "Languages::count_snippet_successfully_imported"
+msgid "Snippets successfully imported:"
+msgstr "Snippets successfully imported:"
+
+msgctxt "Languages::count_document_fail_imported"
+msgid "Documents import failed:"
+msgstr "Documents import failed:"
+
+msgctxt "Languages::count_email_template_fail_imported"
+msgid "Email templates import failed:"
+msgstr "Email templates import failed:"
+
+msgctxt "Languages::count_snippet_fail_imported"
+msgid "Snippets import failed:"
+msgstr "Snippets import failed:"
