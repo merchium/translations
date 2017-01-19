@@ -1,0 +1,133 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+
+msgctxt "Addons::name::rus_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Addons::description::rus_geolocation"
+msgid "Use Yandex Geolocation to determine a customer's city"
+msgstr "Use Yandex Geolocation to determine a customer's city"
+
+msgctxt "SettingsSections::rus_geolocation::general"
+msgid "General settings"
+msgstr "General settings"
+
+msgctxt "SettingsOptions::rus_geolocation::provider"
+msgid "Provider"
+msgstr "Provider"
+
+msgctxt "SettingsOptions::rus_geolocation::geolocation_provider"
+msgid "Geolocation provider"
+msgstr "Geolocation provider"
+
+msgctxt "SettingsTooltips::rus_geolocation::geolocation_provider"
+msgid "Determines how to locate a customer: <br /> Yandex—uses Yandex data and the customer's IP address. <br /> Browser—uses built-in geolocation of the customer's browser. <br /> Mixed (Browser + Yandex)—selects the best geolocation provider available."
+msgstr "Determines how to locate a customer: <br /> Yandex—uses Yandex data and the customer's IP address. <br /> Browser—uses built-in geolocation of the customer's browser. <br /> Mixed (Browser + Yandex)—selects the best geolocation provider available."
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::auto"
+msgid "Mixed (Browser + Yandex)"
+msgstr "Mixed (Browser + Yandex)"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::browser"
+msgid "Browser"
+msgstr "Browser"
+
+msgctxt "SettingsVariants::rus_geolocation::geolocation_provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "Languages::list_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::block_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::block_geolocation_description"
+msgid "Current city and city selection form"
+msgstr "Current city and city selection form"
+
+msgctxt "Languages::tmpl_geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::geolocation"
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgctxt "Languages::addon.rus_geolocation.select_cities"
+msgid "City list"
+msgstr "City list"
+
+msgctxt "Languages::addon.rus_geolocation.find_city"
+msgid "Your city is"
+msgstr "Your city is"
+
+msgctxt "Languages::addon.rus_geolocation.select_different_city"
+msgid "Choose another city"
+msgstr "Choose another city"
+
+msgctxt "Languages::addon.rus_geolocation.select_city"
+msgid "Your store's cities"
+msgstr "Your store's cities"
+
+msgctxt "Languages::addon.rus_geolocation.select_geocities"
+msgid "Choose your city"
+msgstr "Choose your city"
+
+msgctxt "Languages::addon.rus_geolocation.choose_cities"
+msgid "Yes, this is my city"
+msgstr "Yes, this is my city"
+
+msgctxt "Languages::addon.rus_geolocation.selected_fields"
+msgid "Selected cities"
+msgstr "Selected cities"
+
+msgctxt "Languages::addon.rus_geolocation.cities"
+msgid "Cities"
+msgstr "Cities"
+
+msgctxt "Languages::addon.rus_geolocation.add_cities"
+msgid "Add cities"
+msgstr "Add cities"
+
+msgctxt "SettingsOptions::rus_geolocation::information"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "Languages::addon.rus_geolocation.geolocation_information"
+msgid "The add-on uses Yandex services to determine the city. The map on the city selection screen must be displayed. Removing the map violates the Yandex terms outlined here: <a href=\"https://tech.yandex.ru/maps/jsapi/\">Yandex</a>. The number of requests per 24 hours is limited to 25,000: <a href=\"https://yandex.ru/legal/maps_api/\">Yandex</a>."
+msgstr "The add-on uses Yandex services to determine the city. The map on the city selection screen must be displayed. Removing the map violates the Yandex terms outlined here: <a href=\"https://tech.yandex.ru/maps/jsapi/\">Yandex</a>. The number of requests per 24 hours is limited to 25,000: <a href=\"https://yandex.ru/legal/maps_api/\">Yandex</a>."
+
+msgctxt "Languages::addon.rus_geolocation.title_shippings"
+msgid "We can deliver this product to <b>[city]</b>."
+msgstr "We can deliver this product to <b>[city]</b>."
+
+msgctxt "Languages::addon.rus_geolocation.title_not_shippings"
+msgid "Unfortunately, we can't deliver this product to city <b>[city]</b>"
+msgstr "Unfortunately, we can't deliver this product to city <b>[city]</b>"
+
+msgctxt "SettingsOptions::rus_geolocation::geolocation_shippings"
+msgid "Visible shippings"
+msgstr "Visible shippings"
+
+msgctxt "SettingsTooltips::rus_geolocation::geolocation_shippings"
+msgid "Shippings will display on product details page"
+msgstr "Shippings will display on product details page"
+
+msgctxt "SettingsOptions::rus_geolocation::list_cities_geolocation"
+msgid "Сities to display"
+msgstr "Сities to display"
+
+msgctxt "SettingsTooltips::rus_geolocation::list_cities_geolocation"
+msgid "The list of cities that will be displayed on the city selection screen. Every city name must be written in a new line. If you don't enter any cities, then all cities will be displayed."
+msgstr "The list of cities that will be displayed on the city selection screen. Every city name must be written in a new line. If you don't enter any cities, then all cities will be displayed."
+
+msgctxt "Languages::addon.rus_geolocation.title_calculate_shippings"
+msgid "Delivery charges are calculated for one item only"
+msgstr "Delivery charges are calculated for one item only"
