@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: tr\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 12:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-11-28 04:10-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "Başka bir sahibi olduğu için şablonlardan bazılarını kaldırmaya izniniz yok."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "Mevcut lisans numarası geçersiz. \"eBay\" eklentisi devredışı. Tekrar etkinleştirmek için lütfen eklenti lisans numarasını kontrol edin."
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Eklentiyi etkinleştir"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Ticari bir eklenti yüklediniz. Bunu etkinleştirmek için eklenti ayarları sayfasında eklenti lisans numarasını girin."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Eklenti lisans numarası boş."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr "eBay şablonları bulunamadı"
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Genel"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "eBay eklenti lisans numarası"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "Üretim"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Lütfen bekleyin, teslimat bilgisi yükleniyor."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Lisans bilgileri"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr "Bu eklenti çalışmak için lisans gerektirir. Lisansı eBay eklenti lisanslarından alabilirsiniz. <a href=\"[ebay_license_url]\"target=\"_blank\"> eBay senkronizasyon</a> sayfası.<br>eBay eklentilerini ücretsiz olarak deneyebilirsiniz [days]. Deneme modunu aktive etmek için, \"[trial_license]\" boşluğa girin."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -691,18 +667,6 @@ msgstr "Durum güncelleştirme hatalı ürünleri:"
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
 msgstr "Ürünler: atlandı"
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr "EBay eklenti deneme süresi doldu. Eklentiyi devre dışı bırakıldı. <a href=\"[ebay_license_url]\" target=\"_blank\"> lisans satın</a> eBay eklentiyi kullanmaya devam etmek için."
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr "EBay eklenti içinde duruşma tarz kullanmakta. Deneme süresi içinde [days] sona erecek. deneme süresi sona erdikten sonra eklentiyi kullanmaya devam etmek için <a href=\"[ebay_license_url]\" target=\"_blank\"> eBay ek lisans satın</a>."
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr "[n] day|[n] gün"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"

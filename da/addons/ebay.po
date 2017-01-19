@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-04-08 05:54-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-05 13:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -162,15 +162,15 @@ msgstr "eBay kategori tilstand"
 
 msgctxt "Languages::ebay_associated_category"
 msgid "Associated eBay category"
-msgstr ""
+msgstr "Tilhørende eBay kategori"
 
 msgctxt "Languages::ebay_category_preferences"
 msgid "eBay Category <br> Preferences"
-msgstr ""
+msgstr "eBay kategori <br>præferencer"
 
 msgctxt "Languages::ebay_category_preferences_tooltip"
 msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
-msgstr ""
+msgstr "Brug eBay kategorien af skabelonen, eller tildele en anden eBay til de produkter, der falder ind under denne kategori af din butik"
 
 msgctxt "Languages::ebay_template"
 msgid "eBay template"
@@ -226,47 +226,47 @@ msgstr "Du bruger en testversion af dette modul, som sluttede den 7. December 20
 
 msgctxt "Languages::ttc_list_products_on"
 msgid "Choose the region of the eBay auction for which your site will work"
-msgstr ""
+msgstr "Vælg region for eBay auktion som dit websted vil arbejde"
 
 msgctxt "Languages::ttc_use_as_default"
 msgid "Use this template for products with no template defined"
-msgstr ""
+msgstr "Brug denne skabelon til produkter med ingen skabelon defineret"
 
 msgctxt "Languages::ttc_ebay_root_category"
 msgid "The product root category at eBay"
-msgstr ""
+msgstr "Rodproduktkategori på eBay"
 
 msgctxt "Languages::ttc_ebay_root_sec_category"
 msgid "The additional product root category at eBay"
-msgstr ""
+msgstr "Yderligere rodproduktkategori på ebay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at eBay"
-msgstr ""
+msgstr "Yderligere produktunderkategori  på ebay"
 
 msgctxt "Languages::ttc_shipping_type"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
-msgstr ""
+msgstr "Vælg om du vil bruge beregnet eller flad shipping type. Beregnet - beregnes forsendelse ifølge kunder postnummer, vægten af pakken, og typen af forsendelsestjenester du tilbyder; Flad - fastsættes ens forsendelsessats"
 
 msgctxt "Languages::ttc_domestic_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products in the domestic region"
-msgstr ""
+msgstr "Vælg den forsendelsesmåde, der skal bruges til at levere produkter på hjemmemarkedet"
 
 msgctxt "Languages::ttc_international_shipping_service"
 msgid "Choose the shipping service that will be used for delivering products worldwide"
-msgstr ""
+msgstr "Vælg den forsendelsesmåde, der skal bruges til at levere produkter på verdensplan"
 
 msgctxt "Languages::ttc_dispatch_days"
 msgid "The period of product delivery to a customer  (in days)"
-msgstr ""
+msgstr "Produkt levering til en kunde periode (i dage)"
 
 msgctxt "Languages::ttc_ebay_payment_methods"
 msgid "Payment method(s), available for a template"
-msgstr ""
+msgstr "Betalingsmetode(r), tilgængelige for en skabelon"
 
 msgctxt "Languages::ttc_paypal_email"
 msgid "Define login of the PayPal account"
-msgstr ""
+msgstr "Definere login af PayPal-konto"
 
 msgctxt "Languages::eBay_category_condition_tooltip"
 msgid "Define login of the PayPal account"
@@ -274,19 +274,19 @@ msgstr "Definere login af PayPal-konto"
 
 msgctxt "Languages::ttc_free_shipping"
 msgid "Choose, if you want free shipping to be applied to products in a template"
-msgstr ""
+msgstr "Vælg, hvis du vil have gratis forsendelse skal anvendes på produkter i en skabelon"
 
 msgctxt "Languages::ttc_shipping_cost"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Fast fragtpris for en vare (hvis fragttype er flad). Forsendelse og håndteringsindstilling på eBay."
 
 msgctxt "Languages::ttc_shipping_cost_additional"
 msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Shipping gebyr for hver yderligere element i ordrenn (hver ekstra vare indstilles på eBay)"
 
 msgctxt "Languages::shipping_cost_additional"
 msgid "Additional shipping fee"
-msgstr ""
+msgstr "Yderligere shipping gebyr"
 
 msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
 msgid "The storefront, for which a template will be created"
@@ -314,11 +314,11 @@ msgstr "eBay beskrivelse af produktet der skal anvendes på eBay"
 
 msgctxt "Languages::override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Omdefinering af produktets navn og beskrivelse på eBay"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
-msgstr ""
+msgstr "Vælg, hvis du ønsker det oprindelige produktnavn og beskrivelse skal erstattes med, som angivet i ebay produkt titel og ebay Produkt Beskrivelse felter"
 
 msgctxt "Languages::return_policy"
 msgid "Return Policy"
@@ -326,7 +326,7 @@ msgstr "Returret"
 
 msgctxt "Languages::ttc_return_policy"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr ""
+msgstr "Vælg, om returvarer er tilladt eller ikke for produkter grupperet under denne skabelon"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -342,7 +342,7 @@ msgstr "Efter at have modtaget varen, bør din køber kontakte dig inden for"
 
 msgctxt "Languages::ttc_contact_time"
 msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
-msgstr ""
+msgstr "Vælg den periode, inden for hvilken en køber skal kontakte dig for at bekræfte, at han/hun har modtaget varen"
 
 msgctxt "Languages::refund_method"
 msgid "Refund will be given as"
@@ -350,7 +350,7 @@ msgstr "Tilbagebetaling vil gives som"
 
 msgctxt "Languages::ttc_refund_method"
 msgid "Choose the action that will replace the return, if it is not allowed"
-msgstr ""
+msgstr "Vælg den handling, der vil erstatte tilbagesendelse, hvis det ikke er tilladt"
 
 msgctxt "Languages::money_back"
 msgid "Money Back"
@@ -370,7 +370,7 @@ msgstr "Returfragten betales af"
 
 msgctxt "Languages::ttc_cost_paid_by"
 msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
-msgstr ""
+msgstr "Vælg, hvem der skal betale for returfragt - sælgeren eller køberen"
 
 msgctxt "Languages::seller"
 msgid "Seller"
@@ -386,7 +386,7 @@ msgstr "Beskrivelse af"
 
 msgctxt "Languages::ttc_return_policy_descr"
 msgid "Write the detailed description of your return policy here"
-msgstr ""
+msgstr "Skriv en detaljeret beskrivelse af din returpolitik her"
 
 msgctxt "Languages::large_envelope"
 msgid "Large envelope"
@@ -414,7 +414,7 @@ msgstr "Revideret efter den sidste eksport"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr ""
+msgstr "Eksportere \"[product]\" produktbilleder til eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -424,33 +424,17 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "Du har ikke tilladelser til at fjerne nogle af skabelonerne, da de tilhører en anden ejer."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr ""
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Aktiver tilføjelse"
 
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Du har installeret en kommerciel tilføjelse. For at aktivere den, skal du angive en add-on licens nummer på indstillingssiden for tilføjelser."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Add-on licens nummer er tomt."
-
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
-msgstr ""
+msgstr "eBay skabeloner ikke fundet"
 
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Generelt"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "EBay add-on licens nummer"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -496,14 +480,6 @@ msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Vent venligst, afsendelsesoplysninger bliver indlæst."
 
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Licens info"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr ""
-
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
 msgstr "Se eBay skabeloner"
@@ -514,211 +490,199 @@ msgstr "Administrere eBay skabeloner"
 
 msgctxt "Languages::ebay_price"
 msgid "eBay product price"
-msgstr ""
+msgstr "eBay Produktpris"
 
 msgctxt "Languages::override_price"
 msgid "Redefine price on eBay"
-msgstr ""
+msgstr "Omdefinere pris på eBay"
 
 msgctxt "Languages::ebay_product_status"
 msgid "eBay product status"
-msgstr ""
+msgstr "eBay produktstatus"
 
 msgctxt "Languages::ebay_product_status_not_exported"
 msgid "Not exported"
-msgstr ""
+msgstr "Ikke eksporteret"
 
 msgctxt "Languages::ebay_product_status_active"
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 msgctxt "Languages::ebay_product_status_closed"
 msgid "Ended"
-msgstr ""
+msgstr "Slut"
 
 msgctxt "Languages::ebay_success_exported_product_notice"
 msgid "Product was successfully exported to eBay"
-msgstr ""
+msgstr "Produkt blev sucessfuldt eksporteret til eBay"
 
 msgctxt "Languages::ebay_success_close_product_notice"
 msgid "Product successfully ended on eBay"
-msgstr ""
+msgstr "Produkt sucessfuldt slut på eBay"
 
 msgctxt "Languages::ebay_export_failed"
 msgid "Product export failed"
-msgstr ""
+msgstr "Produkteksport mislykkedes"
 
 msgctxt "Languages::ebay_export_success"
 msgid "Product export successful"
-msgstr ""
+msgstr "Produkteksport vellykket"
 
 msgctxt "Languages::ebay_export_failed_msg"
 msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
-msgstr ""
+msgstr "Nogle af produkterne, er ikke blevet eksporteret til eBay. <br>Tjek logs at se hvilke produkter ikke blev eksporteret og grunden til, hvorfor det skete."
 
 msgctxt "Languages::ebay_export_success_msg"
 msgid "All the selected products have been exported to eBay without errors."
-msgstr ""
+msgstr "Alle de valgte produkter er blevet eksporteret til eBay uden fejl."
 
 msgctxt "Languages::ebay_end_summary_title"
 msgid "Product ending summary"
-msgstr ""
+msgstr "Endelig produktoversigt"
 
 msgctxt "Languages::ebay_export_product"
 msgid "Exporting product \"[product]\" to eBay"
-msgstr ""
+msgstr "Eksportere produkt \"[product]\" til eBay"
 
 msgctxt "Languages::ebay_export_products"
 msgid "Exporting products \"[product]\" to eBay"
-msgstr ""
+msgstr "Eksporterer produkter \"[product]\" til eBay"
 
 msgctxt "Languages::ebay_override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr ""
+msgstr "Omdefinering af produktets navn og beskrivelse på eBay"
 
 msgctxt "Languages::ebay_end_products"
 msgid "Ending products \"[product]\" on eBay"
-msgstr ""
+msgstr "Afslutter produkter \"[product]\" på eBay"
 
 msgctxt "Languages::ebay_count_product_successfully_exported"
 msgid "Products successfully exported:"
-msgstr ""
+msgstr "Produkt blev sucessfuldt eksporteret til eBay"
 
 msgctxt "Languages::ebay_count_product_fail_exported"
 msgid "Products export failed:"
-msgstr ""
+msgstr "Produkteksport mislykkedes:"
 
 msgctxt "Languages::ebay_count_product_successfully_ended"
 msgid "Successfully ended products:"
-msgstr ""
+msgstr "Med succes afsluttet produkter:"
 
 msgctxt "Languages::ebay_count_product_fail_ended"
 msgid "Products ending failed:"
-msgstr ""
+msgstr "Produkteksport mislykkedes:"
 
 msgctxt "Languages::ebay_end_products_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "Slut eBay salg"
 
 msgctxt "Languages::products_assigned"
 msgid "Products assigned"
-msgstr ""
+msgstr "Produkter tildelt"
 
 msgctxt "Languages::ttc_products_assigned"
 msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
-msgstr ""
+msgstr "Du kan også anvende en eBay skabelon på flere produkter på én gang. Gå til produkter → produkter, Marker afkrydsningsfelterne for de produkter du ønsker at anvende en skabelon til, så tryk på knappen gear og vælge Rediger markeret. I pop-up-vinduet forlade kun eBay skabeloner checkhæfte krydses og klik på Rediger markeret."
 
 msgctxt "Languages::ebay_template_category_product"
 msgid "Use eBay template's category"
-msgstr ""
+msgstr "Brug eBay skabelonkategori"
 
 msgctxt "Languages::ebay_set_manualy"
 msgid "Assign a different eBay category"
-msgstr ""
+msgstr "Tildele en anden eBaykatagori"
 
 msgctxt "Languages::ebay_end_template_on_ebay"
 msgid "End eBay sales"
-msgstr ""
+msgstr "Slut eBay salg"
 
 msgctxt "Languages::ebay_action_export_product"
 msgid "Export product"
-msgstr ""
+msgstr "Eksport produkt"
 
 msgctxt "Languages::ebay_action_update_product"
 msgid "Update product"
-msgstr ""
+msgstr "Opdater produkter"
 
 msgctxt "Languages::ebay_action_upload_image_product"
 msgid "Upload the product image"
-msgstr ""
+msgstr "Uploade produktbillede"
 
 msgctxt "Languages::ebay_action_get_status_product"
 msgid "Get product status"
-msgstr ""
+msgstr "EBay produktstatus"
 
 msgctxt "Languages::ebay_action_end_product"
 msgid "Ending sale on eBay"
-msgstr ""
+msgstr "Slutter salg på eBay"
 
 msgctxt "Languages::ebay_show_logs"
 msgid "Show logs"
-msgstr ""
+msgstr "Vis logs"
 
 msgctxt "Languages::ebay_international_shipping_cost"
 msgid "International shipping fee"
-msgstr ""
+msgstr "International fragtservice"
 
 msgctxt "Languages::ebay_international_shipping_cost_tooltip"
 msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
-msgstr ""
+msgstr "Fast fragtpris for en vare (hvis fragttype er flad). Forsendelse og håndteringsindstilling på eBay."
 
 msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
 msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
-msgstr ""
+msgstr "Shipping gebyr for hver yderligere element i ordrenn (hver ekstra vare indstilles på eBay)"
 
 msgctxt "Languages::ebay_international_shipping_cost_additional"
 msgid "Additional international shipping fee"
-msgstr ""
+msgstr "Yderligere international shipping gebyr"
 
 msgctxt "Languages::ebay_logs"
 msgid "eBay logs"
-msgstr ""
+msgstr "eBay logs"
 
 msgctxt "Languages::ebay_products"
 msgid "eBay products"
-msgstr ""
+msgstr "eBay produkter"
 
 msgctxt "Languages::ebay_sync_products_status"
 msgid "Get product status from eBay"
-msgstr ""
+msgstr "Få produktstatus fra eBay"
 
 msgctxt "Languages::ebay_get_product_status"
 msgid "Getting product \"[product]\" status from eBay"
-msgstr ""
+msgstr "At få produktet \"[product]\" status fra eBay"
 
 msgctxt "Languages::ebay_update_status_summary_title"
 msgid "Summary: Product status retrieval from eBay"
-msgstr ""
+msgstr "Resumé: Produkt status hentning fra eBay"
 
 msgctxt "Languages::ebay_count_product_successfully_status_updated"
 msgid "Products with updated statuses:"
-msgstr ""
+msgstr "Produkter med opdaterede statusser:"
 
 msgctxt "Languages::ebay_count_product_fail_status_updated"
 msgid "Products with status update errors:"
-msgstr ""
+msgstr "Produkter med status update fejl:"
 
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
-msgstr ""
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr ""
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr ""
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr ""
+msgstr "Produkter springes over:"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"
-msgstr ""
+msgstr "Produkt \"[product]\" blev ikke eksporteret på eBay"
 
 msgctxt "Languages::ebay_product_already_sales_closed"
 msgid "Sales of product \"[product]\" were already completed on eBay"
-msgstr ""
+msgstr "Salg af vare \"[product]\" var allerede afsluttet på eBay"
 
 msgctxt "Languages::ebay_failed_request"
 msgid "Failed request to [url]. Http status code: [code]"
-msgstr ""
+msgstr "Mislykkedes anmodningen til [url]. HTTP statuskode: [code]"
 
 msgctxt "Languages::ebay_package_type"
 msgid "eBay package type"
-msgstr ""
+msgstr "eBay pakketype"
 
 msgctxt "Languages::ebay_category"
 msgid "eBay Category"
@@ -726,105 +690,105 @@ msgstr "eBay kategori"
 
 msgctxt "Languages::ebay_region"
 msgid "eBay region"
-msgstr ""
+msgstr "eBay region"
 
 msgctxt "Languages::ebay_synchronization_title"
 msgid "Synchronizing eBay data"
-msgstr ""
+msgstr "Synkronisering af eBay data"
 
 msgctxt "Languages::ebay_synchronization_regions"
 msgid "Synchronizing eBay regions"
-msgstr ""
+msgstr "Synkronisering af eBay regioner"
 
 msgctxt "Languages::ebay_synchronization_categories"
 msgid "Synchronizing eBay categories (it may take around 3 minutes)"
-msgstr ""
+msgstr "Synkronisering af eBay kategorier (det kan tage ca. 3 minutter)"
 
 msgctxt "Languages::ebay_synchronization_shipping_services"
 msgid "Synchronizing eBay shipping services"
-msgstr ""
+msgstr "Synkronisering af eBay shipping services"
 
 msgctxt "Languages::ebay_synchronization_category_features"
 msgid "Synchronizing eBay category features"
-msgstr ""
+msgstr "Synkronisering af eBay kategori funktioner"
 
 msgctxt "Languages::ebay_changed_region_message"
 msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
-msgstr ""
+msgstr "Når du ændrer eBay region, tjek venligst andre indstillinger. <br>Hvis din skabelon er fragt type er indstillet til beregnet, ændre din primære valuta (Administration → valutaer), firma adresse (indstillinger → selskab) og vægt måleenheder (indstillinger → generelle) i overensstemmelse hermed. <br>Hvis din skabelon er fragt type er angivet til flad, ændre din primære valuta (Administration → valutaer)."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_title"
 msgid "eBay Synchronization add-on has been updated"
-msgstr ""
+msgstr "eBay synkronisering tilføjelse er blevet opdateret"
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_active"
 msgid "Retrieve the statuses of your products from eBay before you continue to use the eBay Synchronization add-on.<br>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay.<br>Do this for all your eBay templates."
-msgstr ""
+msgstr "Hente statusser for dine produkter fra eBay, før du fortsætter med at bruge eBay synkronisering add-on. <br>Gå til markedsføring → eBay → eBay skabeloner, svæve over en skabelon, skal du klikke på knappen gear og vælg Get produkt status fra eBay. <br>Gøre dette for alle din eBay skabeloner."
 
 msgctxt "Languages::ebay_upgrade_notification_need_sync_text_for_disable"
 msgid "You used and disabled eBay Synchronization add-on. If you decide to use the add-on again, complete the following steps:<br><ul><li>Go to Add-ons → Manage add-ons</li><li>Find eBay synchronization add-on and set its status to active</li><li>Go to Marketing → eBay → eBay templates, hover over a template, click the gear button, and select Get product status from eBay</li><li>Repeat the previous step for all your eBay templates</li></ul>"
-msgstr ""
+msgstr "Du brugte og deaktiveret eBay synkronisering tilføjelse. Hvis du beslutter at bruge tilføjelsesprogrammet igen, udføre følgende trin: <br><ul><li>gå til tilføjelser → Administrer tilføjelsesprogrammer</li> <li>finde eBay synkronisering tilføjelse og indstille dens status til aktiv</li> <li>gå til markedsføring → eBay → eBay skabeloner, svæve over en skabelon, skal du klikke på knappen gear og vælg Get produkt status fra eBay</li> <li>Gentag de forrige trin for alle din eBay skabeloner</li></ul>"
 
 msgctxt "Languages::export_products_to_ebay"
 msgid "Export/Revise products on eBay"
-msgstr ""
+msgstr "Eksport/Revider produkter på eBay"
 
 msgctxt "Languages::ebay_product_identifier_upc"
 msgid "UPC"
-msgstr ""
+msgstr "UPC"
 
 msgctxt "Languages::ebay_product_identifier_ean"
 msgid "EAN"
-msgstr ""
+msgstr "EAN"
 
 msgctxt "Languages::ebay_product_identifier_isbn"
 msgid "ISBN"
-msgstr ""
+msgstr "ISBN"
 
 msgctxt "Languages::ebay_product_identifier_mpn"
 msgid "MPN"
-msgstr ""
+msgstr "MPN"
 
 msgctxt "Languages::ebay_product_identifier_brand"
 msgid "Brand"
-msgstr ""
+msgstr "Mærke"
 
 msgctxt "Languages::ebay_product_identifiers"
 msgid "Product identifiers"
-msgstr ""
+msgstr "Produkt-id'er"
 
 msgctxt "Languages::ebay_product"
 msgid "Product"
-msgstr ""
+msgstr "Produkt"
 
 msgctxt "Languages::ebay_product_variation"
 msgid "Option combination"
-msgstr ""
+msgstr "Mulighed kombinationer"
 
 msgctxt "Languages::ebay_none"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "Languages::ebay_does_not_apply"
 msgid "Does not apply"
-msgstr ""
+msgstr "Gælder ikke"
 
 msgctxt "Languages::ebay_product_code"
 msgid "Product code"
-msgstr ""
+msgstr "Produktkode"
 
 msgctxt "Languages::ebay_product_feature"
 msgid "Product feature"
-msgstr ""
+msgstr "Produktegenskaber"
 
 msgctxt "Languages::ebay_combination_code"
 msgid "Combination code"
-msgstr ""
+msgstr "Kombinationskode"
 
 msgctxt "Languages::ebay_synchronization_region_details"
 msgid "Synchronizing eBay region details"
-msgstr ""
+msgstr "Synkronisering af eBay områdedetaljer"
 
 msgctxt "Languages::ebay_feature_group_product_identifiers"
 msgid "eBay product identifiers"
-msgstr ""
+msgstr "eBay produkt-id'er"
 

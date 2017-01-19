@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 08:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-13 08:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -129,7 +129,7 @@ msgid "Requested product"
 msgstr "Запрос по товару"
 
 msgctxt "Languages::call_requests.convenient_time"
-msgid "Сonvenient time"
+msgid "Convenient time"
 msgstr "Удобное время"
 
 msgctxt "Languages::call_requests.awaiting_call"
@@ -165,8 +165,8 @@ msgid "Call request form"
 msgstr "Обратный звонок"
 
 msgctxt "Languages::call_requests.text_call_request"
-msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr "Клиент [customer]-<a href=\"[href]\"> ожидает вашего звонка</a> на номер [phone_number]."
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Покупатель [customer] <a href=\"[href]\">ожидает Вашего звонка</a> на номер [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
@@ -182,9 +182,13 @@ msgstr "Недопустимый номер телефона в поле <b>[fie
 
 msgctxt "Languages::email_template.call_requests_buy_with_one_click"
 msgid "Call requests: buy with one click notification"
-msgstr ""
+msgstr "Обратный звонок: уведомление о покупке в один клик"
 
 msgctxt "Languages::email_template.call_requests_call_request"
 msgid "Call requests: call request notification"
-msgstr ""
+msgstr "Обратный звонок: запрос на обратный звонок"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Пн-Пт: 9:00-18:00"
 

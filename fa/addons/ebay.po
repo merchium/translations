@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: fa\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-15 05:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-11-28 04:07-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "شما مجاز به حذف برخی از قالب های آن متعلق به مالک دیگراست، نیستید."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "شماره مجوز فعلی نامعتبر است. افزودنی \"Ebay\" غیر فعال شد. دوباره فعال، لطفا به شماره مجوز افزودنی را دوباره چک نمایید."
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "فعال کردن افزودنی"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "افزودنی های تجاری را نصب کرده اید. برای فعال کردن آن، شماره مجوز افزودنی تنظیمات صفحه را وارد کنید."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "شماره مجوز افزودنی خالی است."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr "قالب های Ebay یافت نشد"
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "عمومی"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "شماره مجوز افزودنی eBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "تولید"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "لطفاً صبرکنید، اطلاعات ارسال بارگذاری شده است."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "اطلاعات پروانه"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr "این افزودنی نیاز به مجوز کار دارد. شما می توانید خرید بی مجوز افزودنی در صفحه <a href=\"[ebay_license_url]\" target=\"_blank\"> eBay همگام سازی</a>. <br>شما افزودنی eBay رایگان را در حالت آزمایشی برای [days] استفاده کنید. برای فعال کردن حالت تریال لایسنس \"[trial_license]\" در زمینه مجوز وارد نمایید."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -691,18 +667,6 @@ msgstr "محصولات دارای خطا دروضعیت به روز رسانی:"
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
 msgstr "محصولات رد شده:"
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr "دوره آزمایشی افزودنی eBay منقضی شده. افزونه غیر فعال شده است. برای ادامه استفاده از افزودنی eBay <a href=\"[ebay_license_url]\" target=\"_blank\"> خرید مجوز</a> استفاده کنید."
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr "شما در حال حاضر ازافزونه eBay در حالت آزمایشی استفاده می کنید. دوره آزمایشی طی [days] به پایان خواهد رسید. <a href=\"[ebay_license_url]\" target=\"_blank\"> خرید مجوز افزودنی eBay</a> با خرید بی افزودنی مجوز </a> افزونه پس از دوره آزمایشی منقضی می شود."
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr "[n] day|[n] روز"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"

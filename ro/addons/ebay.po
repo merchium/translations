@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ro\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-17 03:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-27 08:05-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -238,11 +238,11 @@ msgstr "Categoria de produse rădăcină la eBay"
 
 msgctxt "Languages::ttc_ebay_root_sec_category"
 msgid "The additional product root category at eBay"
-msgstr "Categoria de rădăcină de produs suplimentar la ebay"
+msgstr "Categoria de rădăcină de produs suplimentar la eBay"
 
 msgctxt "Languages::ebay_second_category_tooltip"
 msgid "The additional product subcategory at eBay"
-msgstr "Subcategoria de produs suplimentar la ebay"
+msgstr "Subcategoria de produs suplimentar la eBay"
 
 msgctxt "Languages::ttc_shipping_type"
 msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
@@ -314,7 +314,7 @@ msgstr "eBay Descriere descriere a produsului pentru a fi utilizate la eBay"
 
 msgctxt "Languages::override"
 msgid "Redefinition of the product name and description on eBay"
-msgstr "Redefinire a nume produs si descriere pe eBay"
+msgstr "Redefinire nume produs si descriere pe eBay"
 
 msgctxt "Languages::override_tooltip"
 msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
@@ -326,7 +326,7 @@ msgstr "Politica de returnare"
 
 msgctxt "Languages::ttc_return_policy"
 msgid "Choose whether returns are allowed or not for products grouped under this template"
-msgstr "Alege dacă se întoarce (retururi!) sunt permise sau nu pentru produse grupate sub acest şablon"
+msgstr "Alege dacă retururile sunt permise sau nu pentru produse grupate sub acest şablon"
 
 msgctxt "Languages::returns_accepted"
 msgid "Returns Accepted"
@@ -414,7 +414,7 @@ msgstr "Revizuit după ultimul export"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr "Exportul de imagini de \"[product]\" produs eBay"
+msgstr "Exportul de imagini produs \"[produs]\" pe eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "Nu aveţi permisiunea de a elimina o parte din template-uri, din care face parte un alt proprietar."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr ""
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Activază suplimente"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Aţi instalat un supliment comercial. Pentru a activa, introduceţi un număr de licenţă al suplimentului în pagina setări."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Numărul de licenţă supliment este gol."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr ""
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Implicit"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "Numărul de licenţă eBay supliment"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "Producţie"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Vă rugăm să aşteptaţi, informaţiile de transport sunt încărcate."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Informaţii licenţă"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr ""
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -690,18 +666,6 @@ msgstr ""
 
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
-msgstr ""
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr ""
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr ""
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
 msgstr ""
 
 msgctxt "Languages::ebay_product_not_exported"

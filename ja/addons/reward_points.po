@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /addons/reward_points.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:05-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-08 01:01-0500\n"
 
 msgctxt "Addons::name::reward_points"
 msgid "Reward points"
@@ -181,12 +181,12 @@ msgid "We would like to inform you that"
 msgstr "お知らせ"
 
 msgctxt "Languages::reward_points_subj_added_to"
-msgid "have been added to your account."
-msgstr "がお客様アカウントに加算されました"
+msgid "[n] point have been added to your account.|[n] points have been added to your account."
+msgstr ""
 
 msgctxt "Languages::reward_points_subj_subtracted_from"
-msgid "have been subtracted from your account."
-msgstr "がお客様アカウントから控除されました"
+msgid "[n] point have been subtracted from your account.|[n] points have been subtracted from your account."
+msgstr ""
 
 msgctxt "Languages::privileges.manage_reward_points"
 msgid "Manage reward points system"
@@ -230,7 +230,7 @@ msgstr "複数種のポイントが適用されうる際の適用ポイント数
 
 msgctxt "SettingsOptions::reward_points::consider_zero_values"
 msgid "Apply zero reward point values"
-msgstr "無料商品にもポイントの付与ルールを適用する"
+msgstr "ポイント数「0」の設定を許可"
 
 msgctxt "SettingsOptions::reward_points::log_per_page"
 msgid "Log lines per page"
@@ -238,7 +238,7 @@ msgstr "1ページあたりのログ表示件数"
 
 msgctxt "SettingsTooltips::reward_points::consider_zero_values"
 msgid "The reward points rules with the zero values should be considered"
-msgstr "無料商品にもポイントの付与ルールを適用する"
+msgstr "付与ポイント数に「0」を設定することを許可します"
 
 msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
 msgid "Absolute minimal value"
@@ -258,9 +258,9 @@ msgstr "最大値（％）"
 
 msgctxt "Languages::email_template.reward_points_notification"
 msgid "Reward points"
-msgstr ""
+msgstr "ポイント"
 
 msgctxt "Languages::grant_point"
 msgid "Grant reward points"
-msgstr ""
+msgstr "ポイントの付与"
 

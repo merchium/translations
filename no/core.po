@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: no\n"
 "X-Crowdin-File: core.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-20 07:05-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-11 02:05-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -734,7 +734,7 @@ msgstr "API passord"
 
 msgctxt "Languages::api_shipments_not_allow_update"
 msgid "Only the tracking_number and carrier params can be updated with the setting 'Allow multiple shipments for a single order' set"
-msgstr "Bare tracking_number og fraktleverandør instillingene kan oppdateres med 'Tillat flere forsendelser for en enkelt ordre' valgt"
+msgstr "Bare tracking_number og instillinger for transportselskap kan oppdateres med 'Tillat flere forsendelser for en enkelt ordre' valgt"
 
 msgctxt "Languages::api_user"
 msgid "API user"
@@ -1550,7 +1550,7 @@ msgstr "Karusell"
 
 msgctxt "Languages::carrier"
 msgid "Carrier"
-msgstr "Fraktselskap"
+msgstr "Transportselskap"
 
 msgctxt "Languages::carrier_aup"
 msgid "Australia Post"
@@ -1766,7 +1766,7 @@ msgstr "Jeg godtar vilkårene i"
 
 msgctxt "Languages::checkout_terms_n_conditions"
 msgid "Select this check box to accept the [terms_href]"
-msgstr "Merk av for godta [terms_href]"
+msgstr "Merk av for å godta [terms_href]"
 
 msgctxt "Languages::checkout_terms_n_conditions_name"
 msgid "Terms and Conditions"
@@ -1778,7 +1778,7 @@ msgstr "For å fortsette må du godta våre salgsbetingelser."
 
 msgctxt "Languages::terms_and_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
-msgstr "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Vennligst les nøye gjennom våre vilkår og betingelser på denne siden: <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> før du benytter deg av vår nettside og/eller mobil applikasjon.</p><p><strong>Ved å besøke eller bruke denne nettsiden aksepterer du å være bundet av disse vilkårene. Hvis du er uenig med noen av vilkårene kan du ikke benytte deg av våre tjenester og/eller produkter.</strong></p><p><strong>Kjøp</strong></p><p>Hvis du ønsker å kjøpe et produkt eller en tjeneste som gjøres tilgjengelig gjennom denne nettsiden, kan du bli bedt om å oppgi informasjon som er relevant til ditt kjøp inkludert dine personlige opplysninger.</p><p><strong>Innhold</strong></p><p>Vår nettside kan la deg legge inn, linke, lagre, dele og ellers gjøre tilgjengelig visse opplysninger som tekst, grafikk, videoer eller annet materiale (innhold). Du er ansvarlig for at dette innholdet ikke bryter norske lover eller opphavsrett.</p><p><strong>Endringer</strong></p><p>Vi forbeholder oss retten til, etter eget skjønn, å endre eller erstatte disse vilkårene når som helst. Hvis en revisjon trer i kraft vil vi forsøke å gi minst 30 dagers varsel før eventuelle nye vilkår trer i kraft. Hva som er en vesentlig endring vil bli fastsatt etter eget skjønn.</p><p><strong>Kontakt oss</strong></p><p>Hvis du har spørsmål om disse vilkårene, kan du ta kontakt med oss.</p>"
 
 msgctxt "Languages::check_again"
 msgid "Recheck and correct"
@@ -2273,8 +2273,8 @@ msgid "Create a new profile"
 msgstr "Opprett en ny profil"
 
 msgctxt "Languages::create_profile_notification_header"
-msgid "Thank you for becoming a registered user at"
-msgstr "Takk for at du har registrert deg som bruker på"
+msgid "Thank you for becoming a registered user at our store. Below you will find your account information."
+msgstr "Takk for at du registrerte deg i vår nettbutikk. Under finner du dine konto opplysninger."
 
 msgctxt "Languages::create_table"
 msgid "Create New Table"
@@ -4138,7 +4138,7 @@ msgstr "Filter navn"
 
 msgctxt "Languages::filters_in_use"
 msgid "All features are already in use"
-msgstr ""
+msgstr "Alle funksjoner er allerede i bruk"
 
 msgctxt "Languages::finance_product_code"
 msgid "Finance product code"
@@ -5174,7 +5174,7 @@ msgstr "Logg inn"
 
 msgctxt "Languages::login_url"
 msgid "Login URL"
-msgstr ""
+msgstr "Logg inn URL"
 
 msgctxt "Languages::logos"
 msgid "Logos"
@@ -5901,8 +5901,8 @@ msgid "New profile field"
 msgstr "Nytt profilfelt"
 
 msgctxt "Languages::new_profile_notification"
-msgid "New [user_type] profile notification"
-msgstr "Ny profilvarsling for [user_type]"
+msgid "New profile notification"
+msgstr "Ny profil notifikasjon"
 
 msgctxt "Languages::new_promotion"
 msgid "New promotion"
@@ -5926,11 +5926,11 @@ msgstr "Ny forsendelse"
 
 msgctxt "Languages::detailed_shipment"
 msgid "Detailed shipment"
-msgstr ""
+msgstr "Detaljert forsendelse"
 
 msgctxt "Languages::create_detailed_shipment"
-msgid "Create detailed shipment »"
-msgstr ""
+msgid "Create detailed shipment"
+msgstr "Opprett detaljert forsendelse"
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -6046,7 +6046,7 @@ msgstr "Varsle bruker"
 
 msgctxt "Languages::notify_vendor"
 msgid "Notify store owner"
-msgstr "Varsle selger"
+msgstr "Varsle butikk eier"
 
 msgctxt "Languages::notify_when_back_in_stock"
 msgid "Notify me when this product is back in stock"
@@ -6457,8 +6457,8 @@ msgid "Packages"
 msgstr "Pakker"
 
 msgctxt "Languages::show_package_contents"
-msgid "Show Package Contents"
-msgstr "Vis Pakkens innhold"
+msgid "View upgrade contents"
+msgstr "Vis oppgraderings innholdet"
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -6758,7 +6758,7 @@ msgstr "Internasjonal"
 
 msgctxt "Languages::phone2"
 msgid "International"
-msgstr ""
+msgstr "Internasjonal"
 
 msgctxt "Languages::phpinfo"
 msgid "PHP information"
@@ -6974,11 +6974,11 @@ msgstr "Skriv ut faktura"
 
 msgctxt "Languages::edit_invoice"
 msgid "Edit invoice"
-msgstr ""
+msgstr "Rediger faktura"
 
 msgctxt "Languages::remove_invoice"
 msgid "Remove invoice"
-msgstr ""
+msgstr "Fjern faktura"
 
 msgctxt "Languages::print_order_details"
 msgid "Print order details"
@@ -7146,11 +7146,11 @@ msgstr "Administrer brukere"
 
 msgctxt "Languages::privileges.manage_email_templates"
 msgid "Manage email templates"
-msgstr ""
+msgstr "Administrer e-post maler"
 
 msgctxt "Languages::privileges.manage_document_templates"
 msgid "Manage document templates"
-msgstr ""
+msgstr "Administrer dokument maler"
 
 msgctxt "Languages::privileges.update_settings"
 msgid "Update settings"
@@ -7502,7 +7502,7 @@ msgstr "Profiler"
 
 msgctxt "Languages::profile_activated"
 msgid "Profile activated"
-msgstr "Profil aktivisert"
+msgstr "Profil aktivert"
 
 msgctxt "Languages::profile_details"
 msgid "Profile details"
@@ -7921,8 +7921,8 @@ msgid "Referrer domain"
 msgstr "Henviser domene"
 
 msgctxt "Languages::refresh_packages_list"
-msgid "Refresh packages list"
-msgstr "Oppdater liste med pakker"
+msgid "Refresh available upgrades"
+msgstr "Oppdater tilgjengelige oppgraderinger"
 
 msgctxt "Languages::refund"
 msgid "Refund"
@@ -8728,6 +8728,10 @@ msgctxt "Languages::shippings.service_not_found"
 msgid "Service was not found"
 msgstr "Servicen ble ikke funnet"
 
+msgctxt "Languages::shippings.currency_not_found"
+msgid "Currency [currency] was not found"
+msgstr "Valuta [currency] ble ikke funnet"
+
 msgctxt "Languages::shippings_taxes"
 msgid "Shipping & taxes"
 msgstr "Forsendelse og moms"
@@ -8818,7 +8822,7 @@ msgstr "Adresse service forespørsel"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_carrier_leave_if_no_response"
 msgid "Carrier Leave If No Response"
-msgstr "Fraktleverandøren reiser dersom ingen svarer"
+msgstr "Transportselskap reiser dersom ingen svarer"
 
 msgctxt "Languages::ship_fedex_ancillary_endorsement_change_service"
 msgid "Change Service Requested"
@@ -10542,23 +10546,23 @@ msgstr "Det er ikke tillatt å laste opp filer større enn <b>[size]</b>"
 
 msgctxt "Languages::text_license_required_full"
 msgid "Your current CS-Cart edition is Professional. We also offer another one, a more advanced edition—<b>Ultimate</b>. With CS-Cart Ultimate, you'll be able to use unlimited number of storefronts and the mobile commerce app as well as the eBay Synchronization add-on and the Facebook app without additional fees. To unlock unlimited storefonts and mobile commerce, get the Ultimate license."
-msgstr ""
+msgstr "Din nåværende CS-Cart-versjon er Professional. Vi tilbyr også en annen, og mer avansert versjon—<b>Ultimate</b>. Med CS-Cart Ultimate vil du være i stand til å bruke ubegrenset antall butikkforsider og ha butikken tilpasset for mobile enheter samt eBay-synkronisering og plassering av nettbutikken på bedriftens Facebook-side uten ekstra kostnad. For å låse opp for ubegrensede butikkforsider og mobilhandel, skaff deg en Ultimate lisens."
 
 msgctxt "Languages::text_license_required_storefronts"
 msgid "Add as many storefronts as you want and manage them via a single admin panel."
-msgstr ""
+msgstr "Legg til så mange butikkforsider som du ønsker og administrer dem via ett enkelt adminpanel."
 
 msgctxt "Languages::text_license_required_mobile"
 msgid "Manage your store conveniently on-the-go via your mobile device."
-msgstr ""
+msgstr "Administrer butikken beleilig på farten via den mobile enheten."
 
 msgctxt "Languages::text_license_required_facebook"
 msgid "Build your store into your Facebook page to get closer to your audience and draw more new customers."
-msgstr ""
+msgstr "Plasser butikken på bedriftens Facebook-side for å komme nærmere publikum og få flere nye kunder."
 
 msgctxt "Languages::text_license_required_ebay"
 msgid "Boost your sales by selling products presented in your CS-Cart store on the world's biggest marketplace—eBay."
-msgstr ""
+msgstr "Øk salget ved å selge produkter presentert i din CS-Cart nettbutikk på verdens største markedsplass—eBay."
 
 msgctxt "Languages::text_form_cresecure_notice"
 msgid "Please complete your payment below.<br />This is a secure payment page, served from a secure location."
@@ -10566,27 +10570,27 @@ msgstr "Vennligst fullfør betalingen nedenfor.<br />Dette er en sikker betaling
 
 msgctxt "Languages::text_license_required_storefronts-title"
 msgid "Unlimited Storefronts"
-msgstr ""
+msgstr "Ubegrenset med butikkforsider"
 
 msgctxt "Languages::text_license_required_mobile-title"
 msgid "Mobile Admin panel App"
-msgstr ""
+msgstr "Mobil Adminpanel App"
 
 msgctxt "Languages::text_license_required_facebook-title"
 msgid "Facebook App"
-msgstr ""
+msgstr "Facebook App"
 
 msgctxt "Languages::text_license_required_ebay-title"
 msgid "eBay Synchronization"
-msgstr ""
+msgstr "eBay synkronisering"
 
 msgctxt "Languages::text_full_mode_required"
 msgid "<strong>Full mode</strong> required."
 msgstr "<strong>Full-modus</strong> påkrevd."
 
 msgctxt "Languages::license_required"
-msgid "[product] license required."
-msgstr "[product] lisens kreves."
+msgid "[product] license required"
+msgstr "[product] lisens kreves"
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10665,8 +10669,8 @@ msgid "One user can have multiple profiles. For example, one for personal orders
 msgstr "En bruker kan ha flere profiler. For eksempel, en for personlige ordre og en annen for arbeidsplassen."
 
 msgctxt "Languages::text_new_user_activation"
-msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
-msgstr "Profilen eies av \"[user_login]\" har nylig blitt opprettet, bør du sjekke detaljene i denne brukeren (om nødvendig) og aktivere den ved å bruke følgende link: <br /> [url]"
+msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br /><a href=\"[url]\">[url_text]</a>"
+msgstr "Profilen eid av \"[user_login]\" er nylig opprettet, du bør sjekke detaljene for denne brukeren (hvis påkrevd) og aktivere den ved hjelp av følgende link:<br /><a href=\"[url]\">[url_text]</a>"
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
@@ -10941,8 +10945,8 @@ msgid "(displayed on products list and product details pages)"
 msgstr "(Vises på produktlisten og produktdetaljer sidene)"
 
 msgctxt "Languages::text_profile_activated"
-msgid "Your profile has now been activated, you may login using the username you received in the previous e-mail."
-msgstr "Profilen din er nå aktivert. Du kan logge inn med brukernavnet du fikk i forrige e-post."
+msgid "Your profile has now been activated, you may login using the credentials you received in the previous e-mail."
+msgstr "Profilen din er nå aktivert. Du kan logge deg inn med brukernavnet du fikk i forrige e-post."
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
@@ -11097,8 +11101,8 @@ msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP p
 msgstr "Hvis HTTPS server ikke er satt opp, vil logoen bli vedtatt av HTTP-protokollen, og brukerne vil se \"Connection Delvis Kryptert\" advarsel på Skrill siden."
 
 msgctxt "Languages::text_skrill_notice"
-msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
-msgstr "For å få tilgang til den internasjonale betalingen nettverk av Skrill, kan du registrere <a href=\"[register_url]\" target=\"_blank\"> her </ a> for en gratis konto hvis du ikke har en ennå."
+msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet.<p><strong>Attention</strong>: please save settings before validating email, secret word or activating merchant tools.</p>"
+msgstr "For å få tilgang til det internasjonale betalingsnettverket Skrill, kan du registrere deg <a href=\"[register_url]\" target=\"_blank\">her</a> for en gratis konto, hvis du ikke har en ennå.<p><strong>Attention</strong>: Husk å lagre innstillingene før du validerer e-post, hemmelig ord eller aktiverer merchant verktøyene.</p>"
 
 msgctxt "Languages::text_skrill_payment_is_not_saved"
 msgid "In order to use this feature, please save the payment method first."
@@ -11137,16 +11141,16 @@ msgid "The store was <b>closed</b>"
 msgstr "Butikken var <b>stengt</b>"
 
 msgctxt "Languages::text_store_mode_full"
-msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
-msgstr "Full ubegrenset tilgang til alle funksjoner. Skriv inn en gyldig lisensnummer for å aktivere.<br /><br />Denne modusen kan aktiveres når som helst.<br /><br />"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Full ubegrenset tilgang til alle funksjoner. Skriv inn et gyldig lisensnummer for å aktivere.</p><p>Denne modusen kan aktiveres når som helst.</p><br />"
 
 msgctxt "Languages::text_store_mode_opened"
 msgid "The store was <b>opened</b>"
 msgstr "Butikken ble <b>åpnet</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
-msgstr "Full tilgang til alle funksjoner i din 30-dagers prøveperiode, fra tidspunktet for aktivering.<br /><br />Når din 30-dagers prøveperioden utløper, må du kjøpe en lisens eller angi et gyldig lisensnummer for å kunne fortsette å administrere nettbutikken.<br /><br />"
+msgid "<p>Full access to all features during the 30-day trial period, starting from the time of activation.</p><p>Once the 30-day trial period expires, you'll have to <a href=\"[product_buy_url]\" target=\"_blank\">purchase a license</a> or enter a valid license number to be able to manage your store.</p>"
+msgstr "<p>Full tilgang til alle funksjoner i en 30-dagers testperiode, fra tidspunktet for aktivering.</p><p>Når den 30-dagers testperioden utløper, må du <a href=\"[product_buy_url]\" target=\"_blank\">kjøpe en lisens</a> og angi en gyldig lisensnummer for å kunne fortsette å administrere din nettbutikk.</p>"
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -11377,16 +11381,20 @@ msgid "A new version of [product] is available. If you want to upgrade to the la
 msgstr "En ny versjon av [product] er tilgjengelig. Hvis du ønsker å oppgradere til den nyeste versjonen, klikk <a href=\"[link]\">her</a>."
 
 msgctxt "Languages::text_usergroup_activated"
-msgid "The user group level you requested has been activated"
-msgstr "Brukergruppenivået du forespurte har blitt aktivert"
+msgid "The following user groups have been activated for your account: [usergroups]."
+msgstr "Følgende brukergrupper har blitt aktivert for kontoen din: [usergroups]."
 
 msgctxt "Languages::text_usergroup_disactivated"
-msgid "Your user group level has been deactivated. Please contact us for more information."
-msgstr "Ditt brukergruppenivå har blitt deaktivert. Vennligst ta kontakt med oss ​​for mer informasjon."
+msgid "The following user groups have been removed from your account: [usergroups]."
+msgstr "Følgende brukergrupper er fjernet fra kontoen din: [usergroups]."
 
 msgctxt "Languages::text_usergroup_request"
 msgid "Customer requested user group."
 msgstr "Kunde forespurte brukergruppe."
+
+msgctxt "Languages::text_usergroup_requested_by"
+msgid "The <b>[usergroup]</b> group was requested by [name] ([email])."
+msgstr "Gruppen <b>[usergroup]</b> ble forespurt av [name] ([email])."
 
 msgctxt "Languages::text_worldpay_notice"
 msgid "Configure your WorldPay account before using the payment.<br /><br />Go to the WorldPay administration page and switch to the Installation section.<br /><br />Fill the fields as follows:<br /><br />Payment Response URL: <b>[return_url]</b><br />Payment Response Password: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />MD5 secret for transactions: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />SignatureFields: <b>instId:amount:currency:cartId</b>"
@@ -11994,7 +12002,7 @@ msgstr "Spor"
 
 msgctxt "Languages::tracking_num"
 msgid "Tracking number"
-msgstr ""
+msgstr "Sporingsnummer"
 
 msgctxt "Languages::tracking_number"
 msgid "Tracking number"
@@ -12850,7 +12858,7 @@ msgstr "Variantnavn"
 
 msgctxt "Languages::vendor"
 msgid "Store"
-msgstr "Leverandør"
+msgstr "Butikk"
 
 msgctxt "Languages::vendors"
 msgid "Stores"
@@ -12862,11 +12870,11 @@ msgstr "Sortert liste over firmakontoer registrert i butikken."
 
 msgctxt "Languages::vendor_id"
 msgid "Store ID"
-msgstr "Leverandør ID"
+msgstr "Butikk ID"
 
 msgctxt "Languages::vendor_name_field"
 msgid "Vendor name"
-msgstr "Leverandørnavn"
+msgstr "Forhandler navn"
 
 msgctxt "Languages::vendor_name"
 msgid "Store name"
@@ -14178,11 +14186,11 @@ msgstr "Produkt hurtigvisning miniatyrbilde høyde"
 
 msgctxt "SettingsOptions::product_admin_mini_icon_width"
 msgid "Admin panel: product mini-icon thumbnail width"
-msgstr ""
+msgstr "Adminpanel: produkt mini-ikon miniatyrbilde bredde"
 
 msgctxt "SettingsOptions::product_admin_mini_icon_height"
 msgid "Admin panel: product mini-icon thumbnail height"
-msgstr ""
+msgstr "Adminpanel: produkt mini-ikon miniatyrbilde høyde"
 
 msgctxt "SettingsOptions::company_newsletter_email"
 msgid "Reply-To newsletter e-mail address"
@@ -14482,7 +14490,7 @@ msgstr "Vis \"Forsendelsesmåte\" trinn"
 
 msgctxt "SettingsOptions::email_templates"
 msgid "Email templates mode"
-msgstr ""
+msgstr "E-post maler modus"
 
 msgctxt "SettingsTooltips::display_shipping_step"
 msgid "If hidden, the first active method will be used by default."
@@ -15037,8 +15045,16 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT+01:00) Vest Sentral Afrika"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr "(GMT+02:00) Athens, Beirut, Istanbul"
+msgid "(GMT+03:00) Istanbul"
+msgstr "(GMT+03:00) Istanbul"
+
+msgctxt "SettingsVariants::timezone::Europe/Athens"
+msgid "(GMT+02:00) Athens"
+msgstr "(GMT+02:00) Athen"
+
+msgctxt "SettingsVariants::timezone::Asia/Beirut"
+msgid "(GMT+02:00) Beirut"
+msgstr "(GMT+02:00) Beirut"
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
@@ -15214,11 +15230,11 @@ msgstr "(GMT+13:00) Nuku'alofa"
 
 msgctxt "SettingsVariants::email_templates::old"
 msgid "Old (stored on file system)"
-msgstr ""
+msgstr "Gamle (lagret i filsystemet)"
 
 msgctxt "SettingsVariants::email_templates::new"
 msgid "New (nice and editable via admin panel)"
-msgstr ""
+msgstr "Ny (redigerbart via adminpanelet)"
 
 msgctxt "SettingsTooltips::quick_registration"
 msgid "Require only contact information on registration"
@@ -15755,7 +15771,7 @@ msgstr "<p>Butikkens database og filer har blitt sikkerhetskopiert før oppgrade
 
 msgctxt "Languages::uc_backup_info_subj"
 msgid "Upgrade Center: Store has been backed up and closed."
-msgstr ""
+msgstr "Oppdateringssenter: Nettbutikken har blitt sikkerhetskopiert og stengt for besøkende."
 
 msgctxt "Languages::error_features_too_many_variants"
 msgid "Search by features is not available due to the excessive number of variants."
@@ -15783,7 +15799,7 @@ msgstr "Produktet <b>\"[product]\"</b> kan ikke legges i handlekurven, da det ik
 
 msgctxt "Languages::exim_vendor_cant_create_feature"
 msgid "Vendors cannot create product features and their variants. Some product features cannot be modified."
-msgstr "Leverandører kan ikke opprette produktfunksjoner og alternativer. Noen produktfunksjoner kan ikke endres."
+msgstr "Forhandler kan ikke opprette produktfunksjoner og alternativer. Noen produktfunksjoner kan ikke endres."
 
 msgctxt "Languages::uc_migration_failed"
 msgid "An error has occured during upgrading database structure (applying migration [migration])."
@@ -15875,7 +15891,7 @@ msgstr "DHL sanntid frakt beregning endringer"
 
 msgctxt "Languages::dhl_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use DHL as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses DHL as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper Site ID and Password</li></ul>"
-msgstr "<p>Den nyeste versjonen av [product] har ulike innstillinger for fraktberegning i sanntid hvis du bruker DHL som leverandør.</p><p>Hvis du vil vise gjeldende fraktpriser for dine kunder, gjør dette:</p><ul><li>gå til administrasjon > Forsendelse & moms > Fraktmetoder</li><li>Velg leveringsmåtene som bruker DHL for å beregne fraktpriser</li><li>gå til fanen Generelt, og angi den riktige frakt-tjenesten</li><li>gå så til til fanen Konfigurer og angi riktig område-ID og passord</li></ul>"
+msgstr "<p>Den nyeste versjonen av [product] har ulike innstillinger for fraktberegning i sanntid hvis du bruker DHL som transportselskap.</p><p>Hvis du vil vise gjeldende fraktpriser for dine kunder, gjør dette:</p><ul><li>gå til administrasjon > Forsendelse & moms > Fraktmetoder</li><li>Velg leveringsmåtene som bruker DHL for å beregne fraktpriser</li><li>gå til fanen Generelt, og angi den riktige frakt-tjenesten</li><li>gå så til til fanen Konfigurer og angi riktig område-ID og passord</li></ul>"
 
 msgctxt "Languages::upgrade_notification_title"
 msgid "Upgrade changes in [product] [version]"
@@ -16075,259 +16091,259 @@ msgstr "Forsendelse statuser"
 
 msgctxt "Languages::email_templates"
 msgid "Email templates"
-msgstr ""
+msgstr "E-post maler"
 
 msgctxt "Languages::editing_email_template"
 msgid "Editing email template"
-msgstr ""
+msgstr "Redigerer e-post maler"
 
 msgctxt "Languages::customer_notifications"
 msgid "Customer notifications"
-msgstr ""
+msgstr "Kunde notifikasjoner"
 
 msgctxt "Languages::admin_notifications"
 msgid "Administrator notifications"
-msgstr ""
+msgstr "Administrator notifikasjoner"
 
 msgctxt "Languages::subject"
 msgid "Subject"
-msgstr ""
+msgstr "Emne"
 
 msgctxt "Languages::variables"
 msgid "Variables"
-msgstr ""
+msgstr "Variabler"
 
 msgctxt "Languages::snippets"
 msgid "Snippets"
-msgstr ""
+msgstr "Tekstbiter"
 
 msgctxt "Languages::code_snippets"
 msgid "Code snippets"
-msgstr ""
+msgstr "Kode tekstbiter"
 
 msgctxt "Languages::editing_email_snippet"
 msgid "Editing snippet"
-msgstr ""
+msgstr "Redigerer tekstbiter"
 
 msgctxt "Languages::editing_snippet"
 msgid "Editing snippet"
-msgstr ""
+msgstr "Redigerer tekstbiter"
 
 msgctxt "Languages::snippet_exists"
 msgid "The snippet with the chosen code already exists, please try another."
-msgstr ""
+msgstr "Tekstbiten med den valgte koden finnes allerede, prøv med en annen."
 
 msgctxt "Languages::document_exists"
 msgid "The document with the chosen code already exists, please try another."
-msgstr ""
+msgstr "Dokumentet med den valgte koden finnes allerede, prøv med en annen."
 
 msgctxt "Languages::email_template_exists"
 msgid "The email template with the chosen code already exists, please try another."
-msgstr ""
+msgstr "E-post malen med den valgte koden finnes allerede, prøv med en annen."
 
 msgctxt "Languages::need_snippet_name"
 msgid "You have to specify valid snippet name"
-msgstr ""
+msgstr "Du må angi et gyldig tekstbit navn"
 
 msgctxt "Languages::snippets_have_been_deleted"
 msgid "Snippets have been deleted successfully."
-msgstr ""
+msgstr "Tekstbitene har blitt slettet."
 
 msgctxt "Languages::add_email_snippet"
 msgid "Add snippet"
-msgstr ""
+msgstr "Legg til tekstbit"
 
 msgctxt "Languages::add_snippet"
 msgid "Add snippet"
-msgstr ""
+msgstr "Legg til tekstbit"
 
 msgctxt "Languages::editing_document"
 msgid "Editing [name]"
-msgstr ""
+msgstr "Redigerer [name]"
 
 msgctxt "Languages::product_info"
 msgid "Product info"
-msgstr ""
+msgstr "Produktinfo"
 
 msgctxt "Languages::add_table_column"
 msgid "Add column"
-msgstr ""
+msgstr "Legg til kolonne"
 
 msgctxt "Languages::editing_table_column"
 msgid "Editing column"
-msgstr ""
+msgstr "Redigerer kolonnen"
 
 msgctxt "Languages::table_column_has_been_deleted"
 msgid "Product column has been deleted successfully."
-msgstr ""
+msgstr "Produkt-kolonnen er slettet."
 
 msgctxt "Languages::restore_default_value"
 msgid "Restore default value"
-msgstr ""
+msgstr "Gjenopprett standardverdier"
 
 msgctxt "Languages::send_test_email"
 msgid "Send test email"
-msgstr ""
+msgstr "Send test e-post"
 
 msgctxt "Languages::text_test_email_sent"
 msgid "Test email was sent to <b>[email]</b> address."
-msgstr ""
+msgstr "Test e-posten ble sendt til <b>[email]</b>."
 
 msgctxt "Languages::editing_global_vars"
 msgid "Editing global variables"
-msgstr ""
+msgstr "Redigerer globale variabler"
 
 msgctxt "Languages::global_vars"
 msgid "Global variables"
-msgstr ""
+msgstr "Globale variabler"
 
 msgctxt "Languages::change_order_status_p_subj"
 msgid "Order #[order] has been processed"
-msgstr ""
+msgstr "Ordre #[order] har blitt betalt"
 
 msgctxt "Languages::change_order_status_p_text"
 msgid "Your order has been processed successfully."
-msgstr ""
+msgstr "Bestillingen har blitt betalt."
 
 msgctxt "Languages::change_order_status_c_subj"
 msgid "Order #[order] has been completed"
-msgstr ""
+msgstr "Ordre #[order] har blitt sendt"
 
 msgctxt "Languages::change_order_status_c_text"
 msgid "Your order has been completed. Thank you for choosing us."
-msgstr ""
+msgstr "Bestillingen er sendt. Takk for at du valgte oss."
 
 msgctxt "Languages::change_order_status_o_subj"
 msgid "Order #[order] has been placed successfully"
-msgstr ""
+msgstr "Ordre #[order] har blitt motatt"
 
 msgctxt "Languages::change_order_status_o_text"
 msgid "Thank you for the order. You are welcome to come back!"
-msgstr ""
+msgstr "Takk for bestillingen. Du er velkommen til å komme tilbake!"
 
 msgctxt "Languages::change_order_status_f_subj"
 msgid "Order #[order] failed"
-msgstr ""
+msgstr "Ordre #[order] mislyktes"
 
 msgctxt "Languages::change_order_status_f_text"
 msgid "Your order has been unsuccessful. Please contact shop administration."
-msgstr ""
+msgstr "Bestillingen mislyktes. Ta kontakt med oss om du har noen spørsmål."
 
 msgctxt "Languages::change_order_status_d_subj"
 msgid "Order #[order] has been declined"
-msgstr ""
+msgstr "Ordre #[order] har blitt avvist"
 
 msgctxt "Languages::change_order_status_d_text"
 msgid "Your order has been declined. Please contact shop administration."
-msgstr ""
+msgstr "Bestillingen er blitt avvist. Ta kontakt om du har noen spørsmål."
 
 msgctxt "Languages::change_order_status_b_subj"
 msgid "Order #[order] has been backordered"
-msgstr ""
+msgstr "Ordre #[order] har blitt restbestilt"
 
 msgctxt "Languages::change_order_status_b_text"
 msgid "Your order has been backordered."
-msgstr ""
+msgstr "Vi venter på varelevering. Produktene sendes i løpet av noen dager."
 
 msgctxt "Languages::change_order_status_i_subj"
 msgid "Order #[order] has been canceled"
-msgstr ""
+msgstr "Ordre #[order] har blitt kansellert"
 
 msgctxt "Languages::change_order_status_i_text"
 msgid "Your order has been canceled. Please contact shop administration."
-msgstr ""
+msgstr "Bestillingen har blitt kansellert. Ta kontakt dersom du har spørsmål om betaling eller fullføring av din ordre."
 
 msgctxt "Languages::change_order_status_default_subj"
 msgid "The status of order #[order] has been changed to [status]"
-msgstr ""
+msgstr "Status for ordre #[order] har blitt endret til [status]"
 
 msgctxt "Languages::change_order_status_default_text"
 msgid "The status of your order has been changed to [status]."
-msgstr ""
+msgstr "Statusen for din ordre har blitt endret til [status]."
 
 msgctxt "Languages::email_template.activate_profile"
 msgid "User profile requires activation"
-msgstr ""
+msgstr "Brukerprofil krever aktivering"
 
 msgctxt "Languages::email_template.back_in_stock_notification"
 msgid "Back in stock notification"
-msgstr ""
+msgstr "Tilbake på lager varsel"
 
 msgctxt "Languages::email_template.create_profile"
 msgid "User profile creation"
-msgstr ""
+msgstr "Bruker profil opprettelse"
 
 msgctxt "Languages::email_template.edp_access"
 msgid "Orders: access to downloadable products"
-msgstr ""
+msgstr "Ordre: tilgang til nedlastbare produkter"
 
 msgctxt "Languages::email_template.give_coupon"
 msgid "Promotions: coupon"
-msgstr ""
+msgstr "Kampanjer: kupong"
 
 msgctxt "Languages::email_template.low_stock"
 msgid "Product low stock notification"
-msgstr ""
+msgstr "Produkt lavt varelager varsel"
 
 msgctxt "Languages::email_template.order_notification"
 msgid "Order notification: [name]"
-msgstr ""
+msgstr "Ordre notifikasjon: [name]"
 
 msgctxt "Languages::email_template.order_notification_default"
 msgid "Order notification: Default template for a new order status"
-msgstr ""
+msgstr "Ordre notifikasjon:: Standard mal for en ny ordrestatus"
 
 msgctxt "Languages::email_template.profile_activated"
 msgid "User profile activation"
-msgstr ""
+msgstr "Brukerprofil aktivering"
 
 msgctxt "Languages::email_template.recover_password"
 msgid "Password recovery"
-msgstr ""
+msgstr "Passord gjenoppretting"
 
 msgctxt "Languages::email_template.reminder"
 msgid "Admin password expiration"
-msgstr ""
+msgstr "Admin passord utløpt"
 
 msgctxt "Languages::email_template.shipment_products"
 msgid "Orders: products shipped"
-msgstr ""
+msgstr "Ordre: produkter sendt"
 
 msgctxt "Languages::email_template.track"
 msgid "Orders: tracking"
-msgstr ""
+msgstr "Ordre: sporing"
 
 msgctxt "Languages::email_template.update_profile"
 msgid "User profile update"
-msgstr ""
+msgstr "Bruker profil oppdatering"
 
 msgctxt "Languages::email_template.usergroup_activation"
 msgid "User group activation"
-msgstr ""
+msgstr "Brukergruppe aktivering"
 
 msgctxt "Languages::email_template.usergroup_disactivation"
 msgid "User group disactivation"
-msgstr ""
+msgstr "Brukergruppe deaktivering"
 
 msgctxt "Languages::email_template.usergroup_request"
 msgid "User group request"
-msgstr ""
+msgstr "Brukergruppe forespørsel"
 
 msgctxt "Languages::email_template.upgrade_backup_info"
 msgid "Upgrade: restore link"
-msgstr ""
+msgstr "Oppgradering: gjenopprettingslink"
 
-msgctxt "Languages::email_template.params.attach_invoice"
-msgid "Attach a PDF invoice"
-msgstr ""
+msgctxt "Languages::email_template.params.attach_order_document"
+msgid "Attach a PDF document"
+msgstr "Legg ved et PDF-dokument"
 
 msgctxt "Languages::edit_customer_notification"
 msgid "Edit the email sent to customers"
-msgstr ""
+msgstr "Rediger e-post sendt til kunder"
 
 msgctxt "Languages::edit_admin_notification"
 msgid "Edit the email sent to administrators"
-msgstr ""
+msgstr "Rediger e-post sendt til administratorer"
 
 msgctxt "Languages::copy"
 msgid "Copy"
@@ -16415,7 +16431,7 @@ msgstr "Kan ikke slette filene: <b>[files]</b>. Sjekk rettighetene."
 
 msgctxt "Languages::feature_groups"
 msgid "Feature groups"
-msgstr ""
+msgstr "Funksjonsgrupper"
 
 msgctxt "Languages::shippings.can.business_account_information"
 msgid "Business account information"
@@ -16499,7 +16515,7 @@ msgstr "Canada Post sanntid frakt beregning endring"
 
 msgctxt "Languages::canada_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Canada Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Canada Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API keys</a></li></ul>"
-msgstr "<p>Den siste versjonen av [product] har ulik innstilling for sanntid fraktpris beregning hvis du bruker Canada Post som leverandør.</p><p>vis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velge fraktmetoden som bruker Canada Post som leverandør fo å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig frakt tjeneste</li><li>bytt til fanen Konfigurer og skriv inn riktig <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API nøkkel</a></li></ul>"
+msgstr "<p>Den siste versjonen av [product] har ulik innstilling for sanntid fraktpris beregning hvis du bruker Canada Post som transportselskap.</p><p>vis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velge transportselskapet som bruker Canada Post som leverandør for å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig transportselskap</li><li>bytt til fanen Konfigurer og skriv inn riktig <a href=\"https://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/gettingstarted.jsf\" target=\"_blank\">API nøkkel</a></li></ul>"
 
 msgctxt "Languages::shippings.aup.pac_api_key"
 msgid "PAC API key"
@@ -16515,35 +16531,35 @@ msgstr "Australia Post sanntid frakt beregning endringer"
 
 msgctxt "Languages::australia_post_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use Australia Post as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses Australia Post as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and enter the proper <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API key</a></li></ul>"
-msgstr "<p>Den siste versjonen av [product] har ulike innstillinger for sanntid fraktprisen beregning hvis du bruker Australia Post som leverandør.</p><p>Hvis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velg fraktmetoden som bruker Australia Post som en leverandør for å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig frakt tjeneste</li><li>bytte til fanen Konfigurer og skriv inn riktig <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API-nøkkel</a></li></ul>"
+msgstr "<p>Den siste versjonen av [product] har ulike innstillinger for fraktpris beregning i sanntid hvis du bruker Australia Post som transportselskap.</p><p>Hvis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velg transportselskapet som bruker Australia Post som en leverandør for å beregne fraktpriser</li><li>bytt til fanen Generelt, og skriv inn riktig frakt tjeneste</li><li>bytte til fanen Konfigurer og skriv inn riktig <a href=\"https://developers.auspost.com.au/apis/pacpcs-registration\" target=\"_blank\">PAC API-nøkkel</a></li></ul>"
 
 msgctxt "Languages::licensing_and_upgrades"
 msgid "Licensing and upgrades"
-msgstr ""
+msgstr "Lisenser og oppgradering"
 
 msgctxt "Languages::addon_license_key_tooltip"
 msgid "Enter license key you've received by e-mail in order to receive the add-on upgrades."
-msgstr ""
+msgstr "Angi lisensnummer du har mottatt via e-post for å motta modul oppgraderinger."
 
 msgctxt "Languages::api_shipments_update_not_allowed"
 msgid "Only the tracking_number and carrier params can be updated"
-msgstr ""
+msgstr "Bare sporingsnummer og parametere for transportselskap kan oppdateres"
 
 msgctxt "Languages::cannot_remove_theme_has_dependent_themes"
 msgid "The theme can't be removed as the following themes depend on it: [dependent_themes]"
-msgstr ""
+msgstr "Malen kan ikke fjernes da følgende maler er avhengig av det: [dependent_themes]"
 
 msgctxt "Languages::text_installing_theme_dependencies"
 msgid "Installing the theme dependencies: [dependencies]"
-msgstr ""
+msgstr "Installerer malens avhengigheter: [dependencies]"
 
 msgctxt "Languages::text_unable_to_install_theme_dependencies"
 msgid "Unable to install the theme dependencies: [dependencies]"
-msgstr ""
+msgstr "Ikke i stand til å installerer malens avhengigheter: [dependencies]"
 
 msgctxt "Languages::exim_cannot_create_variant_for_shareable_feature"
 msgid "You cannot create a variant for a shareable feature."
-msgstr ""
+msgstr "Du kan ikke opprette en variant for en delt funksjon."
 
 msgctxt "Languages::ups_upgrade_notification_title"
 msgid "UPS Canada: Expedited SM and UPS Polish: Today Intercity shipping services are no longer supported"
@@ -16551,7 +16567,7 @@ msgstr "UPS Canada: Hurtig SM og UPS polen: Intercity frakt-tjenester støttes i
 
 msgctxt "Languages::ups_upgrade_notification_text"
 msgid "<p><b>UPS Canada: Expedited SM</b> and <b>UPS Polish: Today Intercity</b> shipping services are not supported since this [product] version. If you were using them, do the following:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses UPS as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li></ul>"
-msgstr "<p><b>UPS Canada: Fremskyndet SM</b> og <b>UPS Polen: Today Intercity</b> leverings services er ikke lengre støttet siden versjon [product]. Hvis du fortsatt bruker dem, gjør følgende:</p><ul><li>Gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velg den fraktmetoden som bruker UPS som levering for å beregne fraktpriser</li><li>gå så til kategorien Generelt og legg inn korrekte fraktpriser</li></ul>"
+msgstr "<p><b>UPS Canada: Fremskyndet SM</b> og <b>UPS Polen: Today Intercity</b> leverings services er ikke lengre støttet siden [product] versjonen. Hvis du fortsatt bruker den, gjør følgende:</p><ul><li>Gå til Administrasjon > Forsendelse og moms > Fraktmetoder</li><li>velg den fraktmetoden som bruker UPS som levering for å beregne fraktpriser</li><li>gå så til kategorien Generelt og legg inn korrekte fraktpriser</li></ul>"
 
 msgctxt "Languages::warning_default_language_sharing_removed"
 msgid "The default language defined in settings has been removed for the <b>[company]</b> store. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
@@ -16559,355 +16575,355 @@ msgstr "Standardspråket som er definert i innstillinger har blitt fjernet for <
 
 msgctxt "Languages::page_url"
 msgid "Page URL"
-msgstr ""
+msgstr "Side URL"
 
 msgctxt "Languages::tt_views_pages_components_pages_link_page_url"
 msgid "The page inner URL"
-msgstr ""
+msgstr "Sidens indre URL"
 
 msgctxt "Languages::page_target_url"
 msgid "Target URL"
-msgstr ""
+msgstr "Mål URL"
 
 msgctxt "Languages::tt_views_pages_components_pages_link_page_target_url"
 msgid "The URL to redirect customers to"
-msgstr ""
+msgstr "URL å omdirigere kunder til"
 
 msgctxt "Languages::shippings.fedex.freight_account_number"
 msgid "Freight account number"
-msgstr ""
+msgstr "Kontonummer for frakt"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_extra_large_box"
 msgid "FedEx Extra Large Box"
-msgstr ""
+msgstr "FedEx ekstra stor boks"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_large_box"
 msgid "FedEx Large Box"
-msgstr ""
+msgstr "FedEx stor boks"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_medium_box"
 msgid "FedEx Medium Box"
-msgstr ""
+msgstr "FedEx Medium boks"
 
 msgctxt "Languages::ship_fedex_package_type_fedex_small_box"
 msgid "FedEx Small Box"
-msgstr ""
+msgstr "FedEx liten boks"
 
 msgctxt "Languages::ship_fedex_drop_off_type_business_service_center"
 msgid "Business service center"
-msgstr ""
+msgstr "Firma servicesenter"
 
 msgctxt "Languages::ship_fedex_drop_off_type_drop_box"
 msgid "Drop box"
-msgstr ""
+msgstr "Innleveringspostkasse"
 
 msgctxt "Languages::shippings.fedex.options"
 msgid "Delivery options"
-msgstr ""
+msgstr "Leveringsalternativer"
 
 msgctxt "Languages::shippings.fedex.option_broker_select_option"
 msgid "Broker select option"
-msgstr ""
+msgstr "Megler velg alternativ"
 
 msgctxt "Languages::shippings.fedex.option_call_before_delivery"
 msgid "Call before delivery"
-msgstr ""
+msgstr "Ring før levering"
 
 msgctxt "Languages::shippings.fedex.option_cod"
 msgid "COD"
-msgstr ""
+msgstr "COD"
 
 msgctxt "Languages::shippings.fedex.option_cod_amount"
 msgid "COD amount"
-msgstr ""
+msgstr "COD beløp"
 
 msgctxt "Languages::shippings.fedex.option_cod_collection_type"
 msgid "COD collection type"
-msgstr ""
+msgstr "COD samlingstype"
 
 msgctxt "Languages::shippings.fedex.option_cod_collection_type_any"
 msgid "Any"
-msgstr ""
+msgstr "Hvilken som helst"
 
 msgctxt "Languages::shippings.fedex.option_cod_collection_type_cash"
 msgid "Cash"
-msgstr ""
+msgstr "Kontanter"
 
 msgctxt "Languages::shippings.fedex.option_cod_collection_type_guaranteed_funds"
 msgid "Guaranteed funds"
-msgstr ""
+msgstr "Garanterte midler"
 
 msgctxt "Languages::shippings.fedex.option_custom_delivery_window"
 msgid "Custom delivery window"
-msgstr ""
+msgstr "Tilpasset leveringsvindu"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods"
 msgid "Dangerous goods"
-msgstr ""
+msgstr "Farlig gods"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options"
 msgid "Hazardous content options"
-msgstr ""
+msgstr "Farlig innhold alternativer"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_battery"
 msgid "Battery"
-msgstr ""
+msgstr "Batteri"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_hazardous_materials"
 msgid "Hazardous materials"
-msgstr ""
+msgstr "Farlige materialer"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_orm_d"
 msgid "ORM-D"
-msgstr ""
+msgstr "ORM-D"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_limited_quantities_commodities"
 msgid "Limited quantities commodities"
-msgstr ""
+msgstr "Begrensede mengder varer"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_reportable_quantities"
 msgid "Reportable quantities"
-msgstr ""
+msgstr "Rapporterte antall"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_options_small_quantity_exception"
 msgid "Small quantity exception"
-msgstr ""
+msgstr "Liten mengde unntak"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility"
 msgid "Dangerous goods accessibility"
-msgstr ""
+msgstr "Farlig gods tilgjengelighet"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_accessible"
 msgid "Accessible"
-msgstr ""
+msgstr "Tilgjengelig"
 
 msgctxt "Languages::shippings.fedex.option_dangerous_goods_accessibility_inaccessible"
 msgid "Inaccessible"
-msgstr ""
+msgstr "Utilgjengelig"
 
 msgctxt "Languages::shippings.fedex.option_do_not_break_down_pallets"
 msgid "Do not break down pallets"
-msgstr ""
+msgstr "Ikke bryt ned paller"
 
 msgctxt "Languages::shippings.fedex.option_do_not_stack_pallets"
 msgid "Do not stack pallets"
-msgstr ""
+msgstr "Ikke stable paller"
 
 msgctxt "Languages::shippings.fedex.option_dry_ice"
 msgid "Dry ice"
-msgstr ""
+msgstr "Tørris"
 
 msgctxt "Languages::shippings.fedex.option_east_coast_special"
 msgid "East Coast special"
-msgstr ""
+msgstr "Østkyst spesial"
 
 msgctxt "Languages::shippings.fedex.option_electronic_trade_documents"
 msgid "Electronic trade documents"
-msgstr ""
+msgstr "Elektroniske handelsdokumenter"
 
 msgctxt "Languages::shippings.fedex.option_extreme_length"
 msgid "Extreme length"
-msgstr ""
+msgstr "Ekstrem lengde"
 
 msgctxt "Languages::shippings.fedex.option_food"
 msgid "Food"
-msgstr ""
+msgstr "Mat"
 
 msgctxt "Languages::shippings.fedex.option_fedex_one_rate"
 msgid "FedEx One Rate"
-msgstr ""
+msgstr "FedEx One Rate"
 
 msgctxt "Languages::shippings.fedex.option_freight_guarantee"
 msgid "Freight guarantee"
-msgstr ""
+msgstr "Frakt garanti"
 
 msgctxt "Languages::shippings.fedex.option_freight_to_collect"
 msgid "Freight to collect"
-msgstr ""
+msgstr "Frakt å hente"
 
 msgctxt "Languages::shippings.fedex.option_future_day_shipment"
 msgid "Future day shipment"
-msgstr ""
+msgstr "Neste dag forsendelse"
 
 msgctxt "Languages::shippings.fedex.option_hold_at_location"
 msgid "Hold at location"
-msgstr ""
+msgstr "Hold på stedet"
 
 msgctxt "Languages::shippings.fedex.option_home_delivery_premium"
 msgid "Home delivery Premium"
-msgstr ""
+msgstr "Hjemkjøring Premium"
 
 msgctxt "Languages::shippings.fedex.option_inside_delivery"
 msgid "Inside delivery"
-msgstr ""
+msgstr "Inne levering"
 
 msgctxt "Languages::shippings.fedex.option_inside_pickup"
 msgid "Inside pickup"
-msgstr ""
+msgstr "Hent inne"
 
 msgctxt "Languages::shippings.fedex.option_international_controlled_export_service"
 msgid "International controlled export service"
-msgstr ""
+msgstr "Internasjonalt kontrollert eksportservice"
 
 msgctxt "Languages::shippings.fedex.option_international_traffic_in_arms_regulations"
 msgid "International traffic in arms regulations"
-msgstr ""
+msgstr "International traffic in arms regulations"
 
 msgctxt "Languages::shippings.fedex.option_liftgate_delivery"
 msgid "Liftgate delivery"
-msgstr ""
+msgstr "Liftgate levering"
 
 msgctxt "Languages::shippings.fedex.option_liftgate_pickup"
 msgid "Liftgate pickup"
-msgstr ""
+msgstr "Liftgate pickup"
 
 msgctxt "Languages::shippings.fedex.option_limited_access_delivery"
 msgid "Limited access delivery"
-msgstr ""
+msgstr "Begrenset tilgangslevering"
 
 msgctxt "Languages::shippings.fedex.option_limited_access_pickup"
 msgid "Limited access pickup"
-msgstr ""
+msgstr "Begrenset tilgang pickup"
 
 msgctxt "Languages::shippings.fedex.option_pharmacy_delivery"
 msgid "Pharmacy delivery"
-msgstr ""
+msgstr "Apotek levering"
 
 msgctxt "Languages::shippings.fedex.option_poison"
 msgid "Poison"
-msgstr ""
+msgstr "Gift"
 
 msgctxt "Languages::shippings.fedex.option_protection_from_freezing"
 msgid "Protection from freezing"
-msgstr ""
+msgstr "Beskyttelse mot frysing"
 
 msgctxt "Languages::shippings.fedex.option_returns_clearance"
 msgid "Returns clearance"
-msgstr ""
+msgstr "Retur klarering"
 
 msgctxt "Languages::shippings.fedex.option_saturday_delivery"
 msgid "Saturday delivery"
-msgstr ""
+msgstr "Lørdagslevering"
 
 msgctxt "Languages::shippings.fedex.option_saturday_pickup"
 msgid "Saturday pickup"
-msgstr ""
+msgstr "Lørdag pickup"
 
 msgctxt "Languages::shippings.fedex.option_top_load"
 msgid "Top load"
-msgstr ""
+msgstr "Topp Beregnigner"
 
 msgctxt "Languages::shippings.fedex.upgrade_notification_title"
 msgid "FedEx realtime shipping rate calculation changes"
-msgstr ""
+msgstr "FedEx realtime frakt beregning endringer"
 
 msgctxt "Languages::shippings.fedex.upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for realtime shipping rate calculation if you use FedEx as a Carrier.</p><p>If you want to show current shipping rates to your clients, do this:</p><ul><li>go to Administration > Shipping & taxes > Shipping methods</li><li>choose the shipping method that uses FedEx as a Carrier to calculate shipping rates</li><li>switch to the General tab and enter the proper Shipping service</li><li>switch to the Configure tab and select desired delivery options</li></ul>"
-msgstr ""
+msgstr "<p>Den nyeste versjonen av [product] har ulike innstillinger for fraktpris beregning i sanntid hvis du bruker FedEx som transportselskap.</p><p>Hvis du ønsker å vise gjeldende fraktpriser til kundene dine, kan du gjøre dette:</p><ul><li>Gå til Administrasjon > Forsendels og moms > Fraktmetoder</li><li>velg fraktmetoden som bruker FedEx som transportselskap for å beregne fraktpriser</li><li>gå til Generelt-fanen og skriv inn riktig frakttjeneste</li><li>bytte til fanen Konfigurer og velg ønsket leveringsalternativ</li></ul>"
 
 msgctxt "Languages::template_document_order_invoice"
 msgid "Invoice"
-msgstr ""
+msgstr "Faktura"
 
 msgctxt "Languages::template_document_order_summary"
 msgid "Order summary"
-msgstr ""
+msgstr "Ordresammendrag"
 
 msgctxt "Languages::template_document_packing_slip_default"
 msgid "Packing slip"
-msgstr ""
+msgstr "Pakkseddel"
 
 msgctxt "Languages::documents"
 msgid "Documents"
-msgstr ""
+msgstr "Dokumenter"
 
 msgctxt "Languages::document_preview_order_not_found"
 msgid "Couldn't find an order. Preview only works with existing data. Please create an order and use Preview again."
-msgstr ""
+msgstr "Kunne ikke finne ordren. Forhåndsvisning fungerer bare med eksisterende data. Opprett en ordre og prøv forhåndsvisning igjen."
 
 msgctxt "Languages::editing_order_invoice"
 msgid "Editing invoice for order #[order_id]"
-msgstr ""
+msgstr "Redigere fakturaen for ordren #[order_id]"
 
 msgctxt "Languages::email_order_invoice_subject"
 msgid "[company_name]: Invoice for order #[order_id]"
-msgstr ""
+msgstr "[company_name]: Faktura for ordre #[order_id]"
 
 msgctxt "Languages::edit_and_send_invoice"
 msgid "Tweak and send invoice"
-msgstr ""
+msgstr "Tilpass og send faktura"
 
 msgctxt "Languages::error_profile_field_name_exists"
 msgid "A profile field with this name already exists. Please choose another name."
-msgstr ""
+msgstr "Det finnes allerede et profilfelt med dette navnet. Velg et annet navn."
 
 msgctxt "Languages::profile_field_name"
 msgid "Field name"
-msgstr ""
+msgstr "Feltnavn"
 
 msgctxt "Languages::text_character_identifier_tooltip"
 msgid "A character sequence that serves as an identifier. You can use figures from 0 to 9, symbols of the English alphabet and the following signs: \"-\", \"_\", \".\"."
-msgstr ""
+msgstr "En tegnsekvens som fungerer som en identifikator. Du kan bruke tallene fra 0-9, bokstaver i det engelske alfabetet og følgende tegn: \"-\", \"_\", \".\"."
 
 msgctxt "SettingsOptions::monitor_core_changes"
 msgid "Monitor changes in core files"
-msgstr ""
+msgstr "Overvåker endringer i kjernefiler"
 
 msgctxt "Languages::core_files_have_been_modified"
-msgid "Some of your core files have been changed.<br/><a href=\"[changes_url]\" target=\"_blank\">View changes</a> <a href=\"[settings_url]\" target=\"_blank\">Disable this check</a>"
-msgstr ""
+msgid "Some of your <a href=\"[changes_url]\">core files</a>  were changed manually. That can lead to various problems, especially when upgrading to a new version of [product]. To learn more about why we advise against changing the core files, please read this <a href=\"[docs_url]\" target=\"_blank\" >article</a>.<br><br>[product] automatically checks for changes in core files every time you log in. To disable this check, go to <a href=\"[settings_url]\">Settings → General</a>  and untick the Monitor changes in core files checkbox."
+msgstr "Noen av dine <a href=\"[changes_url]\">kjernefiler</a> ble endret manuelt. Det kan føre til ulike problemer, spesielt når du oppgraderer til en ny versjon av [product]. Hvis du vil vite mer om hvorfor vi fraråder å endre kjernefilene, kan du lese denne <a href=\"[docs_url]\" target=\"_blank\" >artikkelen</a>.<br><br>[product] sjekker automatisk for endringer i kjernefiler hver gang du logger deg inn i ditt adminpanel. For å deaktivere denne kontrollen, gå til <a href=\"[settings_url]\">Innstillinger → Generelt</a> og ta bort avkryssingen for denne sjekken."
 
 msgctxt "Languages::scan_for_modified_core_files"
 msgid "Scan for changed core files"
-msgstr ""
+msgstr "Søk etter endrede kjernefiler"
 
 msgctxt "Languages::last_scan_time"
 msgid "Last scan time"
-msgstr ""
+msgstr "Siste søketid"
 
 msgctxt "Languages::no_modified_core_files_found"
 msgid "No changed core files found"
-msgstr ""
+msgstr "Finner ingen endrede kjernefiler"
 
 msgctxt "Languages::modified_core_files_found"
 msgid "Some of your core files have been changed. This may become a problem when upgrading [product] as changes in these files may be lost."
-msgstr ""
+msgstr "Noen av nettbutikkens kjernefiler har blitt endret. Dette kan bli et problem når du oppgraderer [product] da endringene i disse filene kan gå tapt."
 
 msgctxt "Languages::file_changes_detector"
 msgid "File changes detector"
-msgstr ""
+msgstr "Filendring detektor"
 
 msgctxt "Languages::privileges.view_file_changes"
 msgid "View file changes"
-msgstr ""
+msgstr "Vis filendringer"
 
 msgctxt "Languages::vendor_commission_changes_upgrade_notification_title"
 msgid "Vendor commission changes"
-msgstr ""
+msgstr "Forhandler provisjon endringer"
 
 msgctxt "Languages::vendor_commission_changes_upgrade_notification_text"
 msgid "<p>Vendor commissions have been replaced with vendor plans, and an own plan has been created for each vendor. However, absolute commissions are no longer supported.</p>"
-msgstr ""
+msgstr "<p>Forhandler provisjon har blitt erstattet med forhandler planer, og en egen plan har blitt opprettet for hver forhandler. Merk at absolutte provisjoner ikke lenger støttes.</p>"
 
 msgctxt "Languages::vendors_with_absolute_commissions_notice"
 msgid "<p>The following vendors had absolute commissions before the upgrade:</p><ul>[vendors_list]</ul><p>The <b>Transaction fee</b> in their plans has been set to 0.</p><p>The sizes of absolute commissions still remain in the database, but are no longer used. However, you can use that data to set up new vendor plans with relative commissions. Learn more in this article:</p>[instructions]"
-msgstr ""
+msgstr "<p>Følgende forhandlere hadde absolutt provisjoner før oppgraderingen:</p><ul>[vendors_list]</ul><p>Merk at <b>Transaction fee</b> i deres planer har blitt satt til 0.</p><p>Størrelsene på absolutte provisjoner er fortsatt i databasen, men brukes ikke lenger. Du kan imidlertid bruke disse dataene til å sette opp nye forhandler planer med relative provisjoner. Les mer i denne artikkelen:</p>[instructions]"
 
 msgctxt "Languages::absolute_commissions_instructions"
 msgid "<a href=\"http://docs.cs-cart.com/4.3.x/user_guide/addons/vendor_commission/vendor_commissions_and_plans.html\" target=\"_blank\">Upgrading from 4.3.x to 4.4.x: Vendor Commissions and Vendor Plans</a>"
-msgstr ""
+msgstr "<a href=\"http://docs.cs-cart.com/4.3.x/user_guide/addons/vendor_commission/vendor_commissions_and_plans.html\" target=\"_blank\">Oppgradering fra 4.3.x til 4.4.x: Forhandler provisjon og forhandler planer</a>"
 
 msgctxt "Languages::google_export_upgrade_notification_title"
 msgid "Google Export changes"
-msgstr ""
+msgstr "Google eksport endringer"
 
 msgctxt "Languages::google_export_upgrade_notification_text"
 msgid "<p>The latest version of [product] has different settings for data feeds: <b>Google price</b> doesn't include tax now.</p><p>If you want to export products with tax included in the price, do the following:</p><ul><li>Go to Administration &rarr; Add-ons &rarr; Data feeds.</li><li>Choose the data feed used to export products to Google Product Feed.</li><li>Switch to the <b>Fields mapping</b> tab and select <b>Google price (with tax included)</b> for the <b>price</b> field.</li></ul>"
-msgstr ""
+msgstr "<p>Den siste versjonen av [product] har ulike innstillinger for data feeds: <b>Google price</b> inkluderer ikke skatt nå.</p><p>Hvis du ønsker å eksportere produkter med skatt er inkludert i prisen, gjør du følgende:</p><ul><li>Gå til Administrasjon &rarr; Moduler &rarr; Data feed.</li><li>Velg data feed som brukes til å eksportere produkter til Google Product Feed.</li><li>Bytt til <b>Fields mapping</b> fanen og velg <b>Google price (with tax included)</b> for <b>pris</b> feltet.</li></ul>"
 
 msgctxt "Languages::error_shipment_not_created"
 msgid "Couldn't create a shipment. Please choose a carrier or enter a tracking number."
-msgstr ""
+msgstr "Kan ikke opprette en forsendelse. Velg et transportselskap eller angi et sporingsnummer."
 
 msgctxt "Languages::my_cart"
 msgid "My cart"
@@ -16947,45 +16963,229 @@ msgstr "Fra nå av, kan du ikke bruke vår API"
 
 msgctxt "Languages::report_a_bug"
 msgid "Report a bug"
-msgstr ""
+msgstr "Rapporter en feil"
 
 msgctxt "Languages::import_results"
 msgid "Import results"
-msgstr ""
+msgstr "Importer resultat"
 
 msgctxt "Languages::import_errors"
 msgid "Import errors"
-msgstr ""
+msgstr "Importer feil"
 
 msgctxt "Languages::email_template_import_success_msg"
 msgid "All the email templates have been imported without errors."
-msgstr ""
+msgstr "Alle e-post malene har blitt importert uten feil."
 
 msgctxt "Languages::document_import_success_msg"
 msgid "All the documents have been imported without errors."
-msgstr ""
+msgstr "Alle dokumentene har blitt importert uten feil."
 
 msgctxt "Languages::count_document_successfully_imported"
 msgid "Documents successfully imported:"
-msgstr ""
+msgstr "Dokumentene er importert:"
 
 msgctxt "Languages::count_email_template_successfully_imported"
 msgid "Email templates successfully imported:"
-msgstr ""
+msgstr "E-post maler importert:"
 
 msgctxt "Languages::count_snippet_successfully_imported"
 msgid "Snippets successfully imported:"
-msgstr ""
+msgstr "Tekstbiter importert:"
 
 msgctxt "Languages::count_document_fail_imported"
 msgid "Documents import failed:"
-msgstr ""
+msgstr "Dokument importen mislyktes:"
 
 msgctxt "Languages::count_email_template_fail_imported"
 msgid "Email templates import failed:"
-msgstr ""
+msgstr "E-post mal importen mislyktes:"
 
 msgctxt "Languages::count_snippet_fail_imported"
 msgid "Snippets import failed:"
+msgstr "Tekstbit importen mislyktes:"
+
+msgctxt "Languages::storefronts_limit_exceeded"
+msgid "The number of storefronts in your CS-Cart License has exceeded the number of purchased storefront licenses."
+msgstr "Antall butikkforsider i CS-Cart lisensen har overskredet antallet kjøpte lisenser."
+
+msgctxt "Languages::licensed_product"
+msgid "Licensed product"
+msgstr "Lisensiert produkt"
+
+msgctxt "Languages::store_mode.ultimate"
+msgid "Ultimate"
+msgstr "Ultimate"
+
+msgctxt "Languages::product_state_description.ult.new"
+msgid "<p>You can use one of these licenses: <a href=\"[standard_license_url]\" target=\"_blank\">[product]</a> or <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>. Both licenses allow you to use [product] without time restrictions.</p><br>"
+msgstr "<p>Du kan bruke en av disse lisensene: <a href=\"[standard_license_url]\" target=\"_blank\">[product]</a> eller <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>. Begge lisensene tillater deg å bruke [product] uten tidsbegrensninger.</p><br>"
+
+msgctxt "Languages::product_state_description.ult"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. To be able to add an unlimited number of extra storefronts and manage your store via a mobile app, get the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>Du har aktivert [product]. Du kan bruke den uten tidsbegrensninger. For å kunne legge til et ubegrenset antall ekstra butikkforsider og administrere butikken via en mobil app, skaff deg <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate lisens.</a></p><br>"
+
+msgctxt "Languages::product_state_description.ult.ultimate"
+msgid "<p>You've activated your [product] Ultimate. You can use it without time restrictions now. With [product] Ultimate, you get all the advanced eCommerce features including an unlimited number of extra storefronts and the ability to manage your store via a mobile app.</p><br>"
+msgstr "<p>Du har aktivert din [product] Ultimate. Du kan bruke den uten tidsbegrensninger. Med [product] Ultimate, får du tilgang til alle de avanserte nettbutikkfunksjonene, inkludert et ubegrenset antall ekstra butikkforsider og muligheten til å administrere butikken din via en mobil-app.</p><br>"
+
+msgctxt "Languages::product_state_description.ult.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>For full ubegrenset tilgang til alle funksjoner. Skriv inn et gyldig lisensnummer.</p><p>Denne modusen kan aktiveres når som helst.</p><br />"
+
+msgctxt "Languages::product_state_description.ult.ru"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>For full ubegrenset tilgang til alle funksjoner. Skriv inn et gyldig lisensnummer.</p><p>Denne modusen kan aktiveres når som helst.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_ult"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer except for an unlimited number of storefronts and the ability to manage your store via a mobile app. These two additional features are available with the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate edition</a> only."
+msgstr "Butikken din bruker nå en aktiv lisens. Med [product] utgaven, du får tilgang til nesten alle de funksjonene vi tilbyr med unntak av et ubegrenset antall butikkforsider og muligheten til å håndtere butikken via en mobilapp. Disse to ekstra funksjonene er tilgjengelige med <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate utgaven</a> only."
+
+msgctxt "Languages::text_store_mode_changed_to_ult.ultimate"
+msgid "Your store now uses active license. With the [product] Ultimate edition, you get all the advanced eCommerce features including an unlimited number of extra storefronts and the ability to manage your store via a mobile app."
+msgstr "Butikken din bruker nå en aktiv lisens. Med [product] Ultimate utgaven, får du alle de avanserte nettbutikkfunksjonene, inkludert et ubegrenset antall ekstra butikkforsider og muligheten til å administrere butikken din via en mobilapp."
+
+msgctxt "Languages::text_store_mode_changed_to_ult.ru"
+msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Full modus</strong> har blitt aktivert. I denne modusen, er alle de avanserte nettbutikkfunksjonene tilgjengelige."
+
+msgctxt "Languages::ultimate_license_required"
+msgid "You need [product] Ultimate for this"
+msgstr "Du trenger [product] Ultimate for dette"
+
+msgctxt "Languages::text_ultimate_license_required"
+msgid "You're using the [product] edition. We also offer another one, a more advanced edition &mdash; [product] Ultimate. With [product] Ultimate, you'll be able to add an unlimited number of storefronts and operate your store via a mobile application. To unlock these two features, get the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate license</a>."
+msgstr "Du bruker [product] utgaven. Vi tilbyr også en annen, mer avansert utgave &mdash; [product] Ultimate. Med [product] Ultimate, vil du være i stand til å legge til et ubegrenset antall butikkforsider og drive butikken via en mobilapplikasjon. For å låse opp disse to funksjonene, skaff deg en <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate lisens</a>."
+
+msgctxt "Languages::available_upgrades"
+msgid "Available upgrades"
+msgstr "Tilgjengelige oppgraderinger"
+
+msgctxt "Languages::additional_storefront_license_required"
+msgid "Additional [product] Storefront License Required"
+msgstr "Flere [product] butikkforside lisenser er påkrevd"
+
+msgctxt "Languages::text_additional_storefront_license_required"
+msgid "<p>You can't add a new storefront. The maximum number of storefronts allowed by your current license <code>[license_number]</code> is [allowed_storefronts], and you currently have [existing_storefronts].</p><p>To be able to add another storefront, please buy additional [product] Storefront License. If you want to add multiple new storefronts, buy the corresponding number of licenses.</p>"
+msgstr "<p>Du kan ikke legge til en ny butikkforside. Maksimalt antall butikker for gjeldende lisens <code>[license_number]</code> er [allowed_storefronts], og du har for tiden [existing_storefronts].</p><p>For å kunne legge til en ny butikk, kan du kjøpe en ny [product] butikkforside lisens. Hvis du ønsker å legge til flere nye butikker, må du kjøpe tilsvarende antall lisenser.</p>"
+
+msgctxt "Languages::buy_storefront_license"
+msgid "Buy [product] Storefront License"
+msgstr "Kjøp [product] butikkforside lisens"
+
+msgctxt "Languages::import_new_vendor"
+msgid "[n] new vendor was created during the import. This vendor only has a name so far. Please edit the new vendor to add other information.|[n] new vendors were created during the import. These vendors only have names so far. Please edit the new vendors to add other information."
+msgstr "[n] ny forhandler ble opprettet under import. Denne forhandleren har bare et navn så langt. Rediger den nye forhandleren for å legge til annen informasjon.|[n] nye forhandlere ble opprettet under import. Disse forhandlerne har bare navn så langt. Vennligst rediger de nye forhandlere for å legge til annen informasjon."
+
+msgctxt "Languages::file_changes_detector.snapshot_not_found"
+msgid "Snapshot of the clear installation was not found. Please restore <b>[dist_filename]</b>."
+msgstr "Øyeblikksbilde av den nye Installasjonen ble ikke funnet. Vennligst gjenopprett <b>[dist_filename]</b>."
+
+msgctxt "Languages::file_changes_detector.added"
+msgid "Added"
+msgstr "Lagt til"
+
+msgctxt "Languages::file_changes_detector.changed"
+msgid "Changed"
+msgstr "Endret"
+
+msgctxt "Languages::file_changes_detector.deleted"
+msgid "Deleted"
+msgstr "Slettet"
+
+msgctxt "Languages::upgrade_center.upgrade_process_failed"
+msgid "Upgrade process of your store has failed"
+msgstr "Oppgraderingsprosessen til butikken mislyktes"
+
+msgctxt "Languages::upgrade_center.apply_migration_failed"
+msgid "<p>Please restore the pre-upgrade backup manually or via a link sent to your email address, then contact our technical support.</p><br><p>Tech details: Couldn't complete migration [migration]. Reason: [error].</p><p>Completed migrations: [processed_count] out of [total_count].</p>"
+msgstr "<p>Vennligst gjenopprett sikkerhetskopien som bla tatt før oppdateringen manuelt eller via linken som ble sendt til e-postadressen din, eller ta kontakt med vår tekniske support.</p><br><p>Tech details: Couldn't complete migration [migration]. Reason: [error].</p><p>Completed migrations: [processed_count] out of [total_count].</p>"
+
+msgctxt "Languages::profile_deactivated"
+msgid "Account deactivated"
+msgstr "Konto deaktivert"
+
+msgctxt "Languages::text_profile_deactivated"
+msgid "Your account has been deactivated. Please contact us for more details."
+msgstr "Kontoen er deaktivert. Kontakt oss for mer informasjon."
+
+msgctxt "Languages::email_template.profile_deactivated"
+msgid "User account deactivation"
+msgstr "Brukerkonto deaktivering"
+
+msgctxt "Languages::timezone_upgrade_notification_title"
+msgid "Time zone changes"
+msgstr "Tidssoneendringer"
+
+msgctxt "Languages::timezone_upgrade_notification_text"
+msgid "<p>Time zone \"Athens, Beirut, Istanbul\" has been split into 3 different time zones:</p><ul><li>Europe/Istanbul</li><li>Europe/Athens</li><li>Asia/Beirut</li></ul><p>Please go to <b>Settings</b> &rarr; <b>Appearance</b> and make sure you have the right time zone there.</p>"
+msgstr "<p>Tidssonen \"Athen, Beirut, Istanbul\" har blitt delt inn i 3 forskjellige tidssoner:</p><ul><li>Europa/Istanbul</li><li>Europa/Athen</li><li>Asia/Beirut</li></ul><p>Vennligst gå til <b>Innstillinger</b> &rarr; <b>Utseende</b> og kontroller at du har valgt riktig tidssone.</p>"
+
+msgctxt "Languages::text_addon_disable_dependencies"
+msgid "The add-on cannot be disabled because the following add-ons depend on it: [addons]"
+msgstr "Modulen kan ikke avinstalleres fordi følgende moduler er avhengig av den: [addons]"
+
+msgctxt "Languages::text_addon_enable_dependencies"
+msgid "The add-on cannot be enabled because it depends on the following add-ons: [addons]"
+msgstr "Modulen kan ikke aktiveres fordi den er avhengig av følgende andre moduler: [addons]"
+
+msgctxt "Languages::current_setting_value"
+msgid "Current value"
+msgstr "Gjeldende verdi"
+
+msgctxt "Languages::new_setting_value"
+msgid "New value"
+msgstr "Ny verdi"
+
+msgctxt "Languages::overwrite_selected_settings"
+msgid "Overwrite selected settings"
+msgstr "Overskriv valgte innstillinger"
+
+msgctxt "Languages::payment_method_not_found"
+msgid "Payment method not found. It could've been disabled, or a technical problem occurred. Please choose a payment method and try again."
+msgstr "Betalingsmåten ikke funnet. Den kan har blitt deaktivert, eller et teknisk problem oppstod. Velg en betalingsmåte og prøv på nytt."
+
+msgctxt "Languages::shippings.ups.package_type.01"
+msgid "UPS Letter"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.02"
+msgid "Package"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.03"
+msgid "Tube"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.04"
+msgid "Pak"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.21"
+msgid "Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.24"
+msgid "25KG Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.25"
+msgid "10KG Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.30"
+msgid "Pallet"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2a"
+msgid "Small Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2b"
+msgid "Medium Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2c"
+msgid "Large Express Box"
 msgstr ""
 

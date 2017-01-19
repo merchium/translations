@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /addons/google_export.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:05-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-08 01:00-0500\n"
 
 msgctxt "Addons::name::google_export"
 msgid "Google export"
@@ -42,25 +42,25 @@ msgstr "複数言語のGoogle商品カテゴリを設定する"
 
 msgctxt "Languages::addons.google_export.skip_zero_prices"
 msgid "Don't export items with a price value of 0.00"
-msgstr ""
+msgstr "価格が0の商品をエクスポートしないでください"
 
 msgctxt "Languages::addons.google_export.skip_zero_prices_description"
 msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
-msgstr ""
+msgstr "Google Product Feedに価格が0の商品を含めないでください。価格が0の商品は検索結果に表示されません。"
 
 msgctxt "Languages::addons.google_export.notice"
 msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
-msgstr ""
+msgstr "Google Product Feedに商品をエクスポートする前に、<a href=\"[currency_url]\">ベース通貨</a> の通貨コードが<a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a>に準拠したものであることと、<a href=\"[settings_url]\">重量を表す記号</a> が lb, oz, g, kg のいずれかであることを確認してください。"
 
 msgctxt "Languages::addons.google_export.google_export"
 msgid "Google export"
-msgstr ""
+msgstr "Googleエクスポート"
 
 msgctxt "Languages::addons.google_export.google_name_option"
 msgid "Name option (Google export)"
-msgstr ""
+msgstr "名称オプション（Googleエクスポート）"
 
 msgctxt "Languages::addons.google_export.tax_notice"
 msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
-msgstr ""
+msgstr "アメリカ合衆国向けのデータについては、税金を商品価格に含めないでください。カナダおよびインド向けのデータについては、いかなる種類の付加価値税（消費税）も商品価格に含めないでください。他の国ついては、付加価値税（消費税）を商品価格に含めてください。"
 

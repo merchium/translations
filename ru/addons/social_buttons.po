@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /addons/social_buttons.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 08:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-13 08:00-0500\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -96,6 +96,10 @@ msgctxt "Languages::sb_share"
 msgid "Share"
 msgstr "Поделиться"
 
+msgctxt "SettingsSections::social_buttons::yandex"
+msgid "Yandex"
+msgstr "Яндекс"
+
 msgctxt "SettingsSections::social_buttons::twitter"
 msgid "Twitter"
 msgstr "Twitter"
@@ -112,9 +116,37 @@ msgctxt "SettingsSections::social_buttons::email"
 msgid "E-mail"
 msgstr "Эл. почта"
 
+msgctxt "SettingsOptions::social_buttons::yandex_header"
+msgid "Yandex settings"
+msgstr "Настройки Яндекса"
+
 msgctxt "SettingsOptions::social_buttons::twitter_header"
 msgid "Twitter settings"
 msgstr "Настройки Twitter"
+
+msgctxt "SettingsOptions::social_buttons::yandex_enable"
+msgid "Show Yandex.Share block"
+msgstr "Отображать блок «Поделиться»"
+
+msgctxt "SettingsOptions::social_buttons::yandex_share_code"
+msgid "Yandex.Share code"
+msgstr "Код блока \"Поделиться\""
+
+msgctxt "SettingsOptions::social_buttons::yandex_display_on"
+msgid "Display on"
+msgstr "Показывать"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
+msgid "Product details pages"
+msgstr "На страницах товаров"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
+msgid "Pages"
+msgstr "На контентных страницах"
+
+msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
+msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr "Вы можете настроить блок и получить код на странице <a href=\"http://api.yandex.ru/share/\" target=\"_blank\"> http://api.yandex.ru/share/</a>"
 
 msgctxt "SettingsOptions::social_buttons::twitter_enable"
 msgid "Show Twitter button"
@@ -866,5 +898,5 @@ msgstr "Белый"
 
 msgctxt "Languages::email_template.social_buttons_mail"
 msgid "Email share"
-msgstr ""
+msgstr "Поделиться через эл. почту"
 

@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-21 08:00-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-02 02:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "Bạn không có quyền để loại bỏ một số các giao diện của chúng thuộc về chủ sở hữu khác."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "Số giấy phép hiện tại là không hợp lệ. Trình add-on \"Ebay\" bị vô hiệu hoá. Để kích hoạt lại nó, hãy kiểm tra số giấy phép của add-on."
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Kích hoạt tiện ích"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Bạn đã cài đặt một tiện ích thương mại. Để kích hoạt nó, hãy nhập một số giấy phép add-on trên trang cài đặt add-on."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Số giấy phép add-on đang bị bỏ trống."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr "Giao diện eBay không tìm thấy"
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Tổng quát"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "Số giấy phép add-on EBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "Sản xuất"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Xin vui lòng chờ, thông tin vận chuyển đang được nạp."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Thông tin giấy phép"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr "Add-on này đòi hỏi một giấy phép để làm việc. Bạn có thể mua giấy phép add-on eBay trên trang <a href=\"[ebay_license_url]\" target=\"_blank\">Đồng bộ hóa eBay</a>. <br>Bạn có thể sử dụng add-on của eBay miễn phí ở chế độ thử nghiệm cho [days]. Để kích hoạt chế độ thử nghiệm, hãy nhập \"[trial_license]\" vào trường giấy phép."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -691,18 +667,6 @@ msgstr "Các sản phẩm với tình trạng cập nhật lỗi:"
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
 msgstr "Sản phẩm bỏ qua:"
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr "Giai đoạn dùng thử của add-on eBay đã hết hạn. Add-on đã bị vô hiệu hoá. Để tiếp tục sử dụng add-on của eBay, <a href=\"[ebay_license_url]\" target=\"_blank\"> mua giấy phép</a>."
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr "Bạn hiện đang sử dụng tiện ích của eBay ở chế độ dùng thử. Thời gian dùng thử sẽ hết hạn trong [days]. <a href=\"[ebay_license_url]\" target=\"_blank\"> Mua giấy phép add-on eBay</a> để tiếp tục sử dụng add-on sau khi hết hạn thời gian dùng thử."
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr "[n] ngày|[n] ngày"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"

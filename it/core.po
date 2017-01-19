@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: core.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-20 07:04-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-11 02:04-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -2273,8 +2273,8 @@ msgid "Create a new profile"
 msgstr "Crea nuovo profilo"
 
 msgctxt "Languages::create_profile_notification_header"
-msgid "Thank you for becoming a registered user at"
-msgstr "Grazie per aver scelto il nostro online shop. Le informazioni sottostanti sono state inserite nel vostro profilo utente."
+msgid "Thank you for becoming a registered user at our store. Below you will find your account information."
+msgstr ""
 
 msgctxt "Languages::create_table"
 msgid "Create New Table"
@@ -5901,8 +5901,8 @@ msgid "New profile field"
 msgstr "Nuovo campo profilo"
 
 msgctxt "Languages::new_profile_notification"
-msgid "New [user_type] profile notification"
-msgstr "Nuova notifica profilo [user_type]"
+msgid "New profile notification"
+msgstr ""
 
 msgctxt "Languages::new_promotion"
 msgid "New promotion"
@@ -5929,7 +5929,7 @@ msgid "Detailed shipment"
 msgstr ""
 
 msgctxt "Languages::create_detailed_shipment"
-msgid "Create detailed shipment »"
+msgid "Create detailed shipment"
 msgstr ""
 
 msgctxt "Languages::new_shipment_was_created"
@@ -6458,8 +6458,8 @@ msgid "Packages"
 msgstr "Pacchetti"
 
 msgctxt "Languages::show_package_contents"
-msgid "Show Package Contents"
-msgstr "Mostra contenuto pacchetto"
+msgid "View upgrade contents"
+msgstr ""
 
 msgctxt "Languages::package_type"
 msgid "Package type"
@@ -7503,7 +7503,7 @@ msgstr "Profili"
 
 msgctxt "Languages::profile_activated"
 msgid "Profile activated"
-msgstr "Profilo attivato"
+msgstr ""
 
 msgctxt "Languages::profile_details"
 msgid "Profile details"
@@ -7922,8 +7922,8 @@ msgid "Referrer domain"
 msgstr "Referrer HTTP dominio"
 
 msgctxt "Languages::refresh_packages_list"
-msgid "Refresh packages list"
-msgstr "Aggiorna lista pacchetti"
+msgid "Refresh available upgrades"
+msgstr ""
 
 msgctxt "Languages::refund"
 msgid "Refund"
@@ -8728,6 +8728,10 @@ msgstr "Il servizio non è configurato"
 msgctxt "Languages::shippings.service_not_found"
 msgid "Service was not found"
 msgstr "Il servizio non è stato trovato"
+
+msgctxt "Languages::shippings.currency_not_found"
+msgid "Currency [currency] was not found"
+msgstr ""
 
 msgctxt "Languages::shippings_taxes"
 msgid "Shipping & taxes"
@@ -10586,8 +10590,8 @@ msgid "<strong>Full mode</strong> required."
 msgstr "È necessaria la <strong>Modalità COMPLETA</strong>."
 
 msgctxt "Languages::license_required"
-msgid "[product] license required."
-msgstr "Licenza [product] richiesta."
+msgid "[product] license required"
+msgstr ""
 
 msgctxt "Languages::text_gate2shop_notice"
 msgid "<p>Please set the following values in the Gate2Shop merchant settings:</p><p>Success, failed and canceled URL: <b>[result_url]</b></p><p>Back URL: <b>[back_url]</b></p>"
@@ -10666,8 +10670,8 @@ msgid "One user can have multiple profiles. For example, one for personal orders
 msgstr "Ogni utente può avere profili multipli. Per esempio è possibile avere un profilo per acquisti personali, uno per acquisti aziendali e un'altro per fare acquisti per gli amici, la famiglia, ecc..."
 
 msgctxt "Languages::text_new_user_activation"
-msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br />[url]"
-msgstr "Il profilo appartenente a \"[user_login]\" è appena stato creato, verificare i dettagli di questo utente (se necessario) e attivarlo utilizzando il seguente collegamento: <br />[url]"
+msgid "The profile owned by \"[user_login]\" has been newly created, you should check the details of this user (if required) and activate it by using the following link:<br /><a href=\"[url]\">[url_text]</a>"
+msgstr ""
 
 msgctxt "Languages::text_nothing_found"
 msgid "Nothing found"
@@ -10942,8 +10946,8 @@ msgid "(displayed on products list and product details pages)"
 msgstr "(visualizzata nella lista prodotti e pagine dettagli prodotto)"
 
 msgctxt "Languages::text_profile_activated"
-msgid "Your profile has now been activated, you may login using the username you received in the previous e-mail."
-msgstr "Il tuo profilo è stato attivato, puoi effettuare l'accesso utilizzando il nome utente che hai ricevuto con l'e-mail precedente."
+msgid "Your profile has now been activated, you may login using the credentials you received in the previous e-mail."
+msgstr ""
 
 msgctxt "Languages::text_profile_benefits"
 msgid "<h4>Benefits of becoming a registered member</h4><ul><li>Log in at any time to check order statuses</li><li>Personalize your shopping</li><li>Speed up future purchases</li></ul>"
@@ -11098,8 +11102,8 @@ msgid "If your HTTPS server is not set up, the logo will be passed by the HTTP p
 msgstr "Se il server HTTPS non è impostato, il logo verrà passato dal protocollo HTTP e gli utenti potranno visualizzare l'avviso \"Connessione crittografata parzialmente\" sulla pagina Skrill."
 
 msgctxt "Languages::text_skrill_notice"
-msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet."
-msgstr "Per accedere alla rete internazionale di pagamento Skrill, si prega di registrarsi <a href=\"[register_url]\" target=\"_blank\">qui</a> per un account gratuito."
+msgid "To gain access to the international payment network of Skrill, please register <a href=\"[register_url]\" target=\"_blank\">here</a> for a free account if you do not have one yet.<p><strong>Attention</strong>: please save settings before validating email, secret word or activating merchant tools.</p>"
+msgstr ""
 
 msgctxt "Languages::text_skrill_payment_is_not_saved"
 msgid "In order to use this feature, please save the payment method first."
@@ -11138,16 +11142,16 @@ msgid "The store was <b>closed</b>"
 msgstr "Il negozio è stato <b>chiuso</b>"
 
 msgctxt "Languages::text_store_mode_full"
-msgid "Full unrestricted access to all features. Enter a valid license number to activate.<br /><br />This mode can be activated at any time.<br /><br />"
-msgstr "Accesso completo senza restrizioni a tutte le funzioni. Inserisci un numero di licenza valido per attivare. <br /><br />Questa modalità può essere attivata in qualsiasi momento.<br /><br />"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr ""
 
 msgctxt "Languages::text_store_mode_opened"
 msgid "The store was <b>opened</b>"
 msgstr "Il negozio è stato <b>aperto</b>"
 
 msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />Once the 30-day trial period expires, you'll have to purchase a license or enter a valid license number to be able to manage your store.<br /><br />"
-msgstr "L'accesso completo a tutte le funzioni durante il periodo di prova di 30 giorni, inizia dal giorno dell'attivazione.<br /><br />Una volta scaduto il periodo di prova di 30 giorni, devi acquistare una licenza, oppure inserire un numero di licenza valido, per poter gestire il tuo Store / Negozio.<br /><br />"
+msgid "<p>Full access to all features during the 30-day trial period, starting from the time of activation.</p><p>Once the 30-day trial period expires, you'll have to <a href=\"[product_buy_url]\" target=\"_blank\">purchase a license</a> or enter a valid license number to be able to manage your store.</p>"
+msgstr ""
 
 msgctxt "Languages::text_store_mode_trial_rb"
 msgid "All features are available during 30 days after download of the installation package. You don't need to enter the license key.<br /><br />After the 30-day trial period is over, you need to buy the license or enter the license key if you already have one.<br /><br />"
@@ -11378,16 +11382,20 @@ msgid "A new version of [product] is available. If you want to upgrade to the la
 msgstr "Una nuova versione di CS-Cart è disponibile! <a href=\"[link]\">Prego aggiornarla adesso</a>"
 
 msgctxt "Languages::text_usergroup_activated"
-msgid "The user group level you requested has been activated"
-msgstr "Il gruppo utente da te richiesto è stato attivato"
+msgid "The following user groups have been activated for your account: [usergroups]."
+msgstr ""
 
 msgctxt "Languages::text_usergroup_disactivated"
-msgid "Your user group level has been deactivated. Please contact us for more information."
-msgstr "Il tuo gruppo utente è stato disattivato. Per ulteriori informazioni ti preghiamo di contattarci."
+msgid "The following user groups have been removed from your account: [usergroups]."
+msgstr ""
 
 msgctxt "Languages::text_usergroup_request"
 msgid "Customer requested user group."
 msgstr "Cliente ha richiesto gruppo utente."
+
+msgctxt "Languages::text_usergroup_requested_by"
+msgid "The <b>[usergroup]</b> group was requested by [name] ([email])."
+msgstr ""
 
 msgctxt "Languages::text_worldpay_notice"
 msgid "Configure your WorldPay account before using the payment.<br /><br />Go to the WorldPay administration page and switch to the Installation section.<br /><br />Fill the fields as follows:<br /><br />Payment Response URL: <b>[return_url]</b><br />Payment Response Password: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />MD5 secret for transactions: <b>Make up a secret word.</b> The same word must be entered in the respective field below<br />SignatureFields: <b>instId:amount:currency:cartId</b>"
@@ -15038,8 +15046,16 @@ msgid "(GMT+01:00) West Central Africa"
 msgstr "(GMT + 01.00) Africa centrale ad ovest"
 
 msgctxt "SettingsVariants::timezone::Europe/Istanbul"
-msgid "(GMT+02:00) Athens, Beirut, Istanbul"
-msgstr "(GMT + 02:00) Atene, Beirut, Istanbul"
+msgid "(GMT+03:00) Istanbul"
+msgstr ""
+
+msgctxt "SettingsVariants::timezone::Europe/Athens"
+msgid "(GMT+02:00) Athens"
+msgstr ""
+
+msgctxt "SettingsVariants::timezone::Asia/Beirut"
+msgid "(GMT+02:00) Beirut"
+msgstr ""
 
 msgctxt "SettingsVariants::timezone::Europe/Bucharest"
 msgid "(GMT+02:00) Bucharest"
@@ -16318,8 +16334,8 @@ msgctxt "Languages::email_template.upgrade_backup_info"
 msgid "Upgrade: restore link"
 msgstr ""
 
-msgctxt "Languages::email_template.params.attach_invoice"
-msgid "Attach a PDF invoice"
+msgctxt "Languages::email_template.params.attach_order_document"
+msgid "Attach a PDF document"
 msgstr ""
 
 msgctxt "Languages::edit_customer_notification"
@@ -16855,7 +16871,7 @@ msgid "Monitor changes in core files"
 msgstr ""
 
 msgctxt "Languages::core_files_have_been_modified"
-msgid "Some of your core files have been changed.<br/><a href=\"[changes_url]\" target=\"_blank\">View changes</a> <a href=\"[settings_url]\" target=\"_blank\">Disable this check</a>"
+msgid "Some of your <a href=\"[changes_url]\">core files</a>  were changed manually. That can lead to various problems, especially when upgrading to a new version of [product]. To learn more about why we advise against changing the core files, please read this <a href=\"[docs_url]\" target=\"_blank\" >article</a>.<br><br>[product] automatically checks for changes in core files every time you log in. To disable this check, go to <a href=\"[settings_url]\">Settings → General</a>  and untick the Monitor changes in core files checkbox."
 msgstr ""
 
 msgctxt "Languages::scan_for_modified_core_files"
@@ -16988,5 +17004,189 @@ msgstr ""
 
 msgctxt "Languages::count_snippet_fail_imported"
 msgid "Snippets import failed:"
+msgstr ""
+
+msgctxt "Languages::storefronts_limit_exceeded"
+msgid "The number of storefronts in your CS-Cart License has exceeded the number of purchased storefront licenses."
+msgstr ""
+
+msgctxt "Languages::licensed_product"
+msgid "Licensed product"
+msgstr ""
+
+msgctxt "Languages::store_mode.ultimate"
+msgid "Ultimate"
+msgstr ""
+
+msgctxt "Languages::product_state_description.ult.new"
+msgid "<p>You can use one of these licenses: <a href=\"[standard_license_url]\" target=\"_blank\">[product]</a> or <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>. Both licenses allow you to use [product] without time restrictions.</p><br>"
+msgstr ""
+
+msgctxt "Languages::product_state_description.ult"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. To be able to add an unlimited number of extra storefronts and manage your store via a mobile app, get the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr ""
+
+msgctxt "Languages::product_state_description.ult.ultimate"
+msgid "<p>You've activated your [product] Ultimate. You can use it without time restrictions now. With [product] Ultimate, you get all the advanced eCommerce features including an unlimited number of extra storefronts and the ability to manage your store via a mobile app.</p><br>"
+msgstr ""
+
+msgctxt "Languages::product_state_description.ult.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr ""
+
+msgctxt "Languages::product_state_description.ult.ru"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_ult"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer except for an unlimited number of storefronts and the ability to manage your store via a mobile app. These two additional features are available with the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate edition</a> only."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_ult.ultimate"
+msgid "Your store now uses active license. With the [product] Ultimate edition, you get all the advanced eCommerce features including an unlimited number of extra storefronts and the ability to manage your store via a mobile app."
+msgstr ""
+
+msgctxt "Languages::text_store_mode_changed_to_ult.ru"
+msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr ""
+
+msgctxt "Languages::ultimate_license_required"
+msgid "You need [product] Ultimate for this"
+msgstr ""
+
+msgctxt "Languages::text_ultimate_license_required"
+msgid "You're using the [product] edition. We also offer another one, a more advanced edition &mdash; [product] Ultimate. With [product] Ultimate, you'll be able to add an unlimited number of storefronts and operate your store via a mobile application. To unlock these two features, get the <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate license</a>."
+msgstr ""
+
+msgctxt "Languages::available_upgrades"
+msgid "Available upgrades"
+msgstr ""
+
+msgctxt "Languages::additional_storefront_license_required"
+msgid "Additional [product] Storefront License Required"
+msgstr ""
+
+msgctxt "Languages::text_additional_storefront_license_required"
+msgid "<p>You can't add a new storefront. The maximum number of storefronts allowed by your current license <code>[license_number]</code> is [allowed_storefronts], and you currently have [existing_storefronts].</p><p>To be able to add another storefront, please buy additional [product] Storefront License. If you want to add multiple new storefronts, buy the corresponding number of licenses.</p>"
+msgstr ""
+
+msgctxt "Languages::buy_storefront_license"
+msgid "Buy [product] Storefront License"
+msgstr ""
+
+msgctxt "Languages::import_new_vendor"
+msgid "[n] new vendor was created during the import. This vendor only has a name so far. Please edit the new vendor to add other information.|[n] new vendors were created during the import. These vendors only have names so far. Please edit the new vendors to add other information."
+msgstr ""
+
+msgctxt "Languages::file_changes_detector.snapshot_not_found"
+msgid "Snapshot of the clear installation was not found. Please restore <b>[dist_filename]</b>."
+msgstr ""
+
+msgctxt "Languages::file_changes_detector.added"
+msgid "Added"
+msgstr ""
+
+msgctxt "Languages::file_changes_detector.changed"
+msgid "Changed"
+msgstr ""
+
+msgctxt "Languages::file_changes_detector.deleted"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.upgrade_process_failed"
+msgid "Upgrade process of your store has failed"
+msgstr ""
+
+msgctxt "Languages::upgrade_center.apply_migration_failed"
+msgid "<p>Please restore the pre-upgrade backup manually or via a link sent to your email address, then contact our technical support.</p><br><p>Tech details: Couldn't complete migration [migration]. Reason: [error].</p><p>Completed migrations: [processed_count] out of [total_count].</p>"
+msgstr ""
+
+msgctxt "Languages::profile_deactivated"
+msgid "Account deactivated"
+msgstr ""
+
+msgctxt "Languages::text_profile_deactivated"
+msgid "Your account has been deactivated. Please contact us for more details."
+msgstr ""
+
+msgctxt "Languages::email_template.profile_deactivated"
+msgid "User account deactivation"
+msgstr ""
+
+msgctxt "Languages::timezone_upgrade_notification_title"
+msgid "Time zone changes"
+msgstr ""
+
+msgctxt "Languages::timezone_upgrade_notification_text"
+msgid "<p>Time zone \"Athens, Beirut, Istanbul\" has been split into 3 different time zones:</p><ul><li>Europe/Istanbul</li><li>Europe/Athens</li><li>Asia/Beirut</li></ul><p>Please go to <b>Settings</b> &rarr; <b>Appearance</b> and make sure you have the right time zone there.</p>"
+msgstr ""
+
+msgctxt "Languages::text_addon_disable_dependencies"
+msgid "The add-on cannot be disabled because the following add-ons depend on it: [addons]"
+msgstr ""
+
+msgctxt "Languages::text_addon_enable_dependencies"
+msgid "The add-on cannot be enabled because it depends on the following add-ons: [addons]"
+msgstr ""
+
+msgctxt "Languages::current_setting_value"
+msgid "Current value"
+msgstr ""
+
+msgctxt "Languages::new_setting_value"
+msgid "New value"
+msgstr ""
+
+msgctxt "Languages::overwrite_selected_settings"
+msgid "Overwrite selected settings"
+msgstr ""
+
+msgctxt "Languages::payment_method_not_found"
+msgid "Payment method not found. It could've been disabled, or a technical problem occurred. Please choose a payment method and try again."
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.01"
+msgid "UPS Letter"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.02"
+msgid "Package"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.03"
+msgid "Tube"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.04"
+msgid "Pak"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.21"
+msgid "Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.24"
+msgid "25KG Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.25"
+msgid "10KG Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.30"
+msgid "Pallet"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2a"
+msgid "Small Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2b"
+msgid "Medium Express Box"
+msgstr ""
+
+msgctxt "Languages::shippings.ups.package_type.2c"
+msgid "Large Express Box"
 msgstr ""
 

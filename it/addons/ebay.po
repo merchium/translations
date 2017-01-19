@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-08-26 05:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-10 17:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "Non hai le autorizzazioni per rimuovere alcuni dei modelli che appartengono ad altro proprietario."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "Il numero di licenza non è valido. Il componente aggiuntivo \"Ebay\" è stato disabilitato. Per riattivarlo, si prega di controllare il numero di licenza del componente aggiuntivo."
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Attivare il componente aggiuntivo (Add-on)"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Avete installato un componente aggiuntivo commerciale. Per attivarlo, immettere un numero di licenza del componente aggiuntivo nella pagina di impostazioni del componente aggiuntivo."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Il numero di licenza del componente aggiuntivo è vuoto."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr "Template eBay non trovati"
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Generale"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "Il numero di licenza Add-on eBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "Produzione"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Attendere prego, sto caricando le informazioni di spedizione."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Informazioni di licenza"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr "Questo componente aggiuntivo richiede una licenza per funzionare. È possibile acquistare la licenza del modulo aggiuntivo eBay sulla pagina <a href=\"[ebay_license_url]\" target=\"_blank\">sincronizzazione eBay</a>. <br>È possibile utilizzare il componente aggiuntivo eBay gratuitamente in modalità demo per [days] giorni. Per attivare la modalità di prova, immettere \"[trial_license]\" nel campo di licenza."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -691,18 +667,6 @@ msgstr "Prodotti con errori di aggiornamento di stato:"
 msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
 msgstr "Prodotti ignorati:"
-
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr "Il periodo di prova del componente aggiuntivo eBay è scaduto. Il componente aggiuntivo è stato disattivato. Continuare a utilizzare il componente aggiuntivo eBay, <a href=\"[ebay_license_url]\" target=\"_blank\"> acquistare la licenza</a>."
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr "Attualmente si utilizza il componente aggiuntivo eBay in modalità demo. Il periodo di prova scade entro [days] giorni. <a href=\"[ebay_license_url]\" target=\"_blank\"> acquistare la licenza del modulo aggiuntivo eBay</a> per continuare a utilizzare il componente aggiuntivo dopo il periodo di prova scade."
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr "[n] giorno|[n] giorni"
 
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"

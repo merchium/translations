@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /editions/mve.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 08:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-13 08:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -41,8 +41,8 @@ msgid "List of vendor's administrators, registered users with a vendor account."
 msgstr "Список администраторов продавца, зарегистрированных пользователей с аккаунтом продавца."
 
 msgctxt "Languages::vendor_candidate_notification"
-msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
-msgstr "Здравствуйте, <br/><br/>У вас появился новый продавец в вашем магазине. Эта учетная запись находится на рассмотрении, пока вы не утвердите ее. Пройдите  <a>по этой ссылке, чтобы просмотреть данные учетной записи</a>."
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Здравствуйте,<br/><br/>В вашем магазине была создана новая учётная запись продавца. Данная учётная запись будет находиться на рассмотрении, пока Вы её не одобрите. Пройдите по <a href=\"[href]\">этой ссылке</a>, чтобы просмотреть данные нового продавца</a>."
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
@@ -194,19 +194,19 @@ msgstr "Ваш статус продавца был изменен с деакт
 
 msgctxt "Languages::text_company_status_pending"
 msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
-msgstr "Отложенный статус позволяет вам войти в панель администрирования, изменить информацию о вашей компании и заполнить ваш магазин продуктами."
+msgstr "Неподтверждённый статус учётной записи позволяет вам заходить в панель администратора, изменять информацию о Вашей компании и добавлять товары в магазин."
 
 msgctxt "Languages::text_company_status_new_to_active"
 msgid "Your request for vendor [company] was approved."
 msgstr "Ваш запрос на создание учетной записи продавца [company] был одобрен."
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_created"
-msgid "New administrator was created. You can access to the administrator area: [link] by using the following credentials:<br />Login: [login]<br />Password: [password]"
-msgstr "Создан новый администратор. Теперь Вы можете авторизоваться в администраторской части: [link] , используя следующие данные:<br />Логин: [login]<br />Пароль: [password]"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Создан новый администратор. Теперь Вы можете войти в панель администратора: <a href=\"[link]\">[link_text]</a>, используя следующие данные:<br />Логин: [login]<br />Пароль: [password]"
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
-msgid "Type of your account [login] changed to administrator. You may login into the administrator area: [link]"
-msgstr "Тип учетной записи [login] был изменен на администратора. Теперь Вы можете авторизоваться в администраторской части: [link]"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "Тип учетной записи [login] был изменен на учётную запись администратора. Теперь Вы можете войти в панель администратора: <a href=\"[link]\">[link_text]</a>"
 
 msgctxt "Languages::text_company_status_new_to_active_subj"
 msgid "Your request for vendor was approved."
@@ -243,10 +243,6 @@ msgstr "Был создан новый платеж"
 msgctxt "Languages::text_not_approved_vendors"
 msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
 msgstr "У Вас есть продавцы, которые ожидают подтверждения. Посмотреть их список можно по <a href=\"[link]\">этой ссылке</a>."
-
-msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
-msgstr "Все функции доступны на протяжении 30 дней с момента активации. Ввод номера лицензии не требуется.<br /><br />Через 30 дней после активации данный режим станет недоступным.<br /><br />"
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
@@ -346,11 +342,11 @@ msgstr "Отображать продавца на странице продук
 
 msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
 msgid "Applying vendors must agree to the terms & conditions"
-msgstr "Используя поставщиков, вы должны согласится с условиями использования"
+msgstr "Новые продавцы обязаны принять условия соглашения"
 
 msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
 msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
-msgstr "Текст Условий соглашения будет взят из языковой переменной \"terms_and_conditions_content\"."
+msgstr "Текст Условий соглашения будет взят из языковой переменной \"vendor_terms_n_conditions_content\"."
 
 msgctxt "Languages::use_for_apply_for_vendor_account"
 msgid "Apply for a vendor account form"
@@ -386,15 +382,15 @@ msgstr "Товары продавца"
 
 msgctxt "Languages::apply_shipping_for_all_vendors"
 msgid "Allow shipping for all vendors"
-msgstr "Разрешить доставку для всех поставщиков"
+msgstr "Разрешить доставку для всех продавцов"
 
 msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
 msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
-msgstr "Способ доставки будет применяться для всех поставщиков. Вы уверены, что хотите продолжить?"
+msgstr "Способ доставки будет применяться для всех продавцов. Вы уверены, что хотите продолжить?"
 
 msgctxt "Languages::shipping_applied_to_vendors"
 msgid "The shipping method was applied to [vendors] vendors"
-msgstr "Способ доставки был применен к [vendors] поставщикам"
+msgstr "Способ доставки был применен к [vendors] продавцам"
 
 msgctxt "Languages::block_vendor_filters"
 msgid "Vendor filters"
@@ -402,15 +398,15 @@ msgstr "Фильтры продавца"
 
 msgctxt "Languages::email_template.apply_for_vendor_notification"
 msgid "Apply for vendor"
-msgstr ""
+msgstr "Стать продавцом"
 
 msgctxt "Languages::email_template.company_status_notification"
 msgid "Company status change"
-msgstr ""
+msgstr "Изменение статуса компании"
 
 msgctxt "Languages::email_template.company_payment_notification"
 msgid "Company payment"
-msgstr ""
+msgstr "Добавление нового платежа"
 
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"
@@ -418,13 +414,233 @@ msgstr "Я принимаю [terms_href]"
 
 msgctxt "Languages::vendor_terms_n_conditions_name"
 msgid "Terms and Conditions"
-msgstr "Условия использования"
+msgstr "Условия соглашения"
 
 msgctxt "Languages::vendor_terms_n_conditions_alert"
 msgid "In order to proceed, you need to accept our Terms and Conditions."
-msgstr "Чтобы продолжить, Вам нужно принять наши условия соглашения."
+msgstr "Чтобы продолжить, необходимо принять наши Условия соглашения."
 
 msgctxt "Languages::vendor_terms_n_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
-msgstr "<p>Пожалуйста, прочтите эти условия соглашения («Условия», «Условия соглашения») перед использованием веб-сайта <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> и мобильного приложения («служба») действует при помощи моей компании («нас», «мы» или «наш»).</p><p><strong>Получая доступ или используя услуги, вы соглашаетесь с этими условиями. Если вы не согласны с какой-либо части условий, то вы не можете получить доступ к службе.</strong></p><p><strong>Покупки</strong></p><p>Если вы хотите приобрести любой товар или услугу,</strong> доступную через службу («Покупка»), вам может быть предложено предоставить определенную информацию, имеющую отношение к вашей покупке, без ограничения, ваше...</p> <p><strong>Содержание</strong></p><p>Наш сервис позволяет размещать ссылки, хранить, передавать и иным образом доводить определенную информацию, текст, графику, видео или другие материалы (\"Содержание\"). Вы отвечаете за...</p><p><strong>Изменения</strong></p><p>Мы оставляем за собой право, на наше усмотрение, изменять или заменять эти условия в любое время. Если мы внесем существенные изменения, то постараемся уведомить Вас как минимум за 30 дней до вступления каких-либо новых условий в силу. Понятие существенные изменения будет определяться по своему усмотрению.</p><p><strong>Свяжитесь с нами</strong></p><p>Если у вас есть какие-либо вопросы, связанные с этими условиями, пожалуйста, свяжитесь с нами.</p>"
+msgstr "<p>Прежде чем использовать сайт <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> и мобильное приложение \"My Mobile App\" (далее \"сервис\"), предоставляемые \"My Company\" (далее \"мы\", \"нас\", \"наш\"), пожалуйста, внимательно ознакомьтесь с условиями соглашения (далее \"условия\").</p><p><strong>Получая доступ и используя данный сервис вы принимаете условия данного соглашения. В случае, если вы не согласны с каким-либо условием, Вам может быть закрыт доступ к сервису.</strong></p><p><strong>Покупки</strong></p><p>При покупке товаров и услуг, предоставляемых сервисом (далее \"покупка\"), Вам может потребоваться указать информацию, имеющую отношение к покупке, которая включает, но не ограничивается...</p><p><strong>Содержимое</strong></p><p>Наш сервис позволяет размещать, оставлять ссылки, хранить, делиться и делать доступными иными способами информацию, текст, графические изображения, видео и другие материалы (далее \"содержимое\"). Вы несёте ответственность за...</p><p><strong>Изменения</strong></p><p>Мы оставляем за собой право по нашему усмотрению изменять условия в любой момент. При внесении существенных изменений в условия соглашения по меньшей мере за 30 дней до их вступления в силу будет разослано оповещение. Содержание значимых изменений остаётся полностью на наше усмотрение.</p><p><strong>Обратная связь</strong></p><p>Если у Вас возникли вопросы по настоящим условиям, пожалуйста, свяжитесь с нами.</p>"
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Все функции доступны без ограничений. Для активации требуется ввести номер действующей лицензии.</p><p>Этот режим можно активировать в любое время.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.full"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Все функции доступны без ограничений. Для активации требуется ввести номер действующей лицензии.</p><p>Этот режим можно активировать в любое время.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.full"
+msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Полный режим</strong> активирован. В этом режиме доступна полная функциональность магазина."
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr ""
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr ""
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr ""
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr ""
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr ""
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr ""
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr ""
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr ""
 

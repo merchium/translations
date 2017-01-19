@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /addons/paypal.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-08-26 04:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-27 08:03-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -110,17 +110,73 @@ msgstr "処理ステータス"
 
 msgctxt "Languages::addons.paypal.surcharge_policy_notice"
 msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
-msgstr ""
+msgstr "Paypalを利用した注文に対して、支払手数料を設定しました。設定した手数料が、お住まいの地域の <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">Paypalの利用規約</a> に準拠したものであることを確認してください。"
 
 msgctxt "Languages::addons.paypal.rma.perform_refund"
 msgid "Give a refund via PayPal"
-msgstr ""
+msgstr "Paypal経由で返金"
 
 msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
 msgid "A refund will be made once an administrator changes the return request status"
-msgstr ""
+msgstr "管理者による返品処理ステータスを変更後に返金が実行されます"
 
 msgctxt "Languages::addons.paypal.rma.refund_performed"
 msgid "The refund has been made via PayPal"
+msgstr "Paypal経由で返金が行われました"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr ""
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr ""
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr ""
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr ""
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr ""
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr ""
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr ""
+
+msgctxt "Languages::addons.paypal.display_name"
+msgid "Display name"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.display_description"
+msgid "Display description"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr ""
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
 msgstr ""
 

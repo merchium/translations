@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /addons/paypal.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-07-21 08:00-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-02 02:00-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -123,4 +123,60 @@ msgstr "Hoàn lại tiền sẽ được thực hiện sau khi người quản t
 msgctxt "Languages::addons.paypal.rma.refund_performed"
 msgid "The refund has been made via PayPal"
 msgstr "Khoản tiền hoàn lại đã được thực hiện thông qua PayPal"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] đã được hoàn lại ngày [date] lúc [time]."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "Tình trạng đơn hàng trên một phần khoản hoàn lại"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Không thay đổi"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Xác định có hay không để trạng thái đơn hàng sẽ tự động thay đổi sau khi khoản hoàn lại một phần thông qua PayPal."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Thiết lập tới:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "Thời gian nhận IPN"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "Tình trạng đặt hàng ban đầu"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Tất cả các đơn đặt hàng với một phương thức thanh toán PayPal có được trạng thái này cho đến khi các phản ứng từ PayPal (IPN qua thư) đến hoặc một khách hàng trả lại để lưu trữ thông qua một liên kết trên trang web PayPal."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "Theo mặc định, tình trạng <i>mở</i> giảm hàng tồn kho, do đó, hai khách sẽ không thể mua cùng một sản phẩm trong khi các khoản thanh toán đang được xử lý bằng PayPal. Nhưng nếu một khách hàng rời khỏi trang web PayPal mà không trả tiền hoặc trở lại đến cửa hàng qua liên kết trên trang web PayPal, bạn sẽ có một đơn hàng bị bỏ rơi <i>mở</i> đơn đặt hàng với các sản phẩm dành riêng."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Điều này đảm bảo rằng bạn sẽ không hủy bỏ đơn đặt hàng chưa thanh toán với trạng thái <i>mở</i> và dành riêng các sản phẩm. Nhưng cho đến khi các phản ứng từ PayPal (IPN qua thư) đến hoặc khách hàng trả lại để lưu trữ thông qua một liên kết trên trang web PayPal, đơn hàng sẽ được liệt kê như là <i>Incomplete</i>, sản phẩm sẽ không được bảo lưu."
+
+msgctxt "Languages::addons.paypal.display_name"
+msgid "Display name"
+msgstr "Tên hiển thị"
+
+msgctxt "Languages::addons.paypal.display_description"
+msgid "Display description"
+msgstr "Hiển thị mô tả"
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Chi tiết kỹ thuật"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Kết nối với PayPal"
 

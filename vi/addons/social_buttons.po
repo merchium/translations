@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /addons/social_buttons.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:10-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-02 02:00-0500\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -96,6 +96,10 @@ msgctxt "Languages::sb_share"
 msgid "Share"
 msgstr "Chia sẻ"
 
+msgctxt "SettingsSections::social_buttons::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
 msgctxt "SettingsSections::social_buttons::twitter"
 msgid "Twitter"
 msgstr "Twitter"
@@ -112,9 +116,37 @@ msgctxt "SettingsSections::social_buttons::email"
 msgid "E-mail"
 msgstr "Email"
 
+msgctxt "SettingsOptions::social_buttons::yandex_header"
+msgid "Yandex settings"
+msgstr "Cài đặt Yandex"
+
 msgctxt "SettingsOptions::social_buttons::twitter_header"
 msgid "Twitter settings"
 msgstr "Thiết lập Twitter"
+
+msgctxt "SettingsOptions::social_buttons::yandex_enable"
+msgid "Show Yandex.Share block"
+msgstr "Hiển thị Yandex.Share khối"
+
+msgctxt "SettingsOptions::social_buttons::yandex_share_code"
+msgid "Yandex.Share code"
+msgstr "Mã Yandex.Share"
+
+msgctxt "SettingsOptions::social_buttons::yandex_display_on"
+msgid "Display on"
+msgstr "Hiển thị ngày"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
+msgid "Product details pages"
+msgstr "Trang chi tiết sản phẩm"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
+msgid "Pages"
+msgstr "Trang"
+
+msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
+msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr "Bạn có thể đặt cấu hình các khối và nhận được mã số <a href=\"http://api.yandex.ru/share/\" target=\"_blank\"> http://api.yandex.ru/share/</a>"
 
 msgctxt "SettingsOptions::social_buttons::twitter_enable"
 msgid "Show Twitter button"
@@ -866,5 +898,5 @@ msgstr "Màu trắng"
 
 msgctxt "Languages::email_template.social_buttons_mail"
 msgid "Email share"
-msgstr ""
+msgstr "Email chia sẻ"
 

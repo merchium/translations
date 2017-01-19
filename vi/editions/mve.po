@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: /editions/mve.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:10-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-02 02:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -41,8 +41,8 @@ msgid "List of vendor's administrators, registered users with a vendor account."
 msgstr "Danh sách các quản trị viên của nhà cung cấp, người dùng đăng ký với một tài khoản nhà cung cấp."
 
 msgctxt "Languages::vendor_candidate_notification"
-msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a>this URL to view the account details</a>."
-msgstr "Xin chào, <br/> <br/> Bạn có một ứng viên nhà cung cấp mới trong cửa hàng của bạn. Tài khoản nhà cung cấp này đang treo cho đến khi bạn chấp nhận nó. Làm theo <a>URL này để xem thông tin chi tiết tài khoản</a>."
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Xin chào, <br/> <br/> bạn có một ứng cử viên nhà cung cấp mới trong cửa hàng của bạn. Tài khoản nhà cung cấp này đang chờ xử lý cho đến khi bạn chấp nhận nó. Theo <a href=\"[href]\"> URL này</a> để xem chi tiết tài khoản</a>."
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
@@ -201,12 +201,12 @@ msgid "Your request for vendor [company] was approved."
 msgstr "Yêu cầu nhà cung cấp [company] của bạn đã được phê duyệt."
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_created"
-msgid "New administrator was created. You can access to the administrator area: [link] by using the following credentials:<br />Login: [login]<br />Password: [password]"
-msgstr "Quản trị viên mới được tạo. Bạn có thể truy cập vào khu vực quản trị: [link] bằng cách sử dụng các thông tin sau: <br / > Đăng nhập: [login] <br / > Mật khẩu: [password]"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Người quản trị mới được tạo ra. Bạn có thể truy cập vào khu vực quản trị: <a href=\"[link]\">[link_text]</a> bằng cách sử dụng các thông tin sau: <br /> đăng nhập: [login] <br /> mật khẩu: [password]"
 
 msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
-msgid "Type of your account [login] changed to administrator. You may login into the administrator area: [link]"
-msgstr "Loại tài khoản [login] của bạn đã thay đổi thành quản trị viên. Bạn có thể đăng nhập vào khu vực quản trị viên: [link]"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "Loại [login] tài khoản của bạn đã thay đổi cho người quản trị. Bạn có thể đăng nhập vào khu vực quản trị viên: <a href=\"[link]\">[link_text]</a>"
 
 msgctxt "Languages::text_company_status_new_to_active_subj"
 msgid "Your request for vendor was approved."
@@ -243,10 +243,6 @@ msgstr "Thanh toán mới được tạo"
 msgctxt "Languages::text_not_approved_vendors"
 msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
 msgstr "Bạn có nhà cung cấp yêu cầu phê duyệt. Xin vui lòng <a href=\"[link]\"> thực hiện theo liên kết này</a> để xem xét các nhà cung cấp."
-
-msgctxt "Languages::text_store_mode_trial"
-msgid "Full access to all features during the 30-day trial period, starting from the time of activation.<br /><br />After the 30-day trial period is over, this mode will become unavailable.<br /><br />"
-msgstr "Đầy đủ quyền truy cập vào tất cả tính năng trong thời gian dùng thử 30 ngày, bắt đầu từ thời điểm kích hoạt. < br / > < br / > sau thời gian dùng thử 30 ngày, chế độ này sẽ không sẵn nữa. < br / > < br / >"
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
@@ -402,15 +398,15 @@ msgstr "Bộ lọc nhà cung cấp"
 
 msgctxt "Languages::email_template.apply_for_vendor_notification"
 msgid "Apply for vendor"
-msgstr ""
+msgstr "Áp dụng cho các nhà cung cấp"
 
 msgctxt "Languages::email_template.company_status_notification"
 msgid "Company status change"
-msgstr ""
+msgstr "Thay đổi trạng thái công ty"
 
 msgctxt "Languages::email_template.company_payment_notification"
 msgid "Company payment"
-msgstr ""
+msgstr "Công ty thanh toán"
 
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"
@@ -427,4 +423,224 @@ msgstr "Để tiếp tục đặt hàng, bạn phải chấp nhận các Điều
 msgctxt "Languages::vendor_terms_n_conditions_content"
 msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
 msgstr "<p>Xin vui lòng đọc các Điều khoản và Điều kiện (\"Điều khoản\", \"Điều khoản và Điều kiện\") một cách cẩn thận trước khi sử dụng các trang web <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> và các ứng dụng điện thoại di động của tôi sử dụng ứng dụng di động (\"Dịch vụ\") do công ty của tôi (\"chúng tôi\").</p> <p><strong>Bằng cách truy cập hoặc sử dụng các dịch vụ là bạn đồng ý bị ràng buộc bởi các điều khoản này. Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản, bạn có thể không truy cập vào Dịch vụ.</strong></p> <p><strong>Mua hàng</strong></p> <p>Nếu bạn muốn mua bất kỳ sản phẩm hay dịch vụ cung cấp thông qua dịch vụ (\"Mua hàng\"), bạn có thể được yêu cầu cung cấp một số thông tin có liên quan đến bạn.</p> <p><strong>Nội dung</strong></p> <p>Dịch vụ của chúng tôi cho phép bạn đăng bài, liên kết, lưu trữ, chia sẻ và nếu không làm cho có sẵn một số thông tin, văn bản, đồ họa, video hoặc các vật liệu khác (\"nội dung\"). Bạn chịu trách nhiệm các...</p> <p><strong>Thay đổi</strong></p> <p>Chúng tôi có quyền, theo ý kiến của chúng tôi để sửa đổi hoặc thay thế các điều khoản này bất kỳ lúc nào. Nếu một phiên bản là vật liệu chúng tôi sẽ cố gắng cung cấp cho ít nhất 30 ngày thông báo trước khi bất kỳ điều khoản mới tham gia có hiệu lực. Những gì tạo một thay đổi quan trọng sẽ được xác định theo ý kiến của chúng tôi.</p> <p><strong>Liên hệ với chúng tôi</strong></p> <p>Nếu bạn có bất kỳ câu hỏi nào về các điều khoản, xin vui lòng liên hệ.</p>"
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Đầy đủ không bị giới hạn truy cập vào tất cả các tính năng. Nhập một số hợp lệ giấy phép để kích hoạt.</p> <p>Chế độ này có thể được kích hoạt bất cứ lúc nào.</p> < br / >"
+
+msgctxt "Languages::product_state_description.mve.full"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Đầy đủ không bị giới hạn truy cập vào tất cả các tính năng. Nhập một số giấy phép hợp lệ để kích hoạt.</p> <p>Chế độ này có thể được kích hoạt bất cứ lúc nào.</p> <br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.full"
+msgid "<strong>Full mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Chế độ đầy đủ</strong> đã được kích hoạt. Trong chế độ này, tất cả các tính năng thương mại điện tử tiên tiến có sẵn."
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "Loại"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "Khác"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "Khác"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "Đơn hàng đã đặt"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "Đơn hàng <a href=\"[order_url]\"> #[order_id]</a> đã được đặt"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "Đơn hàng đã thay đổi"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "Đơn hàng <a href=\"[order_url]\"> #[order_id]</a> đã thay đổi"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "Đơn hàng hoàn trả"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "Đơn hàng <a href=\"[order_url]\"> #[order_id]</a> đã hoàn trả"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "Rút tiền"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "Rút tiền"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "Thanh toán"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "Thanh toán"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "Giao dịch"
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "Cân bằng rút tiền"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "Giá trị giao dịch"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "Thu nhập"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "Thu nhập thực hiện chuyển tiếp"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "Số dư"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Thu nhập thực hiện chuyển tiếp"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "Yêu cầu rút tiền"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "Mới rút tiền"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "Tài khoản"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "Thu nhập và chi tiêu số liệu thống kê (tổng số thu nhập, nhà cung cấp cân bằng, người bán hàng rút tiền)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "Số dư hiện tại: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "Số dư hiện tại"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "Trạng thái phê duyệt"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "Đang chờ"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "Hoàn thành"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "Từ chối"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "Kế toán: Thanh toán đã được ban hành"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "Thanh toán mới đã được ban hành"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr "Một thanh toán mới của [amount] đã được phát hành bởi [issuer]"
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "Bạn có thể xem chi tiết tại đây"
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "Ý kiến thanh toán"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr "Kế toán: Rút tiền đã được yêu cầu"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "Lệnh rút tiền đã được yêu cầu"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "Rút tiền mới của [amount] đã được yêu cầu bởi [requester]"
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "Ý kiến rút tiền"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "Kế toán: Thanh toán đã được hoàn thành"
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "Thanh toán đã được hoàn thành"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr "Thanh toán [amount] ban hành ngày [date] đã được đánh dấu là <b>Hoàn thành</b>"
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "Kế toán: Thanh toán đã không hoàn thành"
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "Thanh toán đã không hoàn thành"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "Thanh toán [amount] ban hành ngày [date] đã được đánh dấu là <b>Không hoàn thành</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "Kế toán: Rút tiền đã được yêu cầu"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "Kế toán: Rút tiền đã được hoàn thành"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "Rút tiền [amount] yêu cầu ngày [date] đã được đánh dấu là <b>Hoàn thành</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "Kế toán: Rút tiền đã bị từ chối"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "Rút tiền đã bị từ chối"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "Rút tiền [amount] được yêu cầu ngày [date] đã được đánh dấu là <b>Bị từ chối</b>"
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "Top bán chạy nhất"
 

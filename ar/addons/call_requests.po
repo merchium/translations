@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ar\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:00-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-09 04:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
@@ -18,7 +18,7 @@ msgstr "طلبات الإتصال"
 
 msgctxt "Addons::description::call_requests"
 msgid "Adds a call-requests system"
-msgstr ""
+msgstr "اضف طلب اتصال للنظام"
 
 msgctxt "SettingsSections::call_requests::general"
 msgid "General"
@@ -26,7 +26,7 @@ msgstr "عام"
 
 msgctxt "SettingsOptions::call_requests::general"
 msgid "General"
-msgstr ""
+msgstr "العام"
 
 msgctxt "SettingsOptions::call_requests::phone"
 msgid "Rewrite phone"
@@ -34,7 +34,7 @@ msgstr "إعادة كتابة رقم الهاتف"
 
 msgctxt "SettingsOptions::call_requests::phone_prefix_length"
 msgid "Highlight first chars"
-msgstr ""
+msgstr "تسليط الضوء على أول حرف"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
@@ -46,19 +46,19 @@ msgstr "حالة طلب الشراء"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr ""
+msgstr "قناع الهاتف"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
-msgstr ""
+msgstr "اتركه فارغ للاستخدام التلقائي على حسب الدولة ، او ادخل الكود يدويا، تقدر تستخدم المسافة ، علامات الفواصل ،+،- و الارقام."
 
 msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
 msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
-msgstr ""
+msgstr "بما في ذلك الأقواس، ممنوع، إلخ. استخدم لتسليط الضوء على رمز البلد ورمز المنطقة البادئة الهاتف."
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
-msgstr ""
+msgstr "ادارة طلبات الاتصال"
 
 msgctxt "Languages::privileges.view_call_requests"
 msgid "View Call requests"
@@ -70,43 +70,43 @@ msgstr "طلبات الإتصال"
 
 msgctxt "Languages::call_requests_menu_description"
 msgid "Manage customer call requests"
-msgstr ""
+msgstr "ادارة طلبات الاتصال للعملاء"
 
 msgctxt "Languages::call_requests.request_call"
 msgid "Request call"
-msgstr ""
+msgstr "طلب اتصال"
 
 msgctxt "Languages::call_requests.buy_now_with_one_click"
 msgid "Buy now with 1-click"
-msgstr ""
+msgstr "شراء الآن بضغطة زر"
 
 msgctxt "Languages::call_requests.error_validate_call_form"
 msgid "Please enter your email or phone number"
-msgstr ""
+msgstr "الرجاء إدخال رقم الهاتف أو البريد الإلكتروني الخاص بك"
 
 msgctxt "Languages::call_requests.request_recieved"
 msgid "We have received your request! Our manager will contact you soon."
-msgstr ""
+msgstr "لقد تلقينا الطلب الخاص بك! سيتم الاتصال بك قريبا."
 
 msgctxt "Languages::call_requests.order_placed"
 msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
-msgstr ""
+msgstr "لقد تلقينا الطلب الخاص بك! الطلب ء[order_id] # تم بنجاح. سيتم الاتصال بك قريبا."
 
 msgctxt "Languages::call_requests.phone_from_settings"
 msgid "Phone from settings"
-msgstr ""
+msgstr "اعدادات الهاتف"
 
 msgctxt "Languages::call_requests.enter_phone_or_email_text"
 msgid "Please enter your phone number or email (for our manager to contact you)"
-msgstr ""
+msgstr "الرجاء إدخال رقم الهاتف أو البريد الإلكتروني (لكي يتم الاتصال بك)"
 
 msgctxt "Languages::call_requests.status.new"
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 msgctxt "Languages::call_requests.status.in_progress"
 msgid "In progress"
-msgstr ""
+msgstr "جار المعالجة"
 
 msgctxt "Languages::call_requests.status.completed"
 msgid "Completed"
@@ -129,16 +129,16 @@ msgid "Requested product"
 msgstr "المنتج المطلوب"
 
 msgctxt "Languages::call_requests.convenient_time"
-msgid "Сonvenient time"
-msgstr "الوقت المناسب"
+msgid "Convenient time"
+msgstr "وقت مناسب"
 
 msgctxt "Languages::call_requests.awaiting_call"
 msgid "Awaiting call"
-msgstr ""
+msgstr "انتظار المكالمة"
 
 msgctxt "Languages::call_requests.order_exists"
 msgid "Order exists"
-msgstr ""
+msgstr "طلب موجود"
 
 msgctxt "Languages::call_requests.person_name_and_phone"
 msgid "Name and phone"
@@ -150,41 +150,45 @@ msgstr "لايوجد اسم محدد"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr ""
+msgstr "اطلب واشتر الان بضغطة زر"
 
 msgctxt "Languages::block_call_request"
 msgid "Call request"
-msgstr ""
+msgstr "طلب اتصال"
 
 msgctxt "Languages::block_call_request_description"
 msgid "Store phone number and form for requesting a call"
-msgstr ""
+msgstr "هاتف المتجر و نموذج طلب الاتصال"
 
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
-msgstr ""
+msgstr "نموذج طلب الاتصال"
 
 msgctxt "Languages::call_requests.text_call_request"
-msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr ""
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "[customer] العميل <a href=\"[href]\"> انتظار المكالمة</a> على [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
-msgstr ""
+msgstr "وقت المكالمة ما بين [time_from] و [time_to]."
 
 msgctxt "Languages::call_requests.text_buy_with_one_click_request"
 msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
-msgstr ""
+msgstr "Сustomer [customer] <a href=\"[href]\">ينتظر المكالمة</a> على [phone_number]، فيما يتعلق بشراء منتج <a href=\"[product_href]\">[product_name]</a>."
 
 msgctxt "Languages::call_requests.error_validator_phone"
 msgid "The phone number in the <b>[field]</b> field is invalid."
-msgstr ""
+msgstr "رقم الهاتف <b>[field]</b> غير صحيح."
 
 msgctxt "Languages::email_template.call_requests_buy_with_one_click"
 msgid "Call requests: buy with one click notification"
-msgstr ""
+msgstr "طلبات الإتصال: شراء مع الإخطار بنقرة واحدة"
 
 msgctxt "Languages::email_template.call_requests_call_request"
 msgid "Call requests: call request notification"
+msgstr "طلب اتصال: اشعار بطلب اتصال"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
 msgstr ""
 

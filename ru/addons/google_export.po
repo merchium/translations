@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /addons/google_export.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 08:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-13 08:00-0500\n"
 
 msgctxt "Addons::name::google_export"
 msgid "Google export"
@@ -46,7 +46,7 @@ msgstr "Не экспортировать товары с нулевой цен�
 
 msgctxt "Languages::addons.google_export.skip_zero_prices_description"
 msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
-msgstr "Вы не должны включать товары с нулевой ценой в выгрузку, т.к. они могут не отображаться в результатах поиска."
+msgstr "Вы не должны включать товары с нулевой ценой в выгрузку, так как они могут не отображаться в результатах поиска."
 
 msgctxt "Languages::addons.google_export.notice"
 msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
@@ -54,13 +54,13 @@ msgstr "Прежде чем экспортировать товары, убед�
 
 msgctxt "Languages::addons.google_export.google_export"
 msgid "Google export"
-msgstr ""
+msgstr "Прайс-лист для Google Base"
 
 msgctxt "Languages::addons.google_export.google_name_option"
 msgid "Name option (Google export)"
-msgstr ""
+msgstr "Назвать опцию (Прайс-лист для Google Base)"
 
 msgctxt "Languages::addons.google_export.tax_notice"
 msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
-msgstr ""
+msgstr "Для США не следует добавлять налог к стоимости товара. Для Канады и Индии не следует добавлять налог на добавленную стоимость (НДС) к стоимости. В остальных случаях НДС необходимо добавлять к стоимости товара."
 

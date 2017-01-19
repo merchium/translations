@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /addons/ebay.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-11-02 08:01-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-13 08:00-0500\n"
 
 msgctxt "Addons::name::ebay"
 msgid "eBay synchronization"
@@ -424,21 +424,9 @@ msgctxt "Languages::ebay_cant_remove_template"
 msgid "You don't have permissions to remove some of the templates as they belong to another owner."
 msgstr "У вас недостаточно прав, чтобы удалять шаблоны, которые принадлежат другому владельцу."
 
-msgctxt "Languages::ebay_addon_license_invalid"
-msgid "The current licence number is invalid. The \"eBay\" add-on was disabled. To re-activate it, please check the add-on license number."
-msgstr "Текущий номер лицензии недействителен. Модуль \"Синхронизация с eBay\" отключен. Для включения модуля введите действующий номер лицензии."
-
 msgctxt "Languages::ebay_commercial_using_title"
 msgid "Activate add-on"
 msgstr "Включить модуль"
-
-msgctxt "Languages::ebay_commercial_using_text"
-msgid "You have installed a commercial add-on. To activate it, enter an add-on license number on the add-on settings page."
-msgstr "Вы установили платный модуль. Чтобы активировать его, введите номер лицензии на странице настроек модуля."
-
-msgctxt "Languages::ebay_empty_license_number"
-msgid "The add-on license number is empty."
-msgstr "Номер лицензии модуля пуст."
 
 msgctxt "Languages::ebay_templates_not_found"
 msgid "eBay templates not found"
@@ -447,10 +435,6 @@ msgstr "Шаблоны eBay не найдены"
 msgctxt "SettingsSections::ebay::general"
 msgid "General"
 msgstr "Общие настройки"
-
-msgctxt "SettingsOptions::ebay::ebay_license_number"
-msgid "The eBay add-on license number"
-msgstr "Номер лицензии модуля eBay"
 
 msgctxt "SettingsOptions::ebay::notice"
 msgid "Notice"
@@ -495,14 +479,6 @@ msgstr "Живой сайт"
 msgctxt "Languages::wait_for_shippings_cached"
 msgid "Please wait, shipping information is loaded."
 msgstr "Пожалуйста, подождите, загружается информация о доставке."
-
-msgctxt "SettingsSections::ebay::license_info"
-msgid "License info"
-msgstr "Информация о лицензии"
-
-msgctxt "Languages::ebay_license_notice"
-msgid "This add-on requires a license to work. You can purchase the eBay add-on license on the <a href=\"[ebay_license_url]\" target=\"_blank\">eBay Synchronization</a> page.<br>You can use the eBay add-on for free in the trial mode for [days]. To activate the trial mode, enter \"[trial_license]\" into the license field."
-msgstr "Этому модулю нужна лицензия. Вы можете купить лицензию для модуля \"Синхронизация с eBay\" на странице <a href=\"[ebay_license_url]\" target=\"_blank\">Синхронизация с eBay</a>.<br>Вы можете использовать модуль \"Синхронизация с eBay\" бесплатно в пробном режиме в течение [days]. Для активации пробного режима введите \"[trial_license]\" в поле для ввода номера лицензии."
 
 msgctxt "Languages::privileges.view_ebay_templates"
 msgid "View eBay templates"
@@ -692,18 +668,6 @@ msgctxt "Languages::ebay_count_product_skip"
 msgid "Products skipped:"
 msgstr "Пропущенные товары:"
 
-msgctxt "Languages::ebay_addon_trial_license_expired"
-msgid "The trial period of the eBay add-on expired. The add-on has been disabled. To continue using the eBay add-on, <a href=\"[ebay_license_url]\" target=\"_blank\">buy the license</a>."
-msgstr "Пробный период модуля \"Синхронизация с eBay\" истек. Модуль отключен. Для дальнейшего использования модуля <a href=\"[ebay_license_url]\" target=\"_blank\">приобретите лицензию</a>."
-
-msgctxt "Languages::ebay_addon_used_trial_license"
-msgid "You are currently using the eBay add-on in the trial mode. The trial period will expire within [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Buy the eBay add-on license</a> to continue using the add-on after the trial period expires."
-msgstr "Вы используете модуль \"Синхронизация с eBay\" в пробном режиме. Пробный период закончится через [days]. <a href=\"[ebay_license_url]\" target=\"_blank\">Приобретите лицензию на модуль</a>, чтобы пользоваться им после истечения пробного периода."
-
-msgctxt "Languages::ebay_addon_plural_days"
-msgid "[n] day|[n] days"
-msgstr "[n] день|[n] дня|[n] дней|[n] дня"
-
 msgctxt "Languages::ebay_product_not_exported"
 msgid "Product \"[product]\" was not exported on eBay"
 msgstr "Товар \"[product]\" не был экспортирован на eBay"
@@ -770,61 +734,61 @@ msgstr "Экспортировать/Обновить товары на eBay"
 
 msgctxt "Languages::ebay_product_identifier_upc"
 msgid "UPC"
-msgstr ""
+msgstr "UPC"
 
 msgctxt "Languages::ebay_product_identifier_ean"
 msgid "EAN"
-msgstr ""
+msgstr "Код EAN"
 
 msgctxt "Languages::ebay_product_identifier_isbn"
 msgid "ISBN"
-msgstr ""
+msgstr "ISBN"
 
 msgctxt "Languages::ebay_product_identifier_mpn"
 msgid "MPN"
-msgstr ""
+msgstr "MPN"
 
 msgctxt "Languages::ebay_product_identifier_brand"
 msgid "Brand"
-msgstr ""
+msgstr "Бренд"
 
 msgctxt "Languages::ebay_product_identifiers"
 msgid "Product identifiers"
-msgstr ""
+msgstr "Товарные идентификаторы"
 
 msgctxt "Languages::ebay_product"
 msgid "Product"
-msgstr ""
+msgstr "Товар"
 
 msgctxt "Languages::ebay_product_variation"
 msgid "Option combination"
-msgstr ""
+msgstr "Комбинация опций"
 
 msgctxt "Languages::ebay_none"
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 msgctxt "Languages::ebay_does_not_apply"
 msgid "Does not apply"
-msgstr ""
+msgstr "Не применяется"
 
 msgctxt "Languages::ebay_product_code"
 msgid "Product code"
-msgstr ""
+msgstr "Код товара"
 
 msgctxt "Languages::ebay_product_feature"
 msgid "Product feature"
-msgstr ""
+msgstr "Характеристика товара"
 
 msgctxt "Languages::ebay_combination_code"
 msgid "Combination code"
-msgstr ""
+msgstr "Код комбинации"
 
 msgctxt "Languages::ebay_synchronization_region_details"
 msgid "Synchronizing eBay region details"
-msgstr ""
+msgstr "Детали синхронизации регионов eBay"
 
 msgctxt "Languages::ebay_feature_group_product_identifiers"
 msgid "eBay product identifiers"
-msgstr ""
+msgstr "Товарные идентификаторы eBay"
 

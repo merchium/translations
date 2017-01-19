@@ -1,28 +1,28 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
-"Language-Team: Portuguese\n"
-"Language: pt_PT\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: cs-cart-latest\n"
-"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /addons/anti_fraud.po\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-03-17 08:59-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-05 13:00-0500\n"
 
 msgctxt "Addons::name::anti_fraud"
 msgid "Anti fraud"
-msgstr "Anti-fraude"
+msgstr "Antifraude"
 
 msgctxt "Addons::description::anti_fraud"
 msgid "Adds configurable security order verification using the Maxmind service to prevent fraud"
-msgstr "Adiciona verificação de encomenda de segurança configurável usando o serviço de Maxmind para prevenir fraudes"
+msgstr "Adiciona verificação de segurança do pedido configurável usando o serviço da Maxmind para prevenir fraudes"
 
 msgctxt "Languages::af_big_order_total"
 msgid "Order total exceeds the allowed maximum"
-msgstr "Ordem total excede o máximo permitido"
+msgstr "Total do pedido excede o máximo permitido"
 
 msgctxt "Languages::af_country_doesnt_match"
 msgid "The country does not match the IP address"
@@ -30,11 +30,11 @@ msgstr "O país não coincide com o endereço IP"
 
 msgctxt "Languages::af_has_failed_orders"
 msgid "Customer has FAILED orders"
-msgstr "O cliente tem encomedas com falhas"
+msgstr "O cliente tem pedidos com FALHA"
 
 msgctxt "Languages::af_has_successfull_orders"
 msgid "Customer has SUCCESSFUL orders"
-msgstr "O cliente tem encomendas com sucesso"
+msgstr "O cliente tem pedidos com SUCESSO"
 
 msgctxt "Languages::af_high_risk_country"
 msgid "High risk country"
@@ -58,7 +58,7 @@ msgstr "Fator de risco é admissível"
 
 msgctxt "Languages::antifraud_failed_order"
 msgid "Your order was placed in the store. It is undergoing an additional check now. We will contact you as soon as the administrator finishes it"
-msgstr "Seu pedido foi feito na loja. Ele está passando por uma verificação adicional agora. Entraremos em contato assim que o terminarmos o processo"
+msgstr "Seu pedido foi feito na loja. Ele está passando por uma verificação adicional agora. Entraremos em contato assim que o administrador verificar"
 
 msgctxt "Languages::risk_factor"
 msgid "Risk factor"
@@ -66,7 +66,7 @@ msgstr "Fator de risco"
 
 msgctxt "Languages::not_available"
 msgid "n/a"
-msgstr "não disponível"
+msgstr "n/d"
 
 msgctxt "Languages::decision"
 msgid "Decision"
@@ -74,11 +74,11 @@ msgstr "Decisão"
 
 msgctxt "Languages::anti_fraud_order_not_approved"
 msgid "Order has not been approved because risk factor exceeds Maximum risk factor"
-msgstr "A encomenda não foi aprovada porque o fator de risco excede o máximo fator de risco"
+msgstr "Pedido não foi aprovado porque o fator de risco excede o  fator de risco máximo"
 
 msgctxt "Languages::anti_fraud_order_approved"
 msgid "Order has been approved"
-msgstr "A encomnda foi aprovada"
+msgstr "Pedido foi aprovado"
 
 msgctxt "Languages::fraud_risk"
 msgid "Fraud risk"
@@ -102,7 +102,7 @@ msgstr "Distância segura (km)"
 
 msgctxt "SettingsOptions::anti_fraud::anti_fraud_max_order_total"
 msgid "Max order total"
-msgstr "Total máximo da encomenda"
+msgstr "Max do total do pedido"
 
 msgctxt "SettingsOptions::anti_fraud::anti_fraud_risk_factor"
 msgid "Maximum risk factor (1..100)"
@@ -110,5 +110,5 @@ msgstr "Fator de risco máximo (1..100)"
 
 msgctxt "SettingsOptions::anti_fraud::antifraud_order_status"
 msgid "Order status"
-msgstr "Estado da encomenda"
+msgstr "Status do pedido"
 

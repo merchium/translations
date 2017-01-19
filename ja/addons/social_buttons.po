@@ -9,8 +9,8 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /addons/social_buttons.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:05-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2016-12-27 08:03-0500\n"
 
 msgctxt "Addons::name::social_buttons"
 msgid "Social buttons"
@@ -22,7 +22,7 @@ msgstr "TwitterやFacebookなどへの商品・ページ情報のシェアを可
 
 msgctxt "Languages::use_for_email_share"
 msgid "Send to friend form"
-msgstr ""
+msgstr "「お友達に知らせる」フォーム"
 
 msgctxt "Languages::facebook"
 msgid "Facebook"
@@ -96,6 +96,10 @@ msgctxt "Languages::sb_share"
 msgid "Share"
 msgstr "シェア"
 
+msgctxt "SettingsSections::social_buttons::yandex"
+msgid "Yandex"
+msgstr ""
+
 msgctxt "SettingsSections::social_buttons::twitter"
 msgid "Twitter"
 msgstr "Twitter"
@@ -112,9 +116,37 @@ msgctxt "SettingsSections::social_buttons::email"
 msgid "E-mail"
 msgstr "E-Mailによる通知"
 
+msgctxt "SettingsOptions::social_buttons::yandex_header"
+msgid "Yandex settings"
+msgstr ""
+
 msgctxt "SettingsOptions::social_buttons::twitter_header"
 msgid "Twitter settings"
 msgstr "Twitterの設定"
+
+msgctxt "SettingsOptions::social_buttons::yandex_enable"
+msgid "Show Yandex.Share block"
+msgstr ""
+
+msgctxt "SettingsOptions::social_buttons::yandex_share_code"
+msgid "Yandex.Share code"
+msgstr ""
+
+msgctxt "SettingsOptions::social_buttons::yandex_display_on"
+msgid "Display on"
+msgstr ""
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
+msgid "Product details pages"
+msgstr ""
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
+msgid "Pages"
+msgstr ""
+
+msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
+msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr ""
 
 msgctxt "SettingsOptions::social_buttons::twitter_enable"
 msgid "Show Twitter button"
@@ -146,7 +178,7 @@ msgstr "Facebookへの投稿を許可する"
 
 msgctxt "SettingsOptions::social_buttons::facebook_app_id"
 msgid "Facebook app ID"
-msgstr "アプリID/APIキー"
+msgstr "Facebook App ID"
 
 msgctxt "SettingsOptions::social_buttons::facebook_href"
 msgid "The URL of the page to like"
@@ -238,7 +270,7 @@ msgstr "ツイート時にメッセージに自動挿入されるショップの
 
 msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
 msgid "Specify any Facebook app ID, otherwise the button will not be shown"
-msgstr "FacebookのアプリID/APIキーを登録してください（未登録の場合はボタンは表示されません）"
+msgstr "FacebookのApp IDを登録してください（未登録の場合はボタンは表示されません）"
 
 msgctxt "SettingsTooltips::social_buttons::facebook_href"
 msgid "Leave empty to use an actual page URL"
@@ -702,7 +734,7 @@ msgstr "Google+ボタンを表示"
 
 msgctxt "SettingsOptions::social_buttons::gplus_href"
 msgid "Google plus href"
-msgstr "Google plus href"
+msgstr "シェアの対象となるURL"
 
 msgctxt "SettingsOptions::social_buttons::gplus_size"
 msgid "Size"
@@ -718,19 +750,19 @@ msgstr "幅"
 
 msgctxt "SettingsOptions::social_buttons::gplus_align"
 msgid "Align"
-msgstr "Align"
+msgstr "ボタンの表示位置"
 
 msgctxt "SettingsOptions::social_buttons::gplus_expandto"
 msgid "Expand To"
-msgstr "Expand To"
+msgstr "ポップアップの表示位置"
 
 msgctxt "SettingsOptions::social_buttons::gplus_recommendations"
 msgid "Recomendations"
-msgstr "Recomendations"
+msgstr "おすすめ表示"
 
 msgctxt "SettingsOptions::social_buttons::gplus_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "表示位置"
 
 msgctxt "SettingsVariants::social_buttons::gplus_display_on::products"
 msgid "Product details pages"
@@ -802,7 +834,7 @@ msgstr "いいえ"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_display_on"
 msgid "Display on"
-msgstr "Display on"
+msgstr "表示位置"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_display_on::products"
 msgid "Product details pages"
@@ -850,11 +882,11 @@ msgstr "丸形"
 
 msgctxt "SettingsOptions::social_buttons::pinterest_color"
 msgid "Color"
-msgstr "Color"
+msgstr "カラー"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::gray"
 msgid "Gray"
-msgstr "カラー"
+msgstr "グレー"
 
 msgctxt "SettingsVariants::social_buttons::pinterest_color::red"
 msgid "Red"
@@ -866,5 +898,5 @@ msgstr "ホワイト"
 
 msgctxt "Languages::email_template.social_buttons_mail"
 msgid "Email share"
-msgstr ""
+msgstr "Eメールで友達に知らせる"
 

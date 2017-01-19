@@ -9,16 +9,16 @@ msgstr ""
 "X-Crowdin-Project: cs-cart-latest\n"
 "X-Crowdin-Language: no\n"
 "X-Crowdin-File: /addons/call_requests.po\n"
-"Last-Translator: cscart <zeke@cs-cart.com>\n"
-"PO-Revision-Date: 2016-10-04 08:07-0400\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-01-06 12:00-0500\n"
 
 msgctxt "Addons::name::call_requests"
 msgid "Call requests"
-msgstr "Skal vi ringe deg"
+msgstr "Anrops forespørsler"
 
 msgctxt "Addons::description::call_requests"
 msgid "Adds a call-requests system"
-msgstr "Legger til et telefonsamtale forespørsel system"
+msgstr "Legger til et anrops forespørsler system"
 
 msgctxt "SettingsSections::call_requests::general"
 msgid "General"
@@ -38,7 +38,7 @@ msgstr "Uthev første tegn"
 
 msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
 msgid "Enable the \"Buy now with one click\" option"
-msgstr "Aktivere valget \"Kjøp nå med ett klikk\""
+msgstr "Aktiver valget \"Kjøp nå med ett klikk\""
 
 msgctxt "SettingsOptions::call_requests::order_status"
 msgid "Order status"
@@ -46,7 +46,7 @@ msgstr "Ordrestatus"
 
 msgctxt "SettingsOptions::call_requests::phone_mask"
 msgid "Phone mask"
-msgstr "Phone mask"
+msgstr "Telefon maske"
 
 msgctxt "SettingsTooltips::call_requests::phone_mask"
 msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
@@ -58,11 +58,11 @@ msgstr "Inkludert parentes, mellomrom, etc. Brukes for å utheve landskode, omr�
 
 msgctxt "Languages::privileges.manage_call_requests"
 msgid "Manage Call requests"
-msgstr "Administrer anrop"
+msgstr "Administrer anrops forespørsler"
 
 msgctxt "Languages::privileges.view_call_requests"
 msgid "View Call requests"
-msgstr "Vis anrop"
+msgstr "Vis anrops forespørsler"
 
 msgctxt "Languages::call_requests"
 msgid "Call requests"
@@ -129,8 +129,8 @@ msgid "Requested product"
 msgstr "Forespurt produkt"
 
 msgctxt "Languages::call_requests.convenient_time"
-msgid "Сonvenient time"
-msgstr "Passende tid"
+msgid "Convenient time"
+msgstr "Passende tidspunkt"
 
 msgctxt "Languages::call_requests.awaiting_call"
 msgid "Awaiting call"
@@ -150,11 +150,11 @@ msgstr "Ingen navn er oppgitt"
 
 msgctxt "Languages::call_requests.use_for_call_requests"
 msgid "Call request and buy now with one click form"
-msgstr "Skal vi ringe deg og Kjøp nå med ett klikk skjema"
+msgstr "Anrops forespørsler og kjøp nå med 1-klikk skjema"
 
 msgctxt "Languages::block_call_request"
 msgid "Call request"
-msgstr "Anrops forespørsler"
+msgstr "Anrops forespørsel"
 
 msgctxt "Languages::block_call_request_description"
 msgid "Store phone number and form for requesting a call"
@@ -162,11 +162,11 @@ msgstr "Butikkens telefonnummer og skjema for anmodning om telefonsamtale"
 
 msgctxt "Languages::tmpl_call_request"
 msgid "Call request form"
-msgstr "Skal vi ringe deg skjema"
+msgstr "Skjema for anrops forespørsler"
 
 msgctxt "Languages::call_requests.text_call_request"
-msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
-msgstr "Kunden [customer] venter <a href=\"[href]\">på at du tar kontakt</a> på nummer: [phone_number]."
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Kunden [customer] <a href=\"[href]\">venter telefon</a> på [phone_number]."
 
 msgctxt "Languages::call_requests.text_call_request_call_time"
 msgid "The convenient call time is between [time_from] and [time_to]."
@@ -182,9 +182,13 @@ msgstr "Telefonnummeret i <b>[field]</b> feltet er ugyldig."
 
 msgctxt "Languages::email_template.call_requests_buy_with_one_click"
 msgid "Call requests: buy with one click notification"
-msgstr ""
+msgstr "Anrops forespørsler: kjøp med ett klikk varsling"
 
 msgctxt "Languages::email_template.call_requests_call_request"
 msgid "Call requests: call request notification"
-msgstr ""
+msgstr "Anrops forespørsler: kontakt forespørsel via telefon"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Man. - Fre. 09-18"
 
