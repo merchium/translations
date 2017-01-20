@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: cs\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-11 02:01-0500\n"
+"PO-Revision-Date: 2017-01-20 04:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -554,7 +554,7 @@ msgstr "Podrobné hledání"
 
 msgctxt "Languages::advanced_search_options"
 msgid "Advanced search options"
-msgstr "Nastavení podrobného hledání"
+msgstr "Nastavení možností vyhledávání"
 
 msgctxt "Languages::after_full_payment"
 msgid "After full payment"
@@ -1874,7 +1874,7 @@ msgstr "Historie"
 
 msgctxt "Languages::clean_logs"
 msgid "Clear logs"
-msgstr "Vymazat protokoly"
+msgstr "Vymazat logy"
 
 msgctxt "Languages::clean_up_all_locations_on_import"
 msgid "Clean up locations before import"
@@ -5166,7 +5166,7 @@ msgstr "Přihlášen v čase"
 
 msgctxt "Languages::logging"
 msgid "Logging"
-msgstr "Protokolování"
+msgstr "Logování"
 
 msgctxt "Languages::login"
 msgid "Login"
@@ -5186,7 +5186,7 @@ msgstr "Adersa (URL) umstění loga"
 
 msgctxt "Languages::logs"
 msgid "Logs"
-msgstr "Protokoly"
+msgstr "Záznam aktivit"
 
 msgctxt "Languages::log_action_backup"
 msgid "backup"
@@ -5814,7 +5814,7 @@ msgstr "Nový zákazník"
 
 msgctxt "Languages::new_feature"
 msgid "New feature"
-msgstr "Nová funkce"
+msgstr "Nová vlastnost"
 
 msgctxt "Languages::new_file"
 msgid "New file"
@@ -5930,7 +5930,7 @@ msgstr ""
 
 msgctxt "Languages::create_detailed_shipment"
 msgid "Create detailed shipment"
-msgstr ""
+msgstr "Založit zásilku"
 
 msgctxt "Languages::new_shipment_was_created"
 msgid "New shipment was created"
@@ -7042,7 +7042,7 @@ msgstr "Zálohování/Obnovení"
 
 msgctxt "Languages::privileges.delete_logs"
 msgid "Delete logs"
-msgstr "Odstranit protokoly"
+msgstr "Smazat záznam aktivit"
 
 msgctxt "Languages::privileges.delete_orders"
 msgid "Delete orders"
@@ -7178,7 +7178,7 @@ msgstr "Zobrazit umístění"
 
 msgctxt "Languages::privileges.view_logs"
 msgid "View logs"
-msgstr "Zobrazit protokoly"
+msgstr "Zobrazit záznam aktivit"
 
 msgctxt "Languages::privileges.view_orders"
 msgid "View orders"
@@ -7394,7 +7394,7 @@ msgstr "Kód zboží"
 
 msgctxt "Languages::product_columns"
 msgid "Product columns"
-msgstr "Sloupce zboží"
+msgstr "Počet sloupců zboží"
 
 msgctxt "Languages::product_combinations"
 msgid "Product combinations"
@@ -7414,7 +7414,7 @@ msgstr "Stránka s podrobnostmi o zboží"
 
 msgctxt "Languages::product_details_view"
 msgid "Product details view"
-msgstr "Zobrazení podrobností o zboží"
+msgstr "Šablona"
 
 msgctxt "Languages::product_feature_cannot_assigned"
 msgid "The feature \"[feature_name]\" cannot be assigned to the product \"[product_name]\""
@@ -8022,7 +8022,7 @@ msgstr "Zpráva"
 
 msgctxt "Languages::reports"
 msgid "Reports"
-msgstr "Zprávy"
+msgstr "Reporty"
 
 msgctxt "Languages::reports_interval_1"
 msgid "Total"
@@ -8614,7 +8614,7 @@ msgstr "SEO / Meta data"
 
 msgctxt "Languages::sequential"
 msgid "Sequential"
-msgstr "Sekvenční"
+msgstr "Postupné"
 
 msgctxt "Languages::server"
 msgid "Server"
@@ -9414,7 +9414,7 @@ msgstr "Obraťte se na technickou podporu"
 
 msgctxt "Languages::simultaneous"
 msgid "Simultaneous"
-msgstr "Simultánní"
+msgstr "Současné"
 
 msgctxt "Languages::single"
 msgid "Single"
@@ -9662,7 +9662,7 @@ msgstr "Neaplikovat ostatní akce"
 
 msgctxt "Languages::storage"
 msgid "Storage"
-msgstr "Uložení"
+msgstr "Úložiště"
 
 msgctxt "Languages::store"
 msgid "Store"
@@ -11763,7 +11763,7 @@ msgstr "Neuložili jste změny. Opravdu chcete opustit editor témat?"
 
 msgctxt "Languages::theme_editor.text_reset_changes"
 msgid "All changes after last save will be reset"
-msgstr "Veškeré změny po posledním uložení budou resetovány"
+msgstr "Veškeré změny od posledního uložení budou resetovány"
 
 msgctxt "Languages::theme_editor.theme"
 msgid "Theme"
@@ -12883,7 +12883,7 @@ msgstr "Název obchodu"
 
 msgctxt "Languages::vendor_pages"
 msgid "Store pages"
-msgstr "Uložení stránek"
+msgstr "Stránky"
 
 msgctxt "Languages::version"
 msgid "Version"
@@ -13027,7 +13027,7 @@ msgstr "Zabezpečená kontrola spojení selhalo. Ujistěte se, že certifikát S
 
 msgctxt "Languages::warning_insecure_admin_script"
 msgid "It is strongly recommended that you rename the default <b>admin.php</b> script (check the <a href=\"[href]\" target=\"_blank\">Knowledge base</a>) for security reasons."
-msgstr "Důrazně doporučujeme přepsat výchozíí soubor admin.php ve scriptu (tuto operaci ověřte ve znalostní bázi)"
+msgstr "Důrazně doporučujeme přejmenovat výchozíí soubor admin.php."
 
 msgctxt "Languages::warning_insecure_password_email"
 msgid "The password must be different from the E-mail! <p><a href=\"[link]\" class=\"underlined\"><b>Change password &#155;&#155;</b></a></p>"
@@ -13711,11 +13711,11 @@ msgstr "Ověření obrázkem"
 
 msgctxt "SettingsSections::Logging"
 msgid "Logging"
-msgstr "Protokolování"
+msgstr "Logování"
 
 msgctxt "SettingsSections::Reports"
 msgid "Reports"
-msgstr "Zprávy"
+msgstr "Reporty"
 
 msgctxt "SettingsSections::Security"
 msgid "Security settings"
@@ -13835,7 +13835,7 @@ msgstr "Město"
 
 msgctxt "SettingsOptions::admin_orders_per_page"
 msgid "Orders per page"
-msgstr "Objednávky na stránce"
+msgstr "Objednávek na stránce"
 
 msgctxt "SettingsOptions::day"
 msgid "Day"
@@ -14007,7 +14007,7 @@ msgstr "Adresář"
 
 msgctxt "SettingsOptions::admin_elements_per_page"
 msgid "Elements per page"
-msgstr "Prvky na stránku"
+msgstr "Položek na stránku"
 
 msgctxt "SettingsOptions::company_phone"
 msgid "Company phone"
@@ -14027,7 +14027,7 @@ msgstr "Typ řetězce"
 
 msgctxt "SettingsOptions::header_7003"
 msgid "Default location"
-msgstr "Výchozí umístění"
+msgstr "Výchozí adresa"
 
 msgctxt "SettingsOptions::char_shadow"
 msgid "Character shadows"
@@ -14035,7 +14035,7 @@ msgstr "Stín písma"
 
 msgctxt "SettingsOptions::default_address"
 msgid "Default address"
-msgstr "Výchozí ulice a čp"
+msgstr "Ulice a čp"
 
 msgctxt "SettingsOptions::company_phone_2"
 msgid "Company phone 2"
@@ -14059,7 +14059,7 @@ msgstr "Nastavení odesílání pošty"
 
 msgctxt "SettingsOptions::default_zipcode"
 msgid "Default zipcode"
-msgstr "Standardní PSČ"
+msgstr "PSČ"
 
 msgctxt "SettingsOptions::company_fax"
 msgid "Company fax"
@@ -14091,7 +14091,7 @@ msgstr "Nepoužívejte ověřování po první platné odpovědi"
 
 msgctxt "SettingsOptions::default_city"
 msgid "Default city"
-msgstr "Výchozí město"
+msgstr "Město"
 
 msgctxt "SettingsOptions::company_website"
 msgid "Company website"
@@ -14099,7 +14099,7 @@ msgstr "Webové stránky společnosti"
 
 msgctxt "SettingsOptions::orders_per_page"
 msgid "Orders per page"
-msgstr "Objednávky na stránce"
+msgstr "Objednávek na stránce"
 
 msgctxt "SettingsOptions::jpeg_quality"
 msgid "JPEG format quality (0-100)"
@@ -14111,7 +14111,7 @@ msgstr "Rok zahájení provozu obchodu"
 
 msgctxt "SettingsOptions::default_country"
 msgid "Default country"
-msgstr "Výchozí země"
+msgstr "Země"
 
 msgctxt "SettingsOptions::products_per_page"
 msgid "Products per page"
@@ -14131,7 +14131,7 @@ msgstr "Šířka náhledu u seznamu produktů (kategorie, hledání, atd.)"
 
 msgctxt "SettingsOptions::default_state"
 msgid "Default state"
-msgstr "Výchozí stav"
+msgstr "Stát"
 
 msgctxt "SettingsOptions::company_site_administrator"
 msgid "Site administrator e-mail address"
@@ -14147,7 +14147,7 @@ msgstr "E-mailová adresa pro Objednávky"
 
 msgctxt "SettingsOptions::default_phone"
 msgid "Default phone"
-msgstr "Výchozí telefon"
+msgstr "Telefon"
 
 msgctxt "SettingsOptions::product_details_thumbnail_width"
 msgid "Product details page thumbnail width"
@@ -14207,7 +14207,7 @@ msgstr "Hranice pro upozornění o nízkém stavu zásob"
 
 msgctxt "SettingsOptions::columns_in_products_list"
 msgid "Number of columns in the product list"
-msgstr "Počet sloupců v seznamu zboží"
+msgstr "Počet sloupců v kategorii"
 
 msgctxt "SettingsOptions::show_products_from_subcategories"
 msgid "Show products from subcategories of the selected category"
@@ -14239,15 +14239,15 @@ msgstr "Šířka náhledu seznamu kategorií"
 
 msgctxt "SettingsOptions::taxes_using_default_address"
 msgid "Estimate taxes using default address on cart/checkout pages"
-msgstr "Odhad daní pomocí výchozí adresy na stránkách košíku/procesu objednávky"
+msgstr "Zobrazit výpočet DPH v sekci košíku"
 
 msgctxt "SettingsOptions::show_prices_taxed_clean"
 msgid "Display prices with taxes on category/product pages if the method of calculating taxes is based on a unit's price"
-msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách kategorií/zboží ceny s daní"
+msgstr "Zobrazit v kategori a na detailu produktu ceny s daní <br>(pouze pokud je metoda výpočtu daně založena na Ceně položky)"
 
 msgctxt "SettingsOptions::cart_prices_w_taxes"
 msgid "Display prices with taxes on cart/checkout pages if the method of calculating taxes is based on a unit's price"
-msgstr "Pokud se daň vypočítává z ceny jednotky, zobrazit na stránkách košíku/procesu objednávky ceny s daní"
+msgstr "Zobrazit v nákupním procesu ceny s daní <br>(pouze pokud je metoda výpočtu daně založena na Ceně položky)"
 
 msgctxt "SettingsOptions::in_stock_field"
 msgid "Show number of available products"
@@ -14259,7 +14259,7 @@ msgstr "Zobrazit náhledy jako galerii"
 
 msgctxt "SettingsOptions::quantity_changer"
 msgid "Use 'Value changer' for the Quantity field"
-msgstr "Použijte 'Value changer' pro Množství pole"
+msgstr "Použijte 'Value changer' pro pole Množství"
 
 msgctxt "SettingsOptions::top_pagination"
 msgid "Display the 'Pagination section' on the top of the listed object"
@@ -14283,7 +14283,7 @@ msgstr "Zobrazit detaily zboží v záložkách"
 
 msgctxt "SettingsOptions::display_track_orders"
 msgid "Display track my orders section"
-msgstr "Zobrazit sekci Sledovat mé objednávky"
+msgstr "Zobrazit \"Sledovat mé objednávky\" v nabídce Můj účet"
 
 msgctxt "SettingsOptions::header_10070"
 msgid "Products list layouts settings"
@@ -14291,11 +14291,11 @@ msgstr "Nastavení rozložení seznamu zboží"
 
 msgctxt "SettingsOptions::default_products_view_templates"
 msgid "Available product list views"
-msgstr "Dostupná zobrazení seznamu zboží"
+msgstr "Zobrazení zboží v kategorii"
 
 msgctxt "SettingsOptions::default_products_view"
 msgid "Product list default view"
-msgstr "Výchozí zobrazení seznamu zboží"
+msgstr "Výchozí zobrazení zboží v kategorii"
 
 msgctxt "SettingsOptions::save_selected_view"
 msgid "Use the selected view for current category or search page only"
@@ -14303,11 +14303,11 @@ msgstr "Použít vybrané zobrazení pouze pro aktuální kategorii nebo stránk
 
 msgctxt "SettingsOptions::available_product_list_sortings"
 msgid "Available product list sortings"
-msgstr "Dostupná řazení seznamu zboží"
+msgstr "Řazení zboží v kategorii"
 
 msgctxt "SettingsOptions::default_products_sorting"
 msgid "Product list default sorting"
-msgstr "Výchozí řazení seznamu zboží"
+msgstr "Výchozí řazení zboží v kategorii"
 
 msgctxt "SettingsOptions::enable_quick_view"
 msgid "Enable quick view"
@@ -14839,7 +14839,7 @@ msgstr "(GMT-12: 00) Mezinárodní Datumové hranice - západ"
 
 msgctxt "SettingsVariants::tax_calculation::unit_price"
 msgid "Unit price"
-msgstr "Jednotka ceny"
+msgstr "Ceně položky"
 
 msgctxt "SettingsVariants::date_format::%d %b %Y"
 msgid "29 Sep 2005 (day month year)"
@@ -14895,7 +14895,7 @@ msgstr "(GMT-11:00) Midwayské ostrovy, Samoa"
 
 msgctxt "SettingsVariants::tax_calculation::subtotal"
 msgid "Subtotal"
-msgstr "Mezisoučet"
+msgstr "Součtu objednávky"
 
 msgctxt "SettingsVariants::default_products_sorting::null"
 msgid "None"
@@ -15936,7 +15936,7 @@ msgstr "Doplněk \"[name]\" byl úspěšně aktualizován"
 
 msgctxt "Languages::change_addons_initialization_description"
 msgid "To determine if a certain problem is caused by an add-on, you can disable third-party add-ons or all add-ons. Re-enable them later with one click."
-msgstr "Chcete-li zjistit, pokud určitý problém je způsoben doplňkem, můžete zakázat doplňky aplikace třetích stran nebo všechny doplňky. Povolte je znovu později jedním kliknutím."
+msgstr "Chcete-li zjistit, zda-li je určitý problém způsoben doplňkem, můžete zakázat doplňky třetích stran nebo všechny doplňky. Doplňky lze poté znovu aktivovat jedním kliknutím."
 
 msgctxt "Languages::tools_addons_disable_all"
 msgid "Disable all add-ons"
@@ -15944,7 +15944,7 @@ msgstr "Zakázat všechny doplňky"
 
 msgctxt "Languages::tools_addons_disable_third_party"
 msgid "Disable third-party add-ons"
-msgstr "Zakázat doplňky aplikace třetích stran"
+msgstr "Zakázat doplňky třetích stran"
 
 msgctxt "Languages::tools_re_enable_add_ons"
 msgid "Re-enable add-ons"
@@ -15976,7 +15976,7 @@ msgstr "Zdroj"
 
 msgctxt "Languages::addon_built_in"
 msgid "Built-in"
-msgstr "Vestavěný"
+msgstr "Originál"
 
 msgctxt "Languages::addon_third_party"
 msgid "Third-party"
@@ -16852,7 +16852,7 @@ msgstr ""
 
 msgctxt "Languages::edit_and_send_invoice"
 msgid "Tweak and send invoice"
-msgstr ""
+msgstr "Upravit a poslat fakturu"
 
 msgctxt "Languages::error_profile_field_name_exists"
 msgid "A profile field with this name already exists. Please choose another name."
@@ -16868,7 +16868,7 @@ msgstr ""
 
 msgctxt "SettingsOptions::monitor_core_changes"
 msgid "Monitor changes in core files"
-msgstr ""
+msgstr "Hlídat změny v systémových souborech"
 
 msgctxt "Languages::core_files_have_been_modified"
 msgid "Some of your <a href=\"[changes_url]\">core files</a>  were changed manually. That can lead to various problems, especially when upgrading to a new version of [product]. To learn more about why we advise against changing the core files, please read this <a href=\"[docs_url]\" target=\"_blank\" >article</a>.<br><br>[product] automatically checks for changes in core files every time you log in. To disable this check, go to <a href=\"[settings_url]\">Settings → General</a>  and untick the Monitor changes in core files checkbox."
