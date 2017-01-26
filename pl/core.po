@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-11 02:05-0500\n"
+"PO-Revision-Date: 2017-01-25 07:56-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3601,8 +3601,8 @@ msgid "You are not allowed to login to this area."
 msgstr "Nie jesteś upoważniony by zalogować się tutaj."
 
 msgctxt "Languages::error_confirmation_code_invalid"
-msgid "Incorrect or missing confirmation code."
-msgstr "Niepoprawny lub niewpisany kod z obrazka."
+msgid "Sorry, the anti-bot validation has failed. Please try again."
+msgstr ""
 
 msgctxt "Languages::error_curl_not_exists"
 msgid "<b>Warning!</b><br />Your server <b>does not</b> support the PHP cURL extension. <b>[method]</b> will not be operational. Please contact your hosting provider."
@@ -17100,7 +17100,7 @@ msgstr "Proces uaktualniania Twojego sklepu nie powiódł się"
 
 msgctxt "Languages::upgrade_center.apply_migration_failed"
 msgid "<p>Please restore the pre-upgrade backup manually or via a link sent to your email address, then contact our technical support.</p><br><p>Tech details: Couldn't complete migration [migration]. Reason: [error].</p><p>Completed migrations: [processed_count] out of [total_count].</p>"
-msgstr ""
+msgstr "<p>Proszę przywrócić kopię zapasową wykonaną przed uaktualnieniem, ręcznie lub za pośrednictwem linku wysłanego na adres e-mail, a następnie skontaktuj się z naszym działem pomocy technicznej.</p> <br><p>Techniczne szczegóły: nie można wykonać migracji [migration]. Powód: [error].</p> <p>Zakończone migracje: [processed_count] z [total_count].</p>"
 
 msgctxt "Languages::profile_deactivated"
 msgid "Account deactivated"
@@ -17132,15 +17132,15 @@ msgstr "Nie można włączyć dodatku, bo zależy od następujących dodatków: 
 
 msgctxt "Languages::current_setting_value"
 msgid "Current value"
-msgstr ""
+msgstr "Bieżąca wartość"
 
 msgctxt "Languages::new_setting_value"
 msgid "New value"
-msgstr ""
+msgstr "Nowa wartość"
 
 msgctxt "Languages::overwrite_selected_settings"
 msgid "Overwrite selected settings"
-msgstr ""
+msgstr "Nadpisz wybrane ustawienia"
 
 msgctxt "Languages::payment_method_not_found"
 msgid "Payment method not found. It could've been disabled, or a technical problem occurred. Please choose a payment method and try again."
@@ -17148,45 +17148,53 @@ msgstr "Nie można odnaleźć metody płatności. Może jest wyłączona lub wys
 
 msgctxt "Languages::shippings.ups.package_type.01"
 msgid "UPS Letter"
-msgstr ""
+msgstr "UPS list"
 
 msgctxt "Languages::shippings.ups.package_type.02"
 msgid "Package"
-msgstr ""
+msgstr "Paczka"
 
 msgctxt "Languages::shippings.ups.package_type.03"
 msgid "Tube"
-msgstr ""
+msgstr "Rura"
 
 msgctxt "Languages::shippings.ups.package_type.04"
 msgid "Pak"
-msgstr ""
+msgstr "Pak"
 
 msgctxt "Languages::shippings.ups.package_type.21"
 msgid "Express Box"
-msgstr ""
+msgstr "Express"
 
 msgctxt "Languages::shippings.ups.package_type.24"
 msgid "25KG Box"
-msgstr ""
+msgstr "Pudło 25KG"
 
 msgctxt "Languages::shippings.ups.package_type.25"
 msgid "10KG Box"
-msgstr ""
+msgstr "Pudło 10KG"
 
 msgctxt "Languages::shippings.ups.package_type.30"
 msgid "Pallet"
-msgstr ""
+msgstr "Paleta"
 
 msgctxt "Languages::shippings.ups.package_type.2a"
 msgid "Small Express Box"
-msgstr ""
+msgstr "Małe pudełko ekspresowe"
 
 msgctxt "Languages::shippings.ups.package_type.2b"
 msgid "Medium Express Box"
-msgstr ""
+msgstr "Średnie pudełko ekspresowe"
 
 msgctxt "Languages::shippings.ups.package_type.2c"
 msgid "Large Express Box"
+msgstr "Duże pudełko ekspresowe"
+
+msgctxt "Languages::recaptcha_upgrade_notification_title"
+msgid "Switch to Google reCAPTCHA to protect against bots"
+msgstr ""
+
+msgctxt "Languages::recaptcha_upgrade_notification_text"
+msgid "[product] now comes with the <b>Google reCAPTCHA</b> add-on to improve anti-bot validation. The add-on has been installed and activated during the upgrade, but the old CAPTCHA will still be used until you configure the add-on. We recommend switching to Google reCAPTCHA as soon as possible. To do that: <ol><li>Go to <b>Add-ons → Manage add-ons</b>.</li><li>Find and click on <b>Google reCAPTCHA</b> in the list of add-ons.</li><li>A pop-up window will open. Enter <b>Site key</b> and <b>Secret token</b>, then save your changes. The instructions on how to get the key and token are available <a href='https://developers.google.com/recaptcha/docs/start'>here</a>.</li></ol> <b>The Google reCAPTCHA add-on supports only the Responsive theme and its <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>child themes</a>.</b> Please contact the developer of your theme for more information before you switch to Google reCAPTCHA."
 msgstr ""
 

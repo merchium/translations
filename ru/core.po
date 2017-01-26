@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-13 08:00-0500\n"
+"PO-Revision-Date: 2017-01-25 07:56-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3601,8 +3601,8 @@ msgid "You are not allowed to login to this area."
 msgstr "Доступ запрещен!"
 
 msgctxt "Languages::error_confirmation_code_invalid"
-msgid "Incorrect or missing confirmation code."
-msgstr "Код подтверждения пропущен или неправильный."
+msgid "Sorry, the anti-bot validation has failed. Please try again."
+msgstr ""
 
 msgctxt "Languages::error_curl_not_exists"
 msgid "<b>Warning!</b><br />Your server <b>does not</b> support the PHP cURL extension. <b>[method]</b> will not be operational. Please contact your hosting provider."
@@ -17187,5 +17187,13 @@ msgstr ""
 
 msgctxt "Languages::shippings.ups.package_type.2c"
 msgid "Large Express Box"
+msgstr ""
+
+msgctxt "Languages::recaptcha_upgrade_notification_title"
+msgid "Switch to Google reCAPTCHA to protect against bots"
+msgstr ""
+
+msgctxt "Languages::recaptcha_upgrade_notification_text"
+msgid "[product] now comes with the <b>Google reCAPTCHA</b> add-on to improve anti-bot validation. The add-on has been installed and activated during the upgrade, but the old CAPTCHA will still be used until you configure the add-on. We recommend switching to Google reCAPTCHA as soon as possible. To do that: <ol><li>Go to <b>Add-ons → Manage add-ons</b>.</li><li>Find and click on <b>Google reCAPTCHA</b> in the list of add-ons.</li><li>A pop-up window will open. Enter <b>Site key</b> and <b>Secret token</b>, then save your changes. The instructions on how to get the key and token are available <a href='https://developers.google.com/recaptcha/docs/start'>here</a>.</li></ol> <b>The Google reCAPTCHA add-on supports only the Responsive theme and its <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>child themes</a>.</b> Please contact the developer of your theme for more information before you switch to Google reCAPTCHA."
 msgstr ""
 
