@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ka\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-25 07:53-0500\n"
+"PO-Revision-Date: 2017-01-27 10:02-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -17094,6 +17094,22 @@ msgctxt "Languages::file_changes_detector.deleted"
 msgid "Deleted"
 msgstr ""
 
+msgctxt "Languages::licensing.license_error_license_is_disabled"
+msgid "The license is disabled. Please check your license status."
+msgstr ""
+
+msgctxt "Languages::licensing.license_error_license_is_invalid"
+msgid "Invalid license number. Please enter a valid license number."
+msgstr ""
+
+msgctxt "Languages::licensing.license_error_wrong_edition"
+msgid "The license does not match your store edition. Please enter a valid license number."
+msgstr ""
+
+msgctxt "Languages::licensing.license_error_wrong_licensing_mode"
+msgid "The license does not match your store licensing mode. Please enter a valid license number."
+msgstr ""
+
 msgctxt "Languages::upgrade_center.upgrade_process_failed"
 msgid "Upgrade process of your store has failed"
 msgstr ""
@@ -17188,6 +17204,10 @@ msgstr ""
 
 msgctxt "Languages::shippings.ups.package_type.2c"
 msgid "Large Express Box"
+msgstr ""
+
+msgctxt "Languages::wrong_number_initial_order_id"
+msgid "The value you entered for the \"Initial order ID value\" setting is not supported. Only integers from 1 to [max_initial_order_id] are supported"
 msgstr ""
 
 msgctxt "Languages::recaptcha_upgrade_notification_title"
