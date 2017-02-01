@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: core.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-27 10:05-0500\n"
+"PO-Revision-Date: 2017-01-30 09:00-0500\n"
 
 msgctxt "LanguageName"
 msgid "Localized language name"
@@ -3602,7 +3602,7 @@ msgstr "Nie jesteś upoważniony by zalogować się tutaj."
 
 msgctxt "Languages::error_confirmation_code_invalid"
 msgid "Sorry, the anti-bot validation has failed. Please try again."
-msgstr ""
+msgstr "Niestety, sprawdzania poprawności anty-bot nie powiodło się. Proszę spróbować ponownie."
 
 msgctxt "Languages::error_curl_not_exists"
 msgid "<b>Warning!</b><br />Your server <b>does not</b> support the PHP cURL extension. <b>[method]</b> will not be operational. Please contact your hosting provider."
@@ -17096,19 +17096,19 @@ msgstr "Usunięty"
 
 msgctxt "Languages::licensing.license_error_license_is_disabled"
 msgid "The license is disabled. Please check your license status."
-msgstr ""
+msgstr "Licencja jest wyłączona. Prosimy sprawdzić status licencji."
 
 msgctxt "Languages::licensing.license_error_license_is_invalid"
 msgid "Invalid license number. Please enter a valid license number."
-msgstr ""
+msgstr "Nieprawidłowy numer licencji. Proszę podać prawidłowy numer licencji."
 
 msgctxt "Languages::licensing.license_error_wrong_edition"
 msgid "The license does not match your store edition. Please enter a valid license number."
-msgstr ""
+msgstr "Licencji nie odpowiada wersji sklepu. Proszę podać prawidłowy numer licencji."
 
 msgctxt "Languages::licensing.license_error_wrong_licensing_mode"
 msgid "The license does not match your store licensing mode. Please enter a valid license number."
-msgstr ""
+msgstr "Licencji nie odpowiada trybowi pracy sklepu. Proszę podać prawidłowy numer licencji."
 
 msgctxt "Languages::upgrade_center.upgrade_process_failed"
 msgid "Upgrade process of your store has failed"
@@ -17212,7 +17212,7 @@ msgstr ""
 
 msgctxt "Languages::recaptcha_upgrade_notification_title"
 msgid "Switch to Google reCAPTCHA to protect against bots"
-msgstr ""
+msgstr "Przełącz się na Google reCAPTCHA w celu ochrony przed botami"
 
 msgctxt "Languages::recaptcha_upgrade_notification_text"
 msgid "[product] now comes with the <b>Google reCAPTCHA</b> add-on to improve anti-bot validation. The add-on has been installed and activated during the upgrade, but the old CAPTCHA will still be used until you configure the add-on. We recommend switching to Google reCAPTCHA as soon as possible. To do that: <ol><li>Go to <b>Add-ons → Manage add-ons</b>.</li><li>Find and click on <b>Google reCAPTCHA</b> in the list of add-ons.</li><li>A pop-up window will open. Enter <b>Site key</b> and <b>Secret token</b>, then save your changes. The instructions on how to get the key and token are available <a href='https://developers.google.com/recaptcha/docs/start'>here</a>.</li></ol> <b>The Google reCAPTCHA add-on supports only the Responsive theme and its <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>child themes</a>.</b> Please contact the developer of your theme for more information before you switch to Google reCAPTCHA."

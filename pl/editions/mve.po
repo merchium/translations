@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /editions/mve.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-26 09:06-0500\n"
+"PO-Revision-Date: 2017-01-30 09:00-0500\n"
 
 msgctxt "Languages::add_companies"
 msgid "Add vendors"
@@ -438,7 +438,7 @@ msgstr "Tryb <strong>Full mode</strong> został aktywowany. W tym trybie, są do
 
 msgctxt "Languages::vendor_payouts.type"
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgctxt "Languages::vendor_payouts.type.other"
 msgid "Other"
@@ -454,7 +454,7 @@ msgstr "Zamówienie zostało złożone"
 
 msgctxt "Languages::vendor_payouts.type.order_placed.description"
 msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
-msgstr ""
+msgstr "Zamówienie numer <a href=\"[order_url]\"> #[order_id]</a> zostało złożone"
 
 msgctxt "Languages::vendor_payouts.type.order_changed"
 msgid "Order changed"
@@ -462,7 +462,7 @@ msgstr "Zamówienie zostało zmienione"
 
 msgctxt "Languages::vendor_payouts.type.order_changed.description"
 msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
-msgstr ""
+msgstr "Zamówienie numer <a href=\"[order_url]\"> #[order_id]</a> zostało zmienione"
 
 msgctxt "Languages::vendor_payouts.type.order_refunded"
 msgid "Order refunded"
@@ -470,7 +470,7 @@ msgstr "Zamówienie zostało zwrócone"
 
 msgctxt "Languages::vendor_payouts.type.order_refunded.description"
 msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
-msgstr ""
+msgstr "Zamówienie numer <a href=\"[order_url]\"> #[order_id]</a> zostało zwrócone"
 
 msgctxt "Languages::vendor_payouts.type.withdrawal"
 msgid "Withdrawal"
@@ -562,15 +562,15 @@ msgstr ""
 
 msgctxt "Languages::vendor_payouts.new_payout_issued"
 msgid "New payout has been issued"
-msgstr ""
+msgstr "Nowe wypłata została wykonana"
 
 msgctxt "Languages::vendor_payouts.new_payout_issued_text"
 msgid "A new payout of [amount] has been issued by [issuer]"
-msgstr ""
+msgstr "Wykonano nową wypłatę [amount] przez [issuer]"
 
 msgctxt "Languages::vendor_payouts.view_details"
 msgid "You can view the details here"
-msgstr ""
+msgstr "Można wyświetlić szczegóły w tym miejscu"
 
 msgctxt "Languages::vendor_payouts.payout_comments"
 msgid "Payout comments"
@@ -598,11 +598,11 @@ msgstr ""
 
 msgctxt "Languages::vendor_payouts.payout_approved"
 msgid "Payout has been completed"
-msgstr ""
+msgstr "Wypłata została zakończona"
 
 msgctxt "Languages::vendor_payouts.payout_approved_text"
 msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
-msgstr ""
+msgstr "Wypłaty w [amount] wydane w [date] zostały oznaczone jako <b>ukończone</b>"
 
 msgctxt "Languages::email_template.accounting_payout_declined"
 msgid "Accounting: Payout hasn't been completed"
@@ -614,7 +614,7 @@ msgstr "Wypłata nie została zakończona"
 
 msgctxt "Languages::vendor_payouts.payout_declined_text"
 msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
-msgstr ""
+msgstr "Wypłaty w [amount] wydane w [date] zostały oznaczone jako <b>nie zakończone</b>"
 
 msgctxt "Languages::email_template.accounting_withdrawal_approved"
 msgid "Accounting: Withdrawal has been completed"
