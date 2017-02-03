@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /addons/paypal.po\n"
 "Last-Translator: cscart <translations@cs-cart.com>\n"
-"PO-Revision-Date: 2017-01-30 09:00-0500\n"
+"PO-Revision-Date: 2017-02-02 12:06-0500\n"
 
 msgctxt "Addons::name::paypal"
 msgid "PayPal payments"
@@ -158,7 +158,7 @@ msgstr "Wszystkie zamówienia z formą płatności PayPal otrzymują ten status 
 
 msgctxt "Languages::addons.paypal.status_for_new_orders.open"
 msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
-msgstr ""
+msgstr "Domyślnie dla statusu <i>otwarte</i> zmniejszany jest stan magazynowy, więc dwóch klientów nie będzie mógło kupić tego samego produktu, podczas przetwarzania płatności przez PayPal. Ale jeśli klient opuszcza serwis PayPal bez płacenia lub wraca do sklepu za pośrednictwem łącza w witrynie PayPal, będziesz miał opuszczone zamówienie ze statusem <i>otwarte</i> i zarezerwowane produkty."
 
 msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
 msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
